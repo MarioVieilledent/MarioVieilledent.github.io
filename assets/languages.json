@@ -1,0 +1,166 @@
+{
+    "rust": {
+        "logo": "devicon-rust-plain",
+        "info": {
+            "name": "Rust",
+            "paradigm": "Multi-paradigm: concurrent, functional, generic, imperative, structured",
+            "designedBy": [
+                "Graydon Hoare"
+            ],
+            "developer": "",
+            "firstAppeard": "7 july 2010",
+            "typing": "Affine, inferred, nominal, static, strong",
+            "websites": [
+                "https://www.rust-lang.org/"
+            ]
+        }
+    },
+    "go": {
+        "logo": "devicon-go-original-wordmark",
+        "info": {
+            "name": "Go",
+            "paradigm": "Multi-paradigm: concurrent imperative, object-oriented",
+            "designedBy": [
+                "Robert Griesemer",
+                "Rob Pike",
+                "Ken Thompson"
+            ],
+            "developer": "The Go Authors",
+            "firstAppeard": "10 november 2009",
+            "typing": "Inferred, static, weak, structural, nominal",
+            "websites": [
+                "https://go.dev/"
+            ]
+        }
+    },
+    "python": {
+        "logo": "devicon-python-plain",
+        "info": {
+            "name": "Python",
+            "paradigm": "Multi-paradigm: object-oriented, procedural (imperative), functional, structured, reflective",
+            "designedBy": [
+                "Guido van Rossum"
+            ],
+            "developer": "Python Software Foundation",
+            "firstAppeard": "20 February 1991",
+            "typing": "Duck, dynamic, strong typing, gradual",
+            "websites": [
+                "https://www.python.org/"
+            ]
+        }
+    },
+    "java": {
+        "logo": "devicon-java-plain",
+        "info": {
+            "name": "Java",
+            "paradigm": "Multi-paradigm: generic, object-oriented (class-based), functional, imperative, reflective, concurrent",
+            "designedBy": [
+                "James Gosling"
+            ],
+            "developer": "Sun Microsystems",
+            "firstAppeard": "23 may 1995",
+            "typing": "Static, strong, safe",
+            "websites": [
+                "https://www.oracle.com/java/",
+                "https://www.java.com"
+            ]
+        }
+    },
+    "javascript": {
+        "logo": "devicon-javascript-plain",
+        "info": {
+            "name": "Javascript",
+            "paradigm": "Multi-paradigm: event-driven, functional, imperative, procedural, object-oriented programming",
+            "designedBy": [
+                "Brendan Eich"
+            ],
+            "developer": "",
+            "firstAppeard": "4 december 1995",
+            "typing": "Dynamic, weak, duck",
+            "websites": [
+                "http://www.ecma-international.org/publications-and-standards/standards/ecma-262/"
+            ]
+        }
+    },
+    "typescript": {
+        "logo": "devicon-typescript-plain",
+        "info": {
+            "name": "Typescript",
+            "paradigm": "Multi-paradigm: functional, generic, imperative, object-oriented",
+            "designedBy": [
+                "Microsoft"
+            ],
+            "developer": "Microsoft",
+            "firstAppeard": "1 october 2012",
+            "typing": "Duck, gradual, structural",
+            "websites": [
+                "https://www.typescriptlang.org/"
+            ]
+        }
+    },
+    "php": {
+        "logo": "devicon-php-plain",
+        "info": {
+            "name": "PHP",
+            "paradigm": "Multi-paradigm: imperative, functional, object-oriented, procedural, reflective",
+            "designedBy": [
+                "Rasmus Lerdorf"
+            ],
+            "developer": "The PHP Development Team, Zend Technologies, PHP Foundation",
+            "firstAppeard": "8 june 1995",
+            "typing": " Dynamic, weak, gradual",
+            "websites": [
+                "https://www.php.net/"
+            ]
+        }
+    },
+    "c": {
+        "logo": "devicon-c-plain",
+        "info": {
+            "name": "C",
+            "paradigm": "Multi-paradigm: imperative (procedural), structured",
+            "designedBy": [
+                "Dennis Ritchie"
+            ],
+            "developer": "ANSI X3J11 (ANSI C); ISO/IEC JTC 1 (Joint Technical Committee 1) / SC 22 (Subcommittee 22) / WG 14 (Working Group 14) (ISO C)",
+            "firstAppeard": "1972",
+            "typing": "Static, weak, manifest",
+            "websites": [
+                "www.iso.org/standard/74528.html",
+                "www.open-std.org/jtc1/sc22/wg14/"
+            ]
+        }
+    },
+    "cplusplus": {
+        "logo": "devicon-cplusplus-plain",
+        "info": {
+            "name": "C++",
+            "paradigm": "Multi-paradigm: procedural, imperative, functional, object-oriented, generic, modular",
+            "designedBy": [
+                "Bjarne Stroustrup"
+            ],
+            "developer": "ISO/IEC JTC 1 (Joint Technical Committee 1) / SC 22 (Subcommittee 22) / WG 21 (Working Group 21)",
+            "firstAppeard": "1985",
+            "typing": "Static, nominative, partially inferred",
+            "websites": [
+                "https://isocpp.org/"
+            ]
+        }
+    },
+    "csharp": {
+        "logo": "devicon-csharp-plain",
+        "info": {
+            "name": "C#",
+            "paradigm": "Multi-paradigm: structured, imperative, object-oriented, event-driven, task-driven, functional, generic, reflective, concurrent",
+            "designedBy": [
+                "Anders Hejlsberg"
+            ],
+            "developer": "Mads Torgersen",
+            "firstAppeard": "2000",
+            "typing": "Static, dynamic, strong, safe, nominative, partially inferred",
+            "websites": [
+                "https://learn.microsoft.com/en-us/dotnet/csharp/"
+            ]
+        }
+    }
+}
