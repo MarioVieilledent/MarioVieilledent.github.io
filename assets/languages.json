@@ -147,7 +147,7 @@
             ]
         }
     },
-    "Cplusplus": {
+    "Cpp": {
         "logo": "devicon-cplusplus-plain",
         "info": {
             "name": "C++",
