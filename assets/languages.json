@@ -1,5 +1,5 @@
 {
-    "rust": {
+    "Rust": {
         "logo": "devicon-rust-plain",
         "info": {
             "name": "Rust",
@@ -15,7 +15,7 @@
             ]
         }
     },
-    "go": {
+    "Go": {
         "logo": "devicon-go-original-wordmark",
         "info": {
             "name": "Go",
@@ -33,7 +33,7 @@
             ]
         }
     },
-    "python": {
+    "Python": {
         "logo": "devicon-python-plain",
         "info": {
             "name": "Python",
@@ -49,7 +49,7 @@
             ]
         }
     },
-    "java": {
+    "Java": {
         "logo": "devicon-java-plain",
         "info": {
             "name": "Java",
@@ -66,7 +66,23 @@
             ]
         }
     },
-    "javascript": {
+    "Scala": {
+        "logo": "devicon-scala-plain",
+        "info": {
+            "name": "Scala",
+            "paradigm": "Multi-paradigm: concurrent, functional, imperative, object-oriented",
+            "designedBy": [
+                "Martin Odersky"
+            ],
+            "developer": "Programming Methods Laboratory of École Polytechnique Fédérale de Lausanne",
+            "firstAppeard": "20 january 2004",
+            "typing": "Inferred, static, strong, structural",
+            "websites": [
+                "www.scala-lang.org"
+            ]
+        }
+    },
+    "JavaScript": {
         "logo": "devicon-javascript-plain",
         "info": {
             "name": "Javascript",
@@ -82,7 +98,7 @@
             ]
         }
     },
-    "typescript": {
+    "TypeScript": {
         "logo": "devicon-typescript-plain",
         "info": {
             "name": "Typescript",
@@ -98,7 +114,7 @@
             ]
         }
     },
-    "php": {
+    "PHP": {
         "logo": "devicon-php-plain",
         "info": {
             "name": "PHP",
@@ -114,7 +130,7 @@
             ]
         }
     },
-    "c": {
+    "C": {
         "logo": "devicon-c-plain",
         "info": {
             "name": "C",
@@ -131,7 +147,7 @@
             ]
         }
     },
-    "cplusplus": {
+    "Cplusplus": {
         "logo": "devicon-cplusplus-plain",
         "info": {
             "name": "C++",
@@ -147,7 +163,7 @@
             ]
         }
     },
-    "csharp": {
+    "Csharp": {
         "logo": "devicon-csharp-plain",
         "info": {
             "name": "C#",
