@@ -1,0 +1,1435 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Flashcard System</title>
+    <style>
+      /* General reset */
+      body {
+        margin: 0;
+        padding: 0;
+        font-family: Arial, sans-serif;
+        background-color: #f9f9f9;
+        color: #333;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        min-height: 100vh;
+      }
+
+      /* Card container styling */
+      div {
+        background: #ffffff;
+        border-radius: 12px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        padding: 20px;
+        width: 90%;
+        max-width: 400px;
+        text-align: center;
+        transition: transform 0.2s ease, box-shadow 0.2s ease;
+      }
+
+      div:hover {
+        box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+      }
+
+      p {
+        margin: 10px 0;
+        font-size: 1.2rem;
+      }
+
+      #question {
+        font-weight: bold;
+        font-size: 1.4rem;
+        margin-bottom: 20px;
+        color: #333;
+      }
+
+      #feedback {
+        margin-top: 10px;
+        font-size: 1.25rem;
+        color: #ff4c4c;
+      }
+
+      #feedback.correct {
+        color: #4caf50;
+      }
+
+      input[type="text"] {
+        width: calc(100% - 20px);
+        padding: 10px;
+        border: 2px solid #ddd;
+        border-radius: 6px;
+        font-size: 1rem;
+        box-sizing: border-box;
+        outline: none;
+        transition: border 0.3s ease;
+      }
+
+      input[type="text"]:focus {
+        border-color: #0078d7;
+        box-shadow: 0 0 4px rgba(0, 120, 215, 0.5);
+      }
+
+      input::placeholder {
+        color: #aaa;
+      }
+
+      /* Responsive Design */
+      @media (max-width: 500px) {
+        div {
+          width: 100%;
+          padding: 15px;
+        }
+
+        h1 {
+          font-size: 1.3rem;
+        }
+
+        p {
+          font-size: 1rem;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div id="flashcard">
+      <p id="question"></p>
+      <p id="partOfSpeech"></p>
+      <input id="answer" type="text" placeholder="Type your answer" />
+      <p id="feedback"></p>
+    </div>
+
+    <script>
+      const cards = [
+        {
+          norwegian: "Grov",
+          english: "rough",
+          partOfSpeech: "adjective",
+        },
+        {
+          norwegian: "Å bekymre",
+          english: "to worry",
+          partOfSpeech: "verb",
+        },
+        {
+          norwegian: "Smal",
+          english: "narrow",
+          partOfSpeech: "adjective",
+        },
+        {
+          norwegian: "Postkasse (en)",
+          english: "mailbox",
+          partOfSpeech: "noun",
+        },
+        {
+          norwegian: "Frimerke (et)",
+          english: "stamp",
+          partOfSpeech: "noun",
+        },
+        {
+          norwegian: "Fornøyd",
+          english: "satisfied",
+          partOfSpeech: "adjective",
+        },
+        {
+          norwegian: "Bærekraft (en)",
+          english: "sustainability",
+          partOfSpeech: "noun",
+        },
+        {
+          norwegian: "Bestikk (et)",
+          english: "cutlery",
+          partOfSpeech: "noun",
+        },
+        {
+          norwegian: "Sikkert",
+          english: "sure",
+          partOfSpeech: "adjective",
+        },
+        {
+          norwegian: "Jo ... jo ...",
+          english: "the more ... the more ...",
+          partOfSpeech: "adverb",
+        },
+        {
+          norwegian: "Lyd (en)",
+          english: "sound",
+          partOfSpeech: "noun",
+        },
+        {
+          norwegian: "Å sperre",
+          english: "to block",
+          partOfSpeech: "verb",
+        },
+        {
+          norwegian: "Å skjule",
+          english: "to hide",
+          partOfSpeech: "verb",
+        },
+        {
+          norwegian: "Samtale (en)",
+          english: "conversation",
+          partOfSpeech: "noun",
+        },
+        {
+          norwegian: "Ulv (en)",
+          english: "wolf",
+          partOfSpeech: "noun",
+        },
+        {
+          norwegian: "Elv (en)",
+          english: "river",
+          partOfSpeech: "noun",
+        },
+        {
+          norwegian: "Eng (en)",
+          english: "meadow",
+          partOfSpeech: "noun",
+        },
+        {
+          norwegian: "Elg (en)",
+          english: "moose",
+          partOfSpeech: "noun",
+        },
+        {
+          norwegian: "Lakris",
+          english: "Liquorice",
+          partOfSpeech: "adjective",
+        },
+        {
+          norwegian: "Engstelig",
+          english: "anxious",
+          partOfSpeech: "adjective",
+        },
+        {
+          norwegian: "Svak",
+          english: "weak",
+          partOfSpeech: "adjective",
+        },
+        {
+          norwegian: "Dessverre",
+          english: "unfortunatly",
+          partOfSpeech: "adverb",
+        },
+        {
+          norwegian: "Skitten",
+          english: "dirty",
+          partOfSpeech: "adjective",
+        },
+        {
+          norwegian: "Ødelagt",
+          english: "broken",
+          partOfSpeech: "adjective",
+        },
+        {
+          norwegian: "Streng",
+          english: "strict",
+          partOfSpeech: "adjective",
+        },
+        {
+          norwegian: "Smerte (en)",
+          english: "pain",
+          partOfSpeech: "noun",
+        },
+        {
+          norwegian: "Smertefull(t)",
+          english: "painful",
+          partOfSpeech: "adjective",
+        },
+        {
+          norwegian: "Trofast",
+          english: "faithful",
+          partOfSpeech: "adjective",
+        },
+        {
+          norwegian: "Tavle (en)",
+          english: "black board",
+          partOfSpeech: "noun",
+        },
+        {
+          norwegian: "Tilbud (et)",
+          english: "an offer",
+          partOfSpeech: "noun",
+        },
+        {
+          norwegian: "Stemning (en)",
+          english: "mood",
+          partOfSpeech: "noun",
+        },
+        {
+          norwegian: "Utrolig",
+          english: "incredible",
+          partOfSpeech: "adjective",
+        },
+        {
+          norwegian: "Å rømme",
+          english: "to escape",
+          partOfSpeech: "verb",
+        },
+        {
+          norwegian: "Juv (et)",
+          english: "canyon",
+          partOfSpeech: "noun",
+        },
+        {
+          norwegian: "Hensikt (en)",
+          english: "purpose, intention",
+          partOfSpeech: "noun",
+        },
+        {
+          norwegian: "Knute (en)",
+          english: "knot, node",
+          partOfSpeech: "noun",
+        },
+        {
+          norwegian: "Nydelig",
+          english: "gorgeous / lovely",
+          partOfSpeech: "adjective",
+        },
+        {
+          norwegian: "Drue (en)",
+          english: "grape",
+          partOfSpeech: "noun",
+        },
+        {
+          norwegian: "Økt (en)",
+          english: "session",
+          partOfSpeech: "noun",
+        },
+        {
+          norwegian: "Å klage",
+          english: "to complain",
+          partOfSpeech: "verb",
+        },
+        {
+          norwegian: "Medlem (et)",
+          english: "member",
+          partOfSpeech: "noun",
+        },
+        {
+          norwegian: "Peis (en)",
+          english: "fireplace",
+          partOfSpeech: "noun",
+        },
+        {
+          norwegian: "Å imponere",
+          english: "to impress",
+          partOfSpeech: "verb",
+        },
+        {
+          norwegian: "Imponerende",
+          english: "impressive",
+          partOfSpeech: "adjective",
+        },
+        {
+          norwegian: "Blant",
+          english: "among",
+          partOfSpeech: "preposition",
+        },
+        {
+          norwegian: "Støvsuger (en)",
+          english: "Vacuum cleaner",
+          partOfSpeech: "noun",
+        },
+        {
+          norwegian: "Støv (et)",
+          english: "dust",
+          partOfSpeech: "noun",
+        },
+        {
+          norwegian: "Kritt (en)",
+          english: "chalk",
+          partOfSpeech: "noun",
+        },
+        {
+          norwegian: "Ridning",
+          english: "horseback riding",
+          partOfSpeech: "noun",
+        },
+        {
+          norwegian: "Dyne (en)",
+          english: "duvet",
+          partOfSpeech: "noun",
+        },
+        {
+          norwegian: "Områd (et)",
+          english: "area",
+          partOfSpeech: "noun",
+        },
+        {
+          norwegian: "Servitrise (en)",
+          english: "Waitress",
+          partOfSpeech: "noun",
+        },
+        {
+          norwegian: "Bitter",
+          english: "bitter, amer",
+          partOfSpeech: "adjective",
+        },
+        {
+          norwegian: "Stemning (en)",
+          english: "athmosphere, mood",
+          partOfSpeech: "noun",
+        },
+        {
+          norwegian: "Kropp (en)",
+          english: "body",
+          partOfSpeech: "noun",
+        },
+        {
+          norwegian: "Teip (en)",
+          english: "tape",
+          partOfSpeech: "noun",
+        },
+        {
+          norwegian: "Speil (et)",
+          english: "mirror",
+          partOfSpeech: "noun",
+        },
+        {
+          norwegian: "Desilitermål (et)",
+          english: "measuring cup",
+          partOfSpeech: "noun",
+        },
+        {
+          norwegian: "Deltaker (en)",
+          english: "participant",
+          partOfSpeech: "noun",
+        },
+        {
+          norwegian: "Heller",
+          english: "rather",
+          partOfSpeech: "adverb",
+        },
+        {
+          norwegian: "Mulighet (en)",
+          english: "opportunity",
+          partOfSpeech: "noun",
+        },
+        {
+          norwegian: "Å trykke",
+          english: "to press",
+          partOfSpeech: "verb",
+        },
+        {
+          norwegian: "Motiverende",
+          english: "motivating",
+          partOfSpeech: "adjective",
+        },
+        {
+          norwegian: "Kran (en)",
+          english: "crane",
+          partOfSpeech: "noun",
+        },
+        {
+          norwegian: "Klar",
+          english: "ready",
+          partOfSpeech: "adjective",
+        },
+        {
+          norwegian: "Klart",
+          english: "clear",
+          partOfSpeech: "adjective",
+        },
+        {
+          norwegian: "Mager",
+          english: "skinny",
+          partOfSpeech: "adjective",
+        },
+        {
+          norwegian: "Løst",
+          english: "resolved",
+          partOfSpeech: "adjective",
+        },
+        {
+          norwegian: "Uløst",
+          english: "unresolved",
+          partOfSpeech: "adjective",
+        },
+        {
+          norwegian: "Å løse",
+          english: "to solve",
+          partOfSpeech: "verb",
+        },
+        {
+          norwegian: "Skummelt",
+          english: "scary",
+          partOfSpeech: "adjective",
+        },
+        {
+          norwegian: "Sjel (en)",
+          english: "soul",
+          partOfSpeech: "noun",
+        },
+        {
+          norwegian: "Ulike",
+          english: "various",
+          partOfSpeech: "adjective",
+        },
+        {
+          norwegian: "Lim (et)",
+          english: "glue",
+          partOfSpeech: "noun",
+        },
+        {
+          norwegian: "Å påføre",
+          english: "to apply (smøre og skrive på)",
+          partOfSpeech: "verb",
+        },
+        {
+          norwegian: "Mynt (et)",
+          english: "coin",
+          partOfSpeech: "noun",
+        },
+        {
+          norwegian: "Fortsatt, fremdeles",
+          english: "still",
+          partOfSpeech: "adverb",
+        },
+        {
+          norwegian: "Egen, eget",
+          english: "own",
+          partOfSpeech: "adjective",
+        },
+        {
+          norwegian: "Istedenfor",
+          english: "instead of",
+          partOfSpeech: "adverb",
+        },
+        {
+          norwegian: "Agurk (en)",
+          english: "Cucumber",
+          partOfSpeech: "noun",
+        },
+        {
+          norwegian: "Hensikt (en)",
+          english: "purpose",
+          partOfSpeech: "noun",
+        },
+        {
+          norwegian: "Heks (en)",
+          english: "witch",
+          partOfSpeech: "noun",
+        },
+        {
+          norwegian: "Sabel (en)",
+          english: "saber, sabre",
+          partOfSpeech: "noun",
+        },
+        {
+          norwegian: "Stille",
+          english: "quiet, silent",
+          partOfSpeech: "adjective",
+        },
+        {
+          norwegian: "Bjørk (en)",
+          english: "birch, bouleau",
+          partOfSpeech: "noun",
+        },
+        {
+          norwegian: "Nydelig",
+          english: "lovely",
+          partOfSpeech: "adjective",
+        },
+        {
+          norwegian: "Forsinket",
+          english: "delayed",
+          partOfSpeech: "adjective",
+        },
+        {
+          norwegian: "Område (et)",
+          english: "area",
+          partOfSpeech: "noun",
+        },
+        {
+          norwegian: "Råd (et)",
+          english: "advice",
+          partOfSpeech: "noun",
+        },
+        {
+          norwegian: "Frykt",
+          english: "fear",
+          partOfSpeech: "adjective",
+        },
+        {
+          norwegian: "Redd",
+          english: "afraid, scared",
+          partOfSpeech: "adjective",
+        },
+        {
+          norwegian: "Å øke",
+          english: "to increase",
+          partOfSpeech: "verb",
+        },
+        {
+          norwegian: "økning (en)",
+          english: "increase",
+          partOfSpeech: "noun",
+        },
+        {
+          norwegian: "Stygg, stygt",
+          english: "ugly",
+          partOfSpeech: "adjective",
+        },
+        {
+          norwegian: "Antrekk (et)",
+          english: "outfit",
+          partOfSpeech: "noun",
+        },
+        {
+          norwegian: "En del av",
+          english: "a part of",
+          partOfSpeech: "other",
+        },
+        {
+          norwegian: "Som regel",
+          english: "usually",
+          partOfSpeech: "other",
+        },
+        {
+          norwegian: "Tilgjengelig",
+          english: "available",
+          partOfSpeech: "adjective",
+        },
+        {
+          norwegian: "Kløne",
+          english: "clumsy",
+          partOfSpeech: "adjective",
+        },
+        {
+          norwegian: "Døv",
+          english: "deaf",
+          partOfSpeech: "adjective",
+        },
+        {
+          norwegian: "Tilskuer (en)",
+          english: "spectator",
+          partOfSpeech: "noun",
+        },
+        {
+          norwegian: "Valg (et)",
+          english: "choice",
+          partOfSpeech: "noun",
+        },
+        {
+          norwegian: "Mening (en)",
+          english: "opinion / meaning",
+          partOfSpeech: "noun",
+        },
+        {
+          norwegian: "Spennende",
+          english: "exciting",
+          partOfSpeech: "adjective",
+        },
+        {
+          norwegian: "Vits (en)",
+          english: "joke",
+          partOfSpeech: "noun",
+        },
+        {
+          norwegian: "Ren",
+          english: "pure",
+          partOfSpeech: "adjective",
+        },
+        {
+          norwegian: "Renhet (en)",
+          english: "purity",
+          partOfSpeech: "noun",
+        },
+        {
+          norwegian: "Sak (en)",
+          english: "case",
+          partOfSpeech: "noun",
+        },
+        {
+          norwegian: "Travel, travelt",
+          english: "busy",
+          partOfSpeech: "adjective",
+        },
+        {
+          norwegian: "Imponerende",
+          english: "impressive",
+          partOfSpeech: "adjective",
+        },
+        {
+          norwegian: "Å tvinge",
+          english: "to force",
+          partOfSpeech: "verb",
+        },
+        {
+          norwegian: "Ulykke (en)",
+          english: "accident ",
+          partOfSpeech: "noun",
+        },
+        {
+          norwegian: "Å skrive ut",
+          english: "to print",
+          partOfSpeech: "verb",
+        },
+        {
+          norwegian: "Å suge",
+          english: "to suck",
+          partOfSpeech: "verb",
+        },
+        {
+          norwegian: "Å være heldig",
+          english: "to be lucky",
+          partOfSpeech: "expression",
+        },
+        {
+          norwegian: "For et slit",
+          english: "what a struggle",
+          partOfSpeech: "expression",
+        },
+        {
+          norwegian: "Endelig",
+          english: "finally",
+          partOfSpeech: "adverb",
+        },
+        {
+          norwegian: "Å spøke",
+          english: "to joke",
+          partOfSpeech: "verb",
+        },
+        {
+          norwegian: "Verdi (en)",
+          english: "value",
+          partOfSpeech: "noun",
+        },
+        {
+          norwegian: "Uheldig",
+          english: "unfortunate",
+          partOfSpeech: "adjective",
+        },
+        {
+          norwegian: "Egentlig",
+          english: "actually, in reallity",
+          partOfSpeech: "adjective",
+        },
+        {
+          norwegian: "Fellesskap (et)",
+          english: "community",
+          partOfSpeech: "noun",
+        },
+        {
+          norwegian: "Å oppnå noe",
+          english: "to achieve something",
+          partOfSpeech: "axpression",
+        },
+        {
+          norwegian: "Å unngå",
+          english: "to avoid",
+          partOfSpeech: "verb",
+        },
+        {
+          norwegian: "Farlig",
+          english: "dangerous",
+          partOfSpeech: "adjective",
+        },
+        {
+          norwegian: "Skjerm (en)",
+          english: "screen",
+          partOfSpeech: "noun",
+        },
+        {
+          norwegian: "Å oppleve noe",
+          english: "to experience something",
+          partOfSpeech: "expression",
+        },
+        {
+          norwegian: "Å fremme",
+          english: "to promote",
+          partOfSpeech: "verb",
+        },
+        {
+          norwegian: "Å lade opp",
+          english: "to recharge",
+          partOfSpeech: "verb",
+        },
+        {
+          norwegian: "Å låse",
+          english: "to lock",
+          partOfSpeech: "verb",
+        },
+        {
+          norwegian: "Hjul (et)",
+          english: "wheel",
+          partOfSpeech: "noun",
+        },
+        {
+          norwegian: "Videre",
+          english: "further",
+          partOfSpeech: "adjective",
+        },
+        {
+          norwegian: "Komplisert",
+          english: "complicated",
+          partOfSpeech: "adjective",
+        },
+        {
+          norwegian: "Uansett",
+          english: "regardless",
+          partOfSpeech: "adjective",
+        },
+        {
+          norwegian: "Avdeling (en)",
+          english: "department, section",
+          partOfSpeech: "noun",
+        },
+        {
+          norwegian: "Syn (et)",
+          english: "sight, ",
+          partOfSpeech: "noun",
+        },
+        {
+          norwegian: "Synlig",
+          english: "visible",
+          partOfSpeech: "adjective",
+        },
+        {
+          norwegian: "I bunn av",
+          english: "at the bottom of",
+          partOfSpeech: "expression",
+        },
+        {
+          norwegian: "Kart (et)",
+          english: "map",
+          partOfSpeech: "noun",
+        },
+        {
+          norwegian: "Valgfri, valgfritt",
+          english: "optional",
+          partOfSpeech: "adjective",
+        },
+        {
+          norwegian: "Papegøye (en)",
+          english: "parrot",
+          partOfSpeech: "noun",
+        },
+        {
+          norwegian: "Mel (et)",
+          english: "flour",
+          partOfSpeech: "noun",
+        },
+        {
+          norwegian: "Gjær (en)",
+          english: "yeast",
+          partOfSpeech: "noun",
+        },
+        {
+          norwegian: "Å tillsette",
+          english: "to add",
+          partOfSpeech: "verb",
+        },
+        {
+          norwegian: "Kyst (en)",
+          english: "coast",
+          partOfSpeech: "noun",
+        },
+        {
+          norwegian: "Å blande",
+          english: "to blend",
+          partOfSpeech: "verb",
+        },
+        {
+          norwegian: "Deig (en)",
+          english: "dough",
+          partOfSpeech: "noun",
+        },
+        {
+          norwegian: "Å hvile",
+          english: "to rest",
+          partOfSpeech: "verb",
+        },
+        {
+          norwegian: "Å utgjøre",
+          english: "to constitute",
+          partOfSpeech: "verb",
+        },
+        {
+          norwegian: "Opplevelse (en)",
+          english: "experience",
+          partOfSpeech: "noun",
+        },
+        {
+          norwegian: "Å samle",
+          english: "to collect",
+          partOfSpeech: "verb",
+        },
+        {
+          norwegian: "Sjenert",
+          english: "timid",
+          partOfSpeech: "adjective",
+        },
+        {
+          norwegian: "Skam",
+          english: "shame",
+          partOfSpeech: "adjective",
+        },
+        {
+          norwegian: "Skamløs",
+          english: "shameless",
+          partOfSpeech: "adjective",
+        },
+        {
+          norwegian: "Å skille seg",
+          english: "to divorce",
+          partOfSpeech: "verb",
+        },
+        {
+          norwegian: "Å skille",
+          english: "to separate",
+          partOfSpeech: "verb",
+        },
+        {
+          norwegian: "Skilsmisse (en)",
+          english: "divorce",
+          partOfSpeech: "noun",
+        },
+        {
+          norwegian: "Alt for noe",
+          english: "way too something",
+          partOfSpeech: "expression",
+        },
+        {
+          norwegian: "Det trengs",
+          english: "it's needed",
+          partOfSpeech: "expression",
+        },
+        {
+          norwegian: "Genser (en)",
+          english: "sweater",
+          partOfSpeech: "noun",
+        },
+        {
+          norwegian: "Å prate",
+          english: "to talk, to chat",
+          partOfSpeech: "verb",
+        },
+        {
+          norwegian: "Erklæring (en)",
+          english: "declaration",
+          partOfSpeech: "noun",
+        },
+        {
+          norwegian: "Å dekke",
+          english: "to cover",
+          partOfSpeech: "verb",
+        },
+        {
+          norwegian: "Å rekke",
+          english: "to reach",
+          partOfSpeech: "verb",
+        },
+        {
+          norwegian: "Å rekke toget",
+          english: "to catch the train",
+          partOfSpeech: "expression",
+        },
+        {
+          norwegian: "Å bli forkjølet",
+          english: "to catch the cold",
+          partOfSpeech: "expression",
+        },
+        {
+          norwegian: "Å delta",
+          english: "to participate",
+          partOfSpeech: "verb",
+        },
+        {
+          norwegian: "Å pynte",
+          english: "to decorate",
+          partOfSpeech: "verb",
+        },
+        {
+          norwegian: "Sjelden",
+          english: "tare",
+          partOfSpeech: "adjective",
+        },
+        {
+          norwegian: "Sjeldneste",
+          english: "rarest",
+          partOfSpeech: "adjective",
+        },
+        {
+          norwegian: "Å padle",
+          english: "to paddle",
+          partOfSpeech: "verb",
+        },
+        {
+          norwegian: "Å være/bli flau",
+          english: "to be embarrassed",
+          partOfSpeech: "expression",
+        },
+        {
+          norwegian: "Å bry seg",
+          english: "to bother, to worry",
+          partOfSpeech: "verb",
+        },
+        {
+          norwegian: "Ikke bry deg",
+          english: "don't bother, don't worry",
+          partOfSpeech: "expression",
+        },
+        {
+          norwegian: "Ikke bry deg om det",
+          english: "don't worry about it",
+          partOfSpeech: "expression",
+        },
+        {
+          norwegian: "Åpenbart",
+          english: "obviously",
+          partOfSpeech: "adverb",
+        },
+        {
+          norwegian: "Å slite",
+          english: "to struggle",
+          partOfSpeech: "verb",
+        },
+        {
+          norwegian: "Jævlig dårlig",
+          english: "really bad, damn bad",
+          partOfSpeech: "expression",
+        },
+        {
+          norwegian: "Å le",
+          english: "to laugh",
+          partOfSpeech: "verb",
+        },
+        {
+          norwegian: "Ekkel",
+          english: "disgusting, nasty, gross, creepy",
+          partOfSpeech: "adjective",
+        },
+        {
+          norwegian: "Skrekk (en)",
+          english: "horror",
+          partOfSpeech: "noun",
+        },
+        {
+          norwegian: "Skrekkfilm (en)",
+          english: "horror movie",
+          partOfSpeech: "noun",
+        },
+        {
+          norwegian: "Å brenne",
+          english: "to burn",
+          partOfSpeech: "verb",
+        },
+        {
+          norwegian: "Unik",
+          english: "unique",
+          partOfSpeech: "adjective",
+        },
+        {
+          norwegian: "Særlig",
+          english: "special, especially, particularly",
+          partOfSpeech: "adverb",
+        },
+        {
+          norwegian: "Verre",
+          english: "worse",
+          partOfSpeech: "adjective",
+        },
+        {
+          norwegian: "Verst",
+          english: "worst",
+          partOfSpeech: "adjective",
+        },
+        {
+          norwegian: "Likevel",
+          english: "nevertheless",
+          partOfSpeech: "adverb",
+        },
+        {
+          norwegian: "Herlig",
+          english: "delightful, lovely, wonderfull",
+          partOfSpeech: "adjective",
+        },
+        {
+          norwegian: "Å bestemme",
+          english: "to decide",
+          partOfSpeech: "verb",
+        },
+        {
+          norwegian: "Avgjørelse (en)",
+          english: "decision",
+          partOfSpeech: "noun",
+        },
+        {
+          norwegian: "Å hoppe",
+          english: "to jump",
+          partOfSpeech: "verb",
+        },
+        {
+          norwegian: "Hopp (et)",
+          english: "a jump",
+          partOfSpeech: "noun",
+        },
+        {
+          norwegian: "Fort",
+          english: "fast",
+          partOfSpeech: "adverb",
+        },
+        {
+          norwegian: "Smakløs",
+          english: "tasteless",
+          partOfSpeech: "adjective",
+        },
+        {
+          norwegian: "Fredelig",
+          english: "peaceful",
+          partOfSpeech: "adjective",
+        },
+        {
+          norwegian: "I tillegg til",
+          english: "in addition to",
+          partOfSpeech: "expression",
+        },
+        {
+          norwegian: "Å forsvinne",
+          english: "to disapear",
+          partOfSpeech: "verb",
+        },
+        {
+          norwegian: "Avslappende",
+          english: "relaxing",
+          partOfSpeech: "adjective",
+        },
+        {
+          norwegian: "Å smelte",
+          english: "to melt",
+          partOfSpeech: "verb",
+        },
+        {
+          norwegian: "Selv om",
+          english: "even if",
+          partOfSpeech: "expression",
+        },
+        {
+          norwegian: "I det hele tatt",
+          english: "at all",
+          partOfSpeech: "expression",
+        },
+        {
+          norwegian: "Å fortsette",
+          english: "to continue",
+          partOfSpeech: "verb",
+        },
+        {
+          norwegian: "Hylle (en)",
+          english: "shelf",
+          partOfSpeech: "noun",
+        },
+        {
+          norwegian: "Ansatt (en)",
+          english: "employee",
+          partOfSpeech: "noun",
+        },
+        {
+          norwegian: "Å skjære",
+          english: "to cut (with a knife)",
+          partOfSpeech: "verb",
+        },
+        {
+          norwegian: "Å klippe",
+          english: "to cut (with scissors)",
+          partOfSpeech: "verb",
+        },
+        {
+          norwegian: "Å kutte",
+          english: "to cut",
+          partOfSpeech: "verb",
+        },
+        {
+          norwegian: "Terning (en)",
+          english: "dice",
+          partOfSpeech: "noun",
+        },
+        {
+          norwegian: "Å befinne",
+          english: "to be found, to be located",
+          partOfSpeech: "verb",
+        },
+        {
+          norwegian: "Kalkun (en)",
+          english: "turkey",
+          partOfSpeech: "noun",
+        },
+        {
+          norwegian: "Opplysning (en)",
+          english: "enlightenment, information, diclosure",
+          partOfSpeech: "noun",
+        },
+        {
+          norwegian: "Å bekrefte",
+          english: "to confirm",
+          partOfSpeech: "verb",
+        },
+        {
+          norwegian: "Visning (en)",
+          english: "display",
+          partOfSpeech: "noun",
+        },
+        {
+          norwegian: "Å fornye",
+          english: "to renew",
+          partOfSpeech: "verb",
+        },
+        {
+          norwegian: "Det er lik",
+          english: "it's equal/similar",
+          partOfSpeech: "expression",
+        },
+        {
+          norwegian: "Høflig",
+          english: "polite",
+          partOfSpeech: "adjective",
+        },
+        {
+          norwegian: "Å lukte",
+          english: "to smell",
+          partOfSpeech: "verb",
+        },
+        {
+          norwegian: "Å utforske",
+          english: "to explore",
+          partOfSpeech: "verb",
+        },
+        {
+          norwegian: "Stamkunde (en)",
+          english: "regular customer",
+          partOfSpeech: "noun",
+        },
+        {
+          norwegian: "Å beholde",
+          english: "to keep",
+          partOfSpeech: "verb",
+        },
+        {
+          norwegian: "Samtykke (en)",
+          english: "consent",
+          partOfSpeech: "noun",
+        },
+        {
+          norwegian: "Å lukke",
+          english: "to close, to shut",
+          partOfSpeech: "verb",
+        },
+        {
+          norwegian: "Flytur (en)",
+          english: "flight",
+          partOfSpeech: "noun",
+        },
+        {
+          norwegian: "Bille (en)",
+          english: "Beetle",
+          partOfSpeech: "noun",
+        },
+        {
+          norwegian: "Forsøk (et)",
+          english: "attempt, try",
+          partOfSpeech: "noun",
+        },
+        {
+          norwegian: "Består av n deler",
+          english: "to consists of n parts",
+          partOfSpeech: "expression",
+        },
+        {
+          norwegian: "Å skru",
+          english: "to screw",
+          partOfSpeech: "verb",
+        },
+        {
+          norwegian: "Å skru av",
+          english: "to unscrew",
+          partOfSpeech: "verb",
+        },
+        {
+          norwegian: "Skrue (en)",
+          english: "screw",
+          partOfSpeech: "noun",
+        },
+        {
+          norwegian: "Skudd",
+          english: "screwed",
+          partOfSpeech: "adjective",
+        },
+        {
+          norwegian: "Skrudd av",
+          english: "unscrewed",
+          partOfSpeech: "adjective",
+        },
+        {
+          norwegian: "Skrutrekker (en)",
+          english: "screwdriver",
+          partOfSpeech: "noun",
+        },
+        {
+          norwegian: "Fryktelig",
+          english: "horrible, terrible, awful",
+          partOfSpeech: "adjective",
+        },
+        {
+          norwegian: "Saks (en)",
+          english: "scissors; a pair of scissors",
+          partOfSpeech: "noun",
+        },
+        {
+          norwegian: "Lastebil (en)",
+          english: "truck",
+          partOfSpeech: "noun",
+        },
+        {
+          norwegian: "Å oppdage",
+          english: "to discover",
+          partOfSpeech: "verb",
+        },
+        {
+          norwegian: "Nysgjerrig",
+          english: "curious",
+          partOfSpeech: "adjective",
+        },
+        {
+          norwegian: "Å være nysgjerrig på noe",
+          english: "to be curious about",
+          partOfSpeech: "expression",
+        },
+        {
+          norwegian: "Nysgjerrighet (en)",
+          english: "curiosity",
+          partOfSpeech: "noun",
+        },
+        {
+          norwegian: "Det er vondt",
+          english: "it's painful",
+          partOfSpeech: "expression",
+        },
+        {
+          norwegian: "Ifølge",
+          english: "according to",
+          partOfSpeech: "expression",
+        },
+        {
+          norwegian: "Det fører til",
+          english: "it leads to",
+          partOfSpeech: "expression",
+        },
+        {
+          norwegian: "Tåke (en)",
+          english: "fog",
+          partOfSpeech: "noun",
+        },
+      ];
+
+      const statsKey = "flashcardStats";
+
+      // Load stats from localStorage or initialize
+      const stats = JSON.parse(localStorage.getItem(statsKey)) || {};
+
+      // Function to normalize strings (remove spaces, accents, lowercase)
+      function normalize(str) {
+        return str.trim().toLowerCase();
+      }
+
+      // Function to update stats
+      function updateStats(key, isSuccess) {
+        if (!stats[key]) {
+          stats[key] = { success: 0, fail: 0 };
+        }
+        stats[key][isSuccess ? "success" : "fail"]++;
+        localStorage.setItem(statsKey, JSON.stringify(stats));
+      }
+
+      // Function to pick and display a random card
+      function showCard() {
+        const randomCard = cards[Math.floor(Math.random() * cards.length)];
+        const showEnglish = Math.random() < 0.5;
+
+        const questionField = document.getElementById("question");
+        const answerInput = document.getElementById("answer");
+        const feedback = document.getElementById("feedback");
+
+        // Set question
+        const questionText = showEnglish
+          ? randomCard.english
+          : randomCard.norwegian;
+        const answerKey = showEnglish
+          ? randomCard.norwegian
+          : randomCard.english;
+        questionField.textContent = showEnglish
+          ? `Translate: ${questionText}`
+          : `Oversett: ${questionText}`;
+        feedback.textContent = "";
+        answerInput.value = "";
+        answerInput.focus();
+
+        switch (randomCard.partOfSpeech) {
+          case "verb":
+            partOfSpeech.textContent = "Verb";
+            break;
+          case "adjective":
+            partOfSpeech.textContent = "Adjective";
+            break;
+          case "noun":
+            partOfSpeech.textContent = "Noun";
+            break;
+          case "adverb":
+            partOfSpeech.textContent = "Adverb";
+            break;
+          case "pronoun":
+            partOfSpeech.textContent = "Pronoun";
+            break;
+          case "preposition":
+            partOfSpeech.textContent = "Preposition";
+            break;
+          case "conjunction":
+            partOfSpeech.textContent = "Conjunction";
+            break;
+          case "interjection":
+            partOfSpeech.textContent = "Interjection";
+            break;
+          case "expression":
+            partOfSpeech.textContent = "Expression";
+            break;
+          default:
+            partOfSpeech.textContent = "Other";
+        }
+
+        // Handle input validation
+        function checkAnswer(event) {
+          if (event.key === "Enter") {
+            const userAnswer = normalize(answerInput.value);
+            const correctAnswer = normalize(answerKey);
+
+            if (
+              userAnswer.length > 1 &&
+              (userAnswer.includes(correctAnswer) ||
+                correctAnswer.includes(userAnswer))
+            ) {
+              feedback.style.color = "#2a2";
+              feedback.textContent = `Correct! ${randomCard.norwegian} = ${randomCard.english}`;
+              updateStats(questionText, true);
+            } else {
+              feedback.style.color = "#a22";
+              feedback.textContent = `Wrong! The correct answer was: ${answerKey}`;
+              updateStats(questionText, false);
+            }
+
+            // Remove event listener and show new card
+            answerInput.removeEventListener("keydown", checkAnswer);
+            setTimeout(showCard, 2000); // Wait before showing the next card
+          }
+        }
+
+        answerInput.addEventListener("keydown", checkAnswer);
+      }
+
+      // Initialize the first card
+      showCard();
+    </script>
+  </body>
+</html>
