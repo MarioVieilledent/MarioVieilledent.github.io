@@ -6,6 +6,7 @@ import FullScreen from "ol/control/FullScreen.js";
 import { defaults as defaultControls } from "ol/control/defaults.js";
 
 import { useEffect, useRef } from "react";
+import { fromLonLat } from "ol/proj";
 
 const sources = {
   OpenStreetMap: "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
@@ -40,8 +41,8 @@ const OLMap = () => {
           }),
         ],
         view: new View({
-          center: [10.4 * 150000, 63.4 * 150000],
-          zoom: 10,
+          center: fromLonLat([5, 55]),
+          zoom: 4,
         }),
       });
     }
