@@ -7,5 +7,6 @@ export default defineConfig({
   base: "/",
   server: {
     port: 3664,
+    host: true,
   },
 });

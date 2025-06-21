@@ -1,4 +1,5 @@
 import { useCallback, useState } from "react";
+import { terms } from "../terms";
 
 type LanguagesAvailable = "en" | "nb" | "fr";
 
@@ -24,11 +25,7 @@ export const languages: {
   },
 ];
 
-const terms = {
-  title: ["The duck's corner", "Andehjørnet", "Le coin du canard"],
-};
-
-type termKeys = keyof typeof terms;
+export type termKeys = keyof typeof terms;
 
 export const useTranslation = () => {
   const [languageIndex, setLanguageIndex] = useState(0);
