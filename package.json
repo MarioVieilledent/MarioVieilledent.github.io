@@ -8,10 +8,13 @@
     "dev": "vite",
     "build": "tsc -b && vite build",
     "lint": "eslint .",
+    "precommit": "npm run lint && npm run build",
     "preview": "vite preview",
-    "deploy": "gh-pages -d dist"
+    "publish": "gh-pages -d dist"
   },
   "dependencies": {
+    "@garmin/fitsdk": "^21.171.0",
+    "@phosphor-icons/react": "^2.1.10",
     "@tailwindcss/vite": "^4.1.10",
     "ol": "^10.6.1",
     "react": "^19.0.0-rc.1",

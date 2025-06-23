@@ -1,5 +1,5 @@
 import Section from "../components/Section";
-import { useTranslation } from "../components/translations";
+import { useTranslation } from "../utils/TranslationContext";
 
 const NoMatchPage = () => {
   const { t } = useTranslation();

@@ -1,17 +1,19 @@
-import type { ReactNode } from "react";
-import { languages, useTranslation } from "./components/translations";
+import { type ReactNode } from "react";
 import duckLogo from "/favicon.png";
 import Button from "./components/Button";
 import Section from "./components/Section";
-import { pages } from "./App";
+import { useTranslation, type TermKeys } from "./utils/TranslationContext";
+import LanguageSelection from "./components/LanguageSelection";
 
 interface OutletProps {
+  pages: { name: TermKeys; component: ReactNode }[];
   children: ReactNode;
   setRoute: React.Dispatch<React.SetStateAction<string>>;
 }
 
-const Outlet = ({ children, setRoute }: OutletProps) => {
-  const { t, setLanguage } = useTranslation();
+const Outlet = ({ pages, children, setRoute }: OutletProps) => {
+  const { t } = useTranslation();
+
   return (
     <div className="w-full h-full">
       <Section style="bg-sky-300">
@@ -27,13 +29,9 @@ const Outlet = ({ children, setRoute }: OutletProps) => {
               </Button>
             ))}
           </div>
-          <select name="languages">
-            {languages.map((lang) => (
-              <option value={lang.code} onClick={() => setLanguage(lang.code)}>
-                {lang.name}
-              </option>
-            ))}
-          </select>
+          <div className="flex items-center gap-4">
+            <LanguageSelection />
+          </div>
         </div>
       </Section>
       <Section>{children}</Section>

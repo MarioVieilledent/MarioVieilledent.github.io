@@ -1,8 +1,19 @@
-import { useTranslation } from "../components/translations";
+import { useState } from "react";
+import DragAndDrop from "../components/DragAndDrop";
 
 const Home = () => {
-  const { t } = useTranslation();
+  const [fitFile, setFitFile] = useState<any>(null);
 
-  return <>{t("title")}</>;
+  return (
+    <div className="flex-col">
+      <DragAndDrop setFitFile={setFitFile} />
+      {fitFile === null ? (
+        <span>Drag & drop a fit file to see more</span>
+      ) : (
+        <pre>{JSON.stringify(fitFile, null, 4)}</pre>
+      )}
+    </div>
+  );
 };
+
 export default Home;
