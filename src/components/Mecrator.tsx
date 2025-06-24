@@ -6,19 +6,19 @@ import XYZ from "ol/source/XYZ";
 import { forwardRef, useEffect, useImperativeHandle, useRef } from "react";
 import { fromLonLat } from "ol/proj";
 import {
-  layers,
+  knownTileSources,
   LOCAL_STORAGE_CENTER_KEY,
   LOCAL_STORAGE_LAYER_KEY,
   LOCAL_STORAGE_RESOLUTION_KEY,
 } from "../utils/constants";
-import { type LayerKey, type MapType } from "./MapLayer";
+import { type MapType } from "./MapLayer";
 
 const DEFAULT_CENTER = [5, 55];
 const DEFAULT_ZOOM = 4;
 
 interface MercatorProps {
   setRotation: React.Dispatch<React.SetStateAction<number>>;
-  layer: LayerKey;
+  layer: string;
   mapType: MapType;
 }
 
@@ -70,7 +70,7 @@ const Mercator = forwardRef<{ triggerReset: () => void }, MercatorProps>(
             layers: [
               new TileLayer({
                 source: new XYZ({
-                  url: layers[layer],
+                  url: knownTileSources.find((ly) => ly.name == layer)?.url,
                 }),
               }),
             ],
@@ -80,7 +80,7 @@ const Mercator = forwardRef<{ triggerReset: () => void }, MercatorProps>(
           map.current.setLayers([
             new TileLayer({
               source: new XYZ({
-                url: layers[layer],
+                url: knownTileSources.find((ly) => ly.name == layer)?.url,
               }),
             }),
           ]);

@@ -1,19 +1,17 @@
 import { useCallback, useRef, useState } from "react";
 import LayerMenu from "./LayerMenu";
-import { layers, LOCAL_STORAGE_LAYER_KEY } from "../utils/constants";
+import { LOCAL_STORAGE_LAYER_KEY } from "../utils/constants";
 import ResetRotationButton from "./ResetRotationButton";
 import Globe from "../pages/Globe";
 import Mercator from "./Mecrator";
 
 const DEFAULT_LAYER = "OSM";
 
-export type LayerKey = keyof typeof layers;
 export type MapType = "mercator" | "globe";
 
 const MapLayer = () => {
-  const [layer, setLayer] = useState<LayerKey>(
-    (window.localStorage.getItem(LOCAL_STORAGE_LAYER_KEY) as LayerKey) ??
-      DEFAULT_LAYER
+  const [layer, setLayer] = useState<string>(
+    window.localStorage.getItem(LOCAL_STORAGE_LAYER_KEY) ?? DEFAULT_LAYER
   );
   const [rotation, setRotation] = useState(0);
   const [mapType, setMapType] = useState<MapType>("mercator");

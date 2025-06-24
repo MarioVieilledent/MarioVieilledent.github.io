@@ -1,11 +1,11 @@
 import { useState } from "react";
 import { LuLayers2 } from "react-icons/lu";
-import type { LayerKey, MapType } from "./MapLayer";
-import { layers } from "../utils/constants";
+import type { MapType } from "./MapLayer";
+import { knownTileSources } from "../utils/constants";
 
 interface LayerMenuProps {
-  layer: LayerKey;
-  setLayer: React.Dispatch<React.SetStateAction<LayerKey>>;
+  layer: string;
+  setLayer: React.Dispatch<React.SetStateAction<string>>;
   mapType: MapType;
   setMapType: React.Dispatch<React.SetStateAction<MapType>>;
 }
@@ -36,22 +36,22 @@ const LayerMenu = ({
 
       {open && (
         <div className="fixed top-20 right-4 z-40 w-64 rounded-3xl bg-white flex flex-col gap-4 shadow-xl p-4 transition-all max-h-[calc(100vh-8rem)] overflow-auto ">
-          {Object.entries(layers).map(([name, url]) => (
+          {knownTileSources.map((l) => (
             <div
-              key={name}
+              key={l.name}
               className={`flex items-center gap-4 cursor-pointer ${
-                name === layer ? "underline" : ""
+                l.name === layer ? "underline" : ""
               }`}
               onClick={() => {
-                setLayer(name as LayerKey);
+                setLayer(l.name);
               }}
             >
               <img
                 className="w-16 h-16"
-                src={makePreviewUrl(url)}
-                alt={`Map preview (${name})`}
+                src={makePreviewUrl(l.url)}
+                alt={`Map preview (${l.name})`}
               />
-              <span>{name}</span>
+              <span>{l.name}</span>
             </div>
           ))}
           <div
