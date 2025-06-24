@@ -3,7 +3,6 @@ import {
   useTranslation,
   type LanguagesAvailable,
 } from "../utils/TranslationContext";
-import Button from "./Button";
 import { languages } from "../utils/constants";
 import { TranslateIcon } from "@phosphor-icons/react";
 
@@ -14,14 +13,14 @@ const LanguageSelection = () => {
   const [selected, setSelected] = useState(language);
 
   return (
-    <div>
-      <Button
+    <div className="flex items-center justify-center">
+      <button
         onClick={() => setOpen(!open)}
         aria-haspopup="listbox"
         aria-expanded={open}
       >
-        <TranslateIcon size="16" />
-      </Button>
+        <TranslateIcon size="24" />
+      </button>
 
       {open && (
         <ul
