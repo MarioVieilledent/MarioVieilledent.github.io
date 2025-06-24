@@ -40,8 +40,10 @@ export const layers = {
     "  https://{a-c}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png",
   ArcGIS:
     "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}",
+  Utagawavtt: "https://maps.utagawavtt.com/styles/utagawavtt/{z}/{x}/{y}.png",
+  TopPlus:
+    "https://sgx.geodatenzentrum.de/wmts_topplus_open/tile/1.0.0/web/default/WEBMERCATOR/{z}/{y}/{x}.png",
+  Thunderforest: "https://tile.thunderforest.com/landscape/{z}/{x}/{y}.png",
   WandereitkartTopo: "https://topo.wanderreitkarte.de/topo/{z}/{x}/{y}.png",
   WandereitkartTradi: "https://tradi2.wanderreitkarte.de/tradi/{z}/{x}/{y}.png",
-  Utagawavtt: "https://maps.utagawavtt.com/styles/utagawavtt/{z}/{x}/{y}.png",
-  Thunderforest: "https://tile.thunderforest.com/landscape/{z}/{x}/{y}.png",
 };

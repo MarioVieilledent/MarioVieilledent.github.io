@@ -26,29 +26,35 @@ const Menu = ({ pages, route, setRoute }: MenuProps) => {
 
       {open && (
         <div className="fixed top-20 left-4 z-40 w-[calc(100%-2rem)] max-w-128 rounded-3xl bg-white flex flex-col gap-4 shadow-xl p-4 transition-all">
-          <div className="flex justify-between gap-4">
-            <div className="flex items-center gap-4">
-              <img className="w-8 h-8" src={duckLogo} alt="Duck logo" />
-              <h1>{t("title")}</h1>
-            </div>
-            <LanguageSelection />
-          </div>
+          {false ? (
+            <>
+              <div className="flex justify-between gap-4">
+                <div className="flex items-center gap-4">
+                  <img className="w-8 h-8" src={duckLogo} alt="Duck logo" />
+                  <h1>{t("title")}</h1>
+                </div>
+                <LanguageSelection />
+              </div>
 
-          <div className="flex flex-col items-start gap-4">
-            {pages.map((page) => (
-              <button
-                className={`px-2 ${
-                  route === page.name
-                    ? `border-l-4 border-black`
-                    : `border-l-4 border-transparent`
-                }`}
-                key={page.name}
-                onClick={() => setRoute(page.name)}
-              >
-                {t(page.name)}
-              </button>
-            ))}
-          </div>
+              <div className="flex flex-col items-start gap-4">
+                {pages.map((page) => (
+                  <button
+                    className={`px-2 ${
+                      route === page.name
+                        ? `border-l-4 border-black`
+                        : `border-l-4 border-transparent`
+                    }`}
+                    key={page.name}
+                    onClick={() => setRoute(page.name)}
+                  >
+                    {t(page.name)}
+                  </button>
+                ))}
+              </div>
+            </>
+          ) : (
+            <>Nothing here</>
+          )}
         </div>
       )}
     </>
