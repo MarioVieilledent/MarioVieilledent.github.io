@@ -96,27 +96,22 @@ const Globe = () => {
     controls.panSpeed = 0.1 + 1.5 * t ** 2;
   };
 
-  //  Handle resize based on canvas' parent element
   useEffect(() => {
-    if (!canvas.current || !canvas.current.parentElement) return;
-    const resize = () => {
-      const parent = canvas.current?.parentElement;
-      if (parent) {
-        renderer.current?.setSize(
-          parent.clientWidth,
-          parent.clientHeight,
-          false
-        );
-        if (camera.current) {
-          camera.current.aspect = parent.clientWidth / parent.clientHeight;
-          camera.current.updateProjectionMatrix();
-        }
+    if (!renderer.current || !camera.current) return;
+
+    renderer.current.setSize(window.innerWidth, window.innerHeight);
+    renderer.current.setPixelRatio(window.devicePixelRatio);
+
+    const onResize = () => {
+      if (renderer.current && camera.current) {
+        renderer.current.setSize(window.innerWidth, window.innerHeight);
+        camera.current.aspect = window.innerWidth / window.innerHeight;
+        camera.current.updateProjectionMatrix();
       }
     };
-    const observer = new ResizeObserver(resize);
-    observer.observe(canvas.current.parentElement);
-    resize();
-    return () => observer.disconnect();
+
+    window.addEventListener("resize", onResize);
+    return () => window.removeEventListener("resize", onResize);
   }, []);
 
   const animate = () => {
@@ -160,11 +155,7 @@ const Globe = () => {
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [camera.current?.position]);
 
-  return (
-    <div className="w-full h-[100dvh]">
-      <canvas ref={canvas}></canvas>
-    </div>
-  );
+  return <canvas ref={canvas}></canvas>;
 };
 
 export default Globe;
