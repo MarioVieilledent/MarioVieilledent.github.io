@@ -1,5 +1,5 @@
 import { useEffect, useState, type ReactNode } from "react";
-import { LOCAL_STORAGE_LANGUAGE_KEY } from "../types/constants";
+import { LOCAL_STORAGE_LANGUAGE_KEY } from "../utils/constants";
 import {
   TranslationContext,
   type LanguagesAvailable,

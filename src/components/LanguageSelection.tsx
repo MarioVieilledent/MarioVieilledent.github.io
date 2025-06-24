@@ -4,7 +4,7 @@ import {
   type LanguagesAvailable,
 } from "../utils/TranslationContext";
 import Button from "./Button";
-import { languages } from "../types/constants";
+import { languages } from "../utils/constants";
 import { TranslateIcon } from "@phosphor-icons/react";
 
 const LanguageSelection = () => {

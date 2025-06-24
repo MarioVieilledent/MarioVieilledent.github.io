@@ -1,6 +1,6 @@
 import { createContext, useContext } from "react";
-import { translations } from "../translations";
-import { languages } from "../types/constants";
+import { translations } from "./translations";
+import { languages } from "./constants";
 
 export type LanguagesAvailable = "en" | "nb" | "fr";
 

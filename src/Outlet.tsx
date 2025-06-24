@@ -15,7 +15,7 @@ const Outlet = ({ pages, children, setRoute }: OutletProps) => {
   const { t } = useTranslation();
 
   return (
-    <div className="w-full h-full">
+    <div className="flex flex-col w-full h-full">
       <Section style="bg-sky-300">
         <div className="flex justify-between gap-4">
           <div className="flex items-center gap-4">
@@ -34,7 +34,7 @@ const Outlet = ({ pages, children, setRoute }: OutletProps) => {
           </div>
         </div>
       </Section>
-      <Section>{children}</Section>
+      <div className="flex w-full grow overflow-y-auto ">{children}</div>
     </div>
   );
 };

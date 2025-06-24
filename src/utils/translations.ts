@@ -3,7 +3,7 @@ export const translations = {
   home: ["Home", "Hjem", "Menu"],
   map: ["Map", "Kart", "Carte"],
   norwegian: ["Norwegian", "Norsk", "Norvégien"],
-  flags: ["Flags", "Flager", "Drapeaux"],
+  globe: ["Globe", "Klode", "Globe"],
   noMatch: ["404 error", "404 Feil", "Erreur 404"],
   language: ["Language", "Språk", "Langue"],
   dragAndDropFilesHere: [

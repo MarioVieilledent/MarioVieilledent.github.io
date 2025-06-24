@@ -16,10 +16,12 @@
     "@garmin/fitsdk": "^21.171.0",
     "@phosphor-icons/react": "^2.1.10",
     "@tailwindcss/vite": "^4.1.10",
+    "@types/three": "^0.177.0",
     "ol": "^10.6.1",
     "react": "^19.0.0-rc.1",
     "react-dom": "^19.1.0",
-    "tailwindcss": "^4.1.10"
+    "tailwindcss": "^4.1.10",
+    "three": "^0.177.0"
   },
   "devDependencies": {
     "@eslint/js": "^9.25.0",

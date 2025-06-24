@@ -1,4 +1,4 @@
-import type { LanguagesAvailable } from "../utils/TranslationContext";
+import type { LanguagesAvailable } from "./TranslationContext";
 
 export const LOCAL_STORAGE_LANGUAGE_KEY = "language";
 
