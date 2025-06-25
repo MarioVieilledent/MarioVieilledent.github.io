@@ -4,10 +4,10 @@ import {
   type LanguagesAvailable,
 } from "../utils/TranslationContext";
 import { languages } from "../utils/constants";
-import { TranslateIcon } from "@phosphor-icons/react";
+import { LuLanguages } from "react-icons/lu";
 
 const LanguageSelection = () => {
-  const { language, setLanguage } = useTranslation();
+  const { t, language, setLanguage } = useTranslation();
 
   const [open, setOpen] = useState(false);
   const [selected, setSelected] = useState(language);
@@ -15,11 +15,13 @@ const LanguageSelection = () => {
   return (
     <div>
       <button
+        className="flex items-center gap-4"
         onClick={() => setOpen(!open)}
         aria-haspopup="listbox"
         aria-expanded={open}
       >
-        <TranslateIcon size="24" />
+        <LuLanguages size="24" />
+        <span>{t("language")}</span>
       </button>
 
       {open && (

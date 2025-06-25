@@ -116,6 +116,19 @@ const LayerMenu = ({
           )}
         </div>
         <div className="flex flex-col gap-1">
+          <h3>{t("topographic")}</h3>
+          {sources
+            .filter((l) => l.type === "overlay-topographic")
+            .map((l) => (
+              <LayerButton
+                key={l.name}
+                l={l}
+                layers={layers}
+                setLayers={setLayers}
+              />
+            ))}
+        </div>
+        <div className="flex flex-col gap-1">
           <h3>{t("sport")}</h3>
           {sources
             .filter((l) => l.type === "overlay-sport")

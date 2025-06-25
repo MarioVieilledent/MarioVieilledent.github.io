@@ -100,6 +100,12 @@ export const sources: Source[] = [
       "OSM-based French outdoor map for hiking and mountain biking. Emphasizes trails, terrain and points of interest.",
   },
   {
+    name: "Utagawa Terrain",
+    url: "https://maps.utagawavtt.com/styles/terrain-rgb/{z}/{x}/{y}.png",
+    type: "overlay-topographic",
+    description: "",
+  },
+  {
     name: "Thunderforest Landscape",
     url: "https://tile.thunderforest.com/landscape/{z}/{x}/{y}.png",
     type: "general",

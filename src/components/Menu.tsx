@@ -1,7 +1,7 @@
 import duckLogo from "/favicon.png";
 import LanguageSelection from "./LanguageSelection";
 import { useTranslation } from "../utils/TranslationContext";
-import { LuMenu } from "react-icons/lu";
+import { LuGithub, LuMenu } from "react-icons/lu";
 import Float from "./Float";
 
 const Menu = () => {
@@ -19,6 +19,14 @@ const Menu = () => {
       </div>
       <span>{t("websiteDescription")}</span>
       <LanguageSelection />
+      <a
+        className="flex items-center gap-4"
+        href="https://github.com/MarioVieilledent/MarioVieilledent.github.io"
+        target="_blank"
+      >
+        <LuGithub size="24" />
+        GitHub
+      </a>
     </Float>
   );
 };

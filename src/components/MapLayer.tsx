@@ -3,7 +3,7 @@ import LayerMenu from "./LayerMenu";
 import { sources, LOCAL_STORAGE_LAYERS_KEY } from "../utils/constants";
 import ResetRotationButton from "./ResetRotationButton";
 import Globe from "../pages/Globe";
-import Mercator from "./Mecrator";
+import Mercator from "./Mercator";
 
 const DEFAULT_LAYERS = [sources[0].name];
 

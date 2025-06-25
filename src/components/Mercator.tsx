@@ -74,11 +74,12 @@ const Mercator = forwardRef<{ triggerReset: () => void }, MercatorProps>(
           .map((source) => source.url);
 
         const tileLayers = [baseMapURL, ...overlaysURLs].map(
-          (url) =>
+          (url, index) =>
             new TileLayer({
               source: new XYZ({
                 url,
               }),
+              zIndex: index,
             })
         );
 
