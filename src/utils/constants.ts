@@ -2,7 +2,7 @@ import type { LanguagesAvailable } from "./TranslationContext";
 
 export const LOCAL_STORAGE_ROUTE_KEY = "route";
 export const LOCAL_STORAGE_LANGUAGE_KEY = "language";
-export const LOCAL_STORAGE_LAYER_KEY = "layer";
+export const LOCAL_STORAGE_LAYERS_KEY = "layer";
 export const LOCAL_STORAGE_CENTER_KEY = "center";
 export const LOCAL_STORAGE_RESOLUTION_KEY = "resolution";
 
@@ -132,24 +132,6 @@ export const sources: Source[] = [
     description: "",
   },
   {
-    name: "ArcGIS Hillshade",
-    url: "https://basemaps.arcgis.com/arcgis/rest/services/World_Hillshade_v2/VectorTileServer/tile/{z}/{y}/{x}.pbf",
-    type: "vector",
-    description: "",
-  },
-  {
-    name: "ArcGIS OpenStreetMap",
-    url: "https://basemaps.arcgis.com/arcgis/rest/services/OpenStreetMap_v2/VectorTileServer/tile/{z}/{y}/{x}.pbf",
-    type: "vector",
-    description: "",
-  },
-  {
-    name: "ArcGIS World Basemap",
-    url: "https://basemaps.arcgis.com/arcgis/rest/services/World_Basemap_v2/VectorTileServer/tile/{z}/{y}/{x}.pbf",
-    type: "vector",
-    description: "",
-  },
-  {
     name: "LuminoCity WorldPop 2020",
     url: "https://luminocity3d.org/WorldPopDen/tiles2020/{z}/{x}/{y}.png",
     type: "custom",
@@ -247,10 +229,9 @@ export const sources: Source[] = [
     description: "Transparent overlay showing track gauge.",
   },
   {
-    name: "Windy Weather Radar",
+    name: "Windy Shadow",
     url: "https://tiles-s.windy.com/tiles/v10.0/darkmap/{z}/{x}/{y}.png",
     type: "overlay",
-    description:
-      "Weather radar data including precipitation. Real-time and transparent.",
+    description: "Shadow borders and coasts overlay",
   },
 ];

@@ -8,25 +8,22 @@ import { fromLonLat } from "ol/proj";
 import {
   sources,
   LOCAL_STORAGE_CENTER_KEY,
-  LOCAL_STORAGE_LAYER_KEY,
+  LOCAL_STORAGE_LAYERS_KEY,
   LOCAL_STORAGE_RESOLUTION_KEY,
 } from "../utils/constants";
 import { type MapType } from "./MapLayer";
-import MVT from "ol/format/MVT.js";
-import VectorTileLayer from "ol/layer/VectorTile.js";
-import VectorTileSource from "ol/source/VectorTile.js";
 
 const DEFAULT_CENTER = [5, 55];
 const DEFAULT_ZOOM = 4;
 
 interface MercatorProps {
   setRotation: React.Dispatch<React.SetStateAction<number>>;
-  layer: string;
+  layers: string[];
   mapType: MapType;
 }
 
 const Mercator = forwardRef<{ triggerReset: () => void }, MercatorProps>(
-  ({ setRotation, layer, mapType }, ref) => {
+  ({ setRotation, layers, mapType }, ref) => {
     useImperativeHandle(ref, () => ({
       triggerReset() {
         view.current.setRotation(0);
@@ -63,57 +60,40 @@ const Mercator = forwardRef<{ triggerReset: () => void }, MercatorProps>(
     }, [setRotation]);
 
     useEffect(() => {
-      window.localStorage.setItem(LOCAL_STORAGE_LAYER_KEY, layer);
+      window.localStorage.setItem(
+        LOCAL_STORAGE_LAYERS_KEY,
+        JSON.stringify(layers)
+      );
 
       if (container.current && mapType === "mercator") {
-        const url: string = sources.find((ly) => ly.name == layer)?.url ?? "";
-        const isPBF: boolean = url.endsWith("pbf");
-        console.warn(isPBF);
+        const baseMapURL: string =
+          sources.find((source) => source.name == layers[0])?.url ?? "";
+
+        const overlaysURLs: string[] = sources
+          .filter((source) => layers.includes(source.name))
+          .map((source) => source.url);
+
+        const tileLayers = [baseMapURL, ...overlaysURLs].map(
+          (url) =>
+            new TileLayer({
+              source: new XYZ({
+                url,
+              }),
+            })
+        );
 
         if (map.current === null) {
           map.current = new Map({
             controls: [],
             target: container.current,
-            layers: isPBF
-              ? [
-                  new VectorTileLayer({
-                    source: new VectorTileSource({
-                      format: new MVT(),
-                      url,
-                    }),
-                  }),
-                ]
-              : [
-                  new TileLayer({
-                    source: new XYZ({
-                      url,
-                    }),
-                  }),
-                ],
+            layers: tileLayers,
             view: view.current,
           });
         } else {
-          if (isPBF) {
-            map.current.setLayers([
-              new VectorTileLayer({
-                source: new VectorTileSource({
-                  format: new MVT(),
-                  url,
-                }),
-              }),
-            ]);
-          } else {
-            map.current.setLayers([
-              new TileLayer({
-                source: new XYZ({
-                  url,
-                }),
-              }),
-            ]);
-          }
+          map.current.setLayers(tileLayers);
         }
       }
-    }, [layer, mapType]);
+    }, [layers, mapType]);
 
     return <div className="w-full h-full" id="map" ref={container}></div>;
   }
