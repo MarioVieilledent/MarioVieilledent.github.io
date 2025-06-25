@@ -17,9 +17,8 @@ const getInitialLayers = (): string[] => {
     ) {
       return parsed;
     }
-  } catch (e) {
-    console.warn("Failed to parse JSON");
-    console.warn(e);
+  } catch {
+    return DEFAULT_LAYERS;
   }
   return DEFAULT_LAYERS;
 };

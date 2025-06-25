@@ -1,9 +1,5 @@
-import { useEffect, useState, type ReactNode } from "react";
-import Home from "./pages/Home";
-import Norwegian from "./pages/Norwegian";
-import Globe from "./pages/Globe";
+import { useEffect, useState } from "react";
 import MapLayer from "./components/MapLayer";
-import type { TermKeys } from "./utils/TranslationContext";
 import { LOCAL_STORAGE_ROUTE_KEY } from "./utils/constants";
 import Menu from "./components/Menu";
 
@@ -26,17 +22,10 @@ const App = () => {
     window.history.pushState({ page: route }, "", "");
   }, [route]);
 
-  const pages: { name: TermKeys; component: ReactNode }[] = [
-    { name: "home", component: <Home /> },
-    { name: "map", component: <MapLayer /> },
-    { name: "globe", component: <Globe /> },
-    { name: "norwegian", component: <Norwegian /> },
-  ];
-
   return (
     <>
       <MapLayer />
-      <Menu pages={pages} route={route} setRoute={setRoute} />
+      <Menu />
     </>
   );
 };

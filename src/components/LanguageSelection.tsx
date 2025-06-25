@@ -13,7 +13,7 @@ const LanguageSelection = () => {
   const [selected, setSelected] = useState(language);
 
   return (
-    <div className="flex items-center justify-center">
+    <div>
       <button
         onClick={() => setOpen(!open)}
         aria-haspopup="listbox"
