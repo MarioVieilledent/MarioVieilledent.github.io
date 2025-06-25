@@ -5,7 +5,12 @@ import ResetRotationButton from "./ResetRotationButton";
 import Globe from "../pages/Globe";
 import Mercator from "./Mercator";
 
-const DEFAULT_LAYERS = [sources[0].name];
+const DEFAULT_LAYERS: string[] = [
+  sources.find((s) => s.defaultBaseMap)?.name ?? sources[0].name,
+  sources.find((s) => s.defaultOverlay)?.name ??
+    sources.find((s) => s.type === "overlay")?.name ??
+    "",
+];
 
 const getInitialLayers = (): string[] => {
   try {

@@ -33,6 +33,8 @@ export interface Source {
   url: string;
   type: string;
   description: string;
+  defaultBaseMap?: boolean;
+  defaultOverlay?: boolean;
 }
 
 export const sources: Source[] = [
@@ -42,6 +44,7 @@ export const sources: Source[] = [
     type: "general",
     description:
       "Standard OSM map with a balance of roads, land-use, and points of interest. Suitable for general navigation and background use.",
+    defaultBaseMap: true,
   },
   {
     name: "OpenTopoMap",
@@ -104,6 +107,7 @@ export const sources: Source[] = [
     url: "https://maps.utagawavtt.com/styles/terrain-rgb/{z}/{x}/{y}.png",
     type: "overlay-topographic",
     description: "",
+    defaultOverlay: true,
   },
   {
     name: "Thunderforest Landscape",
