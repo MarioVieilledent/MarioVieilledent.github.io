@@ -17,6 +17,7 @@ export const translations = {
   general: ["General", "Generelt", "Général"],
   topographic: ["Topographic", "Topografisk", "Topographique"],
   imagery: ["Imagery", "Bilde", "Imagerie"],
+  hybrid: ["Hybrid", "Hybrid", "Hybride"],
   other: ["Other", "Andre", "Autre"],
   "2dMercator": ["2D Mercator", "2D Mercator", "Mercator 2D"],
   "3dGlobe": ["3D Globe", "3D Klode", "Globe 3D"],

@@ -184,12 +184,29 @@ export const sources: Source[] = [
     description:
       "Designed for disaster response and humanitarian mapping. Highlights infrastructure like roads and buildings clearly.",
   },
-
   {
-    name: "Topo pnoa (Spain)",
-    url: "https://www.ign.es/wmts/pnoa-ma?layer=OI.OrthoimageCoverage&style=default&tilematrixset=EPSG:4326&Service=WMTS&Request=GetTile&Version=1.0.0&Format=image/png&TileMatrix=EPSG:4326:{z}&TileCol={x}&TileRow={y}",
-    type: "overlay",
-    description: "",
+    name: "Finn.no Classic (Norway)",
+    url: "https://maptiles.finncdn.no/tileService/1.0.3/normaphd/{z}/{x}/{y}.png",
+    type: "general",
+    description: "Used for finn.no",
+  },
+  {
+    name: "Finn.no Classic Bright (Norway)",
+    url: "https://maptiles.finncdn.no/tileService/1.0.3/normaphdbright/{z}/{x}/{y}.png",
+    type: "general",
+    description: "Used for finn.no",
+  },
+  {
+    name: "Finn.no Imagery (Norway)",
+    url: "https://maptiles.finncdn.no/tileService/1.0.3/norortho/{z}/{x}/{y}.png",
+    type: "satellite",
+    description: "Used for finn.no",
+  },
+  {
+    name: "Finn.no Hybrid (Norway)",
+    url: "https://maptiles.finncdn.no/tileService/1.0.3/norhybrid/{z}/{x}/{y}.png",
+    type: "hybrid",
+    description: "Used for finn.no",
   },
   {
     name: "Waymarked Trails Hiking",
