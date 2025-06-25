@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { LuLayers2 } from "react-icons/lu";
 import type { MapType } from "./MapLayer";
-import { knownTileSources } from "../utils/constants";
+import { sources, type Source } from "../utils/constants";
 
 interface LayerMenuProps {
   layer: string;
@@ -35,25 +35,79 @@ const LayerMenu = ({
       </button>
 
       {open && (
-        <div className="fixed top-20 right-4 z-40 w-64 rounded-3xl bg-white flex flex-col gap-4 shadow-xl p-4 transition-all max-h-[calc(100vh-8rem)] overflow-auto ">
-          {knownTileSources.map((l) => (
-            <div
-              key={l.name}
-              className={`flex items-center gap-4 cursor-pointer ${
-                l.name === layer ? "underline" : ""
-              }`}
-              onClick={() => {
-                setLayer(l.name);
-              }}
-            >
-              <img
-                className="w-16 h-16"
-                src={makePreviewUrl(l.url)}
-                alt={`Map preview (${l.name})`}
-              />
-              <span>{l.name}</span>
+        <div className="fixed top-20 right-4 z-40 w-[calc(100%-2rem)] rounded-3xl bg-white flex gap-4 shadow-xl p-4 transition-all max-h-[calc(100vh-8rem)] overflow-auto ">
+          <div className="flex flex-col gap-4">
+            <h2>Base Map</h2>
+            <div className="flex gap-4">
+              <div className="flex flex-col gap-4">
+                <h3>General</h3>
+                {sources
+                  .filter((l) => l.type === "general")
+                  .map((l) => (
+                    <LayerButton l={l} layer={layer} setLayer={setLayer} />
+                  ))}
+              </div>
+              <div className="flex flex-col gap-4">
+                <h3>Topographic</h3>
+                {sources
+                  .filter((l) => l.type === "topographic")
+                  .map((l) => (
+                    <LayerButton l={l} layer={layer} setLayer={setLayer} />
+                  ))}
+              </div>
+              <div className="flex flex-col gap-4">
+                <h3>Imagery</h3>
+                {sources
+                  .filter((l) => l.type === "satellite")
+                  .map((l) => (
+                    <LayerButton l={l} layer={layer} setLayer={setLayer} />
+                  ))}
+              </div>
+              <div className="flex flex-col gap-4">
+                <h3>Other</h3>
+                {sources
+                  .filter(
+                    (l) =>
+                      !["general", "topographic", "satellite"].includes(
+                        l.type
+                      ) && !l.type.startsWith("overlay")
+                  )
+                  .map((l) => (
+                    <LayerButton l={l} layer={layer} setLayer={setLayer} />
+                  ))}
+              </div>
             </div>
-          ))}
+          </div>
+          <div className="flex flex-col">
+            <h2>Overlay</h2>
+            <div className="flex gap-4">
+              <div className="flex flex-col gap-4">
+                <h3>Sport</h3>
+                {sources
+                  .filter((l) => l.type === "overlay-sport")
+                  .map((l) => (
+                    <LayerButton l={l} layer={layer} setLayer={setLayer} />
+                  ))}
+              </div>
+              <div className="flex flex-col gap-4">
+                <h3>Train</h3>
+                {sources
+                  .filter((l) => l.type === "overlay-train")
+                  .map((l) => (
+                    <LayerButton l={l} layer={layer} setLayer={setLayer} />
+                  ))}
+              </div>
+              <div className="flex flex-col gap-4">
+                <h3>Other</h3>
+                {sources
+                  .filter((l) => l.type === "overlay")
+                  .map((l) => (
+                    <LayerButton l={l} layer={layer} setLayer={setLayer} />
+                  ))}
+              </div>
+            </div>
+          </div>
+
           <div
             className={`flex items-center gap-4 cursor-pointer ${
               mapType === "mercator" ? "underline" : ""
@@ -73,6 +127,46 @@ const LayerMenu = ({
         </div>
       )}
     </>
+  );
+};
+
+const LayerButton = ({
+  l,
+  layer,
+  setLayer,
+}: {
+  l: Source;
+  layer: string;
+  setLayer: React.Dispatch<React.SetStateAction<string>>;
+}) => {
+  const isOverlay = l.type.startsWith("overlay");
+  const isSelected = l.name === layer;
+
+  return (
+    <div
+      key={l.name}
+      className={`flex items-center gap-4 cursor-pointer ${
+        isSelected ? "underline" : ""
+      }`}
+      onClick={() => {
+        if (isOverlay) {
+          setLayer(l.name);
+        } else {
+          setLayer(l.name);
+        }
+      }}
+    >
+      {l.url.endsWith("pbf") ? (
+        <div className="w-16 h-16">Vector</div>
+      ) : (
+        <img
+          className="w-16 h-16"
+          src={makePreviewUrl(l.url)}
+          alt={`Map preview (${l.name})`}
+        />
+      )}
+      <span>{l.name}</span>
+    </div>
   );
 };
 

@@ -28,12 +28,14 @@ export const languages: {
   },
 ];
 
-export const knownTileSources: {
+export interface Source {
   name: string;
   url: string;
   type: string;
   description: string;
-}[] = [
+}
+
+export const sources: Source[] = [
   {
     name: "OpenStreetMap Standard",
     url: "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
@@ -43,17 +45,31 @@ export const knownTileSources: {
   },
   {
     name: "OpenTopoMap",
-    url: "https://tile.opentopomap.org/{z}/{x}/{y}.png",
+    url: "https://{a-c}.tile.opentopomap.org/{z}/{x}/{y}.png",
     type: "topographic",
     description:
       "Topographic map with contour lines, elevation shading, and hiking-related symbols. Ideal for outdoor and hiking applications.",
   },
   {
-    name: "ArcGIS World Imagery",
-    url: "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}",
+    name: "IGN",
+    url: "https://data.geopf.fr/wmts?layer=GEOGRAPHICALGRIDSYSTEMS.PLANIGNV2&style=normal&tilematrixset=PM&Service=WMTS&Request=GetTile&Version=1.0.0&Format=image%2Fpng&TileMatrix={z}&TileCol={x}&TileRow={y}",
+    type: "general",
+    description:
+      "A complete IGN map base, accurately and legibly representing France at a world scale of around 1:1,000, while offering rich large-scale cartographic content, particularly in urban areas.",
+  },
+  {
+    name: "IGN Topo",
+    url: "https://data.geopf.fr/private/wmts?apikey=ign_scan_ws&layer=GEOGRAPHICALGRIDSYSTEMS.MAPS&style=normal&tilematrixset=PM&Service=WMTS&Request=GetTile&Version=1.0.0&Format=image%2Fjpeg&TileMatrix={z}&TileCol={x}&TileRow={y}",
+    type: "topographic",
+    description:
+      "A complete IGN map base, accurately and legibly representing France at a world scale of around 1:1,000, while offering rich large-scale cartographic content, particularly in urban areas.",
+  },
+  {
+    name: "IGN Satellite",
+    url: "https://data.geopf.fr/wmts?layer=ORTHOIMAGERY.ORTHOPHOTOS&style=normal&tilematrixset=PM&Service=WMTS&Request=GetTile&Version=1.0.0&Format=image%2Fjpeg&TileMatrix={z}&TileCol={x}&TileRow={y}",
     type: "satellite",
     description:
-      "High-resolution satellite imagery from Esri. Good for background realism or remote sensing overlays.",
+      "The geographical image of the French territory, France from the sky, made up of a combination of aerial shots and satellite images.",
   },
   {
     name: "TopPlus Open (Germany)",
@@ -79,16 +95,59 @@ export const knownTileSources: {
   {
     name: "Utagawa VTT",
     url: "https://maps.utagawavtt.com/styles/utagawavtt/{z}/{x}/{y}.png",
-    type: "outdoor",
+    type: "general",
     description:
       "OSM-based French outdoor map for hiking and mountain biking. Emphasizes trails, terrain and points of interest.",
   },
   {
     name: "Thunderforest Landscape",
     url: "https://tile.thunderforest.com/landscape/{z}/{x}/{y}.png",
-    type: "outdoor",
+    type: "general",
     description:
       "Detailed natural landscape map including forests, trails, terrain shading. Free with attribution, API key may be needed.",
+  },
+  {
+    name: "ArcGIS World Imagery",
+    url: "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}",
+    type: "satellite",
+    description:
+      "High-resolution satellite imagery from Esri. Good for background realism or remote sensing overlays.",
+  },
+  {
+    name: "ArcGIS World Imagery Firefly",
+    url: "https://fly.maptiles.arcgis.com/arcgis/rest/services/World_Imagery_Firefly/MapServer/tile/{z}/{y}/{x}",
+    type: "satellite",
+    description: "",
+  },
+  {
+    name: "ArcGIS Ocean",
+    url: "https://services.arcgisonline.com/arcgis/rest/services/Ocean/World_Ocean_Base/MapServer/tile/{z}/{y}/{x}",
+    type: "topographic",
+    description: "",
+  },
+  {
+    name: "ArcGIS Elevation",
+    url: "https://services.arcgisonline.com/arcgis/rest/services/Elevation/World_Hillshade/MapServer/tile/{z}/{y}/{x}",
+    type: "topographic",
+    description: "",
+  },
+  {
+    name: "ArcGIS Hillshade",
+    url: "https://basemaps.arcgis.com/arcgis/rest/services/World_Hillshade_v2/VectorTileServer/tile/{z}/{y}/{x}.pbf",
+    type: "vector",
+    description: "",
+  },
+  {
+    name: "ArcGIS OpenStreetMap",
+    url: "https://basemaps.arcgis.com/arcgis/rest/services/OpenStreetMap_v2/VectorTileServer/tile/{z}/{y}/{x}.pbf",
+    type: "vector",
+    description: "",
+  },
+  {
+    name: "ArcGIS World Basemap",
+    url: "https://basemaps.arcgis.com/arcgis/rest/services/World_Basemap_v2/VectorTileServer/tile/{z}/{y}/{x}.pbf",
+    type: "vector",
+    description: "",
   },
   {
     name: "LuminoCity WorldPop 2020",
@@ -136,55 +195,55 @@ export const knownTileSources: {
   {
     name: "Waymarked Trails Hiking",
     url: "https://tile.waymarkedtrails.org/hiking/{z}/{x}/{y}.png",
-    type: "overlay",
+    type: "overlay-sport",
     description:
       "Overlay showing long-distance hiking trails from OSM data. Use above a base map.",
   },
   {
     name: "Waymarked Trails Cycling",
     url: "https://tile.waymarkedtrails.org/cycling/{z}/{x}/{y}.png",
-    type: "overlay",
+    type: "overlay-sport",
     description:
       "Overlay showing official and popular cycling routes from OSM. Complements general-purpose maps.",
   },
   {
     name: "Waymarked Trails Skiing",
     url: "https://tile.waymarkedtrails.org/slopes/{z}/{x}/{y}.png",
-    type: "overlay",
+    type: "overlay-sport",
     description:
       "Overlay showing cross-country skiing trails from OSM. Transparent and suitable for winter-themed maps.",
   },
   {
     name: "OpenRailwayMap",
     url: "https://tiles.openrailwaymap.org/standard/{z}/{x}/{y}.png",
-    type: "overlay",
+    type: "overlay-train",
     description:
       "Overlay showing railway infrastructure from OSM. Useful in transport/logistics or urban planning.",
   },
   {
     name: "OpenRailwayMap Maxspeed",
     url: "https://tiles.openrailwaymap.org/maxspeed/{z}/{x}/{y}.png",
-    type: "overlay",
+    type: "overlay-train",
     description:
       "Overlay of railway speed limits. Transparent and color-coded by speed.",
   },
   {
     name: "OpenRailwayMap Signalling",
     url: "https://tiles.openrailwaymap.org/signals/{z}/{x}/{y}.png",
-    type: "overlay",
+    type: "overlay-train",
     description: "Overlay of railway signalling and train protection",
   },
   {
     name: "OpenRailwayMap Electrification",
     url: "https://tiles.openrailwaymap.org/electrification/{z}/{x}/{y}.png",
-    type: "overlay",
+    type: "overlay-train",
     description:
       "Transparent overlay showing railway electrification infrastructure.",
   },
   {
     name: "OpenRailwayMap Gauge",
     url: "https://tiles.openrailwaymap.org/gauge/{z}/{x}/{y}.png",
-    type: "overlay",
+    type: "overlay-train",
     description: "Transparent overlay showing track gauge.",
   },
   {

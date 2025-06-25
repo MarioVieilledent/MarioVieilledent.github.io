@@ -6,12 +6,15 @@ import XYZ from "ol/source/XYZ";
 import { forwardRef, useEffect, useImperativeHandle, useRef } from "react";
 import { fromLonLat } from "ol/proj";
 import {
-  knownTileSources,
+  sources,
   LOCAL_STORAGE_CENTER_KEY,
   LOCAL_STORAGE_LAYER_KEY,
   LOCAL_STORAGE_RESOLUTION_KEY,
 } from "../utils/constants";
 import { type MapType } from "./MapLayer";
+import MVT from "ol/format/MVT.js";
+import VectorTileLayer from "ol/layer/VectorTile.js";
+import VectorTileSource from "ol/source/VectorTile.js";
 
 const DEFAULT_CENTER = [5, 55];
 const DEFAULT_ZOOM = 4;
@@ -63,27 +66,51 @@ const Mercator = forwardRef<{ triggerReset: () => void }, MercatorProps>(
       window.localStorage.setItem(LOCAL_STORAGE_LAYER_KEY, layer);
 
       if (container.current && mapType === "mercator") {
+        const url: string = sources.find((ly) => ly.name == layer)?.url ?? "";
+        const isPBF: boolean = url.endsWith("pbf");
+        console.warn(isPBF);
+
         if (map.current === null) {
           map.current = new Map({
             controls: [],
             target: container.current,
-            layers: [
-              new TileLayer({
-                source: new XYZ({
-                  url: knownTileSources.find((ly) => ly.name == layer)?.url,
-                }),
-              }),
-            ],
+            layers: isPBF
+              ? [
+                  new VectorTileLayer({
+                    source: new VectorTileSource({
+                      format: new MVT(),
+                      url,
+                    }),
+                  }),
+                ]
+              : [
+                  new TileLayer({
+                    source: new XYZ({
+                      url,
+                    }),
+                  }),
+                ],
             view: view.current,
           });
         } else {
-          map.current.setLayers([
-            new TileLayer({
-              source: new XYZ({
-                url: knownTileSources.find((ly) => ly.name == layer)?.url,
+          if (isPBF) {
+            map.current.setLayers([
+              new VectorTileLayer({
+                source: new VectorTileSource({
+                  format: new MVT(),
+                  url,
+                }),
               }),
-            }),
-          ]);
+            ]);
+          } else {
+            map.current.setLayers([
+              new TileLayer({
+                source: new XYZ({
+                  url,
+                }),
+              }),
+            ]);
+          }
         }
       }
     }, [layer, mapType]);
