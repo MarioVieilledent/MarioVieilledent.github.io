@@ -1,11 +1,11 @@
 import { useCallback, useRef, useState } from "react";
 import LayerMenu from "./LayerMenu";
-import { LOCAL_STORAGE_LAYER_KEY } from "../utils/constants";
+import { knownTileSources, LOCAL_STORAGE_LAYER_KEY } from "../utils/constants";
 import ResetRotationButton from "./ResetRotationButton";
 import Globe from "../pages/Globe";
 import Mercator from "./Mecrator";
 
-const DEFAULT_LAYER = "OSM";
+const DEFAULT_LAYER = knownTileSources[0].name;
 
 export type MapType = "mercator" | "globe";
 
