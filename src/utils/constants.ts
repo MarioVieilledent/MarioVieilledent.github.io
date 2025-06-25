@@ -184,6 +184,13 @@ export const sources: Source[] = [
     description:
       "Designed for disaster response and humanitarian mapping. Highlights infrastructure like roads and buildings clearly.",
   },
+
+  {
+    name: "Topo pnoa (Spain)",
+    url: "https://www.ign.es/wmts/pnoa-ma?layer=OI.OrthoimageCoverage&style=default&tilematrixset=EPSG:4326&Service=WMTS&Request=GetTile&Version=1.0.0&Format=image/png&TileMatrix=EPSG:4326:{z}&TileCol={x}&TileRow={y}",
+    type: "overlay",
+    description: "",
+  },
   {
     name: "Waymarked Trails Hiking",
     url: "https://tile.waymarkedtrails.org/hiking/{z}/{x}/{y}.png",
