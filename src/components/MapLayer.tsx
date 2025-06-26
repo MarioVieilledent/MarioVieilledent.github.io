@@ -2,8 +2,7 @@ import { useCallback, useRef, useState } from "react";
 import LayerMenu from "./LayerMenu";
 import { sources, LOCAL_STORAGE_LAYERS_KEY } from "../utils/constants";
 import ResetRotationButton from "./ResetRotationButton";
-import Globe from "../pages/Globe";
-import Mercator from "./Mercator";
+import OpenLayerMap from "./OpenLayerMap";
 
 const DEFAULT_LAYERS: string[] = [
   sources.find((s) => s.defaultBaseMap)?.name ?? sources[0].name,
@@ -28,12 +27,9 @@ const getInitialLayers = (): string[] => {
   return DEFAULT_LAYERS;
 };
 
-export type MapType = "mercator" | "globe";
-
 const MapLayer = () => {
   const [layers, setLayers] = useState<string[]>(getInitialLayers());
   const [rotation, setRotation] = useState(0);
-  const [mapType, setMapType] = useState<MapType>("mercator");
 
   const resetRotationTrigger = useRef<{ triggerReset: () => void }>(null);
   const resetRotation = useCallback(
@@ -43,22 +39,13 @@ const MapLayer = () => {
 
   return (
     <>
-      {mapType === "mercator" && (
-        <Mercator
-          setRotation={setRotation}
-          layers={layers}
-          mapType={mapType}
-          ref={resetRotationTrigger}
-        />
-      )}
-      {mapType === "globe" && <Globe />}
-
-      <LayerMenu
+      <OpenLayerMap
+        setRotation={setRotation}
         layers={layers}
-        setLayers={setLayers}
-        mapType={mapType}
-        setMapType={setMapType}
+        ref={resetRotationTrigger}
       />
+
+      <LayerMenu layers={layers} setLayers={setLayers} />
       {rotation !== 0 && (
         <ResetRotationButton
           rotation={rotation}

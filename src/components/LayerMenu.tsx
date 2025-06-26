@@ -1,5 +1,4 @@
 import { LuLayers2 } from "react-icons/lu";
-import type { MapType } from "./MapLayer";
 import { sources } from "../utils/constants";
 import LayerButton from "./LayerButton";
 import { useTranslation } from "../utils/TranslationContext";
@@ -9,16 +8,9 @@ import { useIsMobile } from "../utils/isMobileHook";
 interface LayerMenuProps {
   layers: string[];
   setLayers: React.Dispatch<React.SetStateAction<string[]>>;
-  mapType: MapType;
-  setMapType: React.Dispatch<React.SetStateAction<MapType>>;
 }
 
-const LayerMenu = ({
-  layers,
-  setLayers,
-  mapType,
-  setMapType,
-}: LayerMenuProps) => {
+const LayerMenu = ({ layers, setLayers }: LayerMenuProps) => {
   const isMobile = useIsMobile();
   const { t } = useTranslation();
 
@@ -106,24 +98,6 @@ const LayerMenu = ({
                   />
                 ))}
             </div>
-          </div>
-        </div>
-        <div className="flex flex-col gap-4">
-          <div
-            className={`flex items-center gap-4 cursor-pointer ${
-              mapType === "mercator" ? "underline" : ""
-            }`}
-            onClick={() => setMapType("mercator")}
-          >
-            <span>{t("2dMercator")}</span>
-          </div>
-          <div
-            className={`flex items-center gap-4 cursor-pointer ${
-              mapType === "globe" ? "underline" : ""
-            }`}
-            onClick={() => setMapType("globe")}
-          >
-            <span>{t("3dGlobe")}</span>
           </div>
         </div>
       </div>
