@@ -1,5 +1,5 @@
+import { LuEye, LuEyeClosed } from "react-icons/lu";
 import type { Source } from "../utils/constants";
-import { useIsMobile } from "../utils/isMobileHook";
 
 const makePreviewUrl = (url: string): string =>
   url
@@ -17,18 +17,16 @@ const LayerButton = ({
   layers: string[];
   setLayers: React.Dispatch<React.SetStateAction<string[]>>;
 }) => {
-  const isMobile = useIsMobile();
-
   const isOverlay = l.type.startsWith("overlay");
   const isSelected = layers.includes(l.name);
 
   return (
     <div
       key={l.name}
-      className={`flex items-center cursor-pointer rounded-md ${
-        isMobile ? "flex-col text-center" : "gap-2 pr-2"
-      } ${
-        isSelected ? `border-2 border-black` : `border-2 border-transparent`
+      className={`flex items-center gap-2 pr-2 cursor-pointer rounded-md ${
+        isSelected
+          ? `bg-gray-200 border-1 border-gray-500`
+          : `border-1 border-transparent`
       }`}
       onClick={() => {
         if (isOverlay) {
@@ -43,11 +41,17 @@ const LayerButton = ({
       }}
     >
       <img
-        className="w-12 h-12"
+        className="w-12 h-12 rounded-md"
         src={makePreviewUrl(l.url)}
         alt={`Map preview (${l.name})`}
       />
-      <span>{l.name}</span>
+      {isOverlay &&
+        (isSelected ? (
+          <LuEye className="w-4 h-4" />
+        ) : (
+          <LuEyeClosed className="w-4 h-4" />
+        ))}
+      <span className="text-xs">{l.name}</span>
     </div>
   );
 };

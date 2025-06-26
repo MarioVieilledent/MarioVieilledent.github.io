@@ -169,6 +169,30 @@ export const sources = [
       "Designed for disaster response and humanitarian mapping. Highlights infrastructure like roads and buildings clearly.",
   },
   {
+    name: "Finn.no Classic (Norway)",
+    url: "https://maptiles.finncdn.no/tileService/1.0.3/normaphd/{z}/{x}/{y}.png",
+    type: "general",
+    description: "Used for finn.no",
+  },
+  {
+    name: "Finn.no Classic Bright (Norway)",
+    url: "https://maptiles.finncdn.no/tileService/1.0.3/normaphdbright/{z}/{x}/{y}.png",
+    type: "general",
+    description: "Used for finn.no",
+  },
+  {
+    name: "Finn.no Imagery (Norway)",
+    url: "https://maptiles.finncdn.no/tileService/1.0.3/norortho/{z}/{x}/{y}.png",
+    type: "satellite",
+    description: "Used for finn.no",
+  },
+  {
+    name: "Finn.no Hybrid (Norway)",
+    url: "https://maptiles.finncdn.no/tileService/1.0.3/norhybrid/{z}/{x}/{y}.png",
+    type: "hybrid",
+    description: "Used for finn.no",
+  },
+  {
     name: "Waymarked Trails Hiking",
     url: "https://tile.waymarkedtrails.org/hiking/{z}/{x}/{y}.png",
     type: "overlay-sport",
