@@ -177,6 +177,30 @@ export const sources: Source[] = [
       "Map optimized for cyclists. Includes elevation, bike lanes, and cycling infrastructure based on OSM data.",
   },
   {
+    name: "Tracetrack Topo",
+    url: "https://tile.tracestrack.com/topo__/{z}/{x}/{y}.webp",
+    type: "topographic",
+    description: "",
+  },
+  {
+    name: "Thunderforest Cycle",
+    url: "https://a.tile.thunderforest.com/cycle/{z}/{x}/{y}.png",
+    type: "custom",
+    description: "",
+  },
+  {
+    name: "Thunderforest Transport",
+    url: "https://c.tile.thunderforest.com/transport/{z}/{x}/{y}.png",
+    type: "transport",
+    description: "",
+  },
+  {
+    name: "Thunderforest Transport Dark",
+    url: "https://c.tile.thunderforest.com/transport-dark/{z}/{x}/{y}.png",
+    type: "transport",
+    description: "",
+  },
+  {
     name: "OSM Humanitarian (HOT)",
     url: "https://tile-{a-c}.openstreetmap.fr/hot/{z}/{x}/{y}.png",
     type: "humanitarian",
