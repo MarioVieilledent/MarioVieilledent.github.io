@@ -244,6 +244,18 @@ export const sources: Source[] = [
     description: "Used for finn.no",
   },
   {
+    name: "Kartverket Topo Papirkart (Norway)",
+    url: "https://cache.kartverket.no/v1/wmts/1.0.0/toporaster/default/webmercator/{z}/{y}/{x}.png",
+    type: "topographic",
+    description: "Used for ut.no",
+  },
+  {
+    name: "Kartverket Topo (Norway)",
+    url: "https://cache.kartverket.no/v1/wmts/1.0.0/topo/default/webmercator/{z}/{y}/{x}.png",
+    type: "topographic",
+    description: "Used for ut.no",
+  },
+  {
     name: "Yandex",
     url: "https://tiles.api-maps.yandex.ru/v1/tiles/?maptype=map&x={x}&y={y}&z={z}&lang=en_US&l=map&apikey=e16d7564-576a-4c80-8c91-7a063074dd66",
     type: "general",
@@ -353,6 +365,36 @@ export const sources: Source[] = [
     type: "overlay-sport",
     description:
       "Overlay showing cross-country skiing trails from OSM. Transparent and suitable for winter-themed maps.",
+  },
+  {
+    name: "Strava Heatmap - All Sport",
+    url: "https://content-a.strava.com/identified/globalheat/all/hot/{z}/{x}/{y}.png?v=19",
+    type: "overlay-sport",
+    description: "Strava heatmap",
+  },
+  {
+    name: "Strava Heatmap - Swim",
+    url: "https://content-a.strava.com/identified/globalheat/sport_Swim/hot/{z}/{x}/{y}.png?v=19",
+    type: "overlay-sport",
+    description: "Strava heatmap",
+  },
+  {
+    name: "Strava Heatmap - Run",
+    url: "https://content-a.strava.com/identified/globalheat/sport_Run/hot/{z}/{x}/{y}.png?v=19",
+    type: "overlay-sport",
+    description: "Strava heatmap",
+  },
+  {
+    name: "Strava Heatmap - Walk",
+    url: "https://content-a.strava.com/identified/globalheat/sport_Walk/hot/{z}/{x}/{y}.png?v=19",
+    type: "overlay-sport",
+    description: "Strava heatmap",
+  },
+  {
+    name: "Strava Heatmap - Hike",
+    url: "https://content-a.strava.com/identified/globalheat/sport_Hike/hot/{z}/{x}/{y}.png?v=19",
+    type: "overlay-sport",
+    description: "Strava heatmap",
   },
   {
     name: "OpenRailwayMap",

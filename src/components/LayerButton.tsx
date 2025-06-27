@@ -3,9 +3,9 @@ import type { Source } from "../utils/constants";
 
 const makePreviewUrl = (url: string): string =>
   url
-    .replace("{z}", "4")
-    .replace("{x}", "8")
-    .replace("{y}", "5")
+    .replace("{z}", "3")
+    .replace("{x}", "4")
+    .replace("{y}", "2")
     .replace("{a-c}", "a");
 
 const LayerButton = ({
