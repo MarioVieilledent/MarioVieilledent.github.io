@@ -15,18 +15,39 @@ import {
 const DEFAULT_CENTER = [5, 55];
 const DEFAULT_ZOOM = 4;
 
+const FLY_DURATION = 1000;
+
 interface OpenLayerMapProps {
   setRotation: React.Dispatch<React.SetStateAction<number>>;
   layers: string[];
 }
 
 const OpenLayerMap = forwardRef<
-  { triggerReset: () => void },
+  {
+    triggerReset: () => void;
+    triggerFlyTo: (lon: number, lat: number, zoom?: number) => void;
+  },
   OpenLayerMapProps
 >(({ setRotation, layers }, ref) => {
   useImperativeHandle(ref, () => ({
     triggerReset() {
       view.current.setRotation(0);
+    },
+    triggerFlyTo(lon: number, lat: number, zoom?: number) {
+      const targetZoom = zoom ?? view.current.getZoom();
+
+      const target = fromLonLat([lon, lat]);
+
+      view.current.animate(
+        {
+          center: target,
+          duration: FLY_DURATION,
+        },
+        {
+          zoom: targetZoom,
+          duration: FLY_DURATION,
+        }
+      );
     },
   }));
 

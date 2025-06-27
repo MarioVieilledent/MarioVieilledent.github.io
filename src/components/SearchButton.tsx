@@ -1,6 +1,23 @@
+import { useEffect, useRef, useState } from "react";
 import { LuSearch } from "react-icons/lu";
+import type { OSMnominatimResponse } from "../types/types";
+import { computeZoomForBoundingBox } from "../utils/utils";
 
-const SearchButton = () => {
+interface SearchButtonProps {
+  flyTo: (lon: number, lat: number, zoom?: number) => void;
+}
+
+const SearchButton = ({ flyTo }: SearchButtonProps) => {
+  const [isFocused, setIsFocused] = useState(false);
+
+  const inputRef = useRef<HTMLInputElement>(null);
+
+  useEffect(() => {
+    if (isFocused && inputRef.current) {
+      inputRef.current.focus();
+    }
+  }, [isFocused]);
+
   const handleSearch = (
     event: React.FormEvent<HTMLFormElement> | React.MouseEvent
   ) => {
@@ -9,13 +26,22 @@ const SearchButton = () => {
     const query = formData.get("search")?.toString().trim();
 
     if (query) {
-      console.log("Searching for:", query);
       fetch(
         `https://nominatim.openstreetmap.org/search?format=json&q=${encodeURIComponent(
           query
         )}`
       )
-        .then((res) => res.json().then((data) => console.log(data)))
+        .then((res) =>
+          res.json().then((data: OSMnominatimResponse[]) => {
+            if (data.length > 0) {
+              flyTo(
+                Number(data[0].lon),
+                Number(data[0].lat),
+                computeZoomForBoundingBox(data[0].boundingbox)
+              );
+            }
+          })
+        )
         .catch((e) => console.warn(e));
     }
   };
@@ -23,15 +49,25 @@ const SearchButton = () => {
   return (
     <form
       onSubmit={handleSearch}
-      className="fixed top-4 left-20 z-50 w-60 h-12 p-4 gap-4 rounded-full bg-white flex items-center shadow-lg transition"
+      className={`fixed top-4 left-20 z-50 ${
+        isFocused ? "w-84" : "w-12"
+      } h-12 p-4 gap-4 rounded-full bg-white flex justify-center items-center shadow-lg transition-all`}
+      onClick={() => {
+        setIsFocused(true);
+      }}
     >
-      <input
-        className="w-full focus:outline-none"
-        type="text"
-        name="search"
-        id="search"
-        required
-      />
+      {isFocused && (
+        <input
+          ref={inputRef}
+          onFocus={() => setIsFocused(true)}
+          onBlur={() => setIsFocused(false)}
+          className="w-full focus:outline-none"
+          type="text"
+          name="search"
+          id="search"
+          required
+        />
+      )}
       <button
         type="submit"
         className="p-0 m-0 bg-transparent border-none"

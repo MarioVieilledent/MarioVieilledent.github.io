@@ -3,6 +3,7 @@ import LayerMenu from "./LayerMenu";
 import { sources, LOCAL_STORAGE_LAYERS_KEY } from "../utils/constants";
 import ResetRotationButton from "./ResetRotationButton";
 import OpenLayerMap from "./OpenLayerMap";
+import SearchButton from "./SearchButton";
 
 const DEFAULT_LAYERS: string[] = [
   sources.find((s) => s.defaultBaseMap)?.name ?? sources[0].name,
@@ -31,19 +32,22 @@ const MapLayer = () => {
   const [layers, setLayers] = useState<string[]>(getInitialLayers());
   const [rotation, setRotation] = useState(0);
 
-  const resetRotationTrigger = useRef<{ triggerReset: () => void }>(null);
-  const resetRotation = useCallback(
-    () => resetRotationTrigger.current?.triggerReset(),
+  const triggers = useRef<{
+    triggerReset: () => void;
+    triggerFlyTo: (lon: number, lat: number, zoom?: number) => void;
+  }>(null);
+  const resetRotation = useCallback(() => triggers.current?.triggerReset(), []);
+  const flyTo = useCallback(
+    (lon: number, lat: number, zoom?: number) =>
+      triggers.current?.triggerFlyTo(lon, lat, zoom),
     []
   );
 
   return (
     <>
-      <OpenLayerMap
-        setRotation={setRotation}
-        layers={layers}
-        ref={resetRotationTrigger}
-      />
+      <OpenLayerMap setRotation={setRotation} layers={layers} ref={triggers} />
+
+      <SearchButton flyTo={flyTo} />
 
       <LayerMenu layers={layers} setLayers={setLayers} />
       {rotation !== 0 && (
