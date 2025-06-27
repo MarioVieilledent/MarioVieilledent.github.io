@@ -68,13 +68,6 @@ export const sources: Source[] = [
       "A complete IGN map base, accurately and legibly representing France at a world scale of around 1:1,000, while offering rich large-scale cartographic content, particularly in urban areas.",
   },
   {
-    name: "IGN Satellite",
-    url: "https://data.geopf.fr/wmts?layer=ORTHOIMAGERY.ORTHOPHOTOS&style=normal&tilematrixset=PM&Service=WMTS&Request=GetTile&Version=1.0.0&Format=image%2Fjpeg&TileMatrix={z}&TileCol={x}&TileRow={y}",
-    type: "satellite",
-    description:
-      "The geographical image of the French territory, France from the sky, made up of a combination of aerial shots and satellite images.",
-  },
-  {
     name: "TopPlus Open (Germany)",
     url: "https://sgx.geodatenzentrum.de/wmts_topplus_open/tile/1.0.0/web/default/WEBMERCATOR/{z}/{y}/{x}.png",
     type: "topographic",
@@ -130,6 +123,13 @@ export const sources: Source[] = [
     description: "",
   },
   {
+    name: "IGN Satellite (France)",
+    url: "https://data.geopf.fr/wmts?layer=ORTHOIMAGERY.ORTHOPHOTOS&style=normal&tilematrixset=PM&Service=WMTS&Request=GetTile&Version=1.0.0&Format=image%2Fjpeg&TileMatrix={z}&TileCol={x}&TileRow={y}",
+    type: "satellite",
+    description:
+      "The geographical image of the French territory, France from the sky, made up of a combination of aerial shots and satellite images.",
+  },
+  {
     name: "ArcGIS Ocean",
     url: "https://services.arcgisonline.com/arcgis/rest/services/Ocean/World_Ocean_Base/MapServer/tile/{z}/{y}/{x}",
     type: "topographic",
@@ -155,7 +155,6 @@ export const sources: Source[] = [
     description:
       "Stylized base map designed for aviation route visualization. Emphasizes major cities and air travel hubs.",
   },
-
   {
     name: "Carto Light",
     url: "https://basemaps.cartocdn.com/light_all/{z}/{x}/{y}.png",
@@ -185,13 +184,13 @@ export const sources: Source[] = [
       "Designed for disaster response and humanitarian mapping. Highlights infrastructure like roads and buildings clearly.",
   },
   {
-    name: "Finn.no Classic (Norway)",
+    name: "Finn.no (Norway)",
     url: "https://maptiles.finncdn.no/tileService/1.0.3/normaphd/{z}/{x}/{y}.png",
     type: "general",
     description: "Used for finn.no",
   },
   {
-    name: "Finn.no Classic Bright (Norway)",
+    name: "Finn.no Bright (Norway)",
     url: "https://maptiles.finncdn.no/tileService/1.0.3/normaphdbright/{z}/{x}/{y}.png",
     type: "general",
     description: "Used for finn.no",
@@ -207,6 +206,36 @@ export const sources: Source[] = [
     url: "https://maptiles.finncdn.no/tileService/1.0.3/norhybrid/{z}/{x}/{y}.png",
     type: "hybrid",
     description: "Used for finn.no",
+  },
+  {
+    name: "Yandex",
+    url: "https://tiles.api-maps.yandex.ru/v1/tiles/?maptype=map&x={x}&y={y}&z={z}&lang=en_US&l=map&apikey=e16d7564-576a-4c80-8c91-7a063074dd66",
+    type: "general",
+    description: "",
+  },
+  {
+    name: "Yandex Future",
+    url: "https://tiles.api-maps.yandex.ru/v1/tiles/?maptype=future_map&x={x}&y={y}&z={z}&lang=en_US&l=map&apikey=e16d7564-576a-4c80-8c91-7a063074dd66",
+    type: "general",
+    description: "Yandex basic map with the new design",
+  },
+  {
+    name: "Yandex Automobile",
+    url: "https://tiles.api-maps.yandex.ru/v1/tiles/?maptype=driving&x={x}&y={y}&z={z}&lang=en_US&l=map&apikey=e16d7564-576a-4c80-8c91-7a063074dd66",
+    type: "custom",
+    description: "Yandex automobile navigation map",
+  },
+  {
+    name: "Yandex Public Transport",
+    url: "https://tiles.api-maps.yandex.ru/v1/tiles/?maptype=transit&x={x}&y={y}&z={z}&lang=en_US&l=map&apikey=e16d7564-576a-4c80-8c91-7a063074dd66",
+    type: "custom",
+    description: "Yandex public transport map",
+  },
+  {
+    name: "Yandex Administrative",
+    url: "https://tiles.api-maps.yandex.ru/v1/tiles/?maptype=admin&x={x}&y={y}&z={z}&lang=en_US&l=map&apikey=e16d7564-576a-4c80-8c91-7a063074dd66",
+    type: "general",
+    description: "Yandex administrative map",
   },
   {
     name: "Waymarked Trails Hiking",
