@@ -2,6 +2,7 @@ import { useEffect, useState } from "react";
 import MapLayer from "./components/MapLayer";
 import { LOCAL_STORAGE_ROUTE_KEY } from "./utils/constants";
 import Menu from "./components/Menu";
+import SearchButton from "./components/SearchButton";
 
 const DEFAULT_PAGE = "home";
 
@@ -26,6 +27,7 @@ const App = () => {
     <>
       <MapLayer />
       <Menu />
+      <SearchButton />
     </>
   );
 };

@@ -81,13 +81,44 @@ const LayerMenu = ({ layers, setLayers }: LayerMenuProps) => {
                 ))}
             </div>
             <div className="flex flex-col gap-1">
+              <h3>{t("sport")}</h3>
+              {sources
+                .filter((l) => l.type === "outdoor")
+                .map((l) => (
+                  <LayerButton
+                    key={l.name}
+                    l={l}
+                    layers={layers}
+                    setLayers={setLayers}
+                  />
+                ))}
+            </div>
+            <div className="flex flex-col gap-1">
+              <h3>{t("transport")}</h3>
+              {sources
+                .filter((l) => l.type === "transport")
+                .map((l) => (
+                  <LayerButton
+                    key={l.name}
+                    l={l}
+                    layers={layers}
+                    setLayers={setLayers}
+                  />
+                ))}
+            </div>
+            <div className="flex flex-col gap-1">
               <h3>{t("other")}</h3>
               {sources
                 .filter(
                   (l) =>
-                    !["general", "topographic", "satellite", "hybrid"].includes(
-                      l.type
-                    ) && !l.type.startsWith("overlay")
+                    ![
+                      "general",
+                      "topographic",
+                      "satellite",
+                      "hybrid",
+                      "outdoor",
+                      "transport",
+                    ].includes(l.type) && !l.type.startsWith("overlay")
                 )
                 .map((l) => (
                   <LayerButton

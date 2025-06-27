@@ -54,14 +54,14 @@ export const sources: Source[] = [
       "Topographic map with contour lines, elevation shading, and hiking-related symbols. Ideal for outdoor and hiking applications.",
   },
   {
-    name: "IGN",
+    name: "IGN (France)",
     url: "https://data.geopf.fr/wmts?layer=GEOGRAPHICALGRIDSYSTEMS.PLANIGNV2&style=normal&tilematrixset=PM&Service=WMTS&Request=GetTile&Version=1.0.0&Format=image%2Fpng&TileMatrix={z}&TileCol={x}&TileRow={y}",
     type: "general",
     description:
       "A complete IGN map base, accurately and legibly representing France at a world scale of around 1:1,000, while offering rich large-scale cartographic content, particularly in urban areas.",
   },
   {
-    name: "IGN Topo",
+    name: "IGN Topo (France)",
     url: "https://data.geopf.fr/private/wmts?apikey=ign_scan_ws&layer=GEOGRAPHICALGRIDSYSTEMS.MAPS&style=normal&tilematrixset=PM&Service=WMTS&Request=GetTile&Version=1.0.0&Format=image%2Fjpeg&TileMatrix={z}&TileCol={x}&TileRow={y}",
     type: "topographic",
     description:
@@ -172,51 +172,63 @@ export const sources: Source[] = [
   {
     name: "OSM Cyclo",
     url: "https://{a-c}.tile-cyclosm.openstreetmap.fr/cyclosm/{z}/{x}/{y}.png",
-    type: "cycling",
+    type: "outdoor",
     description:
       "Map optimized for cyclists. Includes elevation, bike lanes, and cycling infrastructure based on OSM data.",
   },
   {
-    name: "Tracetrack Topo",
-    url: "https://tile.tracestrack.com/topo__/{z}/{x}/{y}.webp",
+    name: "Tracestrack",
+    url: "https://tile.tracestrack.com/en/{z}/{x}/{y}.png",
+    type: "find what is it",
+    description: "",
+  },
+  {
+    name: "Tracestrack Topo",
+    url: "https://tile.tracestrack.com/topo__/{z}/{x}/{y}.png",
     type: "topographic",
     description: "",
   },
   {
     name: "Thunderforest Cycle",
-    url: "https://a.tile.thunderforest.com/cycle/{z}/{x}/{y}.png",
-    type: "custom",
+    url: "https://{a-c}.tile.thunderforest.com/cycle/{z}/{x}/{y}.png",
+    type: "outdoor",
+    description: "",
+  },
+  {
+    name: "Thunderforest Outdoor",
+    url: "https://{a-c}.tile.thunderforest.com/outdoors/{z}/{x}/{y}.png",
+    type: "outdoor",
     description: "",
   },
   {
     name: "Thunderforest Transport",
-    url: "https://c.tile.thunderforest.com/transport/{z}/{x}/{y}.png",
+    url: "https://{a-c}.tile.thunderforest.com/transport/{z}/{x}/{y}.png",
     type: "transport",
     description: "",
   },
   {
     name: "Thunderforest Transport Dark",
-    url: "https://c.tile.thunderforest.com/transport-dark/{z}/{x}/{y}.png",
+    url: "https://{a-c}.tile.thunderforest.com/transport-dark/{z}/{x}/{y}.png",
     type: "transport",
     description: "",
   },
   {
     name: "OSM Humanitarian (HOT)",
     url: "https://tile-{a-c}.openstreetmap.fr/hot/{z}/{x}/{y}.png",
-    type: "humanitarian",
+    type: "general",
     description:
       "Designed for disaster response and humanitarian mapping. Highlights infrastructure like roads and buildings clearly.",
   },
   {
     name: "Finn.no (Norway)",
     url: "https://maptiles.finncdn.no/tileService/1.0.3/normaphd/{z}/{x}/{y}.png",
-    type: "general",
+    type: "custom",
     description: "Used for finn.no",
   },
   {
     name: "Finn.no Bright (Norway)",
     url: "https://maptiles.finncdn.no/tileService/1.0.3/normaphdbright/{z}/{x}/{y}.png",
-    type: "general",
+    type: "custom",
     description: "Used for finn.no",
   },
   {
@@ -252,14 +264,74 @@ export const sources: Source[] = [
   {
     name: "Yandex Public Transport",
     url: "https://tiles.api-maps.yandex.ru/v1/tiles/?maptype=transit&x={x}&y={y}&z={z}&lang=en_US&l=map&apikey=e16d7564-576a-4c80-8c91-7a063074dd66",
-    type: "custom",
+    type: "transport",
     description: "Yandex public transport map",
   },
   {
     name: "Yandex Administrative",
     url: "https://tiles.api-maps.yandex.ru/v1/tiles/?maptype=admin&x={x}&y={y}&z={z}&lang=en_US&l=map&apikey=e16d7564-576a-4c80-8c91-7a063074dd66",
-    type: "general",
+    type: "custom",
     description: "Yandex administrative map",
+  },
+  {
+    name: "openstreetmap.de",
+    url: "https://tile.openstreetmap.de/{z}/{x}/{y}.png",
+    type: "other",
+    description: "",
+  },
+  {
+    name: "openstreetmap.fr/hot",
+    url: "https://{a-c}.tile.openstreetmap.fr/hot/{z}/{x}/{y}.png",
+    type: "other",
+    description: "",
+  },
+  {
+    name: "Stadiamaps",
+    url: "https://tiles.stadiamaps.com/tiles/alidade_smooth/{z}/{x}/{y}.png",
+    type: "other",
+    description: "",
+  },
+  {
+    name: "Stadiamaps Dark",
+    url: "https://tiles.stadiamaps.com/tiles/alidade_smooth_dark/{z}/{x}/{y}.png",
+    type: "other",
+    description: "",
+  },
+  {
+    name: "Stadiamaps Outdoors",
+    url: "https://tiles.stadiamaps.com/tiles/outdoors/{z}/{x}/{y}.png",
+    type: "outdoor",
+    description: "",
+  },
+  {
+    name: "Stadiamaps OSM",
+    url: "https://tiles.stadiamaps.com/tiles/osm_bright/{z}/{x}/{y}.png",
+    type: "general",
+    description: "",
+  },
+  {
+    name: "Stadiamaps Stamen Toner",
+    url: "https://tiles.stadiamaps.com/tiles/stamen_toner/{z}/{x}/{y}.png",
+    type: "style",
+    description: "",
+  },
+  {
+    name: "Stadiamaps Stamen Watercolor",
+    url: "https://tiles.stadiamaps.com/tiles/stamen_watercolor/{z}/{x}/{y}.jpg",
+    type: "style",
+    description: "",
+  },
+  {
+    name: "Memomaps",
+    url: "https://tile.memomaps.de/tilegen/{z}/{x}/{y}.png",
+    type: "transport",
+    description: "",
+  },
+  {
+    name: "Lima Labs",
+    url: "https://cdn.lima-labs.com/{z}/{x}/{y}.png?api=demo",
+    type: "other",
+    description: "",
   },
   {
     name: "Waymarked Trails Hiking",
@@ -321,4 +393,84 @@ export const sources: Source[] = [
     type: "overlay",
     description: "Shadow borders and coasts overlay",
   },
+  /*
+  {
+    name: "https://maps.clockworkmicro.com/streets/v1/raster/{z}/{x}/{y}.png",
+    url: "https://maps.clockworkmicro.com/streets/v1/raster/{z}/{x}/{y}.png",
+    type: "find what is it",
+    description: "",
+  },
+  {
+    name: "https://api.maptiler.com/maps/streets/{z}/{x}/{y}.png",
+    url: "https://api.maptiler.com/maps/streets/{z}/{x}/{y}.png",
+    type: "find what is it",
+    description: "",
+  },
+  {
+    name: "https://api.maptiler.com/maps/outdoor/{z}/{x}/{y}.png",
+    url: "https://api.maptiler.com/maps/outdoor/{z}/{x}/{y}.png",
+    type: "find what is it",
+    description: "",
+  },
+  {
+    name: "https://api.maptiler.com/maps/pastel/{z}/{x}/{y}.png",
+    url: "https://api.maptiler.com/maps/pastel/{z}/{x}/{y}.png",
+    type: "find what is it",
+    description: "",
+  },
+  {
+    name: "https://api.maptiler.com/maps/basic/{z}/{x}/{y}.png",
+    url: "https://api.maptiler.com/maps/basic/{z}/{x}/{y}.png",
+    type: "find what is it",
+    description: "",
+  },
+  {
+    name: "https://maptiles.p.rapidapi.com/en/map/v1/{z}/{x}/{y}.png",
+    url: "https://maptiles.p.rapidapi.com/en/map/v1/{z}/{x}/{y}.png",
+    type: "find what is it",
+    description: "",
+  },
+  {
+    name: "https://maptiles.p.rapidapi.com/fr/map/v1/{z}/{x}/{y}.png",
+    url: "https://maptiles.p.rapidapi.com/fr/map/v1/{z}/{x}/{y}.png",
+    type: "find what is it",
+    description: "",
+  },
+  {
+    name: "https://maptiles.p.rapidapi.com/es/map/v1/{z}/{x}/{y}.png",
+    url: "https://maptiles.p.rapidapi.com/es/map/v1/{z}/{x}/{y}.png",
+    type: "find what is it",
+    description: "",
+  },
+  {
+    name: "https://cartodb-basemaps-{s}.global.ssl.fastly.net/light_all/{z}/{x}/{y}.png",
+    url: "https://cartodb-basemaps-{s}.global.ssl.fastly.net/light_all/{z}/{x}/{y}.png",
+    type: "find what is it",
+    description: "",
+  },
+  {
+    name: "https://cartodb-basemaps-{s}.global.ssl.fastly.net/dark_all/{z}/{x}/{y}.png",
+    url: "https://cartodb-basemaps-{s}.global.ssl.fastly.net/dark_all/{z}/{x}/{y}.png",
+    type: "find what is it",
+    description: "",
+  },
+  {
+    name: "https://retina-tiles.p.rapidapi.com/local/osm{r}/v1/{z}/{x}/{y}.png",
+    url: "https://retina-tiles.p.rapidapi.com/local/osm{r}/v1/{z}/{x}/{y}.png",
+    type: "find what is it",
+    description: "",
+  },
+  {
+    name: "https://retina-tiles.p.rapidapi.com/local/osm/v1/{z}/{x}/{y}.png",
+    url: "https://retina-tiles.p.rapidapi.com/local/osm/v1/{z}/{x}/{y}.png",
+    type: "find what is it",
+    description: "",
+  },
+  {
+    name: "https://maps.geoapify.com/v1/tile/osm-bright-smooth/{z}/{x}/{y}.png",
+    url: "https://maps.geoapify.com/v1/tile/osm-bright-smooth/{z}/{x}/{y}.png",
+    type: "find what is it",
+    description: "",
+  },
+  */
 ];
