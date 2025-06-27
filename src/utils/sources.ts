@@ -1,33 +1,6 @@
-# ANDEHJØRNET
+import type { Source } from "../types/types";
 
-Combining key-less raster map APIs
-
-## Install, run, build, publish
-
-- `npm i` - Install packages
-- `npm run dev` - Serve locally
-- `npm run build` - Build app in `./dist`
-- `npm run lint` - Check lint
-- `npm run precommit` - Chain linting and building
-- `npm run preview` - Serve the built app locally
-- `npm run publish` - Publish the built app to github pages
-
-## Tech stack
-
-Vite + React + TailwindCSS + OpenLayers + Three js
-
-## API Keys and accounts
-
-1. Yandex
-
-2. Clockworkmicro https://www.clockworkmicro.com/
-
-## Map sources
-
-I use raster maps from various APIs that are free and doesn't require any auth key.
-
-```js
-export const sources = [
+export const sources: Source[] = [
   {
     name: "OpenStreetMap",
     url: "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
@@ -394,5 +367,114 @@ export const sources = [
     type: "overlay",
     description: "Shadow borders and coasts overlay",
   },
+  /*
+  {
+    name: "Strava Heatmap - All Sport",
+    url: "https://content-a.strava.com/identified/globalheat/all/hot/{z}/{x}/{y}.png?v=19",
+    type: "overlay-sport",
+    description: "Strava heatmap",
+  },
+  {
+    name: "Strava Heatmap - Swim",
+    url: "https://content-a.strava.com/identified/globalheat/sport_Swim/hot/{z}/{x}/{y}.png?v=19",
+    type: "overlay-sport",
+    description: "Strava heatmap",
+  },
+  {
+    name: "Strava Heatmap - Run",
+    url: "https://content-a.strava.com/identified/globalheat/sport_Run/hot/{z}/{x}/{y}.png?v=19",
+    type: "overlay-sport",
+    description: "Strava heatmap",
+  },
+  {
+    name: "Strava Heatmap - Walk",
+    url: "https://content-a.strava.com/identified/globalheat/sport_Walk/hot/{z}/{x}/{y}.png?v=19",
+    type: "overlay-sport",
+    description: "Strava heatmap",
+  },
+  {
+    name: "Strava Heatmap - Hike",
+    url: "https://content-a.strava.com/identified/globalheat/sport_Hike/hot/{z}/{x}/{y}.png?v=19",
+    type: "overlay-sport",
+    description: "Strava heatmap",
+  },
+  {
+    name: "https://maps.clockworkmicro.com/streets/v1/raster/{z}/{x}/{y}.png",
+    url: "https://maps.clockworkmicro.com/streets/v1/raster/{z}/{x}/{y}.png",
+    type: "find what is it",
+    description: "",
+  },
+  {
+    name: "https://api.maptiler.com/maps/streets/{z}/{x}/{y}.png",
+    url: "https://api.maptiler.com/maps/streets/{z}/{x}/{y}.png",
+    type: "find what is it",
+    description: "",
+  },
+  {
+    name: "https://api.maptiler.com/maps/outdoor/{z}/{x}/{y}.png",
+    url: "https://api.maptiler.com/maps/outdoor/{z}/{x}/{y}.png",
+    type: "find what is it",
+    description: "",
+  },
+  {
+    name: "https://api.maptiler.com/maps/pastel/{z}/{x}/{y}.png",
+    url: "https://api.maptiler.com/maps/pastel/{z}/{x}/{y}.png",
+    type: "find what is it",
+    description: "",
+  },
+  {
+    name: "https://api.maptiler.com/maps/basic/{z}/{x}/{y}.png",
+    url: "https://api.maptiler.com/maps/basic/{z}/{x}/{y}.png",
+    type: "find what is it",
+    description: "",
+  },
+  {
+    name: "https://maptiles.p.rapidapi.com/en/map/v1/{z}/{x}/{y}.png",
+    url: "https://maptiles.p.rapidapi.com/en/map/v1/{z}/{x}/{y}.png",
+    type: "find what is it",
+    description: "",
+  },
+  {
+    name: "https://maptiles.p.rapidapi.com/fr/map/v1/{z}/{x}/{y}.png",
+    url: "https://maptiles.p.rapidapi.com/fr/map/v1/{z}/{x}/{y}.png",
+    type: "find what is it",
+    description: "",
+  },
+  {
+    name: "https://maptiles.p.rapidapi.com/es/map/v1/{z}/{x}/{y}.png",
+    url: "https://maptiles.p.rapidapi.com/es/map/v1/{z}/{x}/{y}.png",
+    type: "find what is it",
+    description: "",
+  },
+  {
+    name: "https://cartodb-basemaps-{s}.global.ssl.fastly.net/light_all/{z}/{x}/{y}.png",
+    url: "https://cartodb-basemaps-{s}.global.ssl.fastly.net/light_all/{z}/{x}/{y}.png",
+    type: "find what is it",
+    description: "",
+  },
+  {
+    name: "https://cartodb-basemaps-{s}.global.ssl.fastly.net/dark_all/{z}/{x}/{y}.png",
+    url: "https://cartodb-basemaps-{s}.global.ssl.fastly.net/dark_all/{z}/{x}/{y}.png",
+    type: "find what is it",
+    description: "",
+  },
+  {
+    name: "https://retina-tiles.p.rapidapi.com/local/osm{r}/v1/{z}/{x}/{y}.png",
+    url: "https://retina-tiles.p.rapidapi.com/local/osm{r}/v1/{z}/{x}/{y}.png",
+    type: "find what is it",
+    description: "",
+  },
+  {
+    name: "https://retina-tiles.p.rapidapi.com/local/osm/v1/{z}/{x}/{y}.png",
+    url: "https://retina-tiles.p.rapidapi.com/local/osm/v1/{z}/{x}/{y}.png",
+    type: "find what is it",
+    description: "",
+  },
+  {
+    name: "https://maps.geoapify.com/v1/tile/osm-bright-smooth/{z}/{x}/{y}.png",
+    url: "https://maps.geoapify.com/v1/tile/osm-bright-smooth/{z}/{x}/{y}.png",
+    type: "find what is it",
+    description: "",
+  },
+  */
 ];
-```

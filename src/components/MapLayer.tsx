@@ -1,9 +1,10 @@
 import { useCallback, useRef, useState } from "react";
 import LayerMenu from "./LayerMenu";
-import { sources, LOCAL_STORAGE_LAYERS_KEY } from "../utils/constants";
+import { sources } from "../utils/sources";
 import ResetRotationButton from "./ResetRotationButton";
 import OpenLayerMap from "./OpenLayerMap";
 import SearchButton from "./SearchButton";
+import { LOCAL_STORAGE_LAYERS_KEY } from "../utils/constants";
 
 const DEFAULT_LAYERS: string[] = [
   sources.find((s) => s.defaultBaseMap)?.name ?? sources[0].name,

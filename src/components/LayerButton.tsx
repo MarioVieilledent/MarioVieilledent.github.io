@@ -1,5 +1,5 @@
 import { LuEye, LuEyeClosed } from "react-icons/lu";
-import type { Source } from "../utils/constants";
+import type { Source } from "../types/types";
 
 const makePreviewUrl = (url: string): string =>
   url

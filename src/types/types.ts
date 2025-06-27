@@ -14,3 +14,12 @@ export interface OSMnominatimResponse {
   display_name: string;
   boundingbox: string[4];
 }
+
+export interface Source {
+  name: string;
+  url: string;
+  type: string;
+  description: string;
+  defaultBaseMap?: boolean;
+  defaultOverlay?: boolean;
+}

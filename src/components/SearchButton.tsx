@@ -39,8 +39,6 @@ const SearchButton = ({ flyTo }: SearchButtonProps) => {
                 Number(data[0].lat),
                 computeZoomForBoundingBox(data[0].boundingbox)
               );
-
-              inputRef.current?.blur();
             }
           })
         )
@@ -52,24 +50,24 @@ const SearchButton = ({ flyTo }: SearchButtonProps) => {
     <form
       onSubmit={handleSearch}
       className={`fixed top-4 left-20 z-50 ${
-        isFocused ? "w-84 max-w-[calc(100%-10rem)]" : "w-12"
-      } h-12 p-4 gap-4 rounded-full bg-white flex justify-center items-center shadow-lg transition-all`}
+        isFocused ? "w-84 max-w-[calc(100%-10rem)] gap-4" : "w-12"
+      } h-12 p-4 rounded-full bg-white flex justify-center items-center shadow-lg transition-all`}
+      onFocus={() => setIsFocused(true)}
+      onBlur={() => setIsFocused(false)}
       onClick={() => {
-        setIsFocused(true);
+        if (!isFocused) {
+          setIsFocused(true);
+        }
       }}
     >
-      {isFocused && (
-        <input
-          ref={inputRef}
-          onFocus={() => setIsFocused(true)}
-          onBlur={() => setIsFocused(false)}
-          className="w-full focus:outline-none"
-          type="text"
-          name="search"
-          id="search"
-          required
-        />
-      )}
+      <input
+        ref={inputRef}
+        className={`${isFocused ? "w-full" : "w-0"} focus:outline-none`}
+        type="text"
+        name="search"
+        id="search"
+        required
+      />
       <button
         type="submit"
         className="p-0 m-0 bg-transparent border-none"

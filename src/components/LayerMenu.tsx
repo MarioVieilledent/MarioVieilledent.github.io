@@ -1,9 +1,9 @@
 import { LuLayers2 } from "react-icons/lu";
-import { sources } from "../utils/constants";
 import LayerButton from "./LayerButton";
 import { useTranslation } from "../utils/TranslationContext";
 import Float from "./Float";
 import { useIsMobile } from "../utils/isMobileHook";
+import { sources } from "../utils/sources";
 
 interface LayerMenuProps {
   layers: string[];

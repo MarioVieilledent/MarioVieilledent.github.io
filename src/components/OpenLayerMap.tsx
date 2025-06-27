@@ -6,16 +6,17 @@ import XYZ from "ol/source/XYZ";
 import { forwardRef, useEffect, useImperativeHandle, useRef } from "react";
 import { fromLonLat } from "ol/proj";
 import {
-  sources,
   LOCAL_STORAGE_CENTER_KEY,
   LOCAL_STORAGE_LAYERS_KEY,
   LOCAL_STORAGE_RESOLUTION_KEY,
 } from "../utils/constants";
+import { sources } from "../utils/sources";
 
 const DEFAULT_CENTER = [5, 55];
 const DEFAULT_ZOOM = 4;
 
-const FLY_DURATION = 1000;
+const FLY_DURATION = 500;
+const RESET_ROTATION_DURATION = 300;
 
 interface OpenLayerMapProps {
   setRotation: React.Dispatch<React.SetStateAction<number>>;
@@ -31,7 +32,10 @@ const OpenLayerMap = forwardRef<
 >(({ setRotation, layers }, ref) => {
   useImperativeHandle(ref, () => ({
     triggerReset() {
-      view.current.setRotation(0);
+      view.current.animate({
+        rotation: 0,
+        duration: RESET_ROTATION_DURATION,
+      });
     },
     triggerFlyTo(lon: number, lat: number, zoom?: number) {
       const targetZoom = zoom ?? view.current.getZoom();
