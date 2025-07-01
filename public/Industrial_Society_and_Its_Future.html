@@ -8,35 +8,13 @@
 </head>
 
 <body style="max-width: 1200px; margin: auto; padding: 1rem;">
-    <script>
-        const style = document.getElementById("dynamic-style");
-        const removeStyles = () => (style.textContent = "");
-        const arialJustify = () => style.textContent = "body{font-family:Arial,sans-serif;line-height:1.6;text-align:justify;margin:1em;}h1,h2{font-family:Arial,sans-serif;}";
-        const darkMode = () => style.textContent = "body{background-color:#121212;color:#e0e0e0;font-family:Georgia,serif;line-height:1.6;margin:1em;}h1,h2{color:#ffffff;}a{color:#bb86fc;}";
-        const sepiaMode = () => style.textContent = 'body{background-color:#f4ecd8;color:#5b4636;font-family:"PalatinoLinotype",serif;line-height:1.8;margin:1em;}h1,h2{color: #4b3b2b;}';
-        const newspaperTheme = () => style.textContent = "body{background:#fdfdf8;color:#222;font-family:Georgia,serif;line-height:1.8;margin:1em;}h1,h2{color:#111;}";
-        const darkBrownTheme = () => style.textContent = "body{background:#2b1b0f;color:#e6d3b3;font-family:'Times New Roman',serif;line-height:1.8;margin:1em;}h1,h2{color:#f5e2c8;}";
-        const slateDarkTheme = () => style.textContent = "body{background:#1e293b;color:#cbd5e1;font-family:'Roboto Slab',serif;line-height:1.7;margin:1em;}h1,h2{color:#e2e8f0;}";
-        const oliveLightTheme = () => style.textContent = "body{background:#f9f5e3;color:#3e3a27;font-family:Cambria,serif;line-height:1.7;margin:1em;}h1,h2{color:#2d281b;}";
-    </script>
-
-    <div style="text-align: center;">
+<div style="text-align: center;">
+    <div id="buttons"></div>
     <h1>Industrial Society and Its Future</h1>
     <h3>Theodore Kaczynski</h3>
     <p>1995</p>
-    <span style="font-style: oblique;">This essay first appeared appeared in The New York Times and The Washington Post on Sept 19, 1995. It
+    <p style="font-style: oblique;">This essay first appeared appeared in The New York Times and The Washington Post on Sept 19, 1995. It
     was published under the pseudonym FC, for Freedom Club.</p>
-
-    <div>
-        <button onclick="removeStyles()">Remove all styles</button>
-        <button onclick="arialJustify()">Light Arial</button>
-        <button onclick="sepiaMode()">Light Sepia</button>
-        <button onclick="newspaperTheme()">Light Newspaper</button>
-        <button onclick="oliveLightTheme()">Light Olive</button>
-        <button onclick="darkMode()">Dark</button>
-        <button onclick="darkBrownTheme()">Dark brown</button>
-        <button onclick="slateDarkTheme()">Dark Slate</button>
-    </div>
 </div>
 
 <h2>INTRODUCTION</h2>
@@ -631,5 +609,24 @@
 
 <p>36. (Paragraph 229) It is important to understand that we mean someone who sympathizes with these MOVEMENTS as they exist today in our society. One who believes that women, homosexuals, etc., should have equal rights is not necessary a leftist. The feminist, gay rights, etc., movements that exist in our society have the particular ideological tone that characterizes leftism, and if one believes, for example, that women should have equal rights it does not necessarily follow that one must sympathize with the feminist movement as it exists today.</p>
 
+<script>
+    const styles = {
+        "Remove All Styles": "",
+        "Arial": "font-family:Arial,sans-serif;line-height:1.5;text-align:justify;",
+        "Sepia": "background:#f4ecd8;color:#3f2e21;font-family:Georgia,serif;line-height:1.7;text-align:justify;",
+        "Olive": "background:#f9f5e3;color:#3e3a27;font-family:Cambria,serif;line-height:1.6;text-align:justify;",
+        "Dark": "background:#111;color:#eee;font-family:Georgia,serif;line-height:1.5;text-align:justify;",
+        "Brown": "background:#3b2a1a;color:#f0e0c8;line-height:1.7;text-align:justify;",
+        "Slate": "background:#1e293b;color:#cbd5e1;font-family:Arial,serif;line-height:1.6;text-align:justify;"
+    };
+    const styleTag = document.getElementById('dynamic-style');
+    const buttons = document.getElementById('buttons');
+    const apply = (key) => styleTag.textContent = `
+        body{${styles[key]}}
+        ::selection{background:#FFEE33;color:black;text-shadow:none;}
+    `;
+    apply("Slate");
+    Object.entries(styles).forEach(([key, value]) => buttons.innerHTML += `<button style="${value}" id="${key}" onclick="apply('${key}')">${key}</button>`);
+</script>
 </body>
 </html>
