@@ -24,3 +24,7 @@ h3 {
 button {
   cursor: pointer;
 }
+
+a {
+  text-decoration: underline;
+}

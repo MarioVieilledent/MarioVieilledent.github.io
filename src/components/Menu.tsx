@@ -1,7 +1,7 @@
 import duckLogo from "/favicon.png";
 import LanguageSelection from "./LanguageSelection";
 import { useTranslation } from "../utils/TranslationContext";
-import { LuGithub, LuMenu } from "react-icons/lu";
+import { LuBook, LuGithub, LuMenu } from "react-icons/lu";
 import Float from "./Float";
 
 const Menu = () => {
@@ -20,12 +20,20 @@ const Menu = () => {
       <span>{t("websiteDescription")}</span>
       <LanguageSelection />
       <a
-        className="flex items-center gap-4"
+        className="flex items-center gap-2"
         href="https://github.com/MarioVieilledent/MarioVieilledent.github.io"
         target="_blank"
       >
         <LuGithub size="24" />
         GitHub
+      </a>
+      <a
+        className="flex items-center gap-2"
+        href="Industrial_Society_and_Its_Future.html"
+        target="_blank"
+      >
+        <LuBook size="24" />
+        Industrial Society and Its Future
       </a>
     </Float>
   );
