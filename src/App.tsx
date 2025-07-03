@@ -1,7 +1,8 @@
 import { useEffect, useState } from "react";
-import MapLayer from "./components/MapLayer";
 import { LOCAL_STORAGE_ROUTE_KEY } from "./utils/constants";
-import Menu from "./components/Menu";
+import { Routes, Route, HashRouter } from "react-router";
+import LearnNorwegian from "./pages/LearnNorwegian";
+import MapPage from "./pages/MapPage";
 
 const DEFAULT_PAGE = "home";
 
@@ -23,10 +24,13 @@ const App = () => {
   }, [route]);
 
   return (
-    <>
-      <MapLayer />
-      <Menu />
-    </>
+    <HashRouter>
+      <Routes>
+        <Route index element={<MapPage />} />
+        <Route path="about" element={<>about</>} />
+        <Route path="learn" element={<LearnNorwegian />}></Route>
+      </Routes>
+    </HashRouter>
   );
 };
 

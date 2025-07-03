@@ -24,4 +24,19 @@ export const translations = {
   "3dGlobe": ["3D Globe", "3D Klode", "Globe 3D"],
   sport: ["Sport", "Sport", "Sport"],
   train: ["Train", "Tog", "Train"],
+  loading: ["Loading", "Laster", "Chargement"],
+  translateThisWord: [
+    "Translate this word",
+    "Oversett dette ordet",
+    "Traduis ce mot",
+  ],
+  english: ["English", "Engelsk", "Anglais"],
+  norwegian: ["Norwegian", "Norsk", "Norvégien"],
+  typeYourTranslation: [
+    "Type your translation",
+    "Skriv inn oversettelsen din",
+    "Tapez votre traduction",
+  ],
+  next: ["Next", "Neste", "Suivant"],
+  submit: ["Submit", "Send inn", "Valider"],
 };

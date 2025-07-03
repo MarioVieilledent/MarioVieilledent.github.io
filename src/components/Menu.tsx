@@ -3,9 +3,11 @@ import LanguageSelection from "./LanguageSelection";
 import { useTranslation } from "../utils/TranslationContext";
 import { LuBook, LuGithub, LuMenu } from "react-icons/lu";
 import Float from "./Float";
+import { useNavigate } from "react-router";
 
 const Menu = () => {
   const { t } = useTranslation();
+  const navigate = useNavigate();
 
   return (
     <Float
@@ -35,6 +37,13 @@ const Menu = () => {
         <LuBook size="24" />
         Industrial Society and Its Future
       </a>
+      <span
+        className="flex items-center gap-2"
+        onClick={() => navigate("learn")}
+      >
+        <LuBook size="24" />
+        Lære Norsk
+      </span>
     </Float>
   );
 };
