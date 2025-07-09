@@ -32,6 +32,7 @@ export const translations = {
   ],
   english: ["English", "Engelsk", "Anglais"],
   norwegian: ["Norwegian", "Norsk", "Norvégien"],
+  learnNorwegian: ["Learn Norwegian", "Lære Norsk", "Apprendre le Norvégien"],
   typeYourTranslation: [
     "Type your translation",
     "Skriv inn oversettelsen din",
@@ -39,4 +40,9 @@ export const translations = {
   ],
   next: ["Next", "Neste", "Suivant"],
   submit: ["Submit", "Send inn", "Valider"],
+  iDontKnow: ["I don't know", "Jeg vet ikke", "Je ne sais pas"],
+  goBackHome: ["Go back home", "Gå tilbake hjem", "Retour au menu principal"],
+  words: ["words", "ordre", "mots"],
+  success: ["correct", "riktig", "corrects"],
+  failure: ["wrong", "feil", "faux"],
 };

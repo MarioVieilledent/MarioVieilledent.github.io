@@ -479,12 +479,12 @@ export const words: Word[] = [
   {
     norwegian: "En del av",
     english: "a part of",
-    partOfSpeech: "other",
+    partOfSpeech: "expression",
   },
   {
     norwegian: "Som regel",
     english: "usually",
-    partOfSpeech: "other",
+    partOfSpeech: "expression",
   },
   {
     norwegian: "Tilgjengelig",
@@ -565,6 +565,11 @@ export const words: Word[] = [
     norwegian: "Å skrive ut",
     english: "to print",
     partOfSpeech: "verb",
+  },
+  {
+    norwegian: "Skriver (en)",
+    english: "printer",
+    partOfSpeech: "noun",
   },
   {
     norwegian: "Å suge",
@@ -1273,23 +1278,23 @@ export const words: Word[] = [
     partOfSpeech: "expression",
   },
   {
-    norwegian: "Sekstitallet",
-    english: "the sixties",
+    norwegian: "Sekstitall (et)",
+    english: "sixties",
     partOfSpeech: "noun",
   },
   {
-    norwegian: "Syttitallet",
-    english: "the seventies",
+    norwegian: "Syttitall (et)",
+    english: "seventies",
     partOfSpeech: "noun",
   },
   {
-    norwegian: "Åttitallet",
-    english: "the eighties",
+    norwegian: "Åttitallet (et)",
+    english: "eighti",
     partOfSpeech: "noun",
   },
   {
-    norwegian: "Nittitallet",
-    english: "the nineties",
+    norwegian: "Nittitall (et)",
+    english: "nineties",
     partOfSpeech: "noun",
   },
   {
@@ -1528,4 +1533,18 @@ export const words: Word[] = [
     english: "foldable",
     partOfSpeech: "adjective",
   },
+  {
+    norwegian: "Å forbereder seg",
+    english: "to prepare (oneself)",
+    partOfSpeech: "verb",
+  },
+  {
+    norwegian: "Å klargjøre",
+    english: "to prepare (something)",
+    partOfSpeech: "verb",
+  },
+  { norwegian: "Samler (en)", english: "collector", partOfSpeech: "noun" },
+  { norwegian: "Vifte (en)", english: "fan", partOfSpeech: "noun" },
+  { norwegian: "Gulvvifte (en)", english: "floor fan", partOfSpeech: "noun" },
+  { norwegian: "Bordvifte (en)", english: "table fan", partOfSpeech: "noun" },
 ];

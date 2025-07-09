@@ -69,7 +69,6 @@ export const sources: Source[] = [
     url: "https://maps.utagawavtt.com/styles/terrain-rgb/{z}/{x}/{y}.png",
     type: "overlay-topographic",
     description: "",
-    defaultOverlay: true,
   },
   {
     name: "Thunderforest Landscape",
@@ -254,51 +253,9 @@ export const sources: Source[] = [
     description: "Yandex administrative map",
   },
   {
-    name: "Stadiamaps",
-    url: "https://tiles.stadiamaps.com/tiles/alidade_smooth/{z}/{x}/{y}.png",
-    type: "other",
-    description: "",
-  },
-  {
-    name: "Stadiamaps Dark",
-    url: "https://tiles.stadiamaps.com/tiles/alidade_smooth_dark/{z}/{x}/{y}.png",
-    type: "other",
-    description: "",
-  },
-  {
-    name: "Stadiamaps Outdoors",
-    url: "https://tiles.stadiamaps.com/tiles/outdoors/{z}/{x}/{y}.png",
-    type: "outdoor",
-    description: "",
-  },
-  {
-    name: "Stadiamaps OSM",
-    url: "https://tiles.stadiamaps.com/tiles/osm_bright/{z}/{x}/{y}.png",
-    type: "general",
-    description: "",
-  },
-  {
-    name: "Stadiamaps Stamen Toner",
-    url: "https://tiles.stadiamaps.com/tiles/stamen_toner/{z}/{x}/{y}.png",
-    type: "style",
-    description: "",
-  },
-  {
-    name: "Stadiamaps Stamen Watercolor",
-    url: "https://tiles.stadiamaps.com/tiles/stamen_watercolor/{z}/{x}/{y}.jpg",
-    type: "style",
-    description: "",
-  },
-  {
     name: "Memomaps",
     url: "https://tile.memomaps.de/tilegen/{z}/{x}/{y}.png",
     type: "transport",
-    description: "",
-  },
-  {
-    name: "Lima Labs",
-    url: "https://cdn.lima-labs.com/{z}/{x}/{y}.png?api=demo",
-    type: "other",
     description: "",
   },
   {
@@ -368,6 +325,48 @@ export const sources: Source[] = [
     description: "Shadow borders and coasts overlay",
   },
   /*
+  {
+    name: "Stadiamaps",
+    url: "https://tiles.stadiamaps.com/tiles/alidade_smooth/{z}/{x}/{y}.png",
+    type: "other",
+    description: "",
+  },
+  {
+    name: "Stadiamaps Dark",
+    url: "https://tiles.stadiamaps.com/tiles/alidade_smooth_dark/{z}/{x}/{y}.png",
+    type: "other",
+    description: "",
+  },
+  {
+    name: "Stadiamaps Outdoors",
+    url: "https://tiles.stadiamaps.com/tiles/outdoors/{z}/{x}/{y}.png",
+    type: "outdoor",
+    description: "",
+  },
+  {
+    name: "Stadiamaps OSM",
+    url: "https://tiles.stadiamaps.com/tiles/osm_bright/{z}/{x}/{y}.png",
+    type: "general",
+    description: "",
+  },
+  {
+    name: "Stadiamaps Stamen Toner",
+    url: "https://tiles.stadiamaps.com/tiles/stamen_toner/{z}/{x}/{y}.png",
+    type: "style",
+    description: "",
+  },
+  {
+    name: "Stadiamaps Stamen Watercolor",
+    url: "https://tiles.stadiamaps.com/tiles/stamen_watercolor/{z}/{x}/{y}.jpg",
+    type: "style",
+    description: "",
+  },
+  {
+    name: "Lima Labs",
+    url: "https://cdn.lima-labs.com/{z}/{x}/{y}.png?api=demo",
+    type: "other",
+    description: "",
+  },
   {
     name: "Strava Heatmap - All Sport",
     url: "https://content-a.strava.com/identified/globalheat/all/hot/{z}/{x}/{y}.png?v=19",

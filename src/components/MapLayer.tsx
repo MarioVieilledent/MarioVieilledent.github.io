@@ -8,9 +8,6 @@ import { LOCAL_STORAGE_LAYERS_KEY } from "../utils/constants";
 
 const DEFAULT_LAYERS: string[] = [
   sources.find((s) => s.defaultBaseMap)?.name ?? sources[0].name,
-  sources.find((s) => s.defaultOverlay)?.name ??
-    sources.find((s) => s.type === "overlay")?.name ??
-    "",
 ];
 
 const getInitialLayers = (): string[] => {

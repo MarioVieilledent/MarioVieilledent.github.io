@@ -1,7 +1,7 @@
 import duckLogo from "/favicon.png";
 import LanguageSelection from "./LanguageSelection";
 import { useTranslation } from "../utils/TranslationContext";
-import { LuBook, LuGithub, LuMenu } from "react-icons/lu";
+import { LuBook, LuGithub, LuMenu, LuSchool } from "react-icons/lu";
 import Float from "./Float";
 import { useNavigate } from "react-router";
 
@@ -37,13 +37,13 @@ const Menu = () => {
         <LuBook size="24" />
         Industrial Society and Its Future
       </a>
-      <span
-        className="flex items-center gap-2"
+      <a
+        className="flex items-center gap-2 cursor-pointer"
         onClick={() => navigate("learn")}
       >
-        <LuBook size="24" />
-        Lære Norsk
-      </span>
+        <LuSchool size="24" />
+        {t("learnNorwegian")}
+      </a>
     </Float>
   );
 };

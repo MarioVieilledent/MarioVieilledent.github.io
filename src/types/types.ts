@@ -21,5 +21,4 @@ export interface Source {
   type: string;
   description: string;
   defaultBaseMap?: boolean;
-  defaultOverlay?: boolean;
 }
