@@ -42,7 +42,7 @@ export const translations = {
   submit: ["Submit", "Send inn", "Valider"],
   iDontKnow: ["I don't know", "Jeg vet ikke", "Je ne sais pas"],
   goBackHome: ["Go back home", "Gå tilbake hjem", "Retour au menu principal"],
-  words: ["words", "ordre", "mots"],
+  words: ["words", "ord", "mots"],
   success: ["correct", "riktig", "corrects"],
   failure: ["wrong", "feil", "faux"],
 };
