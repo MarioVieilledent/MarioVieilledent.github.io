@@ -1364,6 +1364,11 @@ export const words: Word[] = [
     partOfSpeech: "noun",
   },
   {
+    norwegian: "Utfordrende",
+    english: "challenging",
+    partOfSpeech: "adjective",
+  },
+  {
     norwegian: "I stor grad",
     english: "to a large extend",
     partOfSpeech: "expression",
@@ -1547,4 +1552,13 @@ export const words: Word[] = [
   { norwegian: "Vifte (en)", english: "fan", partOfSpeech: "noun" },
   { norwegian: "Gulvvifte (en)", english: "floor fan", partOfSpeech: "noun" },
   { norwegian: "Bordvifte (en)", english: "table fan", partOfSpeech: "noun" },
+  { norwegian: "Vedfyrt", english: "wood-fired", partOfSpeech: "adjective" },
+  { norwegian: "Forening (en)", english: "association", partOfSpeech: "noun" },
+  {
+    norwegian: "Å være glad i",
+    english: "to be fond of",
+    partOfSpeech: "verb",
+  },
+  { norwegian: "Pave (en)", english: "pope", partOfSpeech: "noun" },
+  { norwegian: "Brygge (en)", english: "pier", partOfSpeech: "noun" },
 ];
