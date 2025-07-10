@@ -683,7 +683,7 @@ export const words: Word[] = [
   },
   {
     norwegian: "Syn (et)",
-    english: "sight, ",
+    english: "sight",
     partOfSpeech: "noun",
   },
   {
@@ -1289,7 +1289,7 @@ export const words: Word[] = [
   },
   {
     norwegian: "Åttitallet (et)",
-    english: "eighti",
+    english: "eighties",
     partOfSpeech: "noun",
   },
   {
@@ -1561,4 +1561,5 @@ export const words: Word[] = [
   },
   { norwegian: "Pave (en)", english: "pope", partOfSpeech: "noun" },
   { norwegian: "Brygge (en)", english: "pier", partOfSpeech: "noun" },
+  { norwegian: "Trådløs", english: "wireless", partOfSpeech: "adjective" },
 ];
