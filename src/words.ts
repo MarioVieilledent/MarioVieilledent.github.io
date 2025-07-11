@@ -758,10 +758,16 @@ export const words: Word[] = [
     partOfSpeech: "noun",
   },
   {
+    norwegian: "Samling (en)",
+    english: "collection",
+    partOfSpeech: "noun",
+  },
+  {
     norwegian: "Å samle",
     english: "to collect",
     partOfSpeech: "verb",
   },
+  { norwegian: "Samler (en)", english: "collector", partOfSpeech: "noun" },
   {
     norwegian: "Sjenert",
     english: "timid",
@@ -1549,7 +1555,6 @@ export const words: Word[] = [
     english: "to prepare (something)",
     partOfSpeech: "verb",
   },
-  { norwegian: "Samler (en)", english: "collector", partOfSpeech: "noun" },
   { norwegian: "Vifte (en)", english: "fan", partOfSpeech: "noun" },
   { norwegian: "Gulvvifte (en)", english: "floor fan", partOfSpeech: "noun" },
   { norwegian: "Bordvifte (en)", english: "table fan", partOfSpeech: "noun" },
@@ -1565,7 +1570,7 @@ export const words: Word[] = [
   { norwegian: "Trådløs", english: "wireless", partOfSpeech: "adjective" },
   { norwegian: "Motorsag (en)", english: "chainsaw", partOfSpeech: "noun" },
   { norwegian: "Bukt (en)", english: "bay", partOfSpeech: "noun" },
-  { norwegian: "Å lade = ", english: "charge", partOfSpeech: "verb" },
+  { norwegian: "Å lade", english: "charge", partOfSpeech: "verb" },
   { norwegian: "Nødvendigvis", english: "necessarily", partOfSpeech: "adverb" },
   {
     norwegian: "Generelt",
@@ -1573,4 +1578,13 @@ export const words: Word[] = [
     partOfSpeech: "adjective",
   },
   { norwegian: "Vanligvis", english: "usually", partOfSpeech: "adverb" },
+  { norwegian: "Å bemerke", english: "to remark", partOfSpeech: "verb" },
+  { norwegian: "Bemerkning (en)", english: "remark", partOfSpeech: "noun" },
+  { norwegian: "Merke (et)", english: "brand", partOfSpeech: "noun" },
+  {
+    norwegian: "Slags (en)",
+    english: "kind (a kind of, a sort of)",
+    partOfSpeech: "noun, determiner",
+  },
+  { norwegian: "Liste (en)", english: "list", partOfSpeech: "noun" },
 ];
