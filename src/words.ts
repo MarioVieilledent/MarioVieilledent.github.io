@@ -183,7 +183,7 @@ export const words: Word[] = [
   },
   {
     norwegian: "Nydelig",
-    english: "gorgeous / lovely",
+    english: "gorgeous, lovely",
     partOfSpeech: "adjective",
   },
   {
@@ -513,7 +513,7 @@ export const words: Word[] = [
   },
   {
     norwegian: "Mening (en)",
-    english: "opinion / meaning",
+    english: "opinion, meaning",
     partOfSpeech: "noun",
   },
   {
@@ -702,7 +702,7 @@ export const words: Word[] = [
     partOfSpeech: "noun",
   },
   {
-    norwegian: "Valgfri, valgfritt",
+    norwegian: "Valgfri",
     english: "optional",
     partOfSpeech: "adjective",
   },
@@ -903,7 +903,7 @@ export const words: Word[] = [
   },
   {
     norwegian: "Ekkel",
-    english: "disgusting, nasty, gross, creepy",
+    english: "nasty, gross, disgusting, creepy",
     partOfSpeech: "adjective",
   },
   {
@@ -1079,12 +1079,12 @@ export const words: Word[] = [
   },
   {
     norwegian: "Å fornye",
-    english: "to renew",
+    english: "to renew, to renovate",
     partOfSpeech: "verb",
   },
   {
     norwegian: "Det er lik",
-    english: "it's equal/similar",
+    english: "it's equal, it's similar",
     partOfSpeech: "expression",
   },
   {
@@ -1528,7 +1528,7 @@ export const words: Word[] = [
   { norwegian: "Behov (et)", english: "need", partOfSpeech: "noun" },
   {
     norwegian: "Avtale (en)",
-    english: "agreement/apointment",
+    english: "agreement, apointment",
     partOfSpeech: "noun",
   },
   { norwegian: "Brett (en)", english: "fold", partOfSpeech: "noun" },
