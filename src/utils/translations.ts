@@ -45,4 +45,12 @@ export const translations = {
   words: ["words", "ord", "mots"],
   success: ["correct", "riktig", "corrects"],
   failure: ["wrong", "feil", "faux"],
+  statistics: ["Statistics", "Statistikk", "Statistiques"],
+  listOfWords: ["List of words", "Ordliste", "Liste des mots"],
+  searchHere: [
+    "Search a word (en, no)",
+    "Søk etter et ord (en, no)",
+    "Chercher un mot (en, no)",
+  ],
+  note: ["Note", "Bemerkning", "Note"],
 };

@@ -4,6 +4,7 @@ import { words } from "../words";
 import { useTranslation } from "../utils/TranslationContext";
 import { LuChevronLeft } from "react-icons/lu";
 import { useNavigate } from "react-router";
+import LanguageSelection from "../components/LanguageSelection";
 
 type Stats = {
   success: number;
@@ -87,13 +88,16 @@ const LearnNorwegian = () => {
     <div className="w-full h-full flex flex-col gap-4">
       <div className="flex justify-center gap-8 py-4">
         <div className="flex flex-col gap-4 max-w-md p-6 bg-white rounded-2xl shadow-lg">
-          <a
-            className="flex items-center gap-2 cursor-pointer"
-            onClick={() => navigate("/")}
-          >
-            <LuChevronLeft size="24" />
-            {t("goBackHome")}
-          </a>
+          <div className="flex gap-8">
+            <a
+              className="flex items-center gap-2 cursor-pointer"
+              onClick={() => navigate("/")}
+            >
+              <LuChevronLeft size="24" />
+              {t("goBackHome")}
+            </a>
+            <LanguageSelection />
+          </div>
           <h2 className="text-2xl  text-center text-gray-500">
             {t("translateThisWord")}
           </h2>
@@ -161,11 +165,17 @@ const LearnNorwegian = () => {
                 {t("iDontKnow")}
               </button>
             )}
+            {feedback && question.word.note && (
+              <>
+                <span>{t("note")}</span>
+                <span className="text-sm">{question.word.note}</span>
+              </>
+            )}
           </form>
         </div>
 
         <div className="flex flex-col gap-2 max-w-120 max-h-100 self-center p-6 bg-white rounded-2xl shadow-lg">
-          <span>Statistics</span>
+          <span>{t("statistics")}</span>
           <div className="flex justify-between">
             <span className="text-sm">{`${words.length} ${t("words")}`}</span>
             <span className="text-sm text-green-800">{`${Object.values(
@@ -176,9 +186,9 @@ const LearnNorwegian = () => {
             ).reduce((acc, s) => s.failure + acc, 0)} ${t("failure")}`}</span>
           </div>
           <div className="flex gap-4">
-            <span>List of all words</span>
+            <span>{t("listOfWords")}</span>
             <input
-              placeholder="Search here"
+              placeholder={t("searchHere")}
               type="text"
               onChange={(e) => setSearch(e.target.value)}
             />

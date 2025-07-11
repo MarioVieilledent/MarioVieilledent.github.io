@@ -277,9 +277,10 @@ export const words: Word[] = [
     partOfSpeech: "noun",
   },
   {
-    norwegian: "Teip (en)",
+    norwegian: "Teip/tape (en)",
     english: "tape",
     partOfSpeech: "noun",
+    note: 'Begge ordene, "tape" og "teip", brukes om klebebånd, men "teip" er den vanligste skrivemåten på bokmål, mens "tape" kan referere til et substantiv (bånd) eller et verb (å tape, som i å miste noe eller å ta opp på lydbånd). "Teip" er spesielt brukt om klebebånd, mens "tape" kan referere til ulike typer bånd eller det å miste noe.',
   },
   {
     norwegian: "Speil (et)",
