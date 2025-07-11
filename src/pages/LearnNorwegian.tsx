@@ -16,6 +16,8 @@ const LearnNorwegian = () => {
   const { t } = useTranslation();
   const navigate = useNavigate();
 
+  const [search, setSearch] = useState("");
+
   const [question, setQuestion] = useState<{
     word: Word;
     direction: "en-nb" | "nb-en";
@@ -83,93 +85,137 @@ const LearnNorwegian = () => {
 
   return (
     <div className="w-full h-full flex flex-col gap-4">
-      <div className="flex flex-col gap-4 max-w-md mx-auto mt-10 p-6 bg-white rounded-2xl shadow-lg">
-        <a
-          className="flex items-center gap-2 cursor-pointer"
-          onClick={() => navigate("/")}
-        >
-          <LuChevronLeft size="24" />
-          {t("goBackHome")}
-        </a>
-        <div className="flex justify-between">
-          <span>{`${words.length} ${t("words")}`}</span>
-          <span>{`${Object.values(stats).reduce(
-            (acc, s) => s.success + acc,
-            0
-          )} ${t("success")}`}</span>
-          <span>{`${Object.values(stats).reduce(
-            (acc, s) => s.failure + acc,
-            0
-          )} ${t("failure")}`}</span>
-        </div>
-        <h2 className="text-2xl  text-center text-gray-500">
-          {t("translateThisWord")}
-        </h2>
-        <div className="flex items-center justify-between gap-4">
-          <div className="flex gap-2 items-center">
-            <img
-              className="w-6"
-              src={`/${question.direction === "en-nb" ? "en" : "nb"}.png`}
-              alt={`Language icon ${
-                question.direction === "en-nb" ? "en" : "nb"
-              }`}
-            />
-            <span className="text-lg font-bold">
-              {question.direction === "en-nb"
-                ? `${t("english")}: ${question.word.english}`
-                : `${t("norwegian")}: ${question.word.norwegian}`}
-            </span>
-          </div>
-          <span>{`${stats[question.word.english]?.success ?? 0}/${
-            stats[question.word.english]?.failure ?? 0
-          }`}</span>
-        </div>
-        <span>{question.word.partOfSpeech}</span>
-        <form
-          onSubmit={handleSubmit}
-          className="flex flex-col items-center space-y-4"
-        >
-          <input
-            type="text"
-            value={answer}
-            onChange={(e) => setAnswer(e.target.value)}
-            className="w-full px-4 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500"
-            placeholder={`${t("typeYourTranslation")}...`}
-          />
-          {feedback ? (
-            <div className="mt-6 text-center">
-              <p
-                className={`text-lg font-medium ${
-                  feedback.startsWith("Correct answer")
-                    ? "text-red-600"
-                    : "text-green-600"
+      <div className="flex justify-center gap-8 py-4">
+        <div className="flex flex-col gap-4 max-w-md p-6 bg-white rounded-2xl shadow-lg">
+          <a
+            className="flex items-center gap-2 cursor-pointer"
+            onClick={() => navigate("/")}
+          >
+            <LuChevronLeft size="24" />
+            {t("goBackHome")}
+          </a>
+          <h2 className="text-2xl  text-center text-gray-500">
+            {t("translateThisWord")}
+          </h2>
+          <div className="flex items-center justify-between gap-4">
+            <div className="flex gap-2 items-center">
+              <img
+                className="w-6"
+                src={`/${question.direction === "en-nb" ? "en" : "nb"}.png`}
+                alt={`Language icon ${
+                  question.direction === "en-nb" ? "en" : "nb"
                 }`}
-              >
-                {feedback}
-              </p>
-              <button
-                onClick={pickRandomQuestion}
-                className="mt-4 bg-gray-200 hover:bg-gray-300 text-gray-800 py-2 px-4 rounded-lg transition-colors"
-              >
-                {t("next")}
-              </button>
+              />
+              <span className="text-lg font-bold">
+                {question.direction === "en-nb"
+                  ? `${t("english")}: ${question.word.english}`
+                  : `${t("norwegian")}: ${question.word.norwegian}`}
+              </span>
             </div>
-          ) : answer ? (
-            <button
-              type="submit"
-              className="w-full bg-blue-500 text-white py-2 rounded-lg hover:bg-blue-600 transition-colors"
-            >
-              {t("submit")}
-            </button>
-          ) : (
-            <button
-              type="submit"
-              className="w-full bg-blue-500 text-white py-2 rounded-lg hover:bg-blue-600 transition-colors"
-            >
-              {t("iDontKnow")}
-            </button>
-          )}
-        </form>
+            <span>{`${stats[question.word.english]?.success ?? 0}/${
+              stats[question.word.english]?.failure ?? 0
+            }`}</span>
+          </div>
+          <span>{question.word.partOfSpeech}</span>
+          <form
+            onSubmit={handleSubmit}
+            className="flex flex-col items-center space-y-4"
+          >
+            <input
+              type="text"
+              value={answer}
+              onChange={(e) => setAnswer(e.target.value)}
+              className="w-full px-4 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500"
+              placeholder={`${t("typeYourTranslation")}...`}
+            />
+            {feedback ? (
+              <div className="mt-6 text-center">
+                <p
+                  className={`text-lg font-medium ${
+                    feedback.startsWith("Correct answer")
+                      ? "text-red-600"
+                      : "text-green-600"
+                  }`}
+                >
+                  {feedback}
+                </p>
+                <button
+                  onClick={pickRandomQuestion}
+                  className="mt-4 bg-gray-200 hover:bg-gray-300 text-gray-800 py-2 px-4 rounded-lg transition-colors"
+                >
+                  {t("next")}
+                </button>
+              </div>
+            ) : answer ? (
+              <button
+                type="submit"
+                className="w-full bg-blue-500 text-white py-2 rounded-lg hover:bg-blue-600 transition-colors"
+              >
+                {t("submit")}
+              </button>
+            ) : (
+              <button
+                type="submit"
+                className="w-full bg-blue-500 text-white py-2 rounded-lg hover:bg-blue-600 transition-colors"
+              >
+                {t("iDontKnow")}
+              </button>
+            )}
+          </form>
+        </div>
+
+        <div className="flex flex-col gap-2 max-w-120 max-h-100 self-center p-6 bg-white rounded-2xl shadow-lg">
+          <span>Statistics</span>
+          <div className="flex justify-between">
+            <span className="text-sm">{`${words.length} ${t("words")}`}</span>
+            <span className="text-sm text-green-800">{`${Object.values(
+              stats
+            ).reduce((acc, s) => s.success + acc, 0)} ${t("success")}`}</span>
+            <span className="text-sm text-red-800">{`${Object.values(
+              stats
+            ).reduce((acc, s) => s.failure + acc, 0)} ${t("failure")}`}</span>
+          </div>
+          <div className="flex gap-4">
+            <span>List of all words</span>
+            <input
+              placeholder="Search here"
+              type="text"
+              onChange={(e) => setSearch(e.target.value)}
+            />
+          </div>
+          <div className="flex flex-col overflow-auto">
+            {words
+              .filter(
+                (word) =>
+                  word.norwegian
+                    .toLocaleLowerCase()
+                    .trim()
+                    .includes(search.toLocaleLowerCase().trim()) ||
+                  word.english
+                    .toLocaleLowerCase()
+                    .trim()
+                    .includes(search.toLocaleLowerCase().trim())
+              )
+              .map((word, index) => (
+                <div className="flex gap-1">
+                  <span className="text-xs text-green-800">
+                    {Object.entries(stats).find(
+                      (s) => s[0] === word.norwegian
+                    )?.[1].success ?? 0}
+                  </span>
+                  <span className="text-xs text-red-800">
+                    {Object.entries(stats).find(
+                      (s) => s[0] === word.norwegian
+                    )?.[1].failure ?? 0}
+                  </span>
+                  <span
+                    key={index}
+                    className="text-xs"
+                  >{`${word.norwegian} = ${word.english}`}</span>
+                </div>
+              ))}
+          </div>
+        </div>
       </div>
 
       <div className="w-full grow">

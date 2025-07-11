@@ -462,12 +462,12 @@ export const words: Word[] = [
     partOfSpeech: "verb",
   },
   {
-    norwegian: "økning (en)",
+    norwegian: "Økning (en)",
     english: "increase",
     partOfSpeech: "noun",
   },
   {
-    norwegian: "Stygg, stygt",
+    norwegian: "Stygg",
     english: "ugly",
     partOfSpeech: "adjective",
   },
@@ -1562,4 +1562,14 @@ export const words: Word[] = [
   { norwegian: "Pave (en)", english: "pope", partOfSpeech: "noun" },
   { norwegian: "Brygge (en)", english: "pier", partOfSpeech: "noun" },
   { norwegian: "Trådløs", english: "wireless", partOfSpeech: "adjective" },
+  { norwegian: "Motorsag (en)", english: "chainsaw", partOfSpeech: "noun" },
+  { norwegian: "Bukt (en)", english: "bay", partOfSpeech: "noun" },
+  { norwegian: "Å lade = ", english: "charge", partOfSpeech: "verb" },
+  { norwegian: "Nødvendigvis", english: "necessarily", partOfSpeech: "adverb" },
+  {
+    norwegian: "Generelt",
+    english: "general, generally",
+    partOfSpeech: "adjective",
+  },
+  { norwegian: "Vanligvis", english: "usually", partOfSpeech: "adverb" },
 ];
