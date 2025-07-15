@@ -354,8 +354,18 @@ export const words: Word[] = [
   },
   {
     norwegian: "Skummelt",
-    english: "scary",
+    english: "scary, creepy",
     partOfSpeech: "adjective",
+  },
+  {
+    norwegian: "Skremmende",
+    english: "frightening, terrifying",
+    partOfSpeech: "adjective",
+  },
+  {
+    norwegian: "Å skremme",
+    english: "to scary",
+    partOfSpeech: "verb",
   },
   {
     norwegian: "Sjel (en)",
@@ -1396,11 +1406,6 @@ export const words: Word[] = [
     partOfSpeech: "expression",
   },
   {
-    norwegian: "I stor grad",
-    english: "to a large extend",
-    partOfSpeech: "expression",
-  },
-  {
     norwegian: "Regnværsdag (en)",
     english: "rainy day",
     partOfSpeech: "noun",
@@ -1551,6 +1556,16 @@ export const words: Word[] = [
     partOfSpeech: "verb",
   },
   {
+    norwegian: "Å forbereder",
+    english: "to prepare",
+    partOfSpeech: "verb",
+  },
+  {
+    norwegian: "Forberedelse (en)",
+    english: "preparation",
+    partOfSpeech: "noun",
+  },
+  {
     norwegian: "Å klargjøre",
     english: "to prepare (something)",
     partOfSpeech: "verb",
@@ -1587,4 +1602,10 @@ export const words: Word[] = [
     partOfSpeech: "noun, determiner",
   },
   { norwegian: "Liste (en)", english: "list", partOfSpeech: "noun" },
+  { norwegian: "Manet (en)", english: "jellyfish", partOfSpeech: "noun" },
+  {
+    norwegian: "Glassmanet (en)",
+    english: "moon jellyfish",
+    partOfSpeech: "noun",
+  },
 ];

@@ -206,6 +206,15 @@ const LearnNorwegian = () => {
                     .trim()
                     .includes(search.toLocaleLowerCase().trim())
               )
+              .sort((a, b) => {
+                const aFails =
+                  Object.entries(stats).find((s) => s[0] === a.norwegian)?.[1]
+                    .failure ?? 0;
+                const bFails =
+                  Object.entries(stats).find((s) => s[0] === b.norwegian)?.[1]
+                    .failure ?? 0;
+                return aFails < bFails ? 1 : -1;
+              })
               .map((word, index) => (
                 <div className="flex gap-1">
                   <span className="text-xs text-green-800">
