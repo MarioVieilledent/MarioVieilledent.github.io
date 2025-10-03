@@ -3,8 +3,10 @@ import GoBackHome from "../components/GoBackHome";
 import LanguageSelection from "../components/LanguageSelection";
 import { useTranslation } from "../utils/TranslationContext";
 import websiteLogo from "/favicon.png";
+import FeastDisplay from "../components/Feast";
 
 const categories = [
+  "feast",
   "soupsAndBroths",
   "riceAndPasta",
   "meatAndFish",
@@ -21,7 +23,7 @@ interface RecipeDetails {
   note?: string;
 }
 
-interface Recipe {
+export interface Recipe {
   category: Category;
   en: RecipeDetails;
   fr: RecipeDetails;
@@ -29,16 +31,42 @@ interface Recipe {
   no?: RecipeDetails;
 }
 
+interface FeastDetails {
+  name: string;
+  idea: string[];
+  menu: string[];
+  notes: {
+    title: string;
+    description: string[];
+  };
+}
+
+export interface Feast {
+  countryCode: string;
+  ranking: number;
+  pictures: string[];
+  en: FeastDetails;
+  fr: FeastDetails;
+  it: FeastDetails;
+  no?: FeastDetails;
+}
+
 const Recipes = () => {
   const { t } = useTranslation();
 
   const [selectedTab, setSelectedTab] = useState<Category>("soupsAndBroths");
   const [recipes, setRecipes] = useState<Recipe[]>([]);
+  const [feasts, setFeasts] = useState<Feast[]>([]);
 
   fetch("/recipes.json")
     .then((response) => response.json())
     .then((data) => setRecipes(data))
     .catch((error) => console.error("Error fetching recipes:", error));
+
+  fetch("/feasts.json")
+    .then((response) => response.json())
+    .then((data) => setFeasts(data))
+    .catch((error) => console.error("Error fetching feasts:", error));
 
   return (
     <div className="flex flex-col max-w-4xl mx-auto gap-8">
@@ -72,11 +100,13 @@ const Recipes = () => {
       </div>
 
       <div>
-        {recipes
-          .filter((recipe) => recipe.category === selectedTab)
-          .map((recipe, index) => (
-            <div key={index}>{recipe.fr.name}</div>
-          ))}
+        {selectedTab === "feast"
+          ? feasts.map((feast, index) => (
+              <FeastDisplay key={index} feast={feast} />
+            ))
+          : recipes
+              .filter((recipe) => recipe.category === selectedTab)
+              .map((recipe, index) => <div key={index}>{recipe.fr.name}</div>)}
       </div>
     </div>
   );

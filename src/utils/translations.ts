@@ -1,5 +1,5 @@
 export const translations = {
-  title: ["The Rat Hole", "Rottehullet", "Le Trou à Rat", "La Tana del Ratto"],
+  title: ["The Rat Hole", "Rottehullet", "Le Trou du Rat", "La Tana del Ratto"],
   websiteDescription: [
     "Mario Vieilledent - My personal website: open source maps, dev, recipes and learning Norwegian",
     "Mario Vieilledent - Min personlige nettside: open source-kart, utvikling, oppskrifter og læring av norsk",
@@ -85,6 +85,7 @@ export const translations = {
   ],
   note: ["Note", "Bemerkning", "Note", "Nota"],
   recipes: ["Recipes", "Oppskrifter", "Recettes", "Ricette"],
+  feast: ["Feast", "Festmåltid", "Festin", "Banchetto"],
   soupsAndBroths: [
     "Soups and broths",
     "Supper og buljonger",
