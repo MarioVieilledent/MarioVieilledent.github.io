@@ -1,7 +1,8 @@
-# ANDEHJØRNET
+# The Rat Hole
 
 1. [Explore free raster maps](https://mariovieilledent.github.io/)
 2. [Learn Noregian](https://mariovieilledent.github.io/#/learn) with flash cards with more than 300 words
+3. [Explore my recipes](https://mariovieilledent.github.io/#/recipes) and dishes
 
 ## Install, run, build, publish
 
@@ -15,7 +16,7 @@
 
 ## Tech stack
 
-Vite + React + TailwindCSS + OpenLayers + Three js
+Vite + React + TailwindCSS + OpenLayers
 
 ## Map sources
 

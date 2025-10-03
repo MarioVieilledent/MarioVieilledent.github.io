@@ -1,10 +1,10 @@
 import React, { useState, useEffect } from "react";
-import type { Word } from "../types";
-import { words } from "../words";
+import type { WordNorwegian } from "../types";
+import { wordsNorwegian } from "../wordsNorwegian";
 import { useTranslation } from "../utils/TranslationContext";
-import { LuChevronLeft } from "react-icons/lu";
-import { useNavigate } from "react-router";
 import LanguageSelection from "../components/LanguageSelection";
+import GoBackHome from "../components/GoBackHome";
+import { useIsMobile } from "../utils/isMobileHook";
 
 type Stats = {
   success: number;
@@ -14,13 +14,13 @@ type Stats = {
 const STORAGE_KEY = "learnNorwegianStats";
 
 const LearnNorwegian = () => {
+  const isMobile = useIsMobile();
   const { t } = useTranslation();
-  const navigate = useNavigate();
 
   const [search, setSearch] = useState("");
 
   const [question, setQuestion] = useState<{
-    word: Word;
+    word: WordNorwegian;
     direction: "en-nb" | "nb-en";
   } | null>(null);
   const [answer, setAnswer] = useState("");
@@ -36,7 +36,8 @@ const LearnNorwegian = () => {
   }, []);
 
   const pickRandomQuestion = () => {
-    const randomWord = words[Math.floor(Math.random() * words.length)];
+    const randomWord =
+      wordsNorwegian[Math.floor(Math.random() * wordsNorwegian.length)];
     const direction = Math.random() < 0.5 ? "en-nb" : "nb-en";
     setQuestion({ word: randomWord, direction });
     setAnswer("");
@@ -86,16 +87,16 @@ const LearnNorwegian = () => {
 
   return (
     <div className="w-full h-full flex flex-col gap-4">
-      <div className="flex justify-center gap-8 py-4">
+      <div
+        className={
+          isMobile
+            ? "flex flex-col gap-8 py-4"
+            : "flex justify-center gap-8 py-4"
+        }
+      >
         <div className="flex flex-col gap-4 max-w-md p-6 bg-white rounded-2xl shadow-lg">
           <div className="flex gap-8">
-            <a
-              className="flex items-center gap-2 cursor-pointer"
-              onClick={() => navigate("/")}
-            >
-              <LuChevronLeft size="24" />
-              {t("goBackHome")}
-            </a>
+            <GoBackHome />
             <LanguageSelection />
           </div>
           <h2 className="text-2xl  text-center text-gray-500">
@@ -105,7 +106,9 @@ const LearnNorwegian = () => {
             <div className="flex gap-2 items-center">
               <img
                 className="w-6"
-                src={`/${question.direction === "en-nb" ? "en" : "nb"}.png`}
+                src={`/flags/${
+                  question.direction === "en-nb" ? "gb" : "no"
+                }.svg`}
                 alt={`Language icon ${
                   question.direction === "en-nb" ? "en" : "nb"
                 }`}
@@ -177,7 +180,9 @@ const LearnNorwegian = () => {
         <div className="flex flex-col gap-2 max-w-120 max-h-100 self-center p-6 bg-white rounded-2xl shadow-lg">
           <span>{t("statistics")}</span>
           <div className="flex justify-between">
-            <span className="text-sm">{`${words.length} ${t("words")}`}</span>
+            <span className="text-sm">{`${wordsNorwegian.length} ${t(
+              "words"
+            )}`}</span>
             <span className="text-sm text-green-800">{`${Object.values(
               stats
             ).reduce((acc, s) => s.success + acc, 0)} ${t("success")}`}</span>
@@ -194,7 +199,7 @@ const LearnNorwegian = () => {
             />
           </div>
           <div className="flex flex-col overflow-auto">
-            {words
+            {wordsNorwegian
               .filter(
                 (word) =>
                   word.norwegian
@@ -237,16 +242,18 @@ const LearnNorwegian = () => {
         </div>
       </div>
 
-      <div className="w-full grow">
-        {feedback && (
-          <iframe
-            className="w-full h-full"
-            src={`https://naob.no/ordbok/${encodeURIComponent(
-              removeArtefacts(question.word.norwegian)
-            )}`}
-          ></iframe>
-        )}
-      </div>
+      {!isMobile && (
+        <div className="w-full grow">
+          {feedback && (
+            <iframe
+              className="w-full h-full"
+              src={`https://naob.no/ordbok/${encodeURIComponent(
+                removeArtefacts(question.word.norwegian)
+              )}`}
+            ></iframe>
+          )}
+        </div>
+      )}
     </div>
   );
 };

@@ -1,0 +1,194 @@
+[
+  {
+    "category": "soupsAndBroths",
+    "en": {
+      "name": "Vegetable broth",
+      "note": "The best recipe for eating vegetables with minimal effort and maximum flavor. The longer it cooks, the better it tastes, and it's even better reheated. It's great for sauces, my classic recipe, and adding to pan-fried vegetables or meat.",
+      "ingredients": [
+        "Onions, garlic, and other vegetables like leeks",
+        "Autumn and winter vegetables",
+        "Lemon or lime juice",
+        "Spices, salt & pepper",
+        "Cooked bacon or smoked pork belly (optional)",
+        "Drained chickpeas (optional)"
+      ],
+      "instructions": [
+        "Slice everything that looks like onions and sauté them in a bit of olive oil in a pot over high heat.",
+        "Add everything that looks like carrots.",
+        "Add salt, pepper, and spices like cumin and paprika.",
+        "Cover with water, and while waiting for it to boil, cut the other vegetables into cubes and add them.",
+        "Once boiling, reduce the heat to the minimum and let it simmer for at least an hour.",
+        "At the end of cooking, add a splash of lemon juice."
+      ]
+    },
+    "fr": {
+      "name": "Bouillon de légumes",
+      "note": "Meilleure recette pour manger des légumes à moindre effort et goût maximal. Plus ça cuit et meilleur c'est, réchauffé, encore meilleur. S'utilise à merveille pour les sauces, mon classique et d'en ajouter à des légumes/viande sautés à la poêle.",
+      "ingredients": [
+        "Oignons, ail et autres légumes du style poireau",
+        "Légumes d'automnes et d'hiver",
+        "Jus de citron ou citron vert",
+        "Épices, sel & poivre",
+        "Lardons ou poitrine fumée cuits à la poêle (facultatif)",
+        "Pois chiches égouttés (facultatif)"
+      ],
+      "instructions": [
+        "Emincer tout ce qui ressemble à des oignons et les faire revenir dans un fond d'huile d'olive dans la casserole, feu vif.",
+        "Ajouter tout ce qui ressemble à des carottes.",
+        "Ajouter le sel, le poivre et des épices du style cumin et paprika.",
+        "Couvrir d'eau, en attendant l'ébullition, couper en cubes les autres légumes et les rajouter.",
+        "A l'ébullition, réduire le feu au minimum et laisser mijoter pendant au moins une heure.",
+        "A la fin de la cuisson, ajouter une pointe de jus de citron."
+      ]
+    },
+    "it": {
+      "name": "Brodo di verdure",
+      "note": "La migliore ricetta per mangiare verdure con il minimo sforzo e il massimo sapore. Più a lungo cuoce, meglio è, e riscaldato è ancora meglio. È ottimo per salse, la mia ricetta classica e per aggiungere a verdure/carne saltate in padella.",
+      "ingredients": [
+        "Cipolle, aglio e altre verdure come porri",
+        "Verdure autunnali e invernali",
+        "Succo di limone o lime",
+        "Spezie, sale e pepe",
+        "Pancetta cotta o pancetta affumicata (opzionale)",
+        "Ceci scolati (opzionale)"
+      ],
+      "instructions": [
+        "Affettare tutto ciò che sembra cipolle e soffriggerle in un po' di olio d'oliva in una pentola a fuoco alto.",
+        "Aggiungere tutto ciò che sembra carote.",
+        "Aggiungere sale, pepe e spezie come cumino e paprika.",
+        "Coprire con acqua e, mentre si aspetta che bolla, tagliare le altre verdure a cubetti e aggiungerle.",
+        "Una volta che bolle, ridurre il fuoco al minimo e lasciar sobbollire per almeno un'ora.",
+        "Alla fine della cottura, aggiungere una spruzzata di succo di limone."
+      ]
+    }
+  },
+  {
+    "category": "riceAndPasta",
+    "en": {
+      "name": "Spiced pilaf rice with meat",
+      "ingredients": [
+        "1/2 cup of basmati rice",
+        "1 onion",
+        "3 to 4 garlic cloves",
+        "Spices (curry, star anise, cloves, etc.)",
+        "Meat (steak, chicken, etc.)",
+        "Olive oil",
+        "Boiling water",
+        "Vinegar (for deglazing)"
+      ],
+      "instructions": [
+        "Rinse 1/2 cup of basmati rice in cold water, and soak it for 10 to 30 minutes in cold water, changing the water several times to clean the rice well.",
+        "Sauté 1 finely chopped onion in a bit of olive oil in a saucepan.",
+        "You can add pepper and spices to the hot oil. I'm still figuring out the quantity and choice of spices, but what works well is to add a good amount of curry, star anise, cloves, and possibly avoid too many spices and focus on just one.",
+        "Add the drained rice and mix.",
+        "Optionally, you can toast the rice over high heat.",
+        "Add 1.5 to 2 volumes of boiling water, cover the saucepan, and let it simmer for about 15 to 20 minutes on low heat (the rice should absorb all the water).",
+        "Add 3 to 4 chopped garlic cloves.",
+        "Meanwhile, sear some meat in a stainless steel pan (steak is always a success), deglaze (water + a small splash of vinegar), scrape off the fond, reduce, and add the sauce directly to the rice.",
+        "You can place the meat on top of the rice to keep it warm."
+      ]
+    },
+    "fr": {
+      "name": "Riz pilaf aux épices avec viande",
+      "ingredients": [
+        "1/2 verre de riz basmati",
+        "1 oignon",
+        "3 à 4 gousses d'ail",
+        "Épices (curry, anis étoilé, clous de girofle, etc.)",
+        "Viande (steak, poulet, etc.)",
+        "Huile d'olive",
+        "Eau bouillante",
+        "Vinaigre (pour déglacer)"
+      ],
+      "instructions": [
+        "Nettoyer 1/2 verre de riz basmati à l'eau froide, et le plonger 10 à 30 minutes à l'eau froide, plusieur bains pour bien clean le riz",
+        "Faire suer 1 oignon finement émincé/ciselé dans un fond d'huile d'olive dans une casserole",
+        "Possibilité d'ajouter du poivre et des épices dans l'huile chaude, je suis pas au point encore sur la quantité et le choix des épices, ce qui marche bien c'est de mettre une honnête quantité de curry, de l'anis étoilé, des clous de girofle, éventuellement éviter trop d'épices et se concentrer sur une seule",
+        "Ajouter le riz égoutté, et mélanger",
+        "Éventuellement faire roussir le riz à feu fort",
+        "Ajouter de 1.5 à 2 volumes d'eau bouillante, couvrir la casserole et laisser frémir une 15 à 20 minutes à feu minimum (le riz doit absorber toute l'eau)",
+        "Ajouter 3 à 4 gousses d'ail hachées",
+        "Saisir une viande pendant ce temps, dans poele inox (le steak est toujours un succès), déglacer (eau + petite pointe de vinaigre), bien décoller les sucs, faire réduire, et ajouter la sauce directement dans le riz",
+        "Possibilité de placer la viande sur le riz pour la garder au chaud"
+      ]
+    },
+    "it": {
+      "name": "Riso pilaf speziato con carne",
+      "ingredients": [
+        "1/2 tazza di riso basmati",
+        "1 cipolla",
+        "3-4 spicchi d'aglio",
+        "Spezie (curry, anice stellato, chiodi di garofano, ecc.)",
+        "Carne (bistecca, pollo, ecc.)",
+        "Olio d'oliva",
+        "Acqua bollente",
+        "Aceto (per deglassare)"
+      ],
+      "instructions": [
+        "Sciacquare 1/2 tazza di riso basmati in acqua fredda e lasciarlo in ammollo per 10-30 minuti in acqua fredda, cambiando l'acqua più volte per pulire bene il riso.",
+        "Soffriggere 1 cipolla finemente tritata in un po' di olio d'oliva in una casseruola.",
+        "Puoi aggiungere pepe e spezie all'olio caldo. Sto ancora cercando di capire la quantità e la scelta delle spezie, ma ciò che funziona bene è aggiungere una buona quantità di curry, anice stellato, chiodi di garofano e possibilmente evitare troppe spezie e concentrarsi su una sola.",
+        "Aggiungere il riso scolato e mescolare.",
+        "Facoltativamente, puoi tostare il riso a fuoco alto.",
+        "Aggiungere da 1,5 a 2 volumi di acqua bollente, coprire la casseruola e lasciar sobbollire per circa 15-20 minuti a fuoco basso (il riso dovrebbe assorbire tutta l'acqua).",
+        "Aggiungere 3-4 spicchi d'aglio tritati.",
+        "Nel frattempo, rosolare della carne in una padella in acciaio inossidabile (la bistecca è sempre un successo), deglassare (acqua + un piccolo spruzzo di aceto), raschiare il fondo, ridurre e aggiungere la salsa direttamente al riso.",
+        "Puoi mettere la carne sopra il riso per tenerla al caldo."
+      ]
+    }
+  },
+  {
+    "category": "riceAndPasta",
+    "en": {
+      "name": "Homemade fresh pasta with hand crank",
+      "notes": "Allows eating 1 egg per person without overcooking the egg, so very healthy and without the taste of the egg being too pronounced.",
+      "ingredients": [
+        "200 g",
+        "2 eggs",
+        "Pinch of salt",
+        "Tablespoon olive oil"
+      ],
+      "instructions": [
+        "Knead much more gently than bread dough, the dough does not tolerate being folded, knead for a long time: a good 8 minutes",
+        "Let rest in plastic for at least 30 minutes",
+        "Cut into 4, flour, roll out by hand, and pass at least 4 times through the thickest gauge",
+        "Pass 1 to 2 times through each step and stop around 5 ~ 6, making sure it is lightly floured to prevent the dough from sticking to the machine or table",
+        "Let rest for 15 minutes on each side"
+      ]
+    },
+    "fr": {
+      "name": "Pâtes fraîches maison à la manivelle",
+      "notes": "Permet de manger 1 oeuf par personne sans surcuisson de l'oeuf, donc très sain et sans avoir le gout de l'oeuf trop prononcé.",
+      "ingredients": [
+        "200 g farine",
+        "2 oeufs",
+        "Pincée de sel",
+        "Cuillère à soupe huile olive"
+      ],
+      "instructions": [
+        "Pétrir bien plus gentiment qu'une pâte à pain, la pâte ne supporte pas d'être pliée, pétrir longtemps : bien 8 minutes",
+        "Laisser reposer dans plastique au moins 30 minutes",
+        "Coupe 4, fariner étaler à la main, et passer au moins 4 fois au calibre le plus épais",
+        "Passer 1 à 2 fois par chaque étape et s'arrêter vers 5 ~ 6, en s'assurant que c'est légèrement fariné pour éviter que la pâte n'accroche à la machine, ou à la table",
+        "Laisser reposer 15 minutes de chaques coté"
+      ]
+    },
+    "it": {
+      "name": "Pasta fresca fatta in casa con manovella",
+      "notes": "Permette di mangiare 1 uovo a persona senza cuocere troppo l'uovo, quindi molto sano e senza che il sapore dell'uovo sia troppo pronunciato.",
+      "ingredients": [
+        "200 g di farina",
+        "2 uova",
+        "Pizzico di sale",
+        "Cucchiaio di olio d'oliva"
+      ],
+      "instructions": [
+        "Impastare molto più delicatamente dell'impasto del pane, l'impasto non tollera di essere piegato, impastare a lungo: un buon 8 minuti",
+        "Lasciare riposare nella plastica per almeno 30 minuti",
+        "Tagliare in 4, infarinare, stendere a mano e passare almeno 4 volte attraverso la calibro più spesso",
+        "Passare 1 o 2 volte attraverso ogni fase e fermarsi intorno a 5 ~ 6, assicurandosi che sia leggermente infarinato per evitare che l'impasto si attacchi alla macchina o al tavolo",
+        "Lasciare riposare per 15 minuti su ogni lato"
+      ]
+    }
+  }
+]

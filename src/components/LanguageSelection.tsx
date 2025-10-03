@@ -15,7 +15,7 @@ const LanguageSelection = () => {
   return (
     <div>
       <button
-        className="flex items-center gap-4"
+        className="flex items-center gap-2 cursor-pointer"
         onClick={() => setOpen(!open)}
         aria-haspopup="listbox"
         aria-expanded={open}
@@ -45,9 +45,9 @@ const LanguageSelection = () => {
             >
               <img
                 className="w-4"
-                src={`/${lang.code}.png`}
+                src={`/flags/${lang.countryCode}.svg`}
                 alt={`Language icon ${lang.code}`}
-              />{" "}
+              />
               {lang.name}
             </li>
           ))}

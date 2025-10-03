@@ -2,7 +2,7 @@ import { createContext, useContext } from "react";
 import { translations } from "./translations";
 import { languages } from "./constants";
 
-export type LanguagesAvailable = "en" | "nb" | "fr";
+export type LanguagesAvailable = "en" | "nb" | "fr" | "it";
 
 export type TermKeys = keyof typeof translations;
 
@@ -17,8 +17,9 @@ export const TranslationContext = createContext<
 
 export const useTranslation = () => {
   const context = useContext(TranslationContext);
-  if (!context)
+  if (!context) {
     throw new Error("useTranslation must be used within a TranslationProvider");
+  }
 
   const { language, setLanguage } = context;
 

@@ -3,6 +3,8 @@ import { LOCAL_STORAGE_ROUTE_KEY } from "./utils/constants";
 import { Routes, Route, HashRouter } from "react-router";
 import LearnNorwegian from "./pages/LearnNorwegian";
 import MapPage from "./pages/MapPage";
+import Recipes from "./pages/Recipes";
+import NotFound from "./pages/NotFound";
 
 const DEFAULT_PAGE = "home";
 
@@ -27,8 +29,9 @@ const App = () => {
     <HashRouter>
       <Routes>
         <Route index element={<MapPage />} />
-        <Route path="about" element={<>about</>} />
+        <Route path="recipes" element={<Recipes />} />
         <Route path="learn" element={<LearnNorwegian />}></Route>
+        <Route path="*" element={<NotFound />} />
       </Routes>
     </HashRouter>
   );
