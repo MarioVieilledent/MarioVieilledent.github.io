@@ -3,10 +3,11 @@ import GoBackHome from "../components/GoBackHome";
 import LanguageSelection from "../components/LanguageSelection";
 import { useTranslation } from "../utils/TranslationContext";
 import websiteLogo from "/favicon.png";
-import FeastDisplay from "../components/Feast";
+import FeastCard from "../components/FeastCard";
+import { Route, Routes, useLocation, useNavigate } from "react-router";
 
 const categories = [
-  "feast",
+  "feasts",
   "soupsAndBroths",
   "riceAndPasta",
   "meatAndFish",
@@ -31,7 +32,7 @@ export interface Recipe {
   no?: RecipeDetails;
 }
 
-interface FeastDetails {
+export interface FeastDetails {
   name: string;
   idea: string[];
   menu: string[];
@@ -42,7 +43,9 @@ interface FeastDetails {
 }
 
 export interface Feast {
+  mealNumber: number;
   countryCode: string;
+  date: string;
   ranking: number;
   pictures: string[];
   en: FeastDetails;
@@ -54,9 +57,11 @@ export interface Feast {
 const Recipes = () => {
   const { t } = useTranslation();
 
-  const [selectedTab, setSelectedTab] = useState<Category>("soupsAndBroths");
   const [recipes, setRecipes] = useState<Recipe[]>([]);
   const [feasts, setFeasts] = useState<Feast[]>([]);
+
+  const navigate = useNavigate();
+  const location = useLocation();
 
   fetch("/recipes.json")
     .then((response) => response.json())
@@ -88,25 +93,39 @@ const Recipes = () => {
           <a
             key={tab}
             className={
-              tab === selectedTab
+              location.pathname.includes(tab)
                 ? "cursor-pointer underline"
                 : "cursor-pointer"
             }
-            onClick={() => setSelectedTab(tab)}
+            onClick={() => navigate(`/recipes/${tab}`)}
           >
             {t(tab)}
           </a>
         ))}
       </div>
 
-      <div>
-        {selectedTab === "feast"
-          ? feasts.map((feast, index) => (
-              <FeastDisplay key={index} feast={feast} />
-            ))
-          : recipes
-              .filter((recipe) => recipe.category === selectedTab)
-              .map((recipe, index) => <div key={index}>{recipe.fr.name}</div>)}
+      <div className="flex flex-col gap-8">
+        <Routes>
+          <Route
+            path="feasts"
+            index
+            element={feasts.map((feast, index) => (
+              <FeastCard key={index} feast={feast} />
+            ))}
+          />
+          <Route
+            path="soupsAndBroths"
+            element={<div>{"soupsAndBroths"}</div>}
+          />
+          <Route
+            path={":category"}
+            element={recipes
+              .filter((recipe) => location.pathname.includes(recipe.category))
+              .map((recipe, index) => (
+                <div key={index}>{recipe.fr.name}</div>
+              ))}
+          />
+        </Routes>
       </div>
     </div>
   );

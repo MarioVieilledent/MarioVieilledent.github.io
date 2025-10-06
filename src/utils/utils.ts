@@ -18,3 +18,12 @@ export const computeZoomForBoundingBox = (boundingbox: string[4]): number => {
   // Clamp to typical OSM zoom levels
   return Math.max(2, Math.min(18, zoom));
 };
+
+export const formatDate = (isoDate: string, language: string) => {
+  return new Date(isoDate).toLocaleDateString(language, {
+    weekday: "long",
+    year: "numeric",
+    month: "long",
+    day: "numeric",
+  });
+};

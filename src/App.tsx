@@ -29,7 +29,7 @@ const App = () => {
     <HashRouter>
       <Routes>
         <Route index element={<MapPage />} />
-        <Route path="recipes" element={<Recipes />} />
+        <Route path="recipes/*" element={<Recipes />} />
         <Route path="learn" element={<LearnNorwegian />}></Route>
         <Route path="*" element={<NotFound />} />
       </Routes>
