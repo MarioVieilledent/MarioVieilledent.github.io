@@ -55,12 +55,7 @@ export const translations = {
   next: ["Next", "Neste", "Suivant", "Avanti"],
   submit: ["Submit", "Send inn", "Valider", "Invia"],
   iDontKnow: ["I don't know", "Jeg vet ikke", "Je ne sais pas", "Non lo so"],
-  goBackHome: [
-    "Go back home",
-    "Gå hjem",
-    "Retour au menu principal",
-    "Torna alla home",
-  ],
+  goBackHome: ["Go back home", "Gå hjem", "Menu", "Torna alla home"],
   pageNotFound: [
     "404 - Page not found",
     "404 - Siden ble ikke funnet",
@@ -104,6 +99,18 @@ export const translations = {
     "Viande et poisson",
     "Carne e pesce",
   ],
+  doughAndBread: [
+    "Dough and breads",
+    "Deig og brød",
+    "Pâtes et pains",
+    "Impasti e pane",
+  ],
   pizzas: ["Pizzas", "Pizzaer", "Pizzas", "Pizze"],
   sweet: ["Sweet", "Søtt", "Sucré", "Dolce"],
+  recipesPageDescription: [
+    "My cooking notes - Recipes researched for years, stolen from the internet, or cheated with ChatGPT",
+    "Mine matlagingsnotater - Oppskrifter som har vært ettertraktet i årevis, stjålet fra internett eller jukset med ChatGPT",
+    "Mes notes de cuisine - Recettes recherchés pendant des années, volées sur internet, ou trichées avec ChatGPT",
+    "I miei appunti di cucina - Ricette ricercate per anni, rubate da Internet o copiate con ChatGPT",
+  ],
 };

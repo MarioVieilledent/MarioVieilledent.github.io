@@ -1,9 +1,10 @@
 [
   {
     "category": "soupsAndBroths",
+    "pictures": [],
     "en": {
       "name": "Vegetable broth",
-      "note": "The best recipe for eating vegetables with minimal effort and maximum flavor. The longer it cooks, the better it tastes, and it's even better reheated. It's great for sauces, my classic recipe, and adding to pan-fried vegetables or meat.",
+      "notes": "The best recipe for eating vegetables with minimal effort and maximum flavor. The longer it cooks, the better it tastes, and it's even better reheated. It's great for sauces, my classic recipe, and adding to pan-fried vegetables or meat.",
       "ingredients": [
         "Onions, garlic, and other vegetables like leeks",
         "Autumn and winter vegetables",
@@ -23,7 +24,7 @@
     },
     "fr": {
       "name": "Bouillon de légumes",
-      "note": "Meilleure recette pour manger des légumes à moindre effort et goût maximal. Plus ça cuit et meilleur c'est, réchauffé, encore meilleur. S'utilise à merveille pour les sauces, mon classique et d'en ajouter à des légumes/viande sautés à la poêle.",
+      "notes": "Meilleure recette pour manger des légumes à moindre effort et goût maximal. Plus ça cuit et meilleur c'est, réchauffé, encore meilleur. S'utilise à merveille pour les sauces, mon classique et d'en ajouter à des légumes/viande sautés à la poêle.",
       "ingredients": [
         "Oignons, ail et autres légumes du style poireau",
         "Légumes d'automnes et d'hiver",
@@ -43,7 +44,7 @@
     },
     "it": {
       "name": "Brodo di verdure",
-      "note": "La migliore ricetta per mangiare verdure con il minimo sforzo e il massimo sapore. Più a lungo cuoce, meglio è, e riscaldato è ancora meglio. È ottimo per salse, la mia ricetta classica e per aggiungere a verdure/carne saltate in padella.",
+      "notes": "La migliore ricetta per mangiare verdure con il minimo sforzo e il massimo sapore. Più a lungo cuoce, meglio è, e riscaldato è ancora meglio. È ottimo per salse, la mia ricetta classica e per aggiungere a verdure/carne saltate in padella.",
       "ingredients": [
         "Cipolle, aglio e altre verdure come porri",
         "Verdure autunnali e invernali",
@@ -64,6 +65,7 @@
   },
   {
     "category": "riceAndPasta",
+    "pictures": [],
     "en": {
       "name": "Spiced pilaf rice with meat",
       "ingredients": [
@@ -139,6 +141,7 @@
   },
   {
     "category": "riceAndPasta",
+    "pictures": [],
     "en": {
       "name": "Homemade fresh pasta with hand crank",
       "notes": "Allows eating 1 egg per person without overcooking the egg, so very healthy and without the taste of the egg being too pronounced.",
@@ -188,6 +191,1030 @@
         "Tagliare in 4, infarinare, stendere a mano e passare almeno 4 volte attraverso la calibro più spesso",
         "Passare 1 o 2 volte attraverso ogni fase e fermarsi intorno a 5 ~ 6, assicurandosi che sia leggermente infarinato per evitare che l'impasto si attacchi alla macchina o al tavolo",
         "Lasciare riposare per 15 minuti su ogni lato"
+      ]
+    }
+  },
+  {
+    "category": "riceAndPasta",
+    "pictures": [],
+    "en": {
+      "name": "Risotto-style Spaghetti",
+      "notes": "A humble Italian technique for tastier and creamier spaghetti. It's a real upgrade for spaghetti lovers, especially those who enjoy garlic. You can also adapt the method using meat or fish juices left in a hot pan.",
+      "ingredients": [
+        "Spaghetti",
+        "Olive oil",
+        "4 garlic cloves",
+        "Salt, pepper, chili to taste"
+      ],
+      "instructions": [
+        "Cook the spaghetti in salted boiling water for about two-thirds of the usual cooking time.",
+        "Meanwhile, heat olive oil over medium-high heat with 3-5 whole garlic cloves (peeled or roughly chopped); the garlic should sizzle.",
+        "Add spices to taste — pepper, chili flakes, etc.",
+        "When the pasta is two-thirds cooked, transfer it to the hot pan and gradually add small ladles of pasta water to finish cooking and create a creamy texture from the starch."
+      ]
+    },
+    "fr": {
+      "name": "Spaghetti en cuisson risotto",
+      "notes": "Technique Italienne du pauvre pour des spaghetti plus savoureux et crémeux. C'est un réel plus pour des spaghetti, et pour les amateurs d'ail. Possibilité de décliner la technique avec les sucs de viande/poisson dans la poele chaude.",
+      "ingredients": [
+        "Spaghetti",
+        "Huilde d'olive",
+        "4 gousses d'ail",
+        "Sel, poivre, piment au goût"
+      ],
+      "instructions": [
+        "Spaghetti classiques, deux tiers de la cuisson dans casserole, eau bouillante salée",
+        "Pendant ce temps chauffer feu moyen/fort de l'huile d'olive avec 3 à 5 gousses d'ail entières sans la peau ou hachés grossierement, l'ail doit chanter",
+        "Ajouter des épices au goût, poivre, piment style \"chilli flakes\"",
+        "A 2/3 de la cuisson casserole, transférer les spaghetti dans la poêle chaude, et ajouter des petites louches d'eau des pâtes pour a la fois finir la cuisson et à la fois rendre les pâtes plus crémeuses grâce à l'amidon des pâtes"
+      ]
+    },
+    "it": {
+      "name": "Spaghetti risottati",
+      "notes": "Tecnica povera italiana per spaghetti più saporiti e cremosi. Un vero valore aggiunto per gli amanti degli spaghetti e dell'aglio. Si può adattare la tecnica con i succhi di carne o di pesce nella padella calda.",
+      "ingredients": [
+        "Spaghetti",
+        "Olio d'oliva",
+        "4 spicchi d'aglio",
+        "Sale, pepe, peperoncino a piacere"
+      ],
+      "instructions": [
+        "Cuocere gli spaghetti in acqua bollente salata per circa due terzi del tempo di cottura.",
+        "Nel frattempo scaldare l'olio d'oliva a fuoco medio-alto con 3-5 spicchi d'aglio interi (senza buccia o tritati grossolanamente), l'aglio deve sfrigolare.",
+        "Aggiungere le spezie a piacere: pepe, peperoncino in scaglie, ecc.",
+        "Quando la pasta è cotta per due terzi, trasferirla nella padella calda e aggiungere gradualmente piccole mestolate di acqua di cottura per completare la cottura e renderla cremosa grazie all'amido."
+      ]
+    },
+    "no": {
+      "name": "Risotto-stil spaghetti",
+      "notes": "En enkel italiensk teknikk for mer smakfulle og kremete spaghetti. Et virkelig løft for spaghetti-elskere, spesielt de som liker hvitløk. Teknikken kan også brukes med kjøtt- eller fiskesjy i den varme pannen.",
+      "ingredients": [
+        "Spaghetti",
+        "Olivenolje",
+        "4 hvitløksfedd",
+        "Salt, pepper, chili etter smak"
+      ],
+      "instructions": [
+        "Kok spaghetti i saltet, kokende vann til omtrent to tredjedeler av vanlig koketid.",
+        "I mellomtiden, varm opp olivenolje på middels høy varme med 3-5 hele hvitløksfedd (uten skall eller grovhakket); hvitløken skal frese.",
+        "Tilsett krydder etter smak - pepper, chiliflak osv.",
+        "Når pastaen er to tredjedeler ferdigkokt, overfør den til den varme pannen og tilsett små øser med pastavann for å fullføre kokingen og gjøre den kremet takket være stivelsen."
+      ]
+    }
+  },
+  {
+    "category": "meatAndFish",
+    "pictures": [],
+    "en": {
+      "name": "Oven-baked Salmon Fillets",
+      "notes": "Already a very good recipe, but can be refined and perfected. I like to serve it with spaghetti — even better when cooked risotto-style.",
+      "ingredients": [
+        "Salmon fillets, 1 per person",
+        "Olive oil",
+        "Garlic",
+        "Ginger",
+        "Salt, pepper, spices"
+      ],
+      "instructions": [
+        "Preheat the oven to 180°C (350°F).",
+        "Place the salmon fillets on a baking tray lined with parchment paper.",
+        "Brush the salmon with olive oil, chopped garlic, grated ginger (optional), salt, pepper, and spices to taste.",
+        "Bake for about 12 minutes."
+      ]
+    },
+    "fr": {
+      "name": "Filets de saumon au four",
+      "notes": "Recette déjà très bonne, à améliorer, à peaufiner. J'aime bien le servir avec des Spaghetti, encores meilleures en risottatura.",
+      "ingredients": [
+        "Filets de saumon, 1 par personne",
+        "Huilde d'olive",
+        "Ail",
+        "Gingembre",
+        "Sel, poivre, épices"
+      ],
+      "instructions": [
+        "Préchauffer four 180°",
+        "Placer filet saumon sur plaque cuisson avec papier cuisson",
+        "Badigeonner saumon de huile olive, ail aché, gingembre rapé (facultatif), sel, poivre, épices au goût",
+        "Enfourner environ 12 minutes"
+      ]
+    },
+    "it": {
+      "name": "Filetti di salmone al forno",
+      "notes": "Ricetta già molto buona, ma da migliorare e perfezionare. Mi piace servirla con spaghetti — ancora migliori se cotti in risottatura.",
+      "ingredients": [
+        "Filetti di salmone, 1 a persona",
+        "Olio d'oliva",
+        "Aglio",
+        "Zenzero",
+        "Sale, pepe, spezie"
+      ],
+      "instructions": [
+        "Preriscaldare il forno a 180°C.",
+        "Disporre i filetti di salmone su una teglia ricoperta di carta da forno.",
+        "Spennellare il salmone con olio d'oliva, aglio tritato, zenzero grattugiato (facoltativo), sale, pepe e spezie a piacere.",
+        "Infornare per circa 12 minuti."
+      ]
+    },
+    "no": {
+      "name": "Ovnsbakt laksefilet",
+      "notes": "Allerede en veldig god oppskrift, men kan forbedres og finjusteres. Jeg liker å servere den med spaghetti — enda bedre når de lages risotto-stil.",
+      "ingredients": [
+        "Laksefileter, 1 per person",
+        "Olivenolje",
+        "Hvitløk",
+        "Ingefær",
+        "Salt, pepper, krydder"
+      ],
+      "instructions": [
+        "Forvarm ovnen til 180°C.",
+        "Legg laksefiletene på et stekebrett med bakepapir.",
+        "Pensle laksen med olivenolje, hakket hvitløk, revet ingefær (valgfritt), salt, pepper og krydder etter smak.",
+        "Stek i omtrent 12 minutter."
+      ]
+    }
+  },
+  {
+    "category": "doughAndBread",
+    "pictures": [],
+    "en": {
+      "name": "Baguette",
+      "notes": "Be careful — a rare recipe that truly reaches S Tier, if not God Tier. Incredibly simple, very cheap, and requires very little active time. The 4 ingredients symbolize the 4 elements: flour for earth, water, yeast for air, and salt for fire. Source: https://www.youtube.com/watch?v=Z-husjZkxHw",
+      "ingredients": [
+        "Flour (200 g per baguette)",
+        "Room temperature water — 80% of the flour weight",
+        "1-2 g of dry yeast per 500 g of flour",
+        "Salt — 1 heaping teaspoon per 500 g of flour"
+      ],
+      "instructions": [
+        "In a mixing bowl, keep the yeast and salt separate at first, then add the water.",
+        "Mix using the handle of a wooden spoon until the dough comes together into a ball.",
+        "Cover and let rest for 8-10 hours at room temperature. No need to flour or wet the dough — it's soft enough.",
+        "Flour your work surface and loosen the dough with a dough scraper, then transfer it onto well-floured parchment paper.",
+        "Using the scraper, cut the dough into the desired number of baguettes without pressing it down.",
+        "Shape the baguettes by gently stretching the dough with your hands.",
+        "Bake for 25 minutes at 250°C (480°F)."
+      ]
+    },
+    "fr": {
+      "name": "Baguette",
+      "notes": "Attention, rare recette s'élevant au rang de S Tier si ce n'est God Tier. Incroyablement simple, vraiment pas cher, et très court en temps de travail. Les 4 ingrédients représentent les 4 éléments à savoir, farine pour terre, eau, levure pour air, et sel pour feu. Source : https://www.youtube.com/watch?v=Z-husjZkxHw",
+      "ingredients": [
+        "Farine (200 g par baguette)",
+        "Eau température ambiante 80 % de la qté de farine",
+        "1 à 2 g de levure sèche pour 500 g de farine",
+        "Sel, 1 cuillère à café débordante pour 500 g de farine"
+      ],
+      "instructions": [
+        "Sec dans saladier, éviter le contact entre levure et sel, ajouter l'eau.",
+        "Mélanger avec le manche d'une cuillère en bois jusqu'à ce que la pâte forme une boule.",
+        "Couvrir et laisser reposer 8 à 10 heures à température ambiante. Pas besoin de fariner ni mouiller la pâte, elle est suffisamment liquide.",
+        "Fariner et détacher la pâte avec une corne à pâtisserie puis la verser sur papier cuisson bien fariné.",
+        "Y découper à la corne le nombre de baguettes souhaité sans écraser la pâte",
+        "Former des baguettes en allongeant la pâte d'un geste des mains.",
+        "Enfourner 25 minutes à 250°."
+      ]
+    },
+    "it": {
+      "name": "Baguette",
+      "notes": "Attenzione — una ricetta rara che raggiunge davvero il livello S Tier, se non God Tier. Incredibilmente semplice, molto economica e con pochissimo tempo di lavoro. I 4 ingredienti rappresentano i 4 elementi: farina per la terra, acqua, lievito per l'aria e sale per il fuoco. Fonte: https://www.youtube.com/watch?v=Z-husjZkxHw",
+      "ingredients": [
+        "Farina (200 g per baguette)",
+        "Acqua a temperatura ambiente — 80% del peso della farina",
+        "1-2 g di lievito secco per 500 g di farina",
+        "Sale — 1 cucchiaino colmo per 500 g di farina"
+      ],
+      "instructions": [
+        "In una ciotola, tenere separati lievito e sale, poi aggiungere l'acqua.",
+        "Mescolare con il manico di un cucchiaio di legno fino a formare un impasto compatto.",
+        "Coprire e lasciare riposare per 8-10 ore a temperatura ambiente. Non serve infarinare o bagnare l'impasto, è abbastanza morbido.",
+        "Infarinare il piano di lavoro e staccare l'impasto con una spatola, poi trasferirlo su carta da forno ben infarinata.",
+        "Con la spatola, tagliare il numero di baguette desiderato senza schiacciare l'impasto.",
+        "Formare le baguette allungando delicatamente l'impasto con le mani.",
+        "Cuocere per 25 minuti a 250°C."
+      ]
+    },
+    "no": {
+      "name": "Baguette",
+      "notes": "Vær oppmerksom — en sjelden oppskrift som når S Tier, om ikke Gud Tier. Utrolig enkel, veldig billig, og krever svært lite arbeidstid. De fire ingrediensene representerer de fire elementene: mel for jord, vann, gjær for luft og salt for ild. Kilde: https://www.youtube.com/watch?v=Z-husjZkxHw",
+      "ingredients": [
+        "Mel (200 g per baguette)",
+        "Vann i romtemperatur — 80% av melmengden",
+        "1-2 g tørrgjær per 500 g mel",
+        "Salt — 1 toppet teskje per 500 g mel"
+      ],
+      "instructions": [
+        "I en bolle, hold gjæren og saltet adskilt i starten, og tilsett deretter vannet.",
+        "Rør med enden av en tresleiv til deigen samler seg til en ball.",
+        "Dekk til og la stå i 8-10 timer i romtemperatur. Du trenger ikke å mel eller fukte deigen - den er løs nok.",
+        "Dryss mel og løsne deigen med en deigskrape, og legg den på bakepapir med godt med mel.",
+        "Bruk deigskrapen til å dele deigen i ønsket antall baguetter uten å trykke den ned.",
+        "Form baguettene ved å strekke deigen forsiktig med hendene.",
+        "Stek i 25 minutter ved 250°C."
+      ]
+    }
+  },
+  {
+    "category": "doughAndBread",
+    "pictures": [],
+    "en": {
+      "name": "Burger Buns",
+      "notes": "Makes 8 buns",
+      "ingredients": [
+        {
+          "part": "Dough",
+          "ingredients": [
+            "500 g flour",
+            "10 g salt",
+            "25 g sugar",
+            "1 whole egg",
+            "250 ml whole milk",
+            "40 g unsalted butter",
+            "7 g dry yeast"
+          ]
+        },
+        {
+          "part": "Egg wash",
+          "ingredients": ["1 egg yolk", "1 tablespoon milk", "Sesame seeds"]
+        }
+      ],
+      "instructions": [
+        "Yeast: Mix the yeast with lukewarm (not hot) milk and sugar. Let it foam for 10 minutes.",
+        "Kneading: In a mixer (or by hand), combine flour and salt. Add the yeast mixture with milk and egg. Knead for 5 minutes.",
+        "Incorporate butter: Add softened butter in pieces and knead for another 10 minutes until the dough becomes smooth, elastic, and pulls away from the bowl.",
+        "First rise: Cover with a cloth and let rise for 1.5-2 hours (the dough should double in size).",
+        "Shaping: Degas the dough, divide into 8 portions (~100 g each). Shape into balls and place on a baking tray lined with parchment paper. Flatten slightly.",
+        "Second rise: Cover and let rise for 45-60 minutes.",
+        "Egg wash: Brush with a mix of egg yolk and milk. Sprinkle sesame seeds if desired.",
+        "Baking: Preheat oven to 180°C (fan mode). Bake for 15-18 minutes until golden brown.",
+        "Cooling: Let cool on a wire rack to prevent moisture buildup.",
+        "Tip: Lightly toast the buns in a pan with a bit of butter before assembling → crispy outside, soft inside, restaurant quality."
+      ]
+    },
+    "fr": {
+      "name": "Pains à burger",
+      "notes": "Pour 8 buns",
+      "ingredients": [
+        {
+          "part": "Pâte",
+          "ingredients": [
+            "500 g farine",
+            "10 g sel",
+            "25 g sucre",
+            "1 oeuf entier",
+            "250 ml lait entier",
+            "40 g beurre doux",
+            "7 g levure sèche"
+          ]
+        },
+        {
+          "part": "Dorure",
+          "ingredients": [
+            "1 jaune d'oeuf",
+            "1 cuillère à soupe de lait",
+            "Graines de sésames"
+          ]
+        }
+      ],
+      "instructions": [
+        "Levure : Mélanger la levure avec le lait tiède (pas chaud) et le sucre. Laisser mousser 10 min.",
+        "Pétrissage : Dans un robot (ou à la main), mélanger farine et sel. Ajouter le mélange levure + lait + œuf. Pétrir 5 min.",
+        "Incorporation du beurre : Ajouter le beurre ramolli en morceaux et pétrir encore 10 min jusqu'à obtenir une pâte lisse, élastique et qui se décolle des parois.",
+        "1ère pousse : Couvrir d'un linge et laisser lever 1h30-2h (la pâte doit doubler de volume).",
+        "Façonnage : Dégazer, diviser en 8 portions (~100 g chacune). Bouler et déposer sur une plaque recouverte de papier cuisson. Aplatir légèrement.",
+        "2ème pousse : Couvrir et laisser lever 45-60 min.",
+        "Dorure : Badigeonner de jaune d'œuf mélangé avec un peu de lait. Parsemer de graines de sésame si souhaité.",
+        "Cuisson : Four préchauffé à 180 °C chaleur tournante. Cuire 15-18 min, jusqu'à ce que les pains soient dorés.",
+        "Refroidissement : Laisser refroidir sur grille pour éviter l'humidité.",
+        "Astuce : toaster légèrement les pains à la poêle avec un peu de beurre juste avant le montage → croustillant à l'extérieur, fondant à l'intérieur, comme au restaurant."
+      ]
+    },
+    "it": {
+      "name": "Panini per hamburger",
+      "notes": "Per 8 panini",
+      "ingredients": [
+        {
+          "part": "Impasto",
+          "ingredients": [
+            "500 g farina",
+            "10 g sale",
+            "25 g zucchero",
+            "1 uovo intero",
+            "250 ml latte intero",
+            "40 g burro morbido",
+            "7 g lievito secco"
+          ]
+        },
+        {
+          "part": "Doratura",
+          "ingredients": [
+            "1 tuorlo d'uovo",
+            "1 cucchiaio di latte",
+            "Semi di sesamo"
+          ]
+        }
+      ],
+      "instructions": [
+        "Lievito: Mescolare il lievito con il latte tiepido (non caldo) e lo zucchero. Lasciare riposare per 10 minuti finché fa schiuma.",
+        "Impasto: In una planetaria (o a mano), mescolare farina e sale. Aggiungere il composto di lievito, latte e uovo. Impastare per 5 minuti.",
+        "Incorporare il burro: Aggiungere il burro ammorbidito a pezzi e impastare per altri 10 minuti fino a ottenere un impasto liscio, elastico e che si stacca dalle pareti.",
+        "Prima lievitazione: Coprire con un panno e lasciare lievitare per 1,5-2 ore (l'impasto deve raddoppiare di volume).",
+        "Formatura: Sgonfiare, dividere in 8 porzioni (~100 g ciascuna). Formare delle palline e disporle su una teglia con carta da forno. Appiattire leggermente.",
+        "Seconda lievitazione: Coprire e lasciare lievitare per 45-60 minuti.",
+        "Doratura: Spennellare con il tuorlo d'uovo mescolato con un po' di latte. Cospargere di semi di sesamo se desiderato.",
+        "Cottura: Forno preriscaldato a 180°C ventilato. Cuocere per 15-18 minuti finché i panini sono dorati.",
+        "Raffreddamento: Lasciare raffreddare su una griglia per evitare umidità.",
+        "Consiglio: Tostare leggermente i panini in padella con un po' di burro prima di assemblare → croccanti fuori, morbidi dentro, come al ristorante."
+      ]
+    },
+    "no": {
+      "name": "Burgerbrød",
+      "notes": "Gir 8 boller",
+      "ingredients": [
+        {
+          "part": "Deig",
+          "ingredients": [
+            "500 g mel",
+            "10 g salt",
+            "25 g sukker",
+            "1 helt egg",
+            "250 ml helmelk",
+            "40 g usaltet smør",
+            "7 g tørrgjær"
+          ]
+        },
+        {
+          "part": "Pensling",
+          "ingredients": ["1 eggeplomme", "1 spiseskje melk", "Sesamfrø"]
+        }
+      ],
+      "instructions": [
+        "Gjær: Bland gjæren med lunken (ikke varm) melk og sukker. La det stå i 10 minutter til det skummer.",
+        "Elting: I en kjøkkenmaskin (eller for hånd), bland mel og salt. Tilsett gjærblandingen med melk og egg. Elt i 5 minutter.",
+        "Tilsett smør: Tilsett mykt smør i biter og elt i ytterligere 10 minutter til deigen er glatt, elastisk og slipper bollen.",
+        "Første heving: Dekk til med et klede og la heve i 1,5-2 timer (deigen skal dobles i størrelse).",
+        "Forming: Slå ut luften, del i 8 emner (~100 g hver). Form boller og legg på bakepapirkledd stekebrett. Trykk dem lett flate.",
+        "Andre heving: Dekk til og la heve i 45-60 minutter.",
+        "Pensling: Pensle med en blanding av eggeplomme og melk. Dryss med sesamfrø hvis ønskelig.",
+        "Steking: Forvarm ovnen til 180°C varmluft. Stek i 15-18 minutter til de er gyldne.",
+        "Avkjøling: Avkjøl på rist for å unngå fuktighet.",
+        "Tips: Rist brødene lett i stekepanne med litt smør før montering → sprø utenpå, myke inni, som på restaurant."
+      ]
+    }
+  },
+  {
+    "category": "doughAndBread",
+    "pictures": [],
+    "en": {
+      "name": "Oriental Flatbread \"Lavash\"",
+      "notes": "Turkish/Armenian flatbread cooked in a pan, similar to Indian naan. Recipe from Hungry Man Kitchen (YouTube).",
+      "ingredients": [
+        "300 g flour",
+        "200 ml warm water",
+        "10 g dry yeast",
+        "1 tsp salt",
+        "1 tsp sugar",
+        "2 tbsp olive oil (optional, makes it softer)"
+      ],
+      "instructions": [
+        {
+          "part": "Activate the yeast",
+          "instructions": [
+            "In a bowl, mix warm water with sugar and yeast.",
+            "Let rest for about 5-10 minutes until the mixture becomes foamy."
+          ]
+        },
+        {
+          "part": "Prepare the dough",
+          "instructions": [
+            "Add flour and salt to a large bowl.",
+            "Pour in the yeast mixture (and olive oil if using).",
+            "Mix, then knead for 8-10 minutes until the dough is smooth and elastic."
+          ]
+        },
+        {
+          "part": "First rise",
+          "instructions": [
+            "Cover the bowl and let the dough rise for about 1 hour (until doubled in size)."
+          ]
+        },
+        {
+          "part": "Shape and cook",
+          "instructions": [
+            "Flatten the dough and divide it into 8-10 equal balls.",
+            "Roll each ball into a circle or oval about 20 cm wide and 5-6 mm thick.",
+            "Heat a heavy or cast-iron pan over medium-high heat.",
+            "Cook each flatbread for 1-2 minutes on each side until puffed and golden spots appear."
+          ]
+        }
+      ]
+    },
+    "fr": {
+      "name": "Pain plat oriental \"Lavash\"",
+      "notes": "Pain plat Turc/Arménien cuit à la poêle, proche du naan Indien. Recette de Hungry Man Kitchen (Youtube).",
+      "ingredients": [
+        "300 g farine",
+        "200 ml eau tiède",
+        "10 g levure sèche",
+        "1 c. à c. sel",
+        "1 c. à c. sucre",
+        "2 c. à s. huile olive (optionnel, donne une texture plus souple)"
+      ],
+      "instruictions": [
+        {
+          "part": "Activer la levure",
+          "instructions": [
+            "Dans un bol, mélanger l'eau tiède avec le sucre et la levure.",
+            "Laisser reposer environ 5 à 10 minutes jusqu'à ce que le mélange mousse."
+          ]
+        },
+        {
+          "part": "Préparer la pâte",
+          "instructions": [
+            "Ajouter la farine et le sel dans un grand bol.",
+            "Verser le mélange à base de levure (et l'huile d'olive si vous en utilisez).",
+            "Mélanger, puis pétrir pendant 8 à 10 minutes jusqu'à obtenir une pâte lisse et élastique."
+          ]
+        },
+        {
+          "part": "Première levée",
+          "instructions": [
+            "Couvrir le bol et laisser la pâte lever environ 1 heure (jusqu'à ce qu'elle double de volume)."
+          ]
+        },
+        {
+          "part": "Façonner",
+          "instructions": [
+            "Aplatir la pâte et la diviser en 8 à 10 boules égales.",
+            "Abaisser chaque boule en un cercle ou ovale d'environ 20 cm de large et 5 à 6 mm d'épaisseur.",
+            "Chauffer une poêle épaisse ou une poêle en fonte (à feu moyen-vif).",
+            "Cuire chaque galette 1 à 2 minutes de chaque côté jusqu'à ce qu'elle gonfle et que des taches dorées apparaissent."
+          ]
+        }
+      ]
+    },
+    "it": {
+      "name": "Pane piatto orientale \"Lavash\"",
+      "notes": "Pane piatto turco/armeno cotto in padella, simile al naan indiano. Ricetta di Hungry Man Kitchen (YouTube).",
+      "ingredients": [
+        "300 g farina",
+        "200 ml acqua tiepida",
+        "10 g lievito secco",
+        "1 cucchiaino di sale",
+        "1 cucchiaino di zucchero",
+        "2 cucchiai di olio d'oliva (opzionale, rende la pasta più morbida)"
+      ],
+      "instructions": [
+        {
+          "part": "Attivare il lievito",
+          "instructions": [
+            "In una ciotola, mescolare acqua tiepida, zucchero e lievito.",
+            "Lasciare riposare per circa 5-10 minuti finché il composto diventa schiumoso."
+          ]
+        },
+        {
+          "part": "Preparare l'impasto",
+          "instructions": [
+            "Aggiungere farina e sale in una grande ciotola.",
+            "Versare il composto di lievito (e l'olio d'oliva se lo si usa).",
+            "Mescolare e impastare per 8-10 minuti fino a ottenere un impasto liscio ed elastico."
+          ]
+        },
+        {
+          "part": "Prima lievitazione",
+          "instructions": [
+            "Coprire la ciotola e lasciare lievitare per circa 1 ora (finché raddoppia di volume)."
+          ]
+        },
+        {
+          "part": "Formare e cuocere",
+          "instructions": [
+            "Appiattire l'impasto e dividerlo in 8-10 palline uguali.",
+            "Stendere ogni pallina in un cerchio o ovale di circa 20 cm di diametro e 5-6 mm di spessore.",
+            "Riscaldare una padella pesante o di ghisa a fuoco medio-alto.",
+            "Cuocere ogni pane 1-2 minuti per lato finché si gonfia e compaiono macchie dorate."
+          ]
+        }
+      ]
+    },
+    "no": {
+      "name": "Orientalsk flatbrød \"Lavash\"",
+      "notes": "Tyrkisk/armensk flatbrød stekt i panne, likt indisk naan. Oppskrift fra Hungry Man Kitchen (YouTube).",
+      "ingredients": [
+        "300 g mel",
+        "200 ml lunkent vann",
+        "10 g tørrgjær",
+        "1 ts salt",
+        "1 ts sukker",
+        "2 ss olivenolje (valgfritt, gir mykere konsistens)"
+      ],
+      "instructions": [
+        {
+          "part": "Aktivere gjæren",
+          "instructions": [
+            "I en bolle, bland lunkent vann med sukker og gjær.",
+            "La stå i 5-10 minutter til blandingen blir skummende."
+          ]
+        },
+        {
+          "part": "Forberede deigen",
+          "instructions": [
+            "Ha mel og salt i en stor bolle.",
+            "Tilsett gjærblandingen (og olivenolje hvis du bruker det).",
+            "Bland og elt i 8-10 minutter til deigen er glatt og elastisk."
+          ]
+        },
+        {
+          "part": "Første heving",
+          "instructions": [
+            "Dekk bollen og la deigen heve i omtrent 1 time (til den dobler seg i størrelse)."
+          ]
+        },
+        {
+          "part": "Forme og steke",
+          "instructions": [
+            "Trykk deigen flat og del den i 8-10 like store boller.",
+            "Kjevle hver ball ut til en sirkel eller oval, ca. 20 cm bred og 5-6 mm tykk.",
+            "Varm en tykk panne eller støpejernspanne på middels høy varme.",
+            "Stek hvert brød 1-2 minutter på hver side til det blåser opp og får gylne flekker."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "category": "doughAndBread",
+    "pictures": [],
+    "en": {
+      "name": "Pretzel",
+      "notes": "ChatGPT recipe. Perfect for breakfast, sliced lengthwise and generously buttered like a traditional Butterbrezel.",
+      "ingredients": [
+        {
+          "part": "Dough",
+          "ingredients": [
+            "500 g flour (T55 or T65)",
+            "1 packet dry yeast (7 g) or 20 g fresh yeast",
+            "10 g salt",
+            "10 g sugar",
+            "40 g softened butter",
+            "300 ml warm water"
+          ]
+        },
+        {
+          "part": "Baking soda bath",
+          "ingredients": ["1 l water", "40 g food-grade baking soda"]
+        }
+      ],
+      "instructions": [
+        "Mix flour, salt, and sugar. Add yeast dissolved in warm water.",
+        "Knead for 10 minutes. Add butter and knead for another 5 minutes.",
+        "Let rise for 1.5 hours (until doubled in size).",
+        "Punch down the dough and shape into 10-12 ropes. Form pretzels.",
+        "Preheat oven to 220°C. Bring water and baking soda to a boil.",
+        "Dip pretzels for 30 seconds in the boiling bath. Drain well.",
+        "Sprinkle with salt. Bake for 15-20 minutes until golden brown."
+      ]
+    },
+    "fr": {
+      "name": "Bretzel",
+      "notes": "Recette de ChatGPT. Parfait au ptit dej, coupé en deux dans la longueur et bien beurré tel un Butterbrezel.",
+      "ingredients": [
+        {
+          "part": "Pâte",
+          "ingredients": [
+            "500 g de farine (T55 ou T65)",
+            "1 sachet de levure boulangère sèche (7 g) ou 20 g de levure fraîche",
+            "10 g de sel",
+            "10 g de sucre",
+            "40 g de beurre ramolli",
+            "300 ml d'eau tiède"
+          ]
+        },
+        {
+          "part": "Bain de trempage",
+          "ingredients": [
+            "1 l d'eau",
+            "40 g de bicarbonate de soude alimentaire"
+          ]
+        }
+      ],
+      "instruictions": [
+        "Mélanger farine, sel, sucre. Ajouter levure délayée dans l'eau tiède.",
+        "Pétrir 10 min. Ajouter beurre, pétrir 5 min.",
+        "Lever 1h30 (volume doublé).",
+        "Dégazer, former 10-12 boudins. Façonner bretzels.",
+        "Préchauffer four 220°C. Faire bouillir eau + bicarbonate.",
+        "Tremper bretzels 30s dans bain bouillant. Égoutter.",
+        "Saler. Cuire 15-20 min jusqu'à dorure."
+      ]
+    },
+    "it": {
+      "name": "Brezel",
+      "notes": "Ricetta di ChatGPT. Perfetto a colazione, tagliato a metà nel senso della lunghezza e ben imburrato come un classico Butterbrezel.",
+      "ingredients": [
+        {
+          "part": "Impasto",
+          "ingredients": [
+            "500 g farina (T55 o T65)",
+            "1 bustina di lievito secco (7 g) o 20 g di lievito fresco",
+            "10 g sale",
+            "10 g zucchero",
+            "40 g burro ammorbidito",
+            "300 ml acqua tiepida"
+          ]
+        },
+        {
+          "part": "Bagno di bicarbonato",
+          "ingredients": ["1 l acqua", "40 g bicarbonato alimentare"]
+        }
+      ],
+      "instructions": [
+        "Mescolare farina, sale e zucchero. Aggiungere il lievito sciolto in acqua tiepida.",
+        "Impastare per 10 minuti. Aggiungere il burro e impastare per altri 5 minuti.",
+        "Lasciare lievitare per 1 ora e mezza (fino al raddoppio del volume).",
+        "Sgonfiare l'impasto e formare 10-12 filoncini. Modellare i brezeln.",
+        "Preriscaldare il forno a 220°C. Portare a ebollizione acqua e bicarbonato.",
+        "Immergere i brezeln per 30 secondi nel bagno bollente. Scolare bene.",
+        "Salare. Cuocere per 15-20 minuti finché sono dorati."
+      ]
+    },
+    "no": {
+      "name": "Bretzel",
+      "notes": "Oppskrift fra ChatGPT. Perfekt til frokost, delt på langs og smurt godt med smør - som en klassisk Butterbrezel.",
+      "ingredients": [
+        {
+          "part": "Deig",
+          "ingredients": [
+            "500 g mel (T55 eller T65)",
+            "1 pose tørrgjær (7 g) eller 20 g fersk gjær",
+            "10 g salt",
+            "10 g sukker",
+            "40 g mykt smør",
+            "300 ml lunkent vann"
+          ]
+        },
+        {
+          "part": "Bakepulverbad",
+          "ingredients": ["1 l vann", "40 g natron (matkvalitet)"]
+        }
+      ],
+      "instructions": [
+        "Bland mel, salt og sukker. Tilsett gjær oppløst i lunkent vann.",
+        "Elt i 10 minutter. Tilsett smør og elt i ytterligere 5 minutter.",
+        "La heve i 1,5 time (til dobbel størrelse).",
+        "Slå ned deigen og form 10-12 lengder. Form bretzler.",
+        "Forvarm ovnen til 220°C. Kok opp vann og natron.",
+        "Dypp bretzlene i det kokende badet i 30 sekunder. La renne av.",
+        "Dryss med salt. Stek i 15-20 minutter til de er gyldne."
+      ]
+    }
+  },
+  {
+    "category": "pizzas",
+    "pictures": [],
+    "en": {
+      "name": "Margherita",
+      "notes": "Pizza dough: same method as bread dough, but with 65-75 mL of water per 100 g of flour.",
+      "ingredients": [
+        {
+          "part": "Dough (for 1 pizza)",
+          "ingredients": [
+            "200-250 g flour",
+            "65% of the flour weight in tap water",
+            "A bit more yeast than for baguette",
+            "Half a teaspoon of salt"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "part": "Dough",
+          "instructions": [
+            "Mix with a wooden spoon.",
+            "Let rest for at least 5 hours."
+          ]
+        },
+        {
+          "part": "Pizza toppings",
+          "instructions": [
+            "Tomato sauce",
+            "1 ball of mozzarella",
+            "Fresh basil",
+            "Olive oil",
+            "Salt, pepper, herbs"
+          ]
+        },
+        {
+          "part": "Baking",
+          "instructions": [
+            "Preheat oven to the maximum temperature (250°C or higher, ideally 450°C).",
+            "Stretch the dough by hand on a floured baking tray.",
+            "Add tomato sauce — amount to taste.",
+            "Season with salt, pepper, pizza or Provençal herbs, and fresh basil leaves.",
+            "Distribute one ball of mozzarella (not drained if oven maxes at 250°C), preferably in large chunks so it melts slowly without browning.",
+            "Drizzle with olive oil.",
+            "Bake for about 10 minutes, preferably on the lower rack, using convection if possible."
+          ]
+        }
+      ]
+    },
+    "fr": {
+      "name": "Margherita",
+      "notes": "Pâte à pizza : même procédé que la pâte à pain mais avec 65 à 75 mL d'eau pour 100 de farine.",
+      "ingredients": [
+        {
+          "part": "Pâte (pour 1 pizza)",
+          "ingredients": [
+            "200 à 250 g farine",
+            "65 % de la farine en eau du robinet",
+            "Un peu plus de levure que pour la baguette",
+            "Demie cuillère à café de sel"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "part": "Pâte",
+          "instruictions": [
+            "Mélanger à la cuillère en bois",
+            "laisser reposer au moins 5 heures"
+          ]
+        },
+        {
+          "part": "Pizza",
+          "instruictions": [
+            "Sauce tomate",
+            "1 boule de Mozzarella",
+            "Basilic frais",
+            "Huile d'olive",
+            "Sel, poivre, herbes"
+          ]
+        },
+        {
+          "part": "Pizza",
+          "instruictions": [
+            "Préchauffer four au max, 250° sinon plus, idéalement 450°",
+            "Étaler et étirer à la main pâte sur plaque cuisson farinée",
+            "Ajouter sauce tomate, quantité : au talent",
+            "Saler, poivrer, herbes à pizza ou provence, feuilles de basilic frais",
+            "Répartir une boule de Mozzarella, (non égouttée si four bloqué à 250°), plutot gros morceaux pour qu'ils fondent lentement et ne gratinent pas",
+            "Ajouter filet d'huile d'olive",
+            "Enfourner une dizaine de minutes, plutôt en bas du four, avec chaleur tournante"
+          ]
+        }
+      ]
+    },
+    "it": {
+      "name": "Margherita",
+      "notes": "Impasto per pizza: stesso procedimento del pane, ma con 65-75 mL d'acqua ogni 100 g di farina.",
+      "ingredients": [
+        {
+          "part": "Impasto (per 1 pizza)",
+          "ingredients": [
+            "200-250 g farina",
+            "65% del peso della farina in acqua del rubinetto",
+            "Un po' più di lievito rispetto alla baguette",
+            "Mezza cucchiaina di sale"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "part": "Impasto",
+          "instructions": [
+            "Mescolare con un cucchiaio di legno.",
+            "Lasciare riposare per almeno 5 ore."
+          ]
+        },
+        {
+          "part": "Condimento",
+          "instructions": [
+            "Salsa di pomodoro",
+            "1 mozzarella",
+            "Basilico fresco",
+            "Olio d'oliva",
+            "Sale, pepe, erbe aromatiche"
+          ]
+        },
+        {
+          "part": "Cottura",
+          "instructions": [
+            "Preriscaldare il forno al massimo (250°C o più, idealmente 450°C).",
+            "Stendere l'impasto a mano su una teglia infarinata.",
+            "Aggiungere la salsa di pomodoro — quantità a piacere.",
+            "Condire con sale, pepe, erbe per pizza o di Provenza e foglie di basilico fresco.",
+            "Distribuire una mozzarella (non scolata se il forno arriva solo a 250°C), preferibilmente a pezzi grandi per farla sciogliere lentamente senza gratinare.",
+            "Irrorare con un filo d'olio d'oliva.",
+            "Cuocere per circa 10 minuti, preferibilmente nella parte bassa del forno, con ventilazione."
+          ]
+        }
+      ]
+    },
+    "no": {
+      "name": "Margherita",
+      "notes": "Pizzadeig: samme prosess som brøddeig, men med 65-75 mL vann per 100 g mel.",
+      "ingredients": [
+        {
+          "part": "Deig (for 1 pizza)",
+          "ingredients": [
+            "200-250 g mel",
+            "65% av melets vekt i vann fra springen",
+            "Litt mer gjær enn til baguette",
+            "En halv teskje salt"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "part": "Deig",
+          "instructions": ["Bland med tresleiv.", "La hvile i minst 5 timer."]
+        },
+        {
+          "part": "Topping",
+          "instructions": [
+            "Tomatsaus",
+            "1 kule mozzarella",
+            "Fersk basilikum",
+            "Olivenolje",
+            "Salt, pepper, urter"
+          ]
+        },
+        {
+          "part": "Steking",
+          "instructions": [
+            "Forvarm ovnen til maks temperatur (250°C eller mer, ideelt 450°C).",
+            "Strekk deigen for hånd på et melet bakebrett.",
+            "Tilsett tomatsaus — mengde etter smak.",
+            "Krydre med salt, pepper, pizzakrydder eller provenceurter, og ferske basilikumblader.",
+            "Fordel en kule mozzarella (ikke avrent hvis ovnen maks er 250°C), helst i store biter slik at den smelter sakte uten å bli brun.",
+            "Drypp over litt olivenolje.",
+            "Stek i rundt 10 minutter, helst nederst i ovnen, med varmluft."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "category": "sweet",
+    "pictures": [],
+    "en": {
+      "name": "Crêpes",
+      "notes": "Smooth crêpe batter without lumps, no blender needed, express recipe. Tip: work with equal amounts of dry and liquid ingredients: https://www.youtube.com/watch?v=p-XOehv3j20",
+      "ingredients": [
+        "250 g flour",
+        "500 ml milk",
+        "3 eggs",
+        "30 g butter / 30 ml neutral oil",
+        "Sugar for color (optional)",
+        "A pinch of salt"
+      ],
+      "instructions": [
+        "Add all ingredients to a mixing bowl, but only 1/3 of the milk.",
+        "Whisk thoroughly; in 30 seconds you'll have a thick, lump-free batter.",
+        "Add the remaining milk and finish the batter in a few seconds.",
+        "Let rest for at least 2 hours.",
+        "Cooking: use a non-stick pan on high or maximum heat, pour batter with a ladle and shake the pan to help the batter spread evenly."
+      ]
+    },
+    "fr": {
+      "name": "Crêpes",
+      "notes": "Pâte à crêpes sans grumeaux, sans mixeur, recette express. L'astuce : travailler sur les bases solides et liquides à quantités égales : https://www.youtube.com/watch?v=p-XOehv3j20",
+      "ingredients": [
+        "250 g farine",
+        "500 ml lait",
+        "3 oeufs",
+        "30 g beurre / 30 ml huile neutre",
+        "Sucre pour colorer (facultatif)",
+        "Une pincée de sel"
+      ],
+      "instructions": [
+        "Ajouter tous les ingrédients dans un saladier, mais seulement 1/3 du lait.",
+        "Mélanger le tout assurément au fouet, en 30 secondes on obtient une pâte épaisse et garantie sans grumeaux.",
+        "Ajouter le reste du lait et finir la pâte en quelques secondes.",
+        "Laisser reposer au moins 2 heures.",
+        "Cuisson, poêle anti-adhésive, feu vif voire max, étaler à la louche et secouer la poêle pour aider la pâte à s'étaler et s'égaliser"
+      ]
+    },
+    "it": {
+      "name": "Crêpes",
+      "notes": "Pastella liscia senza grumi, senza frullatore, ricetta veloce. Consiglio: lavorare con quantità uguali di ingredienti secchi e liquidi: https://www.youtube.com/watch?v=p-XOehv3j20",
+      "ingredients": [
+        "250 g farina",
+        "500 ml latte",
+        "3 uova",
+        "30 g burro / 30 ml olio neutro",
+        "Zucchero per colorare (facoltativo)",
+        "Un pizzico di sale"
+      ],
+      "instructions": [
+        "Mettere tutti gli ingredienti in una ciotola, ma solo 1/3 del latte.",
+        "Mescolare bene con una frusta; in 30 secondi si ottiene una pastella densa e senza grumi.",
+        "Aggiungere il resto del latte e completare la pastella in pochi secondi.",
+        "Lasciare riposare almeno 2 ore.",
+        "Cottura: usare una padella antiaderente a fuoco alto o massimo, versare la pastella con un mestolo e scuotere la padella per stenderla uniformemente."
+      ]
+    },
+    "no": {
+      "name": "Crêpes",
+      "notes": "Glatt pannekakerøre uten klumper, uten blender, ekspressoppskrift. Tips: arbeid med like mengder tørre og flytende ingredienser: https://www.youtube.com/watch?v=p-XOehv3j20",
+      "ingredients": [
+        "250 g mel",
+        "500 ml melk",
+        "3 egg",
+        "30 g smør / 30 ml nøytral olje",
+        "Sukker for farge (valgfritt)",
+        "En klype salt"
+      ],
+      "instructions": [
+        "Ha alle ingrediensene i en bolle, men bare 1/3 av melken.",
+        "Visp godt; på 30 sekunder får du en tykk, klumpfri røre.",
+        "Tilsett resten av melken og fullfør røren på noen sekunder.",
+        "La hvile i minst 2 timer.",
+        "Steking: bruk en non-stick panne på høy eller maks varme, hell røren med en øse og rist pannen for å fordele røren jevnt."
+      ]
+    }
+  },
+  {
+    "category": "sweet",
+    "pictures": [],
+    "en": {
+      "name": "Striezel",
+      "notes": "A fairly simple brioche with an impressive visual effect, typical braid from Germanic countries. Recipe shared by my Austrian colleague.",
+      "ingredients": [
+        "500 g flour",
+        "250 ml milk",
+        "60 g butter",
+        "60 g sugar",
+        "30 g yeast",
+        "1 tsp salt",
+        "1 tsp vanilla sugar (optional)"
+      ],
+      "instructions": [
+        "Melt the butter and add the milk (30°C, do not cook).",
+        "Mix everything to form a dough, let rest for 2 hours until doubled in size.",
+        "Braid the Striezel as shown in the video: https://www.youtube.com/watch?v=FFVW94Oi5c0",
+        "Brush with egg and sprinkle with pearl sugar.",
+        "Bake 30 minutes at 170°C."
+      ]
+    },
+    "fr": {
+      "name": "Striezel",
+      "notes": "Brioche assez simple avec effet visuel impressionnant, tresse typique des pays germaniques. Recette partagée par mon collègue Autrichien.",
+      "ingredients": [
+        "500g de farine",
+        "250 ml de lait",
+        "60 g de beurre",
+        "60 g de sucre",
+        "30g de levure",
+        "1 cuillère à café de sel",
+        "1 cuillère à café de sucre vanillé (facultatif)"
+      ],
+      "instruictions": [
+        "Faire fondre le beurre et y ajouter le lait (30°, ne pas faire cuire)",
+        "Mélanger le tout et faire une pâte, laisser reposer 2 heures pour que la pâte double de volume",
+        "Tresser les Striezels comme décrit dans la vidéo : https://www.youtube.com/watch?v=FFVW94Oi5c0",
+        "Badigeonner d'œuf et ajouter du sucre perlé",
+        "Four 30 minutes à 170°"
+      ]
+    },
+    "it": {
+      "name": "Striezel",
+      "notes": "Brioche abbastanza semplice con effetto visivo impressionante, treccia tipica dei paesi germanici. Ricetta condivisa dal mio collega austriaco.",
+      "ingredients": [
+        "500 g farina",
+        "250 ml latte",
+        "60 g burro",
+        "60 g zucchero",
+        "30 g lievito",
+        "1 cucchiaino di sale",
+        "1 cucchiaino di zucchero vanigliato (facoltativo)"
+      ],
+      "instructions": [
+        "Fondere il burro e aggiungere il latte (30°C, non cuocere).",
+        "Mescolare tutto per ottenere un impasto, lasciare riposare 2 ore fino al raddoppio del volume.",
+        "Intrecciare gli Striezel come mostrato nel video: https://www.youtube.com/watch?v=FFVW94Oi5c0",
+        "Spennellare con uovo e cospargere di zucchero perlato.",
+        "Cuocere in forno per 30 minuti a 170°C."
+      ]
+    },
+    "no": {
+      "name": "Striezel",
+      "notes": "En ganske enkel brioche med imponerende visuelt uttrykk, typisk flett fra de germanske landene. Oppskrift delt av min østerrikske kollega.",
+      "ingredients": [
+        "500 g mel",
+        "250 ml melk",
+        "60 g smør",
+        "60 g sukker",
+        "30 g gjær",
+        "1 ts salt",
+        "1 ts vaniljesukker (valgfritt)"
+      ],
+      "instructions": [
+        "Smelt smøret og tilsett melk (30°C, ikke kok).",
+        "Bland alt til en deig, la hvile i 2 timer til den dobler seg i størrelse.",
+        "Flett Striezel som vist i videoen: https://www.youtube.com/watch?v=FFVW94Oi5c0",
+        "Pensle med egg og strø perlesukker over.",
+        "Stek i ovnen i 30 minutter ved 170°C."
       ]
     }
   }
