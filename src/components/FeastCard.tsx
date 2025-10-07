@@ -1,10 +1,13 @@
-import type { Feast, FeastDetails } from "../pages/Recipes";
+import { useNavigate } from "react-router";
 import { useIsMobile } from "../utils/isMobileHook";
+import { RECIPES_PATH } from "../utils/routes";
 import { useTranslation } from "../utils/TranslationContext";
 import { formatDate } from "../utils/utils";
+import type { Feast, FeastDetails } from "../utils/validator";
 
 const FeastCard = ({ feast }: { feast: Feast }) => {
   const { language } = useTranslation();
+  const navigate = useNavigate();
   const isMobile = useIsMobile();
 
   const details = feast[language as keyof Feast]
@@ -27,7 +30,10 @@ const FeastCard = ({ feast }: { feast: Feast }) => {
         />
       )}
       <div className="flex flex-col gap-2 p-4">
-        <div className="flex items-center gap-4">
+        <div
+          className="flex items-center gap-4 cursor-pointer hover:underline"
+          onClick={() => navigate(`${RECIPES_PATH}/feasts/${feast.id}`)}
+        >
           <img
             className="w-8"
             src={`/flags/${feast.countryCode}.svg`}
@@ -40,7 +46,7 @@ const FeastCard = ({ feast }: { feast: Feast }) => {
           <div className="text-sm text-gray-600">
             {formatDate(feast.date, language)}
           </div>
-          <div className="text-sm  bg-gray-100 rounded-full p-2">{`${feast.ranking}/10`}</div>
+          <div className="text-sm bg-gray-100 rounded-full p-2">{`${feast.ranking}/10`}</div>
         </div>
 
         <div className="flex items-center gap-4 text-sm whitespace-pre-line text-ellipsis overflow-hidden text-start line-clamp-1">

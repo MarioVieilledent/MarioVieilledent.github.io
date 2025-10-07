@@ -7,6 +7,12 @@ import FeastCard from "../components/FeastCard";
 import { Route, Routes, useLocation, useNavigate } from "react-router";
 import RecipeCard from "../components/RecipeCard";
 import { useIsMobile } from "../utils/isMobileHook";
+import RecipeDisplay from "../components/RecipeDisplay";
+import { RECIPES_PATH } from "../utils/routes";
+import NotFound from "./NotFound";
+import FeastDisplay from "../components/FeastDisplay";
+import { feast, recipe, type Feast, type Recipe } from "../utils/validator";
+import z from "zod";
 
 const categories = [
   "feasts",
@@ -17,46 +23,6 @@ const categories = [
   "pizzas",
   "sweet",
 ] as const;
-
-type Category = (typeof categories)[number];
-
-export interface RecipeDetails {
-  name: string;
-  ingredients: string[] | { part: string; ingredients: string[] }[];
-  instructions: string[] | { part: string; instructions: string[] }[];
-  notes?: string;
-}
-
-export interface Recipe {
-  category: Category;
-  pictures: string[];
-  en: RecipeDetails;
-  fr: RecipeDetails;
-  it: RecipeDetails;
-  no?: RecipeDetails;
-}
-
-export interface FeastDetails {
-  name: string;
-  idea: string[];
-  menu: string[];
-  notes: {
-    title: string;
-    description: string[];
-  };
-}
-
-export interface Feast {
-  mealNumber: number;
-  countryCode: string;
-  date: string;
-  ranking: number;
-  pictures: string[];
-  en: FeastDetails;
-  fr: FeastDetails;
-  it: FeastDetails;
-  no?: FeastDetails;
-}
 
 const Recipes = () => {
   const { t } = useTranslation();
@@ -69,21 +35,20 @@ const Recipes = () => {
   const location = useLocation();
 
   useEffect(() => {
-    console.log(location.pathname);
-    if (location.pathname === "/recipes") {
-      navigate(`/recipes/${categories[0]}`);
+    if (location.pathname === RECIPES_PATH) {
+      navigate(`${RECIPES_PATH}/${categories[0]}`);
     }
   }, [location, navigate]);
 
   useEffect(() => {
     fetch("/recipes.json")
       .then((response) => response.json())
-      .then((data) => setRecipes(data))
+      .then((data: unknown) => setRecipes(z.array(recipe).parse(data)))
       .catch((error) => console.error("Error fetching recipes:", error));
 
     fetch("/feasts.json")
       .then((response) => response.json())
-      .then((data) => setFeasts(data))
+      .then((data: unknown) => setFeasts(z.array(feast).parse(data)))
       .catch((error) => console.error("Error fetching feasts:", error));
   }, []);
 
@@ -93,7 +58,9 @@ const Recipes = () => {
         <div className="flex gap-8  p-2 justify-between items-center">
           <GoBackHome />
           <select
-            onChange={(event) => navigate(`/recipes/${event.target.value}`)}
+            onChange={(event) =>
+              navigate(`${RECIPES_PATH}/${event.target.value}`)
+            }
           >
             {categories.map((tab) => (
               <option key={tab} value={tab}>
@@ -127,7 +94,7 @@ const Recipes = () => {
                     ? "cursor-pointer underline"
                     : "cursor-pointer"
                 }
-                onClick={() => navigate(`/recipes/${tab}`)}
+                onClick={() => navigate(`${RECIPES_PATH}/${tab}`)}
               >
                 {t(tab)}
               </a>
@@ -138,7 +105,7 @@ const Recipes = () => {
         </>
       )}
 
-      <div className="flex flex-col gap-8">
+      <div className="flex flex-col gap-8 pb-8">
         <Routes>
           <Route
             path=""
@@ -156,12 +123,46 @@ const Recipes = () => {
             ))}
           />
           <Route
+            path={"/feasts/:feast"}
+            element={
+              feasts.find((feast) => location.pathname.includes(feast.id)) ? (
+                <FeastDisplay
+                  feast={
+                    feasts.find((feast) =>
+                      location.pathname.includes(feast.id)
+                    ) as Feast
+                  }
+                />
+              ) : (
+                <NotFound />
+              )
+            }
+          />
+          <Route
             path={":category"}
             element={recipes
               .filter((recipe) => location.pathname.includes(recipe.category))
               .map((recipe, index) => (
                 <RecipeCard key={index} recipe={recipe} />
               ))}
+          />
+          <Route
+            path={":category/:recipe"}
+            element={
+              recipes.find((recipe) =>
+                location.pathname.includes(recipe.id)
+              ) ? (
+                <RecipeDisplay
+                  recipe={
+                    recipes.find((recipe) =>
+                      location.pathname.includes(recipe.id)
+                    ) as Recipe
+                  }
+                />
+              ) : (
+                <NotFound />
+              )
+            }
           />
         </Routes>
       </div>

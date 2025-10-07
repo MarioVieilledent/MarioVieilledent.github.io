@@ -1,9 +1,12 @@
-import type { Recipe, RecipeDetails } from "../pages/Recipes";
+import { useNavigate } from "react-router";
 import { useIsMobile } from "../utils/isMobileHook";
 import { useTranslation } from "../utils/TranslationContext";
+import { RECIPES_PATH } from "../utils/routes";
+import type { Recipe, RecipeDetails } from "../utils/validator";
 
 const RecipeCard = ({ recipe }: { recipe: Recipe }) => {
   const { language } = useTranslation();
+  const navigate = useNavigate();
   const isMobile = useIsMobile();
 
   const details = recipe[language as keyof Recipe]
@@ -26,7 +29,12 @@ const RecipeCard = ({ recipe }: { recipe: Recipe }) => {
         />
       )}
       <div className="flex flex-col gap-2 p-4">
-        <div className="flex items-center gap-4">
+        <div
+          className="flex items-center gap-4 cursor-pointer hover:underline"
+          onClick={() =>
+            navigate(`${RECIPES_PATH}/${recipe.category}/${recipe.id}`)
+          }
+        >
           <div className="text-lg">{details.name}</div>
         </div>
         <div className="flex items-center gap-4">

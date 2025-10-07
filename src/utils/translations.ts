@@ -56,6 +56,7 @@ export const translations = {
   submit: ["Submit", "Send inn", "Valider", "Invia"],
   iDontKnow: ["I don't know", "Jeg vet ikke", "Je ne sais pas", "Non lo so"],
   goBackHome: ["Go back home", "Gå hjem", "Menu", "Torna alla home"],
+  back: ["Back", "Tilbake", "Retour", "Indietro"],
   pageNotFound: [
     "404 - Page not found",
     "404 - Siden ble ikke funnet",
@@ -113,4 +114,9 @@ export const translations = {
     "Mes notes de cuisine - Recettes recherchés pendant des années, volées sur internet, ou trichées avec ChatGPT",
     "I miei appunti di cucina - Ricette ricercate per anni, rubate da Internet o copiate con ChatGPT",
   ],
+  ingredients: ["Ingredients", "Ingredienser", "Ingrédients", "Ingredienti"],
+  instructions: ["Instructions", "Instruksjoner", "Instructions", "Istruzioni"],
+  notes: ["Notes", "Notater", "Notes", "Note"],
+  idea: ["Idea", "Idé", "Idée", "Idea"],
+  menu: ["Menu", "Meny", "Menu", "Menu"],
 };

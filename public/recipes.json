@@ -1,6 +1,7 @@
 [
   {
     "category": "soupsAndBroths",
+    "id": "vegetableBroth",
     "pictures": [],
     "en": {
       "name": "Vegetable broth",
@@ -65,6 +66,7 @@
   },
   {
     "category": "riceAndPasta",
+    "id": "pilafRice",
     "pictures": [],
     "en": {
       "name": "Spiced pilaf rice with meat",
@@ -141,6 +143,7 @@
   },
   {
     "category": "riceAndPasta",
+    "id": "freshPasta",
     "pictures": [],
     "en": {
       "name": "Homemade fresh pasta with hand crank",
@@ -196,6 +199,7 @@
   },
   {
     "category": "riceAndPasta",
+    "id": "risottoSpaghetti",
     "pictures": [],
     "en": {
       "name": "Risotto-style Spaghetti",
@@ -210,7 +214,7 @@
         "Cook the spaghetti in salted boiling water for about two-thirds of the usual cooking time.",
         "Meanwhile, heat olive oil over medium-high heat with 3-5 whole garlic cloves (peeled or roughly chopped); the garlic should sizzle.",
         "Add spices to taste — pepper, chili flakes, etc.",
-        "When the pasta is two-thirds cooked, transfer it to the hot pan and gradually add small ladles of pasta water to finish cooking and create a creamy texture from the starch."
+        "When 2/3 cooked, transfer spaghetti to the hot pan, adding small ladles of pasta water as needed to both finish cooking and make the pasta creamier thanks to the starch. Stir regularly."
       ]
     },
     "fr": {
@@ -226,7 +230,7 @@
         "Spaghetti classiques, deux tiers de la cuisson dans casserole, eau bouillante salée",
         "Pendant ce temps chauffer feu moyen/fort de l'huile d'olive avec 3 à 5 gousses d'ail entières sans la peau ou hachés grossierement, l'ail doit chanter",
         "Ajouter des épices au goût, poivre, piment style \"chilli flakes\"",
-        "A 2/3 de la cuisson casserole, transférer les spaghetti dans la poêle chaude, et ajouter des petites louches d'eau des pâtes pour a la fois finir la cuisson et à la fois rendre les pâtes plus crémeuses grâce à l'amidon des pâtes"
+        "À 2/3 de la cuisson casserole, transférer les spaghetti dans la poêle chaude, et ajouter des petites louches d'eau des pâtes quand nécessaire pour a la fois finir la cuisson et  rendre les pâtes plus crémeuses grâce à l'amidon. Remuer régulièrement"
       ]
     },
     "it": {
@@ -242,7 +246,7 @@
         "Cuocere gli spaghetti in acqua bollente salata per circa due terzi del tempo di cottura.",
         "Nel frattempo scaldare l'olio d'oliva a fuoco medio-alto con 3-5 spicchi d'aglio interi (senza buccia o tritati grossolanamente), l'aglio deve sfrigolare.",
         "Aggiungere le spezie a piacere: pepe, peperoncino in scaglie, ecc.",
-        "Quando la pasta è cotta per due terzi, trasferirla nella padella calda e aggiungere gradualmente piccole mestolate di acqua di cottura per completare la cottura e renderla cremosa grazie all'amido."
+        "Quando i 2/3 cotti, trasferire gli spaghetti nella padella calda, aggiungendo piccole mestolate di acqua di cottura della pasta se necessario per finire la cottura e rendere la pasta più cremosa grazie all'amido. Mescolare regolarmente."
       ]
     },
     "no": {
@@ -258,12 +262,13 @@
         "Kok spaghetti i saltet, kokende vann til omtrent to tredjedeler av vanlig koketid.",
         "I mellomtiden, varm opp olivenolje på middels høy varme med 3-5 hele hvitløksfedd (uten skall eller grovhakket); hvitløken skal frese.",
         "Tilsett krydder etter smak - pepper, chiliflak osv.",
-        "Når pastaen er to tredjedeler ferdigkokt, overfør den til den varme pannen og tilsett små øser med pastavann for å fullføre kokingen og gjøre den kremet takket være stivelsen."
+        "Når 2/3 kokt, overfør spaghettien til den varme pannen, og tilsett små øser med pastavann etter behov for både å fullføre kokingen og gjøre pastaen kremete takket være stivelsen. Rør regelmessig."
       ]
     }
   },
   {
     "category": "meatAndFish",
+    "id": "salmonFillets",
     "pictures": [],
     "en": {
       "name": "Oven-baked Salmon Fillets",
@@ -336,6 +341,7 @@
   },
   {
     "category": "doughAndBread",
+    "id": "baguette",
     "pictures": [],
     "en": {
       "name": "Baguette",
@@ -416,6 +422,7 @@
   },
   {
     "category": "doughAndBread",
+    "id": "burgerBuns",
     "pictures": [],
     "en": {
       "name": "Burger Buns",
@@ -564,6 +571,7 @@
   },
   {
     "category": "doughAndBread",
+    "id": "lavashBread",
     "pictures": [],
     "en": {
       "name": "Oriental Flatbread \"Lavash\"",
@@ -620,7 +628,7 @@
         "1 c. à c. sucre",
         "2 c. à s. huile olive (optionnel, donne une texture plus souple)"
       ],
-      "instruictions": [
+      "instructions": [
         {
           "part": "Activer la levure",
           "instructions": [
@@ -744,6 +752,7 @@
   },
   {
     "category": "doughAndBread",
+    "id": "Bretzel",
     "pictures": [],
     "en": {
       "name": "Pretzel",
@@ -798,7 +807,7 @@
           ]
         }
       ],
-      "instruictions": [
+      "instructions": [
         "Mélanger farine, sel, sucre. Ajouter levure délayée dans l'eau tiède.",
         "Pétrir 10 min. Ajouter beurre, pétrir 5 min.",
         "Lever 1h30 (volume doublé).",
@@ -871,6 +880,7 @@
   },
   {
     "category": "pizzas",
+    "id": "margherita",
     "pictures": [],
     "en": {
       "name": "Margherita",
@@ -884,6 +894,16 @@
             "A bit more yeast than for baguette",
             "Half a teaspoon of salt"
           ]
+        },
+        {
+          "part": "Pizza toppings",
+          "ingredients": [
+            "Tomato sauce",
+            "1 ball of mozzarella",
+            "Fresh basil",
+            "Olive oil",
+            "Salt, pepper, herbs"
+          ]
         }
       ],
       "instructions": [
@@ -892,16 +912,6 @@
           "instructions": [
             "Mix with a wooden spoon.",
             "Let rest for at least 5 hours."
-          ]
-        },
-        {
-          "part": "Pizza toppings",
-          "instructions": [
-            "Tomato sauce",
-            "1 ball of mozzarella",
-            "Fresh basil",
-            "Olive oil",
-            "Salt, pepper, herbs"
           ]
         },
         {
@@ -930,29 +940,29 @@
             "Un peu plus de levure que pour la baguette",
             "Demie cuillère à café de sel"
           ]
-        }
-      ],
-      "instructions": [
-        {
-          "part": "Pâte",
-          "instruictions": [
-            "Mélanger à la cuillère en bois",
-            "laisser reposer au moins 5 heures"
-          ]
         },
         {
           "part": "Pizza",
-          "instruictions": [
+          "ingredients": [
             "Sauce tomate",
             "1 boule de Mozzarella",
             "Basilic frais",
             "Huile d'olive",
             "Sel, poivre, herbes"
           ]
+        }
+      ],
+      "instructions": [
+        {
+          "part": "Pâte",
+          "instructions": [
+            "Mélanger à la cuillère en bois",
+            "laisser reposer au moins 5 heures"
+          ]
         },
         {
           "part": "Pizza",
-          "instruictions": [
+          "instructions": [
             "Préchauffer four au max, 250° sinon plus, idéalement 450°",
             "Étaler et étirer à la main pâte sur plaque cuisson farinée",
             "Ajouter sauce tomate, quantité : au talent",
@@ -976,6 +986,16 @@
             "Un po' più di lievito rispetto alla baguette",
             "Mezza cucchiaina di sale"
           ]
+        },
+        {
+          "part": "Condimento",
+          "ingredients": [
+            "Salsa di pomodoro",
+            "1 mozzarella",
+            "Basilico fresco",
+            "Olio d'oliva",
+            "Sale, pepe, erbe aromatiche"
+          ]
         }
       ],
       "instructions": [
@@ -984,16 +1004,6 @@
           "instructions": [
             "Mescolare con un cucchiaio di legno.",
             "Lasciare riposare per almeno 5 ore."
-          ]
-        },
-        {
-          "part": "Condimento",
-          "instructions": [
-            "Salsa di pomodoro",
-            "1 mozzarella",
-            "Basilico fresco",
-            "Olio d'oliva",
-            "Sale, pepe, erbe aromatiche"
           ]
         },
         {
@@ -1022,22 +1032,22 @@
             "Litt mer gjær enn til baguette",
             "En halv teskje salt"
           ]
-        }
-      ],
-      "instructions": [
-        {
-          "part": "Deig",
-          "instructions": ["Bland med tresleiv.", "La hvile i minst 5 timer."]
         },
         {
           "part": "Topping",
-          "instructions": [
+          "ingredients": [
             "Tomatsaus",
             "1 kule mozzarella",
             "Fersk basilikum",
             "Olivenolje",
             "Salt, pepper, urter"
           ]
+        }
+      ],
+      "instructions": [
+        {
+          "part": "Deig",
+          "instructions": ["Bland med tresleiv.", "La hvile i minst 5 timer."]
         },
         {
           "part": "Steking",
@@ -1056,6 +1066,7 @@
   },
   {
     "category": "sweet",
+    "id": "crepes",
     "pictures": [],
     "en": {
       "name": "Crêpes",
@@ -1136,6 +1147,7 @@
   },
   {
     "category": "sweet",
+    "id": "striezel",
     "pictures": [],
     "en": {
       "name": "Striezel",
@@ -1169,7 +1181,7 @@
         "1 cuillère à café de sel",
         "1 cuillère à café de sucre vanillé (facultatif)"
       ],
-      "instruictions": [
+      "instructions": [
         "Faire fondre le beurre et y ajouter le lait (30°, ne pas faire cuire)",
         "Mélanger le tout et faire une pâte, laisser reposer 2 heures pour que la pâte double de volume",
         "Tresser les Striezels comme décrit dans la vidéo : https://www.youtube.com/watch?v=FFVW94Oi5c0",

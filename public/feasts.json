@@ -1,6 +1,7 @@
 [
   {
     "mealNumber": 1,
+    "id": "frenchMeal",
     "countryCode": "fr",
     "date": "2025-09-09",
     "ranking": 9.0,
@@ -188,6 +189,7 @@
   },
   {
     "mealNumber": 2,
+    "id": "turkishMeal",
     "countryCode": "tr",
     "date": "2025-09-18",
     "ranking": 8,
@@ -306,6 +308,7 @@
   },
   {
     "mealNumber": 3,
+    "id": "americanMeal",
     "countryCode": "us",
     "date": "2025-09-25",
     "ranking": 8.5,
@@ -324,22 +327,24 @@
         "Smash burgers with homemade bread toasted in the pan, homemade mayonnaise, salad, tomato, caramelized onion of course",
         "Oven fries, with homemade mayo"
       ],
-      "notes": {
-        "title": "General",
-        "description": [
-          "We helped each other, the Norwegian made the onions caramelize, Sara set the table and plated, Alice helped with everything, airfryer, plating, cutting onions and tomatoes",
-          "Marco loved the homemade brioche buns, toasted with butter and a layer of mayo",
-          "1 kg of potatoes, just enough for 5, we ate them all",
-          "Buns take a long time to make, long to wait, I made two mistakes",
-          "I think I overheated the milk and yeast, maybe I killed some yeast? Not sure, but in any case, the buns were not airy enough, not enough air",
-          "I forgot to put the glaze and sesame seeds before baking in the oven, actually not a big deal by fixing it after baking",
-          "Oven fries are really hard to achieve a fries quality, the sauce compensates but we're far from it. Real fries are for the fryer",
-          "Really tall burgers, the bread being rather compact and not very pressed, plus the two thick steaks, made for an ultra-tall burger that was difficult to eat",
-          "Steak in the pan, quite hard to do, you have to chain 5 * 2 steaks, the first ones are perfect, but then the pan blackens quickly and the onion residues burn, so it's burnt, risk of bitterness, but above all the next steaks have trouble starting the Maillard reaction",
-          "Very very hard to cook everything, I couldn't manage in time, and even with help, cooking the steaks, seasoning, melting cheese on steak, assembling burgers, and plating dishes is really hard to do alone, unless you're ultra on point, first time is too hard, and even with attentive help it's complex",
-          "In the end, great success, just what was needed, great evening."
-        ]
-      }
+      "notes": [
+        {
+          "title": "General",
+          "description": [
+            "We helped each other, the Norwegian made the onions caramelize, Sara set the table and plated, Alice helped with everything, airfryer, plating, cutting onions and tomatoes",
+            "Marco loved the homemade brioche buns, toasted with butter and a layer of mayo",
+            "1 kg of potatoes, just enough for 5, we ate them all",
+            "Buns take a long time to make, long to wait, I made two mistakes",
+            "I think I overheated the milk and yeast, maybe I killed some yeast? Not sure, but in any case, the buns were not airy enough, not enough air",
+            "I forgot to put the glaze and sesame seeds before baking in the oven, actually not a big deal by fixing it after baking",
+            "Oven fries are really hard to achieve a fries quality, the sauce compensates but we're far from it. Real fries are for the fryer",
+            "Really tall burgers, the bread being rather compact and not very pressed, plus the two thick steaks, made for an ultra-tall burger that was difficult to eat",
+            "Steak in the pan, quite hard to do, you have to chain 5 * 2 steaks, the first ones are perfect, but then the pan blackens quickly and the onion residues burn, so it's burnt, risk of bitterness, but above all the next steaks have trouble starting the Maillard reaction",
+            "Very very hard to cook everything, I couldn't manage in time, and even with help, cooking the steaks, seasoning, melting cheese on steak, assembling burgers, and plating dishes is really hard to do alone, unless you're ultra on point, first time is too hard, and even with attentive help it's complex",
+            "In the end, great success, just what was needed, great evening."
+          ]
+        }
+      ]
     },
     "fr": {
       "name": "Smash Burger, Frites et Mayonnaise Maison",
@@ -355,22 +360,24 @@
         "Smash burgers avec pain maison toasté à la poêle, mayonnaise maison, salade, tomate, oignon confits",
         "Frites au four, avec mayo maison"
       ],
-      "notes": {
-        "title": "Général",
-        "description": [
-          "On s'est entraidé, le norvégien a fait confire les oignon, la Sara mise de table et dressage, la Alice à aider à tout, airfryer, dressage, coupe des oignon et des tomates",
-          "Marco a adoré les buns brioché maison, toasté au beurre avec une couche de mayo",
-          "1 kg de patates, tout juste assez pour 5, on en bouffe",
-          "Buns, c'est long à faire, long à attendre, j'ai fait deux erreurs",
-          "Je pense que j'ai trop chauffé le lait et la levure, peut etre que j'ai tué un peu de levure ? Pas sur, mais en tout cas, les buns était pas assez aéré, pas assez d'air",
-          "J'ai oublié de mettre la dorure et les graines de sésame avant la cuisson au four, en vrai pas grave en rattrapant après la cuisson",
-          "Patates au four, c'est vraiment chaud d'atteindre une qualité frites, la sauce compenser mais on est loin. Les vrais frites, c'est à la friteuse",
-          "Burger vraiment hauts, le pain étant plutot compact et peu pressé, plus les deux steaks épais, a fait un burger ultra haut difficile à manger",
-          "Steak à la poele, assez dur à faire, il faut enchainer 5 * 2 steaks, les premiers sont nickels, mais après la poele noirci vite et les résidus d'oignons crament, du coup, c'est brulé, risque d'amertume, mais surtout les prochains steak on du mal à démarrer la réaction de maillard",
-          "Très très chaud à tout cuisiné, j'ai pas réussi à temps, et même avec de l'aide, la cuisson des steaks, assaisonnement, fromage fondu sur steak, montage des burgers, et dressage des assiettes, c'est vraiment chaud à faire seul, à moins d'être ultra au point, en first time c'est trop dur, et même avec de l'aide attentionnée c'est complexe",
-          "Au final, grosse réussite, juste ce qu'il fallait, super soirée."
-        ]
-      }
+      "notes": [
+        {
+          "title": "Général",
+          "description": [
+            "On s'est entraidé, le norvégien a fait confire les oignon, la Sara mise de table et dressage, la Alice à aider à tout, airfryer, dressage, coupe des oignon et des tomates",
+            "Marco a adoré les buns brioché maison, toasté au beurre avec une couche de mayo",
+            "1 kg de patates, tout juste assez pour 5, on en bouffe",
+            "Buns, c'est long à faire, long à attendre, j'ai fait deux erreurs",
+            "Je pense que j'ai trop chauffé le lait et la levure, peut etre que j'ai tué un peu de levure ? Pas sur, mais en tout cas, les buns était pas assez aéré, pas assez d'air",
+            "J'ai oublié de mettre la dorure et les graines de sésame avant la cuisson au four, en vrai pas grave en rattrapant après la cuisson",
+            "Patates au four, c'est vraiment chaud d'atteindre une qualité frites, la sauce compenser mais on est loin. Les vrais frites, c'est à la friteuse",
+            "Burger vraiment hauts, le pain étant plutot compact et peu pressé, plus les deux steaks épais, a fait un burger ultra haut difficile à manger",
+            "Steak à la poele, assez dur à faire, il faut enchainer 5 * 2 steaks, les premiers sont nickels, mais après la poele noirci vite et les résidus d'oignons crament, du coup, c'est brulé, risque d'amertume, mais surtout les prochains steak on du mal à démarrer la réaction de maillard",
+            "Très très chaud à tout cuisiné, j'ai pas réussi à temps, et même avec de l'aide, la cuisson des steaks, assaisonnement, fromage fondu sur steak, montage des burgers, et dressage des assiettes, c'est vraiment chaud à faire seul, à moins d'être ultra au point, en first time c'est trop dur, et même avec de l'aide attentionnée c'est complexe",
+            "Au final, grosse réussite, juste ce qu'il fallait, super soirée."
+          ]
+        }
+      ]
     },
     "it": {
       "name": "Smash Burger, Patatine Fritte e Maionese Fatta in Casa",
@@ -386,26 +393,29 @@
         "Smash burgers con pane fatto in casa tostato in padella, maionese fatta in casa, insalata, pomodoro, cipolla caramellata",
         "Patatine al forno, con maionese fatta in casa"
       ],
-      "notes": {
-        "title": "Generale",
-        "description": [
-          "Ci siamo aiutati a vicenda, il norvegese ha fatto caramellare le cipolle, Sara ha apparecchiato e impiattato, Alice ha aiutato con tutto, airfryer, impiattamento, taglio di cipolle e pomodori",
-          "A Marco sono piaciuti molto i panini brioche fatti in casa, tostati con burro e uno strato di maionese",
-          "1 kg di patate, giusto per 5, le mangiamo tutte",
-          "I buns ci mettono molto a fare, molto ad aspettare, ho fatto due errori",
-          "Penso di aver surriscaldato il latte e il lievito, forse ho ucciso un po' di lievito? Non sono sicuro, ma in ogni caso, i buns non erano abbastanza ariosi, non abbastanza aria",
-          "Ho dimenticato di mettere la doratura e i semi di sesamo prima della cottura in forno, in realtà non è un grosso problema recuperandoli dopo la cottura",
-          "Patate al forno, è davvero difficile raggiungere una qualità da patatine fritte, la salsa compensa ma siamo lontani. Le vere patatine fritte sono per la friggitrice",
-          "Hamburger davvero alti, il pane essendo piuttosto compatto e poco pressato, più le due bistecche spesse, hanno fatto un hamburger ultra alto difficile da mangiare",
-          "Bistecca in padella, abbastanza difficile da fare, devi concatenare 5 * 2 bistecche, le prime sono perfette, ma poi la padella si annerisce rapidamente e i residui di cipolla bruciano, quindi è bruciato, rischio di amarezza, ma soprattutto le prossime bistecche hanno difficoltà ad avviare la reazione di Maillard",
-          "Molto molto difficile cucinare tutto, non ce l'ho fatta in tempo, e anche con l'aiuto, cucinare le bistecche, condire, sciogliere il formaggio sulla bistecca, assemblare gli hamburger e impiattare i piatti è davvero difficile da fare da soli, a meno che tu non sia ultra preparato, la prima volta è troppo difficile, e anche con un aiuto attento è complesso",
-          "Alla fine, grande successo, proprio quello che ci voleva, serata fantastica."
-        ]
-      }
+      "notes": [
+        {
+          "title": "Generale",
+          "description": [
+            "Ci siamo aiutati a vicenda, il norvegese ha fatto caramellare le cipolle, Sara ha apparecchiato e impiattato, Alice ha aiutato con tutto, airfryer, impiattamento, taglio di cipolle e pomodori",
+            "A Marco sono piaciuti molto i panini brioche fatti in casa, tostati con burro e uno strato di maionese",
+            "1 kg di patate, giusto per 5, le mangiamo tutte",
+            "I buns ci mettono molto a fare, molto ad aspettare, ho fatto due errori",
+            "Penso di aver surriscaldato il latte e il lievito, forse ho ucciso un po' di lievito? Non sono sicuro, ma in ogni caso, i buns non erano abbastanza ariosi, non abbastanza aria",
+            "Ho dimenticato di mettere la doratura e i semi di sesamo prima della cottura in forno, in realtà non è un grosso problema recuperandoli dopo la cottura",
+            "Patate al forno, è davvero difficile raggiungere una qualità da patatine fritte, la salsa compensa ma siamo lontani. Le vere patatine fritte sono per la friggitrice",
+            "Hamburger davvero alti, il pane essendo piuttosto compatto e poco pressato, più le due bistecche spesse, hanno fatto un hamburger ultra alto difficile da mangiare",
+            "Bistecca in padella, abbastanza difficile da fare, devi concatenare 5 * 2 bistecche, le prime sono perfette, ma poi la padella si annerisce rapidamente e i residui di cipolla bruciano, quindi è bruciato, rischio di amarezza, ma soprattutto le prossime bistecche hanno difficoltà ad avviare la reazione di Maillard",
+            "Molto molto difficile cucinare tutto, non ce l'ho fatta in tempo, e anche con l'aiuto, cucinare le bistecche, condire, sciogliere il formaggio sulla bistecca, assemblare gli hamburger e impiattare i piatti è davvero difficile da fare da soli, a meno che tu non sia ultra preparato, la prima volta è troppo difficile, e anche con un aiuto attento è complesso",
+            "Alla fine, grande successo, proprio quello che ci voleva, serata fantastica."
+          ]
+        }
+      ]
     }
   },
   {
     "mealNumber": 4,
+    "id": "mexicanMeal",
     "countryCode": "mx",
     "date": "2025-10-02",
     "ranking": 8.5,
@@ -429,8 +439,8 @@
           "title": "General",
           "description": [
             "This is the easiest dish I've ever made, the guacamole is quick, the rice is easy, and the chili con carne stays very simple and has the advantage of being prepared in advance, then it cooks for 1h30 on its own.",
-            "Some forgetfulness, forgot to salt the rice water, forgot to add the kidney beans 20–30 minutes before serving. But apart from small details, the preparation was perfect.",
-            "Setting the table in advance, good idea, it's inviting, and the red fruit candle smells nice beforehand. Table ready, appetizer ready, water served, but wine still in the bottle – smart to open it together."
+            "Some forgetfulness, forgot to salt the rice water, forgot to add the kidney beans 20-30 minutes before serving. But apart from small details, the preparation was perfect.",
+            "Setting the table in advance, good idea, it's inviting, and the red fruit candle smells nice beforehand. Table ready, appetizer ready, water served, but wine still in the bottle - smart to open it together."
           ]
         },
         {
@@ -493,8 +503,8 @@
           "title": "Generale",
           "description": [
             "È il piatto più facile che abbia mai fatto, il guacamole si prepara velocemente, il riso è facile, e il chili con carne rimane molto semplice e ha il vantaggio di richiedere preparazione in anticipo, poi cuoce da solo per 1h30.",
-            "Alcune dimenticanze, ho dimenticato di salare l'acqua del riso, ho dimenticato di aggiungere i fagioli rossi 20–30 minuti prima di servire. Ma a parte piccoli dettagli, la preparazione era perfetta.",
-            "Apparecchiare la tavola in anticipo, buona idea, rende l'atmosfera invitante, e la candela ai frutti rossi profuma bene in anticipo. Tavola pronta, aperitivo pronto, acqua servita, ma vino ancora in bottiglia – furbo aprirlo insieme."
+            "Alcune dimenticanze, ho dimenticato di salare l'acqua del riso, ho dimenticato di aggiungere i fagioli rossi 20-30 minuti prima di servire. Ma a parte piccoli dettagli, la preparazione era perfetta.",
+            "Apparecchiare la tavola in anticipo, buona idea, rende l'atmosfera invitante, e la candela ai frutti rossi profuma bene in anticipo. Tavola pronta, aperitivo pronto, acqua servita, ma vino ancora in bottiglia - furbo aprirlo insieme."
           ]
         },
         {
