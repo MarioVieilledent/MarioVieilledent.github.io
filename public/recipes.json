@@ -67,7 +67,7 @@
   {
     "category": "riceAndPasta",
     "id": "pilafRice",
-    "pictures": [],
+    "pictures": ["riz_pilaf.jpg"],
     "en": {
       "name": "Spiced pilaf rice with meat",
       "ingredients": [
@@ -144,7 +144,7 @@
   {
     "category": "riceAndPasta",
     "id": "freshPasta",
-    "pictures": [],
+    "pictures": ["pates_fraiches.jpg"],
     "en": {
       "name": "Homemade fresh pasta with hand crank",
       "notes": "Allows eating 1 egg per person without overcooking the egg, so very healthy and without the taste of the egg being too pronounced.",
@@ -200,7 +200,7 @@
   {
     "category": "riceAndPasta",
     "id": "risottoSpaghetti",
-    "pictures": [],
+    "pictures": ["spaghetti_risottatura.jpg"],
     "en": {
       "name": "Risotto-style Spaghetti",
       "notes": "A humble Italian technique for tastier and creamier spaghetti. It's a real upgrade for spaghetti lovers, especially those who enjoy garlic. You can also adapt the method using meat or fish juices left in a hot pan.",
@@ -269,7 +269,7 @@
   {
     "category": "meatAndFish",
     "id": "salmonFillets",
-    "pictures": [],
+    "pictures": ["patates_rissolees_et_filets_saumon.jpg"],
     "en": {
       "name": "Oven-baked Salmon Fillets",
       "notes": "Already a very good recipe, but can be refined and perfected. I like to serve it with spaghetti — even better when cooked risotto-style.",
@@ -342,7 +342,7 @@
   {
     "category": "doughAndBread",
     "id": "baguette",
-    "pictures": [],
+    "pictures": ["baguettes.jpg"],
     "en": {
       "name": "Baguette",
       "notes": "Be careful — a rare recipe that truly reaches S Tier, if not God Tier. Incredibly simple, very cheap, and requires very little active time. The 4 ingredients symbolize the 4 elements: flour for earth, water, yeast for air, and salt for fire. Source: https://www.youtube.com/watch?v=Z-husjZkxHw",
@@ -423,7 +423,7 @@
   {
     "category": "doughAndBread",
     "id": "burgerBuns",
-    "pictures": [],
+    "pictures": ["burger_dish.jpg"],
     "en": {
       "name": "Burger Buns",
       "notes": "Makes 8 buns",
@@ -753,7 +753,7 @@
   {
     "category": "doughAndBread",
     "id": "Bretzel",
-    "pictures": [],
+    "pictures": ["bretzels.jpg"],
     "en": {
       "name": "Pretzel",
       "notes": "ChatGPT recipe. Perfect for breakfast, sliced lengthwise and generously buttered like a traditional Butterbrezel.",
@@ -881,7 +881,7 @@
   {
     "category": "pizzas",
     "id": "margherita",
-    "pictures": [],
+    "pictures": ["pizza_margherita.jpg"],
     "en": {
       "name": "Margherita",
       "notes": "Pizza dough: same method as bread dough, but with 65-75 mL of water per 100 g of flour.",
@@ -1067,7 +1067,7 @@
   {
     "category": "sweet",
     "id": "crepes",
-    "pictures": [],
+    "pictures": ["crepes_nutella.jpg"],
     "en": {
       "name": "Crêpes",
       "notes": "Smooth crêpe batter without lumps, no blender needed, express recipe. Tip: work with equal amounts of dry and liquid ingredients: https://www.youtube.com/watch?v=p-XOehv3j20",

@@ -2,7 +2,7 @@ import { useTranslation } from "../utils/TranslationContext";
 import { LuChevronLeft } from "react-icons/lu";
 import { useNavigate } from "react-router";
 
-const GoBackHome = () => {
+const Home = () => {
   const navigate = useNavigate();
   const { t } = useTranslation();
 
@@ -12,9 +12,9 @@ const GoBackHome = () => {
       onClick={() => navigate("/")}
     >
       <LuChevronLeft size="24" />
-      {t("goBackHome")}
+      {t("home")}
     </a>
   );
 };
 
-export default GoBackHome;
+export default Home;

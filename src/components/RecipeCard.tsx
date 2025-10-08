@@ -25,7 +25,7 @@ const RecipeCard = ({ recipe }: { recipe: Recipe }) => {
         <img
           src="/noPicturePlaceholder.png"
           alt="No picture placeholder"
-          className="w-32 h-32 self-center"
+          className="w-64 h-64 self-center"
         />
       )}
       <div className="flex flex-col gap-2 p-4">

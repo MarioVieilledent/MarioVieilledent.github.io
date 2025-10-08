@@ -1,12 +1,12 @@
 import { Fragment } from "react/jsx-runtime";
-import { RECIPES_PATH } from "../utils/routes";
 import { useTranslation } from "../utils/TranslationContext";
 import { formatDate } from "../utils/utils";
-import NavigateTo from "./NavigateTo";
 import type { Feast, FeastDetails } from "../utils/validator";
+import { useIsMobile } from "../utils/isMobileHook";
 
 const FeastDisplay = ({ feast }: { feast: Feast }) => {
   const { language } = useTranslation();
+  const isMobile = useIsMobile();
   const { t } = useTranslation();
 
   const details = feast[language as keyof Feast]
@@ -15,7 +15,6 @@ const FeastDisplay = ({ feast }: { feast: Feast }) => {
 
   return (
     <div className="flex flex-col gap-4 w-full">
-      <NavigateTo location={`${RECIPES_PATH}/feasts`} />
       {feast.pictures.length > 0 ? (
         <img
           src={`/food/${feast.pictures[0]}`}
@@ -29,7 +28,9 @@ const FeastDisplay = ({ feast }: { feast: Feast }) => {
           className="w-32 h-32 self-center"
         />
       )}
-      <div className="flex flex-col gap-8">
+      <div
+        className={isMobile ? "flex flex-col gap-8 p-4" : "flex flex-col gap-8"}
+      >
         <div className="flex justify-between items-center gap-4">
           <div className="text-2xl">{`#${feast.mealNumber}`}</div>
           <div className="text-md text-gray-600">

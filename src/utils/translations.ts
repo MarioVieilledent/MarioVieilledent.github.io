@@ -55,7 +55,7 @@ export const translations = {
   next: ["Next", "Neste", "Suivant", "Avanti"],
   submit: ["Submit", "Send inn", "Valider", "Invia"],
   iDontKnow: ["I don't know", "Jeg vet ikke", "Je ne sais pas", "Non lo so"],
-  goBackHome: ["Go back home", "Gå hjem", "Menu", "Torna alla home"],
+  home: ["Home", "Hjem", "Accueil", "Home"],
   back: ["Back", "Tilbake", "Retour", "Indietro"],
   pageNotFound: [
     "404 - Page not found",

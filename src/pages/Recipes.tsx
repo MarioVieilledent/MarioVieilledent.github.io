@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import GoBackHome from "../components/GoBackHome";
+import Home from "../components/Home";
 import LanguageSelection from "../components/LanguageSelection";
 import { useTranslation } from "../utils/TranslationContext";
 import websiteLogo from "/favicon.png";
@@ -13,6 +13,9 @@ import NotFound from "./NotFound";
 import FeastDisplay from "../components/FeastDisplay";
 import { feast, recipe, type Feast, type Recipe } from "../utils/validator";
 import z from "zod";
+import NavigateTo from "../components/NavigateTo";
+
+const REGEX_PATH = /\/recipes\/(.*)\/(.*)/;
 
 const categories = [
   "feasts",
@@ -31,12 +34,28 @@ const Recipes = () => {
   const [recipes, setRecipes] = useState<Recipe[]>([]);
   const [feasts, setFeasts] = useState<Feast[]>([]);
 
+  const [category, setCategory] = useState<string | undefined>(undefined);
+  const [element, setElement] = useState<string | undefined>(undefined);
+
   const navigate = useNavigate();
   const location = useLocation();
+
+  const tabNavDisplay = (tab: (typeof categories)[number]) => `${t(tab)}`;
 
   useEffect(() => {
     if (location.pathname === RECIPES_PATH) {
       navigate(`${RECIPES_PATH}/${categories[0]}`);
+      setCategory(categories[0]);
+      setElement(undefined);
+    } else {
+      const match = REGEX_PATH.exec(location.pathname);
+      if (match) {
+        setCategory(match.length >= 2 ? match[1] : undefined);
+        setElement(match.length >= 3 ? match[2] : undefined);
+      } else {
+        setCategory(undefined);
+        setElement(undefined);
+      }
     }
   }, [location, navigate]);
 
@@ -53,10 +72,21 @@ const Recipes = () => {
   }, []);
 
   return (
-    <div className="flex flex-col max-w-4xl mx-auto gap-8">
+    <div
+      className={
+        isMobile ? "flex flex-col" : "flex flex-col max-w-4xl mx-auto gap-8"
+      }
+    >
       {isMobile ? (
-        <div className="flex gap-8  p-2 justify-between items-center">
-          <GoBackHome />
+        <div className="flex gap-8 p-2 justify-between items-center">
+          {element ? (
+            <NavigateTo location={`${RECIPES_PATH}/${category}`} />
+          ) : (
+            <Home />
+          )}
+
+          <LanguageSelection />
+
           <select
             onChange={(event) =>
               navigate(`${RECIPES_PATH}/${event.target.value}`)
@@ -64,7 +94,7 @@ const Recipes = () => {
           >
             {categories.map((tab) => (
               <option key={tab} value={tab}>
-                {t(tab)}
+                {tabNavDisplay(tab)}
               </option>
             ))}
           </select>
@@ -73,7 +103,11 @@ const Recipes = () => {
         <>
           <div className="flex gap-8 justify-between">
             <div className="flex gap-8 items-center">
-              <GoBackHome />
+              {element ? (
+                <NavigateTo location={`${RECIPES_PATH}/${category}`} />
+              ) : (
+                <Home />
+              )}
               <img className="w-16 h-16" src={websiteLogo} alt="Website logo" />
               <span className="text-2xl">{t("recipes")}</span>
             </div>
@@ -85,7 +119,7 @@ const Recipes = () => {
             </div>
           </div>
 
-          <div className="flex justify-between gap-8">
+          <div className="flex justify-between gap-2">
             {categories.map((tab) => (
               <a
                 key={tab}
@@ -96,7 +130,7 @@ const Recipes = () => {
                 }
                 onClick={() => navigate(`${RECIPES_PATH}/${tab}`)}
               >
-                {t(tab)}
+                {tabNavDisplay(tab)}
               </a>
             ))}
           </div>

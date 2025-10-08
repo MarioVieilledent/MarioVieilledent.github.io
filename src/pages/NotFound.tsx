@@ -1,4 +1,4 @@
-import GoBackHome from "../components/GoBackHome";
+import Home from "../components/Home";
 import { useTranslation } from "../utils/TranslationContext";
 
 const NotFound = () => {
@@ -6,7 +6,7 @@ const NotFound = () => {
 
   return (
     <div className="flex flex-col items-center justify-center min-h-screen p-4 bg-gray-100">
-      <GoBackHome />
+      <Home />
       <h1 className="text-4xl font-bold text-center mt-20">
         {t("pageNotFound")}
       </h1>

@@ -3,7 +3,7 @@ import type { WordNorwegian } from "../types";
 import { wordsNorwegian } from "../wordsNorwegian";
 import { useTranslation } from "../utils/TranslationContext";
 import LanguageSelection from "../components/LanguageSelection";
-import GoBackHome from "../components/GoBackHome";
+import Home from "../components/Home";
 import { useIsMobile } from "../utils/isMobileHook";
 
 type Stats = {
@@ -96,7 +96,7 @@ const LearnNorwegian = () => {
       >
         <div className="flex flex-col gap-4 max-w-md p-6 bg-white rounded-2xl shadow-lg">
           <div className="flex gap-8">
-            <GoBackHome />
+            <Home />
             <LanguageSelection />
           </div>
           <h2 className="text-2xl  text-center text-gray-500">
