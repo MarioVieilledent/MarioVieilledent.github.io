@@ -12,8 +12,8 @@ import { RECIPES_PATH } from "../utils/routes";
 import NotFound from "./NotFound";
 import FeastDisplay from "../components/FeastDisplay";
 import { feast, recipe, type Feast, type Recipe } from "../utils/validator";
-import z from "zod";
 import NavigateTo from "../components/NavigateTo";
+import z from "zod";
 
 const REGEX_PATH = /\/recipes\/(.*)\/(.*)/;
 

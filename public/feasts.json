@@ -5,7 +5,10 @@
     "countryCode": "fr",
     "date": "2025-09-09",
     "ranking": 9.0,
-    "pictures": ["French_meal_plate.jpg", "French_meal_apero.jpg"],
+    "pictures": [
+      "French_meal_plate.jpg",
+      "French_meal_apero.jpg"
+    ],
     "en": {
       "name": "Beef fillet and hash browns",
       "idea": [
@@ -193,7 +196,10 @@
     "countryCode": "tr",
     "date": "2025-09-18",
     "ranking": 8,
-    "pictures": ["Turkish_meal_plate.jpg", "Turkish_meal_table.jpg"],
+    "pictures": [
+      "Turkish_meal_plate.jpg",
+      "Turkish_meal_table.jpg"
+    ],
     "en": {
       "name": "Pilaf rice",
       "country": "Repas Turc",
@@ -312,7 +318,10 @@
     "countryCode": "us",
     "date": "2025-09-25",
     "ranking": 8.5,
-    "pictures": ["American_meal_plate.jpg", "American_meal_table.jpg"],
+    "pictures": [
+      "American_meal_plate.jpg",
+      "American_meal_table.jpg"
+    ],
     "en": {
       "name": "Smash Burger, Fries and Homemade Mayo",
       "country": "American meal",
@@ -419,7 +428,10 @@
     "countryCode": "mx",
     "date": "2025-10-02",
     "ranking": 8.5,
-    "pictures": ["Mexican_meal_table.jpg", "Mexican_meal_apero_table.jpg"],
+    "pictures": [
+      "Mexican_meal_table.jpg",
+      "Mexican_meal_apero_table.jpg"
+    ],
     "en": {
       "name": "Chili con carne",
       "country": "Mexican meal",
@@ -516,5 +528,17 @@
         }
       ]
     }
+  },
+  {
+    "mealNumber": 5,
+    "id": "europeanMeal",
+    "countryCode": "",
+    "date": "2025-10-09",
+    "ranking": 9.25,
+    "pictures": [
+      "European_meal_table.jpg",
+      "European_meal_dish.jpg"
+    ],
+    "fr": {}
   }
 ]

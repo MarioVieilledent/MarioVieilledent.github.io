@@ -81,7 +81,7 @@ export const translations = {
   ],
   note: ["Note", "Bemerkning", "Note", "Nota"],
   recipes: ["Recipes", "Oppskrifter", "Recettes", "Ricette"],
-  feasts: ["Feasts", "Festmåltider", "Festins", "Branchetti"],
+  feasts: ["Feasts", "Festmåltider", "Festins", "Feste"],
   soupsAndBroths: [
     "Soups and broths",
     "Supper og buljonger",
