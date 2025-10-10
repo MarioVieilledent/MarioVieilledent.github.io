@@ -249,7 +249,7 @@
         "Quando i 2/3 cotti, trasferire gli spaghetti nella padella calda, aggiungendo piccole mestolate di acqua di cottura della pasta se necessario per finire la cottura e rendere la pasta più cremosa grazie all'amido. Mescolare regolarmente."
       ]
     },
-    "no": {
+    "nb": {
       "name": "Risotto-stil spaghetti",
       "notes": "En enkel italiensk teknikk for mer smakfulle og kremete spaghetti. Et virkelig løft for spaghetti-elskere, spesielt de som liker hvitløk. Teknikken kan også brukes med kjøtt- eller fiskesjy i den varme pannen.",
       "ingredients": [
@@ -321,7 +321,7 @@
         "Infornare per circa 12 minuti."
       ]
     },
-    "no": {
+    "nb": {
       "name": "Ovnsbakt laksefilet",
       "notes": "Allerede en veldig god oppskrift, men kan forbedres og finjusteres. Jeg liker å servere den med spaghetti — enda bedre når de lages risotto-stil.",
       "ingredients": [
@@ -400,7 +400,7 @@
         "Cuocere per 25 minuti a 250°C."
       ]
     },
-    "no": {
+    "nb": {
       "name": "Baguette",
       "notes": "Vær oppmerksom — en sjelden oppskrift som når S Tier, om ikke Gud Tier. Utrolig enkel, veldig billig, og krever svært lite arbeidstid. De fire ingrediensene representerer de fire elementene: mel for jord, vann, gjær for luft og salt for ild. Kilde: https://www.youtube.com/watch?v=Z-husjZkxHw",
       "ingredients": [
@@ -534,7 +534,7 @@
         "Consiglio: Tostare leggermente i panini in padella con un po' di burro prima di assemblare → croccanti fuori, morbidi dentro, come al ristorante."
       ]
     },
-    "no": {
+    "nb": {
       "name": "Burgerbrød",
       "notes": "Gir 8 boller",
       "ingredients": [
@@ -705,7 +705,7 @@
         }
       ]
     },
-    "no": {
+    "nb": {
       "name": "Orientalsk flatbrød \"Lavash\"",
       "notes": "Tyrkisk/armensk flatbrød stekt i panne, likt indisk naan. Oppskrift fra Hungry Man Kitchen (YouTube).",
       "ingredients": [
@@ -847,7 +847,7 @@
         "Salare. Cuocere per 15-20 minuti finché sono dorati."
       ]
     },
-    "no": {
+    "nb": {
       "name": "Bretzel",
       "notes": "Oppskrift fra ChatGPT. Perfekt til frokost, delt på langs og smurt godt med smør - som en klassisk Butterbrezel.",
       "ingredients": [
@@ -1020,7 +1020,7 @@
         }
       ]
     },
-    "no": {
+    "nb": {
       "name": "Margherita",
       "notes": "Pizzadeig: samme prosess som brøddeig, men med 65-75 mL vann per 100 g mel.",
       "ingredients": [
@@ -1070,21 +1070,21 @@
     "pictures": ["crepes_nutella.jpg"],
     "en": {
       "name": "Crêpes",
-      "notes": "Smooth crêpe batter without lumps, no blender needed, express recipe. Tip: work with equal amounts of dry and liquid ingredients: https://www.youtube.com/watch?v=p-XOehv3j20",
+      "notes": "Smooth batter without lumps, no blender needed, quick recipe. Tip: balance solid and liquid bases in equal quantities: https://www.youtube.com/watch?v=p-XOehv3j20",
       "ingredients": [
         "250 g flour",
         "500 ml milk",
         "3 eggs",
         "30 g butter / 30 ml neutral oil",
-        "Sugar for color (optional)",
+        "Sugar for coloring (optional)",
         "A pinch of salt"
       ],
       "instructions": [
-        "Add all ingredients to a mixing bowl, but only 1/3 of the milk.",
-        "Whisk thoroughly; in 30 seconds you'll have a thick, lump-free batter.",
-        "Add the remaining milk and finish the batter in a few seconds.",
+        "Add all ingredients to a bowl, but only 1/3 of the milk at first.",
+        "Whisk firmly — in 30 seconds you'll get a thick, lump-free batter.",
+        "Add the rest of the milk and finish mixing in a few seconds.",
         "Let rest for at least 2 hours.",
-        "Cooking: use a non-stick pan on high or maximum heat, pour batter with a ladle and shake the pan to help the batter spread evenly."
+        "Cooking: use a non-stick pan over high or even maximum heat; pour a ladle of batter, tilt and shake the pan to spread it evenly."
       ]
     },
     "fr": {
@@ -1108,26 +1108,26 @@
     },
     "it": {
       "name": "Crêpes",
-      "notes": "Pastella liscia senza grumi, senza frullatore, ricetta veloce. Consiglio: lavorare con quantità uguali di ingredienti secchi e liquidi: https://www.youtube.com/watch?v=p-XOehv3j20",
+      "notes": "Pasta per crêpes liscia, senza grumi e senza frullatore, ricetta veloce. Il trucco: mantenere quantità uguali tra basi solide e liquide: https://www.youtube.com/watch?v=p-XOehv3j20",
       "ingredients": [
-        "250 g farina",
-        "500 ml latte",
+        "250 g di farina",
+        "500 ml di latte",
         "3 uova",
-        "30 g burro / 30 ml olio neutro",
+        "30 g di burro / 30 ml di olio neutro",
         "Zucchero per colorare (facoltativo)",
         "Un pizzico di sale"
       ],
       "instructions": [
         "Mettere tutti gli ingredienti in una ciotola, ma solo 1/3 del latte.",
-        "Mescolare bene con una frusta; in 30 secondi si ottiene una pastella densa e senza grumi.",
-        "Aggiungere il resto del latte e completare la pastella in pochi secondi.",
-        "Lasciare riposare almeno 2 ore.",
-        "Cottura: usare una padella antiaderente a fuoco alto o massimo, versare la pastella con un mestolo e scuotere la padella per stenderla uniformemente."
+        "Mescolare energicamente con una frusta: in 30 secondi si ottiene una pastella densa e senza grumi.",
+        "Aggiungere il resto del latte e finire di mescolare in pochi secondi.",
+        "Lasciare riposare per almeno 2 ore.",
+        "Cottura: padella antiaderente, fuoco vivo o massimo; versare un mestolo di pastella e muovere la padella per distribuirla uniformemente."
       ]
     },
-    "no": {
+    "nb": {
       "name": "Crêpes",
-      "notes": "Glatt pannekakerøre uten klumper, uten blender, ekspressoppskrift. Tips: arbeid med like mengder tørre og flytende ingredienser: https://www.youtube.com/watch?v=p-XOehv3j20",
+      "notes": "Røre uten klumper, uten mikser, rask oppskrift. Tips: hold faste og flytende ingredienser i like mengder: https://www.youtube.com/watch?v=p-XOehv3j20",
       "ingredients": [
         "250 g mel",
         "500 ml melk",
@@ -1137,11 +1137,49 @@
         "En klype salt"
       ],
       "instructions": [
-        "Ha alle ingrediensene i en bolle, men bare 1/3 av melken.",
-        "Visp godt; på 30 sekunder får du en tykk, klumpfri røre.",
+        "Ha alle ingrediensene i en bolle, men bare 1/3 av melken først.",
+        "Visp godt — på 30 sekunder får du en tykk, klumpfri røre.",
         "Tilsett resten av melken og fullfør røren på noen sekunder.",
         "La hvile i minst 2 timer.",
-        "Steking: bruk en non-stick panne på høy eller maks varme, hell røren med en øse og rist pannen for å fordele røren jevnt."
+        "Steking: bruk en non-stick-panne på høy varme, hell i en øse røre og rist pannen for å fordele jevnt."
+      ]
+    },
+    "ja": {
+      "name": "クレープ",
+      "notes": "ダマのないクレープ生地。ミキサー不要の簡単レシピ。コツ：固体と液体の材料を同量でバランスよく混ぜること。https://www.youtube.com/watch?v=p-XOehv3j20",
+      "ingredients": [
+        "小麦粉 250 g",
+        "牛乳 500 ml",
+        "卵 3個",
+        "バター 30 g / 無味油 30 ml",
+        "色づけ用の砂糖（お好みで）",
+        "ひとつまみの塩"
+      ],
+      "instructions": [
+        "ボウルにすべての材料を入れるが、最初は牛乳の1/3だけ入れる。",
+        "泡立て器でしっかり混ぜる。30秒でダマのない濃い生地ができる。",
+        "残りの牛乳を加え、数秒で混ぜ終える。",
+        "少なくとも2時間休ませる。",
+        "調理：ノンスティックのフライパンを強火または最大火にかけ、お玉で生地を流し、フライパンを回して均一に広げる。"
+      ]
+    },
+    "zh": {
+      "name": "可丽饼（Crêpes）",
+      "notes": "无结块、无需搅拌机的快速面糊配方。技巧：保持固体与液体基础成分的比例相等：https://www.youtube.com/watch?v=p-XOehv3j20",
+      "ingredients": [
+        "250 克面粉",
+        "500 毫升牛奶",
+        "3 个鸡蛋",
+        "30 克黄油 / 30 毫升无味油",
+        "上色用糖（可选）",
+        "一撮盐"
+      ],
+      "instructions": [
+        "将所有材料放入碗中，但先加入牛奶的 1/3。",
+        "用手动打蛋器充分搅拌，约 30 秒即可得到浓稠且无结块的面糊。",
+        "加入剩余的牛奶，几秒钟内完成混合。",
+        "静置至少 2 小时。",
+        "烹饪：使用不粘锅，大火甚至最大火，加一勺面糊，倾斜并摇动锅子让面糊摊开均匀。"
       ]
     }
   },
@@ -1209,7 +1247,7 @@
         "Cuocere in forno per 30 minuti a 170°C."
       ]
     },
-    "no": {
+    "nb": {
       "name": "Striezel",
       "notes": "En ganske enkel brioche med imponerende visuelt uttrykk, typisk flett fra de germanske landene. Oppskrift delt av min østerrikske kollega.",
       "ingredients": [
