@@ -516,5 +516,253 @@
         }
       ]
     }
+  },
+  {
+    "mealNumber": 5,
+    "id": "europeanMeal",
+    "countryCode": "",
+    "date": "2025-10-09",
+    "ranking": 9.25,
+    "pictures": ["European_meal_table.jpg", "European_meal_dish.jpg"],
+    "en": {
+      "name": "Vegetable broth, rib-eye with pepper sauce, fries, and torta della nonna",
+      "country": "European Meal",
+      "idea": [
+        "The day before, I had tried making makis — it didn't go well. Not satisfied, and being in a lazy end-of-week mood, I didn't want to try a national cuisine dish; I felt I had exhausted all easy cards. I rather wanted to rediscover a comforting vegetable soup.",
+        "Also, I already had all the ingredients to make the “torta della nonna”; the idea was to cook it in duo with Alice.",
+        "Finally, I wanted revenge on, firstly, the pepper sauce that I hadn't really succeeded in the first “French” meal, and secondly, the flatbread lavash that I have failed several times after my first attempt (which itself had been a success).",
+        "So a bit of oriental bread, an Italian tart, a meat with its French sauce, a generic vegetable soup… No single country really emerges from this menu, so I named it the European meal."
+      ],
+      "menu": [
+        "Vegetable broth",
+        "Beef rib-eye with pepper sauce",
+        "Oven-roasted potato cubes then pan-fried",
+        "Lavash flatbread",
+        "Dessert: torta della nonna"
+      ],
+      "notes": [
+        {
+          "title": "Good",
+          "description": [
+            "Quantities OK, leftover tart for the next day",
+            "300g flour for 4 people for the bread — it was enough",
+            "Best activity in the world: cooking together <3",
+            "Good handling of washing up — the strategy of cleaning as soon as you're done seems indisputably the best"
+          ]
+        },
+        {
+          "title": "To improve",
+          "description": [
+            "Service mistake: serving the hot soup and the meat at the same time forces the diner to eat the meat (which cools quickly) first — CAUTION!",
+            "Broth mistakes: not salty enough, and I forgot to add the chickpeas",
+            "Meat cooking mistake: I didn't ask for the doneness, I cooked them rare by default",
+            "Pepper sauce mistake: I didn't have butter, the pepper flavor wasn't strong enough, and the cream was not ideal; I don't know which cream to use; the flambé was a bit too much, maybe too much cognac; in the end, the sauce wasn't thick enough (maybe due to lack of butter?)",
+            "Side mistake: garlic on the bread — that can't be improvised; I asked my assistant to mix olive oil with fresh garlic, it was way too sharp on the bread. But I want to succeed at a good garlic naan, so worth exploring further.",
+            "Tart cutting mistake: not easy to slice — slicing is an art not to be missed",
+            "Don't forget that in a meal among friends, one uses the pan for “scarpetta” — to mop up the meat juices with a piece of bread."
+          ]
+        }
+      ]
+    },
+    "fr": {
+      "name": "Bouillon légumes, entrecôte sauce poivre, frites, et torta della nonna",
+      "country": "Repas Européen",
+      "idea": [
+        "La veille, j'avais tenté des makis, ce n'était pas réussi. Loin d'être satisfait, et avec la flemme de fin de semaine, j'avais pas envie de tenter un plat d'une cuisine nationale, en fait j'ai un peu épuisé toutes mes cartes faciles, J'avais plutôt envie de retrouver la soupe de légumes réconfortante.",
+        "Aussi, j'avais tous les ingrédients pour faire la tarte “torta della nonna”, l'idée était de la cuisiner en duo avec Alice.",
+        "Enfin, j'avais envie de prendre ma revanche sur, d'une, la sauce poivre que j'avais pas vraiment réussie lors du premier repas “Français”, et de deux, le pain plat lavash que j'ai raté à plusieurs reprises après mon premier essai qui était lui un succès.",
+        "Donc un peu de pain oriental, une tarte italienne, une viande et sa sauce française, une soupe de légumes, générique… Pas vraiment de pays se dégage de ce menu, donc je l'ai nommé le repas Européen."
+      ],
+      "menu": [
+        "Bouillon de légumes",
+        "Entrecôte de boeuf servie avec sauce poivre",
+        "Cubes de patates au four puis rissolées",
+        "Pain plat lavash",
+        "Dessert, torta della nonna"
+      ],
+      "notes": [
+        {
+          "title": "Bien",
+          "description": [
+            "Quantités bien, restes de tarte pour le lendemain",
+            "Pain 300g farine pour 4 pers, c'était suffisant",
+            "Meilleure activité au monde : cuisiner à deux <3",
+            "Bonne gestion de la plonge, la stratégie du nettoyer dès qu'on a terminé avec me semble être indubitablement la meilleure"
+          ]
+        },
+        {
+          "title": "À améliorer",
+          "description": [
+            "Erreur service : service de la soupe chaude et de la viande en même temps, force le client à manger la viande qui refroidit vite en premier : ATTENTION !",
+            "Erreurs bouillon : pas assez salé, et aussi j'ai oublié d'y incorporer les pois chiches",
+            "Erreur cuisson viande : j'ai pas demandé la cuisson, je les ai fait saignants par défaut",
+            "Erreur sauce poivre : je n'avais pas le beurre, le poivre ne sentait pas assez, et la crème n'était pas idéale, je sais pas quelle crème il faut, la flambé été un peu too much, trop de cognac je crois, enfin, la sauce n'étais pas assez épaisse, car pas de beurre peut-être ?",
+            "Erreur de l'accompagnement ail pour le pain : ça ne s'improvise pas, j'ai demandé à ma commise de mélanger huile d'olive avec ail frais, c'est bien trop piquant sur le pain. Mais j'ai envie de réussir un bon garlic naan, donc à creuser.",
+            "Erreur découpe de la tarte : pas facile à découper, la découpe est un art à ne pas rater",
+            "Ne pas oublier que dans un repas entre amis, on utilise la poêle pour la “scarpetta”, saucer le jus de viande/les sucs avec un bout de pain."
+          ]
+        }
+      ]
+    },
+    "it": {
+      "name": "Brodo di verdure, entrecôte con salsa al pepe, patatine, e torta della nonna",
+      "country": "Pasto Europeo",
+      "idea": [
+        "Il giorno prima avevo provato a fare dei maki — non era venuto bene. Non soddisfatto, e con la pigrizia del weekend, non volevo tentare un piatto di cucina nazionale; in realtà avevo un po' esaurito tutte le carte facili. Volevo piuttosto ritrovare la zuppa di verdure confortante.",
+        "Inoltre, avevo già tutti gli ingredienti per fare la “torta della nonna”; l'idea era di cucinarla in duo con Alice.",
+        "Infine, volevo prendere la mia rivincita su, primo, la salsa al pepe che non avevo realmente centrato durante il primo pasto “francese”, e secondo, il pane piatto lavash che ho sbagliato più volte dopo il primo tentativo che era stato un successo.",
+        "Quindi un po' di pane orientale, una torta italiana, una carne con la sua salsa francese, una zuppa di verdure generica… Nessun paese emerge davvero da questo menu, quindi l'ho chiamato pasto Europeo."
+      ],
+      "menu": [
+        "Brodo di verdure",
+        "Entrecôte di manzo con salsa al pepe",
+        "Cubetti di patate arrostite al forno poi rosolate",
+        "Pane piatto lavash",
+        "Dessert: torta della nonna"
+      ],
+      "notes": [
+        {
+          "title": "Bene",
+          "description": [
+            "Quantità ok, avanzo di torta per il giorno dopo",
+            "Pane: 300 g di farina per 4 persone — è stato sufficiente",
+            "La migliore attività al mondo: cucinare in due <3",
+            "Buona gestione del lavaggio: la strategia di pulire appena finito mi sembra indubbiamente la migliore"
+          ]
+        },
+        {
+          "title": "Da migliorare",
+          "description": [
+            "Errore di servizio: servire la zuppa calda e la carne allo stesso tempo costringe l'ospite a mangiare la carne (che si raffredda rapidamente) per prima — ATTENZIONE!",
+            "Errori nel brodo: non abbastanza salato, e ho dimenticato di incorporare i ceci",
+            "Errore nella cottura della carne: non ho chiesto la cottura desiderata, le ho fatte al sangue per impostazione predefinita",
+            "Errore nella salsa al pepe: non avevo burro, il pepe non si sentiva abbastanza, e la panna non era ideale; non so quale panna usare; la flambé era un po' troppo, forse troppo cognac; infine, la salsa non era abbastanza densa (forse per mancanza di burro?)",
+            "Errore del contorno all'aglio per il pane: non si improvvisa; ho chiesto al mio aiutante di mescolare olio d'oliva con aglio fresco, era troppo pungente sul pane. Ma voglio riuscire un buon garlic naan, quindi da approfondire.",
+            "Errore nel taglio della torta: non facile da affettare — il taglio è un'arte da non sbagliare",
+            "Non dimenticare che in un pasto fra amici si usa la padella per la “scarpetta”, per raccogliere i succhi della carne con un pezzo di pane."
+          ]
+        }
+      ]
+    },
+    "nb": {
+      "name": "Grønnsaksbuljong, entrecôte med peppersaus, pommes frites, og torta della nonna",
+      "country": "Europeisk måltid",
+      "idea": [
+        "Dagen før hadde jeg prøvd å lage maki — det gikk ikke bra. Ikke fornøyd, og med helgetreghet, hadde jeg ikke lyst til å prøve en nasjonal kjøkkenrett; egentlig følte jeg at jeg hadde brukt opp alle lette kort. Jeg ville heller finne tilbake til den trøstende grønnsaksuppen.",
+        "Dessuten hadde jeg alle ingrediensene for å lage “torta della nonna”; ideen var å lage den sammen med Alice.",
+        "Til slutt ønsket jeg revansje på, for det første, peppersausen som jeg ikke hadde klart å lykkes med under det første “franske” måltidet, og for det andre, det flate brødet lavash som jeg har feilet flere ganger etter mitt første forsøk (som i seg selv var en suksess).",
+        "Så litt orientalsk brød, en italiensk kake, kjøtt med sin franske saus, en generell grønnsaksuppe … Ingen enkelt nasjon framtrer tydelig i denne menyen, så jeg kalte det europeisk måltid."
+      ],
+      "menu": [
+        "Grønnsaksbuljong",
+        "Entrecôte av storfe med peppersaus",
+        "Ovnristede potetbiter, deretter stekt",
+        "Lavash-flatbrød",
+        "Dessert: torta della nonna"
+      ],
+      "notes": [
+        {
+          "title": "Bra",
+          "description": [
+            "Mengder bra, rester av kaken til neste dag",
+            "300 g mel til 4 personer til brødet — det var nok",
+            "Beste aktivitet i verden: å lage mat sammen <3",
+            "God oppvaskhåndtering — strategien med å vaske så snart man er ferdig virker udiskutabelt best"
+          ]
+        },
+        {
+          "title": "Å forbedre",
+          "description": [
+            "Serveringsfeil: servere varm suppe og kjøtt samtidig tvinger gjesten til å spise kjøttet (som raskt blir kaldt) først — OBS!",
+            "Buljongfeil: ikke nok salt, og jeg glemte å ha i kikerter",
+            "Feil ved kjøttkoking: jeg spurte ikke om stekegrad, jeg laget dem røde som standard",
+            "Peppersausfeil: jeg hadde ikke smør, pepperen kom ikke nok til uttrykk, og kremen var ikke ideell; jeg vet ikke hvilken krem man bør bruke; flambering var litt for mye, kanskje for mye konjakk; til slutt var sausen ikke tykk nok (kanskje på grunn av mangel på smør?)",
+            "Feil ved hvitløkstilbehøret til brødet: det improviseres ikke; jeg ba min assistent blande olivenolje med fersk hvitløk — det ble altfor skarpt på brødet. Men jeg vil lage en god garlic naan, så verdt å utforske videre.",
+            "Feil ved oppskjæring av kaken: ikke lett å skjære — skjæring er en kunst som ikke må bommes på",
+            "Ikke glem at i et måltid blant venner brukes pannen til “scarpetta” — å suge opp kjøttsaftene med et stykke brød."
+          ]
+        }
+      ]
+    },
+    "ja": {
+      "name": "野菜ブイヨン、リブロースのペッパーソース、フライドポテト、そしてトルタ・デッラ・ノンナ",
+      "country": "ヨーロッパ風の食事",
+      "idea": [
+        "前夜、巻き寿司（マキ）に挑戦したが、うまくいかなかった。不満が残り、そして週末のだるさで、国別料理を試したいという気にならなかった。簡単なメニューはもう使い切った感があった。代わりに、心をあたためる野菜スープを再発見したいと思った。",
+        "また、「トルタ・デッラ・ノンナ」を作る材料はすべて揃っていたので、アリスと一緒に作るアイデアだった。",
+        "最後に、ひとつには最初の“フランス風”の食事でうまくいかなかったペッパーソース、ふたつには最初に成功した試みの後に何度も失敗しているラヴァシュ平パンへのリベンジをしたかった。",
+        "だから、少しオリエンタルなパン、イタリア風タルト、フランス風ソース付きの肉、一般的な野菜スープ… 特定の国がはっきり出てくるわけではないこのメニューを、「ヨーロッパ風の食事」と名付けた。"
+      ],
+      "menu": [
+        "野菜ブイヨン",
+        "ビーフ・リブロースのペッパーソース添え",
+        "オーブンでローストしたポテトの角切りをさらに焼き付け",
+        "ラヴァシュ平パン",
+        "デザート：トルタ・デッラ・ノンナ"
+      ],
+      "notes": [
+        {
+          "title": "良い点",
+          "description": [
+            "量はちょうど良く、タルトの残りは翌日に回せた",
+            "4人用のパンに小麦粉300gは十分だった",
+            "世界で最高のアクティビティ：二人で料理すること <3",
+            "食器洗いの対応も上手くいった — 終わったらすぐ片付ける戦略は間違いなくベスト"
+          ]
+        },
+        {
+          "title": "改善点",
+          "description": [
+            "サービスのミス：あたたかいスープと肉を同時に出してしまい、客が肉（冷めやすい）を先に食べざるを得ない — 注意！",
+            "ブイヨンのミス：塩が足りなかった、ひよこ豆を入れるのを忘れた",
+            "肉の火入れミス：焼き加減を聞かなかったので、デフォルトでレアにしてしまった",
+            "ペッパーソースのミス：バターがなかった、胡椒の香りが弱かった、クリームが理想的ではなかった；どのクリームを使うか分からない；フランベが少しやりすぎだった、コニャックが多かったかも；最終的にソースが十分濃くなかった（バター不足かもしれない）",
+            "パンのにんにく添えのミス：即興ではできない；アシスタントにオリーブオイルと生ニンニクを混ぜてもらったが、パンには刺激が強すぎた。でも、良いガーリックナンを作りたいので探求の価値あり。",
+            "タルトの切り分けミス：切るのが難しい — 切り方は外してはならない芸術",
+            "友人との食事では、“スカルペッタ”のためにパンで肉汁をすくうためにフライパンを使うことを忘れないように。"
+          ]
+        }
+      ]
+    },
+    "zh": {
+      "name": "蔬菜高汤、牛肋眼配胡椒酱、炸薯条，以及祖母蛋糕（torta della nonna）",
+      "country": "欧洲餐",
+      "idea": [
+        "前一天，我尝试做寿司卷（maki）——失败了。不满意，而且周末懒散，不想再尝试某国料理；其实我感觉我已经用尽了所有简单方案。我更想找回那碗令人安慰的蔬菜汤。",
+        "另外，我手头已有制作“祖母蛋糕”的所有材料；想法是与 Alice 一起合作制作。",
+        "最后，我想要报复：一是那次“法式”餐中没做好胡椒酱，二是那种平坦的 lavash 面包我尝试了很多次都失败（而最初那次是成功的）。",
+        "所以有点东方面包、一块意式蛋糕、一块法式酱汁的肉、一碗通用的蔬菜汤……这个菜单里并没有明显的某一国家特色，所以我称它为“欧洲餐”。"
+      ],
+      "menu": [
+        "蔬菜高汤",
+        "牛肋眼配胡椒酱",
+        "烤箱烤制的马铃薯块然后煎至金黄",
+        "拉瓦什平面包",
+        "甜点：祖母蛋糕（torta della nonna）"
+      ],
+      "notes": [
+        {
+          "title": "好的地方",
+          "description": [
+            "份量合适，蛋糕有剩可以第二天吃",
+            "面包用 300g 面粉 / 4 人，足够了",
+            "世界上最好的活动：两人一起做饭 <3",
+            "洗碗处理得不错 — 一做完就清理掉的策略无疑是最好的"
+          ]
+        },
+        {
+          "title": "有待改进",
+          "description": [
+            "服务错误：将热汤和肉同时上，有迫使客人先吃肉（容易凉）——注意！",
+            "高汤错误：盐不够，而且我忘了加上鹰嘴豆",
+            "肉烹调错误：我没问烹调程度，默认做成了三分熟",
+            "胡椒酱错误：我没有黄油，胡椒味不够，奶油不理想；我不知道该用哪种奶油；焰火处理有点过火，也许用酒太多；最终酱汁不够稠（可能因为没用黄油？）",
+            "面包的蒜味配料错误：不能即兴；我让助手把橄榄油和新鲜大蒜混合，结果在面包上太辛辣。但我想成功做出好的蒜香纳恩面包，所以值得深入研究。",
+            "蛋糕切割错误：不容易切 — 切割是一门艺术，不能搞砸",
+            "别忘了，在朋友聚餐时，用平底锅做“scarpetta”——用面包蘸肉汁／肉的精华。"
+          ]
+        }
+      ]
+    }
   }
 ]
