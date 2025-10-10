@@ -2,7 +2,7 @@ import { createContext, useContext } from "react";
 import { translations } from "./translations";
 import { languages } from "./constants";
 
-export type LanguagesAvailable = "en" | "nb" | "fr" | "it";
+export type LanguagesAvailable = "en" | "nb" | "fr" | "it" | "ja" | "zh";
 
 export type TermKeys = keyof typeof translations;
 

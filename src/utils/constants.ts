@@ -36,4 +36,16 @@ export const languages: {
     name: "Italiano",
     index: 3,
   },
+  {
+    code: "ja",
+    countryCode: "jp",
+    name: "日本語",
+    index: 4,
+  },
+  {
+    code: "zh",
+    countryCode: "cn",
+    name: "中文",
+    index: 5,
+  },
 ];
