@@ -30,7 +30,9 @@ export const recipe = z.object({
   en: recipeDetails,
   fr: recipeDetails,
   it: recipeDetails,
-  no: recipeDetails.optional(),
+  nb: recipeDetails.optional(),
+  ja: recipeDetails.optional(),
+  zh: recipeDetails.optional(),
 });
 
 export const feastDetails = z.object({
@@ -55,7 +57,9 @@ export const feast = z.object({
   en: feastDetails,
   fr: feastDetails,
   it: feastDetails,
-  no: feastDetails.optional(),
+  nb: feastDetails.optional(),
+  ja: feastDetails.optional(),
+  zh: feastDetails.optional(),
 });
 
 export type RecipeDetails = z.infer<typeof recipeDetails>;
