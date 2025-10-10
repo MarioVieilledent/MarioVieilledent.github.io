@@ -1,8 +1,8 @@
 import { Fragment } from "react/jsx-runtime";
-import { useTranslation } from "../utils/TranslationContext";
-import { formatDate } from "../utils/utils";
-import type { Feast, FeastDetails } from "../utils/validator";
-import { useIsMobile } from "../utils/isMobileHook";
+import { useTranslation } from "../../utils/TranslationContext";
+import { formatDate } from "../../utils/utils";
+import type { Feast, FeastDetails } from "../../utils/validator";
+import { useIsMobile } from "../../utils/isMobileHook";
 
 const FeastDisplay = ({ feast }: { feast: Feast }) => {
   const { language } = useTranslation();
@@ -15,19 +15,6 @@ const FeastDisplay = ({ feast }: { feast: Feast }) => {
 
   return (
     <div className="flex flex-col gap-4 w-full">
-      {feast.pictures.length > 0 ? (
-        <img
-          src={`/food/${feast.pictures[0]}`}
-          alt="Feast picture"
-          className="w-full"
-        />
-      ) : (
-        <img
-          src="/noPicturePlaceholder.png"
-          alt="No picture placeholder"
-          className="w-32 h-32 self-center"
-        />
-      )}
       <div
         className={isMobile ? "flex flex-col gap-8 p-4" : "flex flex-col gap-8"}
       >
@@ -45,7 +32,7 @@ const FeastDisplay = ({ feast }: { feast: Feast }) => {
             src={`/flags/${feast.countryCode}.svg`}
             alt="Feast flag icon"
           />
-          <div className="text-2xl">{details.name}</div>
+          <div className="text-4xl font-light">{details.name}</div>
         </div>
 
         <div className="flex flex-col gap-4">
@@ -75,7 +62,26 @@ const FeastDisplay = ({ feast }: { feast: Feast }) => {
             </Fragment>
           ))}
         </div>
+
+        <div className="text-xl">{t("pictures")}</div>
       </div>
+
+      {feast.pictures.length > 0 ? (
+        feast.pictures.map((picture, index) => (
+          <img
+            key={index}
+            src={`/food/${picture}`}
+            alt={`Feast picture ${index + 1}`}
+            className="w-full"
+          />
+        ))
+      ) : (
+        <img
+          src="/noPicturePlaceholder.png"
+          alt="No picture placeholder"
+          className="w-32 h-32 self-center"
+        />
+      )}
     </div>
   );
 };

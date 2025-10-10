@@ -1,6 +1,6 @@
-import { useIsMobile } from "../utils/isMobileHook";
-import { useTranslation } from "../utils/TranslationContext";
-import type { Recipe, RecipeDetails } from "../utils/validator";
+import { useIsMobile } from "../../utils/isMobileHook";
+import { useTranslation } from "../../utils/TranslationContext";
+import type { Recipe, RecipeDetails } from "../../utils/validator";
 
 const RecipeDisplay = ({ recipe }: { recipe: Recipe }) => {
   const { language } = useTranslation();
@@ -13,24 +13,11 @@ const RecipeDisplay = ({ recipe }: { recipe: Recipe }) => {
 
   return (
     <div className="flex flex-col gap-4 w-full">
-      {recipe.pictures.length > 0 ? (
-        <img
-          src={`/food/${recipe.pictures[0]}`}
-          alt="Feast picture"
-          className="w-full"
-        />
-      ) : (
-        <img
-          src="/noPicturePlaceholder.png"
-          alt="No picture placeholder"
-          className="w-32 h-32 self-center"
-        />
-      )}
       <div
         className={isMobile ? "flex flex-col gap-8 p-4" : "flex flex-col gap-8"}
       >
-        <div className="flex items-center gap-4">
-          <div className="text-2xl">{details.name}</div>
+        <div className="flex items-center justify-center gap-4">
+          <div className="text-6xl font-light text-center">{details.name}</div>
         </div>
 
         {details.notes && (
@@ -82,7 +69,26 @@ const RecipeDisplay = ({ recipe }: { recipe: Recipe }) => {
             ))
           )}
         </div>
+
+        <div className="text-xl">{t("pictures")}</div>
       </div>
+
+      {recipe.pictures.length > 0 ? (
+        recipe.pictures.map((picture, index) => (
+          <img
+            key={index}
+            src={`/food/${picture}`}
+            alt={`Feast picture ${index + 1}`}
+            className="w-full"
+          />
+        ))
+      ) : (
+        <img
+          src="/noPicturePlaceholder.png"
+          alt="No picture placeholder"
+          className="w-32 h-32 self-center"
+        />
+      )}
     </div>
   );
 };

@@ -1,7 +1,7 @@
 import { useEffect, useRef, useState } from "react";
 import { LuSearch } from "react-icons/lu";
-import type { OSMnominatimResponse } from "../types/types";
-import { computeZoomForBoundingBox } from "../utils/utils";
+import type { OSMnominatimResponse } from "../../types/types";
+import { computeZoomForBoundingBox } from "../../utils/utils";
 
 interface SearchButtonProps {
   flyTo: (lon: number, lat: number, zoom?: number) => void;

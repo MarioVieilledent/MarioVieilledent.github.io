@@ -62,7 +62,17 @@ export const feast = z.object({
   zh: feastDetails.optional(),
 });
 
+export const countryType = z.object({
+  capital: z.string().optional(),
+  code: z.string(),
+  continent: z.string().optional(),
+  name: z.string(),
+  flagCharacteristics: z.array(z.string()).optional(),
+  threeLetterCode: z.string().optional(),
+});
+
 export type RecipeDetails = z.infer<typeof recipeDetails>;
 export type Recipe = z.infer<typeof recipe>;
 export type FeastDetails = z.infer<typeof feastDetails>;
 export type Feast = z.infer<typeof feast>;
+export type CountryType = z.infer<typeof countryType>;

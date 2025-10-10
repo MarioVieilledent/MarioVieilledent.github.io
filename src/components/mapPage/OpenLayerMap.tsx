@@ -9,8 +9,8 @@ import {
   LOCAL_STORAGE_CENTER_KEY,
   LOCAL_STORAGE_LAYERS_KEY,
   LOCAL_STORAGE_RESOLUTION_KEY,
-} from "../utils/constants";
-import { sources } from "../utils/sources";
+} from "../../utils/constants";
+import { sources } from "../../utils/sources";
 
 const DEFAULT_CENTER = [5, 55];
 const DEFAULT_ZOOM = 4;

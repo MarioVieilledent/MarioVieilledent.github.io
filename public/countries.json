@@ -1,0 +1,3152 @@
+[
+  {
+    "capital": "Kabul",
+    "code": "af",
+    "continent": "Asia",
+    "name": "Afghanistan",
+    "flagCharacteristics": [
+      "Vertical Tricolor",
+      "Coat of Arms",
+      "White",
+      "Black",
+      "Red",
+      "Green",
+      "Mosque",
+      "Islamic Symbolism"
+    ],
+    "threeLetterCode": "AFG"
+  },
+  {
+    "capital": "Mariehamn",
+    "code": "ax",
+    "continent": "Europe",
+    "name": "Aland Islands",
+    "flagCharacteristics": []
+  },
+  {
+    "capital": "Tirana",
+    "code": "al",
+    "continent": "Europe",
+    "name": "Albania",
+    "flagCharacteristics": [
+      "Single Field",
+      "Black",
+      "Double-Headed Eagle",
+      "Animal",
+      "Bird"
+    ],
+    "threeLetterCode": "ALB"
+  },
+  {
+    "capital": "Algiers",
+    "code": "dz",
+    "continent": "Africa",
+    "name": "Algeria",
+    "flagCharacteristics": [
+      "Vertical Bicolor",
+      "Green",
+      "White",
+      "Red",
+      "Crescent and Star",
+      "Islamic Symbolism"
+    ],
+    "threeLetterCode": "DZA"
+  },
+  {
+    "capital": "Pago Pago",
+    "code": "as",
+    "continent": "Oceania",
+    "name": "American Samoa",
+    "flagCharacteristics": []
+  },
+  {
+    "capital": "Andorra la Vella",
+    "code": "ad",
+    "continent": "Europe",
+    "name": "Andorra",
+    "flagCharacteristics": [
+      "Vertical Tricolor",
+      "Coat of Arms",
+      "Yellow",
+      "Red",
+      "Blue",
+      "Crown",
+      "Shield",
+      "Motto"
+    ],
+    "threeLetterCode": "AND"
+  },
+  {
+    "capital": "Luanda",
+    "code": "ao",
+    "continent": "Africa",
+    "name": "Angola",
+    "flagCharacteristics": [
+      "Horizontal Bicolor",
+      "Red",
+      "Black",
+      "Yellow",
+      "Machete",
+      "Cogwheel",
+      "Star",
+      "Weapon"
+    ],
+    "threeLetterCode": "AGO"
+  },
+  {
+    "capital": "The Valley",
+    "code": "ai",
+    "continent": "North America",
+    "name": "Anguilla",
+    "flagCharacteristics": []
+  },
+  {
+    "code": "aq",
+    "name": "Antarctica",
+    "flagCharacteristics": []
+  },
+  {
+    "capital": "St. John's",
+    "code": "ag",
+    "continent": "North America",
+    "name": "Antigua and Barbuda",
+    "flagCharacteristics": [
+      "Horizontal Bands",
+      "Sun",
+      "Triangle",
+      "Red",
+      "White",
+      "Blue",
+      "Black",
+      "Yellow",
+      "Pan-African Colors"
+    ],
+    "threeLetterCode": "ATG"
+  },
+  {
+    "capital": "Buenos Aires",
+    "code": "ar",
+    "continent": "South America",
+    "name": "Argentina",
+    "flagCharacteristics": [
+      "Horizontal Triband",
+      "Sky Blue",
+      "White",
+      "Sun",
+      "Sun of May"
+    ],
+    "threeLetterCode": "ARG"
+  },
+  {
+    "capital": "Yerevan",
+    "code": "am",
+    "continent": "Asia",
+    "name": "Armenia",
+    "flagCharacteristics": ["Horizontal Triband", "Red", "Blue", "Orange"],
+    "threeLetterCode": "ARM"
+  },
+  {
+    "capital": "Oranjestad",
+    "code": "aw",
+    "continent": "South America",
+    "name": "Aruba",
+    "flagCharacteristics": []
+  },
+  {
+    "capital": "Georgetown",
+    "code": "sh-ac",
+    "continent": "Africa",
+    "name": "Ascension Island",
+    "flagCharacteristics": []
+  },
+  {
+    "code": "asean",
+    "name": "Association of Southeast Asian Nations",
+    "flagCharacteristics": []
+  },
+  {
+    "capital": "Canberra",
+    "code": "au",
+    "continent": "Oceania",
+    "name": "Australia",
+    "flagCharacteristics": [
+      "Blue",
+      "Union Jack",
+      "Southern Cross",
+      "Star(s)",
+      "Commonwealth Star"
+    ],
+    "threeLetterCode": "AUS"
+  },
+  {
+    "capital": "Vienna",
+    "code": "at",
+    "continent": "Europe",
+    "name": "Austria",
+    "flagCharacteristics": ["Horizontal Triband", "Red", "White", "Red"],
+    "threeLetterCode": "AUT"
+  },
+  {
+    "capital": "Baku",
+    "code": "az",
+    "continent": "Asia",
+    "name": "Azerbaijan",
+    "flagCharacteristics": [
+      "Horizontal Tricolor",
+      "Blue",
+      "Red",
+      "Green",
+      "Crescent and Star",
+      "Star(s)",
+      "Islamic Symbolism"
+    ],
+    "threeLetterCode": "AZE"
+  },
+  {
+    "capital": "Nassau",
+    "code": "bs",
+    "continent": "North America",
+    "name": "Bahamas",
+    "flagCharacteristics": [
+      "Horizontal Triband",
+      "Aquamarine",
+      "Yellow",
+      "Black",
+      "Triangle",
+      "Sun"
+    ],
+    "threeLetterCode": "BHS"
+  },
+  {
+    "capital": "Manama",
+    "code": "bh",
+    "continent": "Asia",
+    "name": "Bahrain",
+    "flagCharacteristics": ["Red", "White", "Serrated Edge", "Five Points"],
+    "threeLetterCode": "BHR"
+  },
+  {
+    "capital": "Dhaka",
+    "code": "bd",
+    "continent": "Asia",
+    "name": "Bangladesh",
+    "flagCharacteristics": ["Green", "Red", "Circle", "Sun"],
+    "threeLetterCode": "BGD"
+  },
+  {
+    "capital": "Bridgetown",
+    "code": "bb",
+    "continent": "North America",
+    "name": "Barbados",
+    "flagCharacteristics": [
+      "Vertical Triband",
+      "Ultramarine",
+      "Gold",
+      "Black",
+      "Trident Head",
+      "Emblem"
+    ],
+    "threeLetterCode": "BRB"
+  },
+  {
+    "code": "es-pv",
+    "name": "Basque Country",
+    "flagCharacteristics": []
+  },
+  {
+    "capital": "Minsk",
+    "code": "by",
+    "continent": "Europe",
+    "name": "Belarus",
+    "flagCharacteristics": [
+      "Horizontal Bands",
+      "Red",
+      "Green",
+      "White",
+      "Ornamental Pattern",
+      "Border"
+    ],
+    "threeLetterCode": "BLR"
+  },
+  {
+    "capital": "Brussels",
+    "code": "be",
+    "continent": "Europe",
+    "name": "Belgium",
+    "flagCharacteristics": ["Vertical Tricolor", "Black", "Yellow", "Red"],
+    "threeLetterCode": "BEL"
+  },
+  {
+    "capital": "Belmopan",
+    "code": "bz",
+    "continent": "North America",
+    "name": "Belize",
+    "flagCharacteristics": [
+      "Blue",
+      "Red",
+      "White",
+      "Coat of Arms",
+      "Circle",
+      "Woodcutters",
+      "Ship",
+      "Motto"
+    ],
+    "threeLetterCode": "BLZ"
+  },
+  {
+    "capital": "Porto-Novo",
+    "code": "bj",
+    "continent": "Africa",
+    "name": "Benin",
+    "flagCharacteristics": [
+      "Horizontal Bicolor",
+      "Yellow",
+      "Green",
+      "Red",
+      "Pan-African Colors",
+      "Star"
+    ],
+    "threeLetterCode": "BEN"
+  },
+  {
+    "capital": "Hamilton",
+    "code": "bm",
+    "continent": "North America",
+    "name": "Bermuda",
+    "flagCharacteristics": []
+  },
+  {
+    "capital": "Thimphu",
+    "code": "bt",
+    "continent": "Asia",
+    "name": "Bhutan",
+    "flagCharacteristics": [
+      "Divided Per Bend",
+      "Yellow",
+      "Orange",
+      "White Dragon",
+      "Animal"
+    ],
+    "threeLetterCode": "BTN"
+  },
+  {
+    "capital": "Sucre",
+    "code": "bo",
+    "continent": "South America",
+    "name": "Bolivia",
+    "flagCharacteristics": [
+      "Horizontal Triband",
+      "Red",
+      "Yellow",
+      "Green",
+      "Coat of Arms",
+      "Animal",
+      "Bird",
+      "Tree",
+      "Motto"
+    ],
+    "threeLetterCode": "BOL"
+  },
+  {
+    "capital": "Kralendijk",
+    "code": "bq",
+    "continent": "South America",
+    "name": "Bonaire, Sint Eustatius and Saba",
+    "flagCharacteristics": []
+  },
+  {
+    "capital": "Sarajevo",
+    "code": "ba",
+    "continent": "Europe",
+    "name": "Bosnia and Herzegovina",
+    "flagCharacteristics": ["Blue", "Yellow", "White", "Triangle", "Star(s)"],
+    "threeLetterCode": "BIH"
+  },
+  {
+    "capital": "Gaborone",
+    "code": "bw",
+    "continent": "Africa",
+    "name": "Botswana",
+    "flagCharacteristics": [
+      "Horizontal Bands",
+      "Blue",
+      "White",
+      "Black",
+      "Horizontal Triband"
+    ],
+    "threeLetterCode": "BWA"
+  },
+  {
+    "code": "bv",
+    "name": "Bouvet Island",
+    "flagCharacteristics": []
+  },
+  {
+    "capital": "Brasília",
+    "code": "br",
+    "continent": "South America",
+    "name": "Brazil",
+    "flagCharacteristics": [
+      "Green",
+      "Yellow",
+      "Blue",
+      "Globe",
+      "Star(s)",
+      "Band",
+      "Motto"
+    ],
+    "threeLetterCode": "BRA"
+  },
+  {
+    "capital": "Diego Garcia",
+    "code": "io",
+    "continent": "Asia",
+    "name": "British Indian Ocean Territory",
+    "flagCharacteristics": []
+  },
+  {
+    "capital": "Bandar Seri Begawan",
+    "code": "bn",
+    "continent": "Asia",
+    "name": "Brunei Darussalam",
+    "flagCharacteristics": [
+      "Yellow",
+      "Black",
+      "White",
+      "Red",
+      "Coat of Arms",
+      "Crescent",
+      "Parasol",
+      "Hands",
+      "Motto",
+      "Islamic Symbolism"
+    ],
+    "threeLetterCode": "BRN"
+  },
+  {
+    "capital": "Sofia",
+    "code": "bg",
+    "continent": "Europe",
+    "name": "Bulgaria",
+    "flagCharacteristics": ["Horizontal Triband", "White", "Green", "Red"],
+    "threeLetterCode": "BGR"
+  },
+  {
+    "capital": "Ouagadougou",
+    "code": "bf",
+    "continent": "Africa",
+    "name": "Burkina Faso",
+    "flagCharacteristics": [
+      "Horizontal Triband",
+      "Red",
+      "Green",
+      "Yellow",
+      "Pan-African Colors",
+      "Star"
+    ],
+    "threeLetterCode": "BFA"
+  },
+  {
+    "capital": "Bujumbura",
+    "code": "bi",
+    "continent": "Africa",
+    "name": "Burundi",
+    "flagCharacteristics": [
+      "White Saltire",
+      "Red",
+      "Green",
+      "White",
+      "Circle",
+      "Star(s)",
+      "Emblem"
+    ],
+    "threeLetterCode": "BDI"
+  },
+  {
+    "capital": "Praia",
+    "code": "cv",
+    "continent": "Africa",
+    "name": "Cabo Verde",
+    "flagCharacteristics": [
+      "Blue",
+      "White",
+      "Red",
+      "Yellow",
+      "Band",
+      "Star(s)",
+      "Circle"
+    ],
+    "threeLetterCode": "CPV"
+  },
+  {
+    "capital": "Phnom Penh",
+    "code": "kh",
+    "continent": "Asia",
+    "name": "Cambodia",
+    "flagCharacteristics": [
+      "Horizontal Triband",
+      "Blue",
+      "Red",
+      "White",
+      "Coat of Arms",
+      "Temple"
+    ],
+    "threeLetterCode": "KHM"
+  },
+  {
+    "capital": "Yaoundé",
+    "code": "cm",
+    "continent": "Africa",
+    "name": "Cameroon",
+    "flagCharacteristics": [
+      "Vertical Tricolor",
+      "Green",
+      "Red",
+      "Yellow",
+      "Star",
+      "Pan-African Colors"
+    ],
+    "threeLetterCode": "CMR"
+  },
+  {
+    "capital": "Ottawa",
+    "code": "ca",
+    "continent": "North America",
+    "name": "Canada",
+    "flagCharacteristics": ["Red", "White", "Red", "Maple Leaf", "Plant"],
+    "threeLetterCode": "CAN"
+  },
+  {
+    "code": "ic",
+    "name": "Canary Islands",
+    "flagCharacteristics": []
+  },
+  {
+    "code": "es-ct",
+    "name": "Catalonia",
+    "flagCharacteristics": []
+  },
+  {
+    "capital": "George Town",
+    "code": "ky",
+    "continent": "North America",
+    "name": "Cayman Islands",
+    "flagCharacteristics": []
+  },
+  {
+    "capital": "Bangui",
+    "code": "cf",
+    "continent": "Africa",
+    "name": "Central African Republic",
+    "flagCharacteristics": [
+      "Horizontal Triband",
+      "Blue",
+      "White",
+      "Green",
+      "Yellow",
+      "Red",
+      "Vertical Band",
+      "Star"
+    ],
+    "threeLetterCode": "CAF"
+  },
+  {
+    "code": "cefta",
+    "name": "Central European Free Trade Agreement",
+    "flagCharacteristics": []
+  },
+  {
+    "capital": "N'Djamena",
+    "code": "td",
+    "continent": "Africa",
+    "name": "Chad",
+    "flagCharacteristics": [
+      "Vertical Tricolor",
+      "Blue",
+      "Yellow",
+      "Red",
+      "Pan-African Colors"
+    ],
+    "threeLetterCode": "TCD"
+  },
+  {
+    "capital": "Santiago",
+    "code": "cl",
+    "continent": "South America",
+    "name": "Chile",
+    "flagCharacteristics": [
+      "Horizontal Bicolor",
+      "White",
+      "Red",
+      "Blue",
+      "White Star",
+      "Star(s)"
+    ],
+    "threeLetterCode": "CHL"
+  },
+  {
+    "capital": "Beijing",
+    "code": "cn",
+    "continent": "Asia",
+    "name": "China",
+    "flagCharacteristics": [
+      "Red",
+      "Yellow",
+      "Star(s)",
+      "Large Star",
+      "Four Smaller Stars"
+    ],
+    "threeLetterCode": "CHN"
+  },
+  {
+    "capital": "Flying Fish Cove",
+    "code": "cx",
+    "continent": "Asia",
+    "name": "Christmas Island",
+    "flagCharacteristics": []
+  },
+  {
+    "code": "cp",
+    "name": "Clipperton Island",
+    "flagCharacteristics": []
+  },
+  {
+    "capital": "West Island",
+    "code": "cc",
+    "continent": "Asia",
+    "name": "Cocos (Keeling) Islands",
+    "flagCharacteristics": []
+  },
+  {
+    "capital": "Bogotá",
+    "code": "co",
+    "continent": "South America",
+    "name": "Colombia",
+    "flagCharacteristics": ["Horizontal Triband", "Yellow", "Blue", "Red"],
+    "threeLetterCode": "COL"
+  },
+  {
+    "capital": "Moroni",
+    "code": "km",
+    "continent": "Africa",
+    "name": "Comoros",
+    "flagCharacteristics": [
+      "Horizontal Bands",
+      "Yellow",
+      "White",
+      "Red",
+      "Blue",
+      "Green",
+      "Crescent",
+      "Star(s)",
+      "Islamic Symbolism"
+    ],
+    "threeLetterCode": "COM"
+  },
+  {
+    "capital": "Avarua",
+    "code": "ck",
+    "continent": "Oceania",
+    "name": "Cook Islands",
+    "flagCharacteristics": []
+  },
+  {
+    "capital": "San José",
+    "code": "cr",
+    "continent": "North America",
+    "name": "Costa Rica",
+    "flagCharacteristics": [
+      "Horizontal Triband",
+      "Blue",
+      "White",
+      "Red",
+      "Coat of Arms",
+      "Shield",
+      "Volcanoes",
+      "Ship",
+      "Sun",
+      "Star(s)",
+      "Motto"
+    ],
+    "threeLetterCode": "CRI"
+  },
+  {
+    "capital": "Zagreb",
+    "code": "hr",
+    "continent": "Europe",
+    "name": "Croatia",
+    "flagCharacteristics": [
+      "Horizontal Triband",
+      "Red",
+      "White",
+      "Blue",
+      "Coat of Arms",
+      "Shield",
+      "Checkerboard"
+    ],
+    "threeLetterCode": "HRV"
+  },
+  {
+    "capital": "Havana",
+    "code": "cu",
+    "continent": "North America",
+    "name": "Cuba",
+    "flagCharacteristics": [
+      "Horizontal Triband",
+      "Blue",
+      "White",
+      "Red",
+      "Triangle",
+      "Star(s)"
+    ],
+    "threeLetterCode": "CUB"
+  },
+  {
+    "capital": "Willemstad",
+    "code": "cw",
+    "continent": "South America",
+    "name": "Curaçao",
+    "flagCharacteristics": []
+  },
+  {
+    "capital": "Nicosia",
+    "code": "cy",
+    "continent": "Europe",
+    "name": "Cyprus",
+    "flagCharacteristics": [
+      "White",
+      "Orange",
+      "Map",
+      "Olive Branches",
+      "Plant"
+    ],
+    "threeLetterCode": "CYP"
+  },
+  {
+    "capital": "Prague",
+    "code": "cz",
+    "continent": "Europe",
+    "name": "Czech Republic",
+    "flagCharacteristics": [
+      "White",
+      "Red",
+      "Blue",
+      "Triangle",
+      "Coat of Arms",
+      "Lion",
+      "Animal"
+    ],
+    "threeLetterCode": "CZE"
+  },
+  {
+    "capital": "Yamoussoukro",
+    "code": "ci",
+    "continent": "Africa",
+    "name": "Côte d'Ivoire",
+    "flagCharacteristics": ["Vertical Tricolor", "Orange", "White", "Green"],
+    "threeLetterCode": "CIV"
+  },
+  {
+    "capital": "Kinshasa",
+    "code": "cd",
+    "continent": "Africa",
+    "name": "Democratic Republic of the Congo",
+    "flagCharacteristics": ["Blue", "Yellow", "Red", "Star", "Diagonal Band"],
+    "threeLetterCode": "COD"
+  },
+  {
+    "capital": "Copenhagen",
+    "code": "dk",
+    "continent": "Europe",
+    "name": "Denmark",
+    "flagCharacteristics": ["Red", "White", "Scandinavian Cross"],
+    "threeLetterCode": "DNK"
+  },
+  {
+    "code": "dg",
+    "name": "Diego Garcia",
+    "flagCharacteristics": []
+  },
+  {
+    "capital": "Djibouti",
+    "code": "dj",
+    "continent": "Africa",
+    "name": "Djibouti",
+    "flagCharacteristics": [
+      "Horizontal Bands",
+      "Blue",
+      "Green",
+      "White",
+      "Red",
+      "Triangle",
+      "Star(s)"
+    ],
+    "threeLetterCode": "DJI"
+  },
+  {
+    "capital": "Roseau",
+    "code": "dm",
+    "continent": "North America",
+    "name": "Dominica",
+    "flagCharacteristics": [
+      "Green",
+      "Yellow",
+      "Black",
+      "White",
+      "Red",
+      "Circle",
+      "Star(s)",
+      "Parrot",
+      "Bird",
+      "Motto"
+    ],
+    "threeLetterCode": "DMA"
+  },
+  {
+    "capital": "Santo Domingo",
+    "code": "do",
+    "continent": "North America",
+    "name": "Dominican Republic",
+    "flagCharacteristics": [
+      "White Cross",
+      "Red",
+      "Blue",
+      "Coat of Arms",
+      "Shield",
+      "Bible",
+      "Cross",
+      "Motto"
+    ],
+    "threeLetterCode": "DOM"
+  },
+  {
+    "code": "eac",
+    "name": "East African Community",
+    "flagCharacteristics": []
+  },
+  {
+    "capital": "Quito",
+    "code": "ec",
+    "continent": "South America",
+    "name": "Ecuador",
+    "flagCharacteristics": [
+      "Horizontal Triband",
+      "Yellow",
+      "Blue",
+      "Red",
+      "Coat of Arms",
+      "Condor",
+      "Volcano",
+      "Zodiac",
+      "Motto"
+    ],
+    "threeLetterCode": "ECU"
+  },
+  {
+    "capital": "Cairo",
+    "code": "eg",
+    "continent": "Africa",
+    "name": "Egypt",
+    "flagCharacteristics": [
+      "Horizontal Triband",
+      "Red",
+      "White",
+      "Black",
+      "Eagle of Saladin",
+      "Bird",
+      "Coat of Arms",
+      "Pan-Arab Colors"
+    ],
+    "threeLetterCode": "EGY"
+  },
+  {
+    "capital": "San Salvador",
+    "code": "sv",
+    "continent": "North America",
+    "name": "El Salvador",
+    "flagCharacteristics": [
+      "Horizontal Triband",
+      "Blue",
+      "White",
+      "Blue",
+      "Coat of Arms",
+      "Triangle",
+      "Volcanoes",
+      "Cap",
+      "Sun",
+      "Motto"
+    ],
+    "threeLetterCode": "SLV"
+  },
+  {
+    "capital": "London",
+    "code": "gb-eng",
+    "continent": "Europe",
+    "name": "England",
+    "flagCharacteristics": []
+  },
+  {
+    "capital": "Malabo",
+    "code": "gq",
+    "continent": "Africa",
+    "name": "Equatorial Guinea",
+    "flagCharacteristics": [
+      "Horizontal Triband",
+      "Green",
+      "White",
+      "Red",
+      "Blue",
+      "Triangle",
+      "Coat of Arms",
+      "Tree",
+      "Motto"
+    ],
+    "threeLetterCode": "GNQ"
+  },
+  {
+    "capital": "Asmara",
+    "code": "er",
+    "continent": "Africa",
+    "name": "Eritrea",
+    "flagCharacteristics": [
+      "Red",
+      "Blue",
+      "Green",
+      "Yellow",
+      "Olive Wreath",
+      "Plant",
+      "Emblem"
+    ],
+    "threeLetterCode": "ERI"
+  },
+  {
+    "capital": "Tallinn",
+    "code": "ee",
+    "continent": "Europe",
+    "name": "Estonia",
+    "flagCharacteristics": ["Horizontal Triband", "Blue", "Black", "White"],
+    "threeLetterCode": "EST"
+  },
+  {
+    "capital": "Lobamba, Mbabane",
+    "code": "sz",
+    "continent": "Africa",
+    "name": "Eswatini",
+    "flagCharacteristics": [
+      "Blue",
+      "Yellow",
+      "Crimson",
+      "Black",
+      "White",
+      "Shield",
+      "Spears",
+      "Weapon",
+      "Emblem"
+    ],
+    "threeLetterCode": "SWZ"
+  },
+  {
+    "capital": "Addis Ababa",
+    "code": "et",
+    "continent": "Africa",
+    "name": "Ethiopia",
+    "flagCharacteristics": [
+      "Horizontal Triband",
+      "Green",
+      "Yellow",
+      "Red",
+      "Circle",
+      "Star(s)",
+      "Emblem",
+      "Pan-African Colors"
+    ],
+    "threeLetterCode": "ETH"
+  },
+  {
+    "code": "eu",
+    "name": "Europe",
+    "flagCharacteristics": []
+  },
+  {
+    "capital": "Stanley",
+    "code": "fk",
+    "continent": "South America",
+    "name": "Falkland Islands",
+    "flagCharacteristics": []
+  },
+  {
+    "capital": "Tórshavn",
+    "code": "fo",
+    "continent": "Europe",
+    "name": "Faroe Islands",
+    "flagCharacteristics": []
+  },
+  {
+    "capital": "Palikir",
+    "code": "fm",
+    "continent": "Oceania",
+    "name": "Federated States of Micronesia",
+    "flagCharacteristics": ["Blue", "White", "Star(s)"],
+    "threeLetterCode": "FSM"
+  },
+  {
+    "capital": "Suva",
+    "code": "fj",
+    "continent": "Oceania",
+    "name": "Fiji",
+    "flagCharacteristics": [
+      "Light Blue",
+      "Union Jack",
+      "Coat of Arms",
+      "Shield",
+      "Cross",
+      "Lion",
+      "Animal",
+      "Plant"
+    ],
+    "threeLetterCode": "FJI"
+  },
+  {
+    "capital": "Helsinki",
+    "code": "fi",
+    "continent": "Europe",
+    "name": "Finland",
+    "flagCharacteristics": ["White", "Blue", "Scandinavian Cross"],
+    "threeLetterCode": "FIN"
+  },
+  {
+    "capital": "Paris",
+    "code": "fr",
+    "continent": "Europe",
+    "name": "France",
+    "flagCharacteristics": ["Vertical Tricolor", "Blue", "White", "Red"],
+    "threeLetterCode": "FRA"
+  },
+  {
+    "capital": "Cayenne",
+    "code": "gf",
+    "continent": "South America",
+    "name": "French Guiana",
+    "flagCharacteristics": []
+  },
+  {
+    "capital": "Papeete",
+    "code": "pf",
+    "continent": "Oceania",
+    "name": "French Polynesia",
+    "flagCharacteristics": []
+  },
+  {
+    "capital": "Saint-Pierre, Réunion",
+    "code": "tf",
+    "continent": "Africa",
+    "name": "French Southern Territories",
+    "flagCharacteristics": []
+  },
+  {
+    "capital": "Libreville",
+    "code": "ga",
+    "continent": "Africa",
+    "name": "Gabon",
+    "flagCharacteristics": ["Horizontal Triband", "Green", "Yellow", "Blue"],
+    "threeLetterCode": "GAB"
+  },
+  {
+    "code": "es-ga",
+    "name": "Galicia",
+    "flagCharacteristics": []
+  },
+  {
+    "capital": "Banjul",
+    "code": "gm",
+    "continent": "Africa",
+    "name": "Gambia",
+    "flagCharacteristics": [
+      "Horizontal Triband",
+      "Red",
+      "Blue",
+      "Green",
+      "White",
+      "Borders"
+    ],
+    "threeLetterCode": "GMB"
+  },
+  {
+    "capital": "Tbilisi",
+    "code": "ge",
+    "continent": "Asia",
+    "name": "Georgia",
+    "flagCharacteristics": ["White", "Red", "Cross", "Four Crosslets"],
+    "threeLetterCode": "GEO"
+  },
+  {
+    "capital": "Berlin",
+    "code": "de",
+    "continent": "Europe",
+    "name": "Germany",
+    "flagCharacteristics": ["Horizontal Triband", "Black", "Red", "Yellow"],
+    "threeLetterCode": "DEU"
+  },
+  {
+    "capital": "Accra",
+    "code": "gh",
+    "continent": "Africa",
+    "name": "Ghana",
+    "flagCharacteristics": [
+      "Horizontal Triband",
+      "Red",
+      "Yellow",
+      "Green",
+      "Black Star",
+      "Star(s)",
+      "Pan-African Colors"
+    ],
+    "threeLetterCode": "GHA"
+  },
+  {
+    "capital": "Gibraltar",
+    "code": "gi",
+    "continent": "Europe",
+    "name": "Gibraltar",
+    "flagCharacteristics": []
+  },
+  {
+    "capital": "Athens",
+    "code": "gr",
+    "continent": "Europe",
+    "name": "Greece",
+    "flagCharacteristics": ["Horizontal Bands", "Blue", "White", "Cross"],
+    "threeLetterCode": "GRC"
+  },
+  {
+    "capital": "Nuuk",
+    "code": "gl",
+    "continent": "North America",
+    "name": "Greenland",
+    "flagCharacteristics": []
+  },
+  {
+    "capital": "St. George's",
+    "code": "gd",
+    "continent": "North America",
+    "name": "Grenada",
+    "flagCharacteristics": [
+      "Red",
+      "Yellow",
+      "Green",
+      "Star(s)",
+      "Nutmeg",
+      "Plant",
+      "Pan-African Colors"
+    ],
+    "threeLetterCode": "GRD"
+  },
+  {
+    "capital": "Basse-Terre",
+    "code": "gp",
+    "continent": "North America",
+    "name": "Guadeloupe",
+    "flagCharacteristics": []
+  },
+  {
+    "capital": "Hagåtña",
+    "code": "gu",
+    "continent": "Oceania",
+    "name": "Guam",
+    "flagCharacteristics": []
+  },
+  {
+    "capital": "Guatemala City",
+    "code": "gt",
+    "continent": "North America",
+    "name": "Guatemala",
+    "flagCharacteristics": [
+      "Vertical Triband",
+      "Blue",
+      "White",
+      "Blue",
+      "Coat of Arms",
+      "Quetzal",
+      "Bird",
+      "Scroll",
+      "Motto"
+    ],
+    "threeLetterCode": "GTM"
+  },
+  {
+    "capital": "Saint Peter Port",
+    "code": "gg",
+    "continent": "Europe",
+    "name": "Guernsey",
+    "flagCharacteristics": []
+  },
+  {
+    "capital": "Conakry",
+    "code": "gn",
+    "continent": "Africa",
+    "name": "Guinea",
+    "flagCharacteristics": [
+      "Vertical Tricolor",
+      "Red",
+      "Yellow",
+      "Green",
+      "Pan-African Colors"
+    ],
+    "threeLetterCode": "GIN"
+  },
+  {
+    "capital": "Bissau",
+    "code": "gw",
+    "continent": "Africa",
+    "name": "Guinea-Bissau",
+    "flagCharacteristics": [
+      "Horizontal Bands",
+      "Yellow",
+      "Green",
+      "Red",
+      "Black Star",
+      "Star(s)",
+      "Pan-African Colors"
+    ],
+    "threeLetterCode": "GNB"
+  },
+  {
+    "capital": "Georgetown",
+    "code": "gy",
+    "continent": "South America",
+    "name": "Guyana",
+    "flagCharacteristics": [
+      "Green",
+      "White",
+      "Yellow",
+      "Black",
+      "Red",
+      "Triangle",
+      "Arrowhead"
+    ],
+    "threeLetterCode": "GUY"
+  },
+  {
+    "capital": "Port-au-Prince",
+    "code": "ht",
+    "continent": "North America",
+    "name": "Haiti",
+    "flagCharacteristics": [
+      "Horizontal Bicolor",
+      "Blue",
+      "Red",
+      "White",
+      "Coat of Arms",
+      "Palm Tree",
+      "Cannon",
+      "Weapon",
+      "Motto"
+    ],
+    "threeLetterCode": "HTI"
+  },
+  {
+    "code": "hm",
+    "name": "Heard Island and McDonald Islands",
+    "flagCharacteristics": []
+  },
+  {
+    "capital": "Vatican City",
+    "code": "va",
+    "continent": "Europe",
+    "name": "Holy See",
+    "flagCharacteristics": [
+      "Vertical Bicolor",
+      "Yellow",
+      "White",
+      "Crossed Keys",
+      "Tiara",
+      "Emblem"
+    ],
+    "threeLetterCode": "VAT"
+  },
+  {
+    "capital": "Tegucigalpa",
+    "code": "hn",
+    "continent": "North America",
+    "name": "Honduras",
+    "flagCharacteristics": [
+      "Horizontal Triband",
+      "Blue",
+      "White",
+      "Blue",
+      "Star(s)"
+    ],
+    "threeLetterCode": "HND"
+  },
+  {
+    "capital": "Hong Kong",
+    "code": "hk",
+    "continent": "Asia",
+    "name": "Hong Kong",
+    "flagCharacteristics": []
+  },
+  {
+    "capital": "Budapest",
+    "code": "hu",
+    "continent": "Europe",
+    "name": "Hungary",
+    "flagCharacteristics": ["Horizontal Triband", "Red", "White", "Green"],
+    "threeLetterCode": "HUN"
+  },
+  {
+    "capital": "Reykjavik",
+    "code": "is",
+    "continent": "Europe",
+    "name": "Iceland",
+    "flagCharacteristics": ["Blue", "White", "Red", "Scandinavian Cross"],
+    "threeLetterCode": "ISL"
+  },
+  {
+    "capital": "New Delhi",
+    "code": "in",
+    "continent": "Asia",
+    "name": "India",
+    "flagCharacteristics": [
+      "Horizontal Triband",
+      "Saffron",
+      "White",
+      "Green",
+      "Blue",
+      "Wheel",
+      "Chakra",
+      "Buddhist Symbolism"
+    ],
+    "threeLetterCode": "IND"
+  },
+  {
+    "capital": "Jakarta",
+    "code": "id",
+    "continent": "Asia",
+    "name": "Indonesia",
+    "flagCharacteristics": ["Horizontal Bicolor", "Red", "White"],
+    "threeLetterCode": "IDN"
+  },
+  {
+    "capital": "Tehran",
+    "code": "ir",
+    "continent": "Asia",
+    "name": "Iran",
+    "flagCharacteristics": [
+      "Horizontal Triband",
+      "Green",
+      "White",
+      "Red",
+      "Emblem",
+      "Allahu Akbar",
+      "Text",
+      "Islamic Symbolism"
+    ],
+    "threeLetterCode": "IRN"
+  },
+  {
+    "capital": "Baghdad",
+    "code": "iq",
+    "continent": "Asia",
+    "name": "Iraq",
+    "flagCharacteristics": [
+      "Horizontal Triband",
+      "Red",
+      "White",
+      "Black",
+      "Allahu Akbar",
+      "Text",
+      "Islamic Symbolism",
+      "Pan-Arab Colors"
+    ],
+    "threeLetterCode": "IRQ"
+  },
+  {
+    "capital": "Dublin",
+    "code": "ie",
+    "continent": "Europe",
+    "name": "Ireland",
+    "flagCharacteristics": ["Vertical Tricolor", "Green", "White", "Orange"],
+    "threeLetterCode": "IRL"
+  },
+  {
+    "capital": "Douglas",
+    "code": "im",
+    "continent": "Europe",
+    "name": "Isle of Man",
+    "flagCharacteristics": []
+  },
+  {
+    "capital": "Jerusalem",
+    "code": "il",
+    "continent": "Asia",
+    "name": "Israel",
+    "flagCharacteristics": ["White", "Blue", "Star of David", "Star(s)"],
+    "threeLetterCode": "ISR"
+  },
+  {
+    "capital": "Rome",
+    "code": "it",
+    "continent": "Europe",
+    "name": "Italy",
+    "flagCharacteristics": ["Vertical Tricolor", "Green", "White", "Red"],
+    "threeLetterCode": "ITA"
+  },
+  {
+    "capital": "Kingston",
+    "code": "jm",
+    "continent": "North America",
+    "name": "Jamaica",
+    "flagCharacteristics": ["Diagonal Cross", "Green", "Yellow", "Black"],
+    "threeLetterCode": "JAM"
+  },
+  {
+    "capital": "Tokyo",
+    "code": "jp",
+    "continent": "Asia",
+    "name": "Japan",
+    "flagCharacteristics": ["White", "Red", "Circle", "Sun"],
+    "threeLetterCode": "JPN"
+  },
+  {
+    "capital": "Saint Helier",
+    "code": "je",
+    "continent": "Europe",
+    "name": "Jersey",
+    "flagCharacteristics": []
+  },
+  {
+    "capital": "Amman",
+    "code": "jo",
+    "continent": "Asia",
+    "name": "Jordan",
+    "flagCharacteristics": [
+      "Horizontal Triband",
+      "Black",
+      "White",
+      "Green",
+      "Red Triangle",
+      "Star(s)",
+      "Pan-Arab Colors"
+    ],
+    "threeLetterCode": "JOR"
+  },
+  {
+    "capital": "Astana",
+    "code": "kz",
+    "continent": "Asia",
+    "name": "Kazakhstan",
+    "flagCharacteristics": [
+      "Blue",
+      "Yellow",
+      "Sun",
+      "Star(s)",
+      "Steppe Eagle",
+      "Bird",
+      "Ornamental Pattern"
+    ],
+    "threeLetterCode": "KAZ"
+  },
+  {
+    "capital": "Nairobi",
+    "code": "ke",
+    "continent": "Africa",
+    "name": "Kenya",
+    "flagCharacteristics": [
+      "Horizontal Triband",
+      "Black",
+      "Red",
+      "Green",
+      "White",
+      "Shield",
+      "Spears",
+      "Weapon",
+      "Pan-African Colors"
+    ],
+    "threeLetterCode": "KEN"
+  },
+  {
+    "capital": "South Tarawa",
+    "code": "ki",
+    "continent": "Oceania",
+    "name": "Kiribati",
+    "flagCharacteristics": ["Red", "Blue", "White", "Sun", "Bird", "Waves"],
+    "threeLetterCode": "KIR"
+  },
+  {
+    "capital": "Pristina",
+    "code": "xk",
+    "continent": "Europe",
+    "name": "Kosovo",
+    "flagCharacteristics": []
+  },
+  {
+    "capital": "Kuwait City",
+    "code": "kw",
+    "continent": "Asia",
+    "name": "Kuwait",
+    "flagCharacteristics": [
+      "Horizontal Triband",
+      "Green",
+      "White",
+      "Red",
+      "Black",
+      "Trapezoid",
+      "Pan-Arab Colors"
+    ],
+    "threeLetterCode": "KWT"
+  },
+  {
+    "capital": "Bishkek",
+    "code": "kg",
+    "continent": "Asia",
+    "name": "Kyrgyzstan",
+    "flagCharacteristics": ["Red", "Yellow", "Sun", "Tunduk", "Emblem"],
+    "threeLetterCode": "KGZ"
+  },
+  {
+    "capital": "Vientiane",
+    "code": "la",
+    "continent": "Asia",
+    "name": "Laos",
+    "flagCharacteristics": [
+      "Horizontal Triband",
+      "Red",
+      "Blue",
+      "White",
+      "Circle"
+    ],
+    "threeLetterCode": "LAO"
+  },
+  {
+    "capital": "Riga",
+    "code": "lv",
+    "continent": "Europe",
+    "name": "Latvia",
+    "flagCharacteristics": ["Maroon", "White"],
+    "threeLetterCode": "LVA"
+  },
+  {
+    "code": "arab",
+    "name": "League of Arab States",
+    "flagCharacteristics": []
+  },
+  {
+    "capital": "Beirut",
+    "code": "lb",
+    "continent": "Asia",
+    "name": "Lebanon",
+    "flagCharacteristics": [
+      "Horizontal Triband",
+      "Red",
+      "White",
+      "Green",
+      "Cedar",
+      "Tree"
+    ],
+    "threeLetterCode": "LBN"
+  },
+  {
+    "capital": "Maseru",
+    "code": "ls",
+    "continent": "Africa",
+    "name": "Lesotho",
+    "flagCharacteristics": ["Blue", "Green", "White", "Black", "Hat", "Emblem"],
+    "threeLetterCode": "LSO"
+  },
+  {
+    "capital": "Monrovia",
+    "code": "lr",
+    "continent": "Africa",
+    "name": "Liberia",
+    "flagCharacteristics": [
+      "Horizontal Bands",
+      "Red",
+      "White",
+      "Blue",
+      "White Star",
+      "Star(s)"
+    ],
+    "threeLetterCode": "LBR"
+  },
+  {
+    "capital": "Tripoli",
+    "code": "ly",
+    "continent": "Africa",
+    "name": "Libya",
+    "flagCharacteristics": [
+      "Horizontal Triband",
+      "Red",
+      "Black",
+      "Green",
+      "White",
+      "Crescent and Star",
+      "Pan-Arab Colors",
+      "Islamic Symbolism"
+    ],
+    "threeLetterCode": "LBY"
+  },
+  {
+    "capital": "Vaduz",
+    "code": "li",
+    "continent": "Europe",
+    "name": "Liechtenstein",
+    "flagCharacteristics": [
+      "Horizontal Bicolor",
+      "Blue",
+      "Red",
+      "Crown",
+      "Coat of Arms"
+    ],
+    "threeLetterCode": "LIE"
+  },
+  {
+    "capital": "Vilnius",
+    "code": "lt",
+    "continent": "Europe",
+    "name": "Lithuania",
+    "flagCharacteristics": ["Horizontal Triband", "Yellow", "Green", "Red"],
+    "threeLetterCode": "LTU"
+  },
+  {
+    "capital": "Luxembourg City",
+    "code": "lu",
+    "continent": "Europe",
+    "name": "Luxembourg",
+    "flagCharacteristics": ["Horizontal Triband", "Red", "White", "Light Blue"],
+    "threeLetterCode": "LUX"
+  },
+  {
+    "capital": "Macau",
+    "code": "mo",
+    "continent": "Asia",
+    "name": "Macau",
+    "flagCharacteristics": []
+  },
+  {
+    "capital": "Antananarivo",
+    "code": "mg",
+    "continent": "Africa",
+    "name": "Madagascar",
+    "flagCharacteristics": ["White", "Red", "Green", "Vertical Bicolor"],
+    "threeLetterCode": "MDG"
+  },
+  {
+    "capital": "Lilongwe",
+    "code": "mw",
+    "continent": "Africa",
+    "name": "Malawi",
+    "flagCharacteristics": [
+      "Horizontal Triband",
+      "Black",
+      "Red",
+      "Green",
+      "Sun",
+      "Pan-African Colors"
+    ],
+    "threeLetterCode": "MWI"
+  },
+  {
+    "capital": "Kuala Lumpur",
+    "code": "my",
+    "continent": "Asia",
+    "name": "Malaysia",
+    "flagCharacteristics": [
+      "Horizontal Bands",
+      "Red",
+      "White",
+      "Blue",
+      "Yellow",
+      "Crescent and Star",
+      "Islamic Symbolism"
+    ],
+    "threeLetterCode": "MYS"
+  },
+  {
+    "capital": "Malé",
+    "code": "mv",
+    "continent": "Asia",
+    "name": "Maldives",
+    "flagCharacteristics": [
+      "Red",
+      "Green",
+      "White",
+      "Crescent",
+      "Islamic Symbolism"
+    ],
+    "threeLetterCode": "MDV"
+  },
+  {
+    "capital": "Bamako",
+    "code": "ml",
+    "continent": "Africa",
+    "name": "Mali",
+    "flagCharacteristics": [
+      "Vertical Tricolor",
+      "Green",
+      "Yellow",
+      "Red",
+      "Pan-African Colors"
+    ],
+    "threeLetterCode": "MLI"
+  },
+  {
+    "capital": "Valletta",
+    "code": "mt",
+    "continent": "Europe",
+    "name": "Malta",
+    "flagCharacteristics": ["Vertical Bicolor", "White", "Red", "George Cross"],
+    "threeLetterCode": "MLT"
+  },
+  {
+    "capital": "Majuro",
+    "code": "mh",
+    "continent": "Oceania",
+    "name": "Marshall Islands",
+    "flagCharacteristics": ["Blue", "White", "Sun", "Star(s)", "Diagonal Band"],
+    "threeLetterCode": "MHL"
+  },
+  {
+    "capital": "Fort-de-France",
+    "code": "mq",
+    "continent": "North America",
+    "name": "Martinique",
+    "flagCharacteristics": []
+  },
+  {
+    "capital": "Nouakchott",
+    "code": "mr",
+    "continent": "Africa",
+    "name": "Mauritania",
+    "flagCharacteristics": [
+      "Green",
+      "Yellow",
+      "Red",
+      "Crescent and Star",
+      "Islamic Symbolism",
+      "Pan-African Colors"
+    ],
+    "threeLetterCode": "MRT"
+  },
+  {
+    "capital": "Port Louis",
+    "code": "mu",
+    "continent": "Africa",
+    "name": "Mauritius",
+    "flagCharacteristics": [
+      "Horizontal Bands",
+      "Red",
+      "Blue",
+      "Yellow",
+      "Green",
+      "Pan-African Colors"
+    ],
+    "threeLetterCode": "MUS"
+  },
+  {
+    "capital": "Mamoudzou",
+    "code": "yt",
+    "continent": "Africa",
+    "name": "Mayotte",
+    "flagCharacteristics": []
+  },
+  {
+    "capital": "Mexico City",
+    "code": "mx",
+    "continent": "North America",
+    "name": "Mexico",
+    "flagCharacteristics": [
+      "Vertical Tricolor",
+      "Green",
+      "White",
+      "Red",
+      "Coat of Arms",
+      "Eagle",
+      "Snake",
+      "Cactus",
+      "Animal",
+      "Plant"
+    ],
+    "threeLetterCode": "MEX"
+  },
+  {
+    "capital": "Chișinău",
+    "code": "md",
+    "continent": "Europe",
+    "name": "Moldova",
+    "flagCharacteristics": [
+      "Vertical Tricolor",
+      "Blue",
+      "Yellow",
+      "Red",
+      "Coat of Arms",
+      "Eagle",
+      "Bird",
+      "Shield"
+    ],
+    "threeLetterCode": "MDA"
+  },
+  {
+    "capital": "Monaco",
+    "code": "mc",
+    "continent": "Europe",
+    "name": "Monaco",
+    "flagCharacteristics": ["Horizontal Bicolor", "Red", "White"],
+    "threeLetterCode": "MCO"
+  },
+  {
+    "capital": "Ulaanbaatar",
+    "code": "mn",
+    "continent": "Asia",
+    "name": "Mongolia",
+    "flagCharacteristics": [
+      "Vertical Tricolor",
+      "Red",
+      "Blue",
+      "Red",
+      "Soyombo",
+      "Emblem",
+      "Geometric Pattern"
+    ],
+    "threeLetterCode": "MNG"
+  },
+  {
+    "capital": "Podgorica",
+    "code": "me",
+    "continent": "Europe",
+    "name": "Montenegro",
+    "flagCharacteristics": [
+      "Red",
+      "Gold",
+      "Border",
+      "Coat of Arms",
+      "Eagle",
+      "Bird",
+      "Lion",
+      "Animal"
+    ],
+    "threeLetterCode": "MNE"
+  },
+  {
+    "capital": "Little Bay, Brades, Plymouth",
+    "code": "ms",
+    "continent": "North America",
+    "name": "Montserrat",
+    "flagCharacteristics": []
+  },
+  {
+    "capital": "Rabat",
+    "code": "ma",
+    "continent": "Africa",
+    "name": "Morocco",
+    "flagCharacteristics": [
+      "Red",
+      "Green",
+      "Pentagram",
+      "Star(s)",
+      "Seal of Solomon",
+      "Islamic Symbolism"
+    ],
+    "threeLetterCode": "MAR"
+  },
+  {
+    "capital": "Maputo",
+    "code": "mz",
+    "continent": "Africa",
+    "name": "Mozambique",
+    "flagCharacteristics": [
+      "Horizontal Bands",
+      "Green",
+      "Black",
+      "Yellow",
+      "White",
+      "Red",
+      "Triangle",
+      "Star",
+      "Kalashnikov",
+      "Hoe",
+      "Book",
+      "Weapon"
+    ],
+    "threeLetterCode": "MOZ"
+  },
+  {
+    "capital": "Naypyidaw",
+    "code": "mm",
+    "continent": "Asia",
+    "name": "Myanmar",
+    "flagCharacteristics": [
+      "Horizontal Triband",
+      "Yellow",
+      "Green",
+      "Red",
+      "White",
+      "Star(s)"
+    ],
+    "threeLetterCode": "MMR"
+  },
+  {
+    "capital": "Windhoek",
+    "code": "na",
+    "continent": "Africa",
+    "name": "Namibia",
+    "flagCharacteristics": [
+      "Blue",
+      "Red",
+      "Green",
+      "White",
+      "Sun",
+      "Diagonal Band"
+    ],
+    "threeLetterCode": "NAM"
+  },
+  {
+    "capital": "Yaren District",
+    "code": "nr",
+    "continent": "Oceania",
+    "name": "Nauru",
+    "flagCharacteristics": ["Blue", "Yellow", "White", "Star(s)", "Line"],
+    "threeLetterCode": "NRU"
+  },
+  {
+    "capital": "Kathmandu",
+    "code": "np",
+    "continent": "Asia",
+    "name": "Nepal",
+    "flagCharacteristics": [
+      "Crimson",
+      "Blue",
+      "White",
+      "Moon",
+      "Sun",
+      "Unique Shape (Non-Rectangular)"
+    ],
+    "threeLetterCode": "NPL"
+  },
+  {
+    "capital": "Amsterdam",
+    "code": "nl",
+    "continent": "Europe",
+    "name": "Netherlands",
+    "flagCharacteristics": ["Horizontal Triband", "Red", "White", "Blue"],
+    "threeLetterCode": "NLD"
+  },
+  {
+    "capital": "Nouméa",
+    "code": "nc",
+    "continent": "Oceania",
+    "name": "New Caledonia",
+    "flagCharacteristics": []
+  },
+  {
+    "capital": "Wellington",
+    "code": "nz",
+    "continent": "Oceania",
+    "name": "New Zealand",
+    "flagCharacteristics": ["Blue", "Union Jack", "Southern Cross", "Star(s)"],
+    "threeLetterCode": "NZL"
+  },
+  {
+    "capital": "Managua",
+    "code": "ni",
+    "continent": "North America",
+    "name": "Nicaragua",
+    "flagCharacteristics": [
+      "Horizontal Triband",
+      "Blue",
+      "White",
+      "Blue",
+      "Coat of Arms",
+      "Triangle",
+      "Volcanoes",
+      "Cap",
+      "Sun",
+      "Rainbow",
+      "Motto"
+    ],
+    "threeLetterCode": "NIC"
+  },
+  {
+    "capital": "Niamey",
+    "code": "ne",
+    "continent": "Africa",
+    "name": "Niger",
+    "flagCharacteristics": [
+      "Horizontal Triband",
+      "Orange",
+      "White",
+      "Green",
+      "Circle",
+      "Sun",
+      "Pan-African Colors"
+    ],
+    "threeLetterCode": "NER"
+  },
+  {
+    "capital": "Abuja",
+    "code": "ng",
+    "continent": "Africa",
+    "name": "Nigeria",
+    "flagCharacteristics": ["Vertical Bicolor", "Green", "White", "Green"],
+    "threeLetterCode": "NGA"
+  },
+  {
+    "capital": "Alofi",
+    "code": "nu",
+    "continent": "Oceania",
+    "name": "Niue",
+    "flagCharacteristics": []
+  },
+  {
+    "capital": "Kingston",
+    "code": "nf",
+    "continent": "Oceania",
+    "name": "Norfolk Island",
+    "flagCharacteristics": []
+  },
+  {
+    "capital": "Pyongyang",
+    "code": "kp",
+    "continent": "Asia",
+    "name": "North Korea",
+    "flagCharacteristics": [
+      "Horizontal Bands",
+      "Blue",
+      "Red",
+      "White",
+      "Star(s)",
+      "Circle"
+    ],
+    "threeLetterCode": "PRK"
+  },
+  {
+    "capital": "Skopje",
+    "code": "mk",
+    "continent": "Europe",
+    "name": "North Macedonia",
+    "flagCharacteristics": ["Red", "Yellow", "Sun", "Sun Rays"],
+    "threeLetterCode": "MKD"
+  },
+  {
+    "capital": "Belfast",
+    "code": "gb-nir",
+    "continent": "Europe",
+    "name": "Northern Ireland",
+    "flagCharacteristics": []
+  },
+  {
+    "capital": "Saipan",
+    "code": "mp",
+    "continent": "Oceania",
+    "name": "Northern Mariana Islands",
+    "flagCharacteristics": []
+  },
+  {
+    "capital": "Oslo",
+    "code": "no",
+    "continent": "Europe",
+    "name": "Norway",
+    "flagCharacteristics": ["Red", "White", "Blue", "Scandinavian Cross"],
+    "threeLetterCode": "NOR"
+  },
+  {
+    "capital": "Muscat",
+    "code": "om",
+    "continent": "Asia",
+    "name": "Oman",
+    "flagCharacteristics": [
+      "Red",
+      "White",
+      "Green",
+      "Vertical Band",
+      "Coat of Arms",
+      "Daggers",
+      "Weapon",
+      "Emblem"
+    ],
+    "threeLetterCode": "OMN"
+  },
+  {
+    "code": "pc",
+    "name": "Pacific Community",
+    "flagCharacteristics": []
+  },
+  {
+    "capital": "Islamabad",
+    "code": "pk",
+    "continent": "Asia",
+    "name": "Pakistan",
+    "flagCharacteristics": [
+      "Green",
+      "White",
+      "Crescent and Star",
+      "Vertical Bicolor",
+      "Islamic Symbolism"
+    ],
+    "threeLetterCode": "PAK"
+  },
+  {
+    "capital": "Ngerulmud",
+    "code": "pw",
+    "continent": "Oceania",
+    "name": "Palau",
+    "flagCharacteristics": ["Blue", "Yellow", "Circle", "Sun"],
+    "threeLetterCode": "PLW"
+  },
+  {
+    "capital": "Panama City",
+    "code": "pa",
+    "continent": "North America",
+    "name": "Panama",
+    "flagCharacteristics": ["Quartered", "White", "Red", "Blue", "Star(s)"],
+    "threeLetterCode": "PAN"
+  },
+  {
+    "capital": "Port Moresby",
+    "code": "pg",
+    "continent": "Oceania",
+    "name": "Papua New Guinea",
+    "flagCharacteristics": [
+      "Divided Per Bend",
+      "Red",
+      "Black",
+      "White",
+      "Southern Cross",
+      "Star(s)",
+      "Bird of Paradise",
+      "Bird"
+    ],
+    "threeLetterCode": "PNG"
+  },
+  {
+    "capital": "Asunción",
+    "code": "py",
+    "continent": "South America",
+    "name": "Paraguay",
+    "flagCharacteristics": [
+      "Horizontal Triband",
+      "Red",
+      "White",
+      "Blue",
+      "Coat of Arms",
+      "Circle",
+      "Star(s)",
+      "Lion",
+      "Motto"
+    ],
+    "threeLetterCode": "PRY"
+  },
+  {
+    "capital": "Lima",
+    "code": "pe",
+    "continent": "South America",
+    "name": "Peru",
+    "flagCharacteristics": [
+      "Vertical Triband",
+      "Red",
+      "White",
+      "Red",
+      "Coat of Arms"
+    ],
+    "threeLetterCode": "PER"
+  },
+  {
+    "capital": "Manila",
+    "code": "ph",
+    "continent": "Asia",
+    "name": "Philippines",
+    "flagCharacteristics": [
+      "Horizontal Bicolor",
+      "Blue",
+      "Red",
+      "White",
+      "Triangle",
+      "Sun",
+      "Star(s)"
+    ],
+    "threeLetterCode": "PHL"
+  },
+  {
+    "capital": "Adamstown",
+    "code": "pn",
+    "continent": "Oceania",
+    "name": "Pitcairn",
+    "flagCharacteristics": []
+  },
+  {
+    "capital": "Warsaw",
+    "code": "pl",
+    "continent": "Europe",
+    "name": "Poland",
+    "flagCharacteristics": ["Horizontal Bicolor", "White", "Red"],
+    "threeLetterCode": "POL"
+  },
+  {
+    "capital": "Lisbon",
+    "code": "pt",
+    "continent": "Europe",
+    "name": "Portugal",
+    "flagCharacteristics": [
+      "Vertical Bicolor",
+      "Green",
+      "Red",
+      "Yellow",
+      "Coat of Arms",
+      "Armillary Sphere",
+      "Shield",
+      "Motto"
+    ],
+    "threeLetterCode": "PRT"
+  },
+  {
+    "capital": "San Juan",
+    "code": "pr",
+    "continent": "North America",
+    "name": "Puerto Rico",
+    "flagCharacteristics": []
+  },
+  {
+    "capital": "Doha",
+    "code": "qa",
+    "continent": "Asia",
+    "name": "Qatar",
+    "flagCharacteristics": ["Maroon", "White", "Serrated Edge", "Nine Points"],
+    "threeLetterCode": "QAT"
+  },
+  {
+    "capital": "Brazzaville",
+    "code": "cg",
+    "continent": "Africa",
+    "name": "Republic of the Congo",
+    "flagCharacteristics": ["Diagonal Band", "Yellow", "Green", "Red"],
+    "threeLetterCode": "COG"
+  },
+  {
+    "capital": "Bucharest",
+    "code": "ro",
+    "continent": "Europe",
+    "name": "Romania",
+    "flagCharacteristics": ["Vertical Tricolor", "Blue", "Yellow", "Red"],
+    "threeLetterCode": "ROU"
+  },
+  {
+    "capital": "Moscow",
+    "code": "ru",
+    "continent": "Europe",
+    "name": "Russia",
+    "flagCharacteristics": ["Horizontal Triband", "White", "Blue", "Red"],
+    "threeLetterCode": "RUS"
+  },
+  {
+    "capital": "Kigali",
+    "code": "rw",
+    "continent": "Africa",
+    "name": "Rwanda",
+    "flagCharacteristics": [
+      "Horizontal Bands",
+      "Blue",
+      "Yellow",
+      "Green",
+      "Sun",
+      "Pan-African Colors"
+    ],
+    "threeLetterCode": "RWA"
+  },
+  {
+    "capital": "Saint-Denis",
+    "code": "re",
+    "continent": "Africa",
+    "name": "Réunion",
+    "flagCharacteristics": []
+  },
+  {
+    "capital": "Gustavia",
+    "code": "bl",
+    "continent": "North America",
+    "name": "Saint Barthélemy",
+    "flagCharacteristics": []
+  },
+  {
+    "capital": "Jamestown",
+    "code": "sh-hl",
+    "continent": "Africa",
+    "name": "Saint Helena",
+    "flagCharacteristics": []
+  },
+  {
+    "capital": "Jamestown",
+    "code": "sh",
+    "continent": "Africa",
+    "name": "Saint Helena, Ascension and Tristan da Cunha",
+    "flagCharacteristics": []
+  },
+  {
+    "capital": "Basseterre",
+    "code": "kn",
+    "continent": "North America",
+    "name": "Saint Kitts and Nevis",
+    "flagCharacteristics": [
+      "Green",
+      "Red",
+      "Black",
+      "Yellow",
+      "White",
+      "Diagonal Band",
+      "Star(s)"
+    ],
+    "threeLetterCode": "KNA"
+  },
+  {
+    "capital": "Castries",
+    "code": "lc",
+    "continent": "North America",
+    "name": "Saint Lucia",
+    "flagCharacteristics": [
+      "Blue",
+      "Yellow",
+      "Black",
+      "White",
+      "Triangle",
+      "Emblem"
+    ],
+    "threeLetterCode": "LCA"
+  },
+  {
+    "capital": "Marigot",
+    "code": "mf",
+    "continent": "North America",
+    "name": "Saint Martin",
+    "flagCharacteristics": []
+  },
+  {
+    "capital": "Saint-Pierre",
+    "code": "pm",
+    "continent": "North America",
+    "name": "Saint Pierre and Miquelon",
+    "flagCharacteristics": []
+  },
+  {
+    "capital": "Kingstown",
+    "code": "vc",
+    "continent": "North America",
+    "name": "Saint Vincent and the Grenadines",
+    "flagCharacteristics": [
+      "Blue",
+      "Yellow",
+      "Green",
+      "White",
+      "Diamonds",
+      "Green Gems"
+    ],
+    "threeLetterCode": "VCT"
+  },
+  {
+    "capital": "Apia",
+    "code": "ws",
+    "continent": "Oceania",
+    "name": "Samoa",
+    "flagCharacteristics": [
+      "Red",
+      "Blue",
+      "White",
+      "Southern Cross",
+      "Star(s)"
+    ],
+    "threeLetterCode": "WSM"
+  },
+  {
+    "capital": "San Marino",
+    "code": "sm",
+    "continent": "Europe",
+    "name": "San Marino",
+    "flagCharacteristics": [
+      "White",
+      "Blue",
+      "Coat of Arms",
+      "Crown",
+      "Shield",
+      "Motto"
+    ],
+    "threeLetterCode": "SMR"
+  },
+  {
+    "capital": "São Tomé",
+    "code": "st",
+    "continent": "Africa",
+    "name": "Sao Tome and Principe",
+    "flagCharacteristics": [
+      "Horizontal Bands",
+      "Green",
+      "Yellow",
+      "Green",
+      "Red",
+      "Black",
+      "Star(s)",
+      "Pan-African Colors"
+    ],
+    "threeLetterCode": "STP"
+  },
+  {
+    "capital": "Riyadh",
+    "code": "sa",
+    "continent": "Asia",
+    "name": "Saudi Arabia",
+    "flagCharacteristics": [
+      "Green",
+      "White",
+      "Sword",
+      "Shahada",
+      "Text",
+      "Weapon",
+      "Islamic Symbolism"
+    ],
+    "threeLetterCode": "SAU"
+  },
+  {
+    "capital": "Edinburgh",
+    "code": "gb-sct",
+    "continent": "Europe",
+    "name": "Scotland",
+    "flagCharacteristics": []
+  },
+  {
+    "capital": "Dakar",
+    "code": "sn",
+    "continent": "Africa",
+    "name": "Senegal",
+    "flagCharacteristics": [
+      "Vertical Tricolor",
+      "Green",
+      "Yellow",
+      "Red",
+      "Green Star",
+      "Star(s)",
+      "Pan-African Colors"
+    ],
+    "threeLetterCode": "SEN"
+  },
+  {
+    "capital": "Belgrade",
+    "code": "rs",
+    "continent": "Europe",
+    "name": "Serbia",
+    "flagCharacteristics": [
+      "Horizontal Triband",
+      "Red",
+      "Blue",
+      "White",
+      "Coat of Arms",
+      "Crown",
+      "Shield",
+      "Eagle",
+      "Bird"
+    ],
+    "threeLetterCode": "SRB"
+  },
+  {
+    "capital": "Victoria",
+    "code": "sc",
+    "continent": "Africa",
+    "name": "Seychelles",
+    "flagCharacteristics": [
+      "Blue",
+      "Yellow",
+      "Red",
+      "White",
+      "Green",
+      "Radiating Bands"
+    ],
+    "threeLetterCode": "SYC"
+  },
+  {
+    "capital": "Freetown",
+    "code": "sl",
+    "continent": "Africa",
+    "name": "Sierra Leone",
+    "flagCharacteristics": [
+      "Horizontal Triband",
+      "Green",
+      "White",
+      "Blue",
+      "Pan-African Colors"
+    ],
+    "threeLetterCode": "SLE"
+  },
+  {
+    "capital": "Singapore",
+    "code": "sg",
+    "continent": "Asia",
+    "name": "Singapore",
+    "flagCharacteristics": [
+      "Horizontal Bicolor",
+      "Red",
+      "White",
+      "Crescent",
+      "Star(s)",
+      "Islamic Symbolism"
+    ],
+    "threeLetterCode": "SGP"
+  },
+  {
+    "capital": "Philipsburg",
+    "code": "sx",
+    "continent": "North America",
+    "name": "Sint Maarten",
+    "flagCharacteristics": []
+  },
+  {
+    "capital": "Bratislava",
+    "code": "sk",
+    "continent": "Europe",
+    "name": "Slovakia",
+    "flagCharacteristics": [
+      "Horizontal Triband",
+      "White",
+      "Blue",
+      "Red",
+      "Coat of Arms",
+      "Cross",
+      "Shield"
+    ],
+    "threeLetterCode": "SVK"
+  },
+  {
+    "capital": "Ljubljana",
+    "code": "si",
+    "continent": "Europe",
+    "name": "Slovenia",
+    "flagCharacteristics": [
+      "Horizontal Triband",
+      "White",
+      "Blue",
+      "Red",
+      "Coat of Arms",
+      "Shield",
+      "Mountains",
+      "Stars",
+      "Waves"
+    ],
+    "threeLetterCode": "SVN"
+  },
+  {
+    "capital": "Honiara",
+    "code": "sb",
+    "continent": "Oceania",
+    "name": "Solomon Islands",
+    "flagCharacteristics": [
+      "Blue",
+      "Green",
+      "Yellow",
+      "White",
+      "Diagonal Band",
+      "Star(s)"
+    ],
+    "threeLetterCode": "SLB"
+  },
+  {
+    "capital": "Mogadishu",
+    "code": "so",
+    "continent": "Africa",
+    "name": "Somalia",
+    "flagCharacteristics": ["Blue", "White", "Star(s)"],
+    "threeLetterCode": "SOM"
+  },
+  {
+    "capital": "Pretoria",
+    "code": "za",
+    "continent": "Africa",
+    "name": "South Africa",
+    "flagCharacteristics": [
+      "Red",
+      "Blue",
+      "Green",
+      "Black",
+      "White",
+      "Yellow",
+      "Y-shape",
+      "Horizontal Bands"
+    ],
+    "threeLetterCode": "ZAF"
+  },
+  {
+    "capital": "King Edward Point",
+    "code": "gs",
+    "continent": "Antarctica",
+    "name": "South Georgia and the South Sandwich Islands",
+    "flagCharacteristics": []
+  },
+  {
+    "capital": "Seoul",
+    "code": "kr",
+    "continent": "Asia",
+    "name": "South Korea",
+    "flagCharacteristics": [
+      "White",
+      "Red",
+      "Blue",
+      "Black",
+      "Yin-Yang",
+      "Trigrams",
+      "Geometric Pattern"
+    ],
+    "threeLetterCode": "KOR"
+  },
+  {
+    "capital": "Juba",
+    "code": "ss",
+    "continent": "Africa",
+    "name": "South Sudan",
+    "flagCharacteristics": [
+      "Black",
+      "Red",
+      "Green",
+      "White",
+      "Blue",
+      "Yellow",
+      "Star(s)",
+      "Pan-African Colors"
+    ],
+    "threeLetterCode": "SSD"
+  },
+  {
+    "capital": "Madrid",
+    "code": "es",
+    "continent": "Europe",
+    "name": "Spain",
+    "flagCharacteristics": [
+      "Horizontal Bands",
+      "Red",
+      "Yellow",
+      "Red",
+      "Coat of Arms",
+      "Shield",
+      "Pillars",
+      "Crown",
+      "Motto"
+    ],
+    "threeLetterCode": "ESP"
+  },
+  {
+    "capital": "Sri Jayawardenepura Kotte, Colombo",
+    "code": "lk",
+    "continent": "Asia",
+    "name": "Sri Lanka",
+    "flagCharacteristics": [
+      "Yellow",
+      "Green",
+      "Orange",
+      "Maroon",
+      "Sword",
+      "Lion",
+      "Leaf",
+      "Weapon",
+      "Animal",
+      "Plant",
+      "Buddhist Symbolism"
+    ],
+    "threeLetterCode": "LKA"
+  },
+  {
+    "capital": "Ramallah",
+    "code": "ps",
+    "continent": "Asia",
+    "name": "State of Palestine",
+    "flagCharacteristics": [
+      "Horizontal Triband",
+      "Black",
+      "White",
+      "Green",
+      "Red Triangle",
+      "Pan-Arab Colors"
+    ],
+    "threeLetterCode": "PSE"
+  },
+  {
+    "capital": "Khartoum",
+    "code": "sd",
+    "continent": "Africa",
+    "name": "Sudan",
+    "flagCharacteristics": [
+      "Horizontal Triband",
+      "Red",
+      "White",
+      "Black",
+      "Green",
+      "Triangle",
+      "Pan-Arab Colors"
+    ],
+    "threeLetterCode": "SDN"
+  },
+  {
+    "capital": "Paramaribo",
+    "code": "sr",
+    "continent": "South America",
+    "name": "Suriname",
+    "flagCharacteristics": [
+      "Horizontal Bands",
+      "Green",
+      "White",
+      "Red",
+      "Yellow",
+      "Star(s)",
+      "Pan-African Colors"
+    ],
+    "threeLetterCode": "SUR"
+  },
+  {
+    "capital": "Longyearbyen",
+    "code": "sj",
+    "continent": "Europe",
+    "name": "Svalbard and Jan Mayen",
+    "flagCharacteristics": []
+  },
+  {
+    "capital": "Stockholm",
+    "code": "se",
+    "continent": "Europe",
+    "name": "Sweden",
+    "flagCharacteristics": ["Blue", "Yellow", "Scandinavian Cross"],
+    "threeLetterCode": "SWE"
+  },
+  {
+    "capital": "Bern",
+    "code": "ch",
+    "continent": "Europe",
+    "name": "Switzerland",
+    "flagCharacteristics": ["Red", "White", "Cross"],
+    "threeLetterCode": "CHE"
+  },
+  {
+    "capital": "Damascus",
+    "code": "sy",
+    "continent": "Asia",
+    "name": "Syria",
+    "flagCharacteristics": [
+      "Horizontal Triband",
+      "Red",
+      "White",
+      "Black",
+      "Star(s)",
+      "Pan-Arab Colors"
+    ],
+    "threeLetterCode": "SYR"
+  },
+  {
+    "capital": "Taipei",
+    "code": "tw",
+    "continent": "Asia",
+    "name": "Taiwan",
+    "flagCharacteristics": ["Red", "Blue", "White", "Sun", "Coat of Arms"],
+    "threeLetterCode": "TWN"
+  },
+  {
+    "capital": "Dushanbe",
+    "code": "tj",
+    "continent": "Asia",
+    "name": "Tajikistan",
+    "flagCharacteristics": [
+      "Red",
+      "White",
+      "Green",
+      "Yellow",
+      "Crown",
+      "Star(s)",
+      "Emblem"
+    ],
+    "threeLetterCode": "TJK"
+  },
+  {
+    "capital": "Dodoma",
+    "code": "tz",
+    "continent": "Africa",
+    "name": "Tanzania",
+    "flagCharacteristics": [
+      "Diagonal Band",
+      "Green",
+      "Yellow",
+      "Black",
+      "Blue",
+      "Pan-African Colors"
+    ],
+    "threeLetterCode": "TZA"
+  },
+  {
+    "capital": "Bangkok",
+    "code": "th",
+    "continent": "Asia",
+    "name": "Thailand",
+    "flagCharacteristics": [
+      "Horizontal Triband",
+      "Red",
+      "White",
+      "Blue",
+      "Blue"
+    ],
+    "threeLetterCode": "THA"
+  },
+  {
+    "capital": "Dili",
+    "code": "tl",
+    "continent": "Asia",
+    "name": "Timor-Leste",
+    "flagCharacteristics": [
+      "Red",
+      "Yellow",
+      "Black",
+      "White",
+      "Star(s)",
+      "Triangle"
+    ],
+    "threeLetterCode": "TLS"
+  },
+  {
+    "capital": "Lomé",
+    "code": "tg",
+    "continent": "Africa",
+    "name": "Togo",
+    "flagCharacteristics": [
+      "Horizontal Bands",
+      "Green",
+      "Yellow",
+      "Red",
+      "White",
+      "Star(s)",
+      "Pan-African Colors"
+    ],
+    "threeLetterCode": "TGO"
+  },
+  {
+    "capital": "Nukunonu, Atafu,Tokelau",
+    "code": "tk",
+    "continent": "Oceania",
+    "name": "Tokelau",
+    "flagCharacteristics": []
+  },
+  {
+    "capital": "Nukuʻalofa",
+    "code": "to",
+    "continent": "Oceania",
+    "name": "Tonga",
+    "flagCharacteristics": ["Red", "White", "Cross"],
+    "threeLetterCode": "TON"
+  },
+  {
+    "capital": "Port of Spain",
+    "code": "tt",
+    "continent": "South America",
+    "name": "Trinidad and Tobago",
+    "flagCharacteristics": ["Red", "Black", "White", "Diagonal Band"],
+    "threeLetterCode": "TTO"
+  },
+  {
+    "capital": "Edinburgh of the Seven Seas",
+    "code": "sh-ta",
+    "continent": "Africa",
+    "name": "Tristan da Cunha",
+    "flagCharacteristics": []
+  },
+  {
+    "capital": "Tunis",
+    "code": "tn",
+    "continent": "Africa",
+    "name": "Tunisia",
+    "flagCharacteristics": [
+      "Red",
+      "White",
+      "Circle",
+      "Crescent and Star",
+      "Islamic Symbolism"
+    ],
+    "threeLetterCode": "TUN"
+  },
+  {
+    "capital": "Ashgabat",
+    "code": "tm",
+    "continent": "Asia",
+    "name": "Turkmenistan",
+    "flagCharacteristics": [
+      "Green",
+      "White",
+      "Red",
+      "Crescent",
+      "Star(s)",
+      "Carpet Pattern",
+      "Emblem"
+    ],
+    "threeLetterCode": "TKM"
+  },
+  {
+    "capital": "Cockburn Town",
+    "code": "tc",
+    "continent": "North America",
+    "name": "Turks and Caicos Islands",
+    "flagCharacteristics": []
+  },
+  {
+    "capital": "Funafuti",
+    "code": "tv",
+    "continent": "Oceania",
+    "name": "Tuvalu",
+    "flagCharacteristics": ["Blue", "Union Jack", "Yellow", "Star(s)"],
+    "threeLetterCode": "TUV"
+  },
+  {
+    "capital": "Ankara",
+    "code": "tr",
+    "continent": "Asia",
+    "name": "Türkiye",
+    "flagCharacteristics": [
+      "Red",
+      "White",
+      "Crescent and Star",
+      "Islamic Symbolism"
+    ],
+    "threeLetterCode": "TUR"
+  },
+  {
+    "capital": "Kampala",
+    "code": "ug",
+    "continent": "Africa",
+    "name": "Uganda",
+    "flagCharacteristics": [
+      "Black",
+      "Yellow",
+      "Red",
+      "White",
+      "Grey Crowned Crane",
+      "Bird",
+      "Pan-African Colors"
+    ],
+    "threeLetterCode": "UGA"
+  },
+  {
+    "capital": "Kiev",
+    "code": "ua",
+    "continent": "Europe",
+    "name": "Ukraine",
+    "flagCharacteristics": ["Horizontal Bicolor", "Blue", "Yellow"],
+    "threeLetterCode": "UKR"
+  },
+  {
+    "capital": "Abu Dhabi",
+    "code": "ae",
+    "continent": "Asia",
+    "name": "United Arab Emirates",
+    "flagCharacteristics": [
+      "Horizontal Triband",
+      "Green",
+      "White",
+      "Black",
+      "Red",
+      "Vertical Band",
+      "Pan-Arab Colors"
+    ],
+    "threeLetterCode": "ARE"
+  },
+  {
+    "capital": "London",
+    "code": "gb",
+    "continent": "Europe",
+    "name": "United Kingdom",
+    "flagCharacteristics": [
+      "Blue",
+      "Red",
+      "White",
+      "Cross",
+      "Saltire",
+      "Union Jack"
+    ],
+    "threeLetterCode": "GBR"
+  },
+  {
+    "code": "un",
+    "name": "United Nations",
+    "flagCharacteristics": []
+  },
+  {
+    "capital": "Washington, D.C.",
+    "code": "um",
+    "continent": "North America",
+    "name": "United States Minor Outlying Islands",
+    "flagCharacteristics": []
+  },
+  {
+    "capital": "Washington, D.C.",
+    "code": "us",
+    "continent": "North America",
+    "name": "United States of America",
+    "flagCharacteristics": [
+      "Red",
+      "White",
+      "Blue",
+      "Stars and Stripes",
+      "Star(s)",
+      "Stripes"
+    ],
+    "threeLetterCode": "USA"
+  },
+  {
+    "code": "xx",
+    "name": "Unknown",
+    "flagCharacteristics": []
+  },
+  {
+    "capital": "Montevideo",
+    "code": "uy",
+    "continent": "South America",
+    "name": "Uruguay",
+    "flagCharacteristics": [
+      "Horizontal Bands",
+      "White",
+      "Blue",
+      "Yellow",
+      "Sun",
+      "Sun of May"
+    ],
+    "threeLetterCode": "URY"
+  },
+  {
+    "capital": "Tashkent",
+    "code": "uz",
+    "continent": "Asia",
+    "name": "Uzbekistan",
+    "flagCharacteristics": [
+      "Blue",
+      "White",
+      "Green",
+      "Red",
+      "Crescent",
+      "Star(s)",
+      "Islamic Symbolism"
+    ],
+    "threeLetterCode": "UZB"
+  },
+  {
+    "capital": "Port Vila",
+    "code": "vu",
+    "continent": "Oceania",
+    "name": "Vanuatu",
+    "flagCharacteristics": [
+      "Red",
+      "Green",
+      "Black",
+      "Yellow",
+      "White",
+      "Black",
+      "Y-shape",
+      "Tusk",
+      "Leaves",
+      "Emblem"
+    ],
+    "threeLetterCode": "VUT"
+  },
+  {
+    "capital": "Caracas",
+    "code": "ve",
+    "continent": "South America",
+    "name": "Venezuela",
+    "flagCharacteristics": [
+      "Horizontal Triband",
+      "Yellow",
+      "Blue",
+      "Red",
+      "Star(s)",
+      "Coat of Arms",
+      "Horse",
+      "Weapon",
+      "Motto"
+    ],
+    "threeLetterCode": "VEN"
+  },
+  {
+    "capital": "Hanoi",
+    "code": "vn",
+    "continent": "Asia",
+    "name": "Vietnam",
+    "flagCharacteristics": ["Red", "Yellow", "Star(s)"],
+    "threeLetterCode": "VNM"
+  },
+  {
+    "capital": "Road Town",
+    "code": "vg",
+    "continent": "North America",
+    "name": "Virgin Islands (British)",
+    "flagCharacteristics": []
+  },
+  {
+    "capital": "Charlotte Amalie",
+    "code": "vi",
+    "continent": "North America",
+    "name": "Virgin Islands (U.S.)",
+    "flagCharacteristics": []
+  },
+  {
+    "capital": "Cardiff",
+    "code": "gb-wls",
+    "continent": "Europe",
+    "name": "Wales",
+    "flagCharacteristics": []
+  },
+  {
+    "capital": "Mata-Utu",
+    "code": "wf",
+    "continent": "Oceania",
+    "name": "Wallis and Futuna",
+    "flagCharacteristics": []
+  },
+  {
+    "capital": "Laayoune",
+    "code": "eh",
+    "continent": "Africa",
+    "name": "Western Sahara",
+    "flagCharacteristics": []
+  },
+  {
+    "capital": "Sana'a",
+    "code": "ye",
+    "continent": "Asia",
+    "name": "Yemen",
+    "flagCharacteristics": [
+      "Horizontal Triband",
+      "Red",
+      "White",
+      "Black",
+      "Pan-Arab Colors"
+    ],
+    "threeLetterCode": "YEM"
+  },
+  {
+    "capital": "Lusaka",
+    "code": "zm",
+    "continent": "Africa",
+    "name": "Zambia",
+    "flagCharacteristics": [
+      "Green",
+      "Red",
+      "Black",
+      "Orange",
+      "Eagle",
+      "Bird",
+      "Vertical Band",
+      "Pan-African Colors"
+    ],
+    "threeLetterCode": "ZMB"
+  },
+  {
+    "capital": "Harare",
+    "code": "zw",
+    "continent": "Africa",
+    "name": "Zimbabwe",
+    "flagCharacteristics": [
+      "Green",
+      "Yellow",
+      "Red",
+      "Black",
+      "White",
+      "Triangle",
+      "Star(s)",
+      "Bird",
+      "Pan-African Colors"
+    ],
+    "threeLetterCode": "ZWE"
+  }
+]

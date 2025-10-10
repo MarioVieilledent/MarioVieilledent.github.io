@@ -314,7 +314,7 @@
     "ranking": 8.5,
     "pictures": ["American_meal_plate.jpg", "American_meal_table.jpg"],
     "en": {
-      "name": "Smash Burger, Fries and Homemade Mayo",
+      "name": "Smash burger, fries and homemade mayo",
       "country": "American meal",
       "idea": [
         "Since I'm too lazy to cook something serious, and I want something hearty and good, a good American burger will be perfect. Plus I tested a promising homemade mayo from Etchebest, and I want to try a smash burger.",
@@ -347,7 +347,7 @@
       ]
     },
     "fr": {
-      "name": "Smash Burger, Frites et Mayonnaise Maison",
+      "name": "Smash burger, frites et mayonnaise maison",
       "country": "Repas Américain",
       "idea": [
         "Vu que j'ai la flemme de cuisiner un truc sérieux, que je veux du gars et du bon, un bon burger américain sera parfait. En plus j'ai testé une mayo maison prometteuse d'Etchebest, et j'ai envie de tester un smash burger.",
@@ -380,7 +380,7 @@
       ]
     },
     "it": {
-      "name": "Smash Burger, Patatine Fritte e Maionese Fatta in Casa",
+      "name": "Smash burger, patatine fritte e maionese fatta in casa",
       "country": "Pasto Americano",
       "idea": [
         "Dato che sono troppo pigro per cucinare qualcosa di serio, e voglio qualcosa di sostanzioso e buono, un buon hamburger americano sarà perfetto. Inoltre ho testato una promettente maionese fatta in casa di Etchebest, e voglio provare uno smash burger.",
@@ -523,7 +523,11 @@
     "countryCode": "eu",
     "date": "2025-10-09",
     "ranking": 9.25,
-    "pictures": ["European_meal_table.jpg", "European_meal_dish.jpg"],
+    "pictures": [
+      "European_meal_table.jpg",
+      "European_meal_dish.jpg",
+      "torta_della_nonna.jpg"
+    ],
     "en": {
       "name": "Vegetable broth, rib-eye with pepper sauce, fries, and torta della nonna",
       "country": "European Meal",

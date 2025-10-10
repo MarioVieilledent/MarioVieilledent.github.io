@@ -1,6 +1,6 @@
 import React, { useCallback, useState, type Dispatch } from "react";
-import { fitToJSON } from "../utils/garminUtils";
-import { useTranslation } from "../utils/TranslationContext";
+import { fitToJSON } from "../../utils/garminUtils";
+import { useTranslation } from "../../utils/TranslationContext";
 
 const DragAndDrop = ({
   setFitFile,

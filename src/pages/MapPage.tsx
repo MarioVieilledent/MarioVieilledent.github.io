@@ -1,4 +1,4 @@
-import MapLayer from "../components/MapLayer";
+import MapLayer from "../components/mapPage/MapLayer";
 import Menu from "../components/Menu";
 
 const MapPage = () => {

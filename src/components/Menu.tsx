@@ -30,6 +30,27 @@ const Menu = () => {
         <LanguageSelection />
         <a
           className="flex items-center gap-2 cursor-pointer"
+          onClick={() => navigate("recipes")}
+        >
+          <LuNotebookText size="24" />
+          {t("recipes")}
+        </a>
+        {/* <a
+          className="flex items-center gap-2 cursor-pointer"
+          onClick={() => navigate("flags")}
+        >
+          <LuFlag size="24" />
+          {t("flags")}
+        </a> */}
+        <a
+          className="flex items-center gap-2 cursor-pointer"
+          onClick={() => navigate("learn")}
+        >
+          <LuSchool size="24" />
+          {t("learnNorwegian")}
+        </a>
+        <a
+          className="flex items-center gap-2 cursor-pointer"
           href="https://github.com/MarioVieilledent/MarioVieilledent.github.io"
           target="_blank"
         >
@@ -43,20 +64,6 @@ const Menu = () => {
         >
           <LuBook size="24" />
           Industrial Society and Its Future
-        </a>
-        <a
-          className="flex items-center gap-2 cursor-pointer"
-          onClick={() => navigate("recipes")}
-        >
-          <LuNotebookText size="24" />
-          {t("recipes")}
-        </a>
-        <a
-          className="flex items-center gap-2 cursor-pointer"
-          onClick={() => navigate("learn")}
-        >
-          <LuSchool size="24" />
-          {t("learnNorwegian")}
         </a>
       </div>
     </Float>

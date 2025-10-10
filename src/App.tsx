@@ -5,6 +5,7 @@ import LearnNorwegian from "./pages/LearnNorwegian";
 import MapPage from "./pages/MapPage";
 import Recipes from "./pages/Recipes";
 import NotFound from "./pages/NotFound";
+import Flags from "./pages/Flags";
 
 const DEFAULT_PAGE = "home";
 
@@ -30,6 +31,7 @@ const App = () => {
       <Routes>
         <Route index element={<MapPage />} />
         <Route path="recipes/*" element={<Recipes />} />
+        <Route path="flags" element={<Flags />}></Route>
         <Route path="learn" element={<LearnNorwegian />}></Route>
         <Route path="*" element={<NotFound />} />
       </Routes>

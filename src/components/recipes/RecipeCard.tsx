@@ -1,8 +1,8 @@
 import { useNavigate } from "react-router";
-import { useIsMobile } from "../utils/isMobileHook";
-import { useTranslation } from "../utils/TranslationContext";
-import { RECIPES_PATH } from "../utils/routes";
-import type { Recipe, RecipeDetails } from "../utils/validator";
+import { useIsMobile } from "../../utils/isMobileHook";
+import { useTranslation } from "../../utils/TranslationContext";
+import { RECIPES_PATH } from "../../utils/routes";
+import type { Recipe, RecipeDetails } from "../../utils/validator";
 
 const RecipeCard = ({ recipe }: { recipe: Recipe }) => {
   const { language } = useTranslation();
@@ -14,7 +14,7 @@ const RecipeCard = ({ recipe }: { recipe: Recipe }) => {
     : recipe.en;
 
   return (
-    <div className={isMobile ? "flex flex-col gap-4" : "flex gap-4 w-full"}>
+    <div className={isMobile ? "flex flex-col gap-4" : "flex gap-8 w-full"}>
       {recipe.pictures.length > 0 ? (
         <img
           src={`/food/${recipe.pictures[0]}`}
@@ -28,7 +28,11 @@ const RecipeCard = ({ recipe }: { recipe: Recipe }) => {
           className="w-64 h-64 self-center"
         />
       )}
-      <div className="flex flex-col gap-2 p-4">
+      <div
+        className={
+          isMobile ? "flex flex-col gap-2 px-4" : "flex flex-col gap-2"
+        }
+      >
         <div
           className="flex items-center gap-4 cursor-pointer hover:underline"
           onClick={() =>

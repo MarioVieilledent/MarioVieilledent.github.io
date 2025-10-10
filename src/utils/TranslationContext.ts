@@ -1,8 +1,7 @@
 import { createContext, useContext } from "react";
 import { translations } from "./translations";
-import { languages } from "./constants";
 
-export type LanguagesAvailable = "en" | "nb" | "fr" | "it" | "ja" | "zh";
+export type LanguagesAvailable = "en" | "fr" | "it" | "es" | "nb" | "ja" | "zh";
 
 export type TermKeys = keyof typeof translations;
 
@@ -30,3 +29,53 @@ export const useTranslation = () => {
 
   return { t, language, setLanguage };
 };
+
+export const languages: {
+  code: LanguagesAvailable;
+  countryCode: string;
+  name: string;
+  index: number;
+}[] = [
+  {
+    code: "en",
+    countryCode: "gb",
+    name: "English",
+    index: 0,
+  },
+  {
+    code: "fr",
+    countryCode: "fr",
+    name: "Français",
+    index: 1,
+  },
+  {
+    code: "it",
+    countryCode: "it",
+    name: "Italiano",
+    index: 2,
+  },
+  {
+    code: "es",
+    countryCode: "es",
+    name: "Español",
+    index: 3,
+  },
+  {
+    code: "nb",
+    countryCode: "no",
+    name: "Norsk",
+    index: 4,
+  },
+  {
+    code: "ja",
+    countryCode: "jp",
+    name: "日本語",
+    index: 5,
+  },
+  {
+    code: "zh",
+    countryCode: "cn",
+    name: "中文",
+    index: 6,
+  },
+];

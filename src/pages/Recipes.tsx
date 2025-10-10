@@ -3,17 +3,18 @@ import Home from "../components/Home";
 import LanguageSelection from "../components/LanguageSelection";
 import { useTranslation } from "../utils/TranslationContext";
 import websiteLogo from "/favicon.png";
-import FeastCard from "../components/FeastCard";
 import { Route, Routes, useLocation, useNavigate } from "react-router";
-import RecipeCard from "../components/RecipeCard";
 import { useIsMobile } from "../utils/isMobileHook";
-import RecipeDisplay from "../components/RecipeDisplay";
 import { RECIPES_PATH } from "../utils/routes";
 import NotFound from "./NotFound";
-import FeastDisplay from "../components/FeastDisplay";
 import { feast, recipe, type Feast, type Recipe } from "../utils/validator";
 import NavigateTo from "../components/NavigateTo";
 import z from "zod";
+import FeastCard from "../components/recipes/FeastCard";
+import FeastDisplay from "../components/recipes/FeastDisplay";
+import RecipeCard from "../components/recipes/RecipeCard";
+import RecipeDisplay from "../components/recipes/RecipeDisplay";
+import PageWrapper from "../components/PageWrapper";
 
 const REGEX_PATH = /\/recipes\/(.*)\/(.*)/;
 
@@ -72,11 +73,7 @@ const Recipes = () => {
   }, []);
 
   return (
-    <div
-      className={
-        isMobile ? "flex flex-col" : "flex flex-col max-w-4xl mx-auto gap-8"
-      }
-    >
+    <PageWrapper>
       {isMobile ? (
         <div className="flex gap-8 p-2 justify-between items-center">
           {element ? (
@@ -200,7 +197,7 @@ const Recipes = () => {
           />
         </Routes>
       </div>
-    </div>
+    </PageWrapper>
   );
 };
 

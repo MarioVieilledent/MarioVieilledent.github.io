@@ -1,9 +1,9 @@
 import { useState } from "react";
 import {
+  languages,
   useTranslation,
   type LanguagesAvailable,
 } from "../utils/TranslationContext";
-import { languages } from "../utils/constants";
 import { LuLanguages } from "react-icons/lu";
 import { useIsMobile } from "../utils/isMobileHook";
 
@@ -29,7 +29,7 @@ const LanguageSelection = () => {
       {open && (
         <ul
           role="listbox"
-          className="absolute z-10 mt-1 max-h-60 overflow-auto rounded border border-gray-300 bg-white shadow-lg"
+          className="absolute z-10 mt-1 max-h-120 overflow-auto rounded border border-gray-300 bg-white shadow-lg"
         >
           {languages.map((lang) => (
             <li

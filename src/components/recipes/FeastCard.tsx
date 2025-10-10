@@ -1,9 +1,9 @@
 import { useNavigate } from "react-router";
-import { useIsMobile } from "../utils/isMobileHook";
-import { RECIPES_PATH } from "../utils/routes";
-import { useTranslation } from "../utils/TranslationContext";
-import { formatDate } from "../utils/utils";
-import type { Feast, FeastDetails } from "../utils/validator";
+import { useIsMobile } from "../../utils/isMobileHook";
+import { RECIPES_PATH } from "../../utils/routes";
+import { useTranslation } from "../../utils/TranslationContext";
+import { formatDate } from "../../utils/utils";
+import type { Feast, FeastDetails } from "../../utils/validator";
 
 const FeastCard = ({ feast }: { feast: Feast }) => {
   const { language } = useTranslation();
@@ -15,7 +15,7 @@ const FeastCard = ({ feast }: { feast: Feast }) => {
     : feast.en;
 
   return (
-    <div className={isMobile ? "flex flex-col fap-4" : "flex gap-4 w-full"}>
+    <div className={isMobile ? "flex flex-col gap-4" : "flex gap-8 w-full"}>
       {feast.pictures.length > 0 ? (
         <img
           src={`/food/${feast.pictures[0]}`}
@@ -29,7 +29,11 @@ const FeastCard = ({ feast }: { feast: Feast }) => {
           className="w-32 h-32"
         />
       )}
-      <div className="flex flex-col gap-2 p-4">
+      <div
+        className={
+          isMobile ? "flex flex-col gap-2 px-4" : "flex flex-col gap-2"
+        }
+      >
         <div
           className="flex items-center gap-4 cursor-pointer hover:underline"
           onClick={() => navigate(`${RECIPES_PATH}/feasts/${feast.id}`)}
