@@ -520,7 +520,7 @@
   {
     "mealNumber": 5,
     "id": "europeanMeal",
-    "countryCode": "",
+    "countryCode": "eu",
     "date": "2025-10-09",
     "ranking": 9.25,
     "pictures": ["European_meal_table.jpg", "European_meal_dish.jpg"],
