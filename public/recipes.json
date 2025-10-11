@@ -67,7 +67,9 @@
   {
     "category": "riceAndPasta",
     "id": "pilafRice",
-    "pictures": ["riz_pilaf.jpg"],
+    "pictures": [
+      "riz_pilaf.jpg"
+    ],
     "en": {
       "name": "Spiced pilaf rice with meat",
       "ingredients": [
@@ -144,7 +146,9 @@
   {
     "category": "riceAndPasta",
     "id": "freshPasta",
-    "pictures": ["pates_fraiches.jpg"],
+    "pictures": [
+      "pates_fraiches.jpg"
+    ],
     "en": {
       "name": "Homemade fresh pasta with hand crank",
       "notes": "Allows eating 1 egg per person without overcooking the egg, so very healthy and without the taste of the egg being too pronounced.",
@@ -200,7 +204,9 @@
   {
     "category": "riceAndPasta",
     "id": "risottoSpaghetti",
-    "pictures": ["spaghetti_risottatura.jpg"],
+    "pictures": [
+      "spaghetti_risottatura.jpg"
+    ],
     "en": {
       "name": "Risotto-style Spaghetti",
       "notes": "A humble Italian technique for tastier and creamier spaghetti. It's a real upgrade for spaghetti lovers, especially those who enjoy garlic. You can also adapt the method using meat or fish juices left in a hot pan.",
@@ -269,7 +275,9 @@
   {
     "category": "meatAndFish",
     "id": "salmonFillets",
-    "pictures": ["patates_rissolees_et_filets_saumon.jpg"],
+    "pictures": [
+      "patates_rissolees_et_filets_saumon.jpg"
+    ],
     "en": {
       "name": "Oven-baked Salmon Fillets",
       "notes": "Already a very good recipe, but can be refined and perfected. I like to serve it with spaghetti — even better when cooked risotto-style.",
@@ -342,7 +350,9 @@
   {
     "category": "doughAndBread",
     "id": "baguette",
-    "pictures": ["baguettes.jpg"],
+    "pictures": [
+      "baguettes.jpg"
+    ],
     "en": {
       "name": "Baguette",
       "notes": "Be careful — a rare recipe that truly reaches S Tier, if not God Tier. Incredibly simple, very cheap, and requires very little active time. The 4 ingredients symbolize the 4 elements: flour for earth, water, yeast for air, and salt for fire. Source: https://www.youtube.com/watch?v=Z-husjZkxHw",
@@ -422,157 +432,10 @@
   },
   {
     "category": "doughAndBread",
-    "id": "burgerBuns",
-    "pictures": ["burger_dish.jpg"],
-    "en": {
-      "name": "Burger Buns",
-      "notes": "Makes 8 buns",
-      "ingredients": [
-        {
-          "part": "Dough",
-          "ingredients": [
-            "500 g flour",
-            "10 g salt",
-            "25 g sugar",
-            "1 whole egg",
-            "250 ml whole milk",
-            "40 g unsalted butter",
-            "7 g dry yeast"
-          ]
-        },
-        {
-          "part": "Egg wash",
-          "ingredients": ["1 egg yolk", "1 tablespoon milk", "Sesame seeds"]
-        }
-      ],
-      "instructions": [
-        "Yeast: Mix the yeast with lukewarm (not hot) milk and sugar. Let it foam for 10 minutes.",
-        "Kneading: In a mixer (or by hand), combine flour and salt. Add the yeast mixture with milk and egg. Knead for 5 minutes.",
-        "Incorporate butter: Add softened butter in pieces and knead for another 10 minutes until the dough becomes smooth, elastic, and pulls away from the bowl.",
-        "First rise: Cover with a cloth and let rise for 1.5-2 hours (the dough should double in size).",
-        "Shaping: Degas the dough, divide into 8 portions (~100 g each). Shape into balls and place on a baking tray lined with parchment paper. Flatten slightly.",
-        "Second rise: Cover and let rise for 45-60 minutes.",
-        "Egg wash: Brush with a mix of egg yolk and milk. Sprinkle sesame seeds if desired.",
-        "Baking: Preheat oven to 180°C (fan mode). Bake for 15-18 minutes until golden brown.",
-        "Cooling: Let cool on a wire rack to prevent moisture buildup.",
-        "Tip: Lightly toast the buns in a pan with a bit of butter before assembling → crispy outside, soft inside, restaurant quality."
-      ]
-    },
-    "fr": {
-      "name": "Pains à burger",
-      "notes": "Pour 8 buns",
-      "ingredients": [
-        {
-          "part": "Pâte",
-          "ingredients": [
-            "500 g farine",
-            "10 g sel",
-            "25 g sucre",
-            "1 oeuf entier",
-            "250 ml lait entier",
-            "40 g beurre doux",
-            "7 g levure sèche"
-          ]
-        },
-        {
-          "part": "Dorure",
-          "ingredients": [
-            "1 jaune d'oeuf",
-            "1 cuillère à soupe de lait",
-            "Graines de sésames"
-          ]
-        }
-      ],
-      "instructions": [
-        "Levure : Mélanger la levure avec le lait tiède (pas chaud) et le sucre. Laisser mousser 10 min.",
-        "Pétrissage : Dans un robot (ou à la main), mélanger farine et sel. Ajouter le mélange levure + lait + œuf. Pétrir 5 min.",
-        "Incorporation du beurre : Ajouter le beurre ramolli en morceaux et pétrir encore 10 min jusqu'à obtenir une pâte lisse, élastique et qui se décolle des parois.",
-        "1ère pousse : Couvrir d'un linge et laisser lever 1h30-2h (la pâte doit doubler de volume).",
-        "Façonnage : Dégazer, diviser en 8 portions (~100 g chacune). Bouler et déposer sur une plaque recouverte de papier cuisson. Aplatir légèrement.",
-        "2ème pousse : Couvrir et laisser lever 45-60 min.",
-        "Dorure : Badigeonner de jaune d'œuf mélangé avec un peu de lait. Parsemer de graines de sésame si souhaité.",
-        "Cuisson : Four préchauffé à 180 °C chaleur tournante. Cuire 15-18 min, jusqu'à ce que les pains soient dorés.",
-        "Refroidissement : Laisser refroidir sur grille pour éviter l'humidité.",
-        "Astuce : toaster légèrement les pains à la poêle avec un peu de beurre juste avant le montage → croustillant à l'extérieur, fondant à l'intérieur, comme au restaurant."
-      ]
-    },
-    "it": {
-      "name": "Panini per hamburger",
-      "notes": "Per 8 panini",
-      "ingredients": [
-        {
-          "part": "Impasto",
-          "ingredients": [
-            "500 g farina",
-            "10 g sale",
-            "25 g zucchero",
-            "1 uovo intero",
-            "250 ml latte intero",
-            "40 g burro morbido",
-            "7 g lievito secco"
-          ]
-        },
-        {
-          "part": "Doratura",
-          "ingredients": [
-            "1 tuorlo d'uovo",
-            "1 cucchiaio di latte",
-            "Semi di sesamo"
-          ]
-        }
-      ],
-      "instructions": [
-        "Lievito: Mescolare il lievito con il latte tiepido (non caldo) e lo zucchero. Lasciare riposare per 10 minuti finché fa schiuma.",
-        "Impasto: In una planetaria (o a mano), mescolare farina e sale. Aggiungere il composto di lievito, latte e uovo. Impastare per 5 minuti.",
-        "Incorporare il burro: Aggiungere il burro ammorbidito a pezzi e impastare per altri 10 minuti fino a ottenere un impasto liscio, elastico e che si stacca dalle pareti.",
-        "Prima lievitazione: Coprire con un panno e lasciare lievitare per 1,5-2 ore (l'impasto deve raddoppiare di volume).",
-        "Formatura: Sgonfiare, dividere in 8 porzioni (~100 g ciascuna). Formare delle palline e disporle su una teglia con carta da forno. Appiattire leggermente.",
-        "Seconda lievitazione: Coprire e lasciare lievitare per 45-60 minuti.",
-        "Doratura: Spennellare con il tuorlo d'uovo mescolato con un po' di latte. Cospargere di semi di sesamo se desiderato.",
-        "Cottura: Forno preriscaldato a 180°C ventilato. Cuocere per 15-18 minuti finché i panini sono dorati.",
-        "Raffreddamento: Lasciare raffreddare su una griglia per evitare umidità.",
-        "Consiglio: Tostare leggermente i panini in padella con un po' di burro prima di assemblare → croccanti fuori, morbidi dentro, come al ristorante."
-      ]
-    },
-    "nb": {
-      "name": "Burgerbrød",
-      "notes": "Gir 8 boller",
-      "ingredients": [
-        {
-          "part": "Deig",
-          "ingredients": [
-            "500 g mel",
-            "10 g salt",
-            "25 g sukker",
-            "1 helt egg",
-            "250 ml helmelk",
-            "40 g usaltet smør",
-            "7 g tørrgjær"
-          ]
-        },
-        {
-          "part": "Pensling",
-          "ingredients": ["1 eggeplomme", "1 spiseskje melk", "Sesamfrø"]
-        }
-      ],
-      "instructions": [
-        "Gjær: Bland gjæren med lunken (ikke varm) melk og sukker. La det stå i 10 minutter til det skummer.",
-        "Elting: I en kjøkkenmaskin (eller for hånd), bland mel og salt. Tilsett gjærblandingen med melk og egg. Elt i 5 minutter.",
-        "Tilsett smør: Tilsett mykt smør i biter og elt i ytterligere 10 minutter til deigen er glatt, elastisk og slipper bollen.",
-        "Første heving: Dekk til med et klede og la heve i 1,5-2 timer (deigen skal dobles i størrelse).",
-        "Forming: Slå ut luften, del i 8 emner (~100 g hver). Form boller og legg på bakepapirkledd stekebrett. Trykk dem lett flate.",
-        "Andre heving: Dekk til og la heve i 45-60 minutter.",
-        "Pensling: Pensle med en blanding av eggeplomme og melk. Dryss med sesamfrø hvis ønskelig.",
-        "Steking: Forvarm ovnen til 180°C varmluft. Stek i 15-18 minutter til de er gyldne.",
-        "Avkjøling: Avkjøl på rist for å unngå fuktighet.",
-        "Tips: Rist brødene lett i stekepanne med litt smør før montering → sprø utenpå, myke inni, som på restaurant."
-      ]
-    }
-  },
-  {
-    "category": "doughAndBread",
     "id": "lavashBread",
-    "pictures": [],
+    "pictures": [
+      "lavash_bread.jpg"
+    ],
     "en": {
       "name": "Oriental Flatbread \"Lavash\"",
       "notes": "Turkish/Armenian flatbread cooked in a pan, similar to Indian naan. Recipe from Hungry Man Kitchen (YouTube).",
@@ -752,8 +615,169 @@
   },
   {
     "category": "doughAndBread",
+    "id": "burgerBuns",
+    "pictures": [
+      "burger_dish.jpg"
+    ],
+    "en": {
+      "name": "Burger Buns",
+      "notes": "Makes 8 buns",
+      "ingredients": [
+        {
+          "part": "Dough",
+          "ingredients": [
+            "500 g flour",
+            "10 g salt",
+            "25 g sugar",
+            "1 whole egg",
+            "250 ml whole milk",
+            "40 g unsalted butter",
+            "7 g dry yeast"
+          ]
+        },
+        {
+          "part": "Egg wash",
+          "ingredients": [
+            "1 egg yolk",
+            "1 tablespoon milk",
+            "Sesame seeds"
+          ]
+        }
+      ],
+      "instructions": [
+        "Yeast: Mix the yeast with lukewarm (not hot) milk and sugar. Let it foam for 10 minutes.",
+        "Kneading: In a mixer (or by hand), combine flour and salt. Add the yeast mixture with milk and egg. Knead for 5 minutes.",
+        "Incorporate butter: Add softened butter in pieces and knead for another 10 minutes until the dough becomes smooth, elastic, and pulls away from the bowl.",
+        "First rise: Cover with a cloth and let rise for 1.5-2 hours (the dough should double in size).",
+        "Shaping: Degas the dough, divide into 8 portions (~100 g each). Shape into balls and place on a baking tray lined with parchment paper. Flatten slightly.",
+        "Second rise: Cover and let rise for 45-60 minutes.",
+        "Egg wash: Brush with a mix of egg yolk and milk. Sprinkle sesame seeds if desired.",
+        "Baking: Preheat oven to 180°C (fan mode). Bake for 15-18 minutes until golden brown.",
+        "Cooling: Let cool on a wire rack to prevent moisture buildup.",
+        "Tip: Lightly toast the buns in a pan with a bit of butter before assembling → crispy outside, soft inside, restaurant quality."
+      ]
+    },
+    "fr": {
+      "name": "Pains à burger",
+      "notes": "Pour 8 buns",
+      "ingredients": [
+        {
+          "part": "Pâte",
+          "ingredients": [
+            "500 g farine",
+            "10 g sel",
+            "25 g sucre",
+            "1 oeuf entier",
+            "250 ml lait entier",
+            "40 g beurre doux",
+            "7 g levure sèche"
+          ]
+        },
+        {
+          "part": "Dorure",
+          "ingredients": [
+            "1 jaune d'oeuf",
+            "1 cuillère à soupe de lait",
+            "Graines de sésames"
+          ]
+        }
+      ],
+      "instructions": [
+        "Levure : Mélanger la levure avec le lait tiède (pas chaud) et le sucre. Laisser mousser 10 min.",
+        "Pétrissage : Dans un robot (ou à la main), mélanger farine et sel. Ajouter le mélange levure + lait + œuf. Pétrir 5 min.",
+        "Incorporation du beurre : Ajouter le beurre ramolli en morceaux et pétrir encore 10 min jusqu'à obtenir une pâte lisse, élastique et qui se décolle des parois.",
+        "1ère pousse : Couvrir d'un linge et laisser lever 1h30-2h (la pâte doit doubler de volume).",
+        "Façonnage : Dégazer, diviser en 8 portions (~100 g chacune). Bouler et déposer sur une plaque recouverte de papier cuisson. Aplatir légèrement.",
+        "2ème pousse : Couvrir et laisser lever 45-60 min.",
+        "Dorure : Badigeonner de jaune d'œuf mélangé avec un peu de lait. Parsemer de graines de sésame si souhaité.",
+        "Cuisson : Four préchauffé à 180 °C chaleur tournante. Cuire 15-18 min, jusqu'à ce que les pains soient dorés.",
+        "Refroidissement : Laisser refroidir sur grille pour éviter l'humidité.",
+        "Astuce : toaster légèrement les pains à la poêle avec un peu de beurre juste avant le montage → croustillant à l'extérieur, fondant à l'intérieur, comme au restaurant."
+      ]
+    },
+    "it": {
+      "name": "Panini per hamburger",
+      "notes": "Per 8 panini",
+      "ingredients": [
+        {
+          "part": "Impasto",
+          "ingredients": [
+            "500 g farina",
+            "10 g sale",
+            "25 g zucchero",
+            "1 uovo intero",
+            "250 ml latte intero",
+            "40 g burro morbido",
+            "7 g lievito secco"
+          ]
+        },
+        {
+          "part": "Doratura",
+          "ingredients": [
+            "1 tuorlo d'uovo",
+            "1 cucchiaio di latte",
+            "Semi di sesamo"
+          ]
+        }
+      ],
+      "instructions": [
+        "Lievito: Mescolare il lievito con il latte tiepido (non caldo) e lo zucchero. Lasciare riposare per 10 minuti finché fa schiuma.",
+        "Impasto: In una planetaria (o a mano), mescolare farina e sale. Aggiungere il composto di lievito, latte e uovo. Impastare per 5 minuti.",
+        "Incorporare il burro: Aggiungere il burro ammorbidito a pezzi e impastare per altri 10 minuti fino a ottenere un impasto liscio, elastico e che si stacca dalle pareti.",
+        "Prima lievitazione: Coprire con un panno e lasciare lievitare per 1,5-2 ore (l'impasto deve raddoppiare di volume).",
+        "Formatura: Sgonfiare, dividere in 8 porzioni (~100 g ciascuna). Formare delle palline e disporle su una teglia con carta da forno. Appiattire leggermente.",
+        "Seconda lievitazione: Coprire e lasciare lievitare per 45-60 minuti.",
+        "Doratura: Spennellare con il tuorlo d'uovo mescolato con un po' di latte. Cospargere di semi di sesamo se desiderato.",
+        "Cottura: Forno preriscaldato a 180°C ventilato. Cuocere per 15-18 minuti finché i panini sono dorati.",
+        "Raffreddamento: Lasciare raffreddare su una griglia per evitare umidità.",
+        "Consiglio: Tostare leggermente i panini in padella con un po' di burro prima di assemblare → croccanti fuori, morbidi dentro, come al ristorante."
+      ]
+    },
+    "nb": {
+      "name": "Burgerbrød",
+      "notes": "Gir 8 boller",
+      "ingredients": [
+        {
+          "part": "Deig",
+          "ingredients": [
+            "500 g mel",
+            "10 g salt",
+            "25 g sukker",
+            "1 helt egg",
+            "250 ml helmelk",
+            "40 g usaltet smør",
+            "7 g tørrgjær"
+          ]
+        },
+        {
+          "part": "Pensling",
+          "ingredients": [
+            "1 eggeplomme",
+            "1 spiseskje melk",
+            "Sesamfrø"
+          ]
+        }
+      ],
+      "instructions": [
+        "Gjær: Bland gjæren med lunken (ikke varm) melk og sukker. La det stå i 10 minutter til det skummer.",
+        "Elting: I en kjøkkenmaskin (eller for hånd), bland mel og salt. Tilsett gjærblandingen med melk og egg. Elt i 5 minutter.",
+        "Tilsett smør: Tilsett mykt smør i biter og elt i ytterligere 10 minutter til deigen er glatt, elastisk og slipper bollen.",
+        "Første heving: Dekk til med et klede og la heve i 1,5-2 timer (deigen skal dobles i størrelse).",
+        "Forming: Slå ut luften, del i 8 emner (~100 g hver). Form boller og legg på bakepapirkledd stekebrett. Trykk dem lett flate.",
+        "Andre heving: Dekk til og la heve i 45-60 minutter.",
+        "Pensling: Pensle med en blanding av eggeplomme og melk. Dryss med sesamfrø hvis ønskelig.",
+        "Steking: Forvarm ovnen til 180°C varmluft. Stek i 15-18 minutter til de er gyldne.",
+        "Avkjøling: Avkjøl på rist for å unngå fuktighet.",
+        "Tips: Rist brødene lett i stekepanne med litt smør før montering → sprø utenpå, myke inni, som på restaurant."
+      ]
+    }
+  },
+  {
+    "category": "doughAndBread",
     "id": "Bretzel",
-    "pictures": ["bretzels.jpg"],
+    "pictures": [
+      "bretzels.jpg"
+    ],
     "en": {
       "name": "Pretzel",
       "notes": "ChatGPT recipe. Perfect for breakfast, sliced lengthwise and generously buttered like a traditional Butterbrezel.",
@@ -771,7 +795,10 @@
         },
         {
           "part": "Baking soda bath",
-          "ingredients": ["1 l water", "40 g food-grade baking soda"]
+          "ingredients": [
+            "1 l water",
+            "40 g food-grade baking soda"
+          ]
         }
       ],
       "instructions": [
@@ -834,7 +861,10 @@
         },
         {
           "part": "Bagno di bicarbonato",
-          "ingredients": ["1 l acqua", "40 g bicarbonato alimentare"]
+          "ingredients": [
+            "1 l acqua",
+            "40 g bicarbonato alimentare"
+          ]
         }
       ],
       "instructions": [
@@ -864,7 +894,10 @@
         },
         {
           "part": "Bakepulverbad",
-          "ingredients": ["1 l vann", "40 g natron (matkvalitet)"]
+          "ingredients": [
+            "1 l vann",
+            "40 g natron (matkvalitet)"
+          ]
         }
       ],
       "instructions": [
@@ -881,7 +914,9 @@
   {
     "category": "pizzas",
     "id": "margherita",
-    "pictures": ["pizza_margherita.jpg"],
+    "pictures": [
+      "pizza_margherita.jpg"
+    ],
     "en": {
       "name": "Margherita",
       "notes": "Pizza dough: same method as bread dough, but with 65-75 mL of water per 100 g of flour.",
@@ -1047,7 +1082,10 @@
       "instructions": [
         {
           "part": "Deig",
-          "instructions": ["Bland med tresleiv.", "La hvile i minst 5 timer."]
+          "instructions": [
+            "Bland med tresleiv.",
+            "La hvile i minst 5 timer."
+          ]
         },
         {
           "part": "Steking",
@@ -1067,7 +1105,9 @@
   {
     "category": "sweet",
     "id": "crepes",
-    "pictures": ["crepes_nutella.jpg"],
+    "pictures": [
+      "crepes_nutella.jpg"
+    ],
     "en": {
       "name": "Crêpes",
       "notes": "Smooth batter without lumps, no blender needed, quick recipe. Tip: balance solid and liquid bases in equal quantities: https://www.youtube.com/watch?v=p-XOehv3j20",
@@ -1265,6 +1305,160 @@
         "Flett Striezel som vist i videoen: https://www.youtube.com/watch?v=FFVW94Oi5c0",
         "Pensle med egg og strø perlesukker over.",
         "Stek i ovnen i 30 minutter ved 170°C."
+      ]
+    }
+  },
+  {
+    "category": "mezes",
+    "id": "hummus",
+    "pictures": [
+      "hummus.jpg"
+    ],
+    "en": {
+      "name": "Hummus",
+      "notes": "Without a blender, the texture is not creamy but still satisfying; without ice water, the color is darker. More inspiration here: https://www.youtube.com/watch?v=NbXC0B83S7k",
+      "ingredients": [
+        "250 g cooked and drained chickpeas",
+        "60 g tahini (≈ 4 tbsp)",
+        "Juice of half a lemon (30 mL ≈ 2 tbsp)",
+        "1 to 2 cloves of garlic, chopped",
+        "Salt",
+        "Cumin (optional)",
+        "3 to 6 tbsp ice water",
+        "2 tbsp olive oil (+ more for serving)"
+      ],
+      "instructions": [
+        "Peel the chickpeas by rubbing them between your hands in a bowl of warm water.",
+        "Mash them finely (potato masher = quick, fork = slow).",
+        "Separately, mix tahini + lemon + salt + garlic + spices.",
+        "Add chickpeas + water, mix until smooth.",
+        "Serve, make a well, drizzle with olive oil, sprinkle with paprika/sumac."
+      ]
+    },
+    "fr": {
+      "name": "Houmous",
+      "notes": "Sans mixeur, texture non crêmeuse mais satisfaisante et suffisante, sans eau glacée couleur plus sombre. Plus d'inspirations ici : https://www.youtube.com/watch?v=NbXC0B83S7k",
+      "ingredients": [
+        "250 g pois chiches cuits et égouttés",
+        "60 g de tahini (≈ 4 c. à s.)",
+        "Jus d'un demi citron (30 mL ≈ 2 c. à s.)",
+        "1 à 2 gousses d'ail hachées",
+        "Sel",
+        "Cumin (optionnel)",
+        "3 à 6 c. à s. d'eau glacée",
+        "2 c. à s. d'huile d'olive (+ pour le service)"
+      ],
+      "instructions": [
+        "Éplucher les pois chiches en les frottant entre les mains dans un saladier d'eau tiède.",
+        "Les écraser finement (presse-puré = rapide, fourchette = long).",
+        "À part, mélanger tahini + citron + sel + ail + épices.",
+        "Ajouter pois chiches + eau, mélanger jusqu'à texture lisse.",
+        "Servir, creuser puits, arroser d'huile d'olive, saupoudrer paprika/sumac."
+      ]
+    },
+    "it": {
+      "name": "Hummus",
+      "notes": "Senza frullatore la consistenza non è cremosa ma comunque soddisfacente; senza acqua ghiacciata il colore è più scuro. Altre ispirazioni qui: https://www.youtube.com/watch?v=NbXC0B83S7k",
+      "ingredients": [
+        "250 g di ceci cotti e scolati",
+        "60 g di tahina (≈ 4 cucchiai)",
+        "Succo di mezzo limone (30 mL ≈ 2 cucchiai)",
+        "1 o 2 spicchi d'aglio tritati",
+        "Sale",
+        "Cumino (facoltativo)",
+        "3–6 cucchiai d’acqua ghiacciata",
+        "2 cucchiai d’olio d’oliva (+ altro per servire)"
+      ],
+      "instructions": [
+        "Sbucciare i ceci strofinandoli tra le mani in una ciotola di acqua tiepida.",
+        "Schiacciarli finemente (schiacciapatate = veloce, forchetta = lento).",
+        "A parte, mescolare tahina + limone + sale + aglio + spezie.",
+        "Aggiungere i ceci + l’acqua, mescolare fino a ottenere una consistenza liscia.",
+        "Servire, creare un incavo, irrorare con olio d’oliva, spolverare con paprika/sumac."
+      ]
+    },
+    "es": {
+      "name": "Hummus",
+      "notes": "Sin batidora, la textura no es cremosa pero sigue siendo agradable; sin agua helada, el color es más oscuro. Más inspiración aquí: https://www.youtube.com/watch?v=NbXC0B83S7k",
+      "ingredients": [
+        "250 g de garbanzos cocidos y escurridos",
+        "60 g de tahini (≈ 4 cucharadas)",
+        "Zumo de medio limón (30 mL ≈ 2 cucharadas)",
+        "1 a 2 dientes de ajo picados",
+        "Sal",
+        "Comino (opcional)",
+        "3 a 6 cucharadas de agua helada",
+        "2 cucharadas de aceite de oliva (+ más para servir)"
+      ],
+      "instructions": [
+        "Pelar los garbanzos frotándolos entre las manos en un bol con agua tibia.",
+        "Machacarlos finamente (pasapurés = rápido, tenedor = lento).",
+        "Aparte, mezclar tahini + limón + sal + ajo + especias.",
+        "Añadir los garbanzos + el agua, mezclar hasta obtener una textura suave.",
+        "Servir, hacer un hueco, rociar con aceite de oliva, espolvorear pimentón/sumac."
+      ]
+    },
+    "nb": {
+      "name": "Hummus",
+      "notes": "Uten blender får den ikke en kremet konsistens, men den er fortsatt tilfredsstillende; uten isvann blir fargen mørkere. Mer inspirasjon her: https://www.youtube.com/watch?v=NbXC0B83S7k",
+      "ingredients": [
+        "250 g kokte og avsilte kikerter",
+        "60 g tahini (≈ 4 ss)",
+        "Saften av en halv sitron (30 mL ≈ 2 ss)",
+        "1–2 fedd hvitløk, hakket",
+        "Salt",
+        "Spisskummen (valgfritt)",
+        "3–6 ss isvann",
+        "2 ss olivenolje (+ mer til servering)"
+      ],
+      "instructions": [
+        "Skrell kikertene ved å gni dem mellom hendene i en bolle med varmt vann.",
+        "Mos dem fint (potetmoser = raskt, gaffel = tregt).",
+        "Bland tahini + sitron + salt + hvitløk + krydder i en egen bolle.",
+        "Tilsett kikerter + vann, bland til en jevn konsistens.",
+        "Server, lag en liten grop, hell over olivenolje og dryss med paprika/sumak."
+      ]
+    },
+    "ja": {
+      "name": "フムス",
+      "notes": "ミキサーを使わないと、なめらかではないが満足できる食感になります。氷水を使わないと色が少し濃くなります。詳しくはこちら: https://www.youtube.com/watch?v=NbXC0B83S7k",
+      "ingredients": [
+        "ゆでて水気を切ったひよこ豆 250g",
+        "タヒニ 60g（約大さじ4）",
+        "レモン半分の絞り汁（30mL ≈ 大さじ2）",
+        "にんにく 1〜2片（みじん切り）",
+        "塩",
+        "クミン（お好みで）",
+        "氷水 大さじ3〜6",
+        "オリーブオイル 大さじ2（＋仕上げ用）"
+      ],
+      "instructions": [
+        "ぬるま湯を入れたボウルの中で、手でひよこ豆の皮をこすり取る。",
+        "豆を細かくつぶす（マッシャー＝早い、フォーク＝時間がかかる）。",
+        "別のボウルでタヒニ＋レモン＋塩＋にんにく＋スパイスを混ぜる。",
+        "ひよこ豆と水を加え、なめらかになるまで混ぜる。",
+        "器に盛り、中央にくぼみを作り、オリーブオイルをかけ、パプリカまたはスマックをふる。"
+      ]
+    },
+    "zh": {
+      "name": "鹰嘴豆泥",
+      "notes": "没有搅拌机时，质地不会很顺滑但仍然令人满意；不用冰水时颜色会更深。更多灵感请参考：https://www.youtube.com/watch?v=NbXC0B83S7k",
+      "ingredients": [
+        "250 克煮熟并沥干的鹰嘴豆",
+        "60 克芝麻酱（≈ 4 汤匙）",
+        "半个柠檬的汁（30 mL ≈ 2 汤匙）",
+        "1–2 瓣大蒜，切碎",
+        "盐",
+        "孜然（可选）",
+        "3–6 汤匙冰水",
+        "2 汤匙橄榄油（＋用于食用时）"
+      ],
+      "instructions": [
+        "将鹰嘴豆放入温水碗中，用双手搓去外皮。",
+        "用压泥器或叉子将其捣碎（压泥器较快，叉子较慢）。",
+        "另取一碗，混合芝麻酱＋柠檬汁＋盐＋大蒜＋香料。",
+        "加入鹰嘴豆和水，搅拌至顺滑。",
+        "装盘，在中间挖一个小坑，淋上橄榄油，撒上红椒粉或酸角粉。"
       ]
     }
   }

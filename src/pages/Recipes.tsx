@@ -21,9 +21,10 @@ const REGEX_PATH = /\/recipes\/(.*)\/(.*)/;
 const categories = [
   "feasts",
   "soupsAndBroths",
+  "doughAndBread",
+  "mezes",
   "riceAndPasta",
   "meatAndFish",
-  "doughAndBread",
   "pizzas",
   "sweet",
 ] as const;

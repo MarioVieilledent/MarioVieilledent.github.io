@@ -306,6 +306,7 @@ export const translations = {
     "面团和面包",
   ],
   pizzas: ["Pizzas", "Pizzas", "Pizze", "Pizzas", "Pizzas", "ピザ", "披萨"],
+  mezes: ["Mezes", "Mezzés", "Meze", "Mezes", "メゼ", "Mezes"],
   sweet: [
     "Sweets",
     "Sucreries",
