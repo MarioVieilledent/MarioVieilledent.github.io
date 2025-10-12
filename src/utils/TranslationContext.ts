@@ -1,7 +1,15 @@
 import { createContext, useContext } from "react";
 import { translations } from "./translations";
 
-export type LanguagesAvailable = "en" | "fr" | "it" | "es" | "nb" | "ja" | "zh";
+export type LanguagesAvailable =
+  | "en" // English
+  | "fr" // French
+  | "it" // Italian
+  | "es" // Spanish
+  | "nb" // Norwegian
+  | "tr" // Turkish
+  | "ja" // Japanese
+  | "zh"; // Chinese
 
 export type TermKeys = keyof typeof translations;
 
@@ -67,15 +75,21 @@ export const languages: {
     index: 4,
   },
   {
+    code: "tr",
+    countryCode: "tr",
+    name: "Türk",
+    index: 5,
+  },
+  {
     code: "ja",
     countryCode: "jp",
     name: "日本語",
-    index: 5,
+    index: 6,
   },
   {
     code: "zh",
     countryCode: "cn",
     name: "中文",
-    index: 6,
+    index: 7,
   },
 ];

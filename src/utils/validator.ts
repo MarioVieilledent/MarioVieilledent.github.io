@@ -23,14 +23,16 @@ export const recipeDetails = z.object({
   notes: z.string().optional(),
 });
 
-export const recipe = z.object({
+export const recipe = z.looseObject({
   category: z.string(),
   id: z.string(),
   pictures: z.array(z.string()),
   en: recipeDetails,
   fr: recipeDetails,
   it: recipeDetails,
+  es: recipeDetails.optional(),
   nb: recipeDetails.optional(),
+  tr: recipeDetails.optional(),
   ja: recipeDetails.optional(),
   zh: recipeDetails.optional(),
 });

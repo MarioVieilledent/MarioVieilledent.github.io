@@ -141,63 +141,125 @@
         "Nel frattempo, rosolare della carne in una padella in acciaio inossidabile (la bistecca è sempre un successo), deglassare (acqua + un piccolo spruzzo di aceto), raschiare il fondo, ridurre e aggiungere la salsa direttamente al riso.",
         "Puoi mettere la carne sopra il riso per tenerla al caldo."
       ]
-    }
-  },
-  {
-    "category": "riceAndPasta",
-    "id": "freshPasta",
-    "pictures": [
-      "pates_fraiches.jpg"
-    ],
-    "en": {
-      "name": "Homemade fresh pasta with hand crank",
-      "notes": "Allows eating 1 egg per person without overcooking the egg, so very healthy and without the taste of the egg being too pronounced.",
+    },
+    "es": {
+      "name": "Arroz pilaf especiado con carne",
       "ingredients": [
-        "200 g",
-        "2 eggs",
-        "Pinch of salt",
-        "Tablespoon olive oil"
+        "1/2 vaso de arroz basmati",
+        "1 cebolla",
+        "3–4 dientes de ajo",
+        "Especias (curry, anís estrellado, clavo, etc.)",
+        "Carne (ternera, pollo, etc.)",
+        "Aceite de oliva",
+        "Agua hirviendo",
+        "Vinagre (para desglasar)"
       ],
       "instructions": [
-        "Knead much more gently than bread dough, the dough does not tolerate being folded, knead for a long time: a good 8 minutes",
-        "Let rest in plastic for at least 30 minutes",
-        "Cut into 4, flour, roll out by hand, and pass at least 4 times through the thickest gauge",
-        "Pass 1 to 2 times through each step and stop around 5 ~ 6, making sure it is lightly floured to prevent the dough from sticking to the machine or table",
-        "Let rest for 15 minutes on each side"
+        "Lavar 1/2 vaso de arroz basmati con agua fría y dejarlo en remojo de 10 a 30 minutos, cambiando el agua varias veces para limpiarlo bien.",
+        "Rehogar una cebolla finamente picada en una cazuela con un poco de aceite de oliva.",
+        "Se pueden añadir especias al aceite caliente; una buena combinación es curry, anís estrellado y clavo. Es mejor no abusar de las especias y centrarse en una o dos.",
+        "Añadir el arroz escurrido y mezclar.",
+        "Opcional: dorar ligeramente el arroz a fuego fuerte.",
+        "Añadir 1,5 a 2 partes de agua hirviendo, tapar la cazuela y dejar cocer a fuego muy bajo durante 15–20 minutos, hasta que el arroz absorba toda el agua.",
+        "Añadir 3–4 dientes de ajo picados.",
+        "Mientras tanto, dorar la carne (por ejemplo un filete) en una sartén de acero inoxidable, desglasar con un poco de agua y vinagre, reducir la salsa y verterla sobre el arroz.",
+        "Colocar la carne encima del arroz para mantenerla caliente si se desea."
       ]
     },
-    "fr": {
-      "name": "Pâtes fraîches maison à la manivelle",
-      "notes": "Permet de manger 1 oeuf par personne sans surcuisson de l'oeuf, donc très sain et sans avoir le gout de l'oeuf trop prononcé.",
+    "nb": {
+      "name": "Krydret pilafris med kjøtt",
       "ingredients": [
-        "200 g farine",
-        "2 oeufs",
-        "Pincée de sel",
-        "Cuillère à soupe huile olive"
+        "1/2 glass basmatiris",
+        "1 løk",
+        "3–4 hvitløksfedd",
+        "Krydder (karri, stjerneanis, nellik osv.)",
+        "Kjøtt (biff, kylling osv.)",
+        "Olivenolje",
+        "Kokende vann",
+        "Eddik (til å deglasere)"
       ],
       "instructions": [
-        "Pétrir bien plus gentiment qu'une pâte à pain, la pâte ne supporte pas d'être pliée, pétrir longtemps : bien 8 minutes",
-        "Laisser reposer dans plastique au moins 30 minutes",
-        "Coupe 4, fariner étaler à la main, et passer au moins 4 fois au calibre le plus épais",
-        "Passer 1 à 2 fois par chaque étape et s'arrêter vers 5 ~ 6, en s'assurant que c'est légèrement fariné pour éviter que la pâte n'accroche à la machine, ou à la table",
-        "Laisser reposer 15 minutes de chaques coté"
+        "Skyll 1/2 glass basmatiris i kaldt vann og la den ligge i kaldt vann i 10–30 minutter, bytt vann flere ganger for å fjerne stivelse.",
+        "Surr finhakket løk i litt olivenolje i en kasserolle.",
+        "Du kan tilsette krydder i den varme oljen – karri, stjerneanis og nellik fungerer godt. Bruk heller færre krydder i passende mengde.",
+        "Tilsett den avsilte risen og rør om.",
+        "Evt. brun risen lett på høy varme.",
+        "Tilsett 1,5–2 deler kokende vann, dekk til og la småkoke på lav varme i 15–20 minutter til vannet er absorbert.",
+        "Tilsett 3–4 finhakkede hvitløksfedd.",
+        "Stek kjøttet (for eksempel biff) i en stålpanne, deglaser med litt vann og eddik, reduser sausen og hell den over risen.",
+        "Du kan legge kjøttet oppå risen for å holde det varmt."
       ]
     },
-    "it": {
-      "name": "Pasta fresca fatta in casa con manovella",
-      "notes": "Permette di mangiare 1 uovo a persona senza cuocere troppo l'uovo, quindi molto sano e senza che il sapore dell'uovo sia troppo pronunciato.",
+    "tr": {
+      "name": "Baharatlı Pilav ve Et",
       "ingredients": [
-        "200 g di farina",
-        "2 uova",
-        "Pizzico di sale",
-        "Cucchiaio di olio d'oliva"
+        "Yarım bardak basmati pirinci",
+        "1 soğan",
+        "3–4 diş sarımsak",
+        "Baharatlar (köri, yıldız anason, karanfil vb.)",
+        "Et (biftek, tavuk vb.)",
+        "Zeytinyağı",
+        "Kaynar su",
+        "Sirke (tavayı çözmek için)"
       ],
       "instructions": [
-        "Impastare molto più delicatamente dell'impasto del pane, l'impasto non tollera di essere piegato, impastare a lungo: un buon 8 minuti",
-        "Lasciare riposare nella plastica per almeno 30 minuti",
-        "Tagliare in 4, infarinare, stendere a mano e passare almeno 4 volte attraverso la calibro più spesso",
-        "Passare 1 o 2 volte attraverso ogni fase e fermarsi intorno a 5 ~ 6, assicurandosi che sia leggermente infarinato per evitare che l'impasto si attacchi alla macchina o al tavolo",
-        "Lasciare riposare per 15 minuti su ogni lato"
+        "Yarım bardak basmati pirincini soğuk suda iyice yıkayın, ardından 10–30 dakika soğuk suda bekletin; nişastayı gidermek için birkaç kez suyu değiştirin.",
+        "Bir tencerede biraz zeytinyağı ile ince doğranmış soğanı kavurun.",
+        "Sıcak yağa baharat ekleyebilirsiniz — köri, yıldız anason ve karanfil iyi sonuç verir. Çok fazla baharat kullanmaktan kaçının, birine odaklanmak daha iyidir.",
+        "Süzülmüş pirinci ekleyip karıştırın.",
+        "İsteğe bağlı: Pirinci yüksek ateşte hafifçe kavurun.",
+        "1,5–2 ölçü kaynar su ekleyin, kapağını kapatın ve kısık ateşte 15–20 dakika pişirin (pirinç tüm suyu çekmeli).",
+        "3–4 diş doğranmış sarımsağı ekleyin.",
+        "Bu sırada, paslanmaz çelik tavada eti (örneğin biftek) kızartın, az su ve sirke ile çözerek sosu elde edin, biraz buharlaştırın ve doğrudan pilava ekleyin.",
+        "İsterseniz eti pilavın üzerine koyarak sıcak kalmasını sağlayın."
+      ]
+    },
+    "ja": {
+      "name": "スパイス香る肉入りピラフ",
+      "ingredients": [
+        "バスマティ米 1/2カップ",
+        "玉ねぎ 1個",
+        "にんにく 3〜4片",
+        "スパイス（カレー粉、スターアニス、クローブなど）",
+        "肉（ステーキ、鶏肉など）",
+        "オリーブオイル",
+        "熱湯",
+        "酢（デグレーズ用）"
+      ],
+      "instructions": [
+        "1/2カップのバスマティ米を冷水で洗い、10〜30分ほど冷水に浸す。数回水を替えてしっかりと洗う。",
+        "鍋にオリーブオイルを少し入れ、みじん切りにした玉ねぎを炒める。",
+        "熱い油にスパイスを加えて香りを出す。おすすめはカレー粉、スターアニス、クローブ。スパイスは多く入れすぎず、一種類に集中するのがコツ。",
+        "水気を切った米を加え、混ぜる。",
+        "必要であれば、強火で米を軽く炒めて香ばしくする。",
+        "熱湯を1.5〜2倍量加え、蓋をして弱火で15〜20分ほど煮る（米が水分をすべて吸収するまで）。",
+        "みじん切りにしたにんにく3〜4片を加える。",
+        "その間に、肉（ステーキなど）をステンレスのフライパンで焼き、水と少量の酢でデグレーズしてソースを作り、煮詰めてからピラフに加える。",
+        "肉をピラフの上にのせて温かいまま保つのもよい。"
+      ]
+    },
+    "zh": {
+      "name": "香料肉炒饭（皮拉夫）",
+      "ingredients": [
+        "半杯巴斯马蒂米",
+        "1个洋葱",
+        "3–4瓣大蒜",
+        "香料（咖喱、八角、丁香等）",
+        "肉类（牛排、鸡肉等）",
+        "橄榄油",
+        "开水",
+        "醋（用于去釉）"
+      ],
+      "instructions": [
+        "用冷水清洗半杯巴斯马蒂米，浸泡10–30分钟，多次换水以去除淀粉。",
+        "在锅中加入少量橄榄油，小火炒香切细的洋葱。",
+        "可在热油中加入香料，例如咖喱、八角、丁香等。建议不要放太多香料，专注于一两种风味更佳。",
+        "加入沥干的米饭并搅拌均匀。",
+        "可选：用大火稍微炒香米饭。",
+        "加入1.5–2倍体积的开水，盖上锅盖，小火煮15–20分钟，直到米饭吸收完水分。",
+        "加入切碎的3–4瓣大蒜。",
+        "同时，用不锈钢锅煎肉（如牛排），加入少量水和醋去釉，收汁后将酱汁倒入米饭中。",
+        "可将肉放在米饭上以保持温度。"
       ]
     }
   },
@@ -255,20 +317,142 @@
         "Quando i 2/3 cotti, trasferire gli spaghetti nella padella calda, aggiungendo piccole mestolate di acqua di cottura della pasta se necessario per finire la cottura e rendere la pasta più cremosa grazie all'amido. Mescolare regolarmente."
       ]
     },
+    "es": {
+      "name": "Espaguetis cocinados al estilo risotto",
+      "notes": "Técnica italiana humilde para hacer espaguetis más sabrosos y cremosos. Es una mejora real para los espaguetis, especialmente para los amantes del ajo. También se puede aplicar la técnica usando los jugos de carne o pescado en la sartén caliente.",
+      "ingredients": [
+        "Espaguetis",
+        "Aceite de oliva",
+        "4 dientes de ajo",
+        "Sal, pimienta y chile al gusto"
+      ],
+      "instructions": [
+        "Cocer los espaguetis de forma clásica, solo dos tercios del tiempo en agua hirviendo con sal.",
+        "Mientras tanto, calentar a fuego medio/alto el aceite de oliva con 3 a 5 dientes de ajo enteros sin piel o picados gruesos; el ajo debe 'cantar'.",
+        "Añadir las especias al gusto: pimienta, copos de chile, etc.",
+        "Cuando los espaguetis estén a 2/3 de cocción, pasarlos a la sartén caliente y agregar pequeñas cucharadas del agua de cocción cuando sea necesario, para terminar de cocerlos y hacerlos más cremosos gracias al almidón. Remover regularmente."
+      ]
+    },
     "nb": {
-      "name": "Risotto-stil spaghetti",
-      "notes": "En enkel italiensk teknikk for mer smakfulle og kremete spaghetti. Et virkelig løft for spaghetti-elskere, spesielt de som liker hvitløk. Teknikken kan også brukes med kjøtt- eller fiskesjy i den varme pannen.",
+      "name": "Spaghetti tilberedt som risotto",
+      "notes": "En enkel italiensk metode for å gjøre spaghetti mer smakfull og kremet. Et virkelig løft for pastaelskere, spesielt for dem som liker hvitløk. Teknikken kan også brukes med kjøtt- eller fiskesjy i varm panne.",
       "ingredients": [
         "Spaghetti",
         "Olivenolje",
         "4 hvitløksfedd",
-        "Salt, pepper, chili etter smak"
+        "Salt, pepper og chili etter smak"
       ],
       "instructions": [
-        "Kok spaghetti i saltet, kokende vann til omtrent to tredjedeler av vanlig koketid.",
-        "I mellomtiden, varm opp olivenolje på middels høy varme med 3-5 hele hvitløksfedd (uten skall eller grovhakket); hvitløken skal frese.",
-        "Tilsett krydder etter smak - pepper, chiliflak osv.",
-        "Når 2/3 kokt, overfør spaghettien til den varme pannen, og tilsett små øser med pastavann etter behov for både å fullføre kokingen og gjøre pastaen kremete takket være stivelsen. Rør regelmessig."
+        "Kok spaghettien på vanlig måte, men bare to tredjedeler av tiden i saltet kokende vann.",
+        "I mellomtiden, varm opp olivenolje på middels/høy varme med 3–5 hele eller grovhakkede hvitløksfedd; hvitløken skal frese lett.",
+        "Tilsett krydder etter smak: pepper, chiliflak osv.",
+        "Når pastaen er 2/3 ferdigkokt, flytt den over i den varme pannen og tilsett små øser av pastavannet etter behov for å fullføre kokingen og gjøre pastaen mer kremet takket være stivelsen. Rør jevnlig."
+      ]
+    },
+    "tr": {
+      "name": "Risotto usulü pişirilmiş spagetti",
+      "notes": "Spagettiyi daha lezzetli ve kremamsı hale getiren mütevazı bir İtalyan tekniği. Sarımsak sevenler için gerçek bir fark yaratır. Aynı teknik, et veya balık suyunun bulunduğu sıcak tavada da uygulanabilir.",
+      "ingredients": [
+        "Spagetti",
+        "Zeytinyağı",
+        "4 diş sarımsak",
+        "Tuz, karabiber, pul biber (isteğe bağlı)"
+      ],
+      "instructions": [
+        "Spagettileri klasik şekilde, sadece 2/3 oranında tuzlu kaynar suda haşlayın.",
+        "Bu sırada, orta-yüksek ateşte 3 ila 5 diş soyulmamış veya iri doğranmış sarımsağı zeytinyağı ile birlikte ısıtın; sarımsak 'şarkı söylemelidir'.",
+        "Baharatları ekleyin: karabiber, pul biber, vb.",
+        "Spagettiler 2/3 pişince, sıcak tavaya aktarın ve gerektiğinde az miktarda makarna suyu ekleyin; bu hem pişirmeyi tamamlar hem de nişasta sayesinde spagettiyi daha kremamsı hale getirir. Sık sık karıştırın."
+      ]
+    },
+    "ja": {
+      "name": "リゾット風スパゲッティ",
+      "notes": "スパゲッティをより風味豊かでクリーミーにする、質素なイタリアの調理法。特にニンニク好きにはおすすめ。肉や魚の旨味が残ったフライパンでも応用可能。",
+      "ingredients": [
+        "スパゲッティ",
+        "オリーブオイル",
+        "にんにく4片",
+        "塩、こしょう、唐辛子（お好みで）"
+      ],
+      "instructions": [
+        "通常通りにスパゲッティを茹でるが、時間の3分の2程度で止める（塩入りの沸騰したお湯で）。",
+        "その間、中〜強火でオリーブオイルを熱し、皮をむいたまたは粗く刻んだにんにく3〜5片を加える。にんにくが「歌う」ように音を立てるのが理想。",
+        "好みに応じてスパイスを加える（こしょう、チリフレークなど）。",
+        "スパゲッティが2/3ほど茹で上がったら、熱いフライパンに移し、必要に応じてゆで汁を少しずつ加えながら仕上げる。デンプンのおかげでスパゲッティがよりクリーミーになる。時々かき混ぜる。"
+      ]
+    },
+    "zh": {
+      "name": "烩饭式意大利面",
+      "notes": "一种朴实的意大利烹饪技巧，使意大利面更香、更浓郁。对大蒜爱好者来说尤其出色。此技巧也可用于肉类或鱼类烹汁的热锅中。",
+      "ingredients": [
+        "意大利面",
+        "橄榄油",
+        "4 瓣大蒜",
+        "盐、黑胡椒、辣椒碎（依个人口味）"
+      ],
+      "instructions": [
+        "像平常一样煮意大利面，但只煮到三分之二的时间，在加盐的沸水中进行。",
+        "同时，用中高火加热橄榄油，放入 3 至 5 瓣去皮或粗切的大蒜，大蒜应发出轻微的“唱歌”声。",
+        "根据口味加入香料，如黑胡椒或辣椒碎。",
+        "当意大利面煮至 2/3 时，将其转移到热锅中，必要时逐步加入少量面条水，以完成烹饪并利用淀粉让面条更浓稠顺滑。要经常搅拌。"
+      ]
+    }
+  },
+  {
+    "category": "riceAndPasta",
+    "id": "freshPasta",
+    "pictures": [
+      "pates_fraiches.jpg"
+    ],
+    "en": {
+      "name": "Homemade fresh pasta with hand crank",
+      "notes": "Allows eating 1 egg per person without overcooking the egg, so very healthy and without the taste of the egg being too pronounced.",
+      "ingredients": [
+        "200 g",
+        "2 eggs",
+        "Pinch of salt",
+        "Tablespoon olive oil"
+      ],
+      "instructions": [
+        "Knead much more gently than bread dough, the dough does not tolerate being folded, knead for a long time: a good 8 minutes",
+        "Let rest in plastic for at least 30 minutes",
+        "Cut into 4, flour, roll out by hand, and pass at least 4 times through the thickest gauge",
+        "Pass 1 to 2 times through each step and stop around 5 ~ 6, making sure it is lightly floured to prevent the dough from sticking to the machine or table",
+        "Let rest for 15 minutes on each side"
+      ]
+    },
+    "fr": {
+      "name": "Pâtes fraîches maison à la manivelle",
+      "notes": "Permet de manger 1 oeuf par personne sans surcuisson de l'oeuf, donc très sain et sans avoir le gout de l'oeuf trop prononcé.",
+      "ingredients": [
+        "200 g farine",
+        "2 oeufs",
+        "Pincée de sel",
+        "Cuillère à soupe huile olive"
+      ],
+      "instructions": [
+        "Pétrir bien plus gentiment qu'une pâte à pain, la pâte ne supporte pas d'être pliée, pétrir longtemps : bien 8 minutes",
+        "Laisser reposer dans plastique au moins 30 minutes",
+        "Coupe 4, fariner étaler à la main, et passer au moins 4 fois au calibre le plus épais",
+        "Passer 1 à 2 fois par chaque étape et s'arrêter vers 5 ~ 6, en s'assurant que c'est légèrement fariné pour éviter que la pâte n'accroche à la machine, ou à la table",
+        "Laisser reposer 15 minutes de chaques coté"
+      ]
+    },
+    "it": {
+      "name": "Pasta fresca fatta in casa con manovella",
+      "notes": "Permette di mangiare 1 uovo a persona senza cuocere troppo l'uovo, quindi molto sano e senza che il sapore dell'uovo sia troppo pronunciato.",
+      "ingredients": [
+        "200 g di farina",
+        "2 uova",
+        "Pizzico di sale",
+        "Cucchiaio di olio d'oliva"
+      ],
+      "instructions": [
+        "Impastare molto più delicatamente dell'impasto del pane, l'impasto non tollera di essere piegato, impastare a lungo: un buon 8 minuti",
+        "Lasciare riposare nella plastica per almeno 30 minuti",
+        "Tagliare in 4, infarinare, stendere a mano e passare almeno 4 volte attraverso la calibro più spesso",
+        "Passare 1 o 2 volte attraverso ogni fase e fermarsi intorno a 5 ~ 6, assicurandosi che sia leggermente infarinato per evitare che l'impasto si attacchi alla macchina o al tavolo",
+        "Lasciare riposare per 15 minuti su ogni lato"
       ]
     }
   },
@@ -410,6 +594,25 @@
         "Cuocere per 25 minuti a 250°C."
       ]
     },
+    "es": {
+      "name": "Baguette",
+      "notes": "Atención: receta rara que alcanza el rango de S Tier, si no es God Tier. Increíblemente simple, realmente barata y con muy poco tiempo de trabajo. Los 4 ingredientes representan los 4 elementos: la harina es la tierra, el agua, la levadura es el aire y la sal, el fuego. Fuente: https://www.youtube.com/watch?v=Z-husjZkxHw",
+      "ingredients": [
+        "Harina (200 g por baguette)",
+        "Agua a temperatura ambiente, 80 % del peso de la harina",
+        "1 a 2 g de levadura seca por 500 g de harina",
+        "Sal, una cucharadita colmada por 500 g de harina"
+      ],
+      "instructions": [
+        "En un bol seco, evitar el contacto directo entre la levadura y la sal, luego añadir el agua.",
+        "Mezclar con el mango de una cuchara de madera hasta formar una bola de masa.",
+        "Cubrir y dejar reposar de 8 a 10 horas a temperatura ambiente. No hace falta enharinar ni mojar la masa, es suficientemente húmeda.",
+        "Enharinar y despegar la masa con una espátula, luego colocarla sobre papel de horno bien enharinado.",
+        "Cortar con la espátula el número deseado de baguettes sin aplastar la masa.",
+        "Formar las baguettes estirando suavemente la masa con las manos.",
+        "Hornear durante 25 minutos a 250 °C."
+      ]
+    },
     "nb": {
       "name": "Baguette",
       "notes": "Vær oppmerksom — en sjelden oppskrift som når S Tier, om ikke Gud Tier. Utrolig enkel, veldig billig, og krever svært lite arbeidstid. De fire ingrediensene representerer de fire elementene: mel for jord, vann, gjær for luft og salt for ild. Kilde: https://www.youtube.com/watch?v=Z-husjZkxHw",
@@ -427,6 +630,63 @@
         "Bruk deigskrapen til å dele deigen i ønsket antall baguetter uten å trykke den ned.",
         "Form baguettene ved å strekke deigen forsiktig med hendene.",
         "Stek i 25 minutter ved 250°C."
+      ]
+    },
+    "tr": {
+      "name": "Baget",
+      "notes": "Dikkat! Nadir bir tarif, S Tier hatta God Tier seviyesine ulaşır. İnanılmaz derecede basit, çok ucuz ve neredeyse hiç iş gerektirmez. Dört malzeme dört elementi temsil eder: un toprak, su su, maya hava ve tuz ateştir. Kaynak: https://www.youtube.com/watch?v=Z-husjZkxHw",
+      "ingredients": [
+        "Un (her baget için 200 g)",
+        "Oda sıcaklığında su, un miktarının %80’i kadar",
+        "500 g un için 1–2 g kuru maya",
+        "500 g un için tepeleme 1 tatlı kaşığı tuz"
+      ],
+      "instructions": [
+        "Kuru bir kapta, maya ile tuzun doğrudan temasını önleyin, sonra suyu ekleyin.",
+        "Bir tahta kaşığın sapıyla karıştırın, hamur top haline gelene kadar.",
+        "Üzerini kapatın ve oda sıcaklığında 8–10 saat dinlendirin. Hamuru unlamaya veya ıslatmaya gerek yok, yeterince nemlidir.",
+        "Hamuru spatula ile unlayıp kaptan çıkarın, unlanmış pişirme kağıdının üzerine koyun.",
+        "Hamuru ezmeden spatula ile istediğiniz sayıda bagete bölün.",
+        "Ellerinizle hafifçe uzatarak baget şeklini verin.",
+        "250 °C’de 25 dakika pişirin."
+      ]
+    },
+    "ja": {
+      "name": "バゲット",
+      "notes": "注意：希少なレシピで、Sティア、もしくはゴッドティアの域に達するほどの逸品。驚くほどシンプルで、とても安く、作業時間もごく短い。4つの材料は4つの元素を表す。小麦粉＝土、水＝水、酵母＝空気、塩＝火。出典：https://www.youtube.com/watch?v=Z-husjZkxHw",
+      "ingredients": [
+        "小麦粉（1本につき200g）",
+        "常温の水（小麦粉の80％の量）",
+        "乾燥酵母 500gの小麦粉につき1〜2g",
+        "塩 小麦粉500gにつき山盛り小さじ1杯"
+      ],
+      "instructions": [
+        "ボウルに乾いた材料を入れ、酵母と塩が直接触れないようにしてから水を加える。",
+        "木べらの持ち手で混ぜ、生地がひとまとまりになるまで混ぜる。",
+        "ラップをかけて常温で8〜10時間休ませる。打ち粉も水も不要、生地は十分に柔らかい。",
+        "打ち粉をして生地をスパチュラで外し、よく打ち粉したオーブンシートの上に置く。",
+        "生地を押しつぶさないようにスパチュラで希望の本数に切る。",
+        "両手で優しく伸ばしてバゲットの形に整える。",
+        "250℃のオーブンで25分焼く。"
+      ]
+    },
+    "zh": {
+      "name": "法棍",
+      "notes": "注意：这是一道罕见的配方，可称得上S级甚至是神级。极其简单，极其便宜，几乎不费工夫。四种材料代表四种元素：面粉是土，水是水，酵母是空气，盐是火。来源：https://www.youtube.com/watch?v=Z-husjZkxHw",
+      "ingredients": [
+        "面粉（每根法棍200克）",
+        "常温水，约为面粉重量的80%",
+        "干酵母，每500克面粉1–2克",
+        "盐，每500克面粉加满满一茶匙"
+      ],
+      "instructions": [
+        "在干净的碗中，避免酵母与盐直接接触，然后加入水。",
+        "用木勺柄搅拌，直到面团形成一个球状。",
+        "盖上，常温静置8–10小时。无需撒粉或加水，面团湿度足够。",
+        "撒上面粉，用刮刀将面团取出，放在撒好面粉的烘焙纸上。",
+        "用刮刀分割成所需数量的法棍，不要压扁面团。",
+        "用双手轻轻拉伸面团成法棍形。",
+        "放入250°C的烤箱中烘烤25分钟。"
       ]
     }
   },
@@ -608,6 +868,182 @@
             "Kjevle hver ball ut til en sirkel eller oval, ca. 20 cm bred og 5-6 mm tykk.",
             "Varm en tykk panne eller støpejernspanne på middels høy varme.",
             "Stek hvert brød 1-2 minutter på hver side til det blåser opp og får gylne flekker."
+          ]
+        }
+      ]
+    },
+    "es": {
+      "name": "Pan plano oriental \"Lavash\"",
+      "notes": "Pan plano turco/armenio cocido en sartén, similar al naan indio. Receta de Hungry Man Kitchen (YouTube).",
+      "ingredients": [
+        "300 g de harina",
+        "200 ml de agua tibia",
+        "10 g de levadura seca",
+        "1 cucharada de azúcar",
+        "1 cucharadita de sal",
+        "2 cucharadas de aceite de oliva (opcional, aporta una textura más suave)"
+      ],
+      "instructions": [
+        {
+          "part": "Activar la levadura",
+          "instructions": [
+            "En un bol, mezclar el agua tibia con el azúcar y la levadura.",
+            "Dejar reposar de 5 a 10 minutos hasta que la mezcla haga espuma."
+          ]
+        },
+        {
+          "part": "Preparar la masa",
+          "instructions": [
+            "Añadir la harina y la sal en un bol grande.",
+            "Verter la mezcla de levadura (y el aceite de oliva si se usa).",
+            "Mezclar y amasar durante 8 a 10 minutos hasta obtener una masa lisa y elástica."
+          ]
+        },
+        {
+          "part": "Primera fermentación",
+          "instructions": [
+            "Cubrir el bol y dejar reposar la masa durante aproximadamente 1 hora, hasta que duplique su volumen."
+          ]
+        },
+        {
+          "part": "Formar y cocer",
+          "instructions": [
+            "Aplastar la masa y dividirla en 8 a 10 porciones iguales.",
+            "Extender cada porción en un círculo u óvalo de unos 20 cm de ancho y 5–6 mm de grosor.",
+            "Calentar una sartén gruesa o de hierro fundido a fuego medio-alto.",
+            "Cocinar cada pan 1–2 minutos por lado hasta que se infle y aparezcan manchas doradas."
+          ]
+        }
+      ]
+    },
+    "tr": {
+      "name": "Lavaş",
+      "notes": "Tavada pişirilen Türk/Ermeni düz ekmeği, Hint naan ekmeğine benzer. Hungry Man Kitchen (YouTube) tarifidir.",
+      "ingredients": [
+        "300 g un",
+        "200 ml ılık su",
+        "10 g kuru maya",
+        "1 yemek kaşığı şeker",
+        "1 tatlı kaşığı tuz",
+        "2 yemek kaşığı zeytinyağı (isteğe bağlı, daha yumuşak doku için)"
+      ],
+      "instructions": [
+        {
+          "part": "Mayayı aktif etme",
+          "instructions": [
+            "Bir kapta ılık suyu, şekeri ve mayayı karıştırın.",
+            "Karışım köpürene kadar yaklaşık 5–10 dakika bekletin."
+          ]
+        },
+        {
+          "part": "Hamuru hazırlama",
+          "instructions": [
+            "Büyük bir kaba unu ve tuzu ekleyin.",
+            "Maya karışımını (ve kullanıyorsanız zeytinyağını) ekleyin.",
+            "Karıştırın ve pürüzsüz, elastik bir hamur elde edene kadar 8–10 dakika yoğurun."
+          ]
+        },
+        {
+          "part": "İlk mayalanma",
+          "instructions": [
+            "Kaseyi örtün ve hamuru yaklaşık 1 saat, iki katına çıkana kadar dinlendirin."
+          ]
+        },
+        {
+          "part": "Şekil verme ve pişirme",
+          "instructions": [
+            "Hamuru bastırarak havasını alın ve 8–10 eşit parçaya bölün.",
+            "Her parçayı yaklaşık 20 cm genişliğinde ve 5–6 mm kalınlığında yuvarlak veya oval şekilde açın.",
+            "Kalın tabanlı veya döküm tavayı orta-yüksek ateşte ısıtın.",
+            "Her ekmeği her iki tarafını 1–2 dakika pişirin, kabarıp kahverengi lekeler oluşana kadar."
+          ]
+        }
+      ]
+    },
+    "ja": {
+      "name": "オリエンタルフラットブレッド「ラヴァシュ」",
+      "notes": "トルコ／アルメニアのフライパンで焼く平たいパン。インドのナンに似ている。Hungry Man Kitchen（YouTube）より。",
+      "ingredients": [
+        "小麦粉 300g",
+        "ぬるま湯 200ml",
+        "ドライイースト 10g",
+        "砂糖 大さじ1",
+        "塩 小さじ1",
+        "オリーブオイル 大さじ2（任意、より柔らかい食感のため）"
+      ],
+      "instructions": [
+        {
+          "part": "イーストを活性化させる",
+          "instructions": [
+            "ボウルにぬるま湯、砂糖、イーストを入れて混ぜる。",
+            "泡立つまで約5〜10分ほど置いておく。"
+          ]
+        },
+        {
+          "part": "生地を作る",
+          "instructions": [
+            "大きなボウルに小麦粉と塩を入れる。",
+            "イーストの混合液（とオリーブオイルを使う場合はそれも）を加える。",
+            "混ぜてから8〜10分ほどこね、なめらかで弾力のある生地にする。"
+          ]
+        },
+        {
+          "part": "一次発酵",
+          "instructions": [
+            "ボウルにラップをかけ、約1時間、生地が2倍になるまで休ませる。"
+          ]
+        },
+        {
+          "part": "成形と焼き",
+          "instructions": [
+            "生地を軽く押してガスを抜き、8〜10等分にする。",
+            "それぞれを直径約20cm、厚さ5〜6mmの円または楕円形に伸ばす。",
+            "厚手のフライパンまたは鋳鉄のフライパンを中強火で温める。",
+            "生地を両面1〜2分ずつ焼き、ふくらんで焼き色がついたら完成。"
+          ]
+        }
+      ]
+    },
+    "zh": {
+      "name": "东方薄饼“拉瓦什”",
+      "notes": "土耳其/亚美尼亚平底锅烤制的薄饼，类似印度馕。Hungry Man Kitchen（YouTube）配方。",
+      "ingredients": [
+        "面粉 300克",
+        "温水 200毫升",
+        "干酵母 10克",
+        "白糖 1汤匙",
+        "盐 1茶匙",
+        "橄榄油 2汤匙（可选，使口感更柔软）"
+      ],
+      "instructions": [
+        {
+          "part": "激活酵母",
+          "instructions": [
+            "在碗中混合温水、糖和酵母。",
+            "静置约5–10分钟，直到起泡。"
+          ]
+        },
+        {
+          "part": "准备面团",
+          "instructions": [
+            "在大碗中加入面粉和盐。",
+            "倒入酵母混合液（如果使用橄榄油，也一起加入）。",
+            "搅拌并揉面8–10分钟，直到面团光滑有弹性。"
+          ]
+        },
+        {
+          "part": "第一次发酵",
+          "instructions": [
+            "盖上碗，让面团静置约1小时，直到体积翻倍。"
+          ]
+        },
+        {
+          "part": "整形与烘烤",
+          "instructions": [
+            "轻轻压下面团排气，分成8–10等份。",
+            "将每份擀成约20厘米宽、5–6毫米厚的圆形或椭圆形。",
+            "加热厚底或铸铁平底锅，中高火。",
+            "每面烙1–2分钟，直到鼓起并出现金黄色斑点。"
           ]
         }
       ]
@@ -1055,21 +1491,67 @@
         }
       ]
     },
-    "nb": {
+    "es": {
       "name": "Margherita",
-      "notes": "Pizzadeig: samme prosess som brøddeig, men med 65-75 mL vann per 100 g mel.",
+      "notes": "Masa de pizza: mismo procedimiento que la masa de pan, pero con 65 a 75 mL de agua por cada 100 g de harina.",
       "ingredients": [
         {
-          "part": "Deig (for 1 pizza)",
+          "part": "Masa (para 1 pizza)",
           "ingredients": [
-            "200-250 g mel",
-            "65% av melets vekt i vann fra springen",
+            "200 a 250 g de harina",
+            "65 % de agua del peso de la harina",
+            "Un poco más de levadura que para la baguette",
+            "Media cucharadita de sal"
+          ]
+        },
+        {
+          "part": "Pizza",
+          "ingredients": [
+            "Salsa de tomate",
+            "1 bola de mozzarella",
+            "Albahaca fresca",
+            "Aceite de oliva",
+            "Sal, pimienta, hierbas"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "part": "Masa",
+          "instructions": [
+            "Mezclar con una cuchara de madera",
+            "Dejar reposar al menos 5 horas"
+          ]
+        },
+        {
+          "part": "Pizza",
+          "instructions": [
+            "Precalentar el horno al máximo, 250°C o más, idealmente 450°C",
+            "Extender y estirar la masa a mano sobre una bandeja enharinada",
+            "Agregar la salsa de tomate (cantidad al gusto)",
+            "Añadir sal, pimienta, hierbas para pizza o provenzales, y hojas de albahaca fresca",
+            "Repartir una bola de mozzarella (sin escurrir si el horno no supera los 250°C), en trozos grandes para que se derrita lentamente sin gratinarse",
+            "Agregar un chorrito de aceite de oliva",
+            "Hornear unos 10 minutos, preferiblemente en la parte baja del horno con ventilador"
+          ]
+        }
+      ]
+    },
+    "nb": {
+      "name": "Margherita",
+      "notes": "Pizzadeig: samme metode som brøddeig, men med 65–75 mL vann per 100 g mel.",
+      "ingredients": [
+        {
+          "part": "Deig (til 1 pizza)",
+          "ingredients": [
+            "200–250 g mel",
+            "65 % vann i forhold til melmengden",
             "Litt mer gjær enn til baguette",
             "En halv teskje salt"
           ]
         },
         {
-          "part": "Topping",
+          "part": "Pizza",
           "ingredients": [
             "Tomatsaus",
             "1 kule mozzarella",
@@ -1083,20 +1565,158 @@
         {
           "part": "Deig",
           "instructions": [
-            "Bland med tresleiv.",
-            "La hvile i minst 5 timer."
+            "Bland med en tresleiv",
+            "La heve i minst 5 timer"
           ]
         },
         {
-          "part": "Steking",
+          "part": "Pizza",
           "instructions": [
-            "Forvarm ovnen til maks temperatur (250°C eller mer, ideelt 450°C).",
-            "Strekk deigen for hånd på et melet bakebrett.",
-            "Tilsett tomatsaus — mengde etter smak.",
-            "Krydre med salt, pepper, pizzakrydder eller provenceurter, og ferske basilikumblader.",
-            "Fordel en kule mozzarella (ikke avrent hvis ovnen maks er 250°C), helst i store biter slik at den smelter sakte uten å bli brun.",
-            "Drypp over litt olivenolje.",
-            "Stek i rundt 10 minutter, helst nederst i ovnen, med varmluft."
+            "Forvarm ovnen til maks, 250°C eller mer, helst 450°C",
+            "Kjevle og strekk deigen for hånd på en melet bakeplate",
+            "Tilsett tomatsaus (mengde etter smak)",
+            "Tilsett salt, pepper, pizzakrydder eller provencekrydder, og friske basilikumblader",
+            "Fordel mozzarellaen i store biter (ikke avrent hvis ovnen bare når 250°C) slik at den smelter sakte uten å brunes",
+            "Drypp litt olivenolje over",
+            "Stek i omtrent 10 minutter, helst nederst i ovnen med varmluft"
+          ]
+        }
+      ]
+    },
+    "tr": {
+      "name": "Margherita",
+      "notes": "Pizza hamuru: ekmek hamuru ile aynı yöntem, ancak 100 g un için 65–75 mL su kullanılır.",
+      "ingredients": [
+        {
+          "part": "Hamur (1 pizza için)",
+          "ingredients": [
+            "200–250 g un",
+            "Un miktarının %65’i kadar musluk suyu",
+            "Baget ekmeğinden biraz daha fazla maya",
+            "Yarım çay kaşığı tuz"
+          ]
+        },
+        {
+          "part": "Pizza",
+          "ingredients": [
+            "Domates sosu",
+            "1 top Mozzarella peyniri",
+            "Taze fesleğen",
+            "Zeytinyağı",
+            "Tuz, karabiber, otlar"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "part": "Hamur",
+          "instructions": [
+            "Tahta kaşıkla karıştırın",
+            "En az 5 saat dinlendirin"
+          ]
+        },
+        {
+          "part": "Pizza",
+          "instructions": [
+            "Fırını maksimum sıcaklığa (250°C veya üzeri, ideal olarak 450°C) ısıtın",
+            "Hamuru unlanmış tepsiye elinizle açıp gerin",
+            "Domates sosunu ekleyin (miktar size bağlı)",
+            "Tuz, karabiber, pizza baharatı veya Provence otları ve taze fesleğen yaprakları ekleyin",
+            "Mozzarella topunu büyük parçalara ayırarak yerleştirin (fırın 250°C’yi geçmiyorsa süzmeden), yavaşça eriyip kızarmaması için",
+            "Bir miktar zeytinyağı gezdirin",
+            "Yaklaşık 10 dakika, tercihen fırının alt kısmında, fanlı modda pişirin"
+          ]
+        }
+      ]
+    },
+    "ja": {
+      "name": "マルゲリータ",
+      "notes": "ピザ生地：パン生地と同じ作り方だが、小麦粉100gに対して65〜75mLの水を使用する。",
+      "ingredients": [
+        {
+          "part": "生地（1枚分）",
+          "ingredients": [
+            "小麦粉 200〜250g",
+            "小麦粉重量の65％の水（水道水）",
+            "バゲットよりやや多めの酵母",
+            "塩 小さじ1/2"
+          ]
+        },
+        {
+          "part": "ピザ",
+          "ingredients": [
+            "トマトソース",
+            "モッツァレラチーズ 1個",
+            "フレッシュバジル",
+            "オリーブオイル",
+            "塩、こしょう、ハーブ"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "part": "生地",
+          "instructions": [
+            "木のスプーンで混ぜる",
+            "少なくとも5時間休ませる"
+          ]
+        },
+        {
+          "part": "ピザ",
+          "instructions": [
+            "オーブンを最大温度（250°C以上、理想は450°C）に予熱する",
+            "打ち粉をした天板の上で生地を手で伸ばす",
+            "トマトソースを適量広げる",
+            "塩、こしょう、ピザハーブまたはプロヴァンスハーブ、新鮮なバジルの葉を加える",
+            "モッツァレラチーズを大きめにちぎってのせる（オーブンが250°Cまでの場合は水切り不要）",
+            "オリーブオイルを少量かける",
+            "オーブンの下段で約10分、熱風モードで焼く"
+          ]
+        }
+      ]
+    },
+    "zh": {
+      "name": "玛格丽塔披萨",
+      "notes": "披萨面团：与面包面团相同的做法，但每 100 克面粉需使用 65 至 75 mL 的水。",
+      "ingredients": [
+        {
+          "part": "面团（1 个披萨）",
+          "ingredients": [
+            "200–250 克面粉",
+            "水量为面粉重量的 65%",
+            "比法棍稍多的酵母",
+            "半茶匙盐"
+          ]
+        },
+        {
+          "part": "披萨",
+          "ingredients": [
+            "番茄酱",
+            "1 个马苏里拉芝士球",
+            "新鲜罗勒",
+            "橄榄油",
+            "盐、胡椒、香草"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "part": "面团",
+          "instructions": [
+            "用木勺搅拌混合",
+            "静置发酵至少 5 小时"
+          ]
+        },
+        {
+          "part": "披萨",
+          "instructions": [
+            "将烤箱预热至最高温度（250°C 或以上，理想为 450°C）",
+            "将面团放在撒了面粉的烤盘上，用手拉伸成形",
+            "加入适量番茄酱",
+            "加入盐、胡椒、披萨香草或普罗旺斯香草、新鲜罗勒叶",
+            "放上马苏里拉芝士（若烤箱仅达 250°C，无需沥干），切成大块以便慢慢融化而不焦黄",
+            "淋上少许橄榄油",
+            "放入烤箱下层烘烤约 10 分钟，建议使用热风模式"
           ]
         }
       ]
@@ -1182,6 +1802,44 @@
         "Tilsett resten av melken og fullfør røren på noen sekunder.",
         "La hvile i minst 2 timer.",
         "Steking: bruk en non-stick-panne på høy varme, hell i en øse røre og rist pannen for å fordele jevnt."
+      ]
+    },
+    "es": {
+      "name": "Crêpes",
+      "notes": "Masa para crêpes sin grumos, sin batidora, receta rápida. El truco: usar cantidades iguales de ingredientes sólidos y líquidos. Fuente: https://www.youtube.com/watch?v=p-XOehv3j20",
+      "ingredients": [
+        "250 g de harina",
+        "500 ml de leche",
+        "3 huevos",
+        "30 g de mantequilla / 30 ml de aceite neutro",
+        "Azúcar para dar color (opcional)",
+        "Una pizca de sal"
+      ],
+      "instructions": [
+        "Poner todos los ingredientes en un bol, pero solo 1/3 de la leche.",
+        "Batir con energía durante unos 30 segundos hasta obtener una masa espesa y sin grumos.",
+        "Añadir el resto de la leche y terminar de mezclar en pocos segundos.",
+        "Dejar reposar al menos 2 horas.",
+        "Cocinar en una sartén antiadherente a fuego fuerte (incluso máximo), verter con un cucharón y mover la sartén para distribuir la masa de manera uniforme."
+      ]
+    },
+    "tr": {
+      "name": "Krep",
+      "notes": "Pürüzsüz, topaksız krep hamuru — mikser gerekmez, hızlı tarif. Püf noktası: katı ve sıvı malzemeleri eşit oranlarda kullanmak. Kaynak: https://www.youtube.com/watch?v=p-XOehv3j20",
+      "ingredients": [
+        "250 g un",
+        "500 ml süt",
+        "3 yumurta",
+        "30 g tereyağı / 30 ml nötr yağ",
+        "Renk vermek için şeker (isteğe bağlı)",
+        "Bir tutam tuz"
+      ],
+      "instructions": [
+        "Tüm malzemeleri bir kaba koyun, ancak sütün sadece 1/3’ünü ekleyin.",
+        "Tel çırpıcıyla yaklaşık 30 saniye karıştırın; koyu, topaksız bir hamur elde edin.",
+        "Kalan sütü ekleyip birkaç saniyede karıştırmayı tamamlayın.",
+        "En az 2 saat dinlendirin.",
+        "Yapışmaz tavada yüksek (hatta maksimum) ateşte pişirin; kepçeyle dökün ve hamurun yayılması için tavayı hafifçe sallayın."
       ]
     },
     "ja": {
@@ -1417,6 +2075,27 @@
         "Bland tahini + sitron + salt + hvitløk + krydder i en egen bolle.",
         "Tilsett kikerter + vann, bland til en jevn konsistens.",
         "Server, lag en liten grop, hell over olivenolje og dryss med paprika/sumak."
+      ]
+    },
+    "tr": {
+      "name": "Humus",
+      "notes": "Blender kullanılmadan yapılan tarif — kremamsı olmayan ama yeterince pürüzsüz ve tatmin edici bir doku. Buzlu su eklenmezse rengi biraz daha koyu olur. Daha fazla ilham için: https://www.youtube.com/watch?v=NbXC0B83S7k",
+      "ingredients": [
+        "250 g haşlanmış ve süzülmüş nohut",
+        "60 g tahin (yaklaşık 4 yemek kaşığı)",
+        "Yarım limonun suyu (30 mL ≈ 2 yemek kaşığı)",
+        "1–2 diş ince doğranmış sarımsak",
+        "Tuz",
+        "Kimyon (isteğe bağlı)",
+        "3–6 yemek kaşığı buzlu su",
+        "2 yemek kaşığı zeytinyağı (+ servis için ekstra)"
+      ],
+      "instructions": [
+        "Nohutları ılık su dolu bir kapta ellerinizle ovalayarak kabuklarını çıkarın.",
+        "Ezici veya çatalla iyice ezin (püre ezici hızlıdır, çatalla yapmak daha uzun sürer).",
+        "Ayrı bir kapta tahin, limon suyu, tuz, sarımsak ve baharatları karıştırın.",
+        "Nohutları ve suyu ekleyip pürüzsüz bir kıvam alana kadar karıştırın.",
+        "Servis ederken ortasına çukur açın, zeytinyağı gezdirin ve üzerine toz kırmızı biber veya sumak serpin."
       ]
     },
     "ja": {
