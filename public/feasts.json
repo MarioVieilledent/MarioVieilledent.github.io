@@ -5,7 +5,10 @@
     "countryCode": "fr",
     "date": "2025-09-09",
     "ranking": 9.0,
-    "pictures": ["French_meal_plate.jpg", "French_meal_apero.jpg"],
+    "pictures": [
+      "French_meal_plate.jpg",
+      "French_meal_apero.jpg"
+    ],
     "en": {
       "name": "Beef fillet and hash browns",
       "idea": [
@@ -193,7 +196,10 @@
     "countryCode": "tr",
     "date": "2025-09-18",
     "ranking": 8,
-    "pictures": ["Turkish_meal_plate.jpg", "Turkish_meal_table.jpg"],
+    "pictures": [
+      "Turkish_meal_plate.jpg",
+      "Turkish_meal_table.jpg"
+    ],
     "en": {
       "name": "Pilaf rice",
       "country": "Repas Turc",
@@ -312,7 +318,10 @@
     "countryCode": "us",
     "date": "2025-09-25",
     "ranking": 8.5,
-    "pictures": ["American_meal_plate.jpg", "American_meal_table.jpg"],
+    "pictures": [
+      "American_meal_plate.jpg",
+      "American_meal_table.jpg"
+    ],
     "en": {
       "name": "Smash burger, fries and homemade mayo",
       "country": "American meal",
@@ -419,7 +428,10 @@
     "countryCode": "mx",
     "date": "2025-10-02",
     "ranking": 8.5,
-    "pictures": ["Mexican_meal_table.jpg", "Mexican_meal_apero_table.jpg"],
+    "pictures": [
+      "Mexican_meal_table.jpg",
+      "Mexican_meal_apero_table.jpg"
+    ],
     "en": {
       "name": "Chili con carne",
       "country": "Mexican meal",
@@ -764,6 +776,209 @@
             "面包的蒜味配料错误：不能即兴；我让助手把橄榄油和新鲜大蒜混合，结果在面包上太辛辣。但我想成功做出好的蒜香纳恩面包，所以值得深入研究。",
             "蛋糕切割错误：不容易切 — 切割是一门艺术，不能搞砸",
             "别忘了，在朋友聚餐时，用平底锅做“scarpetta”——用面包蘸肉汁／肉的精华。"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "mealNumber": 6,
+    "id": "japaneseMeal",
+    "countryCode": "jp",
+    "date": "2025-10-12",
+    "ranking": 8.5,
+    "pictures": [
+      "Japanese_meal_plate.jpg",
+      "Japanese_meal_table.jpg"
+    ],
+    "en": {
+      "name": "Ramen",
+      "country": "Japanese meal",
+      "idea": [
+        "It was Sunday, I felt like cooking, but the girls weren't up yet. So I started by reheating the vegetable soup from three days ago, added some onion, a carrot, a small beetroot, and a piece of celery.",
+        "Then the girls showed up around noon, I suggested we cook together, and off we went — the three of us made flatbread in a pan, sautéed mushrooms, spaghetti, and a garlic-butter topping."
+      ],
+      "menu": [
+        "Ramen made with homemade vegetable broth, spaghetti used as noodles (cut in half — sacrilege!), sautéed mushrooms in butter and oil, Nori seaweed, fresh parsley, soy sauce",
+        "Homemade garlic naan (flatbread with garlic, butter, and parsley)",
+        "Slices of dry sausage, served as an appetizer",
+        "Julebrus (Norwegian Christmas soda) — way, WAY too early since it's mid-October"
+      ],
+      "notes": [
+        {
+          "title": "General",
+          "description": [
+            "Not an official Thursday dinner with all the Italians — more like an improvised Sunday lunch",
+            "Used the small ceramic 'sashimi' pieces from Belcastel to rest the chopsticks on",
+            "Still improving my cooking, plating, confidence, and multitasking skills!"
+          ]
+        }
+      ]
+    },
+    "fr": {
+      "name": "Ramen",
+      "country": "Repas Japonais",
+      "idea": [
+        "Donc c'était dimanche, j'avais envie de cuisiner, mais les filles n'étaient pas encore debout. Donc j'ai commencé à réchauffer la soupe de légumes d'il y a trois jours, j'y ai ajouté de l'oignon, une carotte, une petite betterave, un bout de céleri.",
+        "Puis les filles sont apparues vers midi, je leur ai proposé de cuisiner, et là c'était partit, on s'est mis à 3 pour faire : du pain plat à la poêle, des champignons à la poêle, des spaghetti, une garniture à l'ail et au beurre."
+      ],
+      "menu": [
+        "Ramen à base de bouillon de légumes maison, spaghetti en temps que nouilles (coupées en deux donc sacrilège), poêlée de champignons au beurre et à l'huile, algues Nori, persil frais, sauce soja",
+        "Garlic naan maison (pain plat oriental à l'ail, beurre et persil)",
+        "Bouts de saucisse sèche serin, en mode apéro",
+        "Julebrus (limonade norvégienne de noël) bien BIEN trop en avance car on est mi-octobre"
+      ],
+      "notes": [
+        {
+          "title": "Général",
+          "description": [
+            "Ce n'était pas un repas du jeudi soir officiel avec tous les italiens, plus un repas improvisé du dimanche midi",
+            "Utilisation des “sashimis” les petites pièces en céramique de Belcastel pour poser les baguettes dessus",
+            "Je continue à m'améliorer en cuisine, en présentation, en confiance, en multitâche !"
+          ]
+        }
+      ]
+    },
+    "it": {
+      "name": "Ramen",
+      "country": "Piatto giapponese",
+      "idea": [
+        "Era domenica, avevo voglia di cucinare, ma le ragazze non si erano ancora alzate. Così ho iniziato a riscaldare la zuppa di verdure di tre giorni fa, aggiungendo cipolla, una carota, una piccola barbabietola e un pezzo di sedano.",
+        "Poi le ragazze sono comparse verso mezzogiorno, ho proposto di cucinare insieme, e da lì è iniziato tutto: in tre abbiamo preparato pane piatto in padella, funghi saltati, spaghetti e una guarnizione di aglio e burro."
+      ],
+      "menu": [
+        "Ramen con brodo di verdure fatto in casa, spaghetti usati come noodles (tagliati a metà — sacrilegio!), funghi saltati nel burro e nell'olio, alga Nori, prezzemolo fresco, salsa di soia",
+        "Naan all'aglio fatto in casa (pane piatto orientale con aglio, burro e prezzemolo)",
+        "Fette di salsiccia secca, servite come antipasto",
+        "Julebrus (bibita norvegese natalizia) — decisamente troppo presto, visto che siamo a metà ottobre"
+      ],
+      "notes": [
+        {
+          "title": "Generale",
+          "description": [
+            "Non era una cena ufficiale del giovedì con tutti gli italiani, ma un pranzo improvvisato della domenica",
+            "Abbiamo usato i piccoli piattini in ceramica 'sashimi' di Belcastel per appoggiare le bacchette",
+            "Continuo a migliorare in cucina, nella presentazione, nella fiducia e nel multitasking!"
+          ]
+        }
+      ]
+    },
+    "es": {
+      "name": "Ramen",
+      "country": "Comida japonesa",
+      "idea": [
+        "Era domingo, tenía ganas de cocinar, pero las chicas aún no se habían levantado. Así que empecé calentando la sopa de verduras de hace tres días, le añadí cebolla, una zanahoria, una pequeña remolacha y un trozo de apio.",
+        "Luego las chicas aparecieron hacia el mediodía, les propuse cocinar y nos pusimos manos a la obra: hicimos pan plano a la sartén, champiñones salteados, espaguetis y una cobertura de ajo y mantequilla."
+      ],
+      "menu": [
+        "Ramen con caldo de verduras casero, espaguetis usados como fideos (cortados por la mitad, ¡un sacrilegio!), champiñones salteados en mantequilla y aceite, algas Nori, perejil fresco, salsa de soja",
+        "Pan plano de ajo casero (naan oriental con ajo, mantequilla y perejil)",
+        "Trozos de salchichón seco, como aperitivo",
+        "Julebrus (refresco noruego de Navidad) — demasiado, demasiado pronto, ¡estamos a mediados de octubre!"
+      ],
+      "notes": [
+        {
+          "title": "General",
+          "description": [
+            "No fue una cena oficial del jueves con todos los italianos, sino una comida improvisada de domingo al mediodía",
+            "Usamos las pequeñas piezas de cerámica 'sashimi' de Belcastel para apoyar los palillos",
+            "Sigo mejorando en cocina, presentación, confianza y multitarea"
+          ]
+        }
+      ]
+    },
+    "nb": {
+      "name": "Ramen",
+      "country": "Japansk måltid",
+      "idea": [
+        "Det var søndag, jeg hadde lyst til å lage mat, men jentene hadde ikke stått opp ennå. Så jeg begynte å varme opp grønnsakssuppen fra for tre dager siden, tilsatte løk, en gulrot, en liten rødbete og en bit selleri.",
+        "Så dukket jentene opp rundt middagstid, jeg foreslo at vi skulle lage mat sammen, og der startet det — vi tre lagde stekt flatbrød, sopp i panne, spaghetti og en topping med hvitløk og smør."
+      ],
+      "menu": [
+        "Ramen laget med hjemmelaget grønnsakskraft, spaghetti brukt som nudler (delt i to – nesten helligbrøde!), sopp stekt i smør og olje, Nori-tang, frisk persille, soyasaus",
+        "Hjemmelaget hvitløksnaan (orientalsk flatbrød med hvitløk, smør og persille)",
+        "Skiver av tørket pølse som snacks",
+        "Julebrus (norsk julebrus) — altfor tidlig, det er bare midten av oktober!"
+      ],
+      "notes": [
+        {
+          "title": "Generelt",
+          "description": [
+            "Dette var ikke en offisiell torsdagsmiddag med alle italienerne, bare en improvisert søndagslunsj",
+            "Vi brukte de små keramiske 'sashimi'-brikkene fra Belcastel til å hvile spisepinnene på",
+            "Jeg fortsetter å bli bedre på matlaging, presentasjon, selvtillit og multitasking!"
+          ]
+        }
+      ]
+    },
+    "tr": {
+      "name": "Ramen",
+      "country": "Japon yemeği",
+      "idea": [
+        "Pazar günüydü, yemek yapmak istedim ama kızlar henüz uyanmamıştı. Bu yüzden üç gün önce yaptığımız sebze çorbasını ısıttım, içine biraz soğan, bir havuç, küçük bir pancar ve bir parça kereviz ekledim.",
+        "Sonra kızlar öğleye doğru geldi, birlikte yemek yapmayı teklif ettim ve başladık — üçümüz birlikte tavada yassı ekmek, mantar sote, spagetti ve sarımsaklı tereyağlı bir sos hazırladık."
+      ],
+      "menu": [
+        "Ev yapımı sebze suyu bazlı ramen, erişte yerine spagetti (ikiye bölünmüş — büyük günah!), tereyağı ve yağda sotelenmiş mantar, Nori yosunu, taze maydanoz, soya sosu",
+        "Ev yapımı sarımsaklı naan (sarımsak, tereyağı ve maydanozlu doğu tarzı yassı ekmek)",
+        "Kuru sucuk dilimleri, aperatif olarak",
+        "Julebrus (Norveç'in Noel gazozu) — çok, ama çok erken, çünkü daha Ekim ortasındayız"
+      ],
+      "notes": [
+        {
+          "title": "Genel",
+          "description": [
+            "Bu, tüm İtalyanlarla yapılan resmi bir Perşembe akşam yemeği değil, daha çok doğaçlama bir pazar öğle yemeğiydi",
+            "Belcastel'den aldığımız küçük seramik 'sashimi' tabakçıklarıyla çubuklarımızı üzerine koyduk",
+            "Yemek yapma, sunum, özgüven ve çoklu görev becerilerimde gelişmeye devam ediyorum!"
+          ]
+        }
+      ]
+    },
+    "ja": {
+      "name": "ラーメン",
+      "country": "日本の食事",
+      "idea": [
+        "日曜日、料理がしたくなったけど、女の子たちはまだ起きていなかった。そこで3日前の野菜スープを温め、玉ねぎ、にんじん、小さなビーツ、セロリを少し加えた。",
+        "正午ごろに女の子たちが現れたので、一緒に料理しようと提案し、そこから始まった。3人でフライパンでフラットブレッド、きのこのソテー、スパゲッティ、ガーリックバターのトッピングを作った。"
+      ],
+      "menu": [
+        "自家製野菜スープをベースにしたラーメン。麺の代わりにスパゲッティ（半分に切って、まるで冒涜！）、バターと油で炒めたきのこ、海苔、フレッシュパセリ、しょうゆ。",
+        "自家製ガーリックナン（ガーリック・バター・パセリ入りのフラットブレッド）",
+        "ドライソーセージのスライス（前菜として）",
+        "ユーレブルース（ノルウェーのクリスマスソーダ）— 10月半ばにしてはかなり早すぎ！"
+      ],
+      "notes": [
+        {
+          "title": "全般",
+          "description": [
+            "イタリア人全員での木曜ディナーではなく、日曜の即興ランチだった。",
+            "お箸置きとしてベルカステルの陶器製「刺身皿」を使用。",
+            "料理・盛り付け・自信・マルチタスク能力、すべて少しずつ上達中！"
+          ]
+        }
+      ]
+    },
+    "zh": {
+      "name": "拉面",
+      "country": "日本餐",
+      "idea": [
+        "那是星期天，我想做饭，但女孩们还没起床。于是我开始加热三天前的蔬菜汤，加入了洋葱、一根胡萝卜、一小个甜菜和一点芹菜。",
+        "大约中午时女孩们出现了，我提议一起做饭，于是我们三个人一起做了平底锅烤饼、炒蘑菇、意大利面和蒜香黄油酱。"
+      ],
+      "menu": [
+        "自制蔬菜汤底拉面，用意大利面代替面条（切成两半——亵渎！），黄油和油炒蘑菇、紫菜、香菜、酱油",
+        "自制蒜香烤饼（含大蒜、黄油和香菜的东方薄饼）",
+        "切片风干香肠，作为开胃菜",
+        "Julebrus（挪威圣诞汽水）——现在是十月中旬，实在太早了！"
+      ],
+      "notes": [
+        {
+          "title": "一般",
+          "description": [
+            "这不是与意大利朋友们的正式周四晚餐，而是一次即兴的周日午餐",
+            "使用了来自 Belcastel 的小陶瓷“刺身”托盘来放筷子",
+            "我在烹饪、摆盘、自信和多任务处理方面都在不断进步！"
           ]
         }
       ]

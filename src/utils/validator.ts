@@ -60,6 +60,7 @@ export const feast = z.object({
   fr: feastDetails,
   it: feastDetails,
   nb: feastDetails.optional(),
+  tr: feastDetails.optional(),
   ja: feastDetails.optional(),
   zh: feastDetails.optional(),
 });
