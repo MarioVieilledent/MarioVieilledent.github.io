@@ -49,7 +49,7 @@ export const feastDetails = z.object({
   ),
 });
 
-export const feast = z.object({
+export const feast = z.looseObject({
   mealNumber: z.number(),
   id: z.string(),
   countryCode: z.string(),
@@ -59,6 +59,7 @@ export const feast = z.object({
   en: feastDetails,
   fr: feastDetails,
   it: feastDetails,
+  es: feastDetails.optional(),
   nb: feastDetails.optional(),
   tr: feastDetails.optional(),
   ja: feastDetails.optional(),
