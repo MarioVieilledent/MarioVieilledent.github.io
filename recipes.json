@@ -67,7 +67,9 @@
   {
     "category": "riceAndPasta",
     "id": "pilafRice",
-    "pictures": ["riz_pilaf.jpg"],
+    "pictures": [
+      "riz_pilaf.jpg"
+    ],
     "en": {
       "name": "Spiced pilaf rice with meat",
       "ingredients": [
@@ -264,7 +266,9 @@
   {
     "category": "riceAndPasta",
     "id": "risottoSpaghetti",
-    "pictures": ["spaghetti_risottatura.jpg"],
+    "pictures": [
+      "spaghetti_risottatura.jpg"
+    ],
     "en": {
       "name": "Risotto-style Spaghetti",
       "notes": "A humble Italian technique for tastier and creamier spaghetti. It's a real upgrade for spaghetti lovers, especially those who enjoy garlic. You can also adapt the method using meat or fish juices left in a hot pan.",
@@ -397,7 +401,9 @@
   {
     "category": "riceAndPasta",
     "id": "freshPasta",
-    "pictures": ["pates_fraiches.jpg"],
+    "pictures": [
+      "pates_fraiches.jpg"
+    ],
     "en": {
       "name": "Homemade fresh pasta with hand crank",
       "notes": "Allows eating 1 egg per person without overcooking the egg, so very healthy and without the taste of the egg being too pronounced.",
@@ -453,7 +459,9 @@
   {
     "category": "meatAndFish",
     "id": "salmonFillets",
-    "pictures": ["patates_rissolees_et_filets_saumon.jpg"],
+    "pictures": [
+      "patates_rissolees_et_filets_saumon.jpg"
+    ],
     "en": {
       "name": "Oven-baked Salmon Fillets",
       "notes": "Already a very good recipe, but can be refined and perfected. I like to serve it with spaghetti — even better when cooked risotto-style.",
@@ -526,7 +534,9 @@
   {
     "category": "doughAndBread",
     "id": "baguette",
-    "pictures": ["baguettes.jpg"],
+    "pictures": [
+      "baguettes.jpg"
+    ],
     "en": {
       "name": "Baguette",
       "notes": "Be careful — a rare recipe that truly reaches S Tier, if not God Tier. Incredibly simple, very cheap, and requires very little active time. The 4 ingredients symbolize the 4 elements: flour for earth, water, yeast for air, and salt for fire. Source: https://www.youtube.com/watch?v=Z-husjZkxHw",
@@ -627,7 +637,7 @@
       "notes": "Dikkat! Nadir bir tarif, S Tier hatta God Tier seviyesine ulaşır. İnanılmaz derecede basit, çok ucuz ve neredeyse hiç iş gerektirmez. Dört malzeme dört elementi temsil eder: un toprak, su su, maya hava ve tuz ateştir. Kaynak: https://www.youtube.com/watch?v=Z-husjZkxHw",
       "ingredients": [
         "Un (her baget için 200 g)",
-        "Oda sıcaklığında su, un miktarının %80’i kadar",
+        "Oda sıcaklığında su, un miktarının %80'i kadar",
         "500 g un için 1–2 g kuru maya",
         "500 g un için tepeleme 1 tatlı kaşığı tuz"
       ],
@@ -638,7 +648,7 @@
         "Hamuru spatula ile unlayıp kaptan çıkarın, unlanmış pişirme kağıdının üzerine koyun.",
         "Hamuru ezmeden spatula ile istediğiniz sayıda bagete bölün.",
         "Ellerinizle hafifçe uzatarak baget şeklini verin.",
-        "250 °C’de 25 dakika pişirin."
+        "250 °C'de 25 dakika pişirin."
       ]
     },
     "ja": {
@@ -683,7 +693,9 @@
   {
     "category": "doughAndBread",
     "id": "lavashBread",
-    "pictures": ["lavash_bread.jpg"],
+    "pictures": [
+      "lavash_bread.jpg"
+    ],
     "en": {
       "name": "Oriental Flatbread \"Lavash\"",
       "notes": "Turkish/Armenian flatbread cooked in a pan, similar to Indian naan. Recipe from Hungry Man Kitchen (YouTube).",
@@ -1088,7 +1100,9 @@
   {
     "category": "doughAndBread",
     "id": "burgerBuns",
-    "pictures": ["burger_dish.jpg"],
+    "pictures": [
+      "burger_dish.jpg"
+    ],
     "en": {
       "name": "Burger Buns",
       "notes": "Makes 8 buns",
@@ -1107,7 +1121,11 @@
         },
         {
           "part": "Egg wash",
-          "ingredients": ["1 egg yolk", "1 tablespoon milk", "Sesame seeds"]
+          "ingredients": [
+            "1 egg yolk",
+            "1 tablespoon milk",
+            "Sesame seeds"
+          ]
         }
       ],
       "instructions": [
@@ -1217,7 +1235,11 @@
         },
         {
           "part": "Pensling",
-          "ingredients": ["1 eggeplomme", "1 spiseskje melk", "Sesamfrø"]
+          "ingredients": [
+            "1 eggeplomme",
+            "1 spiseskje melk",
+            "Sesamfrø"
+          ]
         }
       ],
       "instructions": [
@@ -1237,7 +1259,9 @@
   {
     "category": "doughAndBread",
     "id": "Bretzel",
-    "pictures": ["bretzels.jpg"],
+    "pictures": [
+      "bretzels.jpg"
+    ],
     "en": {
       "name": "Pretzel",
       "notes": "ChatGPT recipe. Perfect for breakfast, sliced lengthwise and generously buttered like a traditional Butterbrezel.",
@@ -1255,7 +1279,10 @@
         },
         {
           "part": "Baking soda bath",
-          "ingredients": ["1 l water", "40 g food-grade baking soda"]
+          "ingredients": [
+            "1 l water",
+            "40 g food-grade baking soda"
+          ]
         }
       ],
       "instructions": [
@@ -1318,7 +1345,10 @@
         },
         {
           "part": "Bagno di bicarbonato",
-          "ingredients": ["1 l acqua", "40 g bicarbonato alimentare"]
+          "ingredients": [
+            "1 l acqua",
+            "40 g bicarbonato alimentare"
+          ]
         }
       ],
       "instructions": [
@@ -1348,7 +1378,10 @@
         },
         {
           "part": "Bakepulverbad",
-          "ingredients": ["1 l vann", "40 g natron (matkvalitet)"]
+          "ingredients": [
+            "1 l vann",
+            "40 g natron (matkvalitet)"
+          ]
         }
       ],
       "instructions": [
@@ -1365,7 +1398,9 @@
   {
     "category": "pizzas",
     "id": "margherita",
-    "pictures": ["pizza_margherita.jpg"],
+    "pictures": [
+      "pizza_margherita.jpg"
+    ],
     "en": {
       "name": "Margherita",
       "notes": "Pizza dough: same method as bread dough, but with 65-75 mL of water per 100 g of flour.",
@@ -1577,7 +1612,10 @@
       "instructions": [
         {
           "part": "Deig",
-          "instructions": ["Bland med en tresleiv", "La heve i minst 5 timer"]
+          "instructions": [
+            "Bland med en tresleiv",
+            "La heve i minst 5 timer"
+          ]
         },
         {
           "part": "Pizza",
@@ -1601,7 +1639,7 @@
           "part": "Hamur (1 pizza için)",
           "ingredients": [
             "200–250 g un",
-            "Un miktarının %65’i kadar musluk suyu",
+            "Un miktarının %65'i kadar musluk suyu",
             "Baget ekmeğinden biraz daha fazla maya",
             "Yarım çay kaşığı tuz"
           ]
@@ -1632,7 +1670,7 @@
             "Hamuru unlanmış tepsiye elinizle açıp gerin",
             "Domates sosunu ekleyin (miktar size bağlı)",
             "Tuz, karabiber, pizza baharatı veya Provence otları ve taze fesleğen yaprakları ekleyin",
-            "Mozzarella topunu büyük parçalara ayırarak yerleştirin (fırın 250°C’yi geçmiyorsa süzmeden), yavaşça eriyip kızarmaması için",
+            "Mozzarella topunu büyük parçalara ayırarak yerleştirin (fırın 250°C'yi geçmiyorsa süzmeden), yavaşça eriyip kızarmaması için",
             "Bir miktar zeytinyağı gezdirin",
             "Yaklaşık 10 dakika, tercihen fırının alt kısmında, fanlı modda pişirin"
           ]
@@ -1666,7 +1704,10 @@
       "instructions": [
         {
           "part": "生地",
-          "instructions": ["木のスプーンで混ぜる", "少なくとも5時間休ませる"]
+          "instructions": [
+            "木のスプーンで混ぜる",
+            "少なくとも5時間休ませる"
+          ]
         },
         {
           "part": "ピザ",
@@ -1709,7 +1750,10 @@
       "instructions": [
         {
           "part": "面团",
-          "instructions": ["用木勺搅拌混合", "静置发酵至少 5 小时"]
+          "instructions": [
+            "用木勺搅拌混合",
+            "静置发酵至少 5 小时"
+          ]
         },
         {
           "part": "披萨",
@@ -1729,7 +1773,9 @@
   {
     "category": "sweet",
     "id": "crepes",
-    "pictures": ["crepes_nutella.jpg"],
+    "pictures": [
+      "crepes_nutella.jpg"
+    ],
     "en": {
       "name": "Crêpes",
       "notes": "Smooth batter without lumps, no blender needed, quick recipe. Tip: balance solid and liquid bases in equal quantities: https://www.youtube.com/watch?v=p-XOehv3j20",
@@ -1837,7 +1883,7 @@
         "Bir tutam tuz"
       ],
       "instructions": [
-        "Tüm malzemeleri bir kaba koyun, ancak sütün sadece 1/3’ünü ekleyin.",
+        "Tüm malzemeleri bir kaba koyun, ancak sütün sadece 1/3'ünü ekleyin.",
         "Tel çırpıcıyla yaklaşık 30 saniye karıştırın; koyu, topaksız bir hamur elde edin.",
         "Kalan sütü ekleyip birkaç saniyede karıştırmayı tamamlayın.",
         "En az 2 saat dinlendirin.",
@@ -1969,9 +2015,11 @@
     }
   },
   {
-    "category": "mezes",
+    "category": "mezesAndSauces",
     "id": "hummus",
-    "pictures": ["hummus.jpg"],
+    "pictures": [
+      "hummus.jpg"
+    ],
     "en": {
       "name": "Hummus",
       "notes": "Without a blender, the texture is not creamy but still satisfying; without ice water, the color is darker. More inspiration here: https://www.youtube.com/watch?v=NbXC0B83S7k",
@@ -2024,15 +2072,15 @@
         "1 o 2 spicchi d'aglio tritati",
         "Sale",
         "Cumino (facoltativo)",
-        "3–6 cucchiai d’acqua ghiacciata",
-        "2 cucchiai d’olio d’oliva (+ altro per servire)"
+        "3–6 cucchiai d'acqua ghiacciata",
+        "2 cucchiai d'olio d'oliva (+ altro per servire)"
       ],
       "instructions": [
         "Sbucciare i ceci strofinandoli tra le mani in una ciotola di acqua tiepida.",
         "Schiacciarli finemente (schiacciapatate = veloce, forchetta = lento).",
         "A parte, mescolare tahina + limone + sale + aglio + spezie.",
-        "Aggiungere i ceci + l’acqua, mescolare fino a ottenere una consistenza liscia.",
-        "Servire, creare un incavo, irrorare con olio d’oliva, spolverare con paprika/sumac."
+        "Aggiungere i ceci + l'acqua, mescolare fino a ottenere una consistenza liscia.",
+        "Servire, creare un incavo, irrorare con olio d'oliva, spolverare con paprika/sumac."
       ]
     },
     "es": {
@@ -2138,6 +2186,165 @@
         "另取一碗，混合芝麻酱＋柠檬汁＋盐＋大蒜＋香料。",
         "加入鹰嘴豆和水，搅拌至顺滑。",
         "装盘，在中间挖一个小坑，淋上橄榄油，撒上红椒粉或酸角粉。"
+      ]
+    }
+  },
+  {
+    "category": "mezesAndSauces",
+    "id": "garlic_mayonnaise",
+    "pictures": [
+      "garlic_mayonnaise.jpg"
+    ],
+    "en": {
+      "name": "Garlic Mayonnaise",
+      "notes": "Better than classic mayonnaise and better than aioli — garlic mayo is a taste orgasm. One egg yolk makes a large amount of mayo at once; it keeps for 2 days in the fridge. Classic mayonnaise recipe by Etchebest: https://www.youtube.com/watch?v=DKXoha0_Mbk",
+      "ingredients": [
+        "1 fresh egg yolk",
+        "2 tsp Dijon mustard",
+        "1 tsp white vinegar (or lemon juice)",
+        "Salt",
+        "Pepper (optional)",
+        "200 ml neutral oil",
+        "6 cloves garlic, finely chopped"
+      ],
+      "instructions": [
+        "In a small pan over low heat, sauté the chopped garlic in 50 ml of oil for about 3 minutes without letting it brown (purpose: remove bitterness while keeping its aroma).",
+        "Place the egg yolk, mustard, vinegar, salt, and pepper in a bowl.",
+        "Slowly whisk in 150 ml of oil while mixing constantly.",
+        "Add the warm garlic-infused oil, finish emulsifying the mayo, and it's ready."
+      ]
+    },
+    "fr": {
+      "name": "Mayonnaise à l'ail",
+      "notes": "Meilleure que la mayonnaise classique et meilleure que l'aïoli, la mayonnaise à l'ail est un orgasme gustatif. Un jaune d'oeuf fait énormément de mayo d'un coup, elle se conserve 2 jours au frigo. Recette de la mayonnaise classique d'Etchebest : https://www.youtube.com/watch?v=DKXoha0_Mbk",
+      "ingredients": [
+        "1 jaune d'oeuf frais",
+        "2 c. à c de moutarde de Dijon",
+        "1 c. à c de vinaigre blanc (ou jus de citron)",
+        "Sel",
+        "Poivre (facultatif)",
+        "200 ml d'huile neutre",
+        "6 gousses d'ail finement hachées"
+      ],
+      "instructions": [
+        "Dans une petite poêle, à feu doux, faire revenir l'ail haché dans 50 ml d'huile pendant environ 3 minutes, sans le laisser colorer (but : enlever l'amertume de l'ail tout en gardant son parfum).",
+        "Mettre jaune d'oeuf, moutarde, vinaigre, sel et poivre dans bol.",
+        "Incorporer doucement 150 ml d'huile tout en fouettant.",
+        "Ajouter l'huile infusée à l'ail tiède, finir de monter la mayo et c'est prêt."
+      ]
+    },
+    "it": {
+      "name": "Maionese all'aglio",
+      "notes": "Meglio della maionese classica e meglio dell’aioli: la maionese all’aglio è un’estasi di gusto. Un tuorlo produce molta maionese in una volta sola; si conserva per 2 giorni in frigorifero. Ricetta della maionese classica di Etchebest: https://www.youtube.com/watch?v=DKXoha0_Mbk",
+      "ingredients": [
+        "1 tuorlo d’uovo fresco",
+        "2 cucchiaini di senape di Digione",
+        "1 cucchiaino di aceto bianco (o succo di limone)",
+        "Sale",
+        "Pepe (facoltativo)",
+        "200 ml di olio neutro",
+        "6 spicchi d’aglio tritati finemente"
+      ],
+      "instructions": [
+        "In una piccola padella, a fuoco basso, soffriggere l’aglio tritato in 50 ml di olio per circa 3 minuti senza farlo dorare (scopo: togliere l’amaro mantenendo il profumo).",
+        "Mettere il tuorlo, la senape, l’aceto, il sale e il pepe in una ciotola.",
+        "Incorporare lentamente 150 ml di olio mescolando continuamente.",
+        "Aggiungere l’olio all’aglio tiepido, finire di montare la maionese ed è pronta."
+      ]
+    },
+    "es": {
+      "name": "Mayonesa de ajo",
+      "notes": "Mejor que la mayonesa clásica y mejor que el alioli: la mayonesa de ajo es un placer absoluto. Una yema de huevo produce mucha mayonesa de una vez; se conserva 2 días en el frigorífico. Receta de la mayonesa clásica de Etchebest: https://www.youtube.com/watch?v=DKXoha0_Mbk",
+      "ingredients": [
+        "1 yema de huevo fresca",
+        "2 cucharaditas de mostaza de Dijon",
+        "1 cucharadita de vinagre blanco (o jugo de limón)",
+        "Sal",
+        "Pimienta (opcional)",
+        "200 ml de aceite neutro",
+        "6 dientes de ajo finamente picados"
+      ],
+      "instructions": [
+        "En una sartén pequeña a fuego bajo, saltear el ajo picado en 50 ml de aceite durante unos 3 minutos sin dejar que se dore (objetivo: quitar el amargor manteniendo su aroma).",
+        "Poner la yema, la mostaza, el vinagre, la sal y la pimienta en un bol.",
+        "Incorporar lentamente 150 ml de aceite mientras se bate constantemente.",
+        "Añadir el aceite templado con ajo, terminar de montar la mayonesa y listo."
+      ]
+    },
+    "nb": {
+      "name": "Hvitløksmajones",
+      "notes": "Bedre enn klassisk majones og bedre enn aioli – hvitløksmajones er en smaksopplevelse uten like. Én eggeplomme gir mye majones; den holder seg i kjøleskapet i 2 dager. Klassisk majonesoppskrift fra Etchebest: https://www.youtube.com/watch?v=DKXoha0_Mbk",
+      "ingredients": [
+        "1 fersk eggeplomme",
+        "2 ts Dijon-sennep",
+        "1 ts hvitvinseddik (eller sitronsaft)",
+        "Salt",
+        "Pepper (valgfritt)",
+        "200 ml nøytral olje",
+        "6 fedd hvitløk, finhakket"
+      ],
+      "instructions": [
+        "I en liten panne, varm 50 ml olje på lav varme og fres den hakkede hvitløken i ca. 3 minutter uten å la den få farge (hensikt: fjerne bitterhet, men bevare aromaen).",
+        "Ha eggeplomme, sennep, eddik, salt og pepper i en bolle.",
+        "Tilsett sakte 150 ml olje mens du visper kontinuerlig.",
+        "Tilsett den lune hvitløksoljen, visp til majonesen er ferdig – klar til servering."
+      ]
+    },
+    "tr": {
+      "name": "Sarımsaklı Mayonez",
+      "notes": "Klasik mayonezden ve aioliden daha lezzetli — sarımsaklı mayonez tam bir lezzet patlamasıdır. Bir yumurta sarısı bir anda çok miktarda mayonez yapar; buzdolabında 2 gün dayanır. Etchebest’in klasik mayonez tarifi: https://www.youtube.com/watch?v=DKXoha0_Mbk",
+      "ingredients": [
+        "1 taze yumurta sarısı",
+        "2 çay kaşığı Dijon hardalı",
+        "1 çay kaşığı beyaz sirke (veya limon suyu)",
+        "Tuz",
+        "Karabiber (isteğe bağlı)",
+        "200 ml nötr yağ",
+        "6 diş sarımsak, ince doğranmış"
+      ],
+      "instructions": [
+        "Küçük bir tavada, kısık ateşte 50 ml yağ içinde doğranmış sarımsağı yaklaşık 3 dakika kavurun, ancak kızartmayın (amaç: sarımsağın acılığını almak ve aromasını korumak).",
+        "Yumurta sarısını, hardalı, sirkeyi, tuzu ve karabiberi bir kaseye koyun.",
+        "Karıştırarak yavaşça 150 ml yağı ekleyin.",
+        "Ilık sarımsaklı yağı ekleyin, mayonezi tamamen karıştırın ve hazır."
+      ]
+    },
+    "ja": {
+      "name": "ガーリックマヨネーズ",
+      "notes": "クラシックマヨネーズやアイオリよりも美味しく、ガーリックマヨネーズはまさに味覚の悦びです。 卵黄1個でたっぷりのマヨネーズが作れます。冷蔵庫で2日間保存できます。 エチェベストのクラシックマヨネーズレシピ: https://www.youtube.com/watch?v=DKXoha0_Mbk",
+      "ingredients": [
+        "新鮮な卵黄 1個",
+        "ディジョンマスタード 小さじ2",
+        "白酢（またはレモン汁） 小さじ1",
+        "塩",
+        "コショウ（お好みで）",
+        "無味の油 200ml",
+        "ニンニク 6片（細かく刻む）"
+      ],
+      "instructions": [
+        "小さなフライパンに油50mlを入れ、弱火で刻んだニンニクを約3分炒めます。焦がさないように注意してください（目的：苦味を取り除き香りを保つ）。",
+        "ボウルに卵黄、マスタード、酢、塩、コショウを入れます。",
+        "混ぜながら少しずつ150mlの油を加えます。",
+        "温かいガーリックオイルを加え、マヨネーズを仕上げて完成です。"
+      ]
+    },
+    "zh": {
+      "name": "蒜味蛋黄酱",
+      "notes": "比传统蛋黄酱和蒜泥蛋黄酱都更美味——蒜味蛋黄酱是一种味觉享受。 一个蛋黄可以制作大量蛋黄酱；可在冰箱中保存2天。 Etchebest的经典蛋黄酱食谱：https://www.youtube.com/watch?v=DKXoha0_Mbk",
+      "ingredients": [
+        "1个新鲜蛋黄",
+        "2茶匙第戎芥末",
+        "1茶匙白醋（或柠檬汁）",
+        "盐",
+        "胡椒（可选）",
+        "200毫升无味油",
+        "6瓣大蒜，切碎"
+      ],
+      "instructions": [
+        "在小锅中，用小火将切碎的大蒜放入50毫升油中煸炒约3分钟，不要炒至变色（目的：去除苦味同时保留香气）。",
+        "在碗中放入蛋黄、芥末、醋、盐和胡椒。",
+        "一边搅拌一边慢慢加入150毫升油。",
+        "加入温热的蒜香油，继续搅拌至乳化完成，即可。"
       ]
     }
   }
