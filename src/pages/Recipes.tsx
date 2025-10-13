@@ -22,7 +22,7 @@ const categories = [
   "feasts",
   "soupsAndBroths",
   "doughAndBread",
-  "mezes",
+  "mezesAndSauces",
   "riceAndPasta",
   "meatAndFish",
   "pizzas",
