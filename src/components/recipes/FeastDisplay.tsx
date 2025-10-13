@@ -28,7 +28,7 @@ const FeastDisplay = ({ feast }: { feast: Feast }) => {
 
         <div className="flex items-center gap-4">
           <img
-            className="w-8"
+            className="w-16 border-1"
             src={`/flags/${feast.countryCode}.svg`}
             alt="Feast flag icon"
           />

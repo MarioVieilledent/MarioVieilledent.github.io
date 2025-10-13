@@ -39,7 +39,7 @@ const FeastCard = ({ feast }: { feast: Feast }) => {
           onClick={() => navigate(`${RECIPES_PATH}/feasts/${feast.id}`)}
         >
           <img
-            className="w-8"
+            className="w-8 border-1"
             src={`/flags/${feast.countryCode}.svg`}
             alt="Feast flag icon"
           />

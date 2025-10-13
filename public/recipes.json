@@ -67,9 +67,7 @@
   {
     "category": "riceAndPasta",
     "id": "pilafRice",
-    "pictures": [
-      "riz_pilaf.jpg"
-    ],
+    "pictures": ["riz_pilaf.jpg"],
     "en": {
       "name": "Spiced pilaf rice with meat",
       "ingredients": [
@@ -266,9 +264,7 @@
   {
     "category": "riceAndPasta",
     "id": "risottoSpaghetti",
-    "pictures": [
-      "spaghetti_risottatura.jpg"
-    ],
+    "pictures": ["spaghetti_risottatura.jpg"],
     "en": {
       "name": "Risotto-style Spaghetti",
       "notes": "A humble Italian technique for tastier and creamier spaghetti. It's a real upgrade for spaghetti lovers, especially those who enjoy garlic. You can also adapt the method using meat or fish juices left in a hot pan.",
@@ -401,9 +397,7 @@
   {
     "category": "riceAndPasta",
     "id": "freshPasta",
-    "pictures": [
-      "pates_fraiches.jpg"
-    ],
+    "pictures": ["pates_fraiches.jpg"],
     "en": {
       "name": "Homemade fresh pasta with hand crank",
       "notes": "Allows eating 1 egg per person without overcooking the egg, so very healthy and without the taste of the egg being too pronounced.",
@@ -459,9 +453,7 @@
   {
     "category": "meatAndFish",
     "id": "salmonFillets",
-    "pictures": [
-      "patates_rissolees_et_filets_saumon.jpg"
-    ],
+    "pictures": ["patates_rissolees_et_filets_saumon.jpg"],
     "en": {
       "name": "Oven-baked Salmon Fillets",
       "notes": "Already a very good recipe, but can be refined and perfected. I like to serve it with spaghetti — even better when cooked risotto-style.",
@@ -534,9 +526,7 @@
   {
     "category": "doughAndBread",
     "id": "baguette",
-    "pictures": [
-      "baguettes.jpg"
-    ],
+    "pictures": ["baguettes.jpg"],
     "en": {
       "name": "Baguette",
       "notes": "Be careful — a rare recipe that truly reaches S Tier, if not God Tier. Incredibly simple, very cheap, and requires very little active time. The 4 ingredients symbolize the 4 elements: flour for earth, water, yeast for air, and salt for fire. Source: https://www.youtube.com/watch?v=Z-husjZkxHw",
@@ -693,49 +683,53 @@
   {
     "category": "doughAndBread",
     "id": "lavashBread",
-    "pictures": [
-      "lavash_bread.jpg"
-    ],
+    "pictures": ["lavash_bread.jpg"],
     "en": {
       "name": "Oriental Flatbread \"Lavash\"",
       "notes": "Turkish/Armenian flatbread cooked in a pan, similar to Indian naan. Recipe from Hungry Man Kitchen (YouTube).",
       "ingredients": [
         "300 g flour",
         "200 ml warm water",
-        "10 g dry yeast",
+        "Dry yeast, depending on resting time (1h => 10g, 10h => 2g)",
+        "2 tbsp olive oil (optional, gives a softer texture)",
         "1 tbsp sugar",
-        "1 tsp salt",
-        "2 tbsp olive oil (optional, makes it softer)"
+        "1 tsp salt"
       ],
       "instructions": [
         {
-          "part": "Activate the yeast",
+          "part": "Dough preparation – easy method with long resting time",
+          "instructions": [
+            "Mix dry ingredients in a bowl, add water and oil, and mix vigorously for 2–3 minutes with the back of a wooden spoon.",
+            "Let rest at least 3–4 hours (5g yeast), or 8–10 hours (2g yeast)."
+          ]
+        },
+        {
+          "part": "Dough preparation – harder but faster method",
           "instructions": [
             "In a bowl, mix warm water with sugar and yeast.",
-            "Let rest for about 5-10 minutes until the mixture becomes foamy."
-          ]
-        },
-        {
-          "part": "Prepare the dough",
-          "instructions": [
+            "Let rest about 5–10 minutes until foamy (yeast activation).",
             "Add flour and salt to a large bowl.",
             "Pour in the yeast mixture (and olive oil if using).",
-            "Mix, then knead for 8-10 minutes until the dough is smooth and elastic."
-          ]
-        },
-        {
-          "part": "First rise",
-          "instructions": [
+            "Mix, then knead for 8–10 minutes until smooth and elastic.",
             "Cover the bowl and let the dough rise for about 1 hour (until doubled in size)."
           ]
         },
         {
-          "part": "Shape and cook",
+          "part": "Shaping",
           "instructions": [
-            "Flatten the dough and divide it into 8-10 equal balls.",
-            "Roll each ball into a circle or oval about 20 cm wide and 5-6 mm thick.",
-            "Heat a heavy or cast-iron pan over medium-high heat.",
-            "Cook each flatbread for 1-2 minutes on each side until puffed and golden spots appear."
+            "Flour the dough and work surface, flatten and divide into 8–10 equal balls.",
+            "Heat a thick or cast-iron pan (medium-high heat).",
+            "Flatten each dough ball by hand or by stretching with gravity.",
+            "Cook each flatbread 1–2 minutes per side until puffed and golden spots appear.",
+            "Important: cover the bread after cooking to prevent drying out."
+          ]
+        },
+        {
+          "part": "Optional garlic butter",
+          "instructions": [
+            "Melt 30g butter in a pan over low heat.",
+            "Add 3 minced garlic cloves and salt, let infuse for 2–3 minutes over very low heat without burning.",
+            "Brush the bread and sprinkle chopped coriander or parsley."
           ]
         }
       ]
@@ -746,40 +740,46 @@
       "ingredients": [
         "300 g farine",
         "200 ml eau tiède",
-        "10 g levure sèche",
+        "Levure sèche, dépend du temps de repos (1h => 10g, 10h => 2g)",
+        "2 c. à s. huile olive (optionnel, donne une texture plus souple)",
         "1 c. à s. sucre",
-        "1 c. à c. sel",
-        "2 c. à s. huile olive (optionnel, donne une texture plus souple)"
+        "1 c. à c. sel"
       ],
       "instructions": [
         {
-          "part": "Activer la levure",
+          "part": "Préparation pâte à pain - méthode facile à long temps de repos",
+          "instructions": [
+            "Mélanger le sec dans bol, ajouter eau et huile, mélanger vigoureusement 2-3 minutes avec le dos d'une grande cuillère en bois.",
+            "Laisser reposer au moins 3-4 heures (5g levure), sinon 8-10 heures (2g levure)."
+          ]
+        },
+        {
+          "part": "Préparation pâte à pain - méthode plus dure mais rapide",
           "instructions": [
             "Dans un bol, mélanger l'eau tiède avec le sucre et la levure.",
-            "Laisser reposer environ 5 à 10 minutes jusqu'à ce que le mélange mousse."
-          ]
-        },
-        {
-          "part": "Préparer la pâte",
-          "instructions": [
+            "Laisser reposer environ 5 à 10 minutes jusqu'à ce que le mélange mousse (activation de la levure).",
             "Ajouter la farine et le sel dans un grand bol.",
             "Verser le mélange à base de levure (et l'huile d'olive si vous en utilisez).",
-            "Mélanger, puis pétrir pendant 8 à 10 minutes jusqu'à obtenir une pâte lisse et élastique."
-          ]
-        },
-        {
-          "part": "Première levée",
-          "instructions": [
+            "Mélanger, puis pétrir pendant 8 à 10 minutes jusqu'à obtenir une pâte lisse et élastique.",
             "Couvrir le bol et laisser la pâte lever environ 1 heure (jusqu'à ce qu'elle double de volume)."
           ]
         },
         {
           "part": "Façonner",
           "instructions": [
-            "Aplatir la pâte et la diviser en 8 à 10 boules égales.",
-            "Abaisser chaque boule en un cercle ou ovale d'environ 20 cm de large et 5 à 6 mm d'épaisseur.",
-            "Chauffer une poêle épaisse ou une poêle en fonte (à feu moyen-vif).",
-            "Cuire chaque galette 1 à 2 minutes de chaque côté jusqu'à ce qu'elle gonfle et que des taches dorées apparaissent."
+            "Fariner la pate et le plan de travail, aplatir la pâte et la diviser en 8 à 10 boules égales.",
+            "Chauffer une poêle épaisse ou une poêle en fonte (à feu vif/moyen-vif).",
+            "Aplatir les pâtons à la main, avec le bout des doigts, ou en faisant jouer la gravité.",
+            "Cuire chaque galette 1 à 2 minutes de chaque côté jusqu'à ce qu'elle gonfle et que des taches dorées apparaissent.",
+            "Important : couvrir le pain après sa cuisson pour empêcher qu'il ne sèche."
+          ]
+        },
+        {
+          "part": "Beurre à l'ail optionnel",
+          "instructions": [
+            "Faire fondre 30g de beurre dans une poêle à feu doux",
+            "Ajouter 3 gousses ail haché et du sel, laissez infuser 2–3 minutes à feu très doux sans brûler l'ail.",
+            "Badigeonner le pain et ajouter de la coriandre ou du persil haché"
           ]
         }
       ]
@@ -790,84 +790,46 @@
       "ingredients": [
         "300 g farina",
         "200 ml acqua tiepida",
-        "10 g lievito secco",
-        "1 cucchiai di zucchero",
-        "1 cucchiaino di sale",
-        "2 cucchiai di olio d'oliva (opzionale, rende la pasta più morbida)"
+        "Lievito secco, a seconda del tempo di riposo (1h => 10g, 10h => 2g)",
+        "2 cucchiai di olio d'oliva (opzionale, rende la consistenza più morbida)",
+        "1 cucchiaio di zucchero",
+        "1 cucchiaino di sale"
       ],
       "instructions": [
         {
-          "part": "Attivare il lievito",
+          "part": "Preparazione dell'impasto – metodo facile con lungo riposo",
           "instructions": [
-            "In una ciotola, mescolare acqua tiepida, zucchero e lievito.",
-            "Lasciare riposare per circa 5-10 minuti finché il composto diventa schiumoso."
+            "Mescolare gli ingredienti secchi in una ciotola, aggiungere acqua e olio, mescolare energicamente per 2–3 minuti con il dorso di un cucchiaio di legno.",
+            "Lasciare riposare almeno 3–4 ore (5g lievito), oppure 8–10 ore (2g lievito)."
           ]
         },
         {
-          "part": "Preparare l'impasto",
+          "part": "Preparazione dell'impasto – metodo più difficile ma rapido",
           "instructions": [
-            "Aggiungere farina e sale in una grande ciotola.",
-            "Versare il composto di lievito (e l'olio d'oliva se lo si usa).",
-            "Mescolare e impastare per 8-10 minuti fino a ottenere un impasto liscio ed elastico."
+            "In una ciotola, mescolare acqua tiepida con zucchero e lievito.",
+            "Lasciare riposare 5–10 minuti fino a che non fa schiuma.",
+            "Aggiungere farina e sale in una ciotola grande.",
+            "Versare il composto di lievito (e l'olio d'oliva se usato).",
+            "Mescolare e impastare per 8–10 minuti fino a ottenere un impasto liscio ed elastico.",
+            "Coprire e lasciare lievitare per circa 1 ora (fino al raddoppio)."
           ]
         },
         {
-          "part": "Prima lievitazione",
+          "part": "Formatura",
           "instructions": [
-            "Coprire la ciotola e lasciare lievitare per circa 1 ora (finché raddoppia di volume)."
+            "Infarinare l'impasto e il piano di lavoro, appiattire e dividere in 8–10 palline uguali.",
+            "Scaldare una padella spessa o di ghisa (fuoco medio-alto).",
+            "Appiattire le palline a mano o con la gravità.",
+            "Cuocere ogni pane 1–2 minuti per lato fino a doratura.",
+            "Importante: coprire il pane dopo la cottura per non farlo seccare."
           ]
         },
         {
-          "part": "Formare e cuocere",
+          "part": "Burro all'aglio opzionale",
           "instructions": [
-            "Appiattire l'impasto e dividerlo in 8-10 palline uguali.",
-            "Stendere ogni pallina in un cerchio o ovale di circa 20 cm di diametro e 5-6 mm di spessore.",
-            "Riscaldare una padella pesante o di ghisa a fuoco medio-alto.",
-            "Cuocere ogni pane 1-2 minuti per lato finché si gonfia e compaiono macchie dorate."
-          ]
-        }
-      ]
-    },
-    "nb": {
-      "name": "Orientalsk flatbrød \"Lavash\"",
-      "notes": "Tyrkisk/armensk flatbrød stekt i panne, likt indisk naan. Oppskrift fra Hungry Man Kitchen (YouTube).",
-      "ingredients": [
-        "300 g mel",
-        "200 ml lunkent vann",
-        "10 g tørrgjær",
-        "1 ss sukker",
-        "1 ts salt",
-        "2 ss olivenolje (valgfritt, gir mykere konsistens)"
-      ],
-      "instructions": [
-        {
-          "part": "Aktivere gjæren",
-          "instructions": [
-            "I en bolle, bland lunkent vann med sukker og gjær.",
-            "La stå i 5-10 minutter til blandingen blir skummende."
-          ]
-        },
-        {
-          "part": "Forberede deigen",
-          "instructions": [
-            "Ha mel og salt i en stor bolle.",
-            "Tilsett gjærblandingen (og olivenolje hvis du bruker det).",
-            "Bland og elt i 8-10 minutter til deigen er glatt og elastisk."
-          ]
-        },
-        {
-          "part": "Første heving",
-          "instructions": [
-            "Dekk bollen og la deigen heve i omtrent 1 time (til den dobler seg i størrelse)."
-          ]
-        },
-        {
-          "part": "Forme og steke",
-          "instructions": [
-            "Trykk deigen flat og del den i 8-10 like store boller.",
-            "Kjevle hver ball ut til en sirkel eller oval, ca. 20 cm bred og 5-6 mm tykk.",
-            "Varm en tykk panne eller støpejernspanne på middels høy varme.",
-            "Stek hvert brød 1-2 minutter på hver side til det blåser opp og får gylne flekker."
+            "Sciogliere 30g di burro a fuoco basso.",
+            "Aggiungere 3 spicchi d'aglio tritati e sale, far insaporire per 2–3 minuti senza bruciare.",
+            "Spennellare il pane e aggiungere coriandolo o prezzemolo tritato."
           ]
         }
       ]
@@ -876,174 +838,248 @@
       "name": "Pan plano oriental \"Lavash\"",
       "notes": "Pan plano turco/armenio cocido en sartén, similar al naan indio. Receta de Hungry Man Kitchen (YouTube).",
       "ingredients": [
-        "300 g de harina",
-        "200 ml de agua tibia",
-        "10 g de levadura seca",
+        "300 g harina",
+        "200 ml agua tibia",
+        "Levadura seca, depende del tiempo de reposo (1h => 10g, 10h => 2g)",
+        "2 cucharadas de aceite de oliva (opcional, da una textura más suave)",
         "1 cucharada de azúcar",
-        "1 cucharadita de sal",
-        "2 cucharadas de aceite de oliva (opcional, aporta una textura más suave)"
+        "1 cucharadita de sal"
       ],
       "instructions": [
         {
-          "part": "Activar la levadura",
+          "part": "Preparación de la masa – método fácil con largo reposo",
           "instructions": [
-            "En un bol, mezclar el agua tibia con el azúcar y la levadura.",
-            "Dejar reposar de 5 a 10 minutos hasta que la mezcla haga espuma."
+            "Mezclar los ingredientes secos en un bol, agregar agua y aceite, y mezclar enérgicamente 2–3 minutos.",
+            "Dejar reposar al menos 3–4 horas (5g levadura) o 8–10 horas (2g levadura)."
           ]
         },
         {
-          "part": "Preparar la masa",
+          "part": "Preparación de la masa – método más difícil pero rápido",
           "instructions": [
-            "Añadir la harina y la sal en un bol grande.",
-            "Verter la mezcla de levadura (y el aceite de oliva si se usa).",
-            "Mezclar y amasar durante 8 a 10 minutos hasta obtener una masa lisa y elástica."
+            "En un bol, mezclar agua tibia con azúcar y levadura.",
+            "Dejar reposar 5–10 minutos hasta que espume.",
+            "Añadir harina y sal en un bol grande.",
+            "Verter la mezcla de levadura (y el aceite si se usa).",
+            "Mezclar y amasar 8–10 minutos hasta obtener una masa elástica.",
+            "Cubrir y dejar levar 1 hora (hasta que duplique su tamaño)."
           ]
         },
         {
-          "part": "Primera fermentación",
+          "part": "Formar",
           "instructions": [
-            "Cubrir el bol y dejar reposar la masa durante aproximadamente 1 hora, hasta que duplique su volumen."
+            "Enharinar la masa y la superficie, dividir en 8–10 bolas.",
+            "Calentar una sartén gruesa o de hierro fundido (fuego medio-alto).",
+            "Aplanar las bolas a mano o con gravedad.",
+            "Cocer 1–2 minutos por lado hasta dorar.",
+            "Importante: cubrir el pan después para que no se seque."
           ]
         },
         {
-          "part": "Formar y cocer",
+          "part": "Mantequilla de ajo opcional",
           "instructions": [
-            "Aplastar la masa y dividirla en 8 a 10 porciones iguales.",
-            "Extender cada porción en un círculo u óvalo de unos 20 cm de ancho y 5–6 mm de grosor.",
-            "Calentar una sartén gruesa o de hierro fundido a fuego medio-alto.",
-            "Cocinar cada pan 1–2 minutos por lado hasta que se infle y aparezcan manchas doradas."
+            "Derretir 30g de mantequilla a fuego lento.",
+            "Agregar 3 dientes de ajo picados y sal, dejar infusionar 2–3 minutos sin quemar.",
+            "Untar el pan y añadir cilantro o perejil picado."
+          ]
+        }
+      ]
+    },
+    "nb": {
+      "name": "Orientalsk flatbrød \"Lavash\"",
+      "notes": "Tyrkisk/armensk flatbrød stekt i panne, likner indisk naan. Oppskrift fra Hungry Man Kitchen (YouTube).",
+      "ingredients": [
+        "300 g mel",
+        "200 ml lunkent vann",
+        "Tørrgjær, avhengig av hevetid (1t => 10g, 10t => 2g)",
+        "2 ss olivenolje (valgfritt, gir mykere tekstur)",
+        "1 ss sukker",
+        "1 ts salt"
+      ],
+      "instructions": [
+        {
+          "part": "Deigforberedelse – enkel metode med lang hevetid",
+          "instructions": [
+            "Bland det tørre i en bolle, tilsett vann og olje, og rør kraftig i 2–3 minutter.",
+            "La hvile minst 3–4 timer (5g gjær) eller 8–10 timer (2g gjær)."
+          ]
+        },
+        {
+          "part": "Deigforberedelse – raskere men mer krevende metode",
+          "instructions": [
+            "Bland lunkent vann med sukker og gjær i en bolle.",
+            "La stå i 5–10 minutter til det skummer.",
+            "Ha mel og salt i en stor bolle.",
+            "Tilsett gjærblandingen (og olivenolje hvis du bruker det).",
+            "Elt i 8–10 minutter til deigen er glatt og elastisk.",
+            "Dekk til og la heve i ca. 1 time."
+          ]
+        },
+        {
+          "part": "Forming",
+          "instructions": [
+            "Dryss mel på deigen og arbeidsflaten, del i 8–10 boller.",
+            "Varm en tykk eller støpejernspanne (middels høy varme).",
+            "Trykk eller strekk hver bolle flat.",
+            "Stek 1–2 minutter per side til gyllent.",
+            "Viktig: dekk brødet etter steking så det ikke tørker."
+          ]
+        },
+        {
+          "part": "Valgfritt hvitløkssmør",
+          "instructions": [
+            "Smelt 30g smør på lav varme.",
+            "Tilsett 3 hakkede hvitløksfedd og salt, la trekke i 2–3 minutter uten å brenne.",
+            "Pensle brødet og tilsett hakket koriander eller persille."
           ]
         }
       ]
     },
     "tr": {
       "name": "Lavaş",
-      "notes": "Tavada pişirilen Türk/Ermeni düz ekmeği, Hint naan ekmeğine benzer. Hungry Man Kitchen (YouTube) tarifidir.",
+      "notes": "Tavada pişirilen Türk/Ermeni yassı ekmek, Hint naanına benzer. Hungry Man Kitchen (YouTube) tarifidir.",
       "ingredients": [
         "300 g un",
         "200 ml ılık su",
-        "10 g kuru maya",
+        "Kuru maya, dinlenme süresine göre (1s => 10g, 10s => 2g)",
+        "2 yemek kaşığı zeytinyağı (isteğe bağlı, daha yumuşak doku için)",
         "1 yemek kaşığı şeker",
-        "1 tatlı kaşığı tuz",
-        "2 yemek kaşığı zeytinyağı (isteğe bağlı, daha yumuşak doku için)"
+        "1 tatlı kaşığı tuz"
       ],
       "instructions": [
         {
-          "part": "Mayayı aktif etme",
+          "part": "Hamur hazırlığı – uzun dinlenme süresiyle kolay yöntem",
           "instructions": [
-            "Bir kapta ılık suyu, şekeri ve mayayı karıştırın.",
-            "Karışım köpürene kadar yaklaşık 5–10 dakika bekletin."
+            "Kuru malzemeleri bir kapta karıştırın, su ve yağı ekleyin, 2–3 dakika kuvvetlice karıştırın.",
+            "En az 3–4 saat (5g maya) veya 8–10 saat (2g maya) dinlendirin."
           ]
         },
         {
-          "part": "Hamuru hazırlama",
+          "part": "Hamur hazırlığı – daha zor ama hızlı yöntem",
           "instructions": [
-            "Büyük bir kaba unu ve tuzu ekleyin.",
-            "Maya karışımını (ve kullanıyorsanız zeytinyağını) ekleyin.",
-            "Karıştırın ve pürüzsüz, elastik bir hamur elde edene kadar 8–10 dakika yoğurun."
+            "Ilık suyu, şekeri ve mayayı bir kapta karıştırın.",
+            "5–10 dakika bekleyin, köpürmeye başlayınca maya aktifleşmiş olur.",
+            "Una ve tuzu büyük bir kaba alın.",
+            "Maya karışımını (ve zeytinyağını kullanıyorsanız) ekleyin.",
+            "8–10 dakika yoğurun, pürüzsüz ve elastik bir hamur elde edin.",
+            "Üzerini kapatın ve 1 saat mayalanmaya bırakın."
           ]
         },
         {
-          "part": "İlk mayalanma",
+          "part": "Şekil verme",
           "instructions": [
-            "Kaseyi örtün ve hamuru yaklaşık 1 saat, iki katına çıkana kadar dinlendirin."
+            "Hamuru ve tezgahı unlayın, 8–10 eşit parçaya ayırın.",
+            "Kalın veya döküm tavayı (orta-yüksek ateşte) ısıtın.",
+            "Her parçayı elinizle veya yerçekimiyle açın.",
+            "Her iki tarafını 1–2 dakika pişirin, kabarıp altın lekeler oluşana kadar.",
+            "Önemli: Ekmek piştikten sonra kurumaması için üzerini kapatın."
           ]
         },
         {
-          "part": "Şekil verme ve pişirme",
+          "part": "Opsiyonel sarımsaklı tereyağı",
           "instructions": [
-            "Hamuru bastırarak havasını alın ve 8–10 eşit parçaya bölün.",
-            "Her parçayı yaklaşık 20 cm genişliğinde ve 5–6 mm kalınlığında yuvarlak veya oval şekilde açın.",
-            "Kalın tabanlı veya döküm tavayı orta-yüksek ateşte ısıtın.",
-            "Her ekmeği her iki tarafını 1–2 dakika pişirin, kabarıp kahverengi lekeler oluşana kadar."
+            "30g tereyağını düşük ateşte eritin.",
+            "3 diş doğranmış sarımsak ve tuz ekleyin, 2–3 dakika kısık ateşte bekletin.",
+            "Ekmekleri fırçalayın, doğranmış kişniş veya maydanoz ekleyin."
           ]
         }
       ]
     },
     "ja": {
-      "name": "オリエンタルフラットブレッド「ラヴァシュ」",
-      "notes": "トルコ／アルメニアのフライパンで焼く平たいパン。インドのナンに似ている。Hungry Man Kitchen（YouTube）より。",
+      "name": "オリエンタルフラットブレッド「ラバシュ」",
+      "notes": "トルコ／アルメニアの平焼きパン。インドのナンに似ています。Hungry Man Kitchen（YouTube）のレシピ。",
       "ingredients": [
         "小麦粉 300g",
         "ぬるま湯 200ml",
-        "ドライイースト 10g",
+        "ドライイースト（発酵時間により：1時間→10g、10時間→2g）",
+        "オリーブオイル 大さじ2（オプション、柔らかい食感に）",
         "砂糖 大さじ1",
-        "塩 小さじ1",
-        "オリーブオイル 大さじ2（任意、より柔らかい食感のため）"
+        "塩 小さじ1"
       ],
       "instructions": [
         {
-          "part": "イーストを活性化させる",
+          "part": "生地の準備（長時間発酵・簡単な方法）",
           "instructions": [
-            "ボウルにぬるま湯、砂糖、イーストを入れて混ぜる。",
-            "泡立つまで約5〜10分ほど置いておく。"
+            "ボウルで粉類を混ぜ、水と油を加え、木べらで2～3分よく混ぜます。",
+            "少なくとも3～4時間（5gイースト）または8～10時間（2gイースト）休ませます。"
           ]
         },
         {
-          "part": "生地を作る",
+          "part": "生地の準備（短時間発酵・少し手間のかかる方法）",
           "instructions": [
-            "大きなボウルに小麦粉と塩を入れる。",
-            "イーストの混合液（とオリーブオイルを使う場合はそれも）を加える。",
-            "混ぜてから8〜10分ほどこね、なめらかで弾力のある生地にする。"
+            "ボウルにぬるま湯、砂糖、イーストを入れて混ぜます。",
+            "5～10分置いて泡立つのを待ちます（イースト活性化）。",
+            "別の大きなボウルに小麦粉と塩を入れます。",
+            "イースト液（オリーブオイルを使う場合はそれも）を加えます。",
+            "混ぜてから8～10分こね、滑らかで弾力のある生地にします。",
+            "ボウルを覆い、1時間ほど発酵させます（2倍に膨らむまで）。"
           ]
         },
         {
-          "part": "一次発酵",
+          "part": "成形",
           "instructions": [
-            "ボウルにラップをかけ、約1時間、生地が2倍になるまで休ませる。"
+            "作業台に打ち粉をし、生地を8～10等分します。",
+            "厚手または鋳鉄のフライパンを中～強火で熱します。",
+            "手または重力を使って生地を平らにします。",
+            "両面を1～2分ずつ焼き、ふくらみと焼き色がつくまで焼きます。",
+            "重要：焼き上がったパンは乾かないように覆います。"
           ]
         },
         {
-          "part": "成形と焼き",
+          "part": "オプション：ガーリックバター",
           "instructions": [
-            "生地を軽く押してガスを抜き、8〜10等分にする。",
-            "それぞれを直径約20cm、厚さ5〜6mmの円または楕円形に伸ばす。",
-            "厚手のフライパンまたは鋳鉄のフライパンを中強火で温める。",
-            "生地を両面1〜2分ずつ焼き、ふくらんで焼き色がついたら完成。"
+            "弱火でバター30gを溶かします。",
+            "みじん切りニンニク3片と塩を加え、2～3分焦がさないように香りを出します。",
+            "パンに塗り、刻んだパクチーまたはパセリを振ります。"
           ]
         }
       ]
     },
     "zh": {
-      "name": "东方薄饼“拉瓦什”",
-      "notes": "土耳其/亚美尼亚平底锅烤制的薄饼，类似印度馕。Hungry Man Kitchen（YouTube）配方。",
+      "name": "东方薄饼「拉瓦什 Lavash」",
+      "notes": "一种土耳其/亚美尼亚的平底锅烙制薄饼，口感类似印度烤饼（Naan）。来自 Hungry Man Kitchen（YouTube）的食谱。",
       "ingredients": [
-        "面粉 300克",
-        "温水 200毫升",
-        "干酵母 10克",
-        "白糖 1汤匙",
-        "盐 1茶匙",
-        "橄榄油 2汤匙（可选，使口感更柔软）"
+        "300 克 面粉",
+        "200 毫升 温水",
+        "干酵母，取决于发酵时间（1小时 => 10克，10小时 => 2克）",
+        "2 汤匙 橄榄油（可选，使面饼更柔软）",
+        "1 汤匙 糖",
+        "1 茶匙 盐"
       ],
       "instructions": [
         {
-          "part": "激活酵母",
+          "part": "面团准备 —— 简易长时间发酵法",
           "instructions": [
-            "在碗中混合温水、糖和酵母。",
-            "静置约5–10分钟，直到起泡。"
+            "在碗中混合所有干性材料，加入水和橄榄油，用木勺背用力搅拌 2–3 分钟。",
+            "静置至少 3–4 小时（使用 5g 酵母），或静置 8–10 小时（使用 2g 酵母）。"
           ]
         },
         {
-          "part": "准备面团",
+          "part": "面团准备 —— 稍难但快速的方法",
           "instructions": [
+            "在碗中将温水、糖和酵母混合。",
+            "静置约 5–10 分钟，直到出现泡沫（酵母被激活）。",
             "在大碗中加入面粉和盐。",
             "倒入酵母混合液（如果使用橄榄油，也一起加入）。",
-            "搅拌并揉面8–10分钟，直到面团光滑有弹性。"
+            "混合后揉面约 8–10 分钟，直到面团光滑有弹性。",
+            "盖上碗，让面团发酵约 1 小时，直到体积变为原来的两倍。"
           ]
         },
         {
-          "part": "第一次发酵",
+          "part": "整形",
           "instructions": [
-            "盖上碗，让面团静置约1小时，直到体积翻倍。"
+            "在面团和操作台上撒一些面粉，将面团压平并分成 8–10 份。",
+            "加热厚底平底锅或铸铁锅（中高火）。",
+            "用手或利用重力将面团拉伸成薄片。",
+            "每面煎 1–2 分钟，直到鼓起并出现金黄色斑点。",
+            "重要提示：煎好后应立即盖上，以防饼变干。"
           ]
         },
         {
-          "part": "整形与烘烤",
+          "part": "可选蒜香黄油",
           "instructions": [
-            "轻轻压下面团排气，分成8–10等份。",
-            "将每份擀成约20厘米宽、5–6毫米厚的圆形或椭圆形。",
-            "加热厚底或铸铁平底锅，中高火。",
-            "每面烙1–2分钟，直到鼓起并出现金黄色斑点。"
+            "在小火上融化 30 克 黄油。",
+            "加入 3 瓣 切碎的大蒜 和 适量食盐，小火浸煮 2–3 分钟，不要烧糊。",
+            "将蒜香黄油刷在饼上，撒上切碎的香菜或欧芹。"
           ]
         }
       ]
@@ -1052,9 +1088,7 @@
   {
     "category": "doughAndBread",
     "id": "burgerBuns",
-    "pictures": [
-      "burger_dish.jpg"
-    ],
+    "pictures": ["burger_dish.jpg"],
     "en": {
       "name": "Burger Buns",
       "notes": "Makes 8 buns",
@@ -1073,11 +1107,7 @@
         },
         {
           "part": "Egg wash",
-          "ingredients": [
-            "1 egg yolk",
-            "1 tablespoon milk",
-            "Sesame seeds"
-          ]
+          "ingredients": ["1 egg yolk", "1 tablespoon milk", "Sesame seeds"]
         }
       ],
       "instructions": [
@@ -1187,11 +1217,7 @@
         },
         {
           "part": "Pensling",
-          "ingredients": [
-            "1 eggeplomme",
-            "1 spiseskje melk",
-            "Sesamfrø"
-          ]
+          "ingredients": ["1 eggeplomme", "1 spiseskje melk", "Sesamfrø"]
         }
       ],
       "instructions": [
@@ -1211,9 +1237,7 @@
   {
     "category": "doughAndBread",
     "id": "Bretzel",
-    "pictures": [
-      "bretzels.jpg"
-    ],
+    "pictures": ["bretzels.jpg"],
     "en": {
       "name": "Pretzel",
       "notes": "ChatGPT recipe. Perfect for breakfast, sliced lengthwise and generously buttered like a traditional Butterbrezel.",
@@ -1231,10 +1255,7 @@
         },
         {
           "part": "Baking soda bath",
-          "ingredients": [
-            "1 l water",
-            "40 g food-grade baking soda"
-          ]
+          "ingredients": ["1 l water", "40 g food-grade baking soda"]
         }
       ],
       "instructions": [
@@ -1297,10 +1318,7 @@
         },
         {
           "part": "Bagno di bicarbonato",
-          "ingredients": [
-            "1 l acqua",
-            "40 g bicarbonato alimentare"
-          ]
+          "ingredients": ["1 l acqua", "40 g bicarbonato alimentare"]
         }
       ],
       "instructions": [
@@ -1330,10 +1348,7 @@
         },
         {
           "part": "Bakepulverbad",
-          "ingredients": [
-            "1 l vann",
-            "40 g natron (matkvalitet)"
-          ]
+          "ingredients": ["1 l vann", "40 g natron (matkvalitet)"]
         }
       ],
       "instructions": [
@@ -1350,9 +1365,7 @@
   {
     "category": "pizzas",
     "id": "margherita",
-    "pictures": [
-      "pizza_margherita.jpg"
-    ],
+    "pictures": ["pizza_margherita.jpg"],
     "en": {
       "name": "Margherita",
       "notes": "Pizza dough: same method as bread dough, but with 65-75 mL of water per 100 g of flour.",
@@ -1564,10 +1577,7 @@
       "instructions": [
         {
           "part": "Deig",
-          "instructions": [
-            "Bland med en tresleiv",
-            "La heve i minst 5 timer"
-          ]
+          "instructions": ["Bland med en tresleiv", "La heve i minst 5 timer"]
         },
         {
           "part": "Pizza",
@@ -1656,10 +1666,7 @@
       "instructions": [
         {
           "part": "生地",
-          "instructions": [
-            "木のスプーンで混ぜる",
-            "少なくとも5時間休ませる"
-          ]
+          "instructions": ["木のスプーンで混ぜる", "少なくとも5時間休ませる"]
         },
         {
           "part": "ピザ",
@@ -1702,10 +1709,7 @@
       "instructions": [
         {
           "part": "面团",
-          "instructions": [
-            "用木勺搅拌混合",
-            "静置发酵至少 5 小时"
-          ]
+          "instructions": ["用木勺搅拌混合", "静置发酵至少 5 小时"]
         },
         {
           "part": "披萨",
@@ -1725,9 +1729,7 @@
   {
     "category": "sweet",
     "id": "crepes",
-    "pictures": [
-      "crepes_nutella.jpg"
-    ],
+    "pictures": ["crepes_nutella.jpg"],
     "en": {
       "name": "Crêpes",
       "notes": "Smooth batter without lumps, no blender needed, quick recipe. Tip: balance solid and liquid bases in equal quantities: https://www.youtube.com/watch?v=p-XOehv3j20",
@@ -1969,9 +1971,7 @@
   {
     "category": "mezes",
     "id": "hummus",
-    "pictures": [
-      "hummus.jpg"
-    ],
+    "pictures": ["hummus.jpg"],
     "en": {
       "name": "Hummus",
       "notes": "Without a blender, the texture is not creamy but still satisfying; without ice water, the color is darker. More inspiration here: https://www.youtube.com/watch?v=NbXC0B83S7k",
