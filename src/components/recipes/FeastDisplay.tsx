@@ -3,6 +3,7 @@ import { useTranslation } from "../../utils/TranslationContext";
 import { formatDate } from "../../utils/utils";
 import type { Feast, FeastDetails } from "../../utils/validator";
 import { useIsMobile } from "../../utils/isMobileHook";
+import { STRING_LIST_CLAMP } from "../../utils/constants";
 
 const FeastDisplay = ({ feast }: { feast: Feast }) => {
   const { language } = useTranslation();
@@ -37,14 +38,14 @@ const FeastDisplay = ({ feast }: { feast: Feast }) => {
 
         <div className="flex flex-col gap-4">
           <div className="text-xl">{t("idea")}</div>
-          <div className="flex items-center gap-4 text-md whitespace-pre-line text-ellipsis overflow-hidden text-start line-clamp-1">
+          <div className={STRING_LIST_CLAMP}>
             {details.idea.map((str) => `\t- ${str}`).join("\n")}
           </div>
         </div>
 
         <div className="flex flex-col gap-4">
           <div className="text-xl">{t("menu")}</div>
-          <div className="flex items-center gap-4 text-md whitespace-pre-line text-ellipsis overflow-hidden text-start line-clamp-1">
+          <div className={STRING_LIST_CLAMP}>
             {details.menu.map((str) => `\t- ${str}`).join("\n")}
           </div>
         </div>
@@ -55,7 +56,7 @@ const FeastDisplay = ({ feast }: { feast: Feast }) => {
             <Fragment key={index}>
               <div className="text-lg text-gray-600">{note.title}</div>
               <div key={index} className="text-md">
-                <div className="flex items-center gap-4 text-md whitespace-pre-line text-ellipsis overflow-hidden text-start line-clamp-1">
+                <div className={STRING_LIST_CLAMP}>
                   {note.description.map((str) => `\t- ${str}`).join("\n")}
                 </div>
               </div>

@@ -6,7 +6,6 @@ import websiteLogo from "/favicon.png";
 import { Route, Routes, useLocation, useNavigate } from "react-router";
 import { useIsMobile } from "../utils/isMobileHook";
 import { RECIPES_PATH } from "../utils/routes";
-import NotFound from "./NotFound";
 import { feast, recipe, type Feast, type Recipe } from "../utils/validator";
 import NavigateTo from "../components/NavigateTo";
 import z from "zod";
@@ -15,8 +14,11 @@ import FeastDisplay from "../components/recipes/FeastDisplay";
 import RecipeCard from "../components/recipes/RecipeCard";
 import RecipeDisplay from "../components/recipes/RecipeDisplay";
 import PageWrapper from "../components/PageWrapper";
+import NotFoundRecipe from "../components/recipes/NotFoundRecipe";
+import RecipesHome from "../components/recipes/RecipesHome";
 
-const REGEX_PATH = /\/recipes\/(.*)\/(.*)/;
+const REGEX_CATEGORY = /\/recipes\/(.*)/;
+const REGEX_RECIPE = /\/recipes\/(.*)\/(.*)/;
 
 const categories = [
   "feasts",
@@ -46,20 +48,25 @@ const Recipes = () => {
 
   useEffect(() => {
     if (location.pathname === RECIPES_PATH) {
-      navigate(`${RECIPES_PATH}/${categories[0]}`);
       setCategory(categories[0]);
       setElement(undefined);
     } else {
-      const match = REGEX_PATH.exec(location.pathname);
+      const match = REGEX_RECIPE.exec(location.pathname);
       if (match) {
         setCategory(match.length >= 2 ? match[1] : undefined);
         setElement(match.length >= 3 ? match[2] : undefined);
       } else {
-        setCategory(undefined);
-        setElement(undefined);
+        const matchCategory = REGEX_CATEGORY.exec(location.pathname);
+        if (matchCategory) {
+          setCategory(matchCategory.length >= 2 ? matchCategory[1] : undefined);
+          setElement(undefined);
+        } else {
+          setCategory(undefined);
+          setElement(undefined);
+        }
       }
     }
-  }, [location, navigate]);
+  }, [location]);
 
   useEffect(() => {
     fetch("/recipes.json")
@@ -79,6 +86,8 @@ const Recipes = () => {
         <div className="flex gap-8 p-2 justify-between items-center">
           {element ? (
             <NavigateTo location={`${RECIPES_PATH}/${category}`} />
+          ) : category ? (
+            <NavigateTo location={`${RECIPES_PATH}`} />
           ) : (
             <Home />
           )}
@@ -90,6 +99,7 @@ const Recipes = () => {
               navigate(`${RECIPES_PATH}/${event.target.value}`)
             }
           >
+            <option value="">{t("home")}</option>
             {categories.map((tab) => (
               <option key={tab} value={tab}>
                 {tabNavDisplay(tab)}
@@ -103,6 +113,8 @@ const Recipes = () => {
             <div className="flex gap-8 items-center">
               {element ? (
                 <NavigateTo location={`${RECIPES_PATH}/${category}`} />
+              ) : category ? (
+                <NavigateTo location={`${RECIPES_PATH}`} />
               ) : (
                 <Home />
               )}
@@ -139,15 +151,7 @@ const Recipes = () => {
 
       <div className="flex flex-col gap-8 pb-8">
         <Routes>
-          <Route
-            path=""
-            index
-            element={
-              <div className={isMobile ? "p-4" : ""}>
-                {t("recipesPageDescription")}
-              </div>
-            }
-          />
+          <Route path="" index element={<RecipesHome />} />
           <Route
             path="feasts"
             element={feasts.map((feast, index) => (
@@ -166,17 +170,25 @@ const Recipes = () => {
                   }
                 />
               ) : (
-                <NotFound />
+                <NotFoundRecipe />
               )
             }
           />
           <Route
             path={":category"}
-            element={recipes
-              .filter((recipe) => location.pathname.includes(recipe.category))
-              .map((recipe, index) => (
-                <RecipeCard key={index} recipe={recipe} />
-              ))}
+            element={
+              !category || !([...categories] as string[]).includes(category) ? (
+                <NotFoundRecipe />
+              ) : (
+                recipes
+                  .filter((recipe) =>
+                    location.pathname.includes(recipe.category)
+                  )
+                  .map((recipe, index) => (
+                    <RecipeCard key={index} recipe={recipe} />
+                  ))
+              )
+            }
           />
           <Route
             path={":category/:recipe"}
@@ -192,7 +204,7 @@ const Recipes = () => {
                   }
                 />
               ) : (
-                <NotFound />
+                <NotFoundRecipe />
               )
             }
           />

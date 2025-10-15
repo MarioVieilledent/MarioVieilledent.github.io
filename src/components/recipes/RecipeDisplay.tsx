@@ -1,3 +1,4 @@
+import { STRING_LIST_CLAMP } from "../../utils/constants";
 import { useIsMobile } from "../../utils/isMobileHook";
 import { useTranslation } from "../../utils/TranslationContext";
 import type { Recipe, RecipeDetails } from "../../utils/validator";
@@ -29,7 +30,7 @@ const RecipeDisplay = ({ recipe }: { recipe: Recipe }) => {
         <div className="flex flex-col gap-4">
           <div className="text-xl">{t("ingredients")}</div>
           {typeof details.ingredients[0] === "string" ? (
-            <div className="flex items-center gap-4 text-md whitespace-pre-line text-ellipsis overflow-hidden text-start line-clamp-1">
+            <div className={STRING_LIST_CLAMP}>
               {(details.ingredients as string[])
                 .map((str) => `\t- ${str}`)
                 .join("\n")}
@@ -40,7 +41,7 @@ const RecipeDisplay = ({ recipe }: { recipe: Recipe }) => {
             ).map((part) => (
               <div key={part.part}>
                 <div className="text-md text-gray-600">{part.part}</div>
-                <div className="flex items-center gap-4 text-md whitespace-pre-line text-ellipsis overflow-hidden text-start line-clamp-1">
+                <div className={STRING_LIST_CLAMP}>
                   {part.ingredients.map((str) => `\t- ${str}`).join("\n")}
                 </div>
               </div>
@@ -51,7 +52,7 @@ const RecipeDisplay = ({ recipe }: { recipe: Recipe }) => {
         <div className="flex flex-col gap-4">
           <div className="text-xl">{t("instructions")}</div>
           {typeof details.instructions[0] === "string" ? (
-            <div className="flex items-center gap-4 text-md whitespace-pre-line text-ellipsis overflow-hidden text-start line-clamp-1">
+            <div className={STRING_LIST_CLAMP}>
               {(details.instructions as string[])
                 .map((str) => `\t- ${str}`)
                 .join("\n")}
@@ -62,7 +63,7 @@ const RecipeDisplay = ({ recipe }: { recipe: Recipe }) => {
             ).map((part) => (
               <div key={part.part}>
                 <div className="text-md text-gray-600">{part.part}</div>
-                <div className="flex items-center gap-4 text-md whitespace-pre-line text-ellipsis overflow-hidden text-start line-clamp-1">
+                <div className={STRING_LIST_CLAMP}>
                   {part.instructions.map((str) => `\t- ${str}`).join("\n")}
                 </div>
               </div>
