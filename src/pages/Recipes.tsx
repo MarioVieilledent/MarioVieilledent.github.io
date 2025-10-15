@@ -48,7 +48,7 @@ const Recipes = () => {
 
   useEffect(() => {
     if (location.pathname === RECIPES_PATH) {
-      setCategory(categories[0]);
+      setCategory(undefined);
       setElement(undefined);
     } else {
       const match = REGEX_RECIPE.exec(location.pathname);
@@ -129,7 +129,7 @@ const Recipes = () => {
             </div>
           </div>
 
-          <div className="flex justify-between gap-2">
+          <div className="flex justify-between gap-8">
             {categories.map((tab) => (
               <a
                 key={tab}

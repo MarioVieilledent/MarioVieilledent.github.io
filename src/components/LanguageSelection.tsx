@@ -5,11 +5,9 @@ import {
   type LanguagesAvailable,
 } from "../utils/TranslationContext";
 import { LuLanguages } from "react-icons/lu";
-import { useIsMobile } from "../utils/isMobileHook";
 
 const LanguageSelection = () => {
   const { t, language, setLanguage } = useTranslation();
-  const isMobile = useIsMobile();
 
   const [open, setOpen] = useState(false);
   const [selected, setSelected] = useState(language);
@@ -23,7 +21,7 @@ const LanguageSelection = () => {
         aria-expanded={open}
       >
         <LuLanguages size="24" />
-        {!isMobile && <span>{t("language")}</span>}
+        <span>{t("language")}</span>
       </button>
 
       {open && (
