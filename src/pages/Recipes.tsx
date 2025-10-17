@@ -154,9 +154,11 @@ const Recipes = () => {
           <Route path="" index element={<RecipesHome />} />
           <Route
             path="feasts"
-            element={feasts.map((feast, index) => (
-              <FeastCard key={index} feast={feast} />
-            ))}
+            element={feasts
+              .sort((a, b) => b.mealNumber - a.mealNumber)
+              .map((feast, index) => (
+                <FeastCard key={index} feast={feast} />
+              ))}
           />
           <Route
             path={"/feasts/:feast"}
