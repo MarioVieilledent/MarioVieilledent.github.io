@@ -2,7 +2,6 @@ import { useEffect, useState } from "react";
 import Home from "../components/Home";
 import LanguageSelection from "../components/LanguageSelection";
 import { useTranslation } from "../utils/TranslationContext";
-import websiteLogo from "/favicon.png";
 import { Route, Routes, useLocation, useNavigate } from "react-router";
 import { useIsMobile } from "../utils/isMobileHook";
 import { RECIPES_PATH } from "../utils/routes";
@@ -16,6 +15,7 @@ import RecipeDisplay from "../components/recipes/RecipeDisplay";
 import PageWrapper from "../components/PageWrapper";
 import NotFoundRecipe from "../components/recipes/NotFoundRecipe";
 import RecipesHome from "../components/recipes/RecipesHome";
+import { randomIndexBasedOnDate } from "../utils/utils";
 
 const REGEX_CATEGORY = /\/recipes\/(.*)/;
 const REGEX_RECIPE = /\/recipes\/(.*)\/(.*)/;
@@ -83,7 +83,7 @@ const Recipes = () => {
   return (
     <PageWrapper>
       {isMobile ? (
-        <div className="flex gap-8 p-2 justify-between items-center">
+        <div className="flex h-16 gap-8 p-2 justify-between items-center">
           {element ? (
             <NavigateTo location={`${RECIPES_PATH}/${category}`} />
           ) : category ? (
@@ -92,9 +92,8 @@ const Recipes = () => {
             <Home />
           )}
 
-          <LanguageSelection />
-
           <select
+            value={category ?? ""}
             onChange={(event) =>
               navigate(`${RECIPES_PATH}/${event.target.value}`)
             }
@@ -109,7 +108,7 @@ const Recipes = () => {
         </div>
       ) : (
         <>
-          <div className="flex gap-8 justify-between">
+          <div className="flex h-16 gap-8 justify-between">
             <div className="flex gap-8 items-center">
               {element ? (
                 <NavigateTo location={`${RECIPES_PATH}/${category}`} />
@@ -118,11 +117,9 @@ const Recipes = () => {
               ) : (
                 <Home />
               )}
-              <img className="w-16 h-16" src={websiteLogo} alt="Website logo" />
-              <span className="text-2xl">{t("recipes")}</span>
             </div>
-            <div className="flex gap-8 items-center grow">
-              <input type="text" className="w-full" />
+            <div className="flex gap-8 items-center">
+              <span className="text-2xl">{t("recipes")}</span>
             </div>
             <div className="flex gap-8 items-center">
               <LanguageSelection />
@@ -151,7 +148,20 @@ const Recipes = () => {
 
       <div className="flex flex-col gap-8 pb-8">
         <Routes>
-          <Route path="" index element={<RecipesHome />} />
+          <Route
+            path=""
+            index
+            element={
+              <RecipesHome
+                randomRecipe={
+                  recipes.length > 0
+                    ? recipes[randomIndexBasedOnDate(recipes.length)]
+                    : undefined
+                }
+                lastFeast={feasts.length > 0 ? feasts[0] : undefined}
+              />
+            }
+          />
           <Route
             path="feasts"
             element={feasts

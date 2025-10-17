@@ -10,10 +10,12 @@ import {
 } from "react-icons/lu";
 import Float from "./Float";
 import { useNavigate } from "react-router";
+import { useIsMobile } from "../utils/isMobileHook";
 
 const Menu = () => {
   const { t } = useTranslation();
   const navigate = useNavigate();
+  const isMobile = useIsMobile();
 
   return (
     <Float
@@ -22,7 +24,11 @@ const Menu = () => {
       containerClassName="fixed top-20 left-4 z-40 w-[calc(100%-2rem)] max-w-128 rounded-3xl bg-white flex flex-col justify-start gap-8 shadow-xl p-4 transition-all"
     >
       <div className="flex items-center gap-4">
-        <img className="w-32 h-32" src={websiteLogo} alt="Website logo" />
+        <img
+          className={isMobile ? "w-32" : "w-64"}
+          src={websiteLogo}
+          alt="Website logo"
+        />
         <h1>{t("title")}</h1>
       </div>
       <span>{t("websiteDescription")}</span>

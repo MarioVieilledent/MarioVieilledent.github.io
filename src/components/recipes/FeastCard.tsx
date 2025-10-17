@@ -31,7 +31,9 @@ const FeastCard = ({ feast }: { feast: Feast }) => {
       )}
       <div
         className={
-          isMobile ? "flex flex-col gap-2 px-4" : "flex flex-col gap-2"
+          isMobile
+            ? "flex w-full flex-col gap-2 px-4"
+            : "flex w-full flex-col gap-2"
         }
       >
         <div
@@ -45,7 +47,7 @@ const FeastCard = ({ feast }: { feast: Feast }) => {
           />
           <div className="text-lg">{details.name}</div>
         </div>
-        <div className="flex items-center gap-4">
+        <div className="flex justify-between items-center gap-8">
           <div className="text-lg">{`#${feast.mealNumber}`}</div>
           <div className="text-sm text-gray-600">
             {formatDate(feast.date, language)}

@@ -8,8 +8,9 @@
     "dev": "vite",
     "build": "tsc -b && vite build",
     "lint": "eslint .",
-    "precommit": "npm run lint && npm run build",
     "preview": "vite preview",
+    "test": "vitest run",
+    "precommit": "npm run lint && npm run test && npm run build",
     "publish": "gh-pages -d dist"
   },
   "dependencies": {
@@ -21,6 +22,7 @@
     "react-icons": "^5.5.0",
     "react-router": "^7.6.3",
     "tailwindcss": "^4.1.10",
+    "vitest": "^3.2.4",
     "zod": "^4.1.12"
   },
   "devDependencies": {
