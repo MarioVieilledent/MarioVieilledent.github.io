@@ -5,10 +5,7 @@
     "countryCode": "fr",
     "date": "2025-09-09",
     "ranking": 9.0,
-    "pictures": [
-      "French_meal_plate.jpg",
-      "French_meal_apero.jpg"
-    ],
+    "pictures": ["French_meal_plate.jpg", "French_meal_apero.jpg"],
     "en": {
       "name": "Beef fillet and hash browns",
       "idea": [
@@ -196,10 +193,7 @@
     "countryCode": "tr",
     "date": "2025-09-18",
     "ranking": 8,
-    "pictures": [
-      "Turkish_meal_plate.jpg",
-      "Turkish_meal_table.jpg"
-    ],
+    "pictures": ["Turkish_meal_plate.jpg", "Turkish_meal_table.jpg"],
     "en": {
       "name": "Pilaf rice",
       "country": "Repas Turc",
@@ -318,10 +312,7 @@
     "countryCode": "us",
     "date": "2025-09-25",
     "ranking": 8.5,
-    "pictures": [
-      "American_meal_plate.jpg",
-      "American_meal_table.jpg"
-    ],
+    "pictures": ["American_meal_plate.jpg", "American_meal_table.jpg"],
     "en": {
       "name": "Smash burger, fries and homemade mayo",
       "country": "American meal",
@@ -428,10 +419,7 @@
     "countryCode": "mx",
     "date": "2025-10-02",
     "ranking": 8.5,
-    "pictures": [
-      "Mexican_meal_table.jpg",
-      "Mexican_meal_apero_table.jpg"
-    ],
+    "pictures": ["Mexican_meal_table.jpg", "Mexican_meal_apero_table.jpg"],
     "en": {
       "name": "Chili con carne",
       "country": "Mexican meal",
@@ -787,10 +775,7 @@
     "countryCode": "jp",
     "date": "2025-10-12",
     "ranking": 8.5,
-    "pictures": [
-      "Japanese_meal_plate.jpg",
-      "Japanese_meal_table.jpg"
-    ],
+    "pictures": ["Japanese_meal_plate.jpg", "Japanese_meal_table.jpg"],
     "en": {
       "name": "Ramen",
       "country": "Japanese meal",
@@ -980,6 +965,222 @@
             "使用了来自 Belcastel 的小陶瓷“刺身”托盘来放筷子",
             "我在烹饪、摆盘、自信和多任务处理方面都在不断进步！"
           ]
+        }
+      ]
+    }
+  },
+  {
+    "mealNumber": 7,
+    "id": "lebaneseMeal",
+    "countryCode": "lb",
+    "date": "2025-10-17",
+    "ranking": 7,
+    "pictures": ["Lebanese_meal_table_2.jpg", "Lebanese_meal_table_1.jpg"],
+    "en": {
+      "name": "Mezzes",
+      "country": "Lebanese Meal",
+      "idea": [
+        "Friendly meal in the spirit of Lebanese mezzes, full of small shared dishes.",
+        "I already know how to make pita bread and hummus, so that's a good base to build on.",
+        "Since I want to try making falafels (without a blender), and even though falafels are very common in Lebanon, they're not originally from there, I decided to add a truly Lebanese dish: Kibbeh.",
+        "The hummus will be made in several versions with what I have (maybe avocado and beetroot).",
+        "A dessert would be welcome to end the meal.",
+        "Plating is an important part of the meal, with many small well-filled dishes — the goal is to create that famous “abundance” effect.",
+        "Use flatbread as a fork.",
+        "Why Lebanese and not another country? Because Lebanese cuisine seems to stand out more from other Levantine cuisines, and also because I have very good memories of the Lebanese restaurant in Rodez (yum yum).",
+        "Another goal/hope is to make my guests addicted to hummus. I don't know if they're used to eating it, but it's the kind of dish that blows your mind the first time you taste it.",
+        "In terms of preparation and organization, it's going to be tight — I planned to make A LOT of mezzes (around ten), and with little sleep, no prep time, and lots of stress on the big day, I hope I'll make it to the end of the meal.",
+        "My strength comes from the Italians who cooked three amazing dishes for me the day before."
+      ],
+      "menu": [
+        "Homemade pita bread cooked in a pan",
+        "Fresh tabbouleh (parsley and bulgur salad)",
+        "Baked kibbeh (beef balls with onions, cinnamon, and herbs)",
+        "Baked falafels (chickpea balls)",
+        "Hummus",
+        "Yogurt sauce with lemon, garlic, and mint"
+      ],
+      "notes": [
+        {
+          "title": "The epic fail",
+          "description": [
+            "Well, I basically failed everything.",
+            "The bread was too moist and therefore soft, it lost all its crunch.",
+            "The tabbouleh was too acidic and unpleasant to eat.",
+            "The hummus was too bitter with too much tahini and also too salty.",
+            "I didn't have time to make several hummus versions.",
+            "The falafels didn't hold together in the fryer so I lost half of them — very frustrating. The baked ones were fine, but we only had one per person, which was a shame.",
+            "The kibbeh was okay but not delicious; the simplified recipe didn't help.",
+            "Quantity-wise, it was way too much. Luckily, we didn't make dessert. Also, the low calorie content (little fat, lots of fresh herbs and raw ingredients) made it healthier and lighter.",
+            "Disappointed to have introduced Levantine and Lebanese cuisine so poorly.",
+            "Disappointed to have failed my sacred Hummus. I need a rematch."
+          ]
+        },
+        {
+          "title": "Preparation",
+          "description": [
+            "Regarding prep, the quantity of dishes totally crushed the quality. Better to eat less but well than more and badly."
+          ]
+        },
+        {
+          "title": "Positive points",
+          "description": ["We cooked together."]
+        }
+      ]
+    },
+    "fr": {
+      "name": "Mezzés",
+      "country": "Repas Libanais",
+      "idea": [
+        "Repas convivial dans l'esprit des mezzés libanais, pleins de petits plats communs.",
+        "Je sais déjà faire le pain pita et le hummus, donc bonne base à compléter",
+        "Vu que je veux tester les falafels (sans mixeur) et que les falafels, bien que très courants au liban, n'y sont pas vraiment originaire, alors j'ai préféré ajouter un plat vraiment libanais : le Kibbeh",
+        "Le houmous sera décliné en plusieurs version avec ce que j'ai (peut etre avocat, et betterave)",
+        "Un dessert sera le bienvenu pour conclure le repas",
+        "Le dressage est une part importante du repas, avec de nombreuses petites assiettes bien remplies, le but et d'avoir le fameux effet “abondance”",
+        "Utilisation du pain plat comme fourchette",
+        "Pourquoi libanais et pas un autre pays ? Parce que la cuisine libanaise à l'air de mieux se démarquer des cuisines du Levant, et car j'ai de très bons souvenirs du resto Libanais à Rodez (miam miam).",
+        "Un autre objectif/espoir est de rendre mes convives addict au Hummus, je sais pas s'ils ont l'habitude d'en manger, m'enfin, c'est le genre de plat qui fait péter un cable la première fois qu'on y goûte.",
+        "Niveau préparation et organisation, ça risque d'être vraiment tendu, j'ai prévu de faire BEAUCOUP de mezzes (une dizaine), et avec une mauvaise nuit, pas de préparation, et beaucoup de stress le jour J, j'espère que je vais tenir bon jusqu'à la fin du repas.",
+        "La force me vient des Italiens qui ont cuisiné 3 superbes plats pour moi la veille."
+      ],
+      "menu": [
+        "Pain pita maison cuit à la poêle",
+        "Tabbouleh frais (salade de persil et boulgour)",
+        "Kibbeh au four (boulettes boeuf, oignons, canelles et herbes)",
+        "Falafels au four (boulettes de pois chiches)",
+        "Hummus",
+        "Sauce yaourt, citron, ail, menthe"
+      ],
+      "notes": [
+        {
+          "title": "The epic fail",
+          "description": [
+            "Bon j'ai quasiment tout raté.",
+            "Le pain était trop humide et donc mou, il avait perdu tout son croquant.",
+            "Le tabbouleh était trop acide et donc pas agréable en bouche.",
+            "Le hummus était trop amer avec trop de tahani et trop salé aussi.",
+            "J'ai pas pu décliner le hummus en plusieurs versions, pas assez de temps.",
+            "Les falafels n'ont pas tenu à la friteuse donc j'en ai perdu la moitié, très vexant. Le reste des falafels au four était bon, mais on a eu qu'un par personne, vraiment dommage.",
+            "Les kibbeh était ok, mais pas n'ont plus délicieux, la recette simplifié n'a pas aidé.",
+            "Niveau quantité c'était beaucoup trop, heureusement qu'on a pas fait le dessert aussi, et aussi, le plus faible apport calorique (peu de gras, beaucoup de frais, d'herbes et de cru) fait que c'est plus sain et moins lourd.",
+            "Déçu d'avoir si mal introduit la cuisine de Levant et libanaise.",
+            "Déçu d'avoir si mal introduit mon saint Hummus, j'ai une revanche à prendre."
+          ]
+        },
+        {
+          "title": "Préparation",
+          "description": [
+            "Niveau prep, la quantité de plat à totalement écrasé la qualité, quitte à pas manger assez, vaut mieux avec 1 bon plat que 5 mauvais."
+          ]
+        },
+        {
+          "title": "Points positifs",
+          "description": ["On a cuisiné ensemble."]
+        }
+      ]
+    },
+    "it": {
+      "name": "Mezzé",
+      "country": "Pasto Libanese",
+      "idea": [
+        "Pasto conviviale nello spirito dei mezzé libanesi, pieni di piccoli piatti da condividere.",
+        "So già preparare il pane pita e l'hummus, quindi una buona base da completare.",
+        "Poiché voglio provare a fare i falafel (senza frullatore) e, anche se sono molto comuni in Libano, non sono originari di lì, ho deciso di aggiungere un piatto veramente libanese: il Kibbeh.",
+        "L'hummus sarà preparato in diverse versioni con ciò che ho (forse avocado e barbabietola).",
+        "Un dolce sarà il benvenuto per concludere il pasto.",
+        "L'impiattamento è una parte importante del pasto: molti piccoli piatti ben riempiti, per creare il famoso effetto di “abbondanza”.",
+        "Usare il pane piatto come forchetta.",
+        "Perché libanese e non un altro paese? Perché la cucina libanese sembra distinguersi meglio dalle altre cucine del Levante, e perché ho ottimi ricordi del ristorante libanese a Rodez (gnam gnam).",
+        "Un altro obiettivo/speranza è rendere i miei ospiti dipendenti dall'hummus. Non so se sono abituati a mangiarlo, ma è il tipo di piatto che ti fa impazzire la prima volta che lo assaggi.",
+        "A livello di preparazione e organizzazione sarà difficile: ho previsto di fare MOLTI mezzé (una decina), e con poco sonno, nessuna preparazione e tanto stress il giorno stesso, spero di resistere fino alla fine del pasto.",
+        "La forza mi viene dagli italiani che hanno cucinato tre splendidi piatti per me il giorno prima."
+      ],
+      "menu": [
+        "Pane pita fatto in casa cotto in padella",
+        "Tabbouleh fresco (insalata di prezzemolo e bulgur)",
+        "Kibbeh al forno (polpette di manzo con cipolla, cannella ed erbe)",
+        "Falafel al forno (polpette di ceci)",
+        "Hummus",
+        "Salsa allo yogurt, limone, aglio e menta"
+      ],
+      "notes": [
+        {
+          "title": "Il grande fallimento",
+          "description": [
+            "Beh, ho praticamente sbagliato tutto.",
+            "Il pane era troppo umido e quindi molle, ha perso tutta la sua croccantezza.",
+            "Il tabbouleh era troppo acido e sgradevole al gusto.",
+            "L'hummus era troppo amaro, con troppo tahina e anche troppo salato.",
+            "Non ho avuto il tempo di fare più versioni di hummus.",
+            "I falafel non hanno resistito nella friggitrice, ne ho persi la metà, molto frustrante. Quelli al forno erano buoni, ma ne avevamo solo uno a testa, peccato.",
+            "Il kibbeh era ok, ma non delizioso; la ricetta semplificata non ha aiutato.",
+            "La quantità era eccessiva. Per fortuna non abbiamo fatto anche il dolce. Inoltre, il basso apporto calorico (poco grasso, molta freschezza, erbe e crudo) lo ha reso più sano e leggero.",
+            "Deluso di aver presentato così male la cucina del Levante e quella libanese.",
+            "Deluso di aver fallito con il mio sacro Hummus. Mi prenderò la rivincita."
+          ]
+        },
+        {
+          "title": "Preparazione",
+          "description": [
+            "A livello di preparazione, la quantità di piatti ha completamente distrutto la qualità. Meglio uno buono che cinque mediocri."
+          ]
+        },
+        {
+          "title": "Punti positivi",
+          "description": ["Abbiamo cucinato insieme."]
+        }
+      ]
+    },
+    "tr": {
+      "name": "Mezeler",
+      "country": "Lübnan Yemeği",
+      "idea": [
+        "Lübnan mezeleri ruhunda, birçok küçük ortak tabaktan oluşan samimi bir yemek.",
+        "Pita ekmeği ve humusu yapmayı zaten biliyorum, bu yüzden iyi bir başlangıç noktam var.",
+        "Falafel yapmak istiyorum (blendersız), ve falafel Lübnan'da çok yaygın olsa da aslında oraya özgü değil, bu yüzden gerçekten Lübnan'a ait bir yemek ekledim: Kibbeh.",
+        "Humusu elimdeki malzemelerle birkaç farklı versiyonda yapacağım (belki avokado ve pancarla).",
+        "Yemeği tamamlamak için bir tatlı iyi olur.",
+        "Sunum yemeğin önemli bir parçası, birçok küçük ama dolu tabakla o ünlü “bolluk” etkisini yaratmak gerekiyor.",
+        "Düz ekmeği çatal gibi kullanmak.",
+        "Neden Lübnan mutfağı? Çünkü Lübnan mutfağı diğer Levant mutfaklarından daha fazla öne çıkıyor gibi görünüyor ve Rodez'deki Lübnan restoranından çok güzel anılarım var (mmm).",
+        "Bir diğer hedefim, misafirlerimi humusa bağımlı hale getirmek. Daha önce yediler mi bilmiyorum ama bu, ilk kez tadınca aklını kaçırdığın türden bir yemek.",
+        "Hazırlık ve organizasyon açısından işler sıkı olacak — yaklaşık on çeşit meze yapmayı planladım ve az uykuyla, ön hazırlıksız ve bol stresle geçecek bir gün, umarım yemeğin sonuna kadar dayanırım.",
+        "Gücümü, bir gün önce benim için üç harika yemek yapan İtalyanlardan alıyorum."
+      ],
+      "menu": [
+        "Tavada pişmiş ev yapımı pita ekmeği",
+        "Taze tabbouleh (maydanoz ve bulgurlu salata)",
+        "Fırında kibbeh (soğan, tarçın ve otlarla birlikte dana köftesi)",
+        "Fırında falafel (nohut köftesi)",
+        "Humus",
+        "Yoğurt sosu (limon, sarımsak, nane)"
+      ],
+      "notes": [
+        {
+          "title": "Efsanevi başarısızlık",
+          "description": [
+            "Temelde her şeyi berbat ettim.",
+            "Ekmek çok nemliydi, bu yüzden yumuşadı ve çıtırlığını kaybetti.",
+            "Tabbouleh çok ekşiydi ve yemesi keyifli değildi.",
+            "Humus çok acıydı, fazla tahin ve fazla tuz vardı.",
+            "Birden fazla humus versiyonu yapmaya zamanım olmadı.",
+            "Falafeller kızartmada dağılınca yarısını kaybettim, çok sinir bozucuydu. Fırındakiler iyiydi ama kişi başına sadece bir tane düştü, yazık.",
+            "Kibbeh fena değildi ama lezzetli de değildi; basitleştirilmiş tarif yardımcı olmadı.",
+            "Miktar olarak çok fazlaydı. Neyse ki tatlıyı da yapmadık. Ayrıca düşük kalorili olması (az yağ, bol taze ot ve çiğ malzeme) yemeği daha sağlıklı ve hafif yaptı.",
+            "Levant ve Lübnan mutfağını bu kadar kötü tanıttığım için hayal kırıklığına uğradım.",
+            "Kutsal humusumu bu kadar kötü tanıttığım için hayal kırıklığı yaşadım. Rövanş alacağım."
+          ]
+        },
+        {
+          "title": "Hazırlık",
+          "description": [
+            "Hazırlık açısından, çok fazla yemek yapmak kaliteden ödün verdirdi. Az ama iyi yemek, çok ama kötü yemekten iyidir."
+          ]
+        },
+        {
+          "title": "Olumlu noktalar",
+          "description": ["Birlikte yemek yaptık."]
         }
       ]
     }
