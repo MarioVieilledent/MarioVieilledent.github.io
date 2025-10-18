@@ -158,7 +158,14 @@ const Recipes = () => {
                     ? recipes[randomIndexBasedOnDate(recipes.length)]
                     : undefined
                 }
-                lastFeast={feasts.length > 0 ? feasts[0] : undefined}
+                lastFeast={
+                  feasts.length > 0
+                    ? feasts.reduce(
+                        (acc, f) => (acc.mealNumber > f.mealNumber ? acc : f),
+                        feasts[0]
+                      )
+                    : undefined
+                }
               />
             }
           />
