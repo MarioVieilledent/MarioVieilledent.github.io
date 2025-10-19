@@ -15,7 +15,6 @@ import RecipeDisplay from "../components/recipes/RecipeDisplay";
 import PageWrapper from "../components/PageWrapper";
 import NotFoundRecipe from "../components/recipes/NotFoundRecipe";
 import RecipesHome from "../components/recipes/RecipesHome";
-import { randomIndexBasedOnDate } from "../utils/utils";
 
 const REGEX_CATEGORY = /\/recipes\/(.*)/;
 const REGEX_RECIPE = /\/recipes\/(.*)\/(.*)/;
@@ -151,23 +150,7 @@ const Recipes = () => {
           <Route
             path=""
             index
-            element={
-              <RecipesHome
-                randomRecipe={
-                  recipes.length > 0
-                    ? recipes[randomIndexBasedOnDate(recipes.length)]
-                    : undefined
-                }
-                lastFeast={
-                  feasts.length > 0
-                    ? feasts.reduce(
-                        (acc, f) => (acc.mealNumber > f.mealNumber ? acc : f),
-                        feasts[0]
-                      )
-                    : undefined
-                }
-              />
-            }
+            element={<RecipesHome recipes={recipes} feasts={feasts} />}
           />
           <Route
             path="feasts"

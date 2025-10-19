@@ -1,24 +1,51 @@
 import { useIsMobile } from "../../utils/isMobileHook";
 import { useTranslation } from "../../utils/TranslationContext";
+import { randomIndexBasedOnDate } from "../../utils/utils";
 import type { Feast, Recipe } from "../../utils/validator";
 import FeastCard from "./FeastCard";
 import RecipeCard from "./RecipeCard";
 
 interface RecipesHomeProps {
-  lastFeast?: Feast;
-  randomRecipe?: Recipe;
+  feasts: Feast[];
+  recipes: Recipe[];
 }
 
-const RecipesHome = ({ lastFeast, randomRecipe }: RecipesHomeProps) => {
+const RecipesHome = ({ feasts, recipes }: RecipesHomeProps) => {
   const { t } = useTranslation();
   const isMobile = useIsMobile();
 
+  const randomRecipe =
+    recipes.length > 0
+      ? recipes[randomIndexBasedOnDate(recipes.length)]
+      : undefined;
+
+  const lastFeast =
+    feasts.length > 0
+      ? feasts.reduce(
+          (acc, f) => (acc.mealNumber > f.mealNumber ? acc : f),
+          feasts[0]
+        )
+      : undefined;
+
   return (
     <>
-      <div className={isMobile ? "p-4" : ""}>{t("recipesPageDescription")}</div>
+      <div className={isMobile ? "p-4 text-lg" : " text-lg"}>
+        {t("recipesPageDescription")}
+      </div>
+      {recipes.length > 0 && (
+        <div
+          className={
+            isMobile ? "flex flex-col gap-4 pl-4" : "flex flex-col gap-4"
+          }
+        >
+          <div className="text-xl pt-8">{t("statistics")}</div>
+          <div>{`${t("recipesNumber")} ${recipes.length}`}</div>
+          <div>{`${t("recipesWithCheese")} ${0}`}</div>
+        </div>
+      )}
       {randomRecipe && (
         <>
-          <div className="text-xl self-center pt-8 px-4">
+          <div className={isMobile ? "text-xl pt-8 pl-4" : "text-xl pt-8"}>
             {t("randomRecipe")}
           </div>
           <RecipeCard recipe={randomRecipe} />
@@ -26,7 +53,9 @@ const RecipesHome = ({ lastFeast, randomRecipe }: RecipesHomeProps) => {
       )}
       {lastFeast && (
         <>
-          <div className="text-xl self-center pt-8 px-4">{t("lastFeast")}</div>
+          <div className={isMobile ? "text-xl pt-8 pl-4" : "text-xl pt-8"}>
+            {t("lastFeast")}
+          </div>
           <FeastCard feast={lastFeast} />
         </>
       )}

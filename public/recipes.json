@@ -67,7 +67,9 @@
   {
     "category": "riceAndPasta",
     "id": "pilafRice",
-    "pictures": ["riz_pilaf.jpg"],
+    "pictures": [
+      "riz_pilaf.jpg"
+    ],
     "en": {
       "name": "Spiced pilaf rice with meat",
       "ingredients": [
@@ -264,7 +266,9 @@
   {
     "category": "riceAndPasta",
     "id": "risottoSpaghetti",
-    "pictures": ["spaghetti_risottatura.jpg"],
+    "pictures": [
+      "spaghetti_risottatura.jpg"
+    ],
     "en": {
       "name": "Risotto-style Spaghetti",
       "notes": "A humble Italian technique for tastier and creamier spaghetti. It's a real upgrade for spaghetti lovers, especially those who enjoy garlic. You can also adapt the method using meat or fish juices left in a hot pan.",
@@ -397,7 +401,9 @@
   {
     "category": "riceAndPasta",
     "id": "freshPasta",
-    "pictures": ["pates_fraiches.jpg"],
+    "pictures": [
+      "pates_fraiches.jpg"
+    ],
     "en": {
       "name": "Homemade fresh pasta with hand crank",
       "notes": "Allows eating 1 egg per person without overcooking the egg, so very healthy and without the taste of the egg being too pronounced.",
@@ -425,11 +431,11 @@
         "Cuillère à soupe huile olive"
       ],
       "instructions": [
-        "Pétrir bien plus gentiment qu'une pâte à pain, la pâte ne supporte pas d'être pliée, pétrir longtemps : bien 8 minutes",
+        "Pétrir plus gentiment qu'une pâte à pain, la pâte ne supporte pas d'être pliée, pétrir longtemps : bien 8 minutes",
         "Laisser reposer dans plastique au moins 30 minutes",
         "Coupe 4, fariner étaler à la main, et passer au moins 4 fois au calibre le plus épais",
         "Passer 1 à 2 fois par chaque étape et s'arrêter vers 5 ~ 6, en s'assurant que c'est légèrement fariné pour éviter que la pâte n'accroche à la machine, ou à la table",
-        "Laisser reposer 15 minutes de chaques coté"
+        "Laisser reposer 15 minutes de chaque côté"
       ]
     },
     "it": {
@@ -453,7 +459,9 @@
   {
     "category": "meatAndFish",
     "id": "salmonFillets",
-    "pictures": ["patates_rissolees_et_filets_saumon.jpg"],
+    "pictures": [
+      "patates_rissolees_et_filets_saumon.jpg"
+    ],
     "en": {
       "name": "Oven-baked Salmon Fillets",
       "notes": "Already a very good recipe, but can be refined and perfected. I like to serve it with spaghetti — even better when cooked risotto-style.",
@@ -526,7 +534,9 @@
   {
     "category": "doughAndBread",
     "id": "baguette",
-    "pictures": ["baguettes.jpg"],
+    "pictures": [
+      "baguettes.jpg"
+    ],
     "en": {
       "name": "Baguette",
       "notes": "Be careful — a rare recipe that truly reaches S Tier, if not God Tier. Incredibly simple, very cheap, and requires very little active time. The 4 ingredients symbolize the 4 elements: flour for earth, water, yeast for air, and salt for fire. Source: https://www.youtube.com/watch?v=Z-husjZkxHw",
@@ -683,7 +693,9 @@
   {
     "category": "doughAndBread",
     "id": "lavashBread",
-    "pictures": ["lavash_bread.jpg"],
+    "pictures": [
+      "lavash_bread.jpg"
+    ],
     "en": {
       "name": "Oriental Flatbread \"Lavash\"",
       "notes": "Turkish/Armenian flatbread cooked in a pan, similar to Indian naan. Recipe from Hungry Man Kitchen (YouTube).",
@@ -1088,7 +1100,9 @@
   {
     "category": "doughAndBread",
     "id": "burgerBuns",
-    "pictures": ["burger_dish.jpg"],
+    "pictures": [
+      "burger_dish.jpg"
+    ],
     "en": {
       "name": "Burger Buns",
       "notes": "Makes 8 buns",
@@ -1107,7 +1121,11 @@
         },
         {
           "part": "Egg wash",
-          "ingredients": ["1 egg yolk", "1 tablespoon milk", "Sesame seeds"]
+          "ingredients": [
+            "1 egg yolk",
+            "1 tablespoon milk",
+            "Sesame seeds"
+          ]
         }
       ],
       "instructions": [
@@ -1217,7 +1235,11 @@
         },
         {
           "part": "Pensling",
-          "ingredients": ["1 eggeplomme", "1 spiseskje melk", "Sesamfrø"]
+          "ingredients": [
+            "1 eggeplomme",
+            "1 spiseskje melk",
+            "Sesamfrø"
+          ]
         }
       ],
       "instructions": [
@@ -1237,7 +1259,9 @@
   {
     "category": "doughAndBread",
     "id": "Bretzel",
-    "pictures": ["bretzels.jpg"],
+    "pictures": [
+      "bretzels.jpg"
+    ],
     "en": {
       "name": "Pretzel",
       "notes": "ChatGPT recipe. Perfect for breakfast, sliced lengthwise and generously buttered like a traditional Butterbrezel.",
@@ -1255,7 +1279,10 @@
         },
         {
           "part": "Baking soda bath",
-          "ingredients": ["1 l water", "40 g food-grade baking soda"]
+          "ingredients": [
+            "1 l water",
+            "40 g food-grade baking soda"
+          ]
         }
       ],
       "instructions": [
@@ -1318,7 +1345,10 @@
         },
         {
           "part": "Bagno di bicarbonato",
-          "ingredients": ["1 l acqua", "40 g bicarbonato alimentare"]
+          "ingredients": [
+            "1 l acqua",
+            "40 g bicarbonato alimentare"
+          ]
         }
       ],
       "instructions": [
@@ -1348,7 +1378,10 @@
         },
         {
           "part": "Bakepulverbad",
-          "ingredients": ["1 l vann", "40 g natron (matkvalitet)"]
+          "ingredients": [
+            "1 l vann",
+            "40 g natron (matkvalitet)"
+          ]
         }
       ],
       "instructions": [
@@ -1365,7 +1398,9 @@
   {
     "category": "pizzas",
     "id": "margherita",
-    "pictures": ["pizza_margherita.jpg"],
+    "pictures": [
+      "pizza_margherita.jpg"
+    ],
     "en": {
       "name": "Margherita",
       "notes": "Pizza dough: same method as bread dough, but with 65-75 mL of water per 100 g of flour.",
@@ -1577,7 +1612,10 @@
       "instructions": [
         {
           "part": "Deig",
-          "instructions": ["Bland med en tresleiv", "La heve i minst 5 timer"]
+          "instructions": [
+            "Bland med en tresleiv",
+            "La heve i minst 5 timer"
+          ]
         },
         {
           "part": "Pizza",
@@ -1666,7 +1704,10 @@
       "instructions": [
         {
           "part": "生地",
-          "instructions": ["木のスプーンで混ぜる", "少なくとも5時間休ませる"]
+          "instructions": [
+            "木のスプーンで混ぜる",
+            "少なくとも5時間休ませる"
+          ]
         },
         {
           "part": "ピザ",
@@ -1709,7 +1750,10 @@
       "instructions": [
         {
           "part": "面团",
-          "instructions": ["用木勺搅拌混合", "静置发酵至少 5 小时"]
+          "instructions": [
+            "用木勺搅拌混合",
+            "静置发酵至少 5 小时"
+          ]
         },
         {
           "part": "披萨",
@@ -1729,7 +1773,9 @@
   {
     "category": "sweet",
     "id": "crepes",
-    "pictures": ["crepes_nutella.jpg"],
+    "pictures": [
+      "crepes_nutella.jpg"
+    ],
     "en": {
       "name": "Crêpes",
       "notes": "Smooth batter without lumps, no blender needed, quick recipe. Tip: balance solid and liquid bases in equal quantities: https://www.youtube.com/watch?v=p-XOehv3j20",
@@ -1971,7 +2017,9 @@
   {
     "category": "mezesAndSauces",
     "id": "hummus",
-    "pictures": ["hummus.jpg"],
+    "pictures": [
+      "hummus.jpg"
+    ],
     "en": {
       "name": "Hummus",
       "notes": "Without a blender, the texture is not creamy but still satisfying; without ice water, the color is darker. More inspiration here: https://www.youtube.com/watch?v=NbXC0B83S7k",
@@ -2144,7 +2192,9 @@
   {
     "category": "mezesAndSauces",
     "id": "garlic_mayonnaise",
-    "pictures": ["garlic_mayonnaise.jpg"],
+    "pictures": [
+      "garlic_mayonnaise.jpg"
+    ],
     "en": {
       "name": "Garlic Mayonnaise",
       "notes": "Better than classic mayonnaise and better than aioli — garlic mayo is a taste orgasm. One egg yolk makes a large amount of mayo at once; it keeps for 2 days in the fridge. Classic mayonnaise recipe by Etchebest: https://www.youtube.com/watch?v=DKXoha0_Mbk",
