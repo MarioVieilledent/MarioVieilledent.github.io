@@ -15,7 +15,14 @@ const FeastCard = ({ feast }: { feast: Feast }) => {
     : feast.en;
 
   return (
-    <div className={isMobile ? "flex flex-col gap-4" : "flex gap-8 w-full"}>
+    <div
+      className={
+        isMobile
+          ? "flex flex-col"
+          : "flex gap-4 w-full bg-gray-100 rounded-lg overflow-hidden cursor-pointer hover:bg-gray-200"
+      }
+      onClick={() => navigate(`${RECIPES_PATH}/feasts/${feast.id}`)}
+    >
       {feast.pictures.length > 0 ? (
         <img
           src={`/food/${feast.pictures[0]}`}
@@ -29,19 +36,10 @@ const FeastCard = ({ feast }: { feast: Feast }) => {
           className="w-32 h-32"
         />
       )}
-      <div
-        className={
-          isMobile
-            ? "flex w-full flex-col gap-2 px-4"
-            : "flex w-full flex-col gap-2"
-        }
-      >
-        <div
-          className="flex items-center gap-4 cursor-pointer hover:underline"
-          onClick={() => navigate(`${RECIPES_PATH}/feasts/${feast.id}`)}
-        >
+      <div className="flex w-full flex-col gap-2 p-4">
+        <div className="flex items-center gap-4">
           <img
-            className="w-8 border-1"
+            className="w-10 border-1"
             src={`/flags/${feast.countryCode}.svg`}
             alt="Feast flag icon"
           />
@@ -52,10 +50,10 @@ const FeastCard = ({ feast }: { feast: Feast }) => {
           <div className="text-sm text-gray-600">
             {formatDate(feast.date, language)}
           </div>
-          <div className="text-sm bg-gray-100 rounded-full p-2">{`${feast.ranking}/10`}</div>
+          <div className="text-sm bg-gray-300 rounded-full p-2">{`${feast.ranking}/10`}</div>
         </div>
 
-        <div className="flex items-center gap-4 text-sm whitespace-pre-line text-ellipsis overflow-hidden text-start line-clamp-1">
+        <div className="text-sm whitespace-pre-line overflow-hidden text-ellipsis line-clamp-6">
           {details.menu.map((str) => `\t- ${str}`).join("\n")}
         </div>
       </div>

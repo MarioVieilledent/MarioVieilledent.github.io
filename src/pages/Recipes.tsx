@@ -82,7 +82,7 @@ const Recipes = () => {
   return (
     <PageWrapper>
       {isMobile ? (
-        <div className="flex h-16 gap-8 p-2 justify-between items-center">
+        <div className="flex h-16 gap-8 p-2 justify-between items-center bg-gray-200">
           {element ? (
             <NavigateTo location={`${RECIPES_PATH}/${category}`} />
           ) : category ? (
@@ -106,8 +106,8 @@ const Recipes = () => {
           </select>
         </div>
       ) : (
-        <>
-          <div className="flex h-16 gap-8 justify-between">
+        <div className="flex flex-col gap-4 bg-gray-200">
+          <div className="flex h-16 gap-8 px-4 justify-between">
             <div className="flex gap-8 items-center">
               {element ? (
                 <NavigateTo location={`${RECIPES_PATH}/${category}`} />
@@ -125,13 +125,13 @@ const Recipes = () => {
             </div>
           </div>
 
-          <div className="flex justify-between gap-8">
+          <div className="flex justify-between px-4 gap-8">
             {categories.map((tab) => (
               <a
                 key={tab}
                 className={
                   location.pathname.includes(tab)
-                    ? "cursor-pointer underline"
+                    ? "cursor-pointer font-bold"
                     : "cursor-pointer"
                 }
                 onClick={() => navigate(`${RECIPES_PATH}/${tab}`)}
@@ -142,7 +142,7 @@ const Recipes = () => {
           </div>
 
           <div className="w-full h-0.25 bg-black"></div>
-        </>
+        </div>
       )}
 
       <div className="flex flex-col gap-8 pb-8">
