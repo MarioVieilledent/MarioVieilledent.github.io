@@ -3,8 +3,14 @@ import { useIsMobile } from "../../utils/isMobileHook";
 import { useTranslation } from "../../utils/TranslationContext";
 import { RECIPES_PATH } from "../../utils/routes";
 import type { Recipe, RecipeDetails } from "../../utils/validator";
+import type { Dispatch, SetStateAction } from "react";
 
-const RecipeCard = ({ recipe }: { recipe: Recipe }) => {
+interface RecipeCardProps {
+  recipe: Recipe;
+  setSearch?: Dispatch<SetStateAction<string>>;
+}
+
+const RecipeCard = ({ recipe, setSearch }: RecipeCardProps) => {
   const { language } = useTranslation();
   const navigate = useNavigate();
   const isMobile = useIsMobile();
@@ -20,9 +26,12 @@ const RecipeCard = ({ recipe }: { recipe: Recipe }) => {
           ? "flex flex-col gap-4"
           : "flex gap-4 w-full max-h-64 bg-gray-100 rounded-lg overflow-hidden cursor-pointer hover:bg-gray-200"
       }
-      onClick={() =>
-        navigate(`${RECIPES_PATH}/${recipe.category}/${recipe.id}`)
-      }
+      onClick={() => {
+        navigate(`${RECIPES_PATH}/${recipe.category}/${recipe.id}`);
+        if (setSearch) {
+          setSearch("");
+        }
+      }}
     >
       {recipe.pictures.length > 0 ? (
         <img

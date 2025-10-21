@@ -4,8 +4,14 @@ import { RECIPES_PATH } from "../../utils/routes";
 import { useTranslation } from "../../utils/TranslationContext";
 import { formatDate } from "../../utils/utils";
 import type { Feast, FeastDetails } from "../../utils/validator";
+import type { Dispatch, SetStateAction } from "react";
 
-const FeastCard = ({ feast }: { feast: Feast }) => {
+interface FeastCardProps {
+  feast: Feast;
+  setSearch?: Dispatch<SetStateAction<string>>;
+}
+
+const FeastCard = ({ feast, setSearch }: FeastCardProps) => {
   const { language } = useTranslation();
   const navigate = useNavigate();
   const isMobile = useIsMobile();
@@ -21,7 +27,12 @@ const FeastCard = ({ feast }: { feast: Feast }) => {
           ? "flex flex-col"
           : "flex gap-4 w-full bg-gray-100 rounded-lg overflow-hidden cursor-pointer hover:bg-gray-200"
       }
-      onClick={() => navigate(`${RECIPES_PATH}/feasts/${feast.id}`)}
+      onClick={() => {
+        navigate(`${RECIPES_PATH}/feasts/${feast.id}`);
+        if (setSearch) {
+          setSearch("");
+        }
+      }}
     >
       {feast.pictures.length > 0 ? (
         <img

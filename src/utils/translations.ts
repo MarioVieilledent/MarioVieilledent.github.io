@@ -532,7 +532,6 @@ export const translations = {
     "レシピの数：",
     "食谱数量：",
   ],
-
   recipesWithCheese: [
     "Number of recipes with cheese:",
     "Nombre de recettes avec du fromage :",
@@ -542,5 +541,35 @@ export const translations = {
     "Peynirli tarif sayısı:",
     "チーズを使ったレシピの数：",
     "含奶酪的食谱数量：",
+  ],
+  search: [
+    "Search",
+    "Rechercher",
+    "Cerca",
+    "Buscar",
+    "Søk",
+    "Ara",
+    "検索",
+    "搜索",
+  ],
+  clearFilters: [
+    "Clear filters",
+    "Effacer les filtres",
+    "Cancella filtri",
+    "Borrar filtros",
+    "Fjern filtre",
+    "Filtreleri temizle",
+    "フィルターをクリア",
+    "清除筛选",
+  ],
+  restultsFound: [
+    "results found",
+    "résultats trouvés",
+    "risultati trovati",
+    "resultados encontrados",
+    "resultater funnet",
+    "sonuç bulundu",
+    "件の結果が見つかりました",
+    "个结果",
   ],
 };

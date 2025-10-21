@@ -39,6 +39,7 @@ export const recipe = z.looseObject({
 
 export const feastDetails = z.object({
   name: z.string(),
+  country: z.string(),
   idea: z.array(z.string()),
   menu: z.array(z.string()),
   notes: z.array(
