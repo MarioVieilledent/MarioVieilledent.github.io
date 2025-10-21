@@ -8,6 +8,7 @@
     "pictures": ["French_meal_plate.jpg", "French_meal_apero.jpg"],
     "en": {
       "name": "Beef fillet and hash browns",
+      "country": "French Meal",
       "idea": [
         "The idea is to use the potatoes I got quite cheap at Rema and fry them in the pan. I need to find a meat that goes well with them, salmon is not great and it's overcooked.",
         "First test, cubes too thin imo, 5 minutes in a pot of salted water, ok, transfer to pan, too much oil (I should have listened to him) 4 cloves of garlic that I didn't taste at all, about 15 minutes, a bit too crispy.",
@@ -68,6 +69,7 @@
     },
     "fr": {
       "name": "Filet de boeuf et pommes paillasson",
+      "country": "Repas Français",
       "idea": [
         "L'idée c'est d'utiliser les patates que j'ai eu pas trop cher à Rema et de les rissoler à la poêle Il faut que je trouve une viande qui les accompagne bien, le saumon c'est pas terrible et c'est trop fait.",
         "Premier test, cubes trop fins imo, 5 minutes casserole d'eau salée, ok, transfer poêle, trop d'huile (il aurait fallu l'écouter) 4 gousses d'ail que j'ai pas du tout senti, 15aine de minutes, un peu trop croustillant.",
@@ -128,6 +130,7 @@
     },
     "it": {
       "name": "Filetto di manzo e patate paillasson",
+      "country": "Pasto Francese",
       "idea": [
         "L'idea è di usare le patate che ho trovato a buon mercato al Rema e friggerle in padella. Devo trovare una carne che le accompagni bene, il salmone non è il massimo ed è troppo cotto.",
         "Primo test, cubetti troppo sottili imo, 5 minuti in una pentola di acqua salata, ok, trasferimento in padella, troppo olio (avrei dovuto ascoltarlo) 4 spicchi d'aglio che non ho sentito affatto, circa 15 minuti, un po' troppo croccante.",
@@ -196,7 +199,7 @@
     "pictures": ["Turkish_meal_plate.jpg", "Turkish_meal_table.jpg"],
     "en": {
       "name": "Pilaf rice",
-      "country": "Repas Turc",
+      "country": "Turkish meal",
       "idea": [
         "Well I promised a Turkish style pilaf rice, simple, very good. Now I have to manage. Be careful with the GF who doesn't like garlic!!! Be careful not to overcook the beef. I don't have any rice left and I don't intend to use Rema's, so I want to buy Mahmood Basmati => Be careful to test the cooking well, sufficiently cooked, nice and fluffy, well coated with this oil/onion/meat reduction sauce, well individual grains, no mushy rice. Be careful not to put too much curry.",
         "Serve with star anise on the rice and 3 cloves? Serving half a meat is ugly? Find a solution, potentially cook 2 * 2 meats or 2 then 3. So that everyone has 1 whole steak of meat",
@@ -233,7 +236,7 @@
     },
     "fr": {
       "name": "Riz pilaf",
-      "country": "Turkish meal",
+      "country": "Repas Turc",
       "idea": [
         "Bah j'ai promis un riz pilaf style Turc, simple, très bon. Là maintenant faudra gérer. Attention à la GF qui n'aime pas l'ail !!! Attention à ne pas trop cuire la viande de boeuf. J'ai plus de riz et je compte pas utiliser celui de Rema, donc je veux acheter du Basmati Mahmood => Attention à bien tester la cuisson, suffisamment cuit, bien fluffy, bien enrobé de cette sauce huile/oignon/réduction de viande, grains bien individuels, pas de riz pâteux. Attention à ne pas mettre trop de curry.",
         "Servir avec anis étoilée sur le riz et 3 clous de girofle ? Servir une demie viande, c'est moche ? Trouver une soluce, potentiellement cuisiner 2 * 2 viandes voir 2 puis 3. De sorte à ce que chacun ait 1 steak de viande entier",
