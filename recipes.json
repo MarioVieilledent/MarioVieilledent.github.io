@@ -67,9 +67,7 @@
   {
     "category": "riceAndPasta",
     "id": "pilafRice",
-    "pictures": [
-      "riz_pilaf.jpg"
-    ],
+    "pictures": ["riz_pilaf.jpg"],
     "en": {
       "name": "Spiced pilaf rice with meat",
       "ingredients": [
@@ -266,9 +264,7 @@
   {
     "category": "riceAndPasta",
     "id": "risottoSpaghetti",
-    "pictures": [
-      "spaghetti_risottatura.jpg"
-    ],
+    "pictures": ["spaghetti_risottatura.jpg"],
     "en": {
       "name": "Risotto-style Spaghetti",
       "notes": "A humble Italian technique for tastier and creamier spaghetti. It's a real upgrade for spaghetti lovers, especially those who enjoy garlic. You can also adapt the method using meat or fish juices left in a hot pan.",
@@ -401,9 +397,7 @@
   {
     "category": "riceAndPasta",
     "id": "freshPasta",
-    "pictures": [
-      "pates_fraiches.jpg"
-    ],
+    "pictures": ["pates_fraiches.jpg"],
     "en": {
       "name": "Homemade fresh pasta with hand crank",
       "notes": "Allows eating 1 egg per person without overcooking the egg, so very healthy and without the taste of the egg being too pronounced.",
@@ -459,9 +453,7 @@
   {
     "category": "meatAndFish",
     "id": "salmonFillets",
-    "pictures": [
-      "patates_rissolees_et_filets_saumon.jpg"
-    ],
+    "pictures": ["patates_rissolees_et_filets_saumon.jpg"],
     "en": {
       "name": "Oven-baked Salmon Fillets",
       "notes": "Already a very good recipe, but can be refined and perfected. I like to serve it with spaghetti — even better when cooked risotto-style.",
@@ -534,9 +526,7 @@
   {
     "category": "doughAndBread",
     "id": "baguette",
-    "pictures": [
-      "baguettes.jpg"
-    ],
+    "pictures": ["baguettes.jpg"],
     "en": {
       "name": "Baguette",
       "notes": "Be careful — a rare recipe that truly reaches S Tier, if not God Tier. Incredibly simple, very cheap, and requires very little active time. The 4 ingredients symbolize the 4 elements: flour for earth, water, yeast for air, and salt for fire. Source: https://www.youtube.com/watch?v=Z-husjZkxHw",
@@ -693,9 +683,7 @@
   {
     "category": "doughAndBread",
     "id": "lavashBread",
-    "pictures": [
-      "lavash_bread.jpg"
-    ],
+    "pictures": ["lavash_bread.jpg"],
     "en": {
       "name": "Oriental Flatbread \"Lavash\"",
       "notes": "Turkish/Armenian flatbread cooked in a pan, similar to Indian naan. Recipe from Hungry Man Kitchen (YouTube).",
@@ -1100,9 +1088,7 @@
   {
     "category": "doughAndBread",
     "id": "burgerBuns",
-    "pictures": [
-      "burger_dish.jpg"
-    ],
+    "pictures": ["burger_dish.jpg"],
     "en": {
       "name": "Burger Buns",
       "notes": "Makes 8 buns",
@@ -1121,11 +1107,7 @@
         },
         {
           "part": "Egg wash",
-          "ingredients": [
-            "1 egg yolk",
-            "1 tablespoon milk",
-            "Sesame seeds"
-          ]
+          "ingredients": ["1 egg yolk", "1 tablespoon milk", "Sesame seeds"]
         }
       ],
       "instructions": [
@@ -1235,11 +1217,7 @@
         },
         {
           "part": "Pensling",
-          "ingredients": [
-            "1 eggeplomme",
-            "1 spiseskje melk",
-            "Sesamfrø"
-          ]
+          "ingredients": ["1 eggeplomme", "1 spiseskje melk", "Sesamfrø"]
         }
       ],
       "instructions": [
@@ -1259,9 +1237,7 @@
   {
     "category": "doughAndBread",
     "id": "Bretzel",
-    "pictures": [
-      "bretzels.jpg"
-    ],
+    "pictures": ["bretzels.jpg"],
     "en": {
       "name": "Pretzel",
       "notes": "ChatGPT recipe. Perfect for breakfast, sliced lengthwise and generously buttered like a traditional Butterbrezel.",
@@ -1279,10 +1255,7 @@
         },
         {
           "part": "Baking soda bath",
-          "ingredients": [
-            "1 l water",
-            "40 g food-grade baking soda"
-          ]
+          "ingredients": ["1 l water", "40 g food-grade baking soda"]
         }
       ],
       "instructions": [
@@ -1345,10 +1318,7 @@
         },
         {
           "part": "Bagno di bicarbonato",
-          "ingredients": [
-            "1 l acqua",
-            "40 g bicarbonato alimentare"
-          ]
+          "ingredients": ["1 l acqua", "40 g bicarbonato alimentare"]
         }
       ],
       "instructions": [
@@ -1378,10 +1348,7 @@
         },
         {
           "part": "Bakepulverbad",
-          "ingredients": [
-            "1 l vann",
-            "40 g natron (matkvalitet)"
-          ]
+          "ingredients": ["1 l vann", "40 g natron (matkvalitet)"]
         }
       ],
       "instructions": [
@@ -1398,9 +1365,7 @@
   {
     "category": "pizzas",
     "id": "margherita",
-    "pictures": [
-      "pizza_margherita.jpg"
-    ],
+    "pictures": ["pizza_margherita.jpg"],
     "en": {
       "name": "Margherita",
       "notes": "Pizza dough: same method as bread dough, but with 65-75 mL of water per 100 g of flour.",
@@ -1612,10 +1577,7 @@
       "instructions": [
         {
           "part": "Deig",
-          "instructions": [
-            "Bland med en tresleiv",
-            "La heve i minst 5 timer"
-          ]
+          "instructions": ["Bland med en tresleiv", "La heve i minst 5 timer"]
         },
         {
           "part": "Pizza",
@@ -1704,10 +1666,7 @@
       "instructions": [
         {
           "part": "生地",
-          "instructions": [
-            "木のスプーンで混ぜる",
-            "少なくとも5時間休ませる"
-          ]
+          "instructions": ["木のスプーンで混ぜる", "少なくとも5時間休ませる"]
         },
         {
           "part": "ピザ",
@@ -1750,10 +1709,7 @@
       "instructions": [
         {
           "part": "面团",
-          "instructions": [
-            "用木勺搅拌混合",
-            "静置发酵至少 5 小时"
-          ]
+          "instructions": ["用木勺搅拌混合", "静置发酵至少 5 小时"]
         },
         {
           "part": "披萨",
@@ -1773,9 +1729,7 @@
   {
     "category": "sweet",
     "id": "crepes",
-    "pictures": [
-      "crepes_nutella.jpg"
-    ],
+    "pictures": ["crepes_nutella.jpg"],
     "en": {
       "name": "Crêpes",
       "notes": "Smooth batter without lumps, no blender needed, quick recipe. Tip: balance solid and liquid bases in equal quantities: https://www.youtube.com/watch?v=p-XOehv3j20",
@@ -2017,9 +1971,7 @@
   {
     "category": "mezesAndSauces",
     "id": "hummus",
-    "pictures": [
-      "hummus.jpg"
-    ],
+    "pictures": ["hummus.jpg"],
     "en": {
       "name": "Hummus",
       "notes": "Without a blender, the texture is not creamy but still satisfying; without ice water, the color is darker. More inspiration here: https://www.youtube.com/watch?v=NbXC0B83S7k",
@@ -2192,15 +2144,13 @@
   {
     "category": "mezesAndSauces",
     "id": "garlic_mayonnaise",
-    "pictures": [
-      "garlic_mayonnaise.jpg"
-    ],
+    "pictures": ["garlic_mayonnaise.jpg"],
     "en": {
       "name": "Garlic Mayonnaise",
       "notes": "Better than classic mayonnaise and better than aioli — garlic mayo is a taste orgasm. One egg yolk makes a large amount of mayo at once; it keeps for 2 days in the fridge. Classic mayonnaise recipe by Etchebest: https://www.youtube.com/watch?v=DKXoha0_Mbk",
       "ingredients": [
         "1 fresh egg yolk",
-        "2 tsp Dijon mustard",
+        "1 tsp Dijon mustard",
         "1 tsp white vinegar (or lemon juice)",
         "Salt",
         "Pepper (optional)",
@@ -2219,7 +2169,7 @@
       "notes": "Meilleure que la mayonnaise classique et meilleure que l'aïoli, la mayonnaise à l'ail est un orgasme gustatif. Un jaune d'oeuf fait énormément de mayo d'un coup, elle se conserve 2 jours au frigo. Recette de la mayonnaise classique d'Etchebest : https://www.youtube.com/watch?v=DKXoha0_Mbk",
       "ingredients": [
         "1 jaune d'oeuf frais",
-        "2 c. à c de moutarde de Dijon",
+        "1 c. à c de moutarde de Dijon",
         "1 c. à c de vinaigre blanc (ou jus de citron)",
         "Sel",
         "Poivre (facultatif)",
@@ -2238,7 +2188,7 @@
       "notes": "Meglio della maionese classica e meglio dell’aioli: la maionese all’aglio è un’estasi di gusto. Un tuorlo produce molta maionese in una volta sola; si conserva per 2 giorni in frigorifero. Ricetta della maionese classica di Etchebest: https://www.youtube.com/watch?v=DKXoha0_Mbk",
       "ingredients": [
         "1 tuorlo d’uovo fresco",
-        "2 cucchiaini di senape di Digione",
+        "1 cucchiaini di senape di Digione",
         "1 cucchiaino di aceto bianco (o succo di limone)",
         "Sale",
         "Pepe (facoltativo)",
@@ -2257,7 +2207,7 @@
       "notes": "Mejor que la mayonesa clásica y mejor que el alioli: la mayonesa de ajo es un placer absoluto. Una yema de huevo produce mucha mayonesa de una vez; se conserva 2 días en el frigorífico. Receta de la mayonesa clásica de Etchebest: https://www.youtube.com/watch?v=DKXoha0_Mbk",
       "ingredients": [
         "1 yema de huevo fresca",
-        "2 cucharaditas de mostaza de Dijon",
+        "1 cucharaditas de mostaza de Dijon",
         "1 cucharadita de vinagre blanco (o jugo de limón)",
         "Sal",
         "Pimienta (opcional)",
@@ -2276,7 +2226,7 @@
       "notes": "Bedre enn klassisk majones og bedre enn aioli – hvitløksmajones er en smaksopplevelse uten like. Én eggeplomme gir mye majones; den holder seg i kjøleskapet i 2 dager. Klassisk majonesoppskrift fra Etchebest: https://www.youtube.com/watch?v=DKXoha0_Mbk",
       "ingredients": [
         "1 fersk eggeplomme",
-        "2 ts Dijon-sennep",
+        "1 ts Dijon-sennep",
         "1 ts hvitvinseddik (eller sitronsaft)",
         "Salt",
         "Pepper (valgfritt)",
@@ -2295,7 +2245,7 @@
       "notes": "Klasik mayonezden ve aioliden daha lezzetli — sarımsaklı mayonez tam bir lezzet patlamasıdır. Bir yumurta sarısı bir anda çok miktarda mayonez yapar; buzdolabında 2 gün dayanır. Etchebest’in klasik mayonez tarifi: https://www.youtube.com/watch?v=DKXoha0_Mbk",
       "ingredients": [
         "1 taze yumurta sarısı",
-        "2 çay kaşığı Dijon hardalı",
+        "1 çay kaşığı Dijon hardalı",
         "1 çay kaşığı beyaz sirke (veya limon suyu)",
         "Tuz",
         "Karabiber (isteğe bağlı)",
@@ -2314,7 +2264,7 @@
       "notes": "クラシックマヨネーズやアイオリよりも美味しく、ガーリックマヨネーズはまさに味覚の悦びです。 卵黄1個でたっぷりのマヨネーズが作れます。冷蔵庫で2日間保存できます。 エチェベストのクラシックマヨネーズレシピ: https://www.youtube.com/watch?v=DKXoha0_Mbk",
       "ingredients": [
         "新鮮な卵黄 1個",
-        "ディジョンマスタード 小さじ2",
+        "ディジョンマスタード 小さじ1",
         "白酢（またはレモン汁） 小さじ1",
         "塩",
         "コショウ（お好みで）",
@@ -2333,7 +2283,7 @@
       "notes": "比传统蛋黄酱和蒜泥蛋黄酱都更美味——蒜味蛋黄酱是一种味觉享受。 一个蛋黄可以制作大量蛋黄酱；可在冰箱中保存2天。 Etchebest的经典蛋黄酱食谱：https://www.youtube.com/watch?v=DKXoha0_Mbk",
       "ingredients": [
         "1个新鲜蛋黄",
-        "2茶匙第戎芥末",
+        "1茶匙第戎芥末",
         "1茶匙白醋（或柠檬汁）",
         "盐",
         "胡椒（可选）",
