@@ -67,7 +67,9 @@
   {
     "category": "riceAndPasta",
     "id": "pilafRice",
-    "pictures": ["riz_pilaf.jpg"],
+    "pictures": [
+      "riz_pilaf.jpg"
+    ],
     "en": {
       "name": "Spiced pilaf rice with meat",
       "ingredients": [
@@ -264,7 +266,9 @@
   {
     "category": "riceAndPasta",
     "id": "risottoSpaghetti",
-    "pictures": ["spaghetti_risottatura.jpg"],
+    "pictures": [
+      "spaghetti_risottatura.jpg"
+    ],
     "en": {
       "name": "Risotto-style Spaghetti",
       "notes": "A humble Italian technique for tastier and creamier spaghetti. It's a real upgrade for spaghetti lovers, especially those who enjoy garlic. You can also adapt the method using meat or fish juices left in a hot pan.",
@@ -397,7 +401,9 @@
   {
     "category": "riceAndPasta",
     "id": "freshPasta",
-    "pictures": ["pates_fraiches.jpg"],
+    "pictures": [
+      "pates_fraiches.jpg"
+    ],
     "en": {
       "name": "Homemade fresh pasta with hand crank",
       "notes": "Allows eating 1 egg per person without overcooking the egg, so very healthy and without the taste of the egg being too pronounced.",
@@ -453,7 +459,9 @@
   {
     "category": "meatAndFish",
     "id": "salmonFillets",
-    "pictures": ["patates_rissolees_et_filets_saumon.jpg"],
+    "pictures": [
+      "patates_rissolees_et_filets_saumon.jpg"
+    ],
     "en": {
       "name": "Oven-baked Salmon Fillets",
       "notes": "Already a very good recipe, but can be refined and perfected. I like to serve it with spaghetti — even better when cooked risotto-style.",
@@ -526,7 +534,9 @@
   {
     "category": "doughAndBread",
     "id": "baguette",
-    "pictures": ["baguettes.jpg"],
+    "pictures": [
+      "baguettes.jpg"
+    ],
     "en": {
       "name": "Baguette",
       "notes": "Be careful — a rare recipe that truly reaches S Tier, if not God Tier. Incredibly simple, very cheap, and requires very little active time. The 4 ingredients symbolize the 4 elements: flour for earth, water, yeast for air, and salt for fire. Source: https://www.youtube.com/watch?v=Z-husjZkxHw",
@@ -683,7 +693,9 @@
   {
     "category": "doughAndBread",
     "id": "lavashBread",
-    "pictures": ["lavash_bread.jpg"],
+    "pictures": [
+      "lavash_bread.jpg"
+    ],
     "en": {
       "name": "Oriental Flatbread \"Lavash\"",
       "notes": "Turkish/Armenian flatbread cooked in a pan, similar to Indian naan. Recipe from Hungry Man Kitchen (YouTube).",
@@ -1088,7 +1100,9 @@
   {
     "category": "doughAndBread",
     "id": "burgerBuns",
-    "pictures": ["burger_dish.jpg"],
+    "pictures": [
+      "burger_dish.jpg"
+    ],
     "en": {
       "name": "Burger Buns",
       "notes": "Makes 8 buns",
@@ -1107,7 +1121,11 @@
         },
         {
           "part": "Egg wash",
-          "ingredients": ["1 egg yolk", "1 tablespoon milk", "Sesame seeds"]
+          "ingredients": [
+            "1 egg yolk",
+            "1 tablespoon milk",
+            "Sesame seeds"
+          ]
         }
       ],
       "instructions": [
@@ -1217,7 +1235,11 @@
         },
         {
           "part": "Pensling",
-          "ingredients": ["1 eggeplomme", "1 spiseskje melk", "Sesamfrø"]
+          "ingredients": [
+            "1 eggeplomme",
+            "1 spiseskje melk",
+            "Sesamfrø"
+          ]
         }
       ],
       "instructions": [
@@ -1236,8 +1258,10 @@
   },
   {
     "category": "doughAndBread",
-    "id": "Bretzel",
-    "pictures": ["bretzels.jpg"],
+    "id": "bretzel",
+    "pictures": [
+      "bretzels.jpg"
+    ],
     "en": {
       "name": "Pretzel",
       "notes": "ChatGPT recipe. Perfect for breakfast, sliced lengthwise and generously buttered like a traditional Butterbrezel.",
@@ -1255,7 +1279,10 @@
         },
         {
           "part": "Baking soda bath",
-          "ingredients": ["1 l water", "40 g food-grade baking soda"]
+          "ingredients": [
+            "1 l water",
+            "40 g food-grade baking soda"
+          ]
         }
       ],
       "instructions": [
@@ -1318,7 +1345,10 @@
         },
         {
           "part": "Bagno di bicarbonato",
-          "ingredients": ["1 l acqua", "40 g bicarbonato alimentare"]
+          "ingredients": [
+            "1 l acqua",
+            "40 g bicarbonato alimentare"
+          ]
         }
       ],
       "instructions": [
@@ -1348,7 +1378,10 @@
         },
         {
           "part": "Bakepulverbad",
-          "ingredients": ["1 l vann", "40 g natron (matkvalitet)"]
+          "ingredients": [
+            "1 l vann",
+            "40 g natron (matkvalitet)"
+          ]
         }
       ],
       "instructions": [
@@ -1365,7 +1398,9 @@
   {
     "category": "pizzas",
     "id": "margherita",
-    "pictures": ["pizza_margherita.jpg"],
+    "pictures": [
+      "pizza_margherita.jpg"
+    ],
     "en": {
       "name": "Margherita",
       "notes": "Pizza dough: same method as bread dough, but with 65-75 mL of water per 100 g of flour.",
@@ -1577,7 +1612,10 @@
       "instructions": [
         {
           "part": "Deig",
-          "instructions": ["Bland med en tresleiv", "La heve i minst 5 timer"]
+          "instructions": [
+            "Bland med en tresleiv",
+            "La heve i minst 5 timer"
+          ]
         },
         {
           "part": "Pizza",
@@ -1666,7 +1704,10 @@
       "instructions": [
         {
           "part": "生地",
-          "instructions": ["木のスプーンで混ぜる", "少なくとも5時間休ませる"]
+          "instructions": [
+            "木のスプーンで混ぜる",
+            "少なくとも5時間休ませる"
+          ]
         },
         {
           "part": "ピザ",
@@ -1709,7 +1750,10 @@
       "instructions": [
         {
           "part": "面团",
-          "instructions": ["用木勺搅拌混合", "静置发酵至少 5 小时"]
+          "instructions": [
+            "用木勺搅拌混合",
+            "静置发酵至少 5 小时"
+          ]
         },
         {
           "part": "披萨",
@@ -1729,7 +1773,9 @@
   {
     "category": "sweet",
     "id": "crepes",
-    "pictures": ["crepes_nutella.jpg"],
+    "pictures": [
+      "crepes_nutella.jpg"
+    ],
     "en": {
       "name": "Crêpes",
       "notes": "Smooth batter without lumps, no blender needed, quick recipe. Tip: balance solid and liquid bases in equal quantities: https://www.youtube.com/watch?v=p-XOehv3j20",
@@ -1884,94 +1930,11 @@
     }
   },
   {
-    "category": "sweet",
-    "id": "striezel",
-    "pictures": [],
-    "en": {
-      "name": "Striezel",
-      "notes": "A fairly simple brioche with an impressive visual effect, typical braid from Germanic countries. Recipe shared by my Austrian colleague.",
-      "ingredients": [
-        "500 g flour",
-        "250 ml milk",
-        "60 g butter",
-        "60 g sugar",
-        "30 g yeast",
-        "1 tsp salt",
-        "1 tsp vanilla sugar (optional)"
-      ],
-      "instructions": [
-        "Melt the butter and add the milk (30°C, do not cook).",
-        "Mix everything to form a dough, let rest for 2 hours until doubled in size.",
-        "Braid the Striezel as shown in the video: https://www.youtube.com/watch?v=FFVW94Oi5c0",
-        "Brush with egg and sprinkle with pearl sugar.",
-        "Bake 30 minutes at 170°C."
-      ]
-    },
-    "fr": {
-      "name": "Striezel",
-      "notes": "Brioche assez simple avec effet visuel impressionnant, tresse typique des pays germaniques. Recette partagée par mon collègue Autrichien.",
-      "ingredients": [
-        "500g de farine",
-        "250 ml de lait",
-        "60 g de beurre",
-        "60 g de sucre",
-        "30g de levure",
-        "1 cuillère à café de sel",
-        "1 cuillère à café de sucre vanillé (facultatif)"
-      ],
-      "instructions": [
-        "Faire fondre le beurre et y ajouter le lait (30°, ne pas faire cuire)",
-        "Mélanger le tout et faire une pâte, laisser reposer 2 heures pour que la pâte double de volume",
-        "Tresser les Striezels comme décrit dans la vidéo : https://www.youtube.com/watch?v=FFVW94Oi5c0",
-        "Badigeonner d'œuf et ajouter du sucre perlé",
-        "Four 30 minutes à 170°"
-      ]
-    },
-    "it": {
-      "name": "Striezel",
-      "notes": "Brioche abbastanza semplice con effetto visivo impressionante, treccia tipica dei paesi germanici. Ricetta condivisa dal mio collega austriaco.",
-      "ingredients": [
-        "500 g farina",
-        "250 ml latte",
-        "60 g burro",
-        "60 g zucchero",
-        "30 g lievito",
-        "1 cucchiaino di sale",
-        "1 cucchiaino di zucchero vanigliato (facoltativo)"
-      ],
-      "instructions": [
-        "Fondere il burro e aggiungere il latte (30°C, non cuocere).",
-        "Mescolare tutto per ottenere un impasto, lasciare riposare 2 ore fino al raddoppio del volume.",
-        "Intrecciare gli Striezel come mostrato nel video: https://www.youtube.com/watch?v=FFVW94Oi5c0",
-        "Spennellare con uovo e cospargere di zucchero perlato.",
-        "Cuocere in forno per 30 minuti a 170°C."
-      ]
-    },
-    "nb": {
-      "name": "Striezel",
-      "notes": "En ganske enkel brioche med imponerende visuelt uttrykk, typisk flett fra de germanske landene. Oppskrift delt av min østerrikske kollega.",
-      "ingredients": [
-        "500 g mel",
-        "250 ml melk",
-        "60 g smør",
-        "60 g sukker",
-        "30 g gjær",
-        "1 ts salt",
-        "1 ts vaniljesukker (valgfritt)"
-      ],
-      "instructions": [
-        "Smelt smøret og tilsett melk (30°C, ikke kok).",
-        "Bland alt til en deig, la hvile i 2 timer til den dobler seg i størrelse.",
-        "Flett Striezel som vist i videoen: https://www.youtube.com/watch?v=FFVW94Oi5c0",
-        "Pensle med egg og strø perlesukker over.",
-        "Stek i ovnen i 30 minutter ved 170°C."
-      ]
-    }
-  },
-  {
     "category": "mezesAndSauces",
     "id": "hummus",
-    "pictures": ["hummus.jpg"],
+    "pictures": [
+      "hummus.jpg"
+    ],
     "en": {
       "name": "Hummus",
       "notes": "Without a blender, the texture is not creamy but still satisfying; without ice water, the color is darker. More inspiration here: https://www.youtube.com/watch?v=NbXC0B83S7k",
@@ -2143,8 +2106,10 @@
   },
   {
     "category": "mezesAndSauces",
-    "id": "garlic_mayonnaise",
-    "pictures": ["garlic_mayonnaise.jpg"],
+    "id": "garlicMayonnaise",
+    "pictures": [
+      "garlic_mayonnaise.jpg"
+    ],
     "en": {
       "name": "Garlic Mayonnaise",
       "notes": "Better than classic mayonnaise and better than aioli — garlic mayo is a taste orgasm. One egg yolk makes a large amount of mayo at once; it keeps for 2 days in the fridge. Classic mayonnaise recipe by Etchebest: https://www.youtube.com/watch?v=DKXoha0_Mbk",
@@ -2295,6 +2260,282 @@
         "在碗中放入蛋黄、芥末、醋、盐和胡椒。",
         "一边搅拌一边慢慢加入150毫升油。",
         "加入温热的蒜香油，继续搅拌至乳化完成，即可。"
+      ]
+    }
+  },
+  {
+    "category": "sweet",
+    "id": "brownies",
+    "pictures": [
+      "brownies.jpg"
+    ],
+    "en": {
+      "name": "Brownies",
+      "notes": "Simple, quick, and delicious. What more can we say?",
+      "ingredients": [
+        "200 g of dark baking chocolate",
+        "100 g of butter",
+        "150 g of sugar",
+        "2 eggs",
+        "60 g of flour",
+        "A pinch of salt"
+      ],
+      "instructions": [
+        "Preheat oven to 180°C (356°F), static heat",
+        "Melt the butter and chocolate",
+        "Separately, mix the eggs and sugar",
+        "Add the melted chocolate and salt",
+        "Fold in the sifted flour without overmixing (to keep it soft)",
+        "Pour into a baking pan lined with parchment paper or greased",
+        "Bake for 20 minutes",
+        "Sprinkle with powdered sugar (optional)",
+        "Let cool before cutting"
+      ]
+    },
+    "fr": {
+      "name": "Brownies",
+      "notes": "Simple, rapide et délicieux. Que dire de plus ?",
+      "ingredients": [
+        "200 g de chocolat noir pâtissier",
+        "100 g de beurre",
+        "150 g de sucre",
+        "2 œufs",
+        "60 g de farine",
+        "1 pincée de sel"
+      ],
+      "instructions": [
+        "Préchauffer four 180°C, chaleur statique",
+        "Faire fondre le beurre et le chocolat",
+        "A part, mélanger les oeufs et le sucre",
+        "Y ajouter le chocolat fondu et le sel",
+        "Incorporer la farine tamisée sans trop mélanger (pour garder le moelleux)",
+        "Verser dans un moule avec papier cuisson ou beurré",
+        "Cuire 20 minutes",
+        "Saupoudrer de sucre glace (facultatif)",
+        "Laisser refroidir avant découpe"
+      ]
+    },
+    "it": {
+      "name": "Brownies",
+      "notes": "Semplice, veloce e delizioso. Cos'altro dire?",
+      "ingredients": [
+        "200 g di cioccolato fondente da forno",
+        "100 g di burro",
+        "150 g di zucchero",
+        "2 uova",
+        "60 g di farina",
+        "Un pizzico di sale"
+      ],
+      "instructions": [
+        "Preriscaldare il forno a 180°C, modalità statica",
+        "Fondere il burro e il cioccolato",
+        "Separatamente, mescolare uova e zucchero",
+        "Aggiungere il cioccolato fuso e il sale",
+        "Incorporare la farina setacciata senza mescolare troppo (per mantenere morbidezza)",
+        "Versare in una teglia con carta forno o imburrata",
+        "Cuocere per 20 minuti",
+        "Spolverare con zucchero a velo (facoltativo)",
+        "Lasciare raffreddare prima di tagliare"
+      ]
+    },
+    "es": {
+      "name": "Brownies",
+      "notes": "Simple, rápido y delicioso. ¿Qué más decir?",
+      "ingredients": [
+        "200 g de chocolate negro para repostería",
+        "100 g de mantequilla",
+        "150 g de azúcar",
+        "2 huevos",
+        "60 g de harina",
+        "Una pizca de sal"
+      ],
+      "instructions": [
+        "Precalentar el horno a 180°C, calor estático",
+        "Derretir la mantequilla y el chocolate",
+        "Por separado, mezclar los huevos y el azúcar",
+        "Agregar el chocolate derretido y la sal",
+        "Incorporar la harina tamizada sin mezclar demasiado (para mantener la suavidad)",
+        "Verter en un molde con papel de hornear o engrasado",
+        "Hornear durante 20 minutos",
+        "Espolvorear con azúcar glas (opcional)",
+        "Dejar enfriar antes de cortar"
+      ]
+    },
+    "nb": {
+      "name": "Brownies",
+      "notes": "Enkelt, raskt og deilig. Hva mer kan man si?",
+      "ingredients": [
+        "200 g mørk bake-sjokolade",
+        "100 g smør",
+        "150 g sukker",
+        "2 egg",
+        "60 g mel",
+        "En klype salt"
+      ],
+      "instructions": [
+        "Forvarm ovnen til 180°C, vanlig varme",
+        "Smelt smør og sjokolade",
+        "Pisk egg og sukker for seg",
+        "Tilsett smeltet sjokolade og salt",
+        "Vend inn siktet mel uten å overblande (for å bevare mykheten)",
+        "Hell i en smurt form eller med bakepapir",
+        "Stek i 20 minutter",
+        "Dryss over melis (valgfritt)",
+        "La avkjøle før skjæring"
+      ]
+    },
+    "tr": {
+      "name": "Brownies (kekler)",
+      "notes": "Basit, hızlı ve lezzetli. Daha ne denebilir?",
+      "ingredients": [
+        "200 g bitter çikolata (pasta için)",
+        "100 g tereyağı",
+        "150 g şeker",
+        "2 yumurta",
+        "60 g un",
+        "Bir tutam tuz"
+      ],
+      "instructions": [
+        "Fırını 180°C'ye önceden ısıtın, statik ısı",
+        "Tereyağı ve çikolatayı eritin",
+        "Ayrı bir kapta yumurta ve şekeri çırpın",
+        "Eritilmiş çikolatayı ve tuzu ekleyin",
+        "Elekten geçirilmiş unu fazla karıştırmadan ekleyin (yumuşak kalması için)",
+        "Yağlanmış veya pişirme kağıdı serili kalıba dökün",
+        "20 dakika pişirin",
+        "Üzerine pudra şekeri serpin (isteğe bağlı)",
+        "Kesmeden önce soğumaya bırakın"
+      ]
+    },
+    "ja": {
+      "name": "ブラウニー",
+      "notes": "シンプルで、手早く、美味しい。それ以上何を言う必要がありますか？",
+      "ingredients": [
+        "製菓用ビターチョコレート 200g",
+        "バター 100g",
+        "砂糖 150g",
+        "卵 2個",
+        "小麦粉 60g",
+        "塩 ひとつまみ"
+      ],
+      "instructions": [
+        "オーブンを180°Cに予熱（上火・下火）",
+        "バターとチョコレートを溶かす",
+        "別のボウルで卵と砂糖を混ぜる",
+        "溶かしたチョコレートと塩を加える",
+        "ふるった小麦粉を加え、混ぜすぎない（しっとり感を保つため）",
+        "オーブンシートを敷いた型に流し入れる",
+        "20分焼く",
+        "粉砂糖をふりかける（任意）",
+        "カットする前に冷ます"
+      ]
+    },
+    "zh": {
+      "name": "布朗尼",
+      "notes": "简单、快速、美味。还能说什么呢？",
+      "ingredients": [
+        "200克黑巧克力（烘焙用）",
+        "100克黄油",
+        "150克糖",
+        "2个鸡蛋",
+        "60克面粉",
+        "一小撮盐"
+      ],
+      "instructions": [
+        "将烤箱预热至180°C，上下火",
+        "融化黄油和巧克力",
+        "另取一碗混合鸡蛋和糖",
+        "加入融化的巧克力和盐",
+        "筛入面粉，轻轻拌匀（保持松软）",
+        "倒入铺了烘焙纸或涂了油的模具中",
+        "烘烤20分钟",
+        "撒上糖粉（可选）",
+        "切块前冷却"
+      ]
+    }
+  },
+  {
+    "category": "sweet",
+    "id": "striezel",
+    "pictures": [],
+    "en": {
+      "name": "Striezel",
+      "notes": "A fairly simple brioche with an impressive visual effect, typical braid from Germanic countries. Recipe shared by my Austrian colleague.",
+      "ingredients": [
+        "500 g flour",
+        "250 ml milk",
+        "60 g butter",
+        "60 g sugar",
+        "30 g yeast",
+        "1 tsp salt",
+        "1 tsp vanilla sugar (optional)"
+      ],
+      "instructions": [
+        "Melt the butter and add the milk (30°C, do not cook).",
+        "Mix everything to form a dough, let rest for 2 hours until doubled in size.",
+        "Braid the Striezel as shown in the video: https://www.youtube.com/watch?v=FFVW94Oi5c0",
+        "Brush with egg and sprinkle with pearl sugar.",
+        "Bake 30 minutes at 170°C."
+      ]
+    },
+    "fr": {
+      "name": "Striezel",
+      "notes": "Brioche assez simple avec effet visuel impressionnant, tresse typique des pays germaniques. Recette partagée par mon collègue Autrichien.",
+      "ingredients": [
+        "500g de farine",
+        "250 ml de lait",
+        "60 g de beurre",
+        "60 g de sucre",
+        "30g de levure",
+        "1 cuillère à café de sel",
+        "1 cuillère à café de sucre vanillé (facultatif)"
+      ],
+      "instructions": [
+        "Faire fondre le beurre et y ajouter le lait (30°, ne pas faire cuire)",
+        "Mélanger le tout et faire une pâte, laisser reposer 2 heures pour que la pâte double de volume",
+        "Tresser les Striezels comme décrit dans la vidéo : https://www.youtube.com/watch?v=FFVW94Oi5c0",
+        "Badigeonner d'œuf et ajouter du sucre perlé",
+        "Four 30 minutes à 170°"
+      ]
+    },
+    "it": {
+      "name": "Striezel",
+      "notes": "Brioche abbastanza semplice con effetto visivo impressionante, treccia tipica dei paesi germanici. Ricetta condivisa dal mio collega austriaco.",
+      "ingredients": [
+        "500 g farina",
+        "250 ml latte",
+        "60 g burro",
+        "60 g zucchero",
+        "30 g lievito",
+        "1 cucchiaino di sale",
+        "1 cucchiaino di zucchero vanigliato (facoltativo)"
+      ],
+      "instructions": [
+        "Fondere il burro e aggiungere il latte (30°C, non cuocere).",
+        "Mescolare tutto per ottenere un impasto, lasciare riposare 2 ore fino al raddoppio del volume.",
+        "Intrecciare gli Striezel come mostrato nel video: https://www.youtube.com/watch?v=FFVW94Oi5c0",
+        "Spennellare con uovo e cospargere di zucchero perlato.",
+        "Cuocere in forno per 30 minuti a 170°C."
+      ]
+    },
+    "nb": {
+      "name": "Striezel",
+      "notes": "En ganske enkel brioche med imponerende visuelt uttrykk, typisk flett fra de germanske landene. Oppskrift delt av min østerrikske kollega.",
+      "ingredients": [
+        "500 g mel",
+        "250 ml melk",
+        "60 g smør",
+        "60 g sukker",
+        "30 g gjær",
+        "1 ts salt",
+        "1 ts vaniljesukker (valgfritt)"
+      ],
+      "instructions": [
+        "Smelt smøret og tilsett melk (30°C, ikke kok).",
+        "Bland alt til en deig, la hvile i 2 timer til den dobler seg i størrelse.",
+        "Flett Striezel som vist i videoen: https://www.youtube.com/watch?v=FFVW94Oi5c0",
+        "Pensle med egg og strø perlesukker over.",
+        "Stek i ovnen i 30 minutter ved 170°C."
       ]
     }
   }

@@ -5,7 +5,10 @@
     "countryCode": "fr",
     "date": "2025-09-09",
     "ranking": 9.0,
-    "pictures": ["French_meal_plate.jpg", "French_meal_apero.jpg"],
+    "pictures": [
+      "French_meal_plate.jpg",
+      "French_meal_apero.jpg"
+    ],
     "en": {
       "name": "Beef fillet and hash browns",
       "country": "French Meal",
@@ -196,7 +199,10 @@
     "countryCode": "tr",
     "date": "2025-09-18",
     "ranking": 8,
-    "pictures": ["Turkish_meal_plate.jpg", "Turkish_meal_table.jpg"],
+    "pictures": [
+      "Turkish_meal_plate.jpg",
+      "Turkish_meal_table.jpg"
+    ],
     "en": {
       "name": "Pilaf rice",
       "country": "Turkish meal",
@@ -315,7 +321,10 @@
     "countryCode": "us",
     "date": "2025-09-25",
     "ranking": 8.5,
-    "pictures": ["American_meal_plate.jpg", "American_meal_table.jpg"],
+    "pictures": [
+      "American_meal_plate.jpg",
+      "American_meal_table.jpg"
+    ],
     "en": {
       "name": "Smash burger, fries and homemade mayo",
       "country": "American meal",
@@ -422,7 +431,10 @@
     "countryCode": "mx",
     "date": "2025-10-02",
     "ranking": 8.5,
-    "pictures": ["Mexican_meal_table.jpg", "Mexican_meal_apero_table.jpg"],
+    "pictures": [
+      "Mexican_meal_table.jpg",
+      "Mexican_meal_apero_table.jpg"
+    ],
     "en": {
       "name": "Chili con carne",
       "country": "Mexican meal",
@@ -778,7 +790,10 @@
     "countryCode": "jp",
     "date": "2025-10-12",
     "ranking": 8.5,
-    "pictures": ["Japanese_meal_plate.jpg", "Japanese_meal_table.jpg"],
+    "pictures": [
+      "Japanese_meal_plate.jpg",
+      "Japanese_meal_table.jpg"
+    ],
     "en": {
       "name": "Ramen",
       "country": "Japanese meal",
@@ -998,7 +1013,9 @@
       "notes": [
         {
           "title": "Title here",
-          "description": ["Notes for each dish"]
+          "description": [
+            "Notes for each dish"
+          ]
         },
         {
           "title": "Mario's notes",
@@ -1017,7 +1034,10 @@
     "countryCode": "lb",
     "date": "2025-10-16",
     "ranking": 7,
-    "pictures": ["Lebanese_meal_table_1.jpg", "Lebanese_meal_table_2.jpg"],
+    "pictures": [
+      "Lebanese_meal_table_2.jpg",
+      "Lebanese_meal_table_1.jpg"
+    ],
     "en": {
       "name": "Mezzes",
       "country": "Lebanese Meal",
@@ -1066,7 +1086,9 @@
         },
         {
           "title": "Positive points",
-          "description": ["We cooked together."]
+          "description": [
+            "We cooked together."
+          ]
         }
       ]
     },
@@ -1118,7 +1140,9 @@
         },
         {
           "title": "Points positifs",
-          "description": ["On a cuisiné ensemble."]
+          "description": [
+            "On a cuisiné ensemble."
+          ]
         }
       ]
     },
@@ -1170,7 +1194,9 @@
         },
         {
           "title": "Punti positivi",
-          "description": ["Abbiamo cucinato insieme."]
+          "description": [
+            "Abbiamo cucinato insieme."
+          ]
         }
       ]
     },
@@ -1222,7 +1248,375 @@
         },
         {
           "title": "Olumlu noktalar",
-          "description": ["Birlikte yemek yaptık."]
+          "description": [
+            "Birlikte yemek yaptık."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "mealNumber": 9,
+    "id": "norwegianMeal",
+    "countryCode": "no",
+    "date": "2025-10-23",
+    "ranking": 9,
+    "pictures": [
+      "Norwegian_meal_table.jpg",
+      "Norwegian_meal_gravlax.jpg",
+      "Norwegian_meal_dessert.jpg",
+      "brownies.jpg",
+      "Norwegian_meal_board_game.jpg"
+    ],
+    "en": {
+      "name": "Gravlax with Norwegian flatbread, potatoes, elk, cranberry jam, brownies and ice cream",
+      "country": "Norwegian meal",
+      "idea": [
+        "On Saturday, while walking around town, I stumbled upon a rare local producers’ market. They were offering different kinds of gravlax (herb-marinated, alcohol-marinated, or smoked salmon), as well as elk meat (yes, elk, not reindeer).",
+        "So I decided that the next shared meal would be themed around Norway.",
+        "To go with the gravlax, Norwegian flatbread will do perfectly. But for dessert, nothing came to mind. However, it had been way too long since I wanted to try baking chocolate brownies. When checking the recipe on ChatGPT (again), I realized how simple it was.",
+        "So it’s settled: starter – salmon and flatbread; main – potatoes and elk; dessert – brownies. Let’s go!",
+        "Important point: given the effort, energy (and also stress) I had put into the previous Thursday meals, plus the fact that there was much less pressure for the Norwegian theme (nothing against Norwegians, but their cuisine... hmm…), I was able to start cooking calmly and simply."
+      ],
+      "menu": [
+        "Isbjørn beer (Norwegian beer from Tromsø)",
+        "Herb gravlax, Norwegian salmon",
+        "Norwegian trout marinated in aquavit (Scandinavian alcohol)",
+        "Norwegian flatbread “Flatbrød Mors” (can be found at Meny)",
+        "Boiled potatoes served with butter",
+        "Pan-seared elk with red wine deglaze (come on, you don’t waste flavor)",
+        "Cranberry jam served with the elk and potatoes",
+        "Homemade brownie made by the girls + ice cream"
+      ],
+      "notes": [
+        {
+          "title": "Women’s cooking",
+          "description": [
+            "Using ChatGPT’s recipe, the girls cooked the entire chocolate brownie themselves. They might not admit it, but I’m convinced of it: women’s cooking has a special quality — gentle and comforting. They naturally put in a kind of care that men don’t as easily.",
+            "The brownie was absolutely delicious. Plus, it’s super easy to make — I’ll definitely write down the recipe!"
+          ]
+        },
+        {
+          "title": "Preparation",
+          "description": [
+            "Be careful with the amount of potatoes — there were too many for four people.",
+            "Plan ahead if you want to take pictures of the table before eating. This time, we had to eat the meat and potatoes first, then the gravlax — not the ideal order.",
+            "Same dessert secret as always: serve it with a scoop of ice cream — it takes it to another level."
+          ]
+        },
+        {
+          "title": "Atmosphere",
+          "description": [
+            "We played Qwirkle with some herbal tea and a piece of brownie — perfection!"
+          ]
+        }
+      ]
+    },
+    "fr": {
+      "name": "Gravlax avec pain plat Norvégien, patates, élan, confiture de canneberge, brownies et glace",
+      "country": "Repas Norvégien",
+      "idea": [
+        "Le samedi, en me baladant en ville, je suis tombé sur un marché rare de producteurs locaux, ils proposaient différents gravlax (saumon mariné aux herbes, à l’alcool ou fumé), ainsi que de la viande d’élan (oui pas du renne mais bien de l’élan).",
+        "J’ai donc décidé que le prochain repas partagé sera sur le thème de la Norvège.",
+        "Pour accompagner le gravlax, le pain plat Norvégien fera parfaitement l’affaire. Mais pour le dessert, rien ne me venait à l’esprit. En revanche, ça faisait beaucoup trop longtemps que je voulais tester le brownie au chocolat. En vérifiant la recette sur ChatGPT (toujours lui) je me suis rendu compte à quel point c’était simple.",
+        "C’est donc décidé : entré : saumon et flatbread, plat : patates et élan, dessert : brownie. Y’a plus qu’à !",
+        "Point important : étant donné l’effort, l’énergie, (et aussi le stress) que j’avais mis jusqu’alors pour les repas du jeudi, plus le fait que la pression était bien moindre pour le thème Norvégien (j’ai rien contre les Norvégiens, mais leur cuisine… hum…) à fait que j’ai pu démarrer la cuisine très tranquillement et simplement."
+      ],
+      "menu": [
+        "Bière Isbjørn (bière Norvégienne de Tromsø)",
+        "Gravlax aux herbes, saumon de Norvège",
+        "Truite de Norvège marinée à l’aquavit (alcool scandinave)",
+        "Pain plat Norvégien “Flatbrød Mors” (qu’on peut trouver à Meny)",
+        "Patates cuites à l’eau bouillante, servies avec du beurre",
+        "Élan à la poêle avec déglaçage au vin rouge (faut pas déconner, on jette pas les saveurs)",
+        "Confiture de canneberge (cranberries) servie avec l’élan et les patates",
+        "Dessert brownie maison cuisinée par les filles + glace"
+      ],
+      "notes": [
+        {
+          "title": "La cuisine des femmes",
+          "description": [
+            "Avec la recette de ChatGPT, les filles ont entièrement cuisiné le brownie au chocolat. Elles veulent peut-être pas le reconnaitre mais moi j’en suis convaincu : la cuisine de femme est particulière, douce et réconfortante. Elles savent naturellement y mettre une attention que les hommes n’ont pas aussi facilement.",
+            "Le brownie était absolument délicieux, surtout c’est super facile à préparer, je vais m’empresser de noter la recette !"
+          ]
+        },
+        {
+          "title": "Préparation",
+          "description": [
+            "Attention à la quantité de patates, y’en avait trop pour 4",
+            "Anticiper la volonté de terminer la table pour prendre les photos avant de commencer à manger. Là on a dû manger d’abord la viande et les patates et ensuite le gravlax. Ce n’est pas l’ordre idéal.",
+            "Encore le même secret du dessert : le servir avec un boule de glace, ça transcende le dessert"
+          ]
+        },
+        {
+          "title": "Ambiance",
+          "description": [
+            "On a joué à Qwirkle, avec une tisane et une part de brownie, c’est le top !"
+          ]
+        }
+      ]
+    },
+    "it": {
+      "name": "Gravlax con pane piatto norvegese, patate, alce, marmellata di mirtilli rossi, brownies e gelato",
+      "country": "Pasto norvegese",
+      "idea": [
+        "Sabato, passeggiando per la città, mi sono imbattuto in un raro mercato di produttori locali. Offrivano diversi tipi di gravlax (salmone marinato alle erbe, all’alcol o affumicato), oltre alla carne di alce (sì, alce, non renna).",
+        "Ho quindi deciso che il prossimo pasto condiviso sarebbe stato a tema Norvegia.",
+        "Per accompagnare il gravlax, il pane piatto norvegese sarà perfetto. Ma per il dessert non mi veniva in mente nulla. Tuttavia, era da troppo tempo che volevo provare a preparare i brownies al cioccolato. Controllando la ricetta su ChatGPT (sempre lui), mi sono reso conto di quanto fosse semplice.",
+        "Dunque è deciso: antipasto – salmone e pane piatto; piatto principale – patate e alce; dessert – brownie. Si parte!",
+        "Punto importante: considerando lo sforzo, l’energia (e anche lo stress) che avevo dedicato ai precedenti pasti del giovedì, e il fatto che la pressione fosse molto minore per il tema norvegese (niente contro i norvegesi, ma la loro cucina... ehm...), ho potuto iniziare a cucinare in modo molto tranquillo e semplice."
+      ],
+      "menu": [
+        "Birra Isbjørn (birra norvegese di Tromsø)",
+        "Gravlax alle erbe, salmone di Norvegia",
+        "Trota norvegese marinata all’aquavit (liquore scandinavo)",
+        "Pane piatto norvegese “Flatbrød Mors” (si trova da Meny)",
+        "Patate bollite servite con burro",
+        "Alce in padella con deglassatura al vino rosso (non si buttano via i sapori!)",
+        "Marmellata di mirtilli rossi servita con l’alce e le patate",
+        "Brownie fatto in casa dalle ragazze + gelato"
+      ],
+      "notes": [
+        {
+          "title": "La cucina delle donne",
+          "description": [
+            "Con la ricetta di ChatGPT, le ragazze hanno cucinato interamente il brownie al cioccolato. Forse non vogliono ammetterlo, ma ne sono convinto: la cucina delle donne ha qualcosa di speciale — è dolce e confortante. Sanno naturalmente metterci un’attenzione che gli uomini non hanno così facilmente.",
+            "Il brownie era assolutamente delizioso, e soprattutto è facilissimo da preparare — mi affretterò a scrivere la ricetta!"
+          ]
+        },
+        {
+          "title": "Preparazione",
+          "description": [
+            "Attenzione alla quantità di patate: ce n’erano troppe per quattro persone.",
+            "Bisogna prevedere di finire di apparecchiare la tavola per poter fare le foto prima di iniziare a mangiare. Stavolta abbiamo dovuto mangiare prima la carne e le patate, poi il gravlax — non l’ordine ideale.",
+            "Lo stesso segreto del dessert: servirlo con una pallina di gelato — lo porta a un livello superiore."
+          ]
+        },
+        {
+          "title": "Atmosfera",
+          "description": [
+            "Abbiamo giocato a Qwirkle, con una tisana e una fetta di brownie — fantastico!"
+          ]
+        }
+      ]
+    },
+    "es": {
+      "name": "Gravlax con pan plano noruego, papas, alce, mermelada de arándanos rojos, brownies y helado",
+      "country": "Comida noruega",
+      "idea": [
+        "El sábado, mientras paseaba por la ciudad, me encontré con un raro mercado de productores locales. Ofrecían diferentes tipos de gravlax (salmón marinado con hierbas, con alcohol o ahumado), además de carne de alce (sí, alce, no reno).",
+        "Así que decidí que la próxima comida compartida tendría como tema a Noruega.",
+        "Para acompañar el gravlax, el pan plano noruego será perfecto. Pero para el postre, no se me ocurría nada. Sin embargo, hacía demasiado tiempo que quería probar a hacer brownies de chocolate. Al revisar la receta en ChatGPT (como siempre), me di cuenta de lo fácil que era.",
+        "Así que está decidido: entrada – salmón y pan plano; plato principal – papas y alce; postre – brownie. ¡Vamos allá!",
+        "Punto importante: dado el esfuerzo, la energía (y también el estrés) que había puesto en las comidas anteriores de los jueves, y el hecho de que había mucha menos presión con el tema noruego (nada en contra de los noruegos, pero su cocina... ejem...), pude empezar a cocinar de manera tranquila y sencilla."
+      ],
+      "menu": [
+        "Cerveza Isbjørn (cerveza noruega de Tromsø)",
+        "Gravlax con hierbas, salmón de Noruega",
+        "Trucha noruega marinada en aquavit (licor escandinavo)",
+        "Pan plano noruego “Flatbrød Mors” (se puede encontrar en Meny)",
+        "Papas hervidas servidas con mantequilla",
+        "Alce a la sartén con desglasado de vino tinto (no se desperdicia el sabor)",
+        "Mermelada de arándanos rojos servida con el alce y las papas",
+        "Brownie casero preparado por las chicas + helado"
+      ],
+      "notes": [
+        {
+          "title": "La cocina de las mujeres",
+          "description": [
+            "Con la receta de ChatGPT, las chicas prepararon completamente el brownie de chocolate. Puede que no lo admitan, pero estoy convencido: la cocina de las mujeres tiene algo especial — es suave y reconfortante. Saben poner naturalmente una atención que los hombres no tienen tan fácilmente.",
+            "El brownie estaba absolutamente delicioso, y además es facilísimo de preparar — ¡voy a anotar la receta enseguida!"
+          ]
+        },
+        {
+          "title": "Preparación",
+          "description": [
+            "Cuidado con la cantidad de papas: había demasiadas para cuatro personas.",
+            "Conviene anticipar el deseo de terminar de preparar la mesa para poder tomar fotos antes de empezar a comer. Esta vez tuvimos que comer primero la carne y las papas, y después el gravlax — no es el orden ideal.",
+            "El mismo secreto del postre: servirlo con una bola de helado — lo eleva a otro nivel."
+          ]
+        },
+        {
+          "title": "Ambiente",
+          "description": [
+            "Jugamos a Qwirkle, con una infusión y un trozo de brownie — ¡lo mejor!"
+          ]
+        }
+      ]
+    },
+    "nb": {
+      "name": "Gravlaks med norsk flatbrød, poteter, elg, tyttebærsyltetøy, brownies og iskrem",
+      "country": "Norsk måltid",
+      "idea": [
+        "På lørdag, mens jeg gikk en tur i byen, kom jeg over et sjeldent marked med lokale produsenter. De solgte forskjellige typer gravlaks (urtemarinert, alkoholmarinert eller røkt laks), samt elgkjøtt (ja, elg, ikke reinsdyr).",
+        "Jeg bestemte meg derfor for at neste fellesmåltid skulle ha Norge som tema.",
+        "For å følge gravlaksen passer norsk flatbrød perfekt. Men til dessert kom jeg ikke på noe. Derimot hadde jeg lenge hatt lyst til å prøve å lage sjokoladebrownies. Da jeg sjekket oppskriften på ChatGPT (som alltid), innså jeg hvor enkelt det var.",
+        "Da er det bestemt: forrett – laks og flatbrød; hovedrett – poteter og elg; dessert – brownie. Da er det bare å sette i gang!",
+        "Viktig punkt: med tanke på innsatsen, energien (og også stresset) jeg hadde lagt i torsdagsmiddagene tidligere, kombinert med at presset var mye mindre for det norske temaet (ingenting mot nordmenn altså, men kjøkkenet deres... hmm...), kunne jeg starte matlagingen rolig og enkelt."
+      ],
+      "menu": [
+        "Isbjørn øl (norsk øl fra Tromsø)",
+        "Urtegravlaks, norsk laks",
+        "Norsk ørret marinert i aquavit (skandinavisk brennevin)",
+        "Norsk flatbrød “Flatbrød Mors” (finnes på Meny)",
+        "Kokte poteter servert med smør",
+        "Stekt elg med rødvinsreduksjon (man kaster ikke bort smaken!)",
+        "Tyttebærsyltetøy servert med elgen og potetene",
+        "Hjemmelaget brownie laget av jentene + iskrem"
+      ],
+      "notes": [
+        {
+          "title": "Kvinnematlaging",
+          "description": [
+            "Med ChatGPT-oppskriften laget jentene hele sjokoladebrownien selv. De vil kanskje ikke innrømme det, men jeg er overbevist: kvinnelig matlaging har noe spesielt — mild og trøstende. De har naturlig en oppmerksomhet som menn ikke har like lett.",
+            "Brownien var helt nydelig, og dessuten superenkel å lage — jeg må skrive ned oppskriften med en gang!"
+          ]
+        },
+        {
+          "title": "Forberedelse",
+          "description": [
+            "Vær oppmerksom på mengden poteter – det var for mye for fire personer.",
+            "Planlegg å gjøre bordet ferdig slik at man kan ta bilder før man begynner å spise. Denne gangen måtte vi spise kjøttet og potetene først, og deretter gravlaksen – ikke den ideelle rekkefølgen.",
+            "Samme desserthemmelighet som alltid: server den med en kule iskrem – det løfter desserten til et nytt nivå."
+          ]
+        },
+        {
+          "title": "Stemning",
+          "description": [
+            "Vi spilte Qwirkle med en kopp te og et stykke brownie – helt topp!"
+          ]
+        }
+      ]
+    },
+    "tr": {
+      "name": "Norveç usulü yassı ekmekle gravlaks, patates, geyik eti, kızılcık reçeli, brownie ve dondurma",
+      "country": "Norveç yemeği",
+      "idea": [
+        "Cumartesi günü şehirde dolaşırken, nadir bulunan yerel üreticilerin kurduğu bir pazara rastladım. Çeşitli gravlaks türleri (otlu, alkollü veya füme somon) ve geyik eti satıyorlardı (evet, ren geyiği değil, gerçekten geyik).",
+        "Bu yüzden bir sonraki ortak yemeğin teması Norveç olsun diye karar verdim.",
+        "Gravlaksın yanında Norveç yassı ekmeği mükemmel gider. Tatlı içinse aklıma hiçbir şey gelmedi. Ancak uzun zamandır çikolatalı brownie yapmayı denemek istiyordum. ChatGPT’de (her zamanki gibi) tarife baktığımda ne kadar basit olduğunu fark ettim.",
+        "Yani karar verildi: başlangıç – somon ve yassı ekmek; ana yemek – patates ve geyik; tatlı – brownie. Hadi başlayalım!",
+        "Önemli nokta: Daha önceki perşembe yemeklerine harcadığım çaba, enerji (ve stres) ve Norveç teması için baskının çok daha az olması (Norveçlilere karşı bir şeyim yok ama mutfakları... hımm...) sayesinde, bu sefer yemek yapmaya gayet sakin ve basit bir şekilde başlayabildim."
+      ],
+      "menu": [
+        "Isbjørn birası (Tromsø’dan Norveç birası)",
+        "Otlu gravlaks, Norveç somonu",
+        "Aquavit ile marine edilmiş Norveç alabalığı (İskandinav içkisi)",
+        "Norveç yassı ekmeği “Flatbrød Mors” (Meny’de bulunabilir)",
+        "Tereyağ ile servis edilen haşlanmış patates",
+        "Kırmızı şarapla deglase edilmiş tavada geyik eti (tat boşa gitmez!)",
+        "Geyik eti ve patatesle servis edilen kızılcık reçeli",
+        "Kızların yaptığı ev yapımı brownie + dondurma"
+      ],
+      "notes": [
+        {
+          "title": "Kadınların mutfağı",
+          "description": [
+            "ChatGPT’nin tarifiyle kızlar tüm çikolatalı brownieleri kendileri yaptılar. Belki kabul etmezler ama eminim ki kadınların mutfağında özel bir şey var — nazik ve huzur verici. Doğal olarak erkeklerin kolayca gösteremediği bir özen katıyorlar.",
+            "Brownie inanılmaz lezzetliydi ve ayrıca yapması çok kolay — tarifi hemen not edeceğim!"
+          ]
+        },
+        {
+          "title": "Hazırlık",
+          "description": [
+            "Patates miktarına dikkat edin — dört kişi için fazla geldi.",
+            "Yemekten önce masanın fotoğrafını çekmek istiyorsanız bunu önceden planlayın. Bu sefer önce eti ve patatesi, sonra gravlaksı yemek zorunda kaldık — ideal sıralama değil.",
+            "Her zamanki tatlı sırrı: bir top dondurma ile servis edin — tatlıyı bambaşka bir seviyeye çıkarıyor."
+          ]
+        },
+        {
+          "title": "Atmosfer",
+          "description": [
+            "Qwirkle oynadık, bitki çayı içtik ve brownie yedik — mükemmel bir akşam!"
+          ]
+        }
+      ]
+    },
+    "ja": {
+      "name": "ノルウェーの平(ひら)パンとグラブラックス、じゃがいも、ヘラジカ、クランベリーのジャム、ブラウニーとアイスクリーム",
+      "country": "ノルウェー料理(りょうり)",
+      "idea": [
+        "土曜日(どようび)に町(まち)を歩(ある)いていると、地元(じもと)の生産者(せいさんしゃ)による珍(めずら)しい市場(いちば)を見(み)つけました。そこでは、さまざまな種類(しゅるい)のグラブラックス（ハーブ漬(づ)け、アルコール漬(づ)け、燻製(くんせい)のサーモン）や、ヘラジカの肉(にく)（そう、トナカイではなくヘラジカ！）が売(う)られていました。",
+        "そこで、次(つぎ)の共通(きょうつう)の食事(しょくじ)はノルウェーをテーマにすることに決(き)めました。",
+        "グラブラックスにはノルウェーの平(ひら)パンがぴったりです。でもデザートについては何(なに)も思(おも)い浮(う)かびませんでした。しかし、ずっと前(まえ)からチョコレートブラウニーを作(つく)ってみたいと思(おも)っていました。ChatGPT（いつもの彼(かれ)）でレシピを調(しら)べてみると、どれほど簡単(かんたん)かに気(き)づきました。",
+        "というわけで決定(けってい)：前菜(ぜんさい)＝サーモンと平(ひら)パン、メイン＝じゃがいもとヘラジカ、デザート＝ブラウニー。さあ、やるぞ！",
+        "重要(じゅうよう)な点(てん)：これまで木曜(もくよう)の食事(しょくじ)に費(つい)やした労力(ろうりょく)、エネルギー（そしてストレス）を考(かんが)えると、今回はノルウェー料理(りょうり)というテーマにそれほどプレッシャーを感(かん)じなかったおかげで（ノルウェー人(じん)には何(なん)の悪意(あくい)もありませんが、彼(かれ)らの料理(りょうり)はちょっと…うーん…）、とても落(お)ち着(つ)いてシンプルに料理(りょうり)を始(はじ)めることができました。"
+      ],
+      "menu": [
+        "イスビョーンビール（トロムソのノルウェービール）",
+        "ハーブグラブラックス、ノルウェー産(さん)サーモン",
+        "アクアビット（スカンジナビアの蒸留酒(じょうりゅうしゅ)）に漬(つ)けたノルウェー産(さん)マス",
+        "ノルウェーの平(ひら)パン “Flatbrød Mors”（Menyで購(か)える）",
+        "茹(ゆ)でたじゃがいもにバターを添(そ)えて",
+        "赤(あか)ワインでデグラッセしたヘラジカのソテー（味(あじ)を無駄(むだ)にしません！）",
+        "ヘラジカとじゃがいもに添(そ)えるクランベリージャム",
+        "女(おんな)の子(こ)たちが作(つく)った手作(てづく)りブラウニー＋アイスクリーム"
+      ],
+      "notes": [
+        {
+          "title": "女(おんな)の人(ひと)の料理(りょうり)",
+          "description": [
+            "ChatGPTのレシピで、女(おんな)の子(こ)たちはチョコレートブラウニーを最初(さいしょ)から最後(さいご)まで自分(じぶん)たちで作(つく)りました。彼女(かのじょ)たちは認(みと)めたくないかもしれませんが、私(わたし)は確信(かくしん)しています：女(おんな)の人(ひと)の料理(りょうり)には特別(とくべつ)な何(なに)かがある — 優(やさ)しくて安心感(あんしんかん)があるのです。男(おとこ)の人(ひと)にはなかなか出(だ)せない心配(しんぱい)りょうがあります。",
+            "ブラウニーは本当(ほんとう)に美味(おい)しかったです。しかも作(つく)るのはとても簡単(かんたん) — すぐにレシピを書(か)き留(と)めます！"
+          ]
+        },
+        {
+          "title": "準備(じゅんび)",
+          "description": [
+            "じゃがいもの量(りょう)に注意(ちゅうい) — 4人(にん)には多(おお)すぎました。",
+            "食事(しょくじ)を始(はじ)める前(まえ)にテーブルの写真(しゃしん)を撮(と)るため、準備(じゅんび)を早(はや)めに整(ととの)えるようにしましょう。今回は先(さき)に肉(にく)とじゃがいもを食(た)べてから、あとでグラブラックスを食(た)べました — 理想的(りそうてき)な順番(じゅんばん)ではありません。",
+            "いつものデザートの秘訣(ひけつ)：アイスクリームを添(そ)えると、デザートが格段(かくだん)に美味(おい)しくなります。"
+          ]
+        },
+        {
+          "title": "雰囲気(ふんいき)",
+          "description": [
+            "ハーブティーとブラウニーを食(た)べながらQwirkleを遊(あそ)びました — 最高(さいこう)！"
+          ]
+        }
+      ]
+    },
+    "zh": {
+      "name": "挪威平面面包配腌三文鱼、土豆、麋鹿肉、蔓越莓果酱、布朗尼和冰淇淋",
+      "country": "挪威餐",
+      "idea": [
+        "星期六，我在城里散步时，偶然发现了一个罕见的本地生产者市场。他们提供各种腌三文鱼（香草腌、酒腌或熏制），还有麋鹿肉（是的，不是驯鹿，而是真正的麋鹿）。",
+        "于是我决定下一次的共享餐以挪威为主题。",
+        "配腌三文鱼，挪威平面面包再合适不过了。但甜点方面，我一时没有想法。不过，我很久以来一直想尝试做巧克力布朗尼。查阅 ChatGPT 的食谱后，我意识到制作其实非常简单。",
+        "所以决定好了：前菜——三文鱼和平面面包；主菜——土豆和麋鹿肉；甜点——布朗尼。开始吧！",
+        "重要的一点：考虑到我之前周四餐食付出的努力、精力（以及压力），加上挪威主题的压力小得多（我并没有针对挪威人，只是他们的料理…嗯…），我可以非常轻松、简单地开始烹饪。"
+      ],
+      "menu": [
+        "Isbjørn 啤酒（特罗姆瑟产挪威啤酒）",
+        "香草腌三文鱼，挪威三文鱼",
+        "用阿克瓦维特（斯堪的纳维亚烈酒）腌制的挪威鳟鱼",
+        "挪威平面面包 “Flatbrød Mors”（可在 Meny 购买）",
+        "煮土豆，搭配黄油",
+        "平底锅煎麋鹿肉，并用红酒去锅渣（美味不能浪费）",
+        "搭配麋鹿肉和土豆的蔓越莓果酱",
+        "女孩子们做的自制布朗尼 + 冰淇淋"
+      ],
+      "notes": [
+        {
+          "title": "女性的烹饪",
+          "description": [
+            "使用 ChatGPT 的食谱，女孩子们独自完成了整份巧克力布朗尼。她们可能不愿承认，但我坚信：女性的烹饪有其独特之处——温柔且令人舒适。她们自然地注入了一种男性不容易做到的用心。",
+            "布朗尼非常美味，而且制作超级简单——我会赶紧记下食谱！"
+          ]
+        },
+        {
+          "title": "准备工作",
+          "description": [
+            "注意土豆的数量，四个人来说太多了。",
+            "如果想在用餐前拍摄桌面照片，需要提前规划。此次我们先吃了肉和土豆，然后才吃腌三文鱼——这不是理想的顺序。",
+            "甜点的小秘密：配上一球冰淇淋，会让甜点更上一层楼。"
+          ]
+        },
+        {
+          "title": "氛围",
+          "description": [
+            "我们一边玩 Qwirkle，一边喝草本茶、吃布朗尼——太棒了！"
+          ]
         }
       ]
     }
