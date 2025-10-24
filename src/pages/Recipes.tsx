@@ -2,7 +2,7 @@ import { useEffect, useRef, useState } from "react";
 import Home from "../components/Home";
 import LanguageSelection from "../components/LanguageSelection";
 import { useTranslation } from "../utils/TranslationContext";
-import { Route, Routes, useLocation, useNavigate } from "react-router";
+import { Link, Route, Routes, useLocation, useNavigate } from "react-router";
 import { useIsMobile } from "../utils/isMobileHook";
 import { RECIPES_PATH } from "../utils/routes";
 import { feast, recipe, type Feast, type Recipe } from "../utils/validator";
@@ -24,13 +24,11 @@ const REGEX_RECIPE = /\/recipes\/(.*)\/(.*)/;
 
 const categories = [
   "feasts",
-  "soupsAndBroths",
-  "doughAndBread",
-  "mezesAndSauces",
-  "riceAndPasta",
-  "meatAndFish",
-  "pizzas",
-  "sweet",
+  "starters",
+  "mainCourses",
+  "desserts",
+  "breads",
+  "dips",
 ] as const;
 
 const Recipes = () => {
@@ -53,7 +51,26 @@ const Recipes = () => {
   const navigate = useNavigate();
   const location = useLocation();
 
-  const tabNavDisplay = (tab: (typeof categories)[number]) => `${t(tab)}`;
+  const tabNavDisplay = (tab: string): string => {
+    switch (tab) {
+      case "home":
+        return `🏠 ${t("home")}`;
+      case "feasts":
+        return `🍽️ ${t("feasts")}`;
+      case "starters":
+        return `🥗 ${t("starters")}`;
+      case "mainCourses":
+        return `🍝 ${t("mainCourses")}`;
+      case "desserts":
+        return `🍰 ${t("desserts")}`;
+      case "breads":
+        return `🥖 ${t("breads")}`;
+      case "dips":
+        return `🥣 ${t("dips")}`;
+      default:
+        return "";
+    }
+  };
 
   useEffect(() => {
     if (location.pathname === RECIPES_PATH) {
@@ -118,25 +135,26 @@ const Recipes = () => {
 
       <Home />
 
-      <div className="flex flex-col pl-8 gap-2">
-        <div
-          onClick={() => {
-            navigate(`${RECIPES_PATH}`);
-            setPhoneDrawer(false);
-          }}
-        >
-          {t("home")}
-        </div>
-        {categories.map((tab) => (
-          <div
+      <div className="flex flex-col gap-4">
+        <div>{t("recipes")}</div>
+        {["home", ...categories].map((tab) => (
+          <Link
             key={tab}
             onClick={() => {
               navigate(`${RECIPES_PATH}/${tab}`);
               setPhoneDrawer(false);
             }}
+            className={
+              (tab === "home" &&
+                location.pathname.endsWith(`${RECIPES_PATH}`)) ||
+              (tab !== "home" && location.pathname.includes(tab))
+                ? "pl-8 text-lg font-bold"
+                : "pl-8 text-lg "
+            }
+            to={tab === "home" ? RECIPES_PATH : `${RECIPES_PATH}/${tab}`}
           >
             {tabNavDisplay(tab)}
-          </div>
+          </Link>
         ))}
       </div>
     </div>
@@ -172,7 +190,12 @@ const Recipes = () => {
                   onClick={() => navigate(`${RECIPES_PATH}`)}
                 >
                   <img className="w-16" src={websiteLogo} alt="Website logo" />
-                  <div>{t("recipes")}</div>
+
+                  {category ? (
+                    <div className="text-lg">{tabNavDisplay(category)}</div>
+                  ) : (
+                    <div className="text-lg">{tabNavDisplay("home")}</div>
+                  )}
                 </div>
               </div>
             )}
@@ -193,7 +216,7 @@ const Recipes = () => {
             </div>
           </div>
         ) : (
-          <div className="flex flex-col gap-4 bg-gray-200">
+          <div className="flex flex-col gap-2 bg-gray-200">
             <div className="flex h-16 gap-8 px-4 items-center justify-between">
               <div className="flex gap-8 items-center">
                 {element ? (
@@ -236,25 +259,32 @@ const Recipes = () => {
               </div>
             </div>
 
-            {!search && (
-              <div className="flex justify-between px-4 gap-8">
-                {categories.map((tab) => (
-                  <a
-                    key={tab}
-                    className={
-                      location.pathname.includes(tab)
-                        ? "cursor-pointer font-bold"
-                        : "cursor-pointer"
-                    }
-                    onClick={() => navigate(`${RECIPES_PATH}/${tab}`)}
-                  >
-                    {tabNavDisplay(tab)}
-                  </a>
-                ))}
-              </div>
-            )}
-
-            <div className="w-full h-0.25 bg-black"></div>
+            <div className="flex flex-col">
+              {!search && (
+                <div className="flex h-12 justify-between">
+                  {["home", ...categories].map((tab) => (
+                    <Link
+                      key={tab}
+                      className={
+                        (tab === "home" &&
+                          location.pathname.endsWith(`${RECIPES_PATH}`)) ||
+                        (tab !== "home" && location.pathname.includes(tab))
+                          ? "h-full text-center grow cursor-pointer font-bold bg-gray-300"
+                          : "h-full text-center grow cursor-pointer"
+                      }
+                      to={
+                        tab === "home" ? RECIPES_PATH : `${RECIPES_PATH}/${tab}`
+                      }
+                    >
+                      <div className="h-full flex items-center justify-center">
+                        <div>{tabNavDisplay(tab)}</div>
+                      </div>
+                    </Link>
+                  ))}
+                </div>
+              )}
+              <div className="w-full h-0.25 bg-black"></div>
+            </div>
           </div>
         )}
 
