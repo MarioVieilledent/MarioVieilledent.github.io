@@ -1,6 +1,6 @@
 [
   {
-    "category": "soupsAndBroths",
+    "category": "starters",
     "id": "vegetableBroth",
     "pictures": [],
     "en": {
@@ -65,11 +65,9 @@
     }
   },
   {
-    "category": "riceAndPasta",
+    "category": "mainCourses",
     "id": "pilafRice",
-    "pictures": [
-      "riz_pilaf.jpg"
-    ],
+    "pictures": ["riz_pilaf.jpg"],
     "en": {
       "name": "Spiced pilaf rice with meat",
       "ingredients": [
@@ -264,11 +262,9 @@
     }
   },
   {
-    "category": "riceAndPasta",
+    "category": "mainCourses",
     "id": "risottoSpaghetti",
-    "pictures": [
-      "spaghetti_risottatura.jpg"
-    ],
+    "pictures": ["spaghetti_risottatura.jpg"],
     "en": {
       "name": "Risotto-style Spaghetti",
       "notes": "A humble Italian technique for tastier and creamier spaghetti. It's a real upgrade for spaghetti lovers, especially those who enjoy garlic. You can also adapt the method using meat or fish juices left in a hot pan.",
@@ -399,69 +395,103 @@
     }
   },
   {
-    "category": "riceAndPasta",
+    "category": "mainCourses",
     "id": "freshPasta",
-    "pictures": [
-      "pates_fraiches.jpg"
-    ],
+    "pictures": ["pates_fraiches.jpg"],
     "en": {
-      "name": "Homemade fresh pasta with hand crank",
-      "notes": "Allows eating 1 egg per person without overcooking the egg, so very healthy and without the taste of the egg being too pronounced.",
-      "ingredients": [
-        "200 g",
-        "2 eggs",
-        "Pinch of salt",
-        "Tablespoon olive oil"
-      ],
+      "name": "Homemade Fresh Pasta with a Hand Crank",
+      "notes": "Quick and fun to make, these pasta are very healthy thanks to the eggs. The technique requires some practice for kneading and flattening the dough. Plan on 100 g of flour and 1 egg per person.",
+      "ingredients": ["200 g flour", "2 eggs", "Pinch of salt"],
       "instructions": [
-        "Knead much more gently than bread dough, the dough does not tolerate being folded, knead for a long time: a good 8 minutes",
-        "Let rest in plastic for at least 30 minutes",
-        "Cut into 4, flour, roll out by hand, and pass at least 4 times through the thickest gauge",
-        "Pass 1 to 2 times through each step and stop around 5 ~ 6, making sure it is lightly floured to prevent the dough from sticking to the machine or table",
-        "Let rest for 15 minutes on each side"
+        "Form the dough and knead it for about ten minutes without folding it onto itself.",
+        "Divide the dough into 4 portions and pass each portion several times through the thickest setting of the machine, folding it over itself each time.",
+        "Gradually reduce the thickness by passing each portion twice through each setting until you reach settings 5 or 6, then cut into tagliatelle or spaghetti.",
+        "Cook in a large pot of very salty boiling water for 2 to 3 minutes."
       ]
     },
     "fr": {
       "name": "Pâtes fraîches maison à la manivelle",
-      "notes": "Permet de manger 1 oeuf par personne sans surcuisson de l'oeuf, donc très sain et sans avoir le gout de l'oeuf trop prononcé.",
-      "ingredients": [
-        "200 g farine",
-        "2 oeufs",
-        "Pincée de sel",
-        "Cuillère à soupe huile olive"
-      ],
+      "notes": "Rapides et amusantes à préparer, ces pâtes sont très saines grâce aux œufs. La technique demande un peu de pratique pour le pétrissage et l'aplatissement de la pâte. Compter 100 g de farine et 1 œuf par personne.",
+      "ingredients": ["200 g de farine", "2 œufs", "Pincée de sel"],
       "instructions": [
-        "Pétrir plus gentiment qu'une pâte à pain, la pâte ne supporte pas d'être pliée, pétrir longtemps : bien 8 minutes",
-        "Laisser reposer dans plastique au moins 30 minutes",
-        "Coupe 4, fariner étaler à la main, et passer au moins 4 fois au calibre le plus épais",
-        "Passer 1 à 2 fois par chaque étape et s'arrêter vers 5 ~ 6, en s'assurant que c'est légèrement fariné pour éviter que la pâte n'accroche à la machine, ou à la table",
-        "Laisser reposer 15 minutes de chaque côté"
+        "Former la pâte et la pétrir pendant une dizaine de minutes sans la replier sur elle-même.",
+        "Diviser la pâte en 4 pâtons et passer chaque pâton plusieurs fois au calibre le plus épais de la machine, en le repliant sur lui-même à chaque passage.",
+        "Réduire progressivement l'épaisseur en passant chaque pâton deux fois à chaque calibre, jusqu'à atteindre les calibres 5 ou 6, puis découper en tagliatelles ou spaghetti.",
+        "Cuire dans une grande quantité d'eau bouillante très salée pendant 2 à 3 minutes."
       ]
     },
+
     "it": {
       "name": "Pasta fresca fatta in casa con manovella",
-      "notes": "Permette di mangiare 1 uovo a persona senza cuocere troppo l'uovo, quindi molto sano e senza che il sapore dell'uovo sia troppo pronunciato.",
-      "ingredients": [
-        "200 g di farina",
-        "2 uova",
-        "Pizzico di sale",
-        "Cucchiaio di olio d'oliva"
-      ],
+      "notes": "Veloci e divertenti da preparare, queste pasta sono molto salutari grazie alle uova. La tecnica richiede un po' di pratica per impastare e stendere la pasta. Contare 100 g di farina e 1 uovo a persona.",
+      "ingredients": ["200 g di farina", "2 uova", "Pizzico di sale"],
       "instructions": [
-        "Impastare molto più delicatamente dell'impasto del pane, l'impasto non tollera di essere piegato, impastare a lungo: un buon 8 minuti",
-        "Lasciare riposare nella plastica per almeno 30 minuti",
-        "Tagliare in 4, infarinare, stendere a mano e passare almeno 4 volte attraverso la calibro più spesso",
-        "Passare 1 o 2 volte attraverso ogni fase e fermarsi intorno a 5 ~ 6, assicurandosi che sia leggermente infarinato per evitare che l'impasto si attacchi alla macchina o al tavolo",
-        "Lasciare riposare per 15 minuti su ogni lato"
+        "Formare l'impasto e lavorarlo per circa dieci minuti senza ripiegarlo su se stesso.",
+        "Dividere l'impasto in 4 porzioni e passare ogni porzione più volte attraverso il calibro più spesso della macchina, ripiegandolo su se stesso ogni volta.",
+        "Ridurre gradualmente lo spessore passando ogni porzione due volte attraverso ogni calibro fino a raggiungere i numeri 5 o 6, quindi tagliare a tagliatelle o spaghetti.",
+        "Cuocere in abbondante acqua bollente molto salata per 2-3 minuti."
+      ]
+    },
+    "es": {
+      "name": "Pasta fresca casera con manivela",
+      "notes": "Rápida y divertida de preparar, esta pasta es muy saludable gracias a los huevos. La técnica requiere algo de práctica para amasar y estirar la masa. Contar 100 g de harina y 1 huevo por persona.",
+      "ingredients": ["200 g de harina", "2 huevos", "Pizca de sal"],
+      "instructions": [
+        "Formar la masa y amasarla durante unos diez minutos sin doblarla sobre sí misma.",
+        "Dividir la masa en 4 porciones y pasar cada porción varias veces por el ajuste más grueso de la máquina, doblándola sobre sí misma cada vez.",
+        "Reducir gradualmente el grosor pasando cada porción dos veces por cada ajuste hasta llegar a los calibres 5 o 6, luego cortar en tagliatelle o espagueti.",
+        "Cocer en abundante agua hirviendo muy salada durante 2 a 3 minutos."
+      ]
+    },
+    "nb": {
+      "name": "Hjemmelaget fersk pasta med sveiv",
+      "notes": "Raskt og morsomt å lage, og veldig sunt takket være eggene. Teknikken krever litt øvelse for elting og utkjevling av deigen. Beregn 100 g mel og 1 egg per person.",
+      "ingredients": ["200 g mel", "2 egg", "Klype salt"],
+      "instructions": [
+        "Form deigen og elt den i omtrent ti minutter uten å brette den over seg selv.",
+        "Del deigen i 4 deler og kjør hver del flere ganger gjennom den tykkeste innstillingen på maskinen, og brett den over seg selv hver gang.",
+        "Reduser tykkelsen gradvis ved å kjøre hver del to ganger gjennom hver innstilling til du når nivå 5 eller 6, og skjær deretter i tagliatelle eller spaghetti.",
+        "Kok i en stor kjele med svært saltet, kokende vann i 2–3 minutter."
+      ]
+    },
+    "tr": {
+      "name": "El kranklı Ev Yapımı Taze Makarna",
+      "notes": "Hazırlaması hızlı ve eğlenceli, yumurtalar sayesinde çok sağlıklı. Hamuru yoğurma ve açma tekniği biraz pratik gerektirir. Kişi başına 100 g un ve 1 yumurta hesaplayın.",
+      "ingredients": ["200 g un", "2 yumurta", "Bir tutam tuz"],
+      "instructions": [
+        "Hamuru oluşturun ve kendine katlamadan yaklaşık on dakika yoğurun.",
+        "Hamuru 4 parçaya bölün ve her parçayı makinenin en kalın ayarından birkaç kez geçirin, her seferinde kendine katlayın.",
+        "Kalınlığı kademeli olarak azaltın, her parçayı her ayardan iki kez geçirin ve 5-6 numaralı ayarlara ulaştığınızda tagliatelle veya spagetti şeklinde kesin.",
+        "Çok tuzlu kaynar suda 2–3 dakika pişirin."
+      ]
+    },
+    "ja": {
+      "name": "手動ハンドル式手作り生パスタ",
+      "notes": "作るのが早くて楽しく、卵のおかげで非常にヘルシーです。生地のこね方や伸ばし方には少し練習が必要です。1人あたり小麦粉100g、卵1個を目安にしてください。",
+      "ingredients": ["小麦粉200g", "卵2個", "塩ひとつまみ"],
+      "instructions": [
+        "生地を作り、折りたたまずに約10分間こねる。",
+        "生地を4等分し、それぞれを最も厚い設定のパスタマシンで数回通し、その都度折りたたむ。",
+        "厚さを徐々に減らし、各設定でそれぞれ2回通し、設定5〜6に達したらタリアテッレやスパゲッティにカットする。",
+        "たっぷりの塩を加えた沸騰水で2〜3分茹でる。"
+      ]
+    },
+    "zh": {
+      "name": "手摇自制新鲜意面",
+      "notes": "制作快速有趣，由于鸡蛋非常健康。揉面和擀面的技巧需要一些练习。每人约100克面粉和1个鸡蛋。",
+      "ingredients": ["200克面粉", "2个鸡蛋", "少许盐"],
+      "instructions": [
+        "将面团揉成团，约揉十分钟，切勿折叠。",
+        "将面团分成4份，每份多次通过面条机最厚的档位，每次都折叠一次。",
+        "逐渐减薄，每份每个档位通过两次，直至达到5-6档，然后切成宽面或意大利面条。",
+        "在大量加盐的沸水中煮2至3分钟。"
       ]
     }
   },
   {
-    "category": "meatAndFish",
+    "category": "mainCourses",
     "id": "salmonFillets",
-    "pictures": [
-      "patates_rissolees_et_filets_saumon.jpg"
-    ],
+    "pictures": ["patates_rissolees_et_filets_saumon.jpg"],
     "en": {
       "name": "Oven-baked Salmon Fillets",
       "notes": "Already a very good recipe, but can be refined and perfected. I like to serve it with spaghetti — even better when cooked risotto-style.",
@@ -532,11 +562,9 @@
     }
   },
   {
-    "category": "doughAndBread",
+    "category": "breads",
     "id": "baguette",
-    "pictures": [
-      "baguettes.jpg"
-    ],
+    "pictures": ["baguettes.jpg"],
     "en": {
       "name": "Baguette",
       "notes": "Be careful — a rare recipe that truly reaches S Tier, if not God Tier. Incredibly simple, very cheap, and requires very little active time. The 4 ingredients symbolize the 4 elements: flour for earth, water, yeast for air, and salt for fire. Source: https://www.youtube.com/watch?v=Z-husjZkxHw",
@@ -691,11 +719,9 @@
     }
   },
   {
-    "category": "doughAndBread",
+    "category": "breads",
     "id": "lavashBread",
-    "pictures": [
-      "lavash_bread.jpg"
-    ],
+    "pictures": ["lavash_bread.jpg"],
     "en": {
       "name": "Oriental Flatbread \"Lavash\"",
       "notes": "Turkish/Armenian flatbread cooked in a pan, similar to Indian naan. Recipe from Hungry Man Kitchen (YouTube).",
@@ -1098,11 +1124,137 @@
     }
   },
   {
-    "category": "doughAndBread",
+    "category": "breads",
+    "id": "bretzel",
+    "pictures": ["bretzels.jpg"],
+    "en": {
+      "name": "Pretzel",
+      "notes": "ChatGPT recipe. Perfect for breakfast, sliced lengthwise and generously buttered like a traditional Butterbrezel.",
+      "ingredients": [
+        {
+          "part": "Dough",
+          "ingredients": [
+            "500 g flour (T55 or T65)",
+            "1 packet dry yeast (7 g) or 20 g fresh yeast",
+            "10 g salt",
+            "10 g sugar",
+            "40 g softened butter",
+            "300 ml warm water"
+          ]
+        },
+        {
+          "part": "Baking soda bath",
+          "ingredients": ["1 l water", "40 g food-grade baking soda"]
+        }
+      ],
+      "instructions": [
+        "Mix flour, salt, and sugar. Add yeast dissolved in warm water.",
+        "Knead for 10 minutes. Add butter and knead for another 5 minutes.",
+        "Let rise for 1.5 hours (until doubled in size).",
+        "Punch down the dough and shape into 10-12 ropes. Form pretzels.",
+        "Preheat oven to 220°C. Bring water and baking soda to a boil.",
+        "Dip pretzels for 30 seconds in the boiling bath. Drain well.",
+        "Sprinkle with salt. Bake for 15-20 minutes until golden brown."
+      ]
+    },
+    "fr": {
+      "name": "Bretzel",
+      "notes": "Recette de ChatGPT. Parfait au ptit dej, coupé en deux dans la longueur et bien beurré tel un Butterbrezel.",
+      "ingredients": [
+        {
+          "part": "Pâte",
+          "ingredients": [
+            "500 g de farine (T55 ou T65)",
+            "1 sachet de levure boulangère sèche (7 g) ou 20 g de levure fraîche",
+            "10 g de sel",
+            "10 g de sucre",
+            "40 g de beurre ramolli",
+            "300 ml d'eau tiède"
+          ]
+        },
+        {
+          "part": "Bain de trempage",
+          "ingredients": [
+            "1 l d'eau",
+            "40 g de bicarbonate de soude alimentaire"
+          ]
+        }
+      ],
+      "instructions": [
+        "Mélanger farine, sel, sucre. Ajouter levure délayée dans l'eau tiède.",
+        "Pétrir 10 min. Ajouter beurre, pétrir 5 min.",
+        "Lever 1h30 (volume doublé).",
+        "Dégazer, former 10-12 boudins. Façonner bretzels.",
+        "Préchauffer four 220°C. Faire bouillir eau + bicarbonate.",
+        "Tremper bretzels 30s dans bain bouillant. Égoutter.",
+        "Saler. Cuire 15-20 min jusqu'à dorure."
+      ]
+    },
+    "it": {
+      "name": "Brezel",
+      "notes": "Ricetta di ChatGPT. Perfetto a colazione, tagliato a metà nel senso della lunghezza e ben imburrato come un classico Butterbrezel.",
+      "ingredients": [
+        {
+          "part": "Impasto",
+          "ingredients": [
+            "500 g farina (T55 o T65)",
+            "1 bustina di lievito secco (7 g) o 20 g di lievito fresco",
+            "10 g sale",
+            "10 g zucchero",
+            "40 g burro ammorbidito",
+            "300 ml acqua tiepida"
+          ]
+        },
+        {
+          "part": "Bagno di bicarbonato",
+          "ingredients": ["1 l acqua", "40 g bicarbonato alimentare"]
+        }
+      ],
+      "instructions": [
+        "Mescolare farina, sale e zucchero. Aggiungere il lievito sciolto in acqua tiepida.",
+        "Impastare per 10 minuti. Aggiungere il burro e impastare per altri 5 minuti.",
+        "Lasciare lievitare per 1 ora e mezza (fino al raddoppio del volume).",
+        "Sgonfiare l'impasto e formare 10-12 filoncini. Modellare i brezeln.",
+        "Preriscaldare il forno a 220°C. Portare a ebollizione acqua e bicarbonato.",
+        "Immergere i brezeln per 30 secondi nel bagno bollente. Scolare bene.",
+        "Salare. Cuocere per 15-20 minuti finché sono dorati."
+      ]
+    },
+    "nb": {
+      "name": "Bretzel",
+      "notes": "Oppskrift fra ChatGPT. Perfekt til frokost, delt på langs og smurt godt med smør - som en klassisk Butterbrezel.",
+      "ingredients": [
+        {
+          "part": "Deig",
+          "ingredients": [
+            "500 g mel (T55 eller T65)",
+            "1 pose tørrgjær (7 g) eller 20 g fersk gjær",
+            "10 g salt",
+            "10 g sukker",
+            "40 g mykt smør",
+            "300 ml lunkent vann"
+          ]
+        },
+        {
+          "part": "Bakepulverbad",
+          "ingredients": ["1 l vann", "40 g natron (matkvalitet)"]
+        }
+      ],
+      "instructions": [
+        "Bland mel, salt og sukker. Tilsett gjær oppløst i lunkent vann.",
+        "Elt i 10 minutter. Tilsett smør og elt i ytterligere 5 minutter.",
+        "La heve i 1,5 time (til dobbel størrelse).",
+        "Slå ned deigen og form 10-12 lengder. Form bretzler.",
+        "Forvarm ovnen til 220°C. Kok opp vann og natron.",
+        "Dypp bretzlene i det kokende badet i 30 sekunder. La renne av.",
+        "Dryss med salt. Stek i 15-20 minutter til de er gyldne."
+      ]
+    }
+  },
+  {
+    "category": "breads",
     "id": "burgerBuns",
-    "pictures": [
-      "burger_dish.jpg"
-    ],
+    "pictures": ["burger_dish.jpg"],
     "en": {
       "name": "Burger Buns",
       "notes": "Makes 8 buns",
@@ -1121,11 +1273,7 @@
         },
         {
           "part": "Egg wash",
-          "ingredients": [
-            "1 egg yolk",
-            "1 tablespoon milk",
-            "Sesame seeds"
-          ]
+          "ingredients": ["1 egg yolk", "1 tablespoon milk", "Sesame seeds"]
         }
       ],
       "instructions": [
@@ -1235,11 +1383,7 @@
         },
         {
           "part": "Pensling",
-          "ingredients": [
-            "1 eggeplomme",
-            "1 spiseskje melk",
-            "Sesamfrø"
-          ]
+          "ingredients": ["1 eggeplomme", "1 spiseskje melk", "Sesamfrø"]
         }
       ],
       "instructions": [
@@ -1257,152 +1401,11 @@
     }
   },
   {
-    "category": "doughAndBread",
-    "id": "bretzel",
-    "pictures": [
-      "bretzels.jpg"
-    ],
+    "category": "mainCourses",
+    "id": "margheritaPizza",
+    "pictures": ["pizza_margherita.jpg"],
     "en": {
-      "name": "Pretzel",
-      "notes": "ChatGPT recipe. Perfect for breakfast, sliced lengthwise and generously buttered like a traditional Butterbrezel.",
-      "ingredients": [
-        {
-          "part": "Dough",
-          "ingredients": [
-            "500 g flour (T55 or T65)",
-            "1 packet dry yeast (7 g) or 20 g fresh yeast",
-            "10 g salt",
-            "10 g sugar",
-            "40 g softened butter",
-            "300 ml warm water"
-          ]
-        },
-        {
-          "part": "Baking soda bath",
-          "ingredients": [
-            "1 l water",
-            "40 g food-grade baking soda"
-          ]
-        }
-      ],
-      "instructions": [
-        "Mix flour, salt, and sugar. Add yeast dissolved in warm water.",
-        "Knead for 10 minutes. Add butter and knead for another 5 minutes.",
-        "Let rise for 1.5 hours (until doubled in size).",
-        "Punch down the dough and shape into 10-12 ropes. Form pretzels.",
-        "Preheat oven to 220°C. Bring water and baking soda to a boil.",
-        "Dip pretzels for 30 seconds in the boiling bath. Drain well.",
-        "Sprinkle with salt. Bake for 15-20 minutes until golden brown."
-      ]
-    },
-    "fr": {
-      "name": "Bretzel",
-      "notes": "Recette de ChatGPT. Parfait au ptit dej, coupé en deux dans la longueur et bien beurré tel un Butterbrezel.",
-      "ingredients": [
-        {
-          "part": "Pâte",
-          "ingredients": [
-            "500 g de farine (T55 ou T65)",
-            "1 sachet de levure boulangère sèche (7 g) ou 20 g de levure fraîche",
-            "10 g de sel",
-            "10 g de sucre",
-            "40 g de beurre ramolli",
-            "300 ml d'eau tiède"
-          ]
-        },
-        {
-          "part": "Bain de trempage",
-          "ingredients": [
-            "1 l d'eau",
-            "40 g de bicarbonate de soude alimentaire"
-          ]
-        }
-      ],
-      "instructions": [
-        "Mélanger farine, sel, sucre. Ajouter levure délayée dans l'eau tiède.",
-        "Pétrir 10 min. Ajouter beurre, pétrir 5 min.",
-        "Lever 1h30 (volume doublé).",
-        "Dégazer, former 10-12 boudins. Façonner bretzels.",
-        "Préchauffer four 220°C. Faire bouillir eau + bicarbonate.",
-        "Tremper bretzels 30s dans bain bouillant. Égoutter.",
-        "Saler. Cuire 15-20 min jusqu'à dorure."
-      ]
-    },
-    "it": {
-      "name": "Brezel",
-      "notes": "Ricetta di ChatGPT. Perfetto a colazione, tagliato a metà nel senso della lunghezza e ben imburrato come un classico Butterbrezel.",
-      "ingredients": [
-        {
-          "part": "Impasto",
-          "ingredients": [
-            "500 g farina (T55 o T65)",
-            "1 bustina di lievito secco (7 g) o 20 g di lievito fresco",
-            "10 g sale",
-            "10 g zucchero",
-            "40 g burro ammorbidito",
-            "300 ml acqua tiepida"
-          ]
-        },
-        {
-          "part": "Bagno di bicarbonato",
-          "ingredients": [
-            "1 l acqua",
-            "40 g bicarbonato alimentare"
-          ]
-        }
-      ],
-      "instructions": [
-        "Mescolare farina, sale e zucchero. Aggiungere il lievito sciolto in acqua tiepida.",
-        "Impastare per 10 minuti. Aggiungere il burro e impastare per altri 5 minuti.",
-        "Lasciare lievitare per 1 ora e mezza (fino al raddoppio del volume).",
-        "Sgonfiare l'impasto e formare 10-12 filoncini. Modellare i brezeln.",
-        "Preriscaldare il forno a 220°C. Portare a ebollizione acqua e bicarbonato.",
-        "Immergere i brezeln per 30 secondi nel bagno bollente. Scolare bene.",
-        "Salare. Cuocere per 15-20 minuti finché sono dorati."
-      ]
-    },
-    "nb": {
-      "name": "Bretzel",
-      "notes": "Oppskrift fra ChatGPT. Perfekt til frokost, delt på langs og smurt godt med smør - som en klassisk Butterbrezel.",
-      "ingredients": [
-        {
-          "part": "Deig",
-          "ingredients": [
-            "500 g mel (T55 eller T65)",
-            "1 pose tørrgjær (7 g) eller 20 g fersk gjær",
-            "10 g salt",
-            "10 g sukker",
-            "40 g mykt smør",
-            "300 ml lunkent vann"
-          ]
-        },
-        {
-          "part": "Bakepulverbad",
-          "ingredients": [
-            "1 l vann",
-            "40 g natron (matkvalitet)"
-          ]
-        }
-      ],
-      "instructions": [
-        "Bland mel, salt og sukker. Tilsett gjær oppløst i lunkent vann.",
-        "Elt i 10 minutter. Tilsett smør og elt i ytterligere 5 minutter.",
-        "La heve i 1,5 time (til dobbel størrelse).",
-        "Slå ned deigen og form 10-12 lengder. Form bretzler.",
-        "Forvarm ovnen til 220°C. Kok opp vann og natron.",
-        "Dypp bretzlene i det kokende badet i 30 sekunder. La renne av.",
-        "Dryss med salt. Stek i 15-20 minutter til de er gyldne."
-      ]
-    }
-  },
-  {
-    "category": "pizzas",
-    "id": "margherita",
-    "pictures": [
-      "pizza_margherita.jpg"
-    ],
-    "en": {
-      "name": "Margherita",
+      "name": "Margherita Pizza",
       "notes": "Pizza dough: same method as bread dough, but with 65-75 mL of water per 100 g of flour.",
       "ingredients": [
         {
@@ -1448,7 +1451,7 @@
       ]
     },
     "fr": {
-      "name": "Margherita",
+      "name": "Pizza Margherita",
       "notes": "Pâte à pizza : même procédé que la pâte à pain mais avec 65 à 75 mL d'eau pour 100 de farine.",
       "ingredients": [
         {
@@ -1494,7 +1497,7 @@
       ]
     },
     "it": {
-      "name": "Margherita",
+      "name": "Pizza Margherita",
       "notes": "Impasto per pizza: stesso procedimento del pane, ma con 65-75 mL d'acqua ogni 100 g di farina.",
       "ingredients": [
         {
@@ -1540,7 +1543,7 @@
       ]
     },
     "es": {
-      "name": "Margherita",
+      "name": "Pizza Margherita",
       "notes": "Masa de pizza: mismo procedimiento que la masa de pan, pero con 65 a 75 mL de agua por cada 100 g de harina.",
       "ingredients": [
         {
@@ -1586,7 +1589,7 @@
       ]
     },
     "nb": {
-      "name": "Margherita",
+      "name": "Margherita-pizza",
       "notes": "Pizzadeig: samme metode som brøddeig, men med 65–75 mL vann per 100 g mel.",
       "ingredients": [
         {
@@ -1612,10 +1615,7 @@
       "instructions": [
         {
           "part": "Deig",
-          "instructions": [
-            "Bland med en tresleiv",
-            "La heve i minst 5 timer"
-          ]
+          "instructions": ["Bland med en tresleiv", "La heve i minst 5 timer"]
         },
         {
           "part": "Pizza",
@@ -1632,7 +1632,7 @@
       ]
     },
     "tr": {
-      "name": "Margherita",
+      "name": "Margherita Pizza",
       "notes": "Pizza hamuru: ekmek hamuru ile aynı yöntem, ancak 100 g un için 65–75 mL su kullanılır.",
       "ingredients": [
         {
@@ -1678,7 +1678,7 @@
       ]
     },
     "ja": {
-      "name": "マルゲリータ",
+      "name": "マルゲリータピザ",
       "notes": "ピザ生地：パン生地と同じ作り方だが、小麦粉100gに対して65〜75mLの水を使用する。",
       "ingredients": [
         {
@@ -1704,10 +1704,7 @@
       "instructions": [
         {
           "part": "生地",
-          "instructions": [
-            "木のスプーンで混ぜる",
-            "少なくとも5時間休ませる"
-          ]
+          "instructions": ["木のスプーンで混ぜる", "少なくとも5時間休ませる"]
         },
         {
           "part": "ピザ",
@@ -1750,10 +1747,7 @@
       "instructions": [
         {
           "part": "面团",
-          "instructions": [
-            "用木勺搅拌混合",
-            "静置发酵至少 5 小时"
-          ]
+          "instructions": ["用木勺搅拌混合", "静置发酵至少 5 小时"]
         },
         {
           "part": "披萨",
@@ -1771,11 +1765,9 @@
     }
   },
   {
-    "category": "sweet",
+    "category": "desserts",
     "id": "crepes",
-    "pictures": [
-      "crepes_nutella.jpg"
-    ],
+    "pictures": ["crepes_nutella.jpg"],
     "en": {
       "name": "Crêpes",
       "notes": "Smooth batter without lumps, no blender needed, quick recipe. Tip: balance solid and liquid bases in equal quantities: https://www.youtube.com/watch?v=p-XOehv3j20",
@@ -1930,11 +1922,9 @@
     }
   },
   {
-    "category": "mezesAndSauces",
+    "category": "dips",
     "id": "hummus",
-    "pictures": [
-      "hummus.jpg"
-    ],
+    "pictures": ["hummus.jpg"],
     "en": {
       "name": "Hummus",
       "notes": "Without a blender, the texture is not creamy but still satisfying; without ice water, the color is darker. More inspiration here: https://www.youtube.com/watch?v=NbXC0B83S7k",
@@ -2105,11 +2095,9 @@
     }
   },
   {
-    "category": "mezesAndSauces",
+    "category": "dips",
     "id": "garlicMayonnaise",
-    "pictures": [
-      "garlic_mayonnaise.jpg"
-    ],
+    "pictures": ["garlic_mayonnaise.jpg"],
     "en": {
       "name": "Garlic Mayonnaise",
       "notes": "Better than classic mayonnaise and better than aioli — garlic mayo is a taste orgasm. One egg yolk makes a large amount of mayo at once; it keeps for 2 days in the fridge. Classic mayonnaise recipe by Etchebest: https://www.youtube.com/watch?v=DKXoha0_Mbk",
@@ -2264,11 +2252,9 @@
     }
   },
   {
-    "category": "sweet",
+    "category": "desserts",
     "id": "brownies",
-    "pictures": [
-      "brownies.jpg"
-    ],
+    "pictures": ["brownies.jpg"],
     "en": {
       "name": "Brownies",
       "notes": "Simple, quick, and delicious. What more can we say?",
@@ -2455,7 +2441,7 @@
     }
   },
   {
-    "category": "sweet",
+    "category": "desserts",
     "id": "striezel",
     "pictures": [],
     "en": {
