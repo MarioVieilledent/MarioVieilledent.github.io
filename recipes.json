@@ -567,170 +567,154 @@
     "pictures": ["baguettes.jpg"],
     "en": {
       "name": "Baguette",
-      "notes": "Incredibly simple, truly economical, and very quick in working time. The dough needs about ten hours of resting, so ideally prepare it the day before to enjoy fresh, delicious bread in the morning. The four ingredients represent the four elements: flour for earth, water, yeast for air, and salt for fire. Original recipe using the wooden spoon technique: https://www.youtube.com/watch?v=Z-husjZkxHw",
+      "notes": "Be careful — a rare recipe that truly reaches S Tier, if not God Tier. Incredibly simple, very cheap, and requires very little active time. The 4 ingredients symbolize the 4 elements: flour for earth, water, yeast for air, and salt for fire. Source: https://www.youtube.com/watch?v=Z-husjZkxHw",
       "ingredients": [
-        "600 g flour (200 g per baguette)",
-        "480 ml water (80% of flour weight)",
-        "2 g dry yeast",
-        "2 tsp salt"
+        "Flour (200 g per baguette)",
+        "Room temperature water — 80% of the flour weight",
+        "1-2 g of dry yeast per 500 g of flour",
+        "Salt — 1 heaping teaspoon per 500 g of flour"
       ],
       "instructions": [
-        "Put all the ingredients in a large bowl.",
-        "Mix for about 1 minute with the handle of a large wooden spoon, until the dough forms a ball.",
-        "Tip: scrape off the dough stuck to the spoon with the edge of a small spoon (see video).",
-        "Cover and let rest 8–12 hours at room temperature.",
-        "Generously flour a sheet of baking paper placed on a tray. The dough, being very hydrated and sticky, needs plenty of flour to prevent sticking.",
-        "Flour the dough and carefully transfer it onto the baking paper (a pastry scraper works great).",
-        "Divide the dough into three parts without pressing, to keep the air inside.",
-        "Shape three baguettes by stretching each part with your hands in one motion.",
-        "Bake for 25 minutes at 250 °C with static heat."
+        "In a mixing bowl, keep the yeast and salt separate at first, then add the water.",
+        "Mix using the handle of a wooden spoon until the dough comes together into a ball.",
+        "Cover and let rest for 8-10 hours at room temperature. No need to flour or wet the dough — it's soft enough.",
+        "Flour your work surface and loosen the dough with a dough scraper, then transfer it onto well-floured parchment paper.",
+        "Using the scraper, cut the dough into the desired number of baguettes without pressing it down.",
+        "Shape the baguettes by gently stretching the dough with your hands.",
+        "Bake for 25 minutes at 250°C (480°F)."
       ]
     },
     "fr": {
       "name": "Baguette",
-      "notes": "Incroyablement simple, vraiment économique, et très rapide en temps de travail. La pâte nécessite une dizaine d’heures de repos, donc idéalement, préparez-la la veille pour savourer du pain frais et délicieux au petit matin. Les quatre ingrédients représentent les quatre éléments : la farine pour la terre, l’eau, la levure pour l’air et le sel pour le feu. Recette originale avec la technique à la cuillère en bois : https://www.youtube.com/watch?v=Z-husjZkxHw",
+      "notes": "Attention, rare recette s'élevant au rang de S Tier si ce n'est God Tier. Incroyablement simple, vraiment pas cher, et très court en temps de travail. Les 4 ingrédients représentent les 4 éléments à savoir, farine pour terre, eau, levure pour air, et sel pour feu. Source : https://www.youtube.com/watch?v=Z-husjZkxHw",
       "ingredients": [
-        "600 g de farine (200 g par baguette)",
-        "480 ml d’eau (80 % du poids de farine)",
-        "2 g de levure sèche",
-        "2 c. à c. de sel"
+        "Farine (200 g par baguette)",
+        "Eau température ambiante 80 % de la qté de farine",
+        "1 à 2 g de levure sèche pour 500 g de farine",
+        "Sel, 1 cuillère à café débordante pour 500 g de farine"
       ],
       "instructions": [
-        "Mettre tous les ingrédients dans un grand saladier.",
-        "Mélanger pendant environ 1 minute avec le manche d’une grande cuillère en bois, jusqu’à ce que la pâte forme une boule.",
-        "Astuce : récupérer la pâte collée à la cuillère en bois avec le bord d’une petite cuillère (voir la vidéo).",
-        "Couvrir et laisser reposer 8 à 12 heures à température ambiante.",
-        "Fariner généreusement une feuille de papier cuisson posée sur une plaque. La pâte, très hydratée et donc très collante, nécessite beaucoup de farine pour ne pas adhérer.",
-        "Fariner la pâte et la transférer délicatement sur le papier cuisson (une corne à pâtisserie est idéale pour cela).",
-        "Diviser la pâte en trois parts sans appuyer dessus afin de conserver l’air à l’intérieur.",
-        "Façonner trois baguettes en allongeant les parts en un geste avec les mains.",
-        "Enfourner 25 minutes à 250 °C en chaleur statique."
+        "Sec dans saladier, éviter le contact entre levure et sel, ajouter l'eau.",
+        "Mélanger avec le manche d'une cuillère en bois jusqu'à ce que la pâte forme une boule.",
+        "Couvrir et laisser reposer 8 à 10 heures à température ambiante. Pas besoin de fariner ni mouiller la pâte, elle est suffisamment liquide.",
+        "Fariner et détacher la pâte avec une corne à pâtisserie puis la verser sur papier cuisson bien fariné.",
+        "Y découper à la corne le nombre de baguettes souhaité sans écraser la pâte",
+        "Former des baguettes en allongeant la pâte d'un geste des mains.",
+        "Enfourner 25 minutes à 250°."
       ]
     },
     "it": {
       "name": "Baguette",
-      "notes": "Incredibilmente semplice, davvero economica e molto veloce da preparare. L’impasto richiede circa dieci ore di riposo, quindi è ideale prepararlo la sera prima per gustare pane fresco e delizioso al mattino. I quattro ingredienti rappresentano i quattro elementi: la farina per la terra, l’acqua, il lievito per l’aria e il sale per il fuoco. Ricetta originale con la tecnica del cucchiaio di legno: https://www.youtube.com/watch?v=Z-husjZkxHw",
+      "notes": "Attenzione — una ricetta rara che raggiunge davvero il livello S Tier, se non God Tier. Incredibilmente semplice, molto economica e con pochissimo tempo di lavoro. I 4 ingredienti rappresentano i 4 elementi: farina per la terra, acqua, lievito per l'aria e sale per il fuoco. Fonte: https://www.youtube.com/watch?v=Z-husjZkxHw",
       "ingredients": [
-        "600 g di farina (200 g per baguette)",
-        "480 ml di acqua (80% del peso della farina)",
-        "2 g di lievito secco",
-        "2 cucchiaini di sale"
+        "Farina (200 g per baguette)",
+        "Acqua a temperatura ambiente — 80% del peso della farina",
+        "1-2 g di lievito secco per 500 g di farina",
+        "Sale — 1 cucchiaino colmo per 500 g di farina"
       ],
       "instructions": [
-        "Mettere tutti gli ingredienti in una grande ciotola.",
-        "Mescolare per circa 1 minuto con il manico di un grande cucchiaio di legno, fino a formare un impasto omogeneo.",
-        "Consiglio: recuperare l’impasto rimasto attaccato al cucchiaio con il bordo di un cucchiaino (vedi video).",
-        "Coprire e lasciare riposare 8–12 ore a temperatura ambiente.",
-        "Infarinare generosamente un foglio di carta da forno su una teglia. L’impasto, molto idratato e quindi appiccicoso, richiede molta farina per non attaccarsi.",
-        "Infarinare l’impasto e trasferirlo delicatamente sulla carta da forno (una spatola da pasticceria è ideale).",
-        "Dividere l’impasto in tre parti senza schiacciarlo per mantenere l’aria all’interno.",
-        "Formare tre baguette allungando delicatamente ogni parte con le mani.",
-        "Cuocere per 25 minuti a 250 °C in modalità statica."
+        "In una ciotola, tenere separati lievito e sale, poi aggiungere l'acqua.",
+        "Mescolare con il manico di un cucchiaio di legno fino a formare un impasto compatto.",
+        "Coprire e lasciare riposare per 8-10 ore a temperatura ambiente. Non serve infarinare o bagnare l'impasto, è abbastanza morbido.",
+        "Infarinare il piano di lavoro e staccare l'impasto con una spatola, poi trasferirlo su carta da forno ben infarinata.",
+        "Con la spatola, tagliare il numero di baguette desiderato senza schiacciare l'impasto.",
+        "Formare le baguette allungando delicatamente l'impasto con le mani.",
+        "Cuocere per 25 minuti a 250°C."
       ]
     },
     "es": {
       "name": "Baguette",
-      "notes": "Increíblemente simple, muy económica y rápida de preparar. La masa necesita unas diez horas de reposo, así que lo ideal es prepararla la noche anterior para disfrutar de pan fresco y delicioso por la mañana. Los cuatro ingredientes representan los cuatro elementos: la harina para la tierra, el agua, la levadura para el aire y la sal para el fuego. Receta original con la técnica de la cuchara de madera: https://www.youtube.com/watch?v=Z-husjZkxHw",
+      "notes": "Atención: receta rara que alcanza el rango de S Tier, si no es God Tier. Increíblemente simple, realmente barata y con muy poco tiempo de trabajo. Los 4 ingredientes representan los 4 elementos: la harina es la tierra, el agua, la levadura es el aire y la sal, el fuego. Fuente: https://www.youtube.com/watch?v=Z-husjZkxHw",
       "ingredients": [
-        "600 g de harina (200 g por baguette)",
-        "480 ml de agua (80% del peso de la harina)",
-        "2 g de levadura seca",
-        "2 cucharaditas de sal"
+        "Harina (200 g por baguette)",
+        "Agua a temperatura ambiente, 80 % del peso de la harina",
+        "1 a 2 g de levadura seca por 500 g de harina",
+        "Sal, una cucharadita colmada por 500 g de harina"
       ],
       "instructions": [
-        "Colocar todos los ingredientes en un bol grande.",
-        "Mezclar durante aproximadamente 1 minuto con el mango de una cuchara de madera grande, hasta que la masa forme una bola.",
-        "Consejo: quitar la masa pegada a la cuchara con el borde de una cucharita (ver video).",
-        "Cubrir y dejar reposar de 8 a 12 horas a temperatura ambiente.",
-        "Enharinar generosamente una hoja de papel de hornear sobre una bandeja. La masa, muy hidratada y pegajosa, necesita bastante harina para no adherirse.",
-        "Enharinar la masa y transferirla cuidadosamente al papel de hornear (una espátula de pastelería es ideal).",
-        "Dividir la masa en tres partes sin presionar para mantener el aire dentro.",
-        "Dar forma a tres baguettes alargando las porciones con las manos.",
-        "Hornear durante 25 minutos a 250 °C con calor estático."
+        "En un bol seco, evitar el contacto directo entre la levadura y la sal, luego añadir el agua.",
+        "Mezclar con el mango de una cuchara de madera hasta formar una bola de masa.",
+        "Cubrir y dejar reposar de 8 a 10 horas a temperatura ambiente. No hace falta enharinar ni mojar la masa, es suficientemente húmeda.",
+        "Enharinar y despegar la masa con una espátula, luego colocarla sobre papel de horno bien enharinado.",
+        "Cortar con la espátula el número deseado de baguettes sin aplastar la masa.",
+        "Formar las baguettes estirando suavemente la masa con las manos.",
+        "Hornear durante 25 minutos a 250 °C."
       ]
     },
     "nb": {
       "name": "Baguette",
-      "notes": "Utrolig enkel, veldig rimelig og rask å lage. Deigen trenger rundt ti timer hvile, så det er best å lage den kvelden før for å nyte ferskt og deilig brød om morgenen. De fire ingrediensene representerer de fire elementene: mel for jord, vann, gjær for luft og salt for ild. Originaloppskrift med tresleivsteknikk: https://www.youtube.com/watch?v=Z-husjZkxHw",
+      "notes": "Vær oppmerksom — en sjelden oppskrift som når S Tier, om ikke Gud Tier. Utrolig enkel, veldig billig, og krever svært lite arbeidstid. De fire ingrediensene representerer de fire elementene: mel for jord, vann, gjær for luft og salt for ild. Kilde: https://www.youtube.com/watch?v=Z-husjZkxHw",
       "ingredients": [
-        "600 g mel (200 g per baguette)",
-        "480 ml vann (80 % av melvekten)",
-        "2 g tørrgjær",
-        "2 ts salt"
+        "Mel (200 g per baguette)",
+        "Vann i romtemperatur — 80% av melmengden",
+        "1-2 g tørrgjær per 500 g mel",
+        "Salt — 1 toppet teskje per 500 g mel"
       ],
       "instructions": [
-        "Ha alle ingrediensene i en stor bolle.",
-        "Rør i omtrent 1 minutt med skaftet på en stor tresleiv til deigen samler seg.",
-        "Tips: Skrap av deig som sitter fast på sleiva med kanten av en teskje (se video).",
-        "Dekk til og la stå 8–12 timer i romtemperatur.",
-        "Dryss rikelig med mel på et bakepapir på en stekeplate. Den fuktige, klissete deigen trenger mye mel for ikke å feste seg.",
-        "Dryss mel på deigen og flytt den forsiktig over på bakepapiret (en deigskrape er perfekt til dette).",
-        "Del deigen i tre deler uten å trykke for å bevare luftbobler.",
-        "Form tre baguetter ved å strekke hver del med hendene i én bevegelse.",
-        "Stek i 25 minutter ved 250 °C med over- og undervarme."
+        "I en bolle, hold gjæren og saltet adskilt i starten, og tilsett deretter vannet.",
+        "Rør med enden av en tresleiv til deigen samler seg til en ball.",
+        "Dekk til og la stå i 8-10 timer i romtemperatur. Du trenger ikke å mel eller fukte deigen - den er løs nok.",
+        "Dryss mel og løsne deigen med en deigskrape, og legg den på bakepapir med godt med mel.",
+        "Bruk deigskrapen til å dele deigen i ønsket antall baguetter uten å trykke den ned.",
+        "Form baguettene ved å strekke deigen forsiktig med hendene.",
+        "Stek i 25 minutter ved 250°C."
       ]
     },
     "tr": {
       "name": "Baget",
-      "notes": "İnanılmaz derecede basit, son derece ekonomik ve çalışma süresi açısından çok hızlı. Hamur yaklaşık on saat dinlenmelidir; bu yüzden sabah taze ve lezzetli ekmek yemek için en iyisi bir gün önceden hazırlamaktır. Dört malzeme dört elementi temsil eder: un toprak için, su, maya hava için ve tuz ateş için. Ahşap kaşık tekniğiyle orijinal tarif: https://www.youtube.com/watch?v=Z-husjZkxHw",
+      "notes": "Dikkat! Nadir bir tarif, S Tier hatta God Tier seviyesine ulaşır. İnanılmaz derecede basit, çok ucuz ve neredeyse hiç iş gerektirmez. Dört malzeme dört elementi temsil eder: un toprak, su su, maya hava ve tuz ateştir. Kaynak: https://www.youtube.com/watch?v=Z-husjZkxHw",
       "ingredients": [
-        "600 g un (her baget için 200 g)",
-        "480 ml su (unun ağırlığının %80’i)",
-        "2 g kuru maya",
-        "2 çay kaşığı tuz"
+        "Un (her baget için 200 g)",
+        "Oda sıcaklığında su, un miktarının %80'i kadar",
+        "500 g un için 1–2 g kuru maya",
+        "500 g un için tepeleme 1 tatlı kaşığı tuz"
       ],
       "instructions": [
-        "Tüm malzemeleri büyük bir kaba koyun.",
-        "Büyük bir tahta kaşığın sapıyla yaklaşık 1 dakika karıştırın, hamur top haline gelene kadar.",
-        "İpucu: Kaşığa yapışan hamuru küçük bir kaşığın kenarıyla alın (videoya bakın).",
-        "Üzerini kapatın ve oda sıcaklığında 8–12 saat dinlendirin.",
-        "Bir tepsiye serilmiş pişirme kağıdını bolca unlayın. Hamur çok nemli ve yapışkan olduğundan, yapışmaması için bol un gerekir.",
-        "Hamuru unlayın ve dikkatlice pişirme kağıdına aktarın (bir hamur kazıyıcı bu iş için idealdir).",
-        "Hamuru bastırmadan üç parçaya ayırın, içindeki havayı koruyun.",
-        "Her parçayı ellerinizle uzatarak üç baget şekillendirin.",
-        "250 °C sabit ısıda 25 dakika pişirin."
+        "Kuru bir kapta, maya ile tuzun doğrudan temasını önleyin, sonra suyu ekleyin.",
+        "Bir tahta kaşığın sapıyla karıştırın, hamur top haline gelene kadar.",
+        "Üzerini kapatın ve oda sıcaklığında 8–10 saat dinlendirin. Hamuru unlamaya veya ıslatmaya gerek yok, yeterince nemlidir.",
+        "Hamuru spatula ile unlayıp kaptan çıkarın, unlanmış pişirme kağıdının üzerine koyun.",
+        "Hamuru ezmeden spatula ile istediğiniz sayıda bagete bölün.",
+        "Ellerinizle hafifçe uzatarak baget şeklini verin.",
+        "250 °C'de 25 dakika pişirin."
       ]
     },
     "ja": {
-      "name": "バゲット（バゲット）",
-      "notes": "信じられないほど簡単で、とても経済的、そして作業時間も短いです。生地は約10時間の休ませ時間が必要なので、前日に準備しておくと、翌朝に新鮮でおいしいパンを楽しめます。4つの材料は4つの元素を表します：小麦粉は土、水、酵母（こうぼ）は空気、塩（しお）は火です。木製スプーンを使ったオリジナルレシピはこちら：https://www.youtube.com/watch?v=Z-husjZkxHw",
+      "name": "バゲット",
+      "notes": "注意：希少なレシピで、Sティア、もしくはゴッドティアの域に達するほどの逸品。驚くほどシンプルで、とても安く、作業時間もごく短い。4つの材料は4つの元素を表す。小麦粉＝土、水＝水、酵母＝空気、塩＝火。出典：https://www.youtube.com/watch?v=Z-husjZkxHw",
       "ingredients": [
-        "小麦粉（こむぎこ）600 g（1本あたり200 g）",
-        "水（みず）480 ml（小麦粉の80%）",
-        "ドライイースト2 g",
-        "塩（しお）小さじ2"
+        "小麦粉（1本につき200g）",
+        "常温の水（小麦粉の80％の量）",
+        "乾燥酵母 500gの小麦粉につき1〜2g",
+        "塩 小麦粉500gにつき山盛り小さじ1杯"
       ],
       "instructions": [
-        "大きなボウルにすべての材料を入れます。",
-        "大きな木製スプーンの柄で約1分間混ぜ、生地（きじ）がひとつにまとまるまでこねます。",
-        "コツ：木べらに付いた生地を小さじの縁で取り除きます（動画参照）。",
-        "ふたをして室温で8〜12時間休ませます。",
-        "天板の上に置いたクッキングシートにたっぷり粉（こな）をふります。水分が多く粘り気のある生地なので、くっつかないように多めの粉が必要です。",
-        "生地に粉をふり、やさしくクッキングシートに移します（カードを使うと便利です）。",
-        "生地を押さえずに3等分し、中の空気を保ちます。",
-        "手で軽く伸ばして3本のバゲットの形に整えます。",
-        "250 °Cのオーブン（上下火）で25分焼きます。"
+        "ボウルに乾いた材料を入れ、酵母と塩が直接触れないようにしてから水を加える。",
+        "木べらの持ち手で混ぜ、生地がひとまとまりになるまで混ぜる。",
+        "ラップをかけて常温で8〜10時間休ませる。打ち粉も水も不要、生地は十分に柔らかい。",
+        "打ち粉をして生地をスパチュラで外し、よく打ち粉したオーブンシートの上に置く。",
+        "生地を押しつぶさないようにスパチュラで希望の本数に切る。",
+        "両手で優しく伸ばしてバゲットの形に整える。",
+        "250℃のオーブンで25分焼く。"
       ]
     },
     "zh": {
-      "name": "法棍面包",
-      "notes": "非常简单、经济，而且准备时间极短。面团需要静置约10小时，因此最好提前一天准备，这样早晨就能享用新鲜美味的面包。四种原料象征四种元素：面粉代表土、水、酵母代表空气、盐代表火。使用木勺搅拌的原始食谱：https://www.youtube.com/watch?v=Z-husjZkxHw",
+      "name": "法棍",
+      "notes": "注意：这是一道罕见的配方，可称得上S级甚至是神级。极其简单，极其便宜，几乎不费工夫。四种材料代表四种元素：面粉是土，水是水，酵母是空气，盐是火。来源：https://www.youtube.com/watch?v=Z-husjZkxHw",
       "ingredients": [
-        "600 克面粉（每根法棍200 克）",
-        "480 毫升水（面粉重量的80%）",
-        "2 克干酵母",
-        "2 茶匙盐"
+        "面粉（每根法棍200克）",
+        "常温水，约为面粉重量的80%",
+        "干酵母，每500克面粉1–2克",
+        "盐，每500克面粉加满满一茶匙"
       ],
       "instructions": [
-        "将所有原料放入一个大碗中。",
-        "用大木勺的手柄搅拌约1分钟，直到面团成团。",
-        "提示：用小勺边缘刮下粘在木勺上的面团（参见视频）。",
-        "盖上盖子，在室温下静置8至12小时。",
-        "在烤盘上铺一张烘焙纸并撒上大量面粉。面团含水量高、非常黏，因此需要大量面粉防止粘连。",
-        "在面团上撒面粉，小心地将其移到烘焙纸上（使用刮板效果更好）。",
-        "将面团分成三份，不要按压，以保留内部空气。",
-        "用手轻轻拉成长条形，做成三根法棍。",
-        "以250 °C静态加热烘烤25分钟。"
+        "在干净的碗中，避免酵母与盐直接接触，然后加入水。",
+        "用木勺柄搅拌，直到面团形成一个球状。",
+        "盖上，常温静置8–10小时。无需撒粉或加水，面团湿度足够。",
+        "撒上面粉，用刮刀将面团取出，放在撒好面粉的烘焙纸上。",
+        "用刮刀分割成所需数量的法棍，不要压扁面团。",
+        "用双手轻轻拉伸面团成法棍形。",
+        "放入250°C的烤箱中烘烤25分钟。"
       ]
     }
   },
