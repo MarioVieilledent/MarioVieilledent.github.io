@@ -35,7 +35,8 @@ const Recipes = () => {
   const { t } = useTranslation();
   const isMobile = useIsMobile();
 
-  const inputRef = useRef<HTMLInputElement>(null);
+  const desktopInputRef = useRef<HTMLInputElement>(null);
+  const phoneInputRef = useRef<HTMLInputElement>(null);
 
   const [phoneDrawer, setPhoneDrawer] = useState(false);
   const [searchModePhone, setSearchModePhone] = useState(false);
@@ -71,6 +72,12 @@ const Recipes = () => {
         return "";
     }
   };
+
+  useEffect(() => {
+    if (searchModePhone) {
+      phoneInputRef.current?.focus();
+    }
+  }, [searchModePhone]);
 
   useEffect(() => {
     if (location.pathname === RECIPES_PATH) {
@@ -111,7 +118,7 @@ const Recipes = () => {
     const handleKeyDown = (e: KeyboardEvent) => {
       if ((e.ctrlKey || e.metaKey) && e.key.toLowerCase() === "f") {
         e.preventDefault();
-        inputRef.current?.focus();
+        desktopInputRef.current?.focus();
       }
     };
     window.addEventListener("keydown", handleKeyDown);
@@ -174,6 +181,7 @@ const Recipes = () => {
                   placeholder={`${t("search")}...`}
                   value={search}
                   onChange={(event) => setSearch(event.target.value)}
+                  ref={phoneInputRef}
                 />
               </div>
             ) : (
@@ -235,7 +243,7 @@ const Recipes = () => {
 
                 <div className="flex w-64 h-8 bg-gray-300">
                   <input
-                    ref={inputRef}
+                    ref={desktopInputRef}
                     type="text"
                     className="grow px-2 h-full"
                     placeholder={`${t("search")}...`}
