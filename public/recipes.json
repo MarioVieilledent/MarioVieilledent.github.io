@@ -2458,11 +2458,11 @@
   },
   {
     "category": "desserts",
-    "id": "striezel",
-    "pictures": [],
+    "id": "wienerKnopf",
+    "pictures": ["Austrian_meal_wiener_knopfe.jpg"],
     "en": {
-      "name": "Striezel",
-      "notes": "A fairly simple brioche with an impressive visual effect, typical braid from Germanic countries. Recipe shared by my Austrian colleague.",
+      "name": "Wiener Knopf",
+      "notes": "A fairly simple brioche with an impressive visual effect, typical braid from Germanic countries. Recipe shared by my Austrian colleague. AKA Striezel.",
       "ingredients": [
         "500 g flour",
         "250 ml milk",
@@ -2475,14 +2475,14 @@
       "instructions": [
         "Melt the butter and add the milk (30°C, do not cook).",
         "Mix everything to form a dough, let rest for 2 hours until doubled in size.",
-        "Braid the Striezel as shown in the video: https://www.youtube.com/watch?v=FFVW94Oi5c0",
+        "Braid the Knopf as shown in the video: https://www.youtube.com/watch?v=FFVW94Oi5c0",
         "Brush with egg and sprinkle with pearl sugar.",
         "Bake 30 minutes at 170°C."
       ]
     },
     "fr": {
-      "name": "Striezel",
-      "notes": "Brioche assez simple avec effet visuel impressionnant, tresse typique des pays germaniques. Recette partagée par mon collègue Autrichien.",
+      "name": "Wiener Knopf",
+      "notes": "Brioche assez simple avec effet visuel impressionnant, tresse typique des pays germaniques. Recette partagée par mon collègue Autrichien. AKA Striezel.",
       "ingredients": [
         "500g de farine",
         "250 ml de lait",
@@ -2495,13 +2495,13 @@
       "instructions": [
         "Faire fondre le beurre et y ajouter le lait (30°, ne pas faire cuire)",
         "Mélanger le tout et faire une pâte, laisser reposer 2 heures pour que la pâte double de volume",
-        "Tresser les Striezels comme décrit dans la vidéo : https://www.youtube.com/watch?v=FFVW94Oi5c0",
+        "Tresser les Knopf comme décrit dans la vidéo : https://www.youtube.com/watch?v=FFVW94Oi5c0",
         "Badigeonner d'œuf et ajouter du sucre perlé",
         "Four 30 minutes à 170°"
       ]
     },
     "it": {
-      "name": "Striezel",
+      "name": "Wiener Knopf",
       "notes": "Brioche abbastanza semplice con effetto visivo impressionante, treccia tipica dei paesi germanici. Ricetta condivisa dal mio collega austriaco.",
       "ingredients": [
         "500 g farina",
@@ -2515,14 +2515,14 @@
       "instructions": [
         "Fondere il burro e aggiungere il latte (30°C, non cuocere).",
         "Mescolare tutto per ottenere un impasto, lasciare riposare 2 ore fino al raddoppio del volume.",
-        "Intrecciare gli Striezel come mostrato nel video: https://www.youtube.com/watch?v=FFVW94Oi5c0",
+        "Intrecciare gli Knopf come mostrato nel video: https://www.youtube.com/watch?v=FFVW94Oi5c0",
         "Spennellare con uovo e cospargere di zucchero perlato.",
         "Cuocere in forno per 30 minuti a 170°C."
       ]
     },
     "nb": {
-      "name": "Striezel",
-      "notes": "En ganske enkel brioche med imponerende visuelt uttrykk, typisk flett fra de germanske landene. Oppskrift delt av min østerrikske kollega.",
+      "name": "Wiener Knopf",
+      "notes": "En ganske enkel brioche med imponerende visuelt uttrykk, typisk flett fra de germanske landene. Oppskrift delt av min østerrikske kollega. AKA Striezel.",
       "ingredients": [
         "500 g mel",
         "250 ml melk",
@@ -2535,7 +2535,7 @@
       "instructions": [
         "Smelt smøret og tilsett melk (30°C, ikke kok).",
         "Bland alt til en deig, la hvile i 2 timer til den dobler seg i størrelse.",
-        "Flett Striezel som vist i videoen: https://www.youtube.com/watch?v=FFVW94Oi5c0",
+        "Flett Knopf som vist i videoen: https://www.youtube.com/watch?v=FFVW94Oi5c0",
         "Pensle med egg og strø perlesukker over.",
         "Stek i ovnen i 30 minutter ved 170°C."
       ]
