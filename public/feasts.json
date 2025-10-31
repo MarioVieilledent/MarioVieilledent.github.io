@@ -5,10 +5,7 @@
     "countryCode": "fr",
     "date": "2025-09-09",
     "ranking": 9.0,
-    "pictures": [
-      "French_meal_plate.jpg",
-      "French_meal_apero.jpg"
-    ],
+    "pictures": ["French_meal_plate.jpg", "French_meal_apero.jpg"],
     "en": {
       "name": "Beef fillet and hash browns",
       "country": "French Meal",
@@ -199,10 +196,7 @@
     "countryCode": "tr",
     "date": "2025-09-18",
     "ranking": 8,
-    "pictures": [
-      "Turkish_meal_plate.jpg",
-      "Turkish_meal_table.jpg"
-    ],
+    "pictures": ["Turkish_meal_plate.jpg", "Turkish_meal_table.jpg"],
     "en": {
       "name": "Pilaf rice",
       "country": "Turkish meal",
@@ -321,10 +315,7 @@
     "countryCode": "us",
     "date": "2025-09-25",
     "ranking": 8.5,
-    "pictures": [
-      "American_meal_plate.jpg",
-      "American_meal_table.jpg"
-    ],
+    "pictures": ["American_meal_plate.jpg", "American_meal_table.jpg"],
     "en": {
       "name": "Smash burger, fries and homemade mayo",
       "country": "American meal",
@@ -431,10 +422,7 @@
     "countryCode": "mx",
     "date": "2025-10-02",
     "ranking": 8.5,
-    "pictures": [
-      "Mexican_meal_table.jpg",
-      "Mexican_meal_apero_table.jpg"
-    ],
+    "pictures": ["Mexican_meal_table.jpg", "Mexican_meal_apero_table.jpg"],
     "en": {
       "name": "Chili con carne",
       "country": "Mexican meal",
@@ -790,10 +778,7 @@
     "countryCode": "jp",
     "date": "2025-10-12",
     "ranking": 8.5,
-    "pictures": [
-      "Japanese_meal_plate.jpg",
-      "Japanese_meal_table.jpg"
-    ],
+    "pictures": ["Japanese_meal_plate.jpg", "Japanese_meal_table.jpg"],
     "en": {
       "name": "Ramen",
       "country": "Japanese meal",
@@ -1013,9 +998,7 @@
       "notes": [
         {
           "title": "Title here",
-          "description": [
-            "Notes for each dish"
-          ]
+          "description": ["Notes for each dish"]
         },
         {
           "title": "Mario's notes",
@@ -1034,10 +1017,7 @@
     "countryCode": "lb",
     "date": "2025-10-16",
     "ranking": 7,
-    "pictures": [
-      "Lebanese_meal_table_2.jpg",
-      "Lebanese_meal_table_1.jpg"
-    ],
+    "pictures": ["Lebanese_meal_table_2.jpg", "Lebanese_meal_table_1.jpg"],
     "en": {
       "name": "Mezzes",
       "country": "Lebanese Meal",
@@ -1086,9 +1066,7 @@
         },
         {
           "title": "Positive points",
-          "description": [
-            "We cooked together."
-          ]
+          "description": ["We cooked together."]
         }
       ]
     },
@@ -1140,9 +1118,7 @@
         },
         {
           "title": "Points positifs",
-          "description": [
-            "On a cuisiné ensemble."
-          ]
+          "description": ["On a cuisiné ensemble."]
         }
       ]
     },
@@ -1194,9 +1170,7 @@
         },
         {
           "title": "Punti positivi",
-          "description": [
-            "Abbiamo cucinato insieme."
-          ]
+          "description": ["Abbiamo cucinato insieme."]
         }
       ]
     },
@@ -1248,9 +1222,7 @@
         },
         {
           "title": "Olumlu noktalar",
-          "description": [
-            "Birlikte yemek yaptık."
-          ]
+          "description": ["Birlikte yemek yaptık."]
         }
       ]
     }
@@ -1616,6 +1588,110 @@
           "title": "氛围",
           "description": [
             "我们一边玩 Qwirkle，一边喝草本茶、吃布朗尼——太棒了！"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "mealNumber": 10,
+    "id": "austrianMeal",
+    "countryCode": "at",
+    "date": "2025-10-30",
+    "ranking": 8.75,
+    "pictures": [
+      "Austrian_meal_schnitzel.jpg",
+      "Austrian_meal_brezel.jpg",
+      "Austrian_meal_soup.jpg",
+      "Austrian_meal_wiener_knopfe.jpg",
+      "Austrian_meal_table.jpg"
+    ],
+    "en": {
+      "name": "Pretzel, Frittatensuppe, Schnitzel and Wiener Knopf",
+      "country": "Austrian Meal",
+      "idea": [
+        "Why Austrian? First, because I have a recipe waiting that I haven’t made for the Italians yet — the pretzel (which might be more German than Austrian, but you can find just as many in Austria). Also, my Austrian colleague once showed me one of my very first oven recipes (I think the first one apart from Baklava): the Wiener Knøpfe, which he called Striezel (a braided brioche).",
+        "We need a main dish to go with all that, and I can’t think of anything other than a schnitzel. I tasted a few during my trip to Salzburg and Bavaria last spring, and I found the exact same flavor as all the schnitzels I had eaten when traveling as a kid. So, no excuses — it’s my turn to try the recipe.",
+        "Yesterday, a craving for wine took me to the Vinmonopolet, and after crying enough over the price of cognac, I found an Austrian white wine! (and a Pinot Noir too, let’s not get carried away).",
+        "Something was missing to complete the meal, and while looking up traditional Austrian dishes on Wiki (and also ChatGPT), I came across an intriguing soup made from beef broth with thin strips of pancakes — yes, real pancakes.",
+        "From my past experiences, I’ve learned to keep things simple, and honestly, pretzels, schnitzel, and Wiener Knøpfe are already going to be a challenge. So it’s up to me to wisely simplify the menu, the dishes, and the preparation.",
+        "My Austrian colleague confirmed that the broth with pancakes is both easy to make, typically Austrian, and pairs perfectly with schnitzel!",
+        "A quick visit to Meny to find chives and breadcrumbs, and the butcher found me the perfect piece of veal to make schnitzel!"
+      ],
+      "menu": [
+        "Pretzels with one buttered each",
+        "Frittatensuppe — beef broth with pancake strips and chives",
+        "Veal schnitzel",
+        "Wiener Knöpfe",
+        "Austrian white wine"
+      ],
+      "notes": [
+        {
+          "title": "General",
+          "description": [
+            "Preparations went well — we did everything and managed it all.",
+            "It takes a bit of time to prepare the dough, especially since I spent time kneading it well to get a smooth, perfect texture.",
+            "Important: there’s no point in waiting until everything’s ready and the table is full to take an 'Instagram' photo. It’s better to cook each dish one by one and eat together while it’s still hot."
+          ]
+        }
+      ]
+    },
+    "fr": {
+      "name": "Bretzel, Frittatensuppe, Schnitzel et Wiener Knopf",
+      "country": "Repas Autrichien",
+      "idea": [
+        "Pourquoi autrichien ? Car d’une j’ai une recette en attente que je n’ai pas faite aux italiens qui est le Bretzel (et c’est peut être plus allemand qu’autrichien, mais on en trouve tout autant en Autriche). Mais aussi, mon collègue autrichien m’avait montré une de mes toutes premières recettes au four (je crois la première à part les Baklavas) : le Wiener knøpfe qu’il appelait Striezel (une brioche tressée).",
+        "Il faut un plat principal pour accompagner tout ça, et je ne vois rien d’autre qu’un schnitzel. J’en ai gouté quelques-uns lors de mon passage à Salzbourg et en Bavière le printemps dernier, et j’ai retrouvé l’exact même goût de tous les schnitzel que j’avais mangé en voyage étant plus jeune. Donc aucune excuse : là c’est à moi de tester la recette.",
+        "La veille, une envie de vin m’a amené au vinmonopollet et après avoir suffisamment pleuré le prix du cognac, j’y ai dégoté un vin blanc Autrichien ! (et un Pinot Noir faut pas déconner).",
+        "Un petit plus manquait pour terminer le repas, et en cherchant les plats traditionnels autrichiens sur wiki (et aussi chatGPT), je suis tombé sur une soupe intrigante à base de bouillon de bœuf avec des lamelles de crêpes, oui oui des authentiques crêpes.",
+        "De mes expériences passées je retiens qu’il faut rester simple, et déjà, bretzel, schnitzel et wiener knøpfe va être challenging. Donc à moi de savamment simplifier le menu, les plats et la préparation.",
+        "Mon collègue autrichien m’a confirmé que le bouillon avec les crêpes est à la fois facile à faire, typique d'autriche et que ça va bien avec le Schnitzel !",
+        "Une petite visite chez Meny pour trouver la ciboulette, de la chapelure, et le boucher m’a trouvé la pièce de veau parfaite pour faire des Schnitzel !"
+      ],
+      "menu": [
+        "Bretzels avec un au beurre pour chacun",
+        "Frittatensuppe, bouillon de boeuf avec lamelles de crêpes et ciboulette",
+        "Schnitzel de veau",
+        "Wiener knöpfe",
+        "Vin blanc Autrichien"
+      ],
+      "notes": [
+        {
+          "title": "Général",
+          "description": [
+            "Préparations ok, on a tout fait, et on a tout géré.",
+            "C’est un peu long de préparer les pâtes, surtout que j’ai passé du temps pour bien pétrir et avoir des pâtes lisses et impeccables.",
+            "Important : ça ne sert à rien d’attendre que tout soit prêt et la table remplie pour faire une photo “instagram”, vaut mieux cuire les plats un par un, et les manger ensemble tant que c’est chaud."
+          ]
+        }
+      ]
+    },
+    "it": {
+      "name": "Brezel, Frittatensuppe, Schnitzel e Wiener Knopf",
+      "country": "Pasto Austriaco",
+      "idea": [
+        "Perché austriaco? Prima di tutto perché ho una ricetta in sospeso che non ho ancora preparato per gli italiani — il brezel (forse è più tedesco che austriaco, ma se ne trovano altrettanti in Austria). Inoltre, il mio collega austriaco mi aveva mostrato una delle mie primissime ricette al forno (credo la prima, a parte i baklava): il Wiener Knøpfe, che lui chiamava Striezel (una brioche intrecciata).",
+        "Serve un piatto principale per accompagnare tutto questo, e non riesco a pensare a nulla di meglio di una schnitzel. Ne ho assaggiate alcune durante il mio viaggio a Salisburgo e in Baviera la scorsa primavera, e ho ritrovato esattamente lo stesso sapore di tutte le schnitzel che avevo mangiato da giovane in viaggio. Quindi, nessuna scusa: ora tocca a me provare la ricetta.",
+        "Ieri, una voglia di vino mi ha portato al Vinmonopollet e, dopo aver pianto abbastanza per il prezzo del cognac, ho trovato un vino bianco austriaco! (e anche un Pinot Nero, non esageriamo).",
+        "Mancava un piccolo tocco per completare il pasto, e cercando piatti tradizionali austriaci su Wiki (e anche su ChatGPT), mi sono imbattuto in una zuppa intrigante a base di brodo di manzo con strisce di crêpes — sì, vere crêpes.",
+        "Dalle mie esperienze passate ho imparato che bisogna restare semplici, e in effetti brezel, schnitzel e wiener knøpfe saranno già una bella sfida. Quindi sta a me semplificare saggiamente il menù, i piatti e la preparazione.",
+        "Il mio collega austriaco mi ha confermato che il brodo con le crêpes è sia facile da preparare, tipicamente austriaco e si abbina perfettamente con la schnitzel!",
+        "Una breve visita da Meny per trovare erba cipollina e pangrattato, e il macellaio mi ha trovato il pezzo di vitello perfetto per fare la schnitzel!"
+      ],
+      "menu": [
+        "Brezel con uno al burro per ciascuno",
+        "Frittatensuppe — brodo di manzo con strisce di crêpes ed erba cipollina",
+        "Schnitzel di vitello",
+        "Wiener Knöpfe",
+        "Vino bianco austriaco"
+      ],
+      "notes": [
+        {
+          "title": "Generale",
+          "description": [
+            "Preparativi ok, abbiamo fatto tutto e gestito tutto bene.",
+            "È un po’ lungo preparare l’impasto, soprattutto perché ho impiegato tempo per impastare bene e ottenere una pasta liscia e perfetta.",
+            "Importante: non serve aspettare che tutto sia pronto e la tavola piena per fare una foto 'instagram'. Meglio cuocere i piatti uno per uno e mangiarli insieme finché sono caldi."
           ]
         }
       ]
