@@ -1,3 +1,4 @@
+import { LuDownload } from "react-icons/lu";
 import { useIsMobile } from "../../utils/isMobileHook";
 import { useTranslation } from "../../utils/TranslationContext";
 import { randomIndexBasedOnDate } from "../../utils/utils";
@@ -48,6 +49,26 @@ const RecipesHome = ({ feasts, recipes }: RecipesHomeProps) => {
               recipes.length
             }`}</div>
             <div className="text-sm">{`${t("recipesWithCheese")} ${0}`}</div>
+          </div>
+
+          <div className="text-xl pt-4">{t("export")}</div>
+          <div className="flex flex-col gap-4">
+            <a
+              className="flex items-center gap-2 cursor-pointer text-sm"
+              href="feasts.json"
+              target="_blank"
+            >
+              <LuDownload size="16" />
+              {t("allFeastsJSON")}
+            </a>
+            <a
+              className="flex items-center gap-2 cursor-pointer text-sm"
+              href="recipes.json"
+              target="_blank"
+            >
+              <LuDownload size="16" />
+              {t("allRecipesJSON")}
+            </a>
           </div>
         </div>
       )}
