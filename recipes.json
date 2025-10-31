@@ -263,10 +263,10 @@
   },
   {
     "category": "mainCourses",
-    "id": "risottoSpaghetti",
+    "id": "aglioEOlio",
     "pictures": ["spaghetti_risottatura.jpg"],
     "en": {
-      "name": "Risotto-style Spaghetti",
+      "name": "Aglio e olio",
       "notes": "A humble Italian technique for tastier and creamier spaghetti. It's a real upgrade for spaghetti lovers, especially those who enjoy garlic. You can also adapt the method using meat or fish juices left in a hot pan.",
       "ingredients": [
         "Spaghetti",
@@ -282,7 +282,7 @@
       ]
     },
     "fr": {
-      "name": "Spaghetti en cuisson risotto",
+      "name": "Aglio e olio",
       "notes": "Technique Italienne du pauvre pour des spaghetti plus savoureux et crémeux. C'est un réel plus pour des spaghetti, et pour les amateurs d'ail. Possibilité de décliner la technique avec les sucs de viande/poisson dans la poele chaude.",
       "ingredients": [
         "Spaghetti",
@@ -298,7 +298,7 @@
       ]
     },
     "it": {
-      "name": "Spaghetti risottati",
+      "name": "Aglio e olio",
       "notes": "Tecnica povera italiana per spaghetti più saporiti e cremosi. Un vero valore aggiunto per gli amanti degli spaghetti e dell'aglio. Si può adattare la tecnica con i succhi di carne o di pesce nella padella calda.",
       "ingredients": [
         "Spaghetti",
@@ -314,7 +314,7 @@
       ]
     },
     "es": {
-      "name": "Espaguetis cocinados al estilo risotto",
+      "name": "Aglio e olio",
       "notes": "Técnica italiana humilde para hacer espaguetis más sabrosos y cremosos. Es una mejora real para los espaguetis, especialmente para los amantes del ajo. También se puede aplicar la técnica usando los jugos de carne o pescado en la sartén caliente.",
       "ingredients": [
         "Espaguetis",
@@ -330,7 +330,7 @@
       ]
     },
     "nb": {
-      "name": "Spaghetti tilberedt som risotto",
+      "name": "Aglio e olio",
       "notes": "En enkel italiensk metode for å gjøre spaghetti mer smakfull og kremet. Et virkelig løft for pastaelskere, spesielt for dem som liker hvitløk. Teknikken kan også brukes med kjøtt- eller fiskesjy i varm panne.",
       "ingredients": [
         "Spaghetti",
@@ -362,7 +362,7 @@
       ]
     },
     "ja": {
-      "name": "リゾット風スパゲッティ",
+      "name": "アーリオ・オーリオ",
       "notes": "スパゲッティをより風味豊かでクリーミーにする、質素なイタリアの調理法。特にニンニク好きにはおすすめ。肉や魚の旨味が残ったフライパンでも応用可能。",
       "ingredients": [
         "スパゲッティ",
@@ -378,7 +378,7 @@
       ]
     },
     "zh": {
-      "name": "烩饭式意大利面",
+      "name": "Aglio e olio（蒜香意大利面）",
       "notes": "一种朴实的意大利烹饪技巧，使意大利面更香、更浓郁。对大蒜爱好者来说尤其出色。此技巧也可用于肉类或鱼类烹汁的热锅中。",
       "ingredients": [
         "意大利面",
