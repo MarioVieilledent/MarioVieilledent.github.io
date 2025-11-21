@@ -9,12 +9,11 @@ import {
   LuSchool,
 } from "react-icons/lu";
 import Float from "./Float";
-import { useNavigate } from "react-router";
+import { Link } from "react-router";
 import { useIsMobile } from "../utils/isMobileHook";
 
 const Menu = () => {
   const { t } = useTranslation();
-  const navigate = useNavigate();
   const isMobile = useIsMobile();
 
   return (
@@ -34,27 +33,21 @@ const Menu = () => {
       <span>{t("websiteDescription")}</span>
       <div className="flex flex-col gap-4">
         <LanguageSelection />
-        <a
-          className="flex items-center gap-2 cursor-pointer"
-          onClick={() => navigate("recipes")}
-        >
+        <Link to="recipes" className="flex items-center gap-2 cursor-pointer">
           <LuNotebookText size="24" />
           {t("recipes")}
-        </a>
-        {/* <a
+        </Link>
+        {/* <Link
+          to="flags"
           className="flex items-center gap-2 cursor-pointer"
-          onClick={() => navigate("flags")}
         >
           <LuFlag size="24" />
           {t("flags")}
-        </a> */}
-        <a
-          className="flex items-center gap-2 cursor-pointer"
-          onClick={() => navigate("learn")}
-        >
+        </Link> */}
+        <Link to="learn" className="flex items-center gap-2 cursor-pointer">
           <LuSchool size="24" />
           {t("learnNorwegian")}
-        </a>
+        </Link>
         <a
           className="flex items-center gap-2 cursor-pointer"
           href="https://github.com/MarioVieilledent/MarioVieilledent.github.io"

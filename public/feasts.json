@@ -1696,5 +1696,188 @@
         }
       ]
     }
+  },
+  {
+    "mealNumber": 11,
+    "id": "secondTurkishMeal",
+    "countryCode": "tr",
+    "date": "2025-11-20",
+    "ranking": 7.5,
+    "pictures": [
+      "Second_turkish_meal_plate.jpg",
+      "Second_turkish_meal_table.jpg"
+    ],
+    "en": {
+      "name": "Rice, beef meatballs, tea and Turkish sweets",
+      "country": "Small meal after the trip to Türkiye",
+      "idea": [
+        "Don’t miss a Thursday, as there aren’t many left before the Italians finish their semester in Trondheim.",
+        "Let them taste the sweets I brought back from Gaziantep."
+      ],
+      "menu": [
+        "Minced beef meatballs, grated onion, garlic, paprika, cinnamon, cardamom, parsley",
+        "Classic-cooked basmati rice that has absorbed the meat juices",
+        "Türk çayı, Turkish tea from Gaziantep, served in Turkish tulip glasses and saucers from Istanbul’s Grand Bazaar",
+        "Antep fıstıklı fitil lokum: Turkish sweets made with Gaziantep pistachios"
+      ],
+      "notes": [
+        {
+          "title": "General",
+          "description": [
+            "Maybe it was not enough. And not refined enough either."
+          ]
+        }
+      ]
+    },
+    "fr": {
+      "name": "Riz, boulettes de boeuf, thé et sucreries turques",
+      "country": "Mini repas après le voyage en Turquie",
+      "idea": [
+        "Ne pas manquer un jeudi, car il en reste plus beaucoup avant que les Italiens ne finissent leur semestre à Trondheim.",
+        "Leur faire goûter les friandises que j’ai ramené de Gaziantep."
+      ],
+      "menu": [
+        "Boulettes de boeuf haché, oignon râpé, ail, paprika, cannelle, cardamome, persil",
+        "Riz basmati cuisson classique qui a absorbé le jus et les sucs de la viande",
+        "Türk çayı, thé turc de Gaziantep, servi dans des verres tulipe turcs et des coupelles du Grand Bazaar d’Istanbul",
+        "Antep fıstıklı fitil lokum : sucreries turques à base de pistache de Gaziantep"
+      ],
+      "notes": [
+        {
+          "title": "General",
+          "description": [
+            "C’était peut-être pas assez. Et pas assez fin aussi."
+          ]
+        }
+      ]
+    },
+    "it": {
+      "name": "Riso, polpette di manzo, tè e dolci turchi",
+      "country": "Piccolo pasto dopo il viaggio in Turchia",
+      "idea": [
+        "Non perdere un giovedì, perché ne restano pochi prima che gli italiani finiscano il semestre a Trondheim.",
+        "Fargli assaggiare i dolci che ho riportato da Gaziantep."
+      ],
+      "menu": [
+        "Polpette di manzo tritato, cipolla grattugiata, aglio, paprika, cannella, cardamomo, prezzemolo",
+        "Riso basmati cotto in modo classico che ha assorbito i succhi della carne",
+        "Türk çayı, tè turco di Gaziantep, servito in bicchieri a tulipano turchi e piattini del Grand Bazaar di Istanbul",
+        "Antep fıstıklı fitil lokum: dolci turchi a base di pistacchi di Gaziantep"
+      ],
+      "notes": [
+        {
+          "title": "Generale",
+          "description": [
+            "Forse non era abbastanza. E nemmeno abbastanza raffinato."
+          ]
+        }
+      ]
+    },
+    "es": {
+      "name": "Arroz, albóndigas de ternera, té y dulces turcos",
+      "country": "Pequeña comida después del viaje a Turquía",
+      "idea": [
+        "No perder un jueves, porque quedan pocos antes de que los italianos terminen su semestre en Trondheim.",
+        "Hacerles probar los dulces que traje de Gaziantep."
+      ],
+      "menu": [
+        "Albóndigas de ternera picada, cebolla rallada, ajo, pimentón, canela, cardamomo, perejil",
+        "Arroz basmati cocido de manera clásica que ha absorbido los jugos de la carne",
+        "Türk çayı, té turco de Gaziantep, servido en vasos tulipán turcos y platillos del Gran Bazar de Estambul",
+        "Antep fıstıklı fitil lokum: dulces turcos hechos con pistachos de Gaziantep"
+      ],
+      "notes": [
+        {
+          "title": "General",
+          "description": [
+            "Quizás no fue suficiente. Y tampoco lo bastante refinado."
+          ]
+        }
+      ]
+    },
+    "nb": {
+      "name": "Ris, kjøttboller av storfe, te og tyrkiske søtsaker",
+      "country": "Lite måltid etter reisen til Tyrkia",
+      "idea": [
+        "Ikke gå glipp av en torsdag, for det er ikke mange igjen før italienerne avslutter semesteret sitt i Trondheim.",
+        "La dem smake på søtsakene jeg tok med fra Gaziantep."
+      ],
+      "menu": [
+        "Kjøttboller av kjøttdeig av storfe, revet løk, hvitløk, paprika, kanel, kardemomme, persille",
+        "Klassisk kokt basmatiris som har absorbert kjøttsaften",
+        "Türk çayı, tyrkisk te fra Gaziantep, servert i tyrkiske tulipanglass og skåler fra Grand Bazaar i Istanbul",
+        "Antep fıstıklı fitil lokum: tyrkiske søtsaker laget med pistasjnøtter fra Gaziantep"
+      ],
+      "notes": [
+        {
+          "title": "Generelt",
+          "description": ["Det var kanskje ikke nok. Og heller ikke fint nok."]
+        }
+      ]
+    },
+    "tr": {
+      "name": "Pirinç, dana köfte, çay ve Türk tatlıları",
+      "country": "Türkiye seyahatinden sonra küçük bir öğün",
+      "idea": [
+        "İtalyanlar Trondheim’daki dönemlerini bitirmeden önce çok az Perşembe kaldığı için bir Perşembe’yi kaçırmamak lazım.",
+        "Gaziantep’ten getirdiğim şekerlemeleri onlara tattırmak."
+      ],
+      "menu": [
+        "Kıyma, rendelenmiş soğan, sarımsak, paprika, tarçın, kakule, maydanoz ile yapılan dana köfteleri",
+        "Etin suyunu emmiş klasik pişirilmiş basmati pirinci",
+        "Türk çayı, Gaziantep’ten gelen çay; Türk lale bardaklarında ve İstanbul Kapalıçarşı’dan alınan tabaklarda servis edilir",
+        "Antep fıstıklı fitil lokum: Gaziantep fıstığı ile yapılan Türk tatlıları"
+      ],
+      "notes": [
+        {
+          "title": "Genel",
+          "description": [
+            "Belki de yeterli değildi. Ve yeterince ince de değildi."
+          ]
+        }
+      ]
+    },
+    "zh": {
+      "name": "米饭、牛肉丸、茶和土耳其甜点",
+      "country": "土耳其旅行后的简单餐食",
+      "idea": [
+        "不要错过星期四，因为在意大利人结束他们在特隆赫姆的学期之前已经没剩下几个了。",
+        "让他们品尝我从加济安泰普带回来的甜点。"
+      ],
+      "menu": [
+        "牛肉碎做的肉丸、刨碎的洋葱、蒜、红椒粉、肉桂、豆蔻、欧芹",
+        "经典方式烹煮的巴斯马蒂米饭，吸收了肉汁",
+        "Türk çayı，加济安泰普的土耳其红茶，使用土耳其郁金香形玻璃杯和伊斯坦布尔大巴扎的小碟子盛装",
+        "Antep fıstıklı fitil lokum：采用加济安泰普开心果制作的土耳其软糖"
+      ],
+      "notes": [
+        {
+          "title": "一般",
+          "description": ["也许量不够，也不够精致。"]
+        }
+      ]
+    },
+    "ja": {
+      "name": "米(こめ)、牛肉(ぎゅうにく)の肉団子(にくだんご)、紅茶(こうちゃ)とトルコ菓子(がし)",
+      "country": "トルコ旅行(りょこう)後(ご)の軽(かる)い食事(しょくじ)",
+      "idea": [
+        "木曜(もくよう)を逃(のが)さないように。トロンハイムでイタリア人(じん)が学期(がっき)を終(お)える前(まえ)に残(のこ)りが少(すく)ないため。",
+        "ガズィアンテプから持(も)ち帰(かえ)った菓子(かし)を味見(あじみ)してもらうため。"
+      ],
+      "menu": [
+        "牛挽肉(ぎゅうひきにく)の肉団子(にくだんご)、擦(す)り下(お)ろした玉葱(たまねぎ)、にんにく、パプリカ、シナモン、カルダモン、パセリ",
+        "肉(にく)の旨味(うまみ)を吸(す)った通常(つうじょう)の炊(た)き方(かた)のバスマティ米(まい)",
+        "Türk çayı、ガズィアンテプ産(さん)のトルコ紅茶(こうちゃ)。トルコのチューリップ形(がた)グラスとイスタンブルのグランドバザールの皿(さら)で提供(ていきょう)。",
+        "Antep fıstıklı fitil lokum：ガズィアンテプ産(さん)のピスタチオを使(つか)ったトルコ菓子(がし)"
+      ],
+      "notes": [
+        {
+          "title": "全般(ぜんぱん)",
+          "description": [
+            "量(りょう)が足(た)りなかったかもしれない。仕上(しあ)がりも十分(じゅうぶん)ではなかった。"
+          ]
+        }
+      ]
+    }
   }
 ]

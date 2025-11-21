@@ -221,7 +221,7 @@ const LearnNorwegian = () => {
                 return aFails < bFails ? 1 : -1;
               })
               .map((word, index) => (
-                <div className="flex gap-1">
+                <div className="flex gap-1" key={index}>
                   <span className="text-xs text-green-800">
                     {Object.entries(stats).find(
                       (s) => s[0] === word.norwegian
@@ -232,10 +232,7 @@ const LearnNorwegian = () => {
                       (s) => s[0] === word.norwegian
                     )?.[1].failure ?? 0}
                   </span>
-                  <span
-                    key={index}
-                    className="text-xs"
-                  >{`${word.norwegian} = ${word.english}`}</span>
+                  <span className="text-xs">{`${word.norwegian} = ${word.english}`}</span>
                 </div>
               ))}
           </div>
