@@ -1879,5 +1879,129 @@
         }
       ]
     }
+  },
+  {
+    "mealNumber": 12,
+    "id": "mealFromAveyron",
+    "countryCode": "occitania",
+    "date": "2025-11-27",
+    "ranking": 9.37,
+    "pictures": [
+      "Filage_de_l_aligot.jpg",
+      "Aveyron_meal_plate.jpg",
+      "Aveyron_meal_table.jpg"
+    ],
+    "en": {
+      "name": "Aligot, rib-eye steak",
+      "country": "Aveyron meal",
+      "idea": [
+        "I just received two parcels from Rodez, including aligot, 2 sausages, 2 dry sausages, some Armagnac, plus my homemade bread which is always great, and 3 Aveyron tapenades that I still haven’t opened. In short, we're heading toward a good French meal, Aveyron-style on top of that.",
+        "For the meat, I’m thinking of making a beef cut with pepper sauce ⇒ Etchebest is always the best.",
+        "For the aperitif I have the bread, the tapenades, and the sausage, maybe a simple vinaigrette salad, always a good match.",
+        "For dessert I have the madeleines."
+      ],
+      "menu": [
+        "Fresh homemade baguettes",
+        "3 tapenades: peas & wasabi, peas & black garlic, and peppers & paprika",
+        "Aveyron dry sausage",
+        "Red wine: Pinot noir",
+        "Aligot from Aubrac",
+        "Rib-eye steak with pepper sauce deglazed with Armagnac",
+        "Madeleines for dessert"
+      ],
+      "notes": [
+        {
+          "title": "General",
+          "description": [
+            "Very little preparation because the aligot is ready in 5 minutes, and the meat in less than 10 minutes",
+            "Always tricky to prepare the meat and the side dish so they’re ready at the same time"
+          ]
+        }
+      ]
+    },
+    "fr": {
+      "name": "Aligot, entrecôte",
+      "country": "Repas Aveyronnais",
+      "idea": [
+        "Je viens de recevoir les deux colis de Rodez, avec entre autre, un aligot, 2 saucisses, 2 saucissons, de l’Armagnac, en plus de ça j’ai mon pain maison toujours au top, et 3 tapenades Aveyronnaises, que j’ai toujours pas ouvertes. Bref, on va vers un bon repas Français et Aveyronnais qui plus est.",
+        "Pour la viande je pense faire une pièce de bœuf et sauce poivre => Etchebest is always the best.",
+        "En apéro j’ai donc le pain, les tapenades, et la saucisse, peut-être éventuellement une salade vinaigrette, ça passe toujours très bien.",
+        "Dessert j’ai les madeleines."
+      ],
+      "menu": [
+        "Baguettes maison fraîches",
+        "3 tapenades : pois et wasabi, pois et ail noir, et poivrons paprika",
+        "Saucisse sèche d’Aveyron",
+        "Vin rouge : Pinot noir",
+        "Aligot de l’Aubrac",
+        "Entrecôte et sauce poivre déglacer à l’Armagnac",
+        "Madeleines en dessert"
+      ],
+      "notes": [
+        {
+          "title": "Général",
+          "description": [
+            "Peu de préparations car l’aligot est prêt en 5 minutes, et la viande, moins de 10 minutes",
+            "Toujours délicat de préparer la viande et l’accompagnement pour que ce soit prêt en même temps"
+          ]
+        }
+      ]
+    },
+    "it": {
+      "name": "Aligot, entrecôte",
+      "country": "Pasto dell’Aveyron",
+      "idea": [
+        "Ho appena ricevuto due pacchi da Rodez, con tra le altre cose un aligot, 2 salsicce, 2 salumi secchi, dell’Armagnac, e in più il mio pane fatto in casa che è sempre ottimo, e 3 tapenade dell’Aveyron che non ho ancora aperto. Insomma, stiamo andando verso un buon pasto francese, in stile Aveyron in particolare.",
+        "Per la carne penso di preparare un pezzo di manzo con salsa al pepe ⇒ Etchebest è sempre il migliore.",
+        "Per l’aperitivo ho quindi il pane, le tapenade e la salsiccia; forse anche un’insalata con vinaigrette, va sempre benissimo.",
+        "Per dessert ho le madeleine."
+      ],
+      "menu": [
+        "Baguette fresche fatte in casa",
+        "3 tapenade: piselli e wasabi, piselli e aglio nero, e peperoni e paprika",
+        "Salsiccia secca dell’Aveyron",
+        "Vino rosso: Pinot nero",
+        "Aligot dell’Aubrac",
+        "Entrecôte con salsa al pepe sfumata all’Armagnac",
+        "Madeleine come dessert"
+      ],
+      "notes": [
+        {
+          "title": "Generale",
+          "description": [
+            "Poche preparazioni perché l’aligot è pronto in 5 minuti e la carne in meno di 10 minuti",
+            "È sempre delicato preparare la carne e il contorno affinché siano pronti nello stesso momento"
+          ]
+        }
+      ]
+    },
+    "ja": {
+      "name": "アリゴ, サーロインステーキ",
+      "country": "アヴェロン地方(ちほう)の料理(りょうり)",
+      "idea": [
+        "ロデズから小包(こづつみ)が二(ふた)つ届(とど)きました。アリゴ、ソーセージ2本(にほん)、サラミ2本(にほん)、アルマニャック、そしていつも通(つう)り上手(じょうず)に焼(や)けた自家製(じかせい)パン、まだ開(あ)けていないアヴェロンのタプナード3種(しゅ)。つまり、フランス料理(りょうり)、特(とく)にアヴェロンらしい食事(しょくじ)になりそうです。",
+        "肉(にく)は牛肉(ぎゅうにく)のステーキと胡椒(こしょう)ソースで作(つく)るつもりです ⇒ エチェベストはやはり最高(さいこう)です。",
+        "前菜(ぜんさい)にはパン、タプナード、ソーセージ、そして必要(ひつよう)ならサラダのビネグレット和(あ)え。相性(あいしょう)はいつも良(よ)いです。",
+        "デザートにはマドレーヌがあります。"
+      ],
+      "menu": [
+        "焼(や)き立(た)ての自家製(じかせい)バゲット",
+        "タプナード3種(しゅ)：豆(まめ)とわさび、豆(まめ)と黒(くろ)にんにく、パプリカ入りピーマン",
+        "アヴェロン産(さん)の乾燥(かんそう)ソーセージ",
+        "赤(あか)ワイン：ピノ・ノワール",
+        "オーブラック地方(ちほう)のアリゴ",
+        "サーロインステーキとアルマニャックでデグラッセした胡椒(こしょう)ソース",
+        "デザートにマドレーヌ"
+      ],
+      "notes": [
+        {
+          "title": "全般(ぜんぱん)",
+          "description": [
+            "アリゴは5分(ふん)で準備(じゅんび)でき、肉(にく)も10分(ぷん)以内(いない)で焼(や)けるため、準備(じゅんび)は少(すく)ないです。",
+            "肉(にく)と付(つ)け合(あ)わせを同時(どうじ)に仕上(しあ)げるのはいつも難(むずか)しいです。"
+          ]
+        }
+      ]
+    }
   }
 ]
