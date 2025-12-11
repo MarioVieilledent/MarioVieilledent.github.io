@@ -1940,7 +1940,7 @@
   {
     "category": "dips",
     "id": "hummus",
-    "pictures": ["hummus.jpg"],
+    "pictures": ["hummus_1.jpg", "hummus_2.jpg"],
     "en": {
       "name": "Hummus",
       "notes": "Without a blender, the texture isn’t creamy but still satisfying, with the addition of ice-cold water for a lighter color. More inspiration here: https://www.youtube.com/watch?v=NbXC0B83S7k",
