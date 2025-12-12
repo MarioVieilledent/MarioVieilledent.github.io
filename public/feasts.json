@@ -2003,5 +2003,228 @@
         }
       ]
     }
+  },
+  {
+    "mealNumber": 13,
+    "id": "christmasMeal",
+    "countryCode": "eu",
+    "date": "2025-12-11",
+    "ranking": 10,
+    "pictures": [
+      "Christmas_meal_table.jpg",
+      "Christmas_meal_plate.jpg",
+      "Christmas_meal_cook.jpg",
+      "Christmas_meal_dessert.jpg"
+    ],
+    "en": {
+      "name": "Champagne, smoked salmon, mushroom risotto, duck breast and Italian dessert",
+      "country": "Christmas meal",
+      "idea": [
+        "Last but not least, fast but still a feast.",
+        "Christmas menu, because it's December and I'm running out of country ideas.",
+        "My Norwegian roommate helped me buy the ingredients at Meny, Vinmonopolet and the Christmas market."
+      ],
+      "menu": [
+        "Champagne apéritif (Crémant de Bordeaux)",
+        "Homemade pretzels by the girls",
+        "Lemon-dill butter",
+        "Smoked salmon from the Christmas market",
+        "Mushroom risotto",
+        "Duck breast",
+        "Pandolce genovese, Italian dessert"
+      ],
+      "notes": [
+        {
+          "title": "General",
+          "description": [
+            "It was without a doubt my best meal, the finest and tastiest. Every dish was a success."
+          ]
+        }
+      ]
+    },
+    "fr": {
+      "name": "Champagne, saumon fumée, risotto champignons, magret de canard et dessert italien",
+      "country": "Repas de Noël",
+      "idea": [
+        "Last but not least, fast but yet feast.",
+        "Menu de noël, car c'est décembre et je suis à court d'idée de pays.",
+        "Mon coloc Norvégien m'a aidé à acheter les ingrédients à Meny, Vinmonopolet et au marché de Noël."
+      ],
+      "menu": [
+        "Apéro champagne (Crémant de Bordeaux)",
+        "Brezel fait maison par les filles",
+        "Beurre citronné à l'aneth",
+        "Saumon fumé du marché de Noël",
+        "Risotto aux champignons",
+        "Magret de canard",
+        "Pandolce genovese, dessert italien"
+      ],
+      "notes": [
+        {
+          "title": "General",
+          "description": [
+            "C'était sans aucun doute mon meilleur repas, le plus fin et le plus savoureux. Chaque plat était une réussite."
+          ]
+        }
+      ]
+    },
+    "it": {
+      "name": "Champagne, salmone affumicato, risotto ai funghi, petto d'anatra e dessert italiano",
+      "country": "Pasto di Natale",
+      "idea": [
+        "Last but not least, veloce ma comunque festoso.",
+        "Menu di Natale, perché è dicembre e non ho più idee di paesi.",
+        "Il mio coinquilino norvegese mi ha aiutato a comprare gli ingredienti da Meny, Vinmonopolet e al mercato di Natale."
+      ],
+      "menu": [
+        "Aperitivo con champagne (Crémant de Bordeaux)",
+        "Brezel fatti in casa dalle ragazze",
+        "Burro al limone e aneto",
+        "Salmone affumicato del mercato di Natale",
+        "Risotto ai funghi",
+        "Petto d’anatra",
+        "Pandolce genovese, dessert italiano"
+      ],
+      "notes": [
+        {
+          "title": "Generale",
+          "description": [
+            "È stato senza dubbio il mio miglior pasto, il più fine e il più saporito. Ogni piatto è stato un successo."
+          ]
+        }
+      ]
+    },
+    "es": {
+      "name": "Champán, salmón ahumado, risotto de champiñones, magret de pato y postre italiano",
+      "country": "Comida de Navidad",
+      "idea": [
+        "Last but not least, rápido pero igualmente festivo.",
+        "Menú de Navidad, porque es diciembre y ya no tengo ideas de países.",
+        "Mi compañero de piso noruego me ayudó a comprar los ingredientes en Meny, Vinmonopolet y en el mercado navideño."
+      ],
+      "menu": [
+        "Aperitivo con champán (Crémant de Bordeaux)",
+        "Brezel caseros hechos por las chicas",
+        "Mantequilla de limón y eneldo",
+        "Salmón ahumado del mercado navideño",
+        "Risotto de champiñones",
+        "Magret de pato",
+        "Pandolce genovese, postre italiano"
+      ],
+      "notes": [
+        {
+          "title": "General",
+          "description": [
+            "Sin duda fue mi mejor comida, la más fina y sabrosa. Cada plato fue un éxito."
+          ]
+        }
+      ]
+    },
+
+    "nb": {
+      "name": "Champagne, røkt laks, sopprisotto, andebryst og italiensk dessert",
+      "country": "Julemåltid",
+      "idea": [
+        "Last but not least, raskt men likevel et festmåltid.",
+        "Julemeny, fordi det er desember og jeg er tom for idéer til land.",
+        "Min norske samboer hjalp meg med å kjøpe ingrediensene på Meny, Vinmonopolet og julemarkedet."
+      ],
+      "menu": [
+        "Champagne-aperitiff (Crémant de Bordeaux)",
+        "Hjemmelagde pretzels laget av jentene",
+        "Sitron- og dillsmør",
+        "Røkt laks fra julemarkedet",
+        "Sopprisotto",
+        "Andebryst",
+        "Pandolce genovese, italiensk dessert"
+      ],
+      "notes": [
+        {
+          "title": "Generelt",
+          "description": [
+            "Det var uten tvil mitt beste måltid, det mest raffinerte og smakfulle. Hver rett var en suksess."
+          ]
+        }
+      ]
+    },
+    "tr": {
+      "name": "Şampanya, füme somon, mantarlı risotto, ördek göğsü ve İtalyan tatlısı",
+      "country": "Noel Yemeği",
+      "idea": [
+        "Last but not least, hızlı ama yine de şölen gibi.",
+        "Aralık ayı olduğu ve artık ülke fikrim kalmadığı için Noel menüsü.",
+        "Norveçli ev arkadaşım Meny, Vinmonopolet ve Noel pazarında malzemeleri almama yardım etti."
+      ],
+      "menu": [
+        "Şampanya aperatifi (Crémant de Bordeaux)",
+        "Kızlar tarafından yapılmış ev yapımı brezeller",
+        "Limonlu dereotlu tereyağı",
+        "Noel pazarından alınmış füme somon",
+        "Mantarlı risotto",
+        "Ördek göğsü",
+        "Pandolce genovese, İtalyan tatlısı"
+      ],
+      "notes": [
+        {
+          "title": "Genel",
+          "description": [
+            "Şüphesiz en iyi, en zarif ve en lezzetli yemeğimdi. Her bir yemek tam bir başarıydı."
+          ]
+        }
+      ]
+    },
+    "ja": {
+      "name": "シャンパン、スモークサーモン、きのこリゾット、鴨の胸肉、イタリアンデザート",
+      "country": "クリスマスの食事",
+      "idea": [
+        "Last but not least、手早くでも豪華なごちそう。",
+        "クリスマスメニュー、12月なので国のアイデアが尽きたから。",
+        "ノルウェー人のルームメイトが、Meny、Vinmonopolet、クリスマスマーケットで材料を買うのを手伝ってくれた。"
+      ],
+      "menu": [
+        "シャンパンアペリティフ（クレマン・ド・ボルドー）",
+        "女の子たちの手作りプレッツェル",
+        "レモンディルバター",
+        "クリスマスマーケットのスモークサーモン",
+        "きのこリゾット",
+        "鴨の胸肉",
+        "ジェノヴァ風パンドルチェ、イタリアンデザート"
+      ],
+      "notes": [
+        {
+          "title": "全般",
+          "description": [
+            "間違いなく私の最高の食事で、最も洗練され、最も美味しかった。すべての料理が成功だった。"
+          ]
+        }
+      ]
+    },
+
+    "zh": {
+      "name": "香槟、烟熏三文鱼、蘑菇烩饭、鸭胸肉和意大利甜点",
+      "country": "圣诞餐",
+      "idea": [
+        "Last but not least，快速但依然丰盛的盛宴。",
+        "圣诞菜单，因为现在是十二月，我已经没有其他国家的灵感了。",
+        "我的挪威室友帮我在Meny、Vinmonopolet和圣诞集市购买食材。"
+      ],
+      "menu": [
+        "香槟开胃酒（波尔多起泡酒）",
+        "女孩们自制的椒盐卷饼",
+        "柠檬莳萝黄油",
+        "圣诞集市的烟熏三文鱼",
+        "蘑菇烩饭",
+        "鸭胸肉",
+        "热那亚潘多尔切，意大利甜点"
+      ],
+      "notes": [
+        {
+          "title": "总体",
+          "description": [
+            "毫无疑问，这是我吃过的最棒的一顿饭，既精致又美味。每一道菜都非常成功。"
+          ]
+        }
+      ]
+    }
   }
 ]
