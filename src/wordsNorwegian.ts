@@ -1608,4 +1608,9 @@ export const wordsNorwegian: WordNorwegian[] = [
     english: "moon jellyfish",
     partOfSpeech: "noun",
   },
+  {
+    norwegian: "I løpet av noe",
+    english: "during something",
+    partOfSpeech: "expression",
+  },
 ];
