@@ -8,6 +8,7 @@ export type LanguagesAvailable =
   | "es" // Spanish
   | "nb" // Norwegian
   | "tr" // Turkish
+  | "el" // Greek
   | "ja" // Japanese
   | "zh"; // Chinese
 
@@ -81,15 +82,21 @@ export const languages: {
     index: 5,
   },
   {
+    code: "el",
+    countryCode: "gr",
+    name: "Ελληνικά",
+    index: 6,
+  },
+  {
     code: "ja",
     countryCode: "jp",
     name: "日本語",
-    index: 6,
+    index: 7,
   },
   {
     code: "zh",
     countryCode: "cn",
     name: "中文",
-    index: 7,
+    index: 8,
   },
 ];
