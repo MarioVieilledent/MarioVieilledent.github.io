@@ -691,6 +691,27 @@
         "250 °C sabit ısıda 25 dakika pişirin."
       ]
     },
+    "el": {
+      "name": "Μπαγκέτα",
+      "notes": "Απίστευτα απλή, πραγματικά οικονομική και πολύ γρήγορη σε χρόνο εργασίας. Η ζύμη χρειάζεται περίπου δέκα ώρες ξεκούρασης, οπότε ιδανικά την ετοιμάζετε από την προηγούμενη μέρα για να απολαύσετε φρέσκο και νόστιμο ψωμί το πρωί. Τα τέσσερα υλικά αντιπροσωπεύουν τα τέσσερα στοιχεία: το αλεύρι τη γη, το νερό, η μαγιά τον αέρα και το αλάτι τη φωτιά. Αυθεντική συνταγή με την τεχνική του ξύλινου κουταλιού: https://www.youtube.com/watch?v=Z-husjZkxHw",
+      "ingredients": [
+        "600 g αλεύρι (200 g ανά μπαγκέτα)",
+        "480 ml νερό (80% του βάρους του αλευριού)",
+        "2 g ξηρή μαγιά",
+        "2 κ.γ. αλάτι"
+      ],
+      "instructions": [
+        "Βάλτε όλα τα υλικά σε ένα μεγάλο μπολ.",
+        "Ανακατέψτε για περίπου 1 λεπτό με το χερούλι ενός μεγάλου ξύλινου κουταλιού, μέχρι η ζύμη να σχηματίσει μια μπάλα.",
+        "Συμβουλή: αφαιρέστε τη ζύμη που κολλάει στο κουτάλι με την άκρη ενός μικρού κουταλιού (δείτε το βίντεο).",
+        "Σκεπάστε και αφήστε να ξεκουραστεί για 8–12 ώρες σε θερμοκρασία δωματίου.",
+        "Αλευρώστε γενναιόδωρα ένα φύλλο αντικολλητικού χαρτιού πάνω σε ταψί. Η ζύμη, λόγω της υψηλής ενυδάτωσης, είναι πολύ κολλώδης και χρειάζεται αρκετό αλεύρι για να μην κολλήσει.",
+        "Αλευρώστε τη ζύμη και μεταφέρετέ την προσεκτικά πάνω στο χαρτί (μια ξύστρα ζύμης είναι ιδανική).",
+        "Χωρίστε τη ζύμη σε τρία κομμάτια χωρίς να την πιέσετε, ώστε να διατηρηθεί ο αέρας στο εσωτερικό.",
+        "Σχηματίστε τρεις μπαγκέτες τεντώνοντας κάθε κομμάτι με τα χέρια σε μία κίνηση.",
+        "Ψήστε για 25 λεπτά στους 250 °C με στατικό φούρνο."
+      ]
+    },
     "ja": {
       "name": "バゲット（バゲット）",
       "notes": "信じられないほど簡単で、とても経済的、そして作業時間も短いです。生地は約10時間の休ませ時間が必要なので、前日に準備しておくと、翌朝に新鮮でおいしいパンを楽しめます。4つの材料は4つの元素を表します：小麦粉は土、水、酵母（こうぼ）は空気、塩（しお）は火です。木製スプーンを使ったオリジナルレシピはこちら：https://www.youtube.com/watch?v=Z-husjZkxHw",
@@ -1978,7 +1999,7 @@
         "Mash the chickpeas (quick and effective with a potato masher, longer with a fork).",
         "First mix tahini and lemon (emulsion), then add the chickpeas, finally incorporate the other ingredients.",
         "Storage: keep refrigerated; flavor improves after 3 days. Keeps up to 1 week.",
-        "Serving: make a well, add a few chickpeas, drizzle olive oil, sprinkle with paprika or sumac (mix with a fork)."
+        "Serving: make a well, add a few chickpeas, drizzle olive oil, sprinkle with paprika or sumac."
       ]
     },
     "fr": {
@@ -1999,7 +2020,7 @@
         "Écraser les pois chiches (rapide et efficace avec un presse-purée, plus long à la fourchette).",
         "Mélanger d’abord le tahini et le citron (émulsion), puis ajouter les pois chiches, enfin incorporer les autres ingrédients.",
         "Conservation : au frais, le goût s'améliore après 3 jours. Se conserve jusqu'à 1 semaine.",
-        "Service : creuser un puits, ajouter quelques pois chiches, un filet d'huile d'olive, saupoudrer de paprika ou de sumac (effets à la fourchette)."
+        "Service : creuser un puits, ajouter quelques pois chiches, un filet d'huile d'olive, saupoudrer de paprika ou de sumac."
       ]
     },
     "it": {
@@ -2020,7 +2041,7 @@
         "Schiaccia i ceci (veloce ed efficace con uno schiacciapatate, più lungo con la forchetta).",
         "Mescola prima tahina e limone (emulsione), poi aggiungi i ceci, infine incorpora gli altri ingredienti.",
         "Conservazione: in frigorifero; il sapore migliora dopo 3 giorni. Si conserva fino a 1 settimana.",
-        "Servizio: crea un pozzo, aggiungi qualche cece, un filo d’olio d’oliva, spolvera con paprika o sumac (mescola con la forchetta)."
+        "Servizio: crea un pozzo, aggiungi qualche cece, un filo d’olio d’oliva, spolvera con paprika o sumac."
       ]
     },
     "es": {
@@ -2041,7 +2062,7 @@
         "Tritura los garbanzos (rápido y eficaz con un machacador, más largo con un tenedor).",
         "Primero mezcla tahini y limón (emulsión), luego agrega los garbanzos, finalmente incorpora los demás ingredientes.",
         "Conservación: mantener refrigerado; el sabor mejora después de 3 días. Se conserva hasta 1 semana.",
-        "Para servir: haz un hueco, añade algunos garbanzos, un chorrito de aceite de oliva, espolvorea con pimentón o sumac (mezclar con tenedor)."
+        "Para servir: haz un hueco, añade algunos garbanzos, un chorrito de aceite de oliva, espolvorea con pimentón o sumac."
       ]
     },
     "nb": {
@@ -2062,7 +2083,7 @@
         "Mos kikertene (raskt og effektivt med en potetmoser, lengre med gaffel).",
         "Bland først tahini og sitron (emulsjon), tilsett deretter kikertene, og til slutt de andre ingrediensene.",
         "Oppbevaring: i kjøleskap; smaken blir bedre etter 3 dager. Holder seg opptil 1 uke.",
-        "Servering: lag en grop, legg i noen kikerter, drypp over olivenolje, dryss paprika eller sumac (rør med gaffel)."
+        "Servering: lag en grop, legg i noen kikerter, drypp over olivenolje, dryss paprika eller sumac."
       ]
     },
     "tr": {
@@ -2083,7 +2104,28 @@
         "Nohutları ezin (patates ezici ile hızlı ve etkili, çatal ile daha uzun sürer).",
         "Önce tahin ve limonu karıştırın (emülsiyon), sonra nohutları ekleyin, son olarak diğer malzemeleri katın.",
         "Saklama: buzdolabında; 3 gün sonra lezzet artar. 1 haftaya kadar dayanır.",
-        "Servis: bir çukur açın, birkaç nohut ekleyin, zeytinyağı gezdirin, üzerine paprika veya sumak serpin (çatal ile karıştırın)."
+        "Servis: bir çukur açın, birkaç nohut ekleyin, zeytinyağı gezdirin, üzerine paprika veya sumak serpin."
+      ]
+    },
+    "el": {
+      "name": "Χούμους",
+      "notes": "Χωρίς μπλέντερ, η υφή δεν είναι κρεμώδης αλλά παραμένει απολαυστική, με την προσθήκη παγωμένου νερού για πιο ανοιχτό χρώμα. Περισσότερη έμπνευση εδώ: https://www.youtube.com/watch?v=NbXC0B83S7k",
+      "ingredients": [
+        "250 g μαγειρεμένα και στραγγισμένα ρεβίθια",
+        "15 έως 30 g ταχίνι (≈ 1 έως 2 κ.σ.)",
+        "Χυμός από μισό λεμόνι (30 mL ≈ 2 κ.σ.)",
+        "1 έως 2 σκελίδες σκόρδο, ψιλοκομμένες",
+        "Αλάτι",
+        "Κύμινο (προαιρετικό)",
+        "3 έως 6 κ.σ. παγωμένο νερό",
+        "2 κ.σ. ελαιόλαδο (+ επιπλέον για το σερβίρισμα)"
+      ],
+      "instructions": [
+        "Αν χρησιμοποιείτε ξερά ρεβίθια (καλύτερη γεύση): μουλιάστε τα για 12 ώρες σε κρύο νερό και στη συνέχεια βράστε τα για 2 ώρες.",
+        "Λιώστε τα ρεβίθια (γρήγορα και αποτελεσματικά με πολτοποιητή πατάτας, πιο αργά με πιρούνι).",
+        "Ανακατέψτε πρώτα το ταχίνι με το λεμόνι (γαλακτωματοποίηση), έπειτα προσθέστε τα ρεβίθια και τέλος ενσωματώστε τα υπόλοιπα υλικά.",
+        "Συντήρηση: διατηρείται στο ψυγείο· η γεύση βελτιώνεται μετά από 3 ημέρες. Διατηρείται έως 1 εβδομάδα.",
+        "Σερβίρισμα: ανοίξτε ένα μικρό «πηγάδι», προσθέστε λίγα ρεβίθια, περιχύστε με ελαιόλαδο και πασπαλίστε με πάπρικα ή σουμάκ."
       ]
     },
     "ja": {
@@ -2104,7 +2146,7 @@
         "ひよこ豆を潰す（マッシャーで素早く、フォークだと時間がかかる）。",
         "まずタヒニとレモンを混ぜて乳化させ、次にひよこ豆を加え、最後に他の材料を混ぜる。",
         "保存：冷蔵で、3日後に味が向上する。1週間保存可能。",
-        "サーブ：くぼみを作り、ひよこ豆を少し入れ、オリーブオイルをかけ、パプリカやスーマックを振りかける（フォークで混ぜる）。"
+        "サーブ：くぼみを作り、ひよこ豆を少し入れ、オリーブオイルをかけ、パプリカやスーマックを振りかける。"
       ]
     },
     "zh": {
@@ -2125,7 +2167,7 @@
         "捣碎鹰嘴豆（用土豆压泥器快速有效，用叉子较慢）。",
         "先混合芝麻酱和柠檬汁（乳化），然后加入鹰嘴豆，最后加入其他食材。",
         "保存：冷藏；3天后味道更好。可保存至1周。",
-        "食用：挖一个小坑，放入一些鹰嘴豆，淋上橄榄油，撒上辣椒粉或苏马克（用叉子拌匀）。"
+        "食用：挖一个小坑，放入一些鹰嘴豆，淋上橄榄油，撒上辣椒粉或苏马克。"
       ]
     }
   },
