@@ -1613,4 +1613,14 @@ export const wordsNorwegian: WordNorwegian[] = [
     english: "during something",
     partOfSpeech: "expression",
   },
+  {
+    norwegian: "Frosne",
+    english: "frozen",
+    partOfSpeech: "adjective",
+  },
+  {
+    norwegian: "Å fryse",
+    english: "to freeze",
+    partOfSpeech: "verb",
+  },
 ];
