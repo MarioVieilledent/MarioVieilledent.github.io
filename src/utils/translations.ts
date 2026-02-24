@@ -670,4 +670,15 @@ export const translations = {
     "エクスポート",
     "导出",
   ],
+  picturesOfMyDishes: [
+    "Pictures of my dishes",
+    "Photos de mes plats",
+    "Foto dei miei piatti",
+    "Fotos de mis platos",
+    "Bilder av rettene mine",
+    "Yemeklerimin fotoğrafları",
+    "Φωτογραφίες των πιάτων μου",
+    "自分の料理の写真",
+    "我的菜肴照片",
+  ],
 };
