@@ -7,7 +7,6 @@ export const sources: Source[] = [
     type: "general",
     description:
       "Standard OSM map with a balance of roads, land-use, and points of interest. Suitable for general navigation and background use.",
-    defaultBaseMap: true,
   },
   {
     name: "Sherpa",
@@ -115,6 +114,7 @@ export const sources: Source[] = [
     type: "custom",
     description:
       "Overlay showing global population density for 2020. Useful for demographic analysis and visualizing population clusters.",
+    defaultSelectedLayers: true,
   },
   {
     name: "FlightConnections",
@@ -323,6 +323,7 @@ export const sources: Source[] = [
     url: "https://tiles-s.windy.com/tiles/v10.0/darkmap/{z}/{x}/{y}.png",
     type: "overlay",
     description: "Shadow borders and coasts overlay",
+    defaultSelectedLayers: true,
   },
   /*
   {

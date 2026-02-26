@@ -6,9 +6,9 @@ import OpenLayerMap from "./OpenLayerMap";
 import { LOCAL_STORAGE_LAYERS_KEY } from "../../utils/constants";
 import SearchButton from "./SearchButton";
 
-const DEFAULT_LAYERS: string[] = [
-  sources.find((s) => s.defaultBaseMap)?.name ?? sources[0].name,
-];
+const DEFAULT_LAYERS: string[] = sources
+  .filter((s) => s.defaultSelectedLayers)
+  .map((s) => s.name);
 
 const getInitialLayers = (): string[] => {
   try {
@@ -38,7 +38,7 @@ const MapLayer = () => {
   const flyTo = useCallback(
     (lon: number, lat: number, zoom?: number) =>
       triggers.current?.triggerFlyTo(lon, lat, zoom),
-    []
+    [],
   );
 
   return (

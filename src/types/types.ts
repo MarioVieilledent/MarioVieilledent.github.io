@@ -20,5 +20,5 @@ export interface Source {
   url: string;
   type: string;
   description: string;
-  defaultBaseMap?: boolean;
+  defaultSelectedLayers?: boolean;
 }
