@@ -34,22 +34,22 @@ const RecipesHome = ({ feasts, recipes }: RecipesHomeProps) => {
     <>
       <div
         className={
-          isMobile ? "p-4 text-md text-gray-700" : " text-md text-gray-700"
+          isMobile ? "flex flex-col gap-2 px-4 pt-4" : "flex flex-col gap-2"
         }
       >
-        {t("recipesPageDescription")}
+        <div>{t("recipesPageDescription1")}</div>
+        <div>{t("recipesPageDescription3")}</div>
+        <div>{t("recipesPageDescription2")}</div>
       </div>
       {recipes.length > 0 && (
         <div
           className={
-            isMobile ? "flex flex-col gap-4 pl-4" : "flex flex-col gap-4"
+            isMobile ? "flex flex-col gap-4 px-4" : "flex flex-col gap-4"
           }
         >
-          <div className="text-xl pt-4">{t("statistics")}</div>
+          <div className="text-xl">{t("statistics")}</div>
           <div className="flex flex-col">
-            <div className="text-sm">{`${t("recipesNumber")} ${
-              recipes.length - recipeWithCheese
-            }`}</div>
+            <div className="text-sm">{`${t("recipesNumber")} ${recipes.length}`}</div>
             <div className="text-sm">{`${t("recipesWithCheese")} ${recipeWithCheese}`}</div>
           </div>
 
@@ -88,7 +88,7 @@ const RecipesHome = ({ feasts, recipes }: RecipesHomeProps) => {
       )}
       {randomRecipe && (
         <>
-          <div className={isMobile ? "text-xl pt-4 pl-4" : "text-xl pt-4"}>
+          <div className={isMobile ? "text-xl pt-4 px-4" : "text-xl pt-4"}>
             {t("randomRecipe")}
           </div>
           <RecipeCard recipe={randomRecipe} />
@@ -96,7 +96,7 @@ const RecipesHome = ({ feasts, recipes }: RecipesHomeProps) => {
       )}
       {lastFeast && (
         <>
-          <div className={isMobile ? "text-xl pt-4 pl-4" : "text-xl pt-4"}>
+          <div className={isMobile ? "text-xl pt-4 px-4" : "text-xl pt-4"}>
             {t("lastFeast")}
           </div>
           <FeastCard feast={lastFeast} />
