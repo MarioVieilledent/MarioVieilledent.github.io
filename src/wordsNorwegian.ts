@@ -1623,4 +1623,9 @@ export const wordsNorwegian: WordNorwegian[] = [
     english: "to freeze",
     partOfSpeech: "verb",
   },
+  {
+    norwegian: "Å bidra til noe",
+    english: "to contribute to something",
+    partOfSpeech: "expression",
+  },
 ];
