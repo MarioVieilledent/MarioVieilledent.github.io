@@ -753,6 +753,27 @@
         "用手轻轻拉成长条形，做成三根法棍。",
         "以250 °C静态加热烘烤25分钟。"
       ]
+    },
+    "sl": {
+      "name": "Bageta",
+      "notes": "Izjemno preprosto, resnično varčno in z zelo malo aktivnega dela. Testo potrebuje približno deset ur počitka, zato ga je idealno pripraviti dan prej, da zjutraj uživate v svežem in okusnem kruhu. Širi sestavine predstavljajo štiri elemente: moka za zemljo, voda, kvas za zrak in sol za ogenj. Izvirni recept s tehniko lesene kuhalnice: https://www.youtube.com/watch?v=Z-husjZkxHw",
+      "ingredients": [
+        "600 g moke (200 g na bageto)",
+        "480 ml vode (80 % teže moke)",
+        "2 g suhega kvasa",
+        "2 čajni žlički soli"
+      ],
+      "instructions": [
+        "Vse sestavine dajte v veliko posodo.",
+        "Mešajte približno 1 minuto z ročajem velike lesene kuhalnice, dokler testo ne oblikuje kepe.",
+        "Nasvet: testo, ki se drži kuhalnice, postrgajte z robom majhne žličke (glejte video).",
+        "Pokrijte in pustite počivati 8–12 ur na sobni temperaturi.",
+        "Bogato pomokajte list papirja za peko, ki ste ga položili na pekač. Ker je testo zelo hidrirano in lepljivo, potrebuje veliko moke, da se ne prime.",
+        "Pomokajte testo in ga previdno prestavite na papir za peko (strgalo za testo se odlično obnese).",
+        "Testo razdelite na tri dele brez pritiskanja, da v njem ohranite zrak.",
+        "Oblikujte tri bagete tako, da vsak del z roko raztegnete v eni potezi.",
+        "Pecite 25 minut na 250 °C s statično toploto."
+      ]
     }
   },
   {
@@ -1974,6 +1995,25 @@
         "加入剩余的牛奶，几秒钟内完成混合。",
         "静置至少 2 小时。",
         "烹饪：使用不粘锅，大火甚至最大火，加一勺面糊，倾斜并摇动锅子让面糊摊开均匀。"
+      ]
+    },
+    "sl": {
+      "name": "Palačinke",
+      "notes": "Gladka masa brez grudic, mešalnik ni potreben, hitra priprava. Nasvet: uravnotežite suho in tekočo osnovo v enakih količinah: https://www.youtube.com/watch?v=p-XOehv3j20",
+      "ingredients": [
+        "250 g moke",
+        "500 ml mleka",
+        "3 jajca",
+        "30 g masla / 30 ml nevtralnega olja",
+        "Sladkor za barvo (neobvezno)",
+        "Ščepec soli"
+      ],
+      "instructions": [
+        "V posodo dajte vse sestavine, vendar sprva le 1/3 mleka.",
+        "Močno stepite – v 30 sekundah boste dobili gosto maso brez grudic.",
+        "Dodajte preostanek mleka in končajte z mešanjem v nekaj sekundah.",
+        "Pustite počivati vsaj 2 uri.",
+        "Pečenje: uporabite ponev s premazom proti prijemanju na močnem ali celo najmočnejšem ognju; vlijte zajemalko mase, nagnite in stresite ponev, da se masa enakomerno porazdeli."
       ]
     }
   },
