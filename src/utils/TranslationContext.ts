@@ -10,7 +10,8 @@ export type LanguagesAvailable =
   | "tr" // Turkish
   | "el" // Greek
   | "ja" // Japanese
-  | "zh"; // Chinese
+  | "zh" // Chinese
+  | "sl"; // Slovenian
 
 export type TermKeys = keyof typeof translations;
 
@@ -98,5 +99,11 @@ export const languages: {
     countryCode: "cn",
     name: "中文",
     index: 8,
+  },
+  {
+    code: "sl",
+    countryCode: "si",
+    name: "Slovenščina",
+    index: 9,
   },
 ];

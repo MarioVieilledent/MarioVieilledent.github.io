@@ -44,7 +44,7 @@ const LanguageSelection = () => {
               }`}
             >
               <img
-                className="w-4"
+                className="w-8"
                 src={`/flags/${lang.countryCode}.svg`}
                 alt={`Language icon ${lang.code}`}
               />

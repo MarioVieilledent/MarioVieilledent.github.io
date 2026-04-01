@@ -9,6 +9,7 @@ export const translations = {
     "Ταξιδευτικός Αρουραίος",
     "旅するネズミ",
     "旅行的老鼠",
+    "Potujoča podgana",
   ],
   websiteDescription: [
     "Mario Vieilledent - My personal website: open source maps, dev, recipes and learning Norwegian",
@@ -18,8 +19,9 @@ export const translations = {
     "Mario Vieilledent - Min personlige nettside: åpen kildekode-kart, utvikling, oppskrifter og norsklæring",
     "Mario Vieilledent - Kişisel web sitem: açık kaynak haritalar, yazılım geliştirme, tarifler ve Norveççe öğrenimi",
     "Mario Vieilledent - Η προσωπική μου ιστοσελίδα: χάρτες ανοιχτού κώδικα, προγραμματισμός, συνταγές και εκμάθηση νορβηγικών",
-    "ラットホール",
-    "老鼠洞",
+    "マリオ・ヴィエイユダン - 私の個人ウェブサイト：オープンソースの地図、開発、レシピ、そしてノルウェー語の学習",
+    "Mario Vieilledent - 我的个人网站：开源地图、开发、食谱和挪威语学习",
+    "Mario Vieilledent - Moja osebna spletna stran: odprtokodni zemljevidi, razvoj, recepti in učenje norveščine",
   ],
   language: [
     "Language",
@@ -31,6 +33,7 @@ export const translations = {
     "Γλώσσα",
     "言語",
     "语言",
+    "Jezik",
   ],
   dragAndDropFilesHere: [
     "Drag and drop files here",
@@ -42,6 +45,7 @@ export const translations = {
     "Σύρετε και αποθέστε αρχεία εδώ",
     "ここにファイルをドラッグ＆ドロップ",
     "将文件拖放到此处",
+    "Datoteke povlecite in spustite sem",
   ],
   baseMap: [
     "Base map",
@@ -53,6 +57,7 @@ export const translations = {
     "Βασικός χάρτης",
     "ベースマップ",
     "底图",
+    "Osnovni zemljevid",
   ],
   layers: [
     "Layers",
@@ -64,6 +69,7 @@ export const translations = {
     "Επίπεδα",
     "レイヤー",
     "图层",
+    "Plasti",
   ],
   clearLayers: [
     "Clear layers",
@@ -75,6 +81,7 @@ export const translations = {
     "Εκκαθάριση επιπέδων",
     "レイヤーをクリア",
     "清除图层",
+    "Počisti plasti",
   ],
   general: [
     "General",
@@ -86,6 +93,7 @@ export const translations = {
     "Γενικά",
     "一般",
     "常规",
+    "Splošno",
   ],
   topographic: [
     "Topographic",
@@ -97,6 +105,7 @@ export const translations = {
     "Τοπογραφικός",
     "地形",
     "地形",
+    "Topografsko",
   ],
   imagery: [
     "Satellite imagery",
@@ -108,6 +117,7 @@ export const translations = {
     "Δορυφορική απεικόνιση",
     "衛星画像",
     "影像卫星图像",
+    "Satelitski posnetki",
   ],
   hybrid: [
     "Hybrid",
@@ -119,6 +129,7 @@ export const translations = {
     "Υβριδικός",
     "ハイブリッド",
     "混合",
+    "Hibridno",
   ],
   transport: [
     "Transport",
@@ -130,6 +141,7 @@ export const translations = {
     "Μεταφορές",
     "交通",
     "交通",
+    "Prevoz",
   ],
   other: [
     "Other",
@@ -141,6 +153,7 @@ export const translations = {
     "Άλλα",
     "その他",
     "其他",
+    "Drugo",
   ],
   "2dMercator": [
     "2D Mercator",
@@ -152,6 +165,7 @@ export const translations = {
     "2D Μερκατορικός",
     "2D メルカトル",
     "2D 墨卡托",
+    "2D Mercator",
   ],
   "3dGlobe": [
     "3D Globe",
@@ -163,6 +177,7 @@ export const translations = {
     "3D Υδρόγειος",
     "3D グローブ",
     "3D 地球",
+    "3D globus",
   ],
   sport: [
     "Sport",
@@ -174,6 +189,7 @@ export const translations = {
     "Αθλητισμός",
     "スポーツ",
     "运动",
+    "Šport",
   ],
   train: [
     "Train",
@@ -185,6 +201,7 @@ export const translations = {
     "Τρένο",
     "電車",
     "火车",
+    "Vlak",
   ],
   loading: [
     "Loading",
@@ -196,6 +213,7 @@ export const translations = {
     "Φόρτωση",
     "読み込み中",
     "加载中",
+    "Nalaganje",
   ],
   translateThisWord: [
     "Translate this word",
@@ -207,6 +225,7 @@ export const translations = {
     "Μετάφρασε αυτή τη λέξη",
     "この単語を翻訳",
     "翻译这个词",
+    "Prevedi to besedo",
   ],
   english: [
     "English",
@@ -218,6 +237,7 @@ export const translations = {
     "Αγγλικά",
     "英語",
     "英语",
+    "Angleščina",
   ],
   norwegian: [
     "Norwegian",
@@ -229,6 +249,7 @@ export const translations = {
     "Νορβηγικά",
     "ノルウェー語",
     "挪威语",
+    "Norveščina",
   ],
   learnNorwegian: [
     "Learn Norwegian",
@@ -240,6 +261,7 @@ export const translations = {
     "Μάθε νορβηγικά",
     "ノルウェー語を学ぶ",
     "学习挪威语",
+    "Uči se norveščino",
   ],
   typeYourTranslation: [
     "Type your translation",
@@ -251,6 +273,7 @@ export const translations = {
     "Πληκτρολόγησε τη μετάφρασή σου",
     "翻訳を入力",
     "输入您的翻译",
+    "Vpišite svoj prevod",
   ],
   next: [
     "Next",
@@ -262,6 +285,7 @@ export const translations = {
     "Επόμενο",
     "次へ",
     "下一个",
+    "Naprej",
   ],
   submit: [
     "Submit",
@@ -273,6 +297,7 @@ export const translations = {
     "Υποβολή",
     "送信",
     "提交",
+    "Potrdi",
   ],
   iDontKnow: [
     "I don't know",
@@ -284,6 +309,7 @@ export const translations = {
     "Δεν ξέρω",
     "わかりません",
     "我不知道",
+    "Ne vem",
   ],
   home: [
     "Home",
@@ -295,6 +321,7 @@ export const translations = {
     "Αρχική",
     "ホーム",
     "首页",
+    "Domov",
   ],
   back: [
     "Back",
@@ -306,6 +333,7 @@ export const translations = {
     "Πίσω",
     "戻る",
     "返回",
+    "Nazaj",
   ],
   pageNotFound: [
     "404 - Wrong address :D Nothing here ",
@@ -317,6 +345,7 @@ export const translations = {
     "404 - Λάθος διεύθυνση :D Δεν υπάρχει τίποτα εδώ",
     "404 - ページが見つかりません",
     "404 - 页面未找到",
+    "404 - Napačen naslov :D Tu ni ničesar",
   ],
   words: [
     "words",
@@ -328,6 +357,7 @@ export const translations = {
     "λέξεις",
     "単語数",
     "单词",
+    "besede",
   ],
   success: [
     "correct",
@@ -339,6 +369,7 @@ export const translations = {
     "σωστό",
     "正解",
     "正确",
+    "pravilno",
   ],
   failure: [
     "wrong",
@@ -350,6 +381,7 @@ export const translations = {
     "λάθος",
     "不正解",
     "错误",
+    "napačno",
   ],
   statistics: [
     "Statistics",
@@ -361,6 +393,7 @@ export const translations = {
     "Στατιστικά",
     "統計",
     "统计",
+    "Statistika",
   ],
   listOfWords: [
     "List of words",
@@ -372,6 +405,7 @@ export const translations = {
     "Λίστα λέξεων",
     "単語一覧",
     "单词列表",
+    "Seznam besed",
   ],
   searchHere: [
     "Search a word (en, no)",
@@ -383,6 +417,7 @@ export const translations = {
     "Αναζήτηση λέξης (en, no)",
     "単語を検索（英語・ノルウェー語）",
     "搜索单词（英、挪）",
+    "Išči besedo (en, no)",
   ],
   note: [
     "Note",
@@ -394,6 +429,7 @@ export const translations = {
     "Σημείωση",
     "メモ",
     "备注",
+    "Opomba",
   ],
   recipes: [
     "Recipes",
@@ -405,6 +441,7 @@ export const translations = {
     "Συνταγές",
     "レシピ",
     "菜谱",
+    "Recepti",
   ],
   feasts: [
     "Feasts",
@@ -416,6 +453,7 @@ export const translations = {
     "Γιορτές",
     "ごちそう",
     "盛宴",
+    "Gozbe",
   ],
   starters: [
     "Starters",
@@ -427,6 +465,7 @@ export const translations = {
     "Ορεκτικά",
     "前菜",
     "前菜",
+    "Predjedi",
   ],
   mainCourses: [
     "Main Courses",
@@ -438,6 +477,7 @@ export const translations = {
     "Κυρίως πιάτα",
     "主菜",
     "主菜",
+    "Glavne jedi",
   ],
   desserts: [
     "Desserts",
@@ -449,6 +489,7 @@ export const translations = {
     "Επιδόρπια",
     "デザート",
     "甜点",
+    "Sladice",
   ],
   breads: [
     "Breads",
@@ -460,6 +501,7 @@ export const translations = {
     "Ψωμιά",
     "パン",
     "面包",
+    "Kruhi",
   ],
   dips: [
     "Dips",
@@ -471,8 +513,8 @@ export const translations = {
     "Ντιπ",
     "ディップ",
     "蘸酱",
+    "Pomake",
   ],
-
   recipesPageDescription1: [
     "This page brings together my recipes and the shared meals that I call feasts.",
     "Cette page regroupe mes recettes et les repas partagés que j’appelle festins.",
@@ -483,6 +525,7 @@ export const translations = {
     "Αυτή η σελίδα συγκεντρώνει τις συνταγές μου και τα κοινά γεύματα που αποκαλώ γιορτές.",
     "このページでは、私のレシピと「ごちそう」と呼んでいる共有の食事をまとめています。",
     "此页面汇集了我的食谱以及我称之为盛宴的共享餐食。",
+    "Ta stran združuje moje recepte in skupne obroke, ki jih imenujem gozbe.",
   ],
   recipesPageDescription2: [
     "A cuisine without cheese, and deliberately overloaded with garlic.",
@@ -494,6 +537,7 @@ export const translations = {
     "Μια κουζίνα χωρίς τυρί και σκόπιμα υπερβολικά φορτωμένη με σκόρδο.",
     "チーズなし、そしてあえてニンニクを効かせすぎた料理。",
     "没有奶酪，并且刻意加入过多大蒜的料理。",
+    "Kuhinja brez sira in namenoma preobremenjena s česnom.",
   ],
   recipesPageDescription3: [
     "A great lover of Turkish cuisine 🇹🇷, I consider it to be among the top 5 greatest cuisines in the world.",
@@ -505,6 +549,7 @@ export const translations = {
     "Μεγάλος λάτρης της τουρκικής κουζίνας 🇹🇷, τη θεωρώ μία από τις 5 κορυφαίες κουζίνες στον κόσμο.",
     "トルコ料理 🇹🇷 の大ファンであり、世界で最も偉大な料理トップ5の一つだと考えています。",
     "作为土耳其菜 🇹🇷 的忠实爱好者，我认为它位列世界五大顶级菜系之一。",
+    "Sem velik ljubitelj turške kuhinje 🇹🇷 in menim, da sodi med 5 najboljših kuhinj na svetu.",
   ],
   ingredients: [
     "Ingredients",
@@ -516,6 +561,7 @@ export const translations = {
     "Υλικά",
     "材料",
     "食材",
+    "Sestavine",
   ],
   instructions: [
     "Instructions",
@@ -527,6 +573,7 @@ export const translations = {
     "Οδηγίες",
     "手順",
     "步骤说明",
+    "Navodila",
   ],
   notes: [
     "Notes",
@@ -538,6 +585,7 @@ export const translations = {
     "Σημειώσεις",
     "備考",
     "小贴士",
+    "Opombe",
   ],
   idea: [
     "Idea",
@@ -549,6 +597,7 @@ export const translations = {
     "Ιδέα",
     "アイデア",
     "创意",
+    "Ideja",
   ],
   menu: [
     "Menu",
@@ -560,6 +609,7 @@ export const translations = {
     "Μενού",
     "メニュー",
     "菜单",
+    "Meni",
   ],
   pictures: [
     "Pictures",
@@ -571,6 +621,7 @@ export const translations = {
     "Εικόνες",
     "写真",
     "照片",
+    "Slike",
   ],
   flags: [
     "Flags",
@@ -582,6 +633,7 @@ export const translations = {
     "Σημαίες",
     "旗",
     "旗帜",
+    "Zastave",
   ],
   lastFeast: [
     "Last feast",
@@ -593,6 +645,7 @@ export const translations = {
     "Τελευταία γιορτή",
     "最後の宴",
     "最后的盛宴",
+    "Zadnja gozba",
   ],
   randomRecipe: [
     "Random recipe",
@@ -604,6 +657,7 @@ export const translations = {
     "Τυχαία συνταγή",
     "ランダムレシピ",
     "随机食谱",
+    "Naključni recept",
   ],
   recipesNumber: [
     "Number of recipes:",
@@ -615,6 +669,7 @@ export const translations = {
     "Αριθμός συνταγών:",
     "レシピの数：",
     "食谱数量：",
+    "Število receptov:",
   ],
   recipesWithCheese: [
     "Number of recipes with cheese:",
@@ -626,6 +681,7 @@ export const translations = {
     "Αριθμός συνταγών με τυρί:",
     "チーズを使ったレシピの数：",
     "含奶酪的食谱数量：",
+    "Število receptov s sirom:",
   ],
   search: [
     "Search",
@@ -637,6 +693,7 @@ export const translations = {
     "Αναζήτηση",
     "検索",
     "搜索",
+    "Iskanje",
   ],
   clearFilters: [
     "Clear filters",
@@ -648,6 +705,7 @@ export const translations = {
     "Εκκαθάριση φίλτρων",
     "フィルターをクリア",
     "清除筛选",
+    "Počisti filtre",
   ],
   restultsFound: [
     "results found",
@@ -659,6 +717,7 @@ export const translations = {
     "αποτελέσματα βρέθηκαν",
     "件の結果が見つかりました",
     "个结果",
+    "najdenih rezultatov",
   ],
   allFeastsJSON: [
     "All feasts (JSON)",
@@ -670,6 +729,7 @@ export const translations = {
     "Όλες οι γιορτές (JSON)",
     "すべての祭り(まつり)（JSON）",
     "所有节日 (JSON)",
+    "Vse gozbe (JSON)",
   ],
   allRecipesJSON: [
     "All recipes (JSON)",
@@ -681,6 +741,7 @@ export const translations = {
     "Όλες οι συνταγές (JSON)",
     "すべての料理(りょうり)（JSON）",
     "所有食谱 (JSON)",
+    "Vsi recepti (JSON)",
   ],
   export: [
     "Export",
@@ -692,6 +753,7 @@ export const translations = {
     "Εξαγωγή",
     "エクスポート",
     "导出",
+    "Izvozi",
   ],
   picturesOfMyDishes: [
     "Pictures of my dishes",
@@ -703,5 +765,6 @@ export const translations = {
     "Φωτογραφίες των πιάτων μου",
     "自分の料理の写真",
     "我的菜肴照片",
+    "Slike mojih jedi",
   ],
 };
