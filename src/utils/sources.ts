@@ -9,6 +9,12 @@ export const sources: Source[] = [
       "Standard OSM map with a balance of roads, land-use, and points of interest. Suitable for general navigation and background use.",
   },
   {
+    name: "Tracetrack Topo",
+    url: "https://tile.tracestrack.com/topo__/{z}/{x}/{y}.webp?key=2d4b7d57470b47cf9cb21b37a5c79e04",
+    type: "topographic",
+    description: "",
+  },
+  {
     name: "Sherpa",
     url: "https://www.sherpa-map.com/api/mapBox/esemianczuk/clcb9p9fv000l14lhkue76zhd/tiles/{z}/{x}/{y}",
     type: "general",

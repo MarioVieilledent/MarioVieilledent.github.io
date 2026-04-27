@@ -50,7 +50,7 @@ const OpenLayerMap = forwardRef<
         {
           zoom: targetZoom,
           duration: FLY_DURATION,
-        }
+        },
       );
     },
   }));
@@ -61,38 +61,38 @@ const OpenLayerMap = forwardRef<
     new View({
       center: fromLonLat(DEFAULT_CENTER),
       zoom: DEFAULT_ZOOM,
-    })
+    }),
   );
 
   useEffect(() => {
     view.current.on("change:center", (event) =>
       window.localStorage.setItem(
         LOCAL_STORAGE_CENTER_KEY,
-        event.target.values_.center
-      )
+        event.target.values_.center,
+      ),
     );
 
     view.current.on("change:resolution", (event) =>
       window.localStorage.setItem(
         LOCAL_STORAGE_RESOLUTION_KEY,
-        JSON.stringify(event.target.values_.resolution)
-      )
+        JSON.stringify(event.target.values_.resolution),
+      ),
     );
 
     view.current.on("change:rotation", (event) =>
-      setRotation(event.target.values_.rotation)
+      setRotation(event.target.values_.rotation),
     );
   }, [setRotation]);
 
   useEffect(() => {
     window.localStorage.setItem(
       LOCAL_STORAGE_LAYERS_KEY,
-      JSON.stringify(layers)
+      JSON.stringify(layers),
     );
 
     if (container.current) {
       const baseMapURL: string =
-        sources.find((source) => source.name == layers[0])?.url ?? "";
+        sources.find((source) => source.name === layers[0])?.url ?? "";
 
       const overlaysURLs: string[] = sources
         .filter((source) => layers.includes(source.name))
@@ -105,7 +105,7 @@ const OpenLayerMap = forwardRef<
               url,
             }),
             zIndex: index,
-          })
+          }),
       );
 
       if (map.current === null) {
