@@ -1823,6 +1823,658 @@
     }
   },
   {
+    "category": "mainCourses",
+    "id": "pizzaConLePatatineFritte",
+    "pictures": ["Pizza_cont_le_patatine_fritte.jpg"],
+    "en": {
+      "name": "Pizza with french fries",
+      "notes": "Margherita pizza with fries — not the prettiest, one of the least gourmet, but definitely one of the best comfort foods!",
+      "ingredients": [
+        {
+          "part": "Dough (for 1 pizza)",
+          "ingredients": [
+            "200 g flour",
+            "150 mL water",
+            "3 g dry yeast",
+            "1/2 tsp salt"
+          ]
+        },
+        {
+          "part": "Fries",
+          "ingredients": ["300 g to 400 g frozen fries"]
+        },
+        {
+          "part": "Pizza",
+          "ingredients": [
+            "Tomato sauce",
+            "1 ball of mozzarella",
+            "Fresh basil",
+            "Olive oil",
+            "Salt, pepper, herbs"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "part": "Dough",
+          "instructions": [
+            "Mix everything with a wooden spoon",
+            "Let rest at least 3 hours, overnight is even better"
+          ]
+        },
+        {
+          "part": "Fries",
+          "instructions": [
+            "Cook the fries in the oven for 2/3 of the indicated time, at 250°C, static heat",
+            "Before they start to brown, take them out and wait for the oven to reach maximum temperature before continuing with the pizza baking"
+          ]
+        },
+        {
+          "part": "Pizza",
+          "instructions": [
+            "Preheat oven to max, 250°C or higher, ideally 450°C",
+            "Spread and stretch the dough by hand on a floured baking tray",
+            "Add tomato sauce, amount: to taste",
+            "Season with salt, pepper, pizza or Provençal herbs, fresh basil leaves",
+            "Add the mozzarella (not drained if oven is limited to 250°C), in fairly large pieces so it melts slowly without browning too much",
+            "Drizzle olive oil",
+            "Bake for 7 to 9 minutes, preferably at the bottom of the oven, with fan-assisted heat"
+          ]
+        },
+        {
+          "part": "Final baking",
+          "instructions": [
+            "Place the fries on the pizza",
+            "Add a bit more salt and another drizzle of olive oil over the fries",
+            "Bake for another 2 to 3 minutes to finish cooking"
+          ]
+        }
+      ]
+    },
+    "fr": {
+      "name": "Pizza aux frites",
+      "notes": "Pizza margherita avec des frites, pas la plus jolie, une des moins gastronomiques, mais une des meilleure en termes de comfort food !",
+      "ingredients": [
+        {
+          "part": "Pâte (pour 1 pizza)",
+          "ingredients": [
+            "200 g farine",
+            "150 mL eau",
+            "3 g levure sèche",
+            "1/2 c. à c. de sel"
+          ]
+        },
+        {
+          "part": "Frites",
+          "ingredients": ["300g à 400g de frites surgelées"]
+        },
+        {
+          "part": "Pizza",
+          "ingredients": [
+            "Sauce tomate",
+            "1 boule de Mozzarella",
+            "Basilic frais",
+            "Huile d'olive",
+            "Sel, poivre, herbes"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "part": "Pâte",
+          "instructions": [
+            "Mélanger tout à la cuillère en bois",
+            "Laisser reposer au moins 3 heures, toute la nuit est encore mieux"
+          ]
+        },
+        {
+          "part": "Frites",
+          "instructions": [
+            "Cuire les frites au four pour 2/3 du temps indiqué, à 250°C, chaleur statique",
+            "Avant qu'elles ne commencent à dorer, les sortir et attendre que le four remonte au maximum pour enchainer avec la cuisson de la pizza"
+          ]
+        },
+        {
+          "part": "Pizza",
+          "instructions": [
+            "Préchauffer four au max, 250°C sinon plus, idéalement 450°C",
+            "Étaler et étirer à la main pâte sur plaque cuisson farinée",
+            "Ajouter sauce tomate, quantité : au talent",
+            "Saler, poivrer, herbes à pizza ou provence, feuilles de basilic frais",
+            "Répartir la boule de Mozzarella, (non égouttée si four bloqué à 250°C), plutôt gros morceaux pour qu'ils fondent lentement et ne gratinent pas",
+            "Ajouter filet d'huile d'olive",
+            "Enfourner 7 à 9 minutes, plutôt en bas du four, avec chaleur tournante"
+          ]
+        },
+        {
+          "part": "Dernière cuisson",
+          "instructions": [
+            "Placer les frites sur la pizza",
+            "Saler à nouveau et ajouter un autre filet d'huile d'olive sur les frites",
+            "Enfourner 2 à 3 minutes pour finir la cuisson"
+          ]
+        }
+      ]
+    },
+    "it": {
+      "name": "Pizza con le patatine fritte",
+      "notes": "Pizza margherita con le patatine fritte: non la più bella, una delle meno gourmet, ma sicuramente una delle migliori in termini di comfort food!",
+      "ingredients": [
+        {
+          "part": "Impasto (per 1 pizza)",
+          "ingredients": [
+            "200 g farina",
+            "150 mL acqua",
+            "3 g lievito secco",
+            "1/2 cucchiaino di sale"
+          ]
+        },
+        {
+          "part": "Patatine",
+          "ingredients": ["300 g a 400 g di patatine surgelate"]
+        },
+        {
+          "part": "Pizza",
+          "ingredients": [
+            "Salsa di pomodoro",
+            "1 mozzarella",
+            "Basilico fresco",
+            "Olio d'oliva",
+            "Sale, pepe, erbe"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "part": "Impasto",
+          "instructions": [
+            "Mescolare tutto con un cucchiaio di legno",
+            "Lasciare riposare almeno 3 ore, tutta la notte è ancora meglio"
+          ]
+        },
+        {
+          "part": "Patatine",
+          "instructions": [
+            "Cuocere le patatine in forno per 2/3 del tempo indicato, a 250°C, forno statico",
+            "Prima che inizino a dorarsi, toglierle e aspettare che il forno torni alla temperatura massima per continuare con la pizza"
+          ]
+        },
+        {
+          "part": "Pizza",
+          "instructions": [
+            "Preriscaldare il forno al massimo, 250°C o più, idealmente 450°C",
+            "Stendere e allargare l'impasto a mano su una teglia infarinata",
+            "Aggiungere la salsa di pomodoro, quantità: a piacere",
+            "Aggiungere sale, pepe, erbe per pizza o provenzali, foglie di basilico fresco",
+            "Distribuire la mozzarella (non scolata se il forno è limitato a 250°C), in pezzi piuttosto grandi per farla sciogliere lentamente senza gratinare",
+            "Aggiungere un filo d'olio d'oliva",
+            "Cuocere per 7-9 minuti, preferibilmente nella parte bassa del forno, con ventilazione"
+          ]
+        },
+        {
+          "part": "Cottura finale",
+          "instructions": [
+            "Mettere le patatine sulla pizza",
+            "Aggiungere un po' di sale e un altro filo d'olio d'oliva sulle patatine",
+            "Cuocere per altri 2-3 minuti"
+          ]
+        }
+      ]
+    },
+    "es": {
+      "name": "Pizza con patatas fritas",
+      "notes": "Pizza margarita con patatas fritas: no es la más bonita, ni la más gourmet, pero sí una de las mejores como comida reconfortante.",
+      "ingredients": [
+        {
+          "part": "Masa (para 1 pizza)",
+          "ingredients": [
+            "200 g de harina",
+            "150 mL de agua",
+            "3 g de levadura seca",
+            "1/2 cucharadita de sal"
+          ]
+        },
+        {
+          "part": "Patatas fritas",
+          "ingredients": ["300 g a 400 g de patatas fritas congeladas"]
+        },
+        {
+          "part": "Pizza",
+          "ingredients": [
+            "Salsa de tomate",
+            "1 bola de mozzarella",
+            "Albahaca fresca",
+            "Aceite de oliva",
+            "Sal, pimienta, hierbas"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "part": "Masa",
+          "instructions": [
+            "Mezclar todo con una cuchara de madera",
+            "Dejar reposar al menos 3 horas, toda la noche es mejor"
+          ]
+        },
+        {
+          "part": "Patatas fritas",
+          "instructions": [
+            "Cocinar las patatas en el horno durante 2/3 del tiempo indicado, a 250°C, calor estático",
+            "Antes de que empiecen a dorarse, sacarlas y esperar a que el horno alcance la temperatura máxima para continuar con la pizza"
+          ]
+        },
+        {
+          "part": "Pizza",
+          "instructions": [
+            "Precalentar el horno al máximo, 250°C o más, idealmente 450°C",
+            "Extender la masa a mano sobre una bandeja enharinada",
+            "Añadir la salsa de tomate, cantidad: al gusto",
+            "Añadir sal, pimienta, hierbas para pizza o provenzales, hojas de albahaca fresca",
+            "Distribuir la mozzarella (sin escurrir si el horno está limitado a 250°C), en trozos grandes para que se derrita lentamente sin gratinar demasiado",
+            "Añadir un chorrito de aceite de oliva",
+            "Hornear durante 7 a 9 minutos, preferiblemente en la parte baja del horno, con ventilador"
+          ]
+        },
+        {
+          "part": "Cocción final",
+          "instructions": [
+            "Colocar las patatas sobre la pizza",
+            "Añadir más sal y un poco más de aceite de oliva sobre las patatas",
+            "Hornear 2 a 3 minutos más"
+          ]
+        }
+      ]
+    },
+    "nb": {
+      "name": "Pizza med pommes frites",
+      "notes": "Margherita-pizza med pommes frites – ikke den peneste, ikke den mest gourmet, men definitivt en av de beste som komfortmat!",
+      "ingredients": [
+        {
+          "part": "Deig (til 1 pizza)",
+          "ingredients": [
+            "200 g mel",
+            "150 ml vann",
+            "3 g tørrgjær",
+            "1/2 ts salt"
+          ]
+        },
+        {
+          "part": "Pommes frites",
+          "ingredients": ["300 g til 400 g frosne pommes frites"]
+        },
+        {
+          "part": "Pizza",
+          "ingredients": [
+            "Tomatsaus",
+            "1 mozzarella",
+            "Fersk basilikum",
+            "Olivenolje",
+            "Salt, pepper, urter"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "part": "Deig",
+          "instructions": [
+            "Bland alt med en tresleiv",
+            "La hvile i minst 3 timer, over natten er enda bedre"
+          ]
+        },
+        {
+          "part": "Pommes frites",
+          "instructions": [
+            "Stek pommes frites i ovnen i 2/3 av anbefalt tid, på 250°C, over- og undervarme",
+            "Ta dem ut før de begynner å bli gyldne, og vent til ovnen når maksimal temperatur før du fortsetter med pizzaen"
+          ]
+        },
+        {
+          "part": "Pizza",
+          "instructions": [
+            "Forvarm ovnen til maks, 250°C eller mer, ideelt 450°C",
+            "Strekk deigen for hånd på et melet stekebrett",
+            "Tilsett tomatsaus, mengde etter smak",
+            "Tilsett salt, pepper, pizzakrydder eller provenceurter, fersk basilikum",
+            "Fordel mozzarellaen (ikke drenert hvis ovnen er begrenset til 250°C) i store biter slik at den smelter sakte",
+            "Drypp over olivenolje",
+            "Stek i 7–9 minutter, helst nederst i ovnen, med varmluft"
+          ]
+        },
+        {
+          "part": "Siste steking",
+          "instructions": [
+            "Legg pommes frites på pizzaen",
+            "Tilsett litt mer salt og en ekstra skvett olivenolje",
+            "Stek i 2–3 minutter til"
+          ]
+        }
+      ]
+    },
+    "tr": {
+      "name": "Patates kızartmalı pizza",
+      "notes": "Patates kızartmalı margarita pizza — en güzel görünen değil, en gurme olan da değil ama kesinlikle en iyi rahatlatıcı yiyeceklerden biri!",
+      "ingredients": [
+        {
+          "part": "Hamur (1 pizza için)",
+          "ingredients": [
+            "200 g un",
+            "150 mL su",
+            "3 g kuru maya",
+            "1/2 çay kaşığı tuz"
+          ]
+        },
+        {
+          "part": "Patates kızartması",
+          "ingredients": ["300 g - 400 g dondurulmuş patates kızartması"]
+        },
+        {
+          "part": "Pizza",
+          "ingredients": [
+            "Domates sosu",
+            "1 adet mozzarella",
+            "Taze fesleğen",
+            "Zeytinyağı",
+            "Tuz, karabiber, otlar"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "part": "Hamur",
+          "instructions": [
+            "Her şeyi tahta kaşıkla karıştırın",
+            "En az 3 saat dinlendirin, bir gece bekletmek daha iyidir"
+          ]
+        },
+        {
+          "part": "Patates kızartması",
+          "instructions": [
+            "Patatesleri fırında önerilen sürenin 2/3’ü kadar, 250°C’de fansız pişirin",
+            "Kızarmaya başlamadan çıkarın ve pizza için fırının maksimum sıcaklığa ulaşmasını bekleyin"
+          ]
+        },
+        {
+          "part": "Pizza",
+          "instructions": [
+            "Fırını maksimuma önceden ısıtın, 250°C veya daha fazla, idealde 450°C",
+            "Hamuru unlanmış tepsiye el ile açın",
+            "Domates sosunu ekleyin, miktar damak tadına göre",
+            "Tuz, karabiber, pizza baharatı veya Provence otları ve taze fesleğen ekleyin",
+            "Mozzarellayı (fırın 250°C ile sınırlıysa süzmeden) büyük parçalar halinde yerleştirin",
+            "Zeytinyağı gezdirin",
+            "Fırının alt kısmında, fanlı ayarda 7–9 dakika pişirin"
+          ]
+        },
+        {
+          "part": "Son pişirme",
+          "instructions": [
+            "Patates kızartmalarını pizzanın üzerine koyun",
+            "Biraz daha tuz ve zeytinyağı ekleyin",
+            "2–3 dakika daha pişirin"
+          ]
+        }
+      ]
+    },
+    "el": {
+      "name": "Πίτσα με τηγανητές πατάτες",
+      "notes": "Πίτσα μαργαρίτα με τηγανητές πατάτες — όχι η πιο όμορφη, ούτε η πιο γκουρμέ, αλλά σίγουρα από τις καλύτερες για comfort food!",
+      "ingredients": [
+        {
+          "part": "Ζύμη (για 1 πίτσα)",
+          "ingredients": [
+            "200 g αλεύρι",
+            "150 mL νερό",
+            "3 g ξηρή μαγιά",
+            "1/2 κουταλάκι του γλυκού αλάτι"
+          ]
+        },
+        {
+          "part": "Πατάτες",
+          "ingredients": ["300 g έως 400 g κατεψυγμένες πατάτες"]
+        },
+        {
+          "part": "Πίτσα",
+          "ingredients": [
+            "Σάλτσα ντομάτας",
+            "1 μπάλα μοτσαρέλα",
+            "Φρέσκος βασιλικός",
+            "Ελαιόλαδο",
+            "Αλάτι, πιπέρι, βότανα"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "part": "Ζύμη",
+          "instructions": [
+            "Ανακατέψτε τα όλα με ξύλινη κουτάλα",
+            "Αφήστε να ξεκουραστεί τουλάχιστον 3 ώρες, όλη τη νύχτα είναι ακόμα καλύτερα"
+          ]
+        },
+        {
+          "part": "Πατάτες",
+          "instructions": [
+            "Ψήστε τις πατάτες στο φούρνο για τα 2/3 του χρόνου που αναγράφεται, στους 250°C, χωρίς αέρα",
+            "Βγάλτε τις πριν ροδίσουν και περιμένετε να φτάσει ο φούρνος στη μέγιστη θερμοκρασία"
+          ]
+        },
+        {
+          "part": "Πίτσα",
+          "instructions": [
+            "Προθερμάνετε τον φούρνο στο μέγιστο, 250°C ή περισσότερο, ιδανικά 450°C",
+            "Απλώστε τη ζύμη με το χέρι σε αλευρωμένο ταψί",
+            "Προσθέστε σάλτσα ντομάτας, ποσότητα κατά προτίμηση",
+            "Προσθέστε αλάτι, πιπέρι, βότανα και φρέσκο βασιλικό",
+            "Βάλτε τη μοτσαρέλα (χωρίς στράγγισμα αν ο φούρνος είναι στους 250°C) σε μεγάλα κομμάτια",
+            "Ρίξτε λίγο ελαιόλαδο",
+            "Ψήστε για 7–9 λεπτά στο κάτω μέρος του φούρνου, με αέρα"
+          ]
+        },
+        {
+          "part": "Τελικό ψήσιμο",
+          "instructions": [
+            "Τοποθετήστε τις πατάτες πάνω στην πίτσα",
+            "Προσθέστε λίγο ακόμα αλάτι και ελαιόλαδο",
+            "Ψήστε για άλλα 2–3 λεπτά"
+          ]
+        }
+      ]
+    },
+    "ja": {
+      "name": "フライドポテトピザ",
+      "notes": "フライドポテトをのせたマルゲリータピザ。見た目は最高とは言えず、グルメでもないけれど、間違いなく最高のコンフォートフードの一つ！",
+      "ingredients": [
+        {
+          "part": "生地（1枚分）",
+          "ingredients": [
+            "小麦粉 200g",
+            "水 150mL",
+            "ドライイースト 3g",
+            "塩 小さじ1/2"
+          ]
+        },
+        {
+          "part": "フライドポテト",
+          "ingredients": ["冷凍フライドポテト 300〜400g"]
+        },
+        {
+          "part": "ピザ",
+          "ingredients": [
+            "トマトソース",
+            "モッツァレラチーズ 1個",
+            "フレッシュバジル",
+            "オリーブオイル",
+            "塩、こしょう、ハーブ"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "part": "生地",
+          "instructions": [
+            "木べらで全てを混ぜる",
+            "最低3時間休ませる（できれば一晩）"
+          ]
+        },
+        {
+          "part": "フライドポテト",
+          "instructions": [
+            "250°Cのオーブンで、表示時間の2/3だけ焼く（上下加熱）",
+            "焼き色がつく前に取り出し、オーブンを最大温度まで上げる"
+          ]
+        },
+        {
+          "part": "ピザ",
+          "instructions": [
+            "オーブンを最大温度（250°C以上、理想は450°C）に予熱する",
+            "打ち粉をした天板の上で生地を手で伸ばす",
+            "トマトソースをお好みの量で塗る",
+            "塩、こしょう、ハーブ、フレッシュバジルを加える",
+            "モッツァレラを大きめにちぎってのせる（250°Cの場合は水気を切らない）",
+            "オリーブオイルをかける",
+            "下段で7〜9分、ファン付きで焼く"
+          ]
+        },
+        {
+          "part": "仕上げ焼き",
+          "instructions": [
+            "フライドポテトをピザにのせる",
+            "さらに塩とオリーブオイルを少しかける",
+            "さらに2〜3分焼く"
+          ]
+        }
+      ]
+    },
+    "zh": {
+      "name": "薯条披萨",
+      "notes": "玛格丽特披萨加薯条——不是最好看的，也不是最精致的，但绝对是最让人满足的舒适食物之一！",
+      "ingredients": [
+        {
+          "part": "面团（1个披萨）",
+          "ingredients": [
+            "200克 面粉",
+            "150毫升 水",
+            "3克 干酵母",
+            "1/2茶匙 盐"
+          ]
+        },
+        {
+          "part": "薯条",
+          "ingredients": ["300至400克 冷冻薯条"]
+        },
+        {
+          "part": "披萨",
+          "ingredients": [
+            "番茄酱",
+            "1个 马苏里拉奶酪球",
+            "新鲜罗勒",
+            "橄榄油",
+            "盐、胡椒、香草"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "part": "面团",
+          "instructions": ["用木勺将所有材料混合", "至少静置3小时，过夜更佳"]
+        },
+        {
+          "part": "薯条",
+          "instructions": [
+            "在250°C烤箱中烤至说明时间的2/3（上下火）",
+            "在开始变金黄前取出，并让烤箱升至最高温度"
+          ]
+        },
+        {
+          "part": "披萨",
+          "instructions": [
+            "将烤箱预热至最高温度（至少250°C，理想为450°C）",
+            "在撒粉的烤盘上用手拉伸面团",
+            "加入适量番茄酱",
+            "加入盐、胡椒、香草和新鲜罗勒",
+            "加入较大块马苏里拉（若烤箱仅250°C则不需沥干）",
+            "淋上橄榄油",
+            "在烤箱下层烤7到9分钟（热风模式）"
+          ]
+        },
+        {
+          "part": "最后烘烤",
+          "instructions": [
+            "将薯条放在披萨上",
+            "再加少许盐和橄榄油",
+            "再烤2到3分钟"
+          ]
+        }
+      ]
+    },
+    "sl": {
+      "name": "Pizza s ocvrtim krompirjem",
+      "notes": "Margarita pica s pomfrijem – ni najlepša ne najbolj gurmanska, a zagotovo ena najboljših za udobno hrano!",
+      "ingredients": [
+        {
+          "part": "Testo (za 1 pico)",
+          "ingredients": [
+            "200 g moke",
+            "150 ml vode",
+            "3 g suhega kvasa",
+            "1/2 žličke soli"
+          ]
+        },
+        {
+          "part": "Pomfri",
+          "ingredients": ["300 g do 400 g zamrznjenega pomfrija"]
+        },
+        {
+          "part": "Pica",
+          "ingredients": [
+            "Paradižnikova omaka",
+            "1 mocarela",
+            "Sveža bazilika",
+            "Olivno olje",
+            "Sol, poper, zelišča"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "part": "Testo",
+          "instructions": [
+            "Vse zmešajte z leseno žlico",
+            "Pustite počivati vsaj 3 ure, še bolje čez noč"
+          ]
+        },
+        {
+          "part": "Pomfri",
+          "instructions": [
+            "Pecite pomfri v pečici 2/3 predvidenega časa pri 250°C",
+            "Preden začne zlato rjaveti, ga vzemite ven in počakajte, da pečica doseže najvišjo temperaturo"
+          ]
+        },
+        {
+          "part": "Pica",
+          "instructions": [
+            "Pečico segrejte na maksimum (250°C ali več, idealno 450°C)",
+            "Testo raztegnite ročno na pomokani površini",
+            "Dodajte paradižnikovo omako po okusu",
+            "Dodajte sol, poper, zelišča in svežo baziliko",
+            "Dodajte mocarelo v večjih kosih (če je pečica omejena na 250°C, je ne odcejajte)",
+            "Pokapajte z olivnim oljem",
+            "Pecite 7–9 minut v spodnjem delu pečice"
+          ]
+        },
+        {
+          "part": "Zaključek",
+          "instructions": [
+            "Na pico položite pomfri",
+            "Dodajte še malo soli in olivnega olja",
+            "Pecite še 2–3 minute"
+          ]
+        }
+      ]
+    }
+  },
+  {
     "category": "desserts",
     "id": "crepes",
     "pictures": ["crepes_nutella.jpg"],
