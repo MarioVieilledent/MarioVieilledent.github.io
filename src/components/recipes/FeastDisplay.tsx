@@ -4,6 +4,7 @@ import { formatDate } from "../../utils/utils";
 import type { Feast, FeastDetails } from "../../utils/validator";
 import { useIsMobile } from "../../utils/isMobileHook";
 import { STRING_LIST_CLAMP } from "../../utils/constants";
+import Ranking from "./Ranking";
 
 const FeastDisplay = ({ feast }: { feast: Feast }) => {
   const { language } = useTranslation();
@@ -24,7 +25,7 @@ const FeastDisplay = ({ feast }: { feast: Feast }) => {
           <div className="text-md text-gray-600">
             {formatDate(feast.date, language)}
           </div>
-          <div className="text-md bg-gray-100 rounded-full p-2">{`${feast.ranking}/10`}</div>
+          <Ranking ranking={feast.ranking} />
         </div>
 
         <div className="flex items-center gap-4">

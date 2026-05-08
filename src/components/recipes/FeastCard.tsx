@@ -5,6 +5,7 @@ import { useTranslation } from "../../utils/TranslationContext";
 import { formatDate } from "../../utils/utils";
 import type { Feast, FeastDetails } from "../../utils/validator";
 import type { Dispatch, SetStateAction } from "react";
+import Ranking from "./Ranking";
 
 interface FeastCardProps {
   feast: Feast;
@@ -61,7 +62,7 @@ const FeastCard = ({ feast, setSearch }: FeastCardProps) => {
           <div className="text-sm text-gray-600">
             {formatDate(feast.date, language)}
           </div>
-          <div className="text-sm bg-gray-300 rounded-full p-2">{`${feast.ranking}/10`}</div>
+          <Ranking ranking={feast.ranking} />
         </div>
 
         <div className="text-sm whitespace-pre-line overflow-hidden text-ellipsis line-clamp-6">

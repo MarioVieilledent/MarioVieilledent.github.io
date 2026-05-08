@@ -767,4 +767,16 @@ export const translations = {
     "我的菜肴照片",
     "Slike mojih jedi",
   ],
+  noRanking: [
+    "No ranking",
+    "Aucun classement",
+    "Nessuna classifica",
+    "Sin clasificación",
+    "Ingen rangering",
+    "Sıralama yok",
+    "Χωρίς κατάταξη",
+    "ランキングなし",
+    "无排名",
+    "Brez uvrstitve",
+  ],
 };

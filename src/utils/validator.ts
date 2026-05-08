@@ -8,7 +8,7 @@ export const recipeDetails = z.object({
       z.object({
         part: z.string(),
         ingredients: z.array(z.string()),
-      })
+      }),
     ),
   ]),
   instructions: z.union([
@@ -17,7 +17,7 @@ export const recipeDetails = z.object({
       z.object({
         part: z.string(),
         instructions: z.array(z.string()),
-      })
+      }),
     ),
   ]),
   notes: z.string().optional(),
@@ -46,7 +46,7 @@ export const feastDetails = z.object({
     z.object({
       title: z.string(),
       description: z.array(z.string()),
-    })
+    }),
   ),
 });
 
@@ -55,7 +55,7 @@ export const feast = z.looseObject({
   id: z.string(),
   countryCode: z.string(),
   date: z.string(),
-  ranking: z.number(),
+  ranking: z.number().optional(),
   pictures: z.array(z.string()),
   en: feastDetails,
   fr: feastDetails.optional(),
