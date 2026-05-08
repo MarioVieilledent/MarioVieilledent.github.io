@@ -2226,5 +2226,202 @@
         }
       ]
     }
+  },
+  {
+    "mealNumber": 15,
+    "id": "welcomeToTrondheim",
+    "countryCode": "us",
+    "date": "2026-05-07",
+    "pictures": ["Welcoming_burger.jpg", "Welcoming_burger_2.jpg"],
+
+    "en": {
+      "name": "Angus Beef Burger with Homemade Mayo",
+      "country": "Welcome Burger in Trondheim!",
+      "idea": [
+        "A comforting meal was needed after a long day of travel",
+        "I found two Angus beef patties with 22% fat at Meny, perfect!"
+      ],
+      "menu": [
+        "Isbjørn beer from Tromsø",
+        "Burger with homemade sesame buns, Angus beef, lettuce, tomato, onion, and homemade mayonnaise",
+        "Served with oven fries and salad"
+      ],
+      "notes": [
+        {
+          "title": "General",
+          "description": [
+            "Really delicious, but without pickles, without lemon, and with a mayo that was not acidic enough, there was a lack of acidity to cut through the richness of the burger"
+          ]
+        }
+      ]
+    },
+    "fr": {
+      "name": "Burger au boeuf Angus avec mayo maison",
+      "country": "Burger de Bienvenue à Trondheim !",
+      "idea": [
+        "Il falait un plat réconfortant après une longue journée de voyage",
+        "J'ai trouvé deux viandes de boeuf Angus à 22 % de gras à Meny, parfait !"
+      ],
+      "menu": [
+        "Bière Isbjørn de Tromsø",
+        "Burger avec pains sésame maison, boeuf Angus, salade tomate oignon et mayonanise maison",
+        "Servi avec frites au four et salade"
+      ],
+      "notes": [
+        {
+          "title": "Général",
+          "description": [
+            "Super bon, mais sans pickles, sans citron, avec une mayo pas assez acide, il y avait un manque d'acidité pour couper le gras du burger"
+          ]
+        }
+      ]
+    },
+    "it": {
+      "name": "Burger di manzo Angus con maionese fatta in casa",
+      "country": "Burger di benvenuto a Trondheim!",
+      "idea": [
+        "Ci voleva un piatto confortante dopo una lunga giornata di viaggio",
+        "Ho trovato due hamburger di manzo Angus con il 22% di grasso da Meny, perfetti!"
+      ],
+      "menu": [
+        "Birra Isbjørn di Tromsø",
+        "Burger con pane al sesamo fatto in casa, manzo Angus, lattuga, pomodoro, cipolla e maionese fatta in casa",
+        "Servito con patatine al forno e insalata"
+      ],
+      "notes": [
+        {
+          "title": "Generale",
+          "description": [
+            "Davvero buonissimo, ma senza cetriolini, senza limone e con una maionese non abbastanza acida, mancava un po’ di acidità per bilanciare il grasso del burger"
+          ]
+        }
+      ]
+    },
+    "es": {
+      "name": "Hamburguesa de ternera Angus con mayonesa casera",
+      "country": "¡Hamburguesa de bienvenida en Trondheim!",
+      "idea": [
+        "Hacía falta un plato reconfortante después de un largo día de viaje",
+        "Encontré dos carnes de ternera Angus con 22 % de grasa en Meny, ¡perfecto!"
+      ],
+      "menu": [
+        "Cerveza Isbjørn de Tromsø",
+        "Hamburguesa con pan de sésamo casero, ternera Angus, lechuga, tomate, cebolla y mayonesa casera",
+        "Servida con patatas al horno y ensalada"
+      ],
+      "notes": [
+        {
+          "title": "General",
+          "description": [
+            "Muy bueno, pero sin pepinillos, sin limón y con una mayonesa no lo bastante ácida, faltaba acidez para equilibrar la grasa de la hamburguesa"
+          ]
+        }
+      ]
+    },
+    "nb": {
+      "name": "Angusburger med hjemmelaget majones",
+      "country": "Velkomstburger i Trondheim!",
+      "idea": [
+        "Det trengtes en trøstende rett etter en lang reisedag",
+        "Jeg fant to Angus-burgere med 22 % fett hos Meny, perfekt!"
+      ],
+      "menu": [
+        "Isbjørn-øl fra Tromsø",
+        "Burger med hjemmelagde sesambrød, Angus-kjøtt, salat, tomat, løk og hjemmelaget majones",
+        "Servert med ovnsstekte pommes frites og salat"
+      ],
+      "notes": [
+        {
+          "title": "Generelt",
+          "description": [
+            "Veldig godt, men uten sylteagurk, uten sitron og med en majones som ikke var syrlig nok, manglet det syre for å balansere fettet i burgeren"
+          ]
+        }
+      ]
+    },
+    "tr": {
+      "name": "Ev yapımı mayonezli Angus dana burger",
+      "country": "Trondheim’e hoş geldin burgeri!",
+      "idea": [
+        "Uzun bir yolculuk gününden sonra rahatlatıcı bir yemeğe ihtiyaç vardı",
+        "Meny’de %22 yağ oranına sahip iki Angus dana köftesi buldum, mükemmel!"
+      ],
+      "menu": [
+        "Tromsø’den Isbjørn birası",
+        "Ev yapımı susamlı ekmek, Angus dana eti, marul, domates, soğan ve ev yapımı mayonezli burger",
+        "Fırında patates kızartması ve salata ile servis edildi"
+      ],
+      "notes": [
+        {
+          "title": "Genel",
+          "description": [
+            "Çok lezzetliydi ama turşu ve limon olmadan, ayrıca yeterince asidik olmayan bir mayonezle, burgerin yağını dengeleyecek asidite eksikti"
+          ]
+        }
+      ]
+    },
+    "ja": {
+      "name": "自家製マヨネーズのアンガスビーフバーガー",
+      "country": "トロンハイムへようこそバーガー！",
+      "idea": [
+        "長い移動日の後には、ほっとする料理が必要だった",
+        "Menyで脂肪分22％のアンガスビーフを2枚見つけた。完璧！"
+      ],
+      "menu": [
+        "トロムソ産 Isbjørn ビール",
+        "自家製ごまバンズ、アンガスビーフ、レタス、トマト、玉ねぎ、自家製マヨネーズのバーガー",
+        "オーブンフライとサラダ添え"
+      ],
+      "notes": [
+        {
+          "title": "全体",
+          "description": [
+            "とても美味しかったが、ピクルスもレモンもなく、マヨネーズの酸味も足りなかったので、バーガーの脂っこさを和らげる酸味が不足していた"
+          ]
+        }
+      ]
+    },
+    "zh": {
+      "name": "自制蛋黄酱安格斯牛肉汉堡",
+      "country": "欢迎来到特隆赫姆汉堡！",
+      "idea": [
+        "长途旅行后需要一顿让人放松的美食",
+        "我在 Meny 找到了两块脂肪含量 22% 的安格斯牛肉饼，太完美了！"
+      ],
+      "menu": [
+        "来自特罗姆瑟的 Isbjørn 啤酒",
+        "配有自制芝麻面包、安格斯牛肉、生菜、番茄、洋葱和自制蛋黄酱的汉堡",
+        "搭配烤薯条和沙拉"
+      ],
+      "notes": [
+        {
+          "title": "总体",
+          "description": [
+            "非常好吃，但没有酸黄瓜、没有柠檬，而且蛋黄酱的酸味不够，缺少能够中和汉堡油脂感的酸度"
+          ]
+        }
+      ]
+    },
+    "sl": {
+      "name": "Angus burger z domačo majonezo",
+      "country": "Dobrodošli burger v Trondheimu!",
+      "idea": [
+        "Po dolgem dnevu potovanja je bila potrebna tolažilna jed",
+        "V Menyju sem našel dva Angus burgerja z 22 % maščobe, popolno!"
+      ],
+      "menu": [
+        "Pivo Isbjørn iz Tromsøja",
+        "Burger z domačimi sezamovimi bombetkami, Angus govedino, solato, paradižnikom, čebulo in domačo majonezo",
+        "Postreženo s pečenim krompirčkom in solato"
+      ],
+      "notes": [
+        {
+          "title": "Splošno",
+          "description": [
+            "Zelo okusno, vendar brez kislih kumaric, brez limone in z majonezo, ki ni bila dovolj kisla, je manjkala kislost za uravnoteženje maščobe burgerja"
+          ]
+        }
+      ]
+    }
   }
 ]
