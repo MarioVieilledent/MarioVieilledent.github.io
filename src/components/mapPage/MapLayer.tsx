@@ -5,6 +5,8 @@ import ResetRotationButton from "./ResetRotationButton";
 import OpenLayerMap from "./OpenLayerMap";
 import { LOCAL_STORAGE_LAYERS_KEY } from "../../utils/constants";
 import SearchButton from "./SearchButton";
+import MapLibre from "./MapLibre";
+import GlobeSwitch from "./GlobeSwitch";
 
 const DEFAULT_LAYERS: string[] = sources
   .filter((s) => s.defaultSelectedLayers)
@@ -29,6 +31,7 @@ const getInitialLayers = (): string[] => {
 const MapLayer = () => {
   const [layers, setLayers] = useState<string[]>(getInitialLayers());
   const [rotation, setRotation] = useState(0);
+  const [globeView, setGlobeView] = useState(true);
 
   const triggers = useRef<{
     triggerReset: () => void;
@@ -43,11 +46,20 @@ const MapLayer = () => {
 
   return (
     <>
-      <OpenLayerMap setRotation={setRotation} layers={layers} ref={triggers} />
+      {globeView ? (
+        <MapLibre layers={layers} />
+      ) : (
+        <OpenLayerMap
+          setRotation={setRotation}
+          layers={layers}
+          ref={triggers}
+        />
+      )}
 
       <SearchButton flyTo={flyTo} />
 
       <LayerMenu layers={layers} setLayers={setLayers} />
+      <GlobeSwitch globeView={globeView} setGlobeView={setGlobeView} />
       {rotation !== 0 && (
         <ResetRotationButton
           rotation={rotation}

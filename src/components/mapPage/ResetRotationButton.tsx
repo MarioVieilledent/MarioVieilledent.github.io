@@ -12,7 +12,7 @@ const ResetRotationButton = ({
   return (
     <button
       onClick={resetRotation}
-      className="fixed top-20 right-4 z-50 w-12 h-12 rounded-full bg-white flex items-center justify-center shadow-lg transition"
+      className="fixed top-36 right-4 z-50 w-12 h-12 rounded-full bg-white flex items-center justify-center shadow-lg transition"
     >
       <LuMoveUp
         className="w-6 h-6"
