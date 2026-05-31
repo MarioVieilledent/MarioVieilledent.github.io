@@ -44,9 +44,19 @@ const Menu = () => {
           <LuFlag size="24" />
           {t("flags")}
         </Link> */}
-        <Link to="learn" className="flex items-center gap-2 cursor-pointer">
+        <Link
+          to="learnNorwegian"
+          className="flex items-center gap-2 cursor-pointer"
+        >
           <LuSchool size="24" />
           {t("learnNorwegian")}
+        </Link>
+        <Link
+          to="learnTurkish"
+          className="flex items-center gap-2 cursor-pointer"
+        >
+          <LuSchool size="24" />
+          {t("learnTurkish")}
         </Link>
         <a
           className="flex items-center gap-2 cursor-pointer"

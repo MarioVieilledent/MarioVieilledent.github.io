@@ -263,6 +263,18 @@ export const translations = {
     "学习挪威语",
     "Uči se norveščino",
   ],
+  learnTurkish: [
+    "Learn Turkish",
+    "Apprendre le turc",
+    "Impara il turco",
+    "Aprende turco",
+    "Lær tyrkisk",
+    "Türkçe öğren",
+    "Μάθε τουρκικά",
+    "トルコ語を学ぶ",
+    "学土耳其语",
+    "Učite se turščine",
+  ],
   typeYourTranslation: [
     "Type your translation",
     "Tapez votre traduction",

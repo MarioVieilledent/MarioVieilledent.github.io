@@ -23,3 +23,7 @@ Vite + React + TailwindCSS + OpenLayers
 I use raster maps from various APIs that are free and doesn't require any auth key.
 
 Find URL sources in `./src/utils/sources.ts`
+
+## Audio generation for Turkish sentences
+
+- [ttsmaker](https://ttsmaker.com/)

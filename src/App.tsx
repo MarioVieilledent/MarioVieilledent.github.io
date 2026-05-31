@@ -6,12 +6,13 @@ import MapPage from "./pages/MapPage";
 import Recipes from "./pages/Recipes";
 import NotFound from "./pages/NotFound";
 import Flags from "./pages/Flags";
+import LearnTurkish from "./pages/LearnTurkish";
 
 const DEFAULT_PAGE = "home";
 
 const App = () => {
   const [route, setRoute] = useState(
-    window.localStorage.getItem(LOCAL_STORAGE_ROUTE_KEY) ?? DEFAULT_PAGE
+    window.localStorage.getItem(LOCAL_STORAGE_ROUTE_KEY) ?? DEFAULT_PAGE,
   );
 
   useEffect(() => {
@@ -32,7 +33,8 @@ const App = () => {
         <Route index element={<MapPage />} />
         <Route path="recipes/*" element={<Recipes />} />
         <Route path="flags" element={<Flags />}></Route>
-        <Route path="learn" element={<LearnNorwegian />}></Route>
+        <Route path="learnNorwegian" element={<LearnNorwegian />}></Route>
+        <Route path="learnTurkish" element={<LearnTurkish />}></Route>
         <Route path="*" element={<NotFound />} />
       </Routes>
     </HashRouter>
