@@ -28,6 +28,13 @@ export const sources: Source[] = [
       "Topographic map with contour lines, elevation shading, and hiking-related symbols. Ideal for outdoor and hiking applications.",
   },
   {
+    name: "Mapterhorn",
+    url: "https://tiles.mapterhorn.com/{z}/{x}/{y}.webp",
+    type: "topographic",
+    description: "Elevation shade",
+  },
+
+  {
     name: "IGN (France)",
     url: "https://data.geopf.fr/wmts?layer=GEOGRAPHICALGRIDSYSTEMS.PLANIGNV2&style=normal&tilematrixset=PM&Service=WMTS&Request=GetTile&Version=1.0.0&Format=image%2Fpng&TileMatrix={z}&TileCol={x}&TileRow={y}",
     type: "general",
@@ -330,6 +337,27 @@ export const sources: Source[] = [
     type: "overlay",
     description: "Shadow borders and coasts overlay",
     defaultSelectedLayers: true,
+  },
+  {
+    name: "Sentinel-2 Cloudless 2024",
+    url: "https://tiles.maps.eox.at/wmts/1.0.0/s2cloudless-2024_3857/default/g/{z}/{y}/{x}.jpg",
+    type: "satellite",
+    description:
+      "Global Sentinel-2 cloudless mosaic for the year 2024 in EPSG:3857 (Web Mercator) projection.",
+  },
+  {
+    name: "Sentinel-2 Cloudless 2023",
+    url: "https://tiles.maps.eox.at/wmts/1.0.0/s2cloudless-2023_3857/default/g/{z}/{y}/{x}.jpg",
+    type: "satellite",
+    description:
+      "Global Sentinel-2 cloudless mosaic for the year 2023 in EPSG:3857 (Web Mercator) projection.",
+  },
+  {
+    name: "Sentinel-2 Cloudless 2020",
+    url: "https://tiles.maps.eox.at/wmts/1.0.0/s2cloudless-2020_3857/default/g/{z}/{y}/{x}.jpg",
+    type: "satellite",
+    description:
+      "Global Sentinel-2 cloudless mosaic for the year 2020 in EPSG:3857 (Web Mercator) projection.",
   },
   /*
   {

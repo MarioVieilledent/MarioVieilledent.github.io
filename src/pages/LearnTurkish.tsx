@@ -405,7 +405,7 @@ export default function TurkishConversation() {
             </button>
 
             {/* Back to home */}
-            <div className="flex gap-8">
+            <div className="mr-4">
               <Home />
             </div>
 
