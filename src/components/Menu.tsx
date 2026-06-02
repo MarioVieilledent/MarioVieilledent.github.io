@@ -3,6 +3,7 @@ import { useTranslation } from "../utils/TranslationContext";
 import websiteLogo from "/favicon.png";
 import {
   LuBook,
+  LuBrain,
   LuGithub,
   LuMenu,
   LuNotebookText,
@@ -57,6 +58,13 @@ const Menu = () => {
         >
           <LuSchool size="24" />
           {t("learnTurkish")}
+        </Link>
+        <Link
+          to="turkishFlashcards"
+          className="flex items-center gap-2 cursor-pointer"
+        >
+          <LuBrain size="24" />
+          {t("turkishFlashcards")}
         </Link>
         <a
           className="flex items-center gap-2 cursor-pointer"

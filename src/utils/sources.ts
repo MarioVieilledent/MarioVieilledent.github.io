@@ -359,6 +359,14 @@ export const sources: Source[] = [
     description:
       "Global Sentinel-2 cloudless mosaic for the year 2020 in EPSG:3857 (Web Mercator) projection.",
   },
+  {
+    name: "Zoom Earth Geocolor",
+    url: "https://tiles.zoom.earth/geocolor/msg-iodc/2026-06-01/1230/{z}/{y}/{x}.jpg",
+    type: "satellite",
+    description:
+      "From the Zoom Earth website",
+  },
+  
   /*
   {
     name: "Stadiamaps",

@@ -265,7 +265,7 @@ export const translations = {
   ],
   learnTurkish: [
     "Learn Turkish",
-    "Apprendre le turc",
+    "Apprendre le Turc",
     "Impara il turco",
     "Aprende turco",
     "Lær tyrkisk",
@@ -274,6 +274,18 @@ export const translations = {
     "トルコ語を学ぶ",
     "学土耳其语",
     "Učite se turščine",
+  ],
+  turkishFlashcards: [
+    "Turkish Flashcards",
+    "Cartes mémoire Turc",
+    "Flashcard di turco",
+    "Tarjetas de vocabulario de turco",
+    "Tyrkiske glosekort",
+    "Türkçe Flaş Kartlar",
+    "Κάρτες εκμάθησης Τουρκικών",
+    "トルコ語の単語カード",
+    "土耳其语闪卡",
+    "Turške flash kartice",
   ],
   typeYourTranslation: [
     "Type your translation",

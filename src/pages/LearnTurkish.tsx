@@ -333,7 +333,7 @@ function Sidebar({
 
 // ─── App ──────────────────────────────────────────────────────────────────────
 
-export default function TurkishConversation() {
+export default function App() {
   const [activeConvo, setActiveConvo] = useState<number | null>(null);
   const [searchQuery, setSearchQuery] = useState("");
   const [sidebarOpen, setSidebarOpen] = useState(false);

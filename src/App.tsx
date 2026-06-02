@@ -7,6 +7,7 @@ import Recipes from "./pages/Recipes";
 import NotFound from "./pages/NotFound";
 import Flags from "./pages/Flags";
 import LearnTurkish from "./pages/LearnTurkish";
+import TurkishFlashcards from "./pages/TurkishFlashcards";
 
 const DEFAULT_PAGE = "home";
 
@@ -35,6 +36,7 @@ const App = () => {
         <Route path="flags" element={<Flags />}></Route>
         <Route path="learnNorwegian" element={<LearnNorwegian />}></Route>
         <Route path="learnTurkish" element={<LearnTurkish />}></Route>
+        <Route path="turkishFlashcards" element={<TurkishFlashcards />}></Route>
         <Route path="*" element={<NotFound />} />
       </Routes>
     </HashRouter>
