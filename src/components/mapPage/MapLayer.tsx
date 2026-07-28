@@ -31,7 +31,7 @@ const getInitialLayers = (): string[] => {
 const MapLayer = () => {
   const [layers, setLayers] = useState<string[]>(getInitialLayers());
   const [rotation, setRotation] = useState(0);
-  const [globeView, setGlobeView] = useState(true);
+  const [globeView, setGlobeView] = useState(false);
 
   const triggers = useRef<{
     triggerReset: () => void;

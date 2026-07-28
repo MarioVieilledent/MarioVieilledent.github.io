@@ -52,13 +52,13 @@ const Menu = () => {
           <LuSchool size="24" />
           {t("learnNorwegian")}
         </Link>
-        <Link
+        {/**<Link
           to="learnTurkish"
           className="flex items-center gap-2 cursor-pointer"
         >
           <LuSchool size="24" />
           {t("learnTurkish")}
-        </Link>
+        </Link>*/}
         <Link
           to="turkishFlashcards"
           className="flex items-center gap-2 cursor-pointer"
