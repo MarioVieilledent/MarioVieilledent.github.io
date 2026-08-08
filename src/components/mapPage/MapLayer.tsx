@@ -18,6 +18,7 @@ import { getURLParam, setURLParam } from "../../utils/urlSync";
 import SearchButton from "./SearchButton";
 import MapLibre from "./MapLibre";
 import GlobeSwitch from "./GlobeSwitch";
+import LocateButton from "./LocateButton";
 
 const DEFAULT_LAYERS: string[] = sources
   .filter((s) => s.defaultSelectedLayers)
@@ -25,6 +26,7 @@ const DEFAULT_LAYERS: string[] = sources
 
 const DEFAULT_CENTER: [number, number] = [5, 55];
 const DEFAULT_ZOOM = 4;
+const LOCATE_ZOOM = 16;
 
 // Web Mercator projection round-trips (lon/lat -> internal projected coords
 // -> lon/lat) introduce floating-point noise (e.g. 48.85 -> 48.849999999999994).
@@ -160,6 +162,10 @@ const MapLayer = () => {
   // lives in the parent and is just handed to whichever one is active.
   const [center, setCenter] = useState<[number, number]>(getInitialCenter);
   const [zoom, setZoom] = useState<number>(getInitialZoom);
+  const [userLocation, setUserLocation] = useState<{
+    lon: number;
+    lat: number;
+  } | null>(null);
 
   const triggers = useRef<{
     triggerReset: () => void;
@@ -170,6 +176,13 @@ const MapLayer = () => {
     (lon: number, lat: number, zoom?: number) =>
       triggers.current?.triggerFlyTo(lon, lat, zoom),
     [],
+  );
+  const handleLocate = useCallback(
+    (lon: number, lat: number) => {
+      setUserLocation({ lon, lat });
+      flyTo(lon, lat, LOCATE_ZOOM);
+    },
+    [flyTo],
   );
   const handlePositionChange = useCallback(
     (newCenter: [number, number], newZoom: number) => {
@@ -225,6 +238,8 @@ const MapLayer = () => {
           center={center}
           zoom={zoom}
           onPositionChange={handlePositionChange}
+          userLocation={userLocation}
+          ref={triggers}
         />
       ) : (
         <OpenLayerMap
@@ -233,6 +248,7 @@ const MapLayer = () => {
           center={center}
           zoom={zoom}
           onPositionChange={handlePositionChange}
+          userLocation={userLocation}
           ref={triggers}
         />
       )}
@@ -247,6 +263,7 @@ const MapLayer = () => {
           resetRotation={resetRotation}
         />
       )}
+      <LocateButton onLocate={handleLocate} />
     </>
   );
 };

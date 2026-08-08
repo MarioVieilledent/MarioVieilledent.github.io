@@ -35,8 +35,8 @@ const RecipesHome = ({ feasts, recipes }: RecipesHomeProps) => {
       <div className="rounded-3xl border border-amber-100 bg-amber-50/60 p-6 md:p-8">
         <div className="flex flex-col gap-2 text-stone-700">
           <p>{t("recipesPageDescription1")}</p>
-          <p>{t("recipesPageDescription3")}</p>
           <p>{t("recipesPageDescription2")}</p>
+          <p>{t("recipesPageDescription3")}</p>
         </div>
       </div>
 

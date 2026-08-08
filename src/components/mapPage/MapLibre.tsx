@@ -1,14 +1,18 @@
-import { Layer, Map, Source } from "@vis.gl/react-maplibre";
-import { useEffect, useState } from "react";
+import { Layer, Map, Marker, Source, type MapRef } from "@vis.gl/react-maplibre";
+import { forwardRef, useEffect, useImperativeHandle, useRef, useState } from "react";
 import "maplibre-gl/dist/maplibre-gl.css";
 import { sources } from "../../utils/sources";
 import type { Source as MapSource } from "../../types/types";
+import UserLocationDot from "./UserLocationDot";
+
+const FLY_DURATION = 500;
 
 interface MapLibreProps {
   layers: string[];
   center: [number, number];
   zoom: number;
   onPositionChange: (center: [number, number], zoom: number) => void;
+  userLocation: { lon: number; lat: number } | null;
 }
 
 // OpenLayers (the 2D renderer) natively expands a "{a-c}" subdomain-rotation
@@ -36,9 +40,29 @@ const expandSubdomainTemplate = (url: string): string[] => {
   return subdomains.map((subdomain) => url.replace(placeholder, subdomain));
 };
 
-const MapLibre = ({ layers, center, zoom, onPositionChange }: MapLibreProps) => {
+const MapLibre = forwardRef<
+  {
+    triggerReset: () => void;
+    triggerFlyTo: (lon: number, lat: number, zoom?: number) => void;
+  },
+  MapLibreProps
+>(({ layers, center, zoom, onPositionChange, userLocation }, ref) => {
+  const mapRef = useRef<MapRef>(null);
   const [width, setWidth] = useState(window.innerWidth);
   const [height, setHeight] = useState(window.innerHeight);
+
+  useImperativeHandle(ref, () => ({
+    triggerReset() {
+      mapRef.current?.resetNorthPitch({ duration: FLY_DURATION });
+    },
+    triggerFlyTo(lon: number, lat: number, zoom?: number) {
+      mapRef.current?.flyTo({
+        center: [lon, lat],
+        zoom: zoom ?? mapRef.current.getZoom(),
+        duration: FLY_DURATION,
+      });
+    },
+  }));
 
   // Sources flagged unsupportedIn3D (no CORS headers on the tile server) are
   // skipped entirely here rather than requested-and-failed: WebGL blocks the
@@ -60,6 +84,7 @@ const MapLibre = ({ layers, center, zoom, onPositionChange }: MapLibreProps) => 
 
   return (
     <Map
+      ref={mapRef}
       initialViewState={{
         longitude: center[0],
         latitude: center[1],
@@ -93,8 +118,13 @@ const MapLibre = ({ layers, center, zoom, onPositionChange }: MapLibreProps) => 
           />
         </Source>
       ))}
+      {userLocation && (
+        <Marker longitude={userLocation.lon} latitude={userLocation.lat}>
+          <UserLocationDot />
+        </Marker>
+      )}
     </Map>
   );
-};
+});
 
 export default MapLibre;

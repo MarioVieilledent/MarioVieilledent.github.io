@@ -2,10 +2,12 @@ import Map from "ol/Map";
 import View from "ol/View";
 import TileLayer from "ol/layer/Tile";
 import XYZ from "ol/source/XYZ";
+import Overlay from "ol/Overlay";
 
 import { forwardRef, useEffect, useImperativeHandle, useRef } from "react";
 import { fromLonLat, toLonLat } from "ol/proj";
 import { sources } from "../../utils/sources";
+import UserLocationDot from "./UserLocationDot";
 
 const FLY_DURATION = 500;
 const RESET_ROTATION_DURATION = 300;
@@ -16,6 +18,7 @@ interface OpenLayerMapProps {
   center: [number, number];
   zoom: number;
   onPositionChange: (center: [number, number], zoom: number) => void;
+  userLocation: { lon: number; lat: number } | null;
 }
 
 const OpenLayerMap = forwardRef<
@@ -24,7 +27,7 @@ const OpenLayerMap = forwardRef<
     triggerFlyTo: (lon: number, lat: number, zoom?: number) => void;
   },
   OpenLayerMapProps
->(({ setRotation, layers, center, zoom, onPositionChange }, ref) => {
+>(({ setRotation, layers, center, zoom, onPositionChange, userLocation }, ref) => {
   useImperativeHandle(ref, () => ({
     triggerReset() {
       view.current.animate({
@@ -52,6 +55,8 @@ const OpenLayerMap = forwardRef<
 
   const container = useRef(null);
   const map = useRef<Map | null>(null);
+  const markerContainer = useRef<HTMLDivElement>(null);
+  const marker = useRef<Overlay | null>(null);
   // Only used as the map's starting point — center/zoom is otherwise owned by
   // the parent (MapLayer) so it survives toggling between 2D and 3D.
   const view = useRef<View>(
@@ -105,13 +110,32 @@ const OpenLayerMap = forwardRef<
           ];
           onPositionChange(currentCenter, currentZoom);
         });
+
+        marker.current = new Overlay({
+          element: markerContainer.current ?? undefined,
+          positioning: "center-center",
+          stopEvent: false,
+        });
+        map.current.addOverlay(marker.current);
       } else {
         map.current.setLayers(tileLayers);
       }
     }
   }, [layers]);
 
-  return <div className="w-full h-full" id="map" ref={container}></div>;
+  useEffect(() => {
+    marker.current?.setPosition(
+      userLocation ? fromLonLat([userLocation.lon, userLocation.lat]) : undefined,
+    );
+  }, [userLocation]);
+
+  return (
+    <div className="w-full h-full" id="map" ref={container}>
+      <div ref={markerContainer}>
+        <UserLocationDot />
+      </div>
+    </div>
+  );
 });
 
 export default OpenLayerMap;
