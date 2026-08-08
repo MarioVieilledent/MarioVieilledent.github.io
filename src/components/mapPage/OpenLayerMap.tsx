@@ -4,16 +4,8 @@ import TileLayer from "ol/layer/Tile";
 import XYZ from "ol/source/XYZ";
 
 import { forwardRef, useEffect, useImperativeHandle, useRef } from "react";
-import { fromLonLat } from "ol/proj";
-import {
-  LOCAL_STORAGE_CENTER_KEY,
-  LOCAL_STORAGE_LAYERS_KEY,
-  LOCAL_STORAGE_RESOLUTION_KEY,
-} from "../../utils/constants";
+import { fromLonLat, toLonLat } from "ol/proj";
 import { sources } from "../../utils/sources";
-
-const DEFAULT_CENTER = [5, 55];
-const DEFAULT_ZOOM = 4;
 
 const FLY_DURATION = 500;
 const RESET_ROTATION_DURATION = 300;
@@ -21,6 +13,9 @@ const RESET_ROTATION_DURATION = 300;
 interface OpenLayerMapProps {
   setRotation: React.Dispatch<React.SetStateAction<number>>;
   layers: string[];
+  center: [number, number];
+  zoom: number;
+  onPositionChange: (center: [number, number], zoom: number) => void;
 }
 
 const OpenLayerMap = forwardRef<
@@ -29,7 +24,7 @@ const OpenLayerMap = forwardRef<
     triggerFlyTo: (lon: number, lat: number, zoom?: number) => void;
   },
   OpenLayerMapProps
->(({ setRotation, layers }, ref) => {
+>(({ setRotation, layers, center, zoom, onPositionChange }, ref) => {
   useImperativeHandle(ref, () => ({
     triggerReset() {
       view.current.animate({
@@ -57,39 +52,22 @@ const OpenLayerMap = forwardRef<
 
   const container = useRef(null);
   const map = useRef<Map | null>(null);
+  // Only used as the map's starting point — center/zoom is otherwise owned by
+  // the parent (MapLayer) so it survives toggling between 2D and 3D.
   const view = useRef<View>(
     new View({
-      center: fromLonLat(DEFAULT_CENTER),
-      zoom: DEFAULT_ZOOM,
+      center: fromLonLat(center),
+      zoom,
     }),
   );
 
   useEffect(() => {
-    view.current.on("change:center", (event) =>
-      window.localStorage.setItem(
-        LOCAL_STORAGE_CENTER_KEY,
-        event.target.values_.center,
-      ),
-    );
-
-    view.current.on("change:resolution", (event) =>
-      window.localStorage.setItem(
-        LOCAL_STORAGE_RESOLUTION_KEY,
-        JSON.stringify(event.target.values_.resolution),
-      ),
-    );
-
     view.current.on("change:rotation", (event) =>
       setRotation(event.target.values_.rotation),
     );
   }, [setRotation]);
 
   useEffect(() => {
-    window.localStorage.setItem(
-      LOCAL_STORAGE_LAYERS_KEY,
-      JSON.stringify(layers),
-    );
-
     if (container.current) {
       const baseMapURL: string =
         sources.find((source) => source.name === layers[0])?.url ?? "";
@@ -114,6 +92,18 @@ const OpenLayerMap = forwardRef<
           target: container.current,
           layers: tileLayers,
           view: view.current,
+        });
+
+        // Fires once after a pan/zoom/flyTo settles (not on every frame),
+        // so this only reports the final resting position.
+        map.current.on("moveend", () => {
+          const currentZoom = view.current.getZoom();
+          if (currentZoom === undefined) return;
+          const currentCenter = toLonLat(view.current.getCenter() ?? []) as [
+            number,
+            number,
+          ];
+          onPositionChange(currentCenter, currentZoom);
         });
       } else {
         map.current.setLayers(tileLayers);

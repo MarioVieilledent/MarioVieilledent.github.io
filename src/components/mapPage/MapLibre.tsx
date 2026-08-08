@@ -2,19 +2,51 @@ import { Layer, Map, Source } from "@vis.gl/react-maplibre";
 import { useEffect, useState } from "react";
 import "maplibre-gl/dist/maplibre-gl.css";
 import { sources } from "../../utils/sources";
+import type { Source as MapSource } from "../../types/types";
 
 interface MapLibreProps {
   layers: string[];
+  center: [number, number];
+  zoom: number;
+  onPositionChange: (center: [number, number], zoom: number) => void;
 }
 
-const MapLibre = ({ layers }: MapLibreProps) => {
+// OpenLayers (the 2D renderer) natively expands a "{a-c}" subdomain-rotation
+// placeholder into a, b, c, but MapLibre GL only understands {z}/{x}/{y} in a
+// raster source's tile URLs — it leaves "{a-c}" untouched, so it ends up
+// requesting the literal (nonexistent) host "{a-c}.tile...", which fails.
+// MapLibre's `tiles` option accepts multiple URL templates for exactly this
+// kind of load balancing, so we expand the range into one URL per subdomain.
+const SUBDOMAIN_RANGE_PATTERN = /\{([a-z0-9])-([a-z0-9])\}/;
+
+const expandSubdomainTemplate = (url: string): string[] => {
+  const match = url.match(SUBDOMAIN_RANGE_PATTERN);
+  if (!match) return [url];
+
+  const [placeholder, start, end] = match;
+  const startCode = start.charCodeAt(0);
+  const endCode = end.charCodeAt(0);
+  if (startCode > endCode) return [url];
+
+  const subdomains: string[] = [];
+  for (let code = startCode; code <= endCode; code++) {
+    subdomains.push(String.fromCharCode(code));
+  }
+
+  return subdomains.map((subdomain) => url.replace(placeholder, subdomain));
+};
+
+const MapLibre = ({ layers, center, zoom, onPositionChange }: MapLibreProps) => {
   const [width, setWidth] = useState(window.innerWidth);
   const [height, setHeight] = useState(window.innerHeight);
 
-  const urls: string[] = layers.map(
-    (layerName) =>
-      sources.find((source) => source.name === layerName)?.url ?? "",
-  );
+  // Sources flagged unsupportedIn3D (no CORS headers on the tile server) are
+  // skipped entirely here rather than requested-and-failed: WebGL blocks the
+  // texture load outright, so there's nothing to gracefully retry.
+  const layerTiles: string[][] = layers
+    .map((layerName) => sources.find((source) => source.name === layerName))
+    .filter((source): source is MapSource => !!source && !source.unsupportedIn3D)
+    .map((source) => expandSubdomainTemplate(source.url));
 
   useEffect(() => {
     const resize = () => {
@@ -29,23 +61,31 @@ const MapLibre = ({ layers }: MapLibreProps) => {
   return (
     <Map
       initialViewState={{
-        longitude: 10,
-        latitude: 50,
-        zoom: 2.8,
+        longitude: center[0],
+        latitude: center[1],
+        zoom,
       }}
+      // Fires once after a pan/zoom settles (not on every frame), matching
+      // the 2D renderer's "moveend"-based reporting.
+      onMoveEnd={(event) =>
+        onPositionChange(
+          [event.viewState.longitude, event.viewState.latitude],
+          event.viewState.zoom,
+        )
+      }
       style={{ width, height }}
       mapStyle="https://demotiles.maplibre.org/globe.json"
     >
-      {urls.map((url, index) => (
+      {layerTiles.map((tiles, index) => (
         <Source
-          key={`${index} ${url}`}
-          id={`${index} ${url}`}
+          key={`${index} ${tiles[0]}`}
+          id={`${index} ${tiles[0]}`}
           type="raster"
-          tiles={[url]}
+          tiles={tiles}
           tileSize={256}
         >
           <Layer
-            id={`${index} ${url}`}
+            id={`${index} ${tiles[0]}`}
             type="raster"
             paint={{
               "raster-opacity": 1.0,

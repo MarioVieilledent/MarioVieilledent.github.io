@@ -83,6 +83,18 @@ export const translations = {
     "清除图层",
     "Počisti plasti",
   ],
+  notAvailableIn3D: [
+    "Not available in 3D view",
+    "Non disponible en vue 3D",
+    "Non disponibile in vista 3D",
+    "No disponible en vista 3D",
+    "Ikke tilgjengelig i 3D-visning",
+    "3D görünümde kullanılamaz",
+    "Μη διαθέσιμο σε προβολή 3D",
+    "3Dビューでは利用できません",
+    "3D视图中不可用",
+    "Ni na voljo v 3D-pogledu",
+  ],
   general: [
     "General",
     "Général",

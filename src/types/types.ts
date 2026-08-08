@@ -21,4 +21,10 @@ export interface Source {
   type: string;
   description: string;
   defaultSelectedLayers?: boolean;
+  // Set when the tile server sends no CORS headers, so the tiles work as
+  // plain <img> elements in the 2D (OpenLayers/canvas) renderer but are
+  // blocked by the browser when the 3D (MapLibre/WebGL) renderer tries to
+  // fetch them as textures. There's no client-side fix for this — it
+  // requires the server itself to opt in via Access-Control-Allow-Origin.
+  unsupportedIn3D?: boolean;
 }

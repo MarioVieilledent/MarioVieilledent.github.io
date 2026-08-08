@@ -127,6 +127,10 @@ export const sources: Source[] = [
     description:
       "Overlay showing global population density for 2020. Useful for demographic analysis and visualizing population clusters.",
     defaultSelectedLayers: true,
+    // luminocity3d.org sends no Access-Control-Allow-Origin header, so
+    // MapLibre (WebGL) can't load its tiles as textures — confirmed via
+    // direct request, not a guess. Works fine in the 2D (canvas) renderer.
+    unsupportedIn3D: true,
   },
   {
     name: "FlightConnections",

@@ -8,9 +8,10 @@ import { sources } from "../../utils/sources";
 interface LayerMenuProps {
   layers: string[];
   setLayers: React.Dispatch<React.SetStateAction<string[]>>;
+  globeView: boolean;
 }
 
-const LayerMenu = ({ layers, setLayers }: LayerMenuProps) => {
+const LayerMenu = ({ layers, setLayers, globeView }: LayerMenuProps) => {
   const isMobile = useIsMobile();
   const { t } = useTranslation();
 
@@ -36,6 +37,7 @@ const LayerMenu = ({ layers, setLayers }: LayerMenuProps) => {
                     l={l}
                     layers={layers}
                     setLayers={setLayers}
+                    globeView={globeView}
                   />
                 ))}
             </div>
@@ -49,6 +51,7 @@ const LayerMenu = ({ layers, setLayers }: LayerMenuProps) => {
                     l={l}
                     layers={layers}
                     setLayers={setLayers}
+                    globeView={globeView}
                   />
                 ))}
             </div>
@@ -64,6 +67,7 @@ const LayerMenu = ({ layers, setLayers }: LayerMenuProps) => {
                     l={l}
                     layers={layers}
                     setLayers={setLayers}
+                    globeView={globeView}
                   />
                 ))}
             </div>
@@ -77,6 +81,7 @@ const LayerMenu = ({ layers, setLayers }: LayerMenuProps) => {
                     l={l}
                     layers={layers}
                     setLayers={setLayers}
+                    globeView={globeView}
                   />
                 ))}
             </div>
@@ -90,6 +95,7 @@ const LayerMenu = ({ layers, setLayers }: LayerMenuProps) => {
                     l={l}
                     layers={layers}
                     setLayers={setLayers}
+                    globeView={globeView}
                   />
                 ))}
             </div>
@@ -103,6 +109,7 @@ const LayerMenu = ({ layers, setLayers }: LayerMenuProps) => {
                     l={l}
                     layers={layers}
                     setLayers={setLayers}
+                    globeView={globeView}
                   />
                 ))}
             </div>
@@ -126,6 +133,7 @@ const LayerMenu = ({ layers, setLayers }: LayerMenuProps) => {
                     l={l}
                     layers={layers}
                     setLayers={setLayers}
+                    globeView={globeView}
                   />
                 ))}
             </div>
@@ -159,6 +167,7 @@ const LayerMenu = ({ layers, setLayers }: LayerMenuProps) => {
                 l={l}
                 layers={layers}
                 setLayers={setLayers}
+                globeView={globeView}
               />
             ))}
         </div>
@@ -172,6 +181,7 @@ const LayerMenu = ({ layers, setLayers }: LayerMenuProps) => {
                 l={l}
                 layers={layers}
                 setLayers={setLayers}
+                globeView={globeView}
               />
             ))}
         </div>
@@ -185,6 +195,7 @@ const LayerMenu = ({ layers, setLayers }: LayerMenuProps) => {
                 l={l}
                 layers={layers}
                 setLayers={setLayers}
+                globeView={globeView}
               />
             ))}
         </div>
@@ -198,6 +209,7 @@ const LayerMenu = ({ layers, setLayers }: LayerMenuProps) => {
                 l={l}
                 layers={layers}
                 setLayers={setLayers}
+                globeView={globeView}
               />
             ))}
         </div>

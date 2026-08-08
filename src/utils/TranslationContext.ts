@@ -107,3 +107,8 @@ export const languages: {
     index: 9,
   },
 ];
+
+export const isLanguageAvailable = (
+  value: string,
+): value is LanguagesAvailable =>
+  languages.some((language) => language.code === value);

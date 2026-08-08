@@ -1,5 +1,6 @@
 import { LuEye, LuEyeClosed } from "react-icons/lu";
 import type { Source } from "../../types/types";
+import { useTranslation } from "../../utils/TranslationContext";
 
 const makePreviewUrl = (url: string): string =>
   url
@@ -12,23 +13,34 @@ const LayerButton = ({
   l,
   layers,
   setLayers,
+  globeView,
 }: {
   l: Source;
   layers: string[];
   setLayers: React.Dispatch<React.SetStateAction<string[]>>;
+  globeView: boolean;
 }) => {
+  const { t } = useTranslation();
   const isOverlay = l.type.startsWith("overlay");
   const isSelected = layers.includes(l.name);
+  const isUnavailable = globeView && l.unsupportedIn3D === true;
 
   return (
     <div
       key={l.name}
-      className={`flex items-center gap-2 pr-2 cursor-pointer rounded-md ${
+      title={isUnavailable ? t("notAvailableIn3D") : undefined}
+      className={`flex items-center gap-2 pr-2 rounded-md ${
+        isUnavailable
+          ? "opacity-40 cursor-not-allowed"
+          : "cursor-pointer"
+      } ${
         isSelected
           ? `bg-gray-200 border-1 border-gray-500`
           : `border-1 border-transparent`
       }`}
       onClick={() => {
+        if (isUnavailable) return;
+
         if (isOverlay) {
           if (layers.includes(l.name)) {
             setLayers((prev) => prev.filter((lay) => lay !== l.name));
