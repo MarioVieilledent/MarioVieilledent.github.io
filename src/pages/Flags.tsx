@@ -52,7 +52,7 @@ const Flags = () => {
                   const idx = characteristics.findIndex(
                     (c) => c.name === characteristic.name
                   );
-                  if (idx) {
+                  if (idx !== -1) {
                     const newElem = JSON.parse(JSON.stringify(characteristics));
                     newElem[idx].show = e.target.checked;
                     setCharacteristics(newElem);

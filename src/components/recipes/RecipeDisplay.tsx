@@ -1,7 +1,9 @@
 import { useIsMobile } from "../../utils/isMobileHook";
 import { useTranslation } from "../../utils/TranslationContext";
+import { RECIPES_PATH } from "../../utils/routes";
 import type { Recipe, RecipeDetails } from "../../utils/validator";
 import BulletList from "./BulletList";
+import NavigateTo from "../NavigateTo";
 
 const RecipeDisplay = ({ recipe }: { recipe: Recipe }) => {
   const { language, t } = useTranslation();
@@ -50,6 +52,8 @@ const RecipeDisplay = ({ recipe }: { recipe: Recipe }) => {
           isMobile ? "flex flex-col gap-8 px-4 pb-8" : "flex flex-col gap-8 pb-8"
         }
       >
+        <NavigateTo location={`${RECIPES_PATH}/${recipe.category}`} />
+
         <div className="text-center">
           <h1 className="text-3xl font-bold tracking-tight text-stone-900 md:text-5xl">
             {details.name}

@@ -1,5 +1,6 @@
 import { useEffect, useMemo, useState } from "react";
 import { turkishWords } from "../turkishWords";
+import Home from "../components/Home";
 
 type WordStats = {
   correct: number;
@@ -97,6 +98,7 @@ export default function TurkishFlashcards() {
 
   return (
     <div className="mx-auto max-w-xl p-6">
+      <Home />
       <div className="rounded-2xl border bg-white p-8 shadow">
         <div className="mb-2 text-sm text-gray-500">
           {current.direction === "tr-to-en"

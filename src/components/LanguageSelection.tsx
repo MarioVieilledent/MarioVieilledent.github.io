@@ -4,7 +4,7 @@ import {
   useTranslation,
   type LanguagesAvailable,
 } from "../utils/TranslationContext";
-import { LuLanguages } from "react-icons/lu";
+import { LuChevronDown, LuLanguages } from "react-icons/lu";
 
 const LanguageSelection = () => {
   const { t, language, setLanguage } = useTranslation();
@@ -21,6 +21,12 @@ const LanguageSelection = () => {
       >
         <LuLanguages size="20" />
         <span>{t("language")}</span>
+        <LuChevronDown
+          size="16"
+          className={`text-stone-400 transition-transform duration-150 ${
+            open ? "rotate-180" : ""
+          }`}
+        />
       </button>
 
       {open && (

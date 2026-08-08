@@ -1,4 +1,4 @@
-import { useCallback, useEffect, useRef, useState } from "react";
+import { lazy, Suspense, useCallback, useEffect, useRef, useState } from "react";
 import LayerMenu from "./LayerMenu";
 import { sources } from "../../utils/sources";
 import ResetRotationButton from "./ResetRotationButton";
@@ -16,9 +16,13 @@ import {
 } from "../../utils/constants";
 import { getURLParam, setURLParam } from "../../utils/urlSync";
 import SearchButton from "./SearchButton";
-import MapLibre from "./MapLibre";
 import GlobeSwitch from "./GlobeSwitch";
 import LocateButton from "./LocateButton";
+
+// The MapLibre 3D globe pulls in the ~1MB maplibre-gl chunk. It's opt-in
+// (behind GlobeSwitch), so loading it eagerly would tax every visit just to
+// support the visits that never toggle to 3D.
+const MapLibre = lazy(() => import("./MapLibre"));
 
 const DEFAULT_LAYERS: string[] = sources
   .filter((s) => s.defaultSelectedLayers)
@@ -233,14 +237,16 @@ const MapLayer = () => {
   return (
     <>
       {globeView ? (
-        <MapLibre
-          layers={layers}
-          center={center}
-          zoom={zoom}
-          onPositionChange={handlePositionChange}
-          userLocation={userLocation}
-          ref={triggers}
-        />
+        <Suspense fallback={null}>
+          <MapLibre
+            layers={layers}
+            center={center}
+            zoom={zoom}
+            onPositionChange={handlePositionChange}
+            userLocation={userLocation}
+            ref={triggers}
+          />
+        </Suspense>
       ) : (
         <OpenLayerMap
           setRotation={setRotation}

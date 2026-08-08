@@ -8,6 +8,7 @@ import {
   LuNotebookText,
   LuSchool,
   LuBrain,
+  LuFlag,
 } from "react-icons/lu";
 import Float from "./Float";
 import { Link } from "react-router";
@@ -53,6 +54,10 @@ const Menu = () => {
         <Link to="turkishFlashcards" className={linkClassName}>
           <LuBrain size="20" />
           {t("turkishFlashcards")}
+        </Link>
+        <Link to="flags" className={linkClassName}>
+          <LuFlag size="20" />
+          {t("flags")}
         </Link>
         <a
           className={linkClassName}

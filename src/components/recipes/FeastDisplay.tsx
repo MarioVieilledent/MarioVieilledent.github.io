@@ -1,9 +1,11 @@
 import { useTranslation } from "../../utils/TranslationContext";
 import { formatDate } from "../../utils/utils";
+import { RECIPES_PATH } from "../../utils/routes";
 import type { Feast, FeastDetails } from "../../utils/validator";
 import { useIsMobile } from "../../utils/isMobileHook";
 import Ranking from "./Ranking";
 import BulletList from "./BulletList";
+import NavigateTo from "../NavigateTo";
 
 const FeastDisplay = ({ feast }: { feast: Feast }) => {
   const { language, t } = useTranslation();
@@ -38,6 +40,8 @@ const FeastDisplay = ({ feast }: { feast: Feast }) => {
           isMobile ? "flex flex-col gap-8 px-4 pb-8" : "flex flex-col gap-8 pb-8"
         }
       >
+        <NavigateTo location={`${RECIPES_PATH}/feasts`} />
+
         <div className="flex flex-col items-center gap-3 text-center">
           <div className="flex items-center gap-2 text-sm font-medium text-stone-500">
             <img

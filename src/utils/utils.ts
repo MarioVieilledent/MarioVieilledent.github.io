@@ -1,4 +1,6 @@
-export const computeZoomForBoundingBox = (boundingbox: string[4]): number => {
+export const computeZoomForBoundingBox = (
+  boundingbox: [string, string, string, string],
+): number => {
   const [minLat, maxLat, minLon, maxLon] = boundingbox;
 
   const latSpan = Math.abs(Number(maxLat) - Number(minLat));

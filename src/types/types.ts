@@ -12,7 +12,7 @@ export interface OSMnominatimResponse {
   addresstype: string;
   name: string;
   display_name: string;
-  boundingbox: string[4];
+  boundingbox: [string, string, string, string];
 }
 
 export interface Source {

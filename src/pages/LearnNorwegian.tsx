@@ -31,7 +31,11 @@ const LearnNorwegian = () => {
   useEffect(() => {
     const saved = localStorage.getItem(STORAGE_KEY);
     if (saved) {
-      setStats(JSON.parse(saved));
+      try {
+        setStats(JSON.parse(saved));
+      } catch {
+        console.error(`Can't parse JSON from localStorage key = ${STORAGE_KEY}`);
+      }
     }
   }, []);
 
@@ -119,8 +123,8 @@ const LearnNorwegian = () => {
                   : `${t("norwegian")}: ${question.word.norwegian}`}
               </span>
             </div>
-            <span>{`${stats[question.word.english]?.success ?? 0}/${
-              stats[question.word.english]?.failure ?? 0
+            <span>{`${stats[question.word.norwegian]?.success ?? 0}/${
+              stats[question.word.norwegian]?.failure ?? 0
             }`}</span>
           </div>
           <span>{question.word.partOfSpeech}</span>

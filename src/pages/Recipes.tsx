@@ -1,12 +1,11 @@
 import { useEffect, useRef, useState } from "react";
 import Home from "../components/Home";
 import LanguageSelection from "../components/LanguageSelection";
-import { useTranslation } from "../utils/TranslationContext";
+import { useTranslation, type TermKeys } from "../utils/TranslationContext";
 import { Link, Route, Routes, useLocation, useNavigate } from "react-router";
 import { useIsMobile } from "../utils/isMobileHook";
 import { RECIPES_PATH } from "../utils/routes";
 import { feast, recipe, type Feast, type Recipe } from "../utils/validator";
-import NavigateTo from "../components/NavigateTo";
 import z from "zod";
 import FeastCard from "../components/recipes/FeastCard";
 import FeastDisplay from "../components/recipes/FeastDisplay";
@@ -18,20 +17,12 @@ import RecipesHome from "../components/recipes/RecipesHome";
 import SearchPage from "../components/recipes/SearchRecipe";
 import { LuX, LuMenu, LuSearch } from "react-icons/lu";
 import websiteLogo from "/favicon.png";
+import { categories, categoryEmoji } from "../utils/recipeCategories";
 
 const REGEX_CATEGORY = /\/recipes\/(.*)/;
 const REGEX_RECIPE = /\/recipes\/(.*)\/(.*)/;
 
 const CARD_GRID = "grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3";
-
-const categories = [
-  "feasts",
-  "starters",
-  "mainCourses",
-  "desserts",
-  "breads",
-  "dips",
-] as const;
 
 const Recipes = () => {
   const { t } = useTranslation();
@@ -47,33 +38,14 @@ const Recipes = () => {
   const [feasts, setFeasts] = useState<Feast[]>([]);
 
   const [category, setCategory] = useState<string | undefined>(undefined);
-  const [element, setElement] = useState<string | undefined>(undefined);
 
   const [search, setSearch] = useState("");
 
   const navigate = useNavigate();
   const location = useLocation();
 
-  const tabNavDisplay = (tab: string): string => {
-    switch (tab) {
-      case "home":
-        return `🏠 ${t("home")}`;
-      case "feasts":
-        return `🍽️ ${t("feasts")}`;
-      case "starters":
-        return `🥗 ${t("starters")}`;
-      case "mainCourses":
-        return `🍝 ${t("mainCourses")}`;
-      case "desserts":
-        return `🍰 ${t("desserts")}`;
-      case "breads":
-        return `🥖 ${t("breads")}`;
-      case "dips":
-        return `🥣 ${t("dips")}`;
-      default:
-        return "";
-    }
-  };
+  const tabNavDisplay = (tab: string): string =>
+    `${categoryEmoji(tab)} ${t(tab as TermKeys)}`;
 
   useEffect(() => {
     if (searchModePhone) {
@@ -84,21 +56,17 @@ const Recipes = () => {
   useEffect(() => {
     if (location.pathname === RECIPES_PATH) {
       setCategory(undefined);
-      setElement(undefined);
     } else {
       const match = REGEX_RECIPE.exec(location.pathname);
       if (match) {
         setCategory(match.length >= 2 ? match[1] : undefined);
-        setElement(match.length >= 3 ? match[2] : undefined);
       } else {
         const matchCategory = REGEX_CATEGORY.exec(location.pathname);
-        if (matchCategory) {
-          setCategory(matchCategory.length >= 2 ? matchCategory[1] : undefined);
-          setElement(undefined);
-        } else {
-          setCategory(undefined);
-          setElement(undefined);
-        }
+        setCategory(
+          matchCategory && matchCategory.length >= 2
+            ? matchCategory[1]
+            : undefined,
+        );
       }
     }
   }, [location]);
@@ -240,13 +208,7 @@ const Recipes = () => {
             <div className="flex flex-col gap-3 py-3">
               <div className="flex h-10 items-center justify-between gap-8">
                 <div className="flex items-center gap-8">
-                  {element ? (
-                    <NavigateTo location={`${RECIPES_PATH}/${category}`} />
-                  ) : category ? (
-                    <NavigateTo location={`${RECIPES_PATH}`} />
-                  ) : (
-                    <Home />
-                  )}
+                  <Home />
                   <span className="text-2xl font-bold tracking-tight text-stone-900">
                     {t("recipes")}
                   </span>

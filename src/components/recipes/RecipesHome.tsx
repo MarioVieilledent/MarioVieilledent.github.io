@@ -1,9 +1,11 @@
 import { LuDownload, LuLink } from "react-icons/lu";
+import { Link } from "react-router";
 import { useIsMobile } from "../../utils/isMobileHook";
-import { useTranslation } from "../../utils/TranslationContext";
+import { useTranslation, type TermKeys } from "../../utils/TranslationContext";
 import { randomIndexBasedOnDate } from "../../utils/utils";
+import { RECIPES_PATH } from "../../utils/routes";
+import { categories, categoryEmoji } from "../../utils/recipeCategories";
 import type { Feast, Recipe } from "../../utils/validator";
-import FeastCard from "./FeastCard";
 import RecipeCard from "./RecipeCard";
 
 interface RecipesHomeProps {
@@ -12,6 +14,32 @@ interface RecipesHomeProps {
 }
 
 const recipeWithCheese = 1; // La pizza margheritta :c
+
+// Picks a representative picture for a category tile, rotating daily like
+// the random recipe below, so the tiles aren't frozen on the same image.
+const pictureForCategory = (
+  category: string,
+  recipes: Recipe[],
+  feasts: Feast[],
+): string | undefined => {
+  const pool =
+    category === "feasts"
+      ? feasts.filter((f) => f.pictures.length > 0)
+      : recipes.filter((r) => r.category === category && r.pictures.length > 0);
+
+  return pool.length > 0
+    ? pool[randomIndexBasedOnDate(pool.length)].pictures[0]
+    : undefined;
+};
+
+const countForCategory = (
+  category: string,
+  recipes: Recipe[],
+  feasts: Feast[],
+): number =>
+  category === "feasts"
+    ? feasts.length
+    : recipes.filter((r) => r.category === category).length;
 
 const RecipesHome = ({ feasts, recipes }: RecipesHomeProps) => {
   const { t } = useTranslation();
@@ -22,14 +50,6 @@ const RecipesHome = ({ feasts, recipes }: RecipesHomeProps) => {
       ? recipes[randomIndexBasedOnDate(recipes.length)]
       : undefined;
 
-  const lastFeast =
-    feasts.length > 0
-      ? feasts.reduce(
-          (acc, f) => (acc.mealNumber > f.mealNumber ? acc : f),
-          feasts[0],
-        )
-      : undefined;
-
   return (
     <div className={isMobile ? "flex flex-col gap-10 px-4 pb-8" : "flex flex-col gap-10 pb-8"}>
       <div className="rounded-3xl border border-amber-100 bg-amber-50/60 p-6 md:p-8">
@@ -37,6 +57,49 @@ const RecipesHome = ({ feasts, recipes }: RecipesHomeProps) => {
           <p>{t("recipesPageDescription1")}</p>
           <p>{t("recipesPageDescription2")}</p>
           <p>{t("recipesPageDescription3")}</p>
+        </div>
+      </div>
+
+      <div className="flex flex-col gap-4">
+        <h2 className="text-xl font-semibold text-stone-900">
+          {t("browseCategories")}
+        </h2>
+        <div className="grid grid-cols-2 gap-4 sm:grid-cols-3">
+          {categories.map((category) => {
+            const picture = pictureForCategory(category, recipes, feasts);
+            const count = countForCategory(category, recipes, feasts);
+
+            return (
+              <Link
+                key={category}
+                to={`${RECIPES_PATH}/${category}`}
+                className="group relative flex aspect-[4/3] items-end overflow-hidden rounded-2xl border border-stone-200 shadow-sm transition-all duration-200 hover:-translate-y-0.5 hover:shadow-lg"
+              >
+                {picture ? (
+                  <img
+                    src={`/food/${picture}`}
+                    alt={t(category as TermKeys)}
+                    className="absolute inset-0 h-full w-full object-cover transition-transform duration-200 group-hover:scale-105"
+                  />
+                ) : (
+                  <img
+                    src="/noPicturePlaceholder.png"
+                    alt="No picture placeholder"
+                    className="absolute inset-0 h-full w-full bg-stone-50 object-contain p-8"
+                  />
+                )}
+                <div className="absolute inset-0 bg-gradient-to-t from-black/70 via-black/10 to-transparent" />
+                <div className="relative flex w-full items-center justify-between gap-2 p-4">
+                  <span className="text-lg font-semibold text-white">
+                    {categoryEmoji(category)} {t(category as TermKeys)}
+                  </span>
+                  <span className="rounded-full bg-white/20 px-2.5 py-1 text-xs font-semibold text-white backdrop-blur-sm">
+                    {count}
+                  </span>
+                </div>
+              </Link>
+            );
+          })}
         </div>
       </div>
 
@@ -103,17 +166,6 @@ const RecipesHome = ({ feasts, recipes }: RecipesHomeProps) => {
           </h2>
           <div className="max-w-sm">
             <RecipeCard recipe={randomRecipe} />
-          </div>
-        </div>
-      )}
-
-      {lastFeast && (
-        <div className="flex flex-col gap-4">
-          <h2 className="text-xl font-semibold text-stone-900">
-            {t("lastFeast")}
-          </h2>
-          <div className="max-w-sm">
-            <FeastCard feast={lastFeast} />
           </div>
         </div>
       )}

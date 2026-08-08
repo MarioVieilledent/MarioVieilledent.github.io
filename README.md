@@ -1,7 +1,7 @@
 # Travelling Rat
 
 1. [Explore free raster maps](https://mariovieilledent.github.io/)
-2. [Learn Noregian](https://mariovieilledent.github.io/#/learn) with flash cards with more than 300 words
+2. [Learn Norwegian](https://mariovieilledent.github.io/#/learnNorwegian) with flash cards with more than 300 words
 3. [Explore my recipes](https://mariovieilledent.github.io/#/recipes) and dishes
 
 ## Install, run, build, publish
@@ -23,7 +23,3 @@ Vite + React + TailwindCSS + OpenLayers
 I use raster maps from various APIs that are free and doesn't require any auth key.
 
 Find URL sources in `./src/utils/sources.ts`
-
-## Audio generation for Turkish sentences
-
-- [ttsmaker](https://ttsmaker.com/)
