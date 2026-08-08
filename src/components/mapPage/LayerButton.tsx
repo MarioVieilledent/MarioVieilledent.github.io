@@ -29,14 +29,16 @@ const LayerButton = ({
     <div
       key={l.name}
       title={isUnavailable ? t("notAvailableIn3D") : undefined}
-      className={`flex items-center gap-2 pr-2 rounded-md ${
+      className={`flex items-center gap-2 rounded-xl py-1 pr-3 transition-colors ${
         isUnavailable
-          ? "opacity-40 cursor-not-allowed"
+          ? "cursor-not-allowed opacity-40"
           : "cursor-pointer"
       } ${
         isSelected
-          ? `bg-gray-200 border-1 border-gray-500`
-          : `border-1 border-transparent`
+          ? "bg-amber-50 ring-1 ring-amber-300"
+          : isUnavailable
+            ? ""
+            : "hover:bg-stone-100"
       }`}
       onClick={() => {
         if (isUnavailable) return;
@@ -53,17 +55,21 @@ const LayerButton = ({
       }}
     >
       <img
-        className="w-12 h-12 rounded-md"
+        className="h-12 w-12 rounded-lg object-cover"
         src={makePreviewUrl(l.url)}
         alt={`Map preview (${l.name})`}
       />
       {isOverlay &&
         (isSelected ? (
-          <LuEye className="w-4 h-4" />
+          <LuEye className="h-4 w-4 shrink-0 text-amber-600" />
         ) : (
-          <LuEyeClosed className="w-4 h-4" />
+          <LuEyeClosed className="h-4 w-4 shrink-0 text-stone-400" />
         ))}
-      <span className="text-xs">{l.name}</span>
+      <span
+        className={`text-xs ${isSelected ? "font-semibold text-amber-800" : "text-stone-700"}`}
+      >
+        {l.name}
+      </span>
     </div>
   );
 };

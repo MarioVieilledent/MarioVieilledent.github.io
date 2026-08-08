@@ -22,6 +22,8 @@ import websiteLogo from "/favicon.png";
 const REGEX_CATEGORY = /\/recipes\/(.*)/;
 const REGEX_RECIPE = /\/recipes\/(.*)\/(.*)/;
 
+const CARD_GRID = "grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3";
+
 const categories = [
   "feasts",
   "starters",
@@ -125,91 +127,103 @@ const Recipes = () => {
     return () => window.removeEventListener("keydown", handleKeyDown);
   }, []);
 
+  const isActiveTab = (tab: string): boolean =>
+    (tab === "home" && location.pathname.endsWith(`${RECIPES_PATH}`)) ||
+    (tab !== "home" && location.pathname.includes(tab));
+
   const PhoneDrawer = () => (
-    <div
-      className={`flex flex-col gap-8 p-4 fixed top-0 left-0 h-full w-4/5 bg-white bg-opacity-90 transition-transform duration-200 ${
-        phoneDrawer ? "translate-x-0" : "-translate-x-full"
-      }`}
-    >
-      <a
-        className="flex items-center gap-2 cursor-pointer"
-        onClick={() => setPhoneDrawer(false)}
+    <>
+      {phoneDrawer && (
+        <div
+          className="fixed inset-0 z-40 bg-stone-900/30 backdrop-blur-sm"
+          onClick={() => setPhoneDrawer(false)}
+        />
+      )}
+      <div
+        className={`fixed top-0 left-0 z-50 flex h-full w-4/5 max-w-xs flex-col gap-8 bg-white p-6 shadow-2xl transition-transform duration-200 ${
+          phoneDrawer ? "translate-x-0" : "-translate-x-full"
+        }`}
       >
-        <LuX size="32" />
-      </a>
-
-      <LanguageSelection />
-
-      <Home />
-
-      <div className="flex flex-col gap-4">
-        <div>{t("recipes")}</div>
-        {["home", ...categories].map((tab) => (
-          <Link
-            key={tab}
-            onClick={() => {
-              navigate(`${RECIPES_PATH}/${tab}`);
-              setPhoneDrawer(false);
-            }}
-            className={
-              (tab === "home" &&
-                location.pathname.endsWith(`${RECIPES_PATH}`)) ||
-              (tab !== "home" && location.pathname.includes(tab))
-                ? "pl-8 text-lg font-bold"
-                : "pl-8 text-lg "
-            }
-            to={tab === "home" ? RECIPES_PATH : `${RECIPES_PATH}/${tab}`}
+        <div className="flex items-center justify-between">
+          <Home />
+          <a
+            className="flex h-9 w-9 cursor-pointer items-center justify-center rounded-full text-stone-500 hover:bg-stone-100"
+            onClick={() => setPhoneDrawer(false)}
           >
-            {tabNavDisplay(tab)}
-          </Link>
-        ))}
+            <LuX size="20" />
+          </a>
+        </div>
+
+        <LanguageSelection />
+
+        <div className="flex flex-col gap-1">
+          <div className="mb-1 text-xs font-semibold uppercase tracking-wide text-stone-400">
+            {t("recipes")}
+          </div>
+          {["home", ...categories].map((tab) => (
+            <Link
+              key={tab}
+              onClick={() => {
+                navigate(`${RECIPES_PATH}/${tab}`);
+                setPhoneDrawer(false);
+              }}
+              className={`rounded-xl px-3 py-2.5 text-base transition-colors ${
+                isActiveTab(tab)
+                  ? "bg-amber-50 font-semibold text-amber-700"
+                  : "text-stone-600 hover:bg-stone-50"
+              }`}
+              to={tab === "home" ? RECIPES_PATH : `${RECIPES_PATH}/${tab}`}
+            >
+              {tabNavDisplay(tab)}
+            </Link>
+          ))}
+        </div>
       </div>
-    </div>
+    </>
   );
 
   return (
-    <>
+    <div className="min-h-screen bg-stone-50">
       <PhoneDrawer />
-      <PageWrapper>
-        {isMobile ? (
-          <div className="flex h-16 justify-between gap-4 bg-gray-200">
-            {searchModePhone ? (
-              <div className="flex w-64 h-8 self-center px-4">
-                <input
-                  type="text"
-                  className="grow px-2 h-full bg-gray-300"
-                  placeholder={`${t("search")}...`}
-                  value={search}
-                  onChange={(event) => setSearch(event.target.value)}
-                  ref={phoneInputRef}
-                />
-              </div>
-            ) : (
-              <div className="flex">
-                <a
-                  className="flex items-center justify-center w-16 h-16"
-                  onClick={() => setPhoneDrawer(true)}
-                >
-                  <LuMenu size="24" />
-                </a>
 
-                <div
-                  className="flex items-center gap-4"
-                  onClick={() => navigate(`${RECIPES_PATH}`)}
-                >
-                  <img className="w-16" src={websiteLogo} alt="Website logo" />
-
-                  {category ? (
-                    <div className="text-lg">{tabNavDisplay(category)}</div>
-                  ) : (
-                    <div className="text-lg">{tabNavDisplay("home")}</div>
-                  )}
+      <div className="sticky top-0 z-30 border-b border-stone-200 bg-white/90 backdrop-blur-sm">
+        <div className={isMobile ? "" : "mx-auto max-w-6xl px-8"}>
+          {isMobile ? (
+            <div className="flex h-16 items-center justify-between gap-2 px-4">
+              {searchModePhone ? (
+                <div className="flex h-10 grow items-center rounded-full border border-stone-200 bg-stone-50 px-4">
+                  <LuSearch size="16" className="shrink-0 text-stone-400" />
+                  <input
+                    type="text"
+                    className="h-full w-full bg-transparent px-2 outline-none"
+                    placeholder={`${t("search")}...`}
+                    value={search}
+                    onChange={(event) => setSearch(event.target.value)}
+                    ref={phoneInputRef}
+                  />
                 </div>
-              </div>
-            )}
-            <div className="flex">
+              ) : (
+                <div className="flex items-center gap-2">
+                  <a
+                    className="flex h-10 w-10 shrink-0 cursor-pointer items-center justify-center rounded-full text-stone-600 hover:bg-stone-100"
+                    onClick={() => setPhoneDrawer(true)}
+                  >
+                    <LuMenu size="22" />
+                  </a>
+
+                  <div
+                    className="flex items-center gap-3"
+                    onClick={() => navigate(`${RECIPES_PATH}`)}
+                  >
+                    <img className="w-10" src={websiteLogo} alt="Website logo" />
+                    <div className="text-lg font-semibold text-stone-900">
+                      {category ? tabNavDisplay(category) : tabNavDisplay("home")}
+                    </div>
+                  </div>
+                </div>
+              )}
               <a
-                className="flex items-center justify-center w-16 h-16 cursor-pointer"
+                className="flex h-10 w-10 shrink-0 cursor-pointer items-center justify-center rounded-full text-stone-600 hover:bg-stone-100"
                 onClick={() => {
                   if (searchModePhone) {
                     setSearchModePhone(false);
@@ -219,84 +233,76 @@ const Recipes = () => {
                   }
                 }}
               >
-                {searchModePhone ? <LuX size="24" /> : <LuSearch size="24" />}
+                {searchModePhone ? <LuX size="20" /> : <LuSearch size="20" />}
               </a>
             </div>
-          </div>
-        ) : (
-          <div className="flex flex-col gap-2 bg-gray-200">
-            <div className="flex h-16 gap-8 px-4 items-center justify-between">
-              <div className="flex gap-8 items-center">
-                {element ? (
-                  <NavigateTo location={`${RECIPES_PATH}/${category}`} />
-                ) : category ? (
-                  <NavigateTo location={`${RECIPES_PATH}`} />
-                ) : (
-                  <Home />
-                )}
-              </div>
-
-              <div className="flex gap-4 items-center">
-                <div className="flex gap-8 items-center">
-                  <span className="text-2xl">{t("recipes")}</span>
-                </div>
-
-                <div className="flex w-64 h-8 bg-gray-300">
-                  <input
-                    ref={desktopInputRef}
-                    type="text"
-                    className="grow px-2 h-full"
-                    placeholder={`${t("search")}...`}
-                    value={search}
-                    onChange={(event) => setSearch(event.target.value)}
-                  />
-
-                  {search && (
-                    <button
-                      className="w-8 h-8 flex items-center justify-center"
-                      onClick={() => setSearch("")}
-                    >
-                      <LuX size="16" />
-                    </button>
+          ) : (
+            <div className="flex flex-col gap-3 py-3">
+              <div className="flex h-10 items-center justify-between gap-8">
+                <div className="flex items-center gap-8">
+                  {element ? (
+                    <NavigateTo location={`${RECIPES_PATH}/${category}`} />
+                  ) : category ? (
+                    <NavigateTo location={`${RECIPES_PATH}`} />
+                  ) : (
+                    <Home />
                   )}
+                  <span className="text-2xl font-bold tracking-tight text-stone-900">
+                    {t("recipes")}
+                  </span>
+                </div>
+
+                <div className="flex items-center gap-6">
+                  <div className="flex h-10 w-72 items-center rounded-full border border-stone-200 bg-stone-50 px-4 transition-colors focus-within:border-amber-400 focus-within:bg-white">
+                    <LuSearch size="16" className="shrink-0 text-stone-400" />
+                    <input
+                      ref={desktopInputRef}
+                      type="text"
+                      className="h-full w-full bg-transparent px-2 outline-none"
+                      placeholder={`${t("search")}...`}
+                      value={search}
+                      onChange={(event) => setSearch(event.target.value)}
+                    />
+                    {search && (
+                      <button
+                        className="flex h-6 w-6 shrink-0 items-center justify-center rounded-full text-stone-400 hover:bg-stone-200"
+                        onClick={() => setSearch("")}
+                      >
+                        <LuX size="14" />
+                      </button>
+                    )}
+                  </div>
+
+                  <LanguageSelection />
                 </div>
               </div>
 
-              <div className="flex gap-8 items-center">
-                <LanguageSelection />
-              </div>
-            </div>
-
-            <div className="flex flex-col">
               {!search && (
-                <div className="flex h-12 justify-between">
+                <div className="flex flex-wrap gap-1 rounded-full bg-stone-100 p-1">
                   {["home", ...categories].map((tab) => (
                     <Link
                       key={tab}
-                      className={
-                        (tab === "home" &&
-                          location.pathname.endsWith(`${RECIPES_PATH}`)) ||
-                        (tab !== "home" && location.pathname.includes(tab))
-                          ? "h-full text-center grow cursor-pointer font-bold bg-gray-300"
-                          : "h-full text-center grow cursor-pointer"
-                      }
+                      className={`grow rounded-full px-4 py-2 text-center text-sm whitespace-nowrap transition-colors ${
+                        isActiveTab(tab)
+                          ? "bg-white font-semibold text-amber-700 shadow-sm"
+                          : "text-stone-500 hover:text-stone-800"
+                      }`}
                       to={
                         tab === "home" ? RECIPES_PATH : `${RECIPES_PATH}/${tab}`
                       }
                     >
-                      <div className="h-full flex items-center justify-center">
-                        <div>{tabNavDisplay(tab)}</div>
-                      </div>
+                      {tabNavDisplay(tab)}
                     </Link>
                   ))}
                 </div>
               )}
-              <div className="w-full h-0.25 bg-black"></div>
             </div>
-          </div>
-        )}
+          )}
+        </div>
+      </div>
 
-        <div className="flex flex-col gap-8 pb-8">
+      <PageWrapper>
+        <div className="flex flex-col gap-8 pt-8 pb-8">
           {search ? (
             <SearchPage
               search={search}
@@ -313,11 +319,15 @@ const Recipes = () => {
               />
               <Route
                 path="feasts"
-                element={feasts
-                  .sort((a, b) => b.mealNumber - a.mealNumber)
-                  .map((feast, index) => (
-                    <FeastCard key={index} feast={feast} />
-                  ))}
+                element={
+                  <div className={isMobile ? `${CARD_GRID} px-4` : CARD_GRID}>
+                    {feasts
+                      .sort((a, b) => b.mealNumber - a.mealNumber)
+                      .map((feast, index) => (
+                        <FeastCard key={index} feast={feast} />
+                      ))}
+                  </div>
+                }
               />
               <Route
                 path={"/feasts/:feast"}
@@ -344,13 +354,15 @@ const Recipes = () => {
                   !([...categories] as string[]).includes(category) ? (
                     <NotFoundRecipe />
                   ) : (
-                    recipes
-                      .filter((recipe) =>
-                        location.pathname.includes(recipe.category)
-                      )
-                      .map((recipe, index) => (
-                        <RecipeCard key={index} recipe={recipe} />
-                      ))
+                    <div className={isMobile ? `${CARD_GRID} px-4` : CARD_GRID}>
+                      {recipes
+                        .filter((recipe) =>
+                          location.pathname.includes(recipe.category)
+                        )
+                        .map((recipe, index) => (
+                          <RecipeCard key={index} recipe={recipe} />
+                        ))}
+                    </div>
                   )
                 }
               />
@@ -376,7 +388,7 @@ const Recipes = () => {
           )}
         </div>
       </PageWrapper>
-    </>
+    </div>
   );
 };
 

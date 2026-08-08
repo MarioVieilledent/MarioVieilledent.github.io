@@ -12,6 +12,8 @@ interface SearchPageProps {
   feasts: Feast[];
 }
 
+const CARD_GRID = "grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3";
+
 const SearchPage = ({
   search,
   setSearch,
@@ -47,43 +49,52 @@ const SearchPage = ({
   }, [search, recipes, feasts]);
 
   return (
-    <div className="flex flex-col gap-8">
+    <div className="flex flex-col gap-10">
       <div
-        className={isMobile ? "flex flex-col gap-4 p-4" : "flex flex-col gap-4"}
+        className={`flex items-center justify-between gap-4 ${isMobile ? "px-4" : ""}`}
       >
+        <div className="text-stone-600">
+          {`"${search}" — ${
+            matchingRecipes.length + matchingFeasts.length
+          } ${t("restultsFound")}`}
+        </div>
         {!isMobile && (
           <button
-            className="self-start px-2 border rounded bg-blue-300 text-sm"
+            className="shrink-0 rounded-full border border-stone-200 bg-white px-4 py-1.5 text-sm text-stone-600 transition-colors hover:border-amber-300 hover:text-amber-700"
             onClick={() => setSearch("")}
           >
             {t("clearFilters")}
           </button>
         )}
-
-        <div>{`"${search}" - ${
-          matchingRecipes.length + matchingFeasts.length
-        } ${t("restultsFound")}`}</div>
       </div>
 
       {matchingRecipes.length > 0 && (
         <div className="flex flex-col gap-4">
-          <div className={isMobile ? "text-xl px-4" : "text-xl"}>
+          <div
+            className={`text-xl font-semibold text-stone-900 ${isMobile ? "px-4" : ""}`}
+          >
             {t("recipes")}
           </div>
-          {matchingRecipes.map((recipe, index) => (
-            <RecipeCard key={index} recipe={recipe} setSearch={setSearch} />
-          ))}
+          <div className={isMobile ? `${CARD_GRID} px-4` : CARD_GRID}>
+            {matchingRecipes.map((recipe, index) => (
+              <RecipeCard key={index} recipe={recipe} setSearch={setSearch} />
+            ))}
+          </div>
         </div>
       )}
 
       {matchingFeasts.length > 0 && (
         <div className="flex flex-col gap-4">
-          <div className={isMobile ? "text-xl px-4" : "text-xl"}>
+          <div
+            className={`text-xl font-semibold text-stone-900 ${isMobile ? "px-4" : ""}`}
+          >
             {t("feasts")}
           </div>
-          {matchingFeasts.map((feast, index) => (
-            <FeastCard key={index} feast={feast} setSearch={setSearch} />
-          ))}
+          <div className={isMobile ? `${CARD_GRID} px-4` : CARD_GRID}>
+            {matchingFeasts.map((feast, index) => (
+              <FeastCard key={index} feast={feast} setSearch={setSearch} />
+            ))}
+          </div>
         </div>
       )}
     </div>

@@ -1,3 +1,8 @@
+import {
+  FLOATING_BUTTON_BASE,
+  FLOATING_BUTTON_INTERACTIVE,
+} from "../../utils/constants";
+
 interface GlobeSwitchProps {
   globeView: boolean;
   setGlobeView: React.Dispatch<React.SetStateAction<boolean>>;
@@ -7,13 +12,11 @@ const GlobeSwitch = ({ globeView, setGlobeView }: GlobeSwitchProps) => {
   return (
     <button
       onClick={() => setGlobeView((prev) => !prev)}
-      className="fixed top-20 right-4 z-50 w-12 h-12 rounded-full bg-white flex items-center justify-center shadow-lg transition"
+      className={`fixed top-20 right-4 z-50 ${FLOATING_BUTTON_BASE} ${FLOATING_BUTTON_INTERACTIVE}`}
     >
-      {globeView ? (
-        <span className="text-lg">2D</span>
-      ) : (
-        <span className="text-lg">3D</span>
-      )}
+      <span className="text-sm font-semibold text-stone-700">
+        {globeView ? "2D" : "3D"}
+      </span>
     </button>
   );
 };

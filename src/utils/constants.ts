@@ -11,5 +11,11 @@ export const LAYERS_QUERY_PARAM = "layers";
 export const CENTER_QUERY_PARAM = "center";
 export const ZOOM_QUERY_PARAM = "zoom";
 
-export const STRING_LIST_CLAMP =
-  "flex items-center gap-4 text-md whitespace-pre-line text-ellipsis overflow-hidden text-start line-clamp-1";
+// Shared look for the circular floating action buttons scattered over the
+// map (menu, layers, globe toggle, reset rotation, ...). Split in two so
+// plain (non-Float) buttons can opt into the same hover/press feedback Float
+// already adds automatically to its own trigger buttons.
+export const FLOATING_BUTTON_BASE =
+  "w-12 h-12 rounded-full bg-white flex items-center justify-center shadow-lg hover:shadow-xl";
+export const FLOATING_BUTTON_INTERACTIVE =
+  "transition-all duration-150 hover:scale-105 active:scale-95";

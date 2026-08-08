@@ -48,11 +48,11 @@ const DragAndDrop = ({
       onDrop={handleDrop}
       onDragOver={handleDragOver}
       onDragLeave={handleDragLeave}
-      className={`w-full max-w-md h-48 border-2 border-dashed rounded-xl flex items-center justify-center text-gray-500 transition-colors
+      className={`w-full max-w-md h-48 border-2 border-dashed rounded-2xl flex items-center justify-center text-stone-500 transition-colors
         ${
           isDragging
-            ? "border-blue-400 bg-blue-50 text-blue-600"
-            : "border-gray-300 bg-white hover:bg-gray-50"
+            ? "border-amber-400 bg-amber-50 text-amber-700"
+            : "border-stone-300 bg-white hover:bg-stone-50"
         }`}
     >
       {t("dragAndDropFilesHere")}

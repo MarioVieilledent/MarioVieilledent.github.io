@@ -1,11 +1,11 @@
 import { useNavigate } from "react-router";
-import { useIsMobile } from "../../utils/isMobileHook";
 import { RECIPES_PATH } from "../../utils/routes";
 import { useTranslation } from "../../utils/TranslationContext";
 import { formatDate } from "../../utils/utils";
 import type { Feast, FeastDetails } from "../../utils/validator";
 import type { Dispatch, SetStateAction } from "react";
 import Ranking from "./Ranking";
+import BulletList from "./BulletList";
 
 interface FeastCardProps {
   feast: Feast;
@@ -15,7 +15,6 @@ interface FeastCardProps {
 const FeastCard = ({ feast, setSearch }: FeastCardProps) => {
   const { language } = useTranslation();
   const navigate = useNavigate();
-  const isMobile = useIsMobile();
 
   const details = feast[language as keyof Feast]
     ? (feast[language as keyof Feast] as FeastDetails)
@@ -23,11 +22,7 @@ const FeastCard = ({ feast, setSearch }: FeastCardProps) => {
 
   return (
     <div
-      className={
-        isMobile
-          ? "flex flex-col"
-          : "flex gap-4 w-full bg-gray-100 rounded-lg overflow-hidden cursor-pointer hover:bg-gray-200"
-      }
+      className="flex h-full cursor-pointer flex-col overflow-hidden rounded-2xl border border-stone-200 bg-white shadow-sm transition-all duration-200 hover:-translate-y-0.5 hover:shadow-lg"
       onClick={() => {
         navigate(`${RECIPES_PATH}/feasts/${feast.id}`);
         if (setSearch) {
@@ -38,36 +33,36 @@ const FeastCard = ({ feast, setSearch }: FeastCardProps) => {
       {feast.pictures.length > 0 ? (
         <img
           src={`/food/${feast.pictures[0]}`}
-          alt="Feast picture"
-          className={isMobile ? "w-full" : "w-64 h-64 min-w-64 object-cover"}
+          alt={details.name}
+          className="aspect-[4/3] w-full object-cover"
         />
       ) : (
         <img
           src="/noPicturePlaceholder.png"
           alt="No picture placeholder"
-          className="w-32 h-32"
+          className="aspect-[4/3] w-full object-contain bg-stone-50 p-8"
         />
       )}
-      <div className="flex w-full flex-col gap-2 p-4">
-        <div className="flex items-center gap-4">
-          <img
-            className="w-10 border-1"
-            src={`/flags/${feast.countryCode}.svg`}
-            alt="Feast flag icon"
-          />
-          <div className="text-lg">{details.name}</div>
-        </div>
-        <div className="flex justify-between items-center gap-8">
-          <div className="text-lg">{`#${feast.mealNumber}`}</div>
-          <div className="text-sm text-gray-600">
-            {formatDate(feast.date, language)}
+      <div className="flex grow flex-col gap-3 p-5">
+        <div className="flex items-center justify-between gap-3">
+          <div className="flex min-w-0 items-center gap-2">
+            <img
+              className="h-6 w-6 shrink-0 rounded-full border border-stone-200 object-cover"
+              src={`/flags/${feast.countryCode}.svg`}
+              alt="Feast flag icon"
+            />
+            <div className="truncate text-lg font-semibold text-stone-900">
+              {details.name}
+            </div>
           </div>
           <Ranking ranking={feast.ranking} />
         </div>
-
-        <div className="text-sm whitespace-pre-line overflow-hidden text-ellipsis line-clamp-6">
-          {details.menu.map((str) => `\t- ${str}`).join("\n")}
+        <div className="flex items-center justify-between text-xs text-stone-500">
+          <span className="font-medium text-stone-700">{`#${feast.mealNumber}`}</span>
+          <span>{formatDate(feast.date, language)}</span>
         </div>
+
+        <BulletList items={details.menu} maxItems={4} />
       </div>
     </div>
   );

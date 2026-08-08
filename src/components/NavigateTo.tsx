@@ -8,7 +8,7 @@ const NavigateTo = ({ location }: { location?: string }) => {
 
   return (
     <a
-      className="flex items-center gap-2 cursor-pointer"
+      className="flex cursor-pointer items-center gap-1 rounded-full py-1.5 pr-3 pl-1.5 text-stone-600 transition-colors hover:bg-stone-100 hover:text-stone-900"
       onClick={() => {
         if (location !== undefined) {
           navigate(location);
@@ -17,7 +17,7 @@ const NavigateTo = ({ location }: { location?: string }) => {
         }
       }}
     >
-      <LuChevronLeft size="24" />
+      <LuChevronLeft size="20" />
       {t("back")}
     </a>
   );

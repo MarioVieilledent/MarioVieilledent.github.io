@@ -1,5 +1,6 @@
 import { useEffect, useRef, useState } from "react";
 import type { IconType } from "react-icons";
+import { FLOATING_BUTTON_INTERACTIVE } from "../utils/constants";
 
 interface FloatProps {
   children: React.ReactNode;
@@ -45,13 +46,17 @@ const Float = ({
       <button
         ref={buttonRef}
         onClick={() => setOpen((prev) => !prev)}
-        className={buttonClassName}
+        className={`${buttonClassName} ${FLOATING_BUTTON_INTERACTIVE}`}
+        aria-expanded={open}
       >
         <Icon className="w-6 h-6" />
       </button>
 
       {open && (
-        <div ref={divRef} className={containerClassName}>
+        <div
+          ref={divRef}
+          className={`${containerClassName} origin-top-left animate-[float-in_150ms_ease-out]`}
+        >
           {children}
         </div>
       )}

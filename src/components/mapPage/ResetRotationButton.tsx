@@ -1,4 +1,8 @@
 import { LuMoveUp } from "react-icons/lu";
+import {
+  FLOATING_BUTTON_BASE,
+  FLOATING_BUTTON_INTERACTIVE,
+} from "../../utils/constants";
 
 interface ResetRotationButtonProps {
   rotation: number;
@@ -12,10 +16,10 @@ const ResetRotationButton = ({
   return (
     <button
       onClick={resetRotation}
-      className="fixed top-36 right-4 z-50 w-12 h-12 rounded-full bg-white flex items-center justify-center shadow-lg transition"
+      className={`fixed top-36 right-4 z-50 ${FLOATING_BUTTON_BASE} ${FLOATING_BUTTON_INTERACTIVE}`}
     >
       <LuMoveUp
-        className="w-6 h-6"
+        className="h-6 w-6 text-stone-700"
         style={{ transform: `rotate(${(rotation / Math.PI) * 180}deg)` }}
       />
     </button>

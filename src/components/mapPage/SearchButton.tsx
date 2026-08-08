@@ -51,7 +51,7 @@ const SearchButton = ({ flyTo }: SearchButtonProps) => {
       onSubmit={handleSearch}
       className={`fixed top-4 left-20 z-50 ${
         isFocused ? "w-84 max-w-[calc(100%-10rem)] gap-4" : "w-12"
-      } h-12 p-4 rounded-full bg-white flex justify-center items-center shadow-lg transition-all`}
+      } flex h-12 items-center justify-center rounded-full border border-stone-200 bg-white p-4 shadow-lg transition-all duration-200 hover:shadow-xl focus-within:ring-2 focus-within:ring-amber-400`}
       onFocus={() => setIsFocused(true)}
       onBlur={() => setIsFocused(false)}
       onClick={() => {
@@ -62,7 +62,7 @@ const SearchButton = ({ flyTo }: SearchButtonProps) => {
     >
       <input
         ref={inputRef}
-        className={`${isFocused ? "w-full" : "w-0"} focus:outline-none`}
+        className={`${isFocused ? "w-full" : "w-0"} text-stone-800 focus:outline-none`}
         type="text"
         name="search"
         id="search"
@@ -70,10 +70,10 @@ const SearchButton = ({ flyTo }: SearchButtonProps) => {
       />
       <button
         type="submit"
-        className="p-0 m-0 bg-transparent border-none"
+        className="m-0 shrink-0 border-none bg-transparent p-0 text-stone-600"
         aria-label="Search"
       >
-        <LuSearch className="w-6 h-6" />
+        <LuSearch className="h-6 w-6" />
       </button>
     </form>
   );
