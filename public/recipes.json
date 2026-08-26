@@ -2675,191 +2675,182 @@
     "pictures": ["hummus_1.jpg", "hummus_2.jpg"],
     "en": {
       "name": "Hummus",
-      "notes": "Without a blender, the texture isn’t creamy but still satisfying, with the addition of ice-cold water for a lighter color. More inspiration here: https://www.youtube.com/watch?v=NbXC0B83S7k",
+      "notes": "I've tested a lot of recipes. One day, at a small falafel place run by a well-known Jordanian in Düsseldorf, I tasted the best hummus of my life. Shocked, I started talking to the chef, and nearly fell off my chair when I discovered that he put neither garlic, nor cumin, nor olive oil in his hummus. The key is to cook your own dried chickpeas and make your own tahini. Other inspirations here: https://www.youtube.com/watch?v=NbXC0B83S7k",
       "ingredients": [
-        "250 g cooked and drained chickpeas",
-        "15 to 30 g tahini (≈ 1 to 2 tbsp)",
-        "Juice of half a lemon (30 mL ≈ 2 tbsp)",
-        "1 to 2 cloves garlic, minced",
-        "Salt",
-        "Cumin (optional)",
+        "500 g cooked, drained chickpeas",
+        "100 g tahini",
+        "Juice of 1 lemon (60 mL)",
         "3 to 6 tbsp ice-cold water",
-        "2 tbsp olive oil (+ more for serving)"
+        "Salt"
       ],
       "instructions": [
-        "If using dried chickpeas (better flavor): soak them for 12 hours in cold water, then boil for 2 hours.",
-        "Mash the chickpeas (quick and effective with a potato masher, longer with a fork).",
-        "First mix tahini and lemon (emulsion), then add the chickpeas, finally incorporate the other ingredients.",
-        "Storage: keep refrigerated; flavor improves after 3 days. Keeps up to 1 week.",
-        "Serving: make a well, add a few chickpeas, drizzle olive oil, sprinkle with paprika or sumac."
+        "Remove the skins from the chickpeas (for a smoother texture)",
+        "Mix the tahini with the lemon juice and salt",
+        "Blend everything together in a food processor",
+        "Let it rest in the fridge for a few minutes; it's even better the next day",
+        "Serve with a drizzle of olive oil and spices on top (pepper, cumin, paprika, sumac)"
       ]
     },
     "fr": {
       "name": "Houmous",
-      "notes": "Sans mixeur, texture non crêmeuse mais satisfaisante, avec ajout d'eau glacée couleur plus claire. Plus d'inspirations ici : https://www.youtube.com/watch?v=NbXC0B83S7k",
+      "notes": "J'ai beaucoup testé de recettes. Un jour, dans un petit restaurant de falafels tenu par un Jordanien réputé à Düsseldorf, je goûte le meilleur houmous de ma vie. Choqué, je discute avec le chef et je tombe de trois étages en découvrant qu'il ne met ni ail, ni cumin, ni huile d'olive dans son houmous. Le secret, c'est de cuire soi-même ses pois chiches secs et de faire son propre tahini. Autres inspirations ici : https://www.youtube.com/watch?v=NbXC0B83S7k",
       "ingredients": [
-        "250 g pois chiches cuits et égouttés",
-        "15 à 30 g de tahini (≈ 1 à 2 c. à s.)",
-        "Jus d'un demi citron (30 mL ≈ 2 c. à s.)",
-        "1 à 2 gousses d'ail hachées",
-        "Sel",
-        "Cumin (optionnel)",
+        "500 g de pois chiches cuits et égouttés",
+        "100 g de tahini",
+        "Le jus d'un citron (60 mL)",
         "3 à 6 c. à s. d'eau glacée",
-        "2 c. à s. d'huile d'olive (+ pour le service)"
+        "Sel"
       ],
       "instructions": [
-        "Si vous utilisez des pois chiches secs (meilleur goût) : les faire tremper 12 heures dans de l'eau froide, puis les cuire à ébullition pendant 2 heures.",
-        "Écraser les pois chiches (rapide et efficace avec un presse-purée, plus long à la fourchette).",
-        "Mélanger d’abord le tahini et le citron (émulsion), puis ajouter les pois chiches, enfin incorporer les autres ingrédients.",
-        "Conservation : au frais, le goût s'améliore après 3 jours. Se conserve jusqu'à 1 semaine.",
-        "Service : creuser un puits, ajouter quelques pois chiches, un filet d'huile d'olive, saupoudrer de paprika ou de sumac."
+        "Retirer la peau des pois chiches (pour une texture plus onctueuse)",
+        "Mélanger le tahini avec le jus de citron et le sel",
+        "Mixer le tout au mixeur",
+        "Laisser reposer au frais quelques minutes ; c'est encore meilleur le lendemain",
+        "Servir avec un filet d'huile d'olive et des épices par-dessus (poivre, cumin, paprika, sumac)"
       ]
     },
     "it": {
       "name": "Hummus",
-      "notes": "Senza frullatore, la consistenza non è cremosa ma comunque soddisfacente, con l’aggiunta di acqua ghiacciata per un colore più chiaro. Altre ispirazioni qui: https://www.youtube.com/watch?v=NbXC0B83S7k",
+      "notes": "Ho provato tantissime ricette. Un giorno, in un piccolo locale di falafel gestito da un Jordaniano molto rinomato a Düsseldorf, ho assaggiato il miglior hummus della mia vita. Sconvolto, ho iniziato a parlare con il cuoco e sono rimasto di stucco quando ho scoperto che nel suo hummus non mette né aglio, né cumino, né olio d'oliva. Il segreto è cuocere da sé i ceci secchi e preparare il proprio tahini. Altre ispirazioni qui: https://www.youtube.com/watch?v=NbXC0B83S7k",
       "ingredients": [
-        "250 g di ceci cotti e scolati",
-        "15-30 g di tahina (≈ 1-2 cucchiai)",
-        "Succo di mezzo limone (30 mL ≈ 2 cucchiai)",
-        "1-2 spicchi d’aglio tritati",
-        "Sale",
-        "Cumino (facoltativo)",
-        "3-6 cucchiai di acqua ghiacciata",
-        "2 cucchiai di olio d’oliva (+ altro per servire)"
+        "500 g di ceci cotti e sgocciolati",
+        "100 g di tahini",
+        "Succo di 1 limone (60 mL)",
+        "3–6 cucchiai di acqua ghiacciata",
+        "Sale"
       ],
       "instructions": [
-        "Se usi ceci secchi (sapore migliore): mettili in ammollo per 12 ore in acqua fredda, poi cuocili in ebollizione per 2 ore.",
-        "Schiaccia i ceci (veloce ed efficace con uno schiacciapatate, più lungo con la forchetta).",
-        "Mescola prima tahina e limone (emulsione), poi aggiungi i ceci, infine incorpora gli altri ingredienti.",
-        "Conservazione: in frigorifero; il sapore migliora dopo 3 giorni. Si conserva fino a 1 settimana.",
-        "Servizio: crea un pozzo, aggiungi qualche cece, un filo d’olio d’oliva, spolvera con paprika o sumac."
+        "Togliere la buccia ai ceci (per ottenere una consistenza più cremosa)",
+        "Mescolare il tahini con il succo di limone e il sale",
+        "Frullare tutto insieme",
+        "Lasciare riposare in frigorifero per qualche minuto; è ancora più buono il giorno dopo",
+        "Servire con un filo d'olio d'oliva e delle spezie sopra (pepe, cumino, paprika, sumac)"
       ]
     },
     "es": {
       "name": "Hummus",
-      "notes": "Sin licuadora, la textura no es cremosa pero sigue siendo satisfactoria, con la adición de agua muy fría para un color más claro. Más inspiración aquí: https://www.youtube.com/watch?v=NbXC0B83S7k",
+      "notes": "He probado muchísimas recetas. Un día, en un pequeño local de falafel regentado por un jordano muy conocido en Düsseldorf, probé el mejor hummus de mi vida. Sorprendido, me puse a hablar con el chef y casi me caí de espaldas al descubrir que no pone ni ajo, ni comino, ni aceite de oliva en su hummus. El secreto está en cocer uno mismo los garbanzos secos y preparar el propio tahini. Otras inspiraciones aquí: https://www.youtube.com/watch?v=NbXC0B83S7k",
       "ingredients": [
-        "250 g de garbanzos cocidos y escurridos",
-        "15 a 30 g de tahini (≈ 1 a 2 cucharadas)",
-        "Jugo de medio limón (30 mL ≈ 2 cucharadas)",
-        "1 a 2 dientes de ajo picados",
-        "Sal",
-        "Comino (opcional)",
-        "3 a 6 cucharadas de agua muy fría",
-        "2 cucharadas de aceite de oliva (+ más para servir)"
+        "500 g de garbanzos cocidos y escurridos",
+        "100 g de tahini",
+        "Zumo de 1 limón (60 mL)",
+        "3–6 cucharadas de agua helada",
+        "Sal"
       ],
       "instructions": [
-        "Si usas garbanzos secos (mejor sabor): remójalos durante 12 horas en agua fría y luego hiérvelos durante 2 horas.",
-        "Tritura los garbanzos (rápido y eficaz con un machacador, más largo con un tenedor).",
-        "Primero mezcla tahini y limón (emulsión), luego agrega los garbanzos, finalmente incorpora los demás ingredientes.",
-        "Conservación: mantener refrigerado; el sabor mejora después de 3 días. Se conserva hasta 1 semana.",
-        "Para servir: haz un hueco, añade algunos garbanzos, un chorrito de aceite de oliva, espolvorea con pimentón o sumac."
+        "Quitar la piel de los garbanzos (para conseguir una textura más cremosa)",
+        "Mezclar el tahini con el zumo de limón y la sal",
+        "Triturar todo junto",
+        "Dejar reposar en la nevera unos minutos; está aún mejor al día siguiente",
+        "Servir con un chorrito de aceite de oliva y especias por encima (pimienta, comino, pimentón, zumaque)"
       ]
     },
     "nb": {
       "name": "Hummus",
-      "notes": "Uten blender, konsistensen er ikke kremet, men fortsatt tilfredsstillende, med tilsetning av iskaldt vann for lysere farge. Flere ideer her: https://www.youtube.com/watch?v=NbXC0B83S7k",
+      "notes": "Jeg har testet utrolig mange oppskrifter. En dag, på et lite falafelsted drevet av en kjent jordaner i Düsseldorf, smakte jeg den beste hummusen i mitt liv. Jeg ble så overrasket at jeg begynte å snakke med kokken, og holdt på å dette av stolen da jeg oppdaget at han verken bruker hvitløk, spisskummen eller olivenolje i hummusen. Hemmeligheten er å koke tørre kikerter selv og lage sin egen tahini. Mer inspirasjon her: https://www.youtube.com/watch?v=NbXC0B83S7k",
       "ingredients": [
-        "250 g kokte og avrente kikerter",
-        "15–30 g tahini (≈ 1–2 ss)",
-        "Saften av en halv sitron (30 mL ≈ 2 ss)",
-        "1–2 hvitløksfedd, hakket",
-        "Salt",
-        "Spisskummen (valgfritt)",
+        "500 g kokte, avrente kikerter",
+        "100 g tahini",
+        "Saften av 1 sitron (60 mL)",
         "3–6 ss iskaldt vann",
-        "2 ss olivenolje (+ mer til servering)"
+        "Salt"
       ],
       "instructions": [
-        "Hvis du bruker tørre kikerter (bedre smak): legg dem i bløt i 12 timer i kaldt vann, kok deretter i 2 timer.",
-        "Mos kikertene (raskt og effektivt med en potetmoser, lengre med gaffel).",
-        "Bland først tahini og sitron (emulsjon), tilsett deretter kikertene, og til slutt de andre ingrediensene.",
-        "Oppbevaring: i kjøleskap; smaken blir bedre etter 3 dager. Holder seg opptil 1 uke.",
-        "Servering: lag en grop, legg i noen kikerter, drypp over olivenolje, dryss paprika eller sumac."
+        "Fjern skallet på kikertene (for en enda kremet konsistens)",
+        "Bland tahini med sitronsaft og salt",
+        "Kjør alt sammen i en blender eller foodprosessor",
+        "La hvile i kjøleskapet i noen minutter; den er enda bedre dagen etter",
+        "Server med en skvett olivenolje og krydder på toppen (pepper, spisskummen, paprika, sumak)"
       ]
     },
     "tr": {
       "name": "Humus",
-      "notes": "Blender kullanmadan, dokusu kremamsı değil ama yine de tatmin edici, üzerine buzlu su eklenerek daha açık renk elde ediliyor. Daha fazla ilham için: https://www.youtube.com/watch?v=NbXC0B83S7k",
+      "notes": "Birçok farklı tarif denedim. Bir gün Düsseldorf'ta tanınmış Ürdünlü birinin işlettiği küçük bir falafelcide hayatımın en iyi humusunu tattım. Şaşkınlıkla şefle sohbet etmeye başladım ve humusunda ne sarımsak, ne kimyon ne de zeytinyağı kullandığını öğrenince adeta şok oldum. İşin sırrı, kuru nohutları kendiniz pişirmek ve tahini de kendiniz hazırlamak. Diğer ilham kaynakları: https://www.youtube.com/watch?v=NbXC0B83S7k",
       "ingredients": [
-        "250 g haşlanmış ve süzülmüş nohut",
-        "15–30 g tahin (≈ 1–2 yemek kaşığı)",
-        "Yarım limonun suyu (30 mL ≈ 2 yemek kaşığı)",
-        "1–2 diş sarımsak, doğranmış",
-        "Tuz",
-        "Kimyon (isteğe bağlı)",
-        "3–6 yemek kaşığı buzlu su",
-        "2 yemek kaşığı zeytinyağı (+ servis için ekstra)"
+        "500 g haşlanmış ve süzülmüş nohut",
+        "100 g tahin",
+        "1 limonun suyu (60 mL)",
+        "3–6 yemek kaşığı buz gibi su",
+        "Tuz"
       ],
       "instructions": [
-        "Kuru nohut kullanıyorsanız (daha iyi tat): 12 saat soğuk suda bekletin, ardından 2 saat kaynatın.",
-        "Nohutları ezin (patates ezici ile hızlı ve etkili, çatal ile daha uzun sürer).",
-        "Önce tahin ve limonu karıştırın (emülsiyon), sonra nohutları ekleyin, son olarak diğer malzemeleri katın.",
-        "Saklama: buzdolabında; 3 gün sonra lezzet artar. 1 haftaya kadar dayanır.",
-        "Servis: bir çukur açın, birkaç nohut ekleyin, zeytinyağı gezdirin, üzerine paprika veya sumak serpin."
+        "Nohutların kabuklarını soyun (daha pürüzsüz bir kıvam için)",
+        "Tahini limon suyu ve tuzla karıştırın",
+        "Her şeyi birlikte blenderdan geçirin",
+        "Buzdolabında birkaç dakika dinlendirin; ertesi gün daha da güzel olur",
+        "Üzerine biraz zeytinyağı ve baharat serpiştirerek servis edin (karabiber, kimyon, kırmızı toz biber, sumak)"
       ]
     },
     "el": {
       "name": "Χούμους",
-      "notes": "Χωρίς μπλέντερ, η υφή δεν είναι κρεμώδης αλλά παραμένει απολαυστική, με την προσθήκη παγωμένου νερού για πιο ανοιχτό χρώμα. Περισσότερη έμπνευση εδώ: https://www.youtube.com/watch?v=NbXC0B83S7k",
+      "notes": "Έχω δοκιμάσει πάρα πολλές συνταγές. Μια μέρα, σε ένα μικρό μαγαζί με φαλάφελ που το είχε ένας γνωστός Ιορδανός στο Ντίσελντορφ, δοκίμασα το καλύτερο χούμους της ζωής μου. Έκπληκτος, έπιασα κουβέντα με τον σεφ και έμεινα άναυδος όταν ανακάλυψα ότι στο χούμους του δεν βάζει ούτε σκόρδο, ούτε κύμινο, ούτε ελαιόλαδο. Το μυστικό είναι να βράσεις μόνος σου τα ξερά ρεβίθια και να φτιάξεις το δικό σου ταχίνι. Περισσότερη έμπνευση εδώ: https://www.youtube.com/watch?v=NbXC0B83S7k",
       "ingredients": [
-        "250 g μαγειρεμένα και στραγγισμένα ρεβίθια",
-        "15 έως 30 g ταχίνι (≈ 1 έως 2 κ.σ.)",
-        "Χυμός από μισό λεμόνι (30 mL ≈ 2 κ.σ.)",
-        "1 έως 2 σκελίδες σκόρδο, ψιλοκομμένες",
-        "Αλάτι",
-        "Κύμινο (προαιρετικό)",
-        "3 έως 6 κ.σ. παγωμένο νερό",
-        "2 κ.σ. ελαιόλαδο (+ επιπλέον για το σερβίρισμα)"
+        "500 γρ. βρασμένα και στραγγισμένα ρεβίθια",
+        "100 γρ. ταχίνι",
+        "Χυμός από 1 λεμόνι (60 mL)",
+        "3–6 κ.σ. παγωμένο νερό",
+        "Αλάτι"
       ],
       "instructions": [
-        "Αν χρησιμοποιείτε ξερά ρεβίθια (καλύτερη γεύση): μουλιάστε τα για 12 ώρες σε κρύο νερό και στη συνέχεια βράστε τα για 2 ώρες.",
-        "Λιώστε τα ρεβίθια (γρήγορα και αποτελεσματικά με πολτοποιητή πατάτας, πιο αργά με πιρούνι).",
-        "Ανακατέψτε πρώτα το ταχίνι με το λεμόνι (γαλακτωματοποίηση), έπειτα προσθέστε τα ρεβίθια και τέλος ενσωματώστε τα υπόλοιπα υλικά.",
-        "Συντήρηση: διατηρείται στο ψυγείο· η γεύση βελτιώνεται μετά από 3 ημέρες. Διατηρείται έως 1 εβδομάδα.",
-        "Σερβίρισμα: ανοίξτε ένα μικρό «πηγάδι», προσθέστε λίγα ρεβίθια, περιχύστε με ελαιόλαδο και πασπαλίστε με πάπρικα ή σουμάκ."
+        "Αφαιρέστε τη φλούδα από τα ρεβίθια (για πιο βελούδινη υφή)",
+        "Ανακατέψτε το ταχίνι με τον χυμό λεμονιού και το αλάτι",
+        "Χτυπήστε τα όλα μαζί στο μπλέντερ",
+        "Αφήστε το στο ψυγείο για λίγα λεπτά· είναι ακόμη καλύτερο την επόμενη μέρα",
+        "Σερβίρετε με λίγο ελαιόλαδο και μπαχαρικά από πάνω (πιπέρι, κύμινο, πάπρικα, σουμάκ)"
       ]
     },
     "ja": {
       "name": "フムス",
-      "notes": "ブレンダーを使わず、クリーミーではないが満足感のある食感。氷水を加えることで色が少し明るくなる。さらにインスピレーションはこちら：https://www.youtube.com/watch?v=NbXC0B83S7k",
+      "notes": "これまでに本当にたくさんのレシピを試してきました。ある日、デュッセルドルフで有名なヨルダン人が営む小さなファラフェル店で、人生で最高のフムスを食べました。驚いてシェフに話を聞いてみたところ、なんとそのフムスにはニンニクもクミンもオリーブオイルも一切入れていないことがわかり、思わず腰を抜かしそうになりました。ポイントは、乾燥ひよこ豆を自分で茹で、タヒニも自分で作ること。ほかの参考にしたものはこちら：https://www.youtube.com/watch?v=NbXC0B83S7k",
       "ingredients": [
-        "茹でて水を切ったひよこ豆 250g",
-        "タヒニ 15〜30g（約大さじ1〜2）",
-        "レモン半分の汁（30 mL ≈ 大さじ2）",
-        "にんにく 1〜2片、みじん切り",
-        "塩",
-        "クミン（お好みで）",
-        "氷水 3〜6 大さじ",
-        "オリーブオイル 2 大さじ（+サーブ用に追加）"
+        "茹でて水気を切ったひよこ豆 500 g",
+        "タヒニ 100 g",
+        "レモン1個分の果汁（60 mL）",
+        "氷水 大さじ3～6",
+        "塩"
       ],
       "instructions": [
-        "乾燥ひよこ豆を使う場合（より美味しい）：冷水に12時間浸し、その後2時間茹でる。",
-        "ひよこ豆を潰す（マッシャーで素早く、フォークだと時間がかかる）。",
-        "まずタヒニとレモンを混ぜて乳化させ、次にひよこ豆を加え、最後に他の材料を混ぜる。",
-        "保存：冷蔵で、3日後に味が向上する。1週間保存可能。",
-        "サーブ：くぼみを作り、ひよこ豆を少し入れ、オリーブオイルをかけ、パプリカやスーマックを振りかける。"
+        "ひよこ豆の薄皮を取り除く（よりなめらかな食感にするため）",
+        "タヒニにレモン汁と塩を混ぜる",
+        "すべてをブレンダーでなめらかになるまで攪拌する",
+        "冷蔵庫で数分休ませる。翌日のほうがさらにおいしい",
+        "仕上げにオリーブオイルを少量かけ、スパイスを振って盛り付ける（コショウ、クミン、パプリカ、スマック）"
       ]
     },
     "zh": {
       "name": "鹰嘴豆泥",
-      "notes": "不用搅拌机，质地不够顺滑但仍令人满意，可加入冰水使颜色更浅。更多灵感：https://www.youtube.com/watch?v=NbXC0B83S7k",
+      "notes": "我试过很多很多不同的食谱。有一天，我在杜塞尔多夫一家由一位颇有名气的约旦人经营的小法拉费尔店里，吃到了我人生中最好吃的鹰嘴豆泥。我非常震惊，于是和厨师聊了起来，结果发现他的鹰嘴豆泥里竟然既不放大蒜，也不放孜然，更不放橄榄油，简直让我大跌眼镜。秘诀在于自己煮干鹰嘴豆，并自己制作芝麻酱。其他灵感来源：https://www.youtube.com/watch?v=NbXC0B83S7k",
       "ingredients": [
-        "煮熟并沥干的鹰嘴豆 250克",
-        "芝麻酱 15–30克（≈ 1–2 大勺）",
-        "半个柠檬的汁（30毫升 ≈ 2大勺）",
-        "1–2 瓣大蒜，切碎",
-        "盐",
-        "孜然（可选）",
-        "3–6 大勺冰水",
-        "2 大勺橄榄油（+ 可用于装盘）"
+        "500 克煮熟并沥干的鹰嘴豆",
+        "100 克芝麻酱",
+        "1 个柠檬的汁（60 mL）",
+        "3–6 汤匙冰水",
+        "盐"
       ],
       "instructions": [
-        "如果使用干鹰嘴豆（味道更佳）：用冷水浸泡12小时，然后煮沸2小时。",
-        "捣碎鹰嘴豆（用土豆压泥器快速有效，用叉子较慢）。",
-        "先混合芝麻酱和柠檬汁（乳化），然后加入鹰嘴豆，最后加入其他食材。",
-        "保存：冷藏；3天后味道更好。可保存至1周。",
-        "食用：挖一个小坑，放入一些鹰嘴豆，淋上橄榄油，撒上辣椒粉或苏马克。"
+        "去掉鹰嘴豆的外皮（口感会更加顺滑）",
+        "将芝麻酱、柠檬汁和盐混合",
+        "将所有材料一起放入搅拌机搅打",
+        "放入冰箱静置几分钟；第二天吃味道更好",
+        "食用时淋上一点橄榄油，再撒上香料（胡椒、孜然、红椒粉、漆树粉）"
+      ]
+    },
+    "sl": {
+      "name": "Humus",
+      "notes": "Preizkusil sem že ogromno receptov. Nekega dne sem v majhnem lokalu s falaflom, ki ga je v Düsseldorfu vodil priznani Jordanec, poskusil najboljši humus v življenju. Presenečen sem se zapletel v pogovor s kuharjem in skoraj padel s stola, ko sem izvedel, da v svoj humus ne dodaja ne česna, ne kumine ne olivnega olja. Skrivnost je v tem, da suho čičeriko skuhaš sam in si pripraviš tudi svoj tahini. Več navdiha tukaj: https://www.youtube.com/watch?v=NbXC0B83S7k",
+      "ingredients": [
+        "500 g kuhane in odcejene čičerike",
+        "100 g tahinija",
+        "Sok 1 limone (60 mL)",
+        "3–6 žlic ledeno mrzle vode",
+        "Sol"
+      ],
+      "instructions": [
+        "Čičeriki odstranite lupine (za bolj gladko teksturo)",
+        "Tahini zmešajte z limoninim sokom in soljo",
+        "Vse skupaj zmešajte v blenderju",
+        "Za nekaj minut postavite v hladilnik; naslednji dan je še boljši",
+        "Postrezite z nekaj kapljicami olivnega olja in začimbami po vrhu (poper, kumina, paprika, sumak)"
       ]
     }
   },
