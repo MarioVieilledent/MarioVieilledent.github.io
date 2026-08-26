@@ -2675,180 +2675,180 @@
     "pictures": ["hummus_1.jpg", "hummus_2.jpg"],
     "en": {
       "name": "Hummus",
-      "notes": "I've tested a lot of recipes. One day, at a small falafel place run by a well-known Jordanian in Düsseldorf, I tasted the best hummus of my life. Shocked, I started talking to the chef, and nearly fell off my chair when I discovered that he put neither garlic, nor cumin, nor olive oil in his hummus. The key is to cook your own dried chickpeas and make your own tahini. Other inspirations here: https://www.youtube.com/watch?v=NbXC0B83S7k",
+      "notes": "I've tested a lot of recipes and techniques. One day, at a small falafel restaurant run by a well-known Jordanian in Düsseldorf, I tasted the best hummus of my life. Shocked, I started talking to the chef and nearly fell off my chair when I discovered that he uses neither garlic, nor cumin, nor olive oil in his hummus. The secret is to cook your own dried chickpeas and make your own tahini. Other inspirations here: https://www.youtube.com/watch?v=NbXC0B83S7k",
       "ingredients": [
-        "500 g cooked, drained chickpeas",
+        "500 g cooked and drained chickpeas",
         "100 g tahini",
         "Juice of 1 lemon (60 mL)",
-        "3 to 6 tbsp ice-cold water",
+        "Ice-cold water",
         "Salt"
       ],
       "instructions": [
         "Remove the skins from the chickpeas (for a smoother texture)",
         "Mix the tahini with the lemon juice and salt",
-        "Blend everything together in a food processor",
-        "Let it rest in the fridge for a few minutes; it's even better the next day",
+        "Blend everything together, adding ice-cold water until you reach the desired texture",
+        "Let rest in the fridge for a few minutes; it's even better the next day",
         "Serve with a drizzle of olive oil and spices on top (pepper, cumin, paprika, sumac)"
       ]
     },
     "fr": {
       "name": "Houmous",
-      "notes": "J'ai beaucoup testé de recettes. Un jour, dans un petit restaurant de falafels tenu par un Jordanien réputé à Düsseldorf, je goûte le meilleur houmous de ma vie. Choqué, je discute avec le chef et je tombe de trois étages en découvrant qu'il ne met ni ail, ni cumin, ni huile d'olive dans son houmous. Le secret, c'est de cuire soi-même ses pois chiches secs et de faire son propre tahini. Autres inspirations ici : https://www.youtube.com/watch?v=NbXC0B83S7k",
+      "notes": "J'ai beaucoup testé de recettes et de techniques. Un jour, dans un petit restaurant de falafels tenu par un Jordanien réputé à Düsseldorf, je goûte le meilleur houmous de ma vie. Choqué, je discute avec le chef et je tombe de trois étages en découvrant qu'il ne met ni ail, ni cumin, ni huile d'olive dans son houmous. Le secret, c'est de cuire soi-même ses pois chiches secs et de faire son propre tahini. Autres inspirations ici : https://www.youtube.com/watch?v=NbXC0B83S7k",
       "ingredients": [
         "500 g de pois chiches cuits et égouttés",
         "100 g de tahini",
         "Le jus d'un citron (60 mL)",
-        "3 à 6 c. à s. d'eau glacée",
+        "Eau glacée",
         "Sel"
       ],
       "instructions": [
         "Retirer la peau des pois chiches (pour une texture plus onctueuse)",
         "Mélanger le tahini avec le jus de citron et le sel",
-        "Mixer le tout au mixeur",
+        "Mixer le tout au mixeur et ajouter progressivement l'eau glacée jusqu'à obtenir la texture souhaitée",
         "Laisser reposer au frais quelques minutes ; c'est encore meilleur le lendemain",
         "Servir avec un filet d'huile d'olive et des épices par-dessus (poivre, cumin, paprika, sumac)"
       ]
     },
     "it": {
       "name": "Hummus",
-      "notes": "Ho provato tantissime ricette. Un giorno, in un piccolo locale di falafel gestito da un Jordaniano molto rinomato a Düsseldorf, ho assaggiato il miglior hummus della mia vita. Sconvolto, ho iniziato a parlare con il cuoco e sono rimasto di stucco quando ho scoperto che nel suo hummus non mette né aglio, né cumino, né olio d'oliva. Il segreto è cuocere da sé i ceci secchi e preparare il proprio tahini. Altre ispirazioni qui: https://www.youtube.com/watch?v=NbXC0B83S7k",
+      "notes": "Ho provato moltissime ricette e tecniche. Un giorno, in un piccolo ristorante di falafel gestito da un rinomato giordano a Düsseldorf, ho assaggiato il miglior hummus della mia vita. Sconvolto, ho iniziato a parlare con il cuoco e sono rimasto di stucco scoprendo che nel suo hummus non mette né aglio, né cumino, né olio d'oliva. Il segreto è cuocere da sé i ceci secchi e preparare il proprio tahini. Altre ispirazioni qui: https://www.youtube.com/watch?v=NbXC0B83S7k",
       "ingredients": [
         "500 g di ceci cotti e sgocciolati",
         "100 g di tahini",
-        "Succo di 1 limone (60 mL)",
-        "3–6 cucchiai di acqua ghiacciata",
+        "Il succo di 1 limone (60 mL)",
+        "Acqua ghiacciata",
         "Sale"
       ],
       "instructions": [
-        "Togliere la buccia ai ceci (per ottenere una consistenza più cremosa)",
+        "Rimuovere la buccia dei ceci (per una consistenza più cremosa)",
         "Mescolare il tahini con il succo di limone e il sale",
-        "Frullare tutto insieme",
+        "Frullare tutto insieme, aggiungendo gradualmente acqua ghiacciata fino a raggiungere la consistenza desiderata",
         "Lasciare riposare in frigorifero per qualche minuto; è ancora più buono il giorno dopo",
         "Servire con un filo d'olio d'oliva e delle spezie sopra (pepe, cumino, paprika, sumac)"
       ]
     },
     "es": {
       "name": "Hummus",
-      "notes": "He probado muchísimas recetas. Un día, en un pequeño local de falafel regentado por un jordano muy conocido en Düsseldorf, probé el mejor hummus de mi vida. Sorprendido, me puse a hablar con el chef y casi me caí de espaldas al descubrir que no pone ni ajo, ni comino, ni aceite de oliva en su hummus. El secreto está en cocer uno mismo los garbanzos secos y preparar el propio tahini. Otras inspiraciones aquí: https://www.youtube.com/watch?v=NbXC0B83S7k",
+      "notes": "He probado muchísimas recetas y técnicas. Un día, en un pequeño restaurante de falafel regentado por un jordano muy conocido en Düsseldorf, probé el mejor hummus de mi vida. Sorprendido, empecé a hablar con el chef y casi me caí de espaldas al descubrir que no pone ni ajo, ni comino, ni aceite de oliva en su hummus. El secreto está en cocer uno mismo los garbanzos secos y preparar el propio tahini. Otras inspiraciones aquí: https://www.youtube.com/watch?v=NbXC0B83S7k",
       "ingredients": [
         "500 g de garbanzos cocidos y escurridos",
         "100 g de tahini",
-        "Zumo de 1 limón (60 mL)",
-        "3–6 cucharadas de agua helada",
+        "El zumo de 1 limón (60 mL)",
+        "Agua helada",
         "Sal"
       ],
       "instructions": [
         "Quitar la piel de los garbanzos (para conseguir una textura más cremosa)",
         "Mezclar el tahini con el zumo de limón y la sal",
-        "Triturar todo junto",
+        "Triturar todo junto, añadiendo poco a poco agua helada hasta conseguir la textura deseada",
         "Dejar reposar en la nevera unos minutos; está aún mejor al día siguiente",
         "Servir con un chorrito de aceite de oliva y especias por encima (pimienta, comino, pimentón, zumaque)"
       ]
     },
     "nb": {
       "name": "Hummus",
-      "notes": "Jeg har testet utrolig mange oppskrifter. En dag, på et lite falafelsted drevet av en kjent jordaner i Düsseldorf, smakte jeg den beste hummusen i mitt liv. Jeg ble så overrasket at jeg begynte å snakke med kokken, og holdt på å dette av stolen da jeg oppdaget at han verken bruker hvitløk, spisskummen eller olivenolje i hummusen. Hemmeligheten er å koke tørre kikerter selv og lage sin egen tahini. Mer inspirasjon her: https://www.youtube.com/watch?v=NbXC0B83S7k",
+      "notes": "Jeg har testet mange oppskrifter og teknikker. En dag, på en liten falafelrestaurant drevet av en kjent jordaner i Düsseldorf, smakte jeg den beste hummusen i mitt liv. Sjokkert begynte jeg å snakke med kokken, og holdt på å falle av stolen da jeg oppdaget at han verken bruker hvitløk, spisskummen eller olivenolje i hummusen. Hemmeligheten er å koke tørre kikerter selv og lage sin egen tahini. Mer inspirasjon her: https://www.youtube.com/watch?v=NbXC0B83S7k",
       "ingredients": [
-        "500 g kokte, avrente kikerter",
+        "500 g kokte og avrente kikerter",
         "100 g tahini",
         "Saften av 1 sitron (60 mL)",
-        "3–6 ss iskaldt vann",
+        "Iskaldt vann",
         "Salt"
       ],
       "instructions": [
-        "Fjern skallet på kikertene (for en enda kremet konsistens)",
+        "Fjern skallet på kikertene (for en kremet konsistens)",
         "Bland tahini med sitronsaft og salt",
-        "Kjør alt sammen i en blender eller foodprosessor",
+        "Kjør alt sammen i en blender eller foodprosessor, og tilsett gradvis iskaldt vann til ønsket konsistens",
         "La hvile i kjøleskapet i noen minutter; den er enda bedre dagen etter",
         "Server med en skvett olivenolje og krydder på toppen (pepper, spisskummen, paprika, sumak)"
       ]
     },
     "tr": {
       "name": "Humus",
-      "notes": "Birçok farklı tarif denedim. Bir gün Düsseldorf'ta tanınmış Ürdünlü birinin işlettiği küçük bir falafelcide hayatımın en iyi humusunu tattım. Şaşkınlıkla şefle sohbet etmeye başladım ve humusunda ne sarımsak, ne kimyon ne de zeytinyağı kullandığını öğrenince adeta şok oldum. İşin sırrı, kuru nohutları kendiniz pişirmek ve tahini de kendiniz hazırlamak. Diğer ilham kaynakları: https://www.youtube.com/watch?v=NbXC0B83S7k",
+      "notes": "Birçok farklı tarif ve teknik denedim. Bir gün Düsseldorf'ta tanınmış bir Ürdünlü tarafından işletilen küçük bir falafel restoranında hayatımın en iyi humusunu tattım. Şaşkınlıkla şefle konuşmaya başladım ve humusunda ne sarımsak, ne kimyon ne de zeytinyağı kullandığını öğrenince adeta şok oldum. İşin sırrı, kuru nohutları kendiniz pişirmek ve tahini de kendiniz hazırlamak. Diğer ilham kaynakları: https://www.youtube.com/watch?v=NbXC0B83S7k",
       "ingredients": [
         "500 g haşlanmış ve süzülmüş nohut",
         "100 g tahin",
         "1 limonun suyu (60 mL)",
-        "3–6 yemek kaşığı buz gibi su",
+        "Buz gibi su",
         "Tuz"
       ],
       "instructions": [
-        "Nohutların kabuklarını soyun (daha pürüzsüz bir kıvam için)",
+        "Nohutların kabuklarını soyun (daha kremsi bir kıvam için)",
         "Tahini limon suyu ve tuzla karıştırın",
-        "Her şeyi birlikte blenderdan geçirin",
+        "Her şeyi birlikte blenderdan geçirin ve istediğiniz kıvama ulaşana kadar azar azar buz gibi su ekleyin",
         "Buzdolabında birkaç dakika dinlendirin; ertesi gün daha da güzel olur",
-        "Üzerine biraz zeytinyağı ve baharat serpiştirerek servis edin (karabiber, kimyon, kırmızı toz biber, sumak)"
+        "Üzerine biraz zeytinyağı ve baharat serperek servis edin (karabiber, kimyon, kırmızı toz biber, sumak)"
       ]
     },
     "el": {
       "name": "Χούμους",
-      "notes": "Έχω δοκιμάσει πάρα πολλές συνταγές. Μια μέρα, σε ένα μικρό μαγαζί με φαλάφελ που το είχε ένας γνωστός Ιορδανός στο Ντίσελντορφ, δοκίμασα το καλύτερο χούμους της ζωής μου. Έκπληκτος, έπιασα κουβέντα με τον σεφ και έμεινα άναυδος όταν ανακάλυψα ότι στο χούμους του δεν βάζει ούτε σκόρδο, ούτε κύμινο, ούτε ελαιόλαδο. Το μυστικό είναι να βράσεις μόνος σου τα ξερά ρεβίθια και να φτιάξεις το δικό σου ταχίνι. Περισσότερη έμπνευση εδώ: https://www.youtube.com/watch?v=NbXC0B83S7k",
+      "notes": "Έχω δοκιμάσει πάρα πολλές συνταγές και τεχνικές. Μια μέρα, σε ένα μικρό εστιατόριο με φαλάφελ που το είχε ένας γνωστός Ιορδανός στο Ντίσελντορφ, δοκίμασα το καλύτερο χούμους της ζωής μου. Έκπληκτος, έπιασα κουβέντα με τον σεφ και έμεινα άναυδος όταν ανακάλυψα ότι στο χούμους του δεν βάζει ούτε σκόρδο, ούτε κύμινο, ούτε ελαιόλαδο. Το μυστικό είναι να βράσεις μόνος σου τα ξερά ρεβίθια και να φτιάξεις το δικό σου ταχίνι. Περισσότερη έμπνευση εδώ: https://www.youtube.com/watch?v=NbXC0B83S7k",
       "ingredients": [
         "500 γρ. βρασμένα και στραγγισμένα ρεβίθια",
         "100 γρ. ταχίνι",
-        "Χυμός από 1 λεμόνι (60 mL)",
-        "3–6 κ.σ. παγωμένο νερό",
+        "Ο χυμός από 1 λεμόνι (60 mL)",
+        "Παγωμένο νερό",
         "Αλάτι"
       ],
       "instructions": [
-        "Αφαιρέστε τη φλούδα από τα ρεβίθια (για πιο βελούδινη υφή)",
+        "Αφαιρέστε τη φλούδα από τα ρεβίθια (για πιο κρεμώδη υφή)",
         "Ανακατέψτε το ταχίνι με τον χυμό λεμονιού και το αλάτι",
-        "Χτυπήστε τα όλα μαζί στο μπλέντερ",
+        "Χτυπήστε τα όλα μαζί στο μπλέντερ, προσθέτοντας σταδιακά παγωμένο νερό μέχρι να πετύχετε την επιθυμητή υφή",
         "Αφήστε το στο ψυγείο για λίγα λεπτά· είναι ακόμη καλύτερο την επόμενη μέρα",
         "Σερβίρετε με λίγο ελαιόλαδο και μπαχαρικά από πάνω (πιπέρι, κύμινο, πάπρικα, σουμάκ)"
       ]
     },
     "ja": {
       "name": "フムス",
-      "notes": "これまでに本当にたくさんのレシピを試してきました。ある日、デュッセルドルフで有名なヨルダン人が営む小さなファラフェル店で、人生で最高のフムスを食べました。驚いてシェフに話を聞いてみたところ、なんとそのフムスにはニンニクもクミンもオリーブオイルも一切入れていないことがわかり、思わず腰を抜かしそうになりました。ポイントは、乾燥ひよこ豆を自分で茹で、タヒニも自分で作ること。ほかの参考にしたものはこちら：https://www.youtube.com/watch?v=NbXC0B83S7k",
+      "notes": "これまでにたくさんのレシピや作り方を試してきました。ある日、デュッセルドルフで有名なヨルダン人が営む小さなファラフェル店で、人生で最高のフムスを食べました。驚いてシェフに話を聞いてみたところ、なんとそのフムスにはニンニクもクミンもオリーブオイルも一切入れていないことがわかり、思わず腰を抜かしそうになりました。ポイントは、乾燥ひよこ豆を自分で茹で、タヒニも自分で作ること。ほかの参考にしたものはこちら：https://www.youtube.com/watch?v=NbXC0B83S7k",
       "ingredients": [
         "茹でて水気を切ったひよこ豆 500 g",
         "タヒニ 100 g",
         "レモン1個分の果汁（60 mL）",
-        "氷水 大さじ3～6",
+        "氷水",
         "塩"
       ],
       "instructions": [
         "ひよこ豆の薄皮を取り除く（よりなめらかな食感にするため）",
         "タヒニにレモン汁と塩を混ぜる",
-        "すべてをブレンダーでなめらかになるまで攪拌する",
+        "すべてをブレンダーで攪拌し、好みの食感になるまで氷水を少しずつ加える",
         "冷蔵庫で数分休ませる。翌日のほうがさらにおいしい",
         "仕上げにオリーブオイルを少量かけ、スパイスを振って盛り付ける（コショウ、クミン、パプリカ、スマック）"
       ]
     },
     "zh": {
       "name": "鹰嘴豆泥",
-      "notes": "我试过很多很多不同的食谱。有一天，我在杜塞尔多夫一家由一位颇有名气的约旦人经营的小法拉费尔店里，吃到了我人生中最好吃的鹰嘴豆泥。我非常震惊，于是和厨师聊了起来，结果发现他的鹰嘴豆泥里竟然既不放大蒜，也不放孜然，更不放橄榄油，简直让我大跌眼镜。秘诀在于自己煮干鹰嘴豆，并自己制作芝麻酱。其他灵感来源：https://www.youtube.com/watch?v=NbXC0B83S7k",
+      "notes": "我试过很多很多不同的食谱和制作方法。有一天，我在杜塞尔多夫一家由一位颇有名气的约旦人经营的小法拉费尔餐厅里，吃到了我人生中最好吃的鹰嘴豆泥。我非常震惊，于是和厨师聊了起来，结果发现他的鹰嘴豆泥里竟然既不放大蒜，也不放孜然，更不放橄榄油，简直让我大跌眼镜。秘诀在于自己煮干鹰嘴豆，并自己制作芝麻酱。其他灵感来源：https://www.youtube.com/watch?v=NbXC0B83S7k",
       "ingredients": [
         "500 克煮熟并沥干的鹰嘴豆",
         "100 克芝麻酱",
         "1 个柠檬的汁（60 mL）",
-        "3–6 汤匙冰水",
+        "冰水",
         "盐"
       ],
       "instructions": [
         "去掉鹰嘴豆的外皮（口感会更加顺滑）",
         "将芝麻酱、柠檬汁和盐混合",
-        "将所有材料一起放入搅拌机搅打",
+        "将所有材料一起放入搅拌机搅打，并逐渐加入冰水，直到达到想要的口感",
         "放入冰箱静置几分钟；第二天吃味道更好",
         "食用时淋上一点橄榄油，再撒上香料（胡椒、孜然、红椒粉、漆树粉）"
       ]
     },
     "sl": {
       "name": "Humus",
-      "notes": "Preizkusil sem že ogromno receptov. Nekega dne sem v majhnem lokalu s falaflom, ki ga je v Düsseldorfu vodil priznani Jordanec, poskusil najboljši humus v življenju. Presenečen sem se zapletel v pogovor s kuharjem in skoraj padel s stola, ko sem izvedel, da v svoj humus ne dodaja ne česna, ne kumine ne olivnega olja. Skrivnost je v tem, da suho čičeriko skuhaš sam in si pripraviš tudi svoj tahini. Več navdiha tukaj: https://www.youtube.com/watch?v=NbXC0B83S7k",
+      "notes": "Preizkusil sem že ogromno receptov in tehnik. Nekega dne sem v majhni restavraciji s falaflom, ki jo je v Düsseldorfu vodil priznani Jordanec, poskusil najboljši humus v življenju. Presenečen sem se zapletel v pogovor s kuharjem in skoraj padel s stola, ko sem izvedel, da v svoj humus ne dodaja ne česna, ne kumine ne olivnega olja. Skrivnost je v tem, da suho čičeriko skuhaš sam in si pripraviš tudi svoj tahini. Več navdiha tukaj: https://www.youtube.com/watch?v=NbXC0B83S7k",
       "ingredients": [
         "500 g kuhane in odcejene čičerike",
         "100 g tahinija",
         "Sok 1 limone (60 mL)",
-        "3–6 žlic ledeno mrzle vode",
+        "Ledeno mrzla voda",
         "Sol"
       ],
       "instructions": [
-        "Čičeriki odstranite lupine (za bolj gladko teksturo)",
+        "Čičeriki odstranite lupine (za bolj kremasto teksturo)",
         "Tahini zmešajte z limoninim sokom in soljo",
-        "Vse skupaj zmešajte v blenderju",
+        "Vse skupaj zmešajte v blenderju in postopoma dodajajte ledeno mrzlo vodo, dokler ne dosežete želene teksture",
         "Za nekaj minut postavite v hladilnik; naslednji dan je še boljši",
         "Postrezite z nekaj kapljicami olivnega olja in začimbami po vrhu (poper, kumina, paprika, sumak)"
       ]
