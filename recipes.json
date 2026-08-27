@@ -69,195 +69,223 @@
     "id": "pilafRice",
     "pictures": ["riz_pilaf.jpg"],
     "en": {
-      "name": "Spiced pilaf rice with meat",
+      "name": "Pilaf rice",
       "ingredients": [
-        "1/2 cup of basmati rice",
-        "1 onion",
-        "3 to 4 garlic cloves",
-        "Spices (curry, star anise, cloves, etc.)",
-        "Meat (steak, chicken, etc.)",
+        "1/2 glass of basmati rice",
+        "1/2 onion",
+        "3 garlic cloves",
+        "Ginger",
+        "Spices (cardamom, star anise, cloves, fennel, curry, etc.)",
         "Olive oil",
-        "Boiling water",
-        "Vinegar (for deglazing)"
+        "Lemon juice"
       ],
       "instructions": [
-        "Rinse 1/2 cup of basmati rice in cold water, and soak it for 10 to 30 minutes in cold water, changing the water several times to clean the rice well.",
-        "Sauté 1 finely chopped onion in a bit of olive oil in a saucepan.",
-        "You can add pepper and spices to the hot oil. I'm still figuring out the quantity and choice of spices, but what works well is to add a good amount of curry, star anise, cloves, and possibly avoid too many spices and focus on just one.",
-        "Add the drained rice and mix.",
-        "Optionally, you can toast the rice over high heat.",
-        "Add 1.5 to 2 volumes of boiling water, cover the saucepan, and let it simmer for about 15 to 20 minutes on low heat (the rice should absorb all the water).",
-        "Add 3 to 4 chopped garlic cloves.",
-        "Meanwhile, sear some meat in a stainless steel pan (steak is always a success), deglaze (water + a small splash of vinegar), scrape off the fond, reduce, and add the sauce directly to the rice.",
-        "You can place the meat on top of the rice to keep it warm."
+        "Rinse 1/2 glass of basmati rice several times in cold water",
+        "Infuse the spices in the hot oil",
+        "Sauté the onion, then the ginger, and finally the garlic in the oil",
+        "Add the drained rice and 1.5 times its volume of water, then bring to a boil",
+        "Cook for 12 minutes over the lowest heat",
+        "Turn off the heat and leave to rest for 5 minutes",
+        "Dhungar method: heat a piece of charcoal until red-hot, place it in a small container or on aluminium foil in the centre of the rice, pour a little ghee or neutral oil over it, cover and leave to smoke for 5 minutes",
+        "Adjust the balance of flavours and add a dash of lemon juice"
       ]
     },
     "fr": {
-      "name": "Riz pilaf aux épices avec viande",
+      "name": "Riz pilaf",
       "ingredients": [
         "1/2 verre de riz basmati",
-        "1 oignon",
-        "3 à 4 gousses d'ail",
-        "Épices (curry, anis étoilé, clous de girofle, etc.)",
-        "Viande (steak, poulet, etc.)",
+        "1/2 oignon",
+        "3 gousses d'ail",
+        "Gingembre",
+        "Épices (Cardamome, anis étoilé, clous de girofle, fenouil, curry, etc.)",
         "Huile d'olive",
-        "Eau bouillante",
-        "Vinaigre (pour déglacer)"
+        "Jus de citron"
       ],
       "instructions": [
-        "Nettoyer 1/2 verre de riz basmati à l'eau froide, et le plonger 10 à 30 minutes à l'eau froide, plusieur bains pour bien clean le riz",
-        "Faire suer 1 oignon finement émincé/ciselé dans un fond d'huile d'olive dans une casserole",
-        "Possibilité d'ajouter du poivre et des épices dans l'huile chaude, je suis pas au point encore sur la quantité et le choix des épices, ce qui marche bien c'est de mettre une honnête quantité de curry, de l'anis étoilé, des clous de girofle, éventuellement éviter trop d'épices et se concentrer sur une seule",
-        "Ajouter le riz égoutté, et mélanger",
-        "Éventuellement faire roussir le riz à feu fort",
-        "Ajouter de 1.5 à 2 volumes d'eau bouillante, couvrir la casserole et laisser frémir une 15 à 20 minutes à feu minimum (le riz doit absorber toute l'eau)",
-        "Ajouter 3 à 4 gousses d'ail hachées",
-        "Saisir une viande pendant ce temps, dans poele inox (le steak est toujours un succès), déglacer (eau + petite pointe de vinaigre), bien décoller les sucs, faire réduire, et ajouter la sauce directement dans le riz",
-        "Possibilité de placer la viande sur le riz pour la garder au chaud"
+        "Rincer 1/2 verre de riz basmati plusieurs fois à l'eau froide",
+        "Faire infuser les épices dans l'huile chaude",
+        "Faire suer l'oignon, puis le gingembre et enfin l'ail dans l'huile",
+        "Ajouter le riz égoutté et 1,5 fois son volume en eau, puis porter à ébullition",
+        "Cuire 12 minutes à feu minimum",
+        "Éteindre le feu et laisser reposer 5 minutes",
+        "Méthode Dhungar : faire brûler un morceau de charbon jusqu'à ce qu'il soit rouge vif, le placer dans un petit récipient ou sur du papier aluminium au centre du riz, verser dessus un peu de ghee ou d'huile neutre, fermer le couvercle et laisser fumer 5 minutes",
+        "Corriger l'équilibre des saveurs et ajouter une pointe de jus de citron"
       ]
     },
     "it": {
-      "name": "Riso pilaf speziato con carne",
+      "name": "Riso pilaf",
       "ingredients": [
-        "1/2 tazza di riso basmati",
-        "1 cipolla",
-        "3-4 spicchi d'aglio",
-        "Spezie (curry, anice stellato, chiodi di garofano, ecc.)",
-        "Carne (bistecca, pollo, ecc.)",
+        "1/2 bicchiere di riso basmati",
+        "1/2 cipolla",
+        "3 spicchi d'aglio",
+        "Zenzero",
+        "Spezie (cardamomo, anice stellato, chiodi di garofano, finocchio, curry, ecc.)",
         "Olio d'oliva",
-        "Acqua bollente",
-        "Aceto (per deglassare)"
+        "Succo di limone"
       ],
       "instructions": [
-        "Sciacquare 1/2 tazza di riso basmati in acqua fredda e lasciarlo in ammollo per 10-30 minuti in acqua fredda, cambiando l'acqua più volte per pulire bene il riso.",
-        "Soffriggere 1 cipolla finemente tritata in un po' di olio d'oliva in una casseruola.",
-        "Puoi aggiungere pepe e spezie all'olio caldo. Sto ancora cercando di capire la quantità e la scelta delle spezie, ma ciò che funziona bene è aggiungere una buona quantità di curry, anice stellato, chiodi di garofano e possibilmente evitare troppe spezie e concentrarsi su una sola.",
-        "Aggiungere il riso scolato e mescolare.",
-        "Facoltativamente, puoi tostare il riso a fuoco alto.",
-        "Aggiungere da 1,5 a 2 volumi di acqua bollente, coprire la casseruola e lasciar sobbollire per circa 15-20 minuti a fuoco basso (il riso dovrebbe assorbire tutta l'acqua).",
-        "Aggiungere 3-4 spicchi d'aglio tritati.",
-        "Nel frattempo, rosolare della carne in una padella in acciaio inossidabile (la bistecca è sempre un successo), deglassare (acqua + un piccolo spruzzo di aceto), raschiare il fondo, ridurre e aggiungere la salsa direttamente al riso.",
-        "Puoi mettere la carne sopra il riso per tenerla al caldo."
+        "Sciacquare più volte 1/2 bicchiere di riso basmati con acqua fredda",
+        "Lasciare che le spezie rilascino il loro aroma nell'olio caldo",
+        "Rosolare nell'olio la cipolla, poi lo zenzero e infine l'aglio",
+        "Aggiungere il riso scolato e una quantità d'acqua pari a 1,5 volte il suo volume, quindi portare a ebollizione",
+        "Cuocere per 12 minuti a fuoco minimo",
+        "Spegnere il fuoco e lasciare riposare per 5 minuti",
+        "Metodo Dhungar: scaldare un pezzo di carbone finché diventa incandescente, metterlo in un piccolo recipiente o su un foglio di alluminio al centro del riso, versarvi sopra un po' di ghee o di olio neutro, coprire e lasciare affumicare per 5 minuti",
+        "Regolare l'equilibrio dei sapori e aggiungere un goccio di succo di limone"
       ]
     },
     "es": {
-      "name": "Arroz pilaf especiado con carne",
+      "name": "Arroz pilaf",
       "ingredients": [
         "1/2 vaso de arroz basmati",
-        "1 cebolla",
-        "3–4 dientes de ajo",
-        "Especias (curry, anís estrellado, clavo, etc.)",
-        "Carne (ternera, pollo, etc.)",
+        "1/2 cebolla",
+        "3 dientes de ajo",
+        "Jengibre",
+        "Especias (cardamomo, anís estrellado, clavo, hinojo, curry, etc.)",
         "Aceite de oliva",
-        "Agua hirviendo",
-        "Vinagre (para desglasar)"
+        "Zumo de limón"
       ],
       "instructions": [
-        "Lavar 1/2 vaso de arroz basmati con agua fría y dejarlo en remojo de 10 a 30 minutos, cambiando el agua varias veces para limpiarlo bien.",
-        "Rehogar una cebolla finamente picada en una cazuela con un poco de aceite de oliva.",
-        "Se pueden añadir especias al aceite caliente; una buena combinación es curry, anís estrellado y clavo. Es mejor no abusar de las especias y centrarse en una o dos.",
-        "Añadir el arroz escurrido y mezclar.",
-        "Opcional: dorar ligeramente el arroz a fuego fuerte.",
-        "Añadir 1,5 a 2 partes de agua hirviendo, tapar la cazuela y dejar cocer a fuego muy bajo durante 15–20 minutos, hasta que el arroz absorba toda el agua.",
-        "Añadir 3–4 dientes de ajo picados.",
-        "Mientras tanto, dorar la carne (por ejemplo un filete) en una sartén de acero inoxidable, desglasar con un poco de agua y vinagre, reducir la salsa y verterla sobre el arroz.",
-        "Colocar la carne encima del arroz para mantenerla caliente si se desea."
+        "Enjuagar varias veces 1/2 vaso de arroz basmati con agua fría",
+        "Infusionar las especias en el aceite caliente",
+        "Pochar en el aceite la cebolla, después el jengibre y, por último, el ajo",
+        "Añadir el arroz escurrido y 1,5 veces su volumen de agua; llevar a ebullición",
+        "Cocer durante 12 minutos a fuego mínimo",
+        "Apagar el fuego y dejar reposar durante 5 minutos",
+        "Método Dhungar: calentar un trozo de carbón hasta que esté al rojo vivo, colocarlo en un recipiente pequeño o sobre papel de aluminio en el centro del arroz, verter encima un poco de ghee o aceite neutro, tapar y dejar ahumar durante 5 minutos",
+        "Ajustar el equilibrio de sabores y añadir un toque de zumo de limón"
       ]
     },
     "nb": {
-      "name": "Krydret pilafris med kjøtt",
+      "name": "Pilaffris",
       "ingredients": [
         "1/2 glass basmatiris",
-        "1 løk",
-        "3–4 hvitløksfedd",
-        "Krydder (karri, stjerneanis, nellik osv.)",
-        "Kjøtt (biff, kylling osv.)",
+        "1/2 løk",
+        "3 hvitløksfedd",
+        "Ingefær",
+        "Krydder (kardemomme, stjerneanis, nellik, fennikel, karri osv.)",
         "Olivenolje",
-        "Kokende vann",
-        "Eddik (til å deglasere)"
+        "Sitronsaft"
       ],
       "instructions": [
-        "Skyll 1/2 glass basmatiris i kaldt vann og la den ligge i kaldt vann i 10–30 minutter, bytt vann flere ganger for å fjerne stivelse.",
-        "Surr finhakket løk i litt olivenolje i en kasserolle.",
-        "Du kan tilsette krydder i den varme oljen – karri, stjerneanis og nellik fungerer godt. Bruk heller færre krydder i passende mengde.",
-        "Tilsett den avsilte risen og rør om.",
-        "Evt. brun risen lett på høy varme.",
-        "Tilsett 1,5–2 deler kokende vann, dekk til og la småkoke på lav varme i 15–20 minutter til vannet er absorbert.",
-        "Tilsett 3–4 finhakkede hvitløksfedd.",
-        "Stek kjøttet (for eksempel biff) i en stålpanne, deglaser med litt vann og eddik, reduser sausen og hell den over risen.",
-        "Du kan legge kjøttet oppå risen for å holde det varmt."
+        "Skyll 1/2 glass basmatiris flere ganger i kaldt vann",
+        "La krydderet trekke i den varme oljen",
+        "Fres løken, deretter ingefæren og til slutt hvitløken i oljen",
+        "Tilsett den avrente risen og 1,5 ganger risens volum med vann, og kok opp",
+        "Kok i 12 minutter på laveste varme",
+        "Slå av varmen og la risen hvile i 5 minutter",
+        "Dhungar-metoden: Varm et stykke trekull til det er rødglødende, legg det i en liten beholder eller på aluminiumsfolie midt i risen, hell litt ghee eller nøytral olje over, legg på lokket og la risen røykes i 5 minutter",
+        "Juster smaksbalansen og tilsett en skvett sitronsaft"
       ]
     },
     "tr": {
-      "name": "Baharatlı Pilav ve Et",
+      "name": "Pilav",
       "ingredients": [
-        "Yarım bardak basmati pirinci",
-        "1 soğan",
-        "3–4 diş sarımsak",
-        "Baharatlar (köri, yıldız anason, karanfil vb.)",
-        "Et (biftek, tavuk vb.)",
+        "1/2 bardak basmati pirinci",
+        "1/2 soğan",
+        "3 diş sarımsak",
+        "Zencefil",
+        "Baharatlar (kakule, yıldız anason, karanfil, rezene, köri vb.)",
         "Zeytinyağı",
-        "Kaynar su",
-        "Sirke (tavayı çözmek için)"
+        "Limon suyu"
       ],
       "instructions": [
-        "Yarım bardak basmati pirincini soğuk suda iyice yıkayın, ardından 10–30 dakika soğuk suda bekletin; nişastayı gidermek için birkaç kez suyu değiştirin.",
-        "Bir tencerede biraz zeytinyağı ile ince doğranmış soğanı kavurun.",
-        "Sıcak yağa baharat ekleyebilirsiniz — köri, yıldız anason ve karanfil iyi sonuç verir. Çok fazla baharat kullanmaktan kaçının, birine odaklanmak daha iyidir.",
-        "Süzülmüş pirinci ekleyip karıştırın.",
-        "İsteğe bağlı: Pirinci yüksek ateşte hafifçe kavurun.",
-        "1,5–2 ölçü kaynar su ekleyin, kapağını kapatın ve kısık ateşte 15–20 dakika pişirin (pirinç tüm suyu çekmeli).",
-        "3–4 diş doğranmış sarımsağı ekleyin.",
-        "Bu sırada, paslanmaz çelik tavada eti (örneğin biftek) kızartın, az su ve sirke ile çözerek sosu elde edin, biraz buharlaştırın ve doğrudan pilava ekleyin.",
-        "İsterseniz eti pilavın üzerine koyarak sıcak kalmasını sağlayın."
+        "1/2 bardak basmati pirincini soğuk suyla birkaç kez yıkayın",
+        "Baharatları sıcak yağda demleyin",
+        "Soğanı, ardından zencefili ve son olarak sarımsağı yağda kavurun",
+        "Süzülmüş pirinci ve hacminin 1,5 katı kadar suyu ekleyip kaynatın",
+        "En kısık ateşte 12 dakika pişirin",
+        "Ocağı kapatıp 5 dakika dinlendirin",
+        "Dhungar yöntemi: Bir parça kömürü kor hâline gelene kadar ısıtın, küçük bir kabın içinde veya alüminyum folyo üzerinde pirincin ortasına yerleştirin, üzerine biraz sade yağ ya da nötr yağ dökün, kapağı kapatıp 5 dakika tütsülenmeye bırakın",
+        "Lezzet dengesini ayarlayın ve biraz limon suyu ekleyin"
+      ]
+    },
+    "el": {
+      "name": "Ρύζι πιλάφι",
+      "ingredients": [
+        "1/2 ποτήρι ρύζι μπασμάτι",
+        "1/2 κρεμμύδι",
+        "3 σκελίδες σκόρδο",
+        "Τζίντζερ",
+        "Μπαχαρικά (κάρδαμο, αστεροειδής γλυκάνισος, γαρίφαλο, μάραθος, κάρι κ.λπ.)",
+        "Ελαιόλαδο",
+        "Χυμός λεμονιού"
+      ],
+      "instructions": [
+        "Ξεπλύνετε πολλές φορές 1/2 ποτήρι ρύζι μπασμάτι με κρύο νερό",
+        "Αφήστε τα μπαχαρικά να αρωματίσουν το ζεστό λάδι",
+        "Σοτάρετε στο λάδι το κρεμμύδι, έπειτα το τζίντζερ και τέλος το σκόρδο",
+        "Προσθέστε το στραγγισμένο ρύζι και νερό ίσο με 1,5 φορά τον όγκο του και αφήστε να πάρει βράση",
+        "Μαγειρέψτε για 12 λεπτά σε πολύ χαμηλή φωτιά",
+        "Σβήστε τη φωτιά και αφήστε το να ξεκουραστεί για 5 λεπτά",
+        "Μέθοδος Dhungar: θερμάνετε ένα κομμάτι κάρβουνο μέχρι να πυρακτωθεί, τοποθετήστε το σε ένα μικρό δοχείο ή πάνω σε αλουμινόχαρτο στο κέντρο του ρυζιού, ρίξτε επάνω του λίγο γκι ή ουδέτερο λάδι, σκεπάστε και αφήστε το να καπνιστεί για 5 λεπτά",
+        "Ρυθμίστε την ισορροπία των γεύσεων και προσθέστε λίγο χυμό λεμονιού"
       ]
     },
     "ja": {
-      "name": "スパイス香る肉入りピラフ",
+      "name": "ピラフライス",
       "ingredients": [
-        "バスマティ米 1/2カップ",
-        "玉ねぎ 1個",
-        "にんにく 3〜4片",
-        "スパイス（カレー粉、スターアニス、クローブなど）",
-        "肉（ステーキ、鶏肉など）",
+        "バスマティライス 1/2杯",
+        "玉ねぎ 1/2個",
+        "にんにく 3片",
+        "しょうが",
+        "スパイス（カルダモン、スターアニス、クローブ、フェンネル、カレー粉など）",
         "オリーブオイル",
-        "熱湯",
-        "酢（デグレーズ用）"
+        "レモン汁"
       ],
       "instructions": [
-        "1/2カップのバスマティ米を冷水で洗い、10〜30分ほど冷水に浸す。数回水を替えてしっかりと洗う。",
-        "鍋にオリーブオイルを少し入れ、みじん切りにした玉ねぎを炒める。",
-        "熱い油にスパイスを加えて香りを出す。おすすめはカレー粉、スターアニス、クローブ。スパイスは多く入れすぎず、一種類に集中するのがコツ。",
-        "水気を切った米を加え、混ぜる。",
-        "必要であれば、強火で米を軽く炒めて香ばしくする。",
-        "熱湯を1.5〜2倍量加え、蓋をして弱火で15〜20分ほど煮る（米が水分をすべて吸収するまで）。",
-        "みじん切りにしたにんにく3〜4片を加える。",
-        "その間に、肉（ステーキなど）をステンレスのフライパンで焼き、水と少量の酢でデグレーズしてソースを作り、煮詰めてからピラフに加える。",
-        "肉をピラフの上にのせて温かいまま保つのもよい。"
+        "バスマティライス1/2杯を冷水で数回洗う",
+        "熱した油にスパイスの香りを移す",
+        "玉ねぎ、しょうが、にんにくの順に油で炒める",
+        "水気を切った米と、米の体積の1.5倍の水を加えて沸騰させる",
+        "ごく弱火で12分炊く",
+        "火を止め、5分蒸らす",
+        "ドゥンガール法：木炭を赤くなるまで熱し、小さな容器またはアルミホイルに載せて米の中央に置く。ギーまたはクセのない油を少量かけ、蓋をして5分間燻す",
+        "味のバランスを整え、レモン汁を少量加える"
       ]
     },
     "zh": {
-      "name": "香料肉炒饭（皮拉夫）",
+      "name": "印度香饭",
       "ingredients": [
-        "半杯巴斯马蒂米",
-        "1个洋葱",
-        "3–4瓣大蒜",
-        "香料（咖喱、八角、丁香等）",
-        "肉类（牛排、鸡肉等）",
+        "1/2杯印度香米",
+        "1/2个洋葱",
+        "3瓣大蒜",
+        "姜",
+        "香料（小豆蔻、八角、丁香、茴香、咖喱粉等）",
         "橄榄油",
-        "开水",
-        "醋（用于去釉）"
+        "柠檬汁"
       ],
       "instructions": [
-        "用冷水清洗半杯巴斯马蒂米，浸泡10–30分钟，多次换水以去除淀粉。",
-        "在锅中加入少量橄榄油，小火炒香切细的洋葱。",
-        "可在热油中加入香料，例如咖喱、八角、丁香等。建议不要放太多香料，专注于一两种风味更佳。",
-        "加入沥干的米饭并搅拌均匀。",
-        "可选：用大火稍微炒香米饭。",
-        "加入1.5–2倍体积的开水，盖上锅盖，小火煮15–20分钟，直到米饭吸收完水分。",
-        "加入切碎的3–4瓣大蒜。",
-        "同时，用不锈钢锅煎肉（如牛排），加入少量水和醋去釉，收汁后将酱汁倒入米饭中。",
-        "可将肉放在米饭上以保持温度。"
+        "用冷水将1/2杯印度香米淘洗数次",
+        "将香料放入热油中煸香",
+        "依次将洋葱、姜和大蒜放入油中炒软",
+        "加入沥干的米和相当于米体积1.5倍的水，煮沸",
+        "转最小火煮12分钟",
+        "关火后焖5分钟",
+        "Dhungar熏香法：将一块木炭烧至通红，放入小容器中或垫在铝箔上，置于米饭中央；在木炭上淋少许酥油或中性油，盖上锅盖熏5分钟",
+        "调整味道的平衡，并加入少许柠檬汁"
+      ]
+    },
+    "sl": {
+      "name": "Pilav",
+      "ingredients": [
+        "1/2 kozarca riža basmati",
+        "1/2 čebule",
+        "3 stroki česna",
+        "Ingver",
+        "Začimbe (kardamom, zvezdasti janež, klinčki, koromač, kari itd.)",
+        "Oljčno olje",
+        "Limonin sok"
+      ],
+      "instructions": [
+        "Večkrat sperite 1/2 kozarca riža basmati s hladno vodo",
+        "Začimbe pustite, da se prepojijo v vročem olju",
+        "Na olju prepražite čebulo, nato ingver in nazadnje česen",
+        "Dodajte odcejen riž in vodo v količini 1,5-kratnika njegove prostornine ter zavrite",
+        "Kuhajte 12 minut na najnižjem ognju",
+        "Ugasnite ogenj in pustite počivati 5 minut",
+        "Metoda Dhungar: kos oglja segrejte do žarenja, položite ga v majhno posodico ali na aluminijasto folijo na sredini riža, prelijte z malo gheeja ali nevtralnega olja, pokrijte in pustite, da se dimi 5 minut",
+        "Uravnotežite okuse in dodajte kanček limoninega soka"
       ]
     }
   },
