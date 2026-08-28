@@ -1,0 +1,1612 @@
+[
+  {
+    "id": "1380",
+    "name": "Coop Marked Askvoll",
+    "lat": 61.346907,
+    "lon": 5.0616429,
+    "address": "Askvoll",
+    "postalCode": "6980",
+    "city": "Askvoll",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/coop-marked-askvoll-1380"
+  },
+  {
+    "id": "1528",
+    "name": "Coop Marked Barstadvik",
+    "lat": 62.3598902,
+    "lon": 6.2672585,
+    "address": "Sjøbakkane 1",
+    "postalCode": "6174",
+    "city": "Barstadvik",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/coop-marked-barstadvik-1528"
+  },
+  {
+    "id": "1930",
+    "name": "Coop Marked Billefjord",
+    "lat": 70.3082338,
+    "lon": 25.0617173,
+    "address": "E6",
+    "postalCode": "9710",
+    "city": "Indre Billefjord",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/coop-marked-billefjord-1930"
+  },
+  {
+    "id": "1693",
+    "name": "Coop Marked Brede",
+    "lat": 64.20262,
+    "lon": 12.25848,
+    "address": "Breidesvegen 5",
+    "postalCode": "7760",
+    "city": "Snåsa",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/coop-marked-brede-1693"
+  },
+  {
+    "id": "1576",
+    "name": "Coop Marked Brekken",
+    "lat": 62.64645,
+    "lon": 11.86594,
+    "address": "Mellomriksveien 2",
+    "postalCode": "7370",
+    "city": "Brekka",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/coop-marked-brekken-1576"
+  },
+  {
+    "id": "1798",
+    "name": "Coop Marked Bøfjord",
+    "lat": 63.007681,
+    "lon": 8.357449,
+    "address": "Bølandsvegen 245",
+    "postalCode": "6643",
+    "city": "Bøfjorden",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/coop-marked-bofjord-1798"
+  },
+  {
+    "id": "1931",
+    "name": "Coop Marked Børselv",
+    "lat": 70.3182075,
+    "lon": 25.5657596,
+    "address": "Sekundær Fylkesvei 98 98",
+    "postalCode": "9716",
+    "city": "Børselv",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/coop-marked-borselv-1931"
+  },
+  {
+    "id": "1904",
+    "name": "Coop Marked Dverberg",
+    "lat": 69.1065593,
+    "lon": 15.9644914,
+    "address": "Bankveien",
+    "postalCode": "8485",
+    "city": "Dverberg",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/coop-marked-dverberg-1904"
+  },
+  {
+    "id": "1472",
+    "name": "Coop Marked Eidsdal",
+    "lat": 62.2623944,
+    "lon": 7.1720021,
+    "address": "Ytterdalsgata 30",
+    "postalCode": "6215",
+    "city": "Eidsdal",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/coop-marked-eidsdal-1472"
+  },
+  {
+    "id": "1473",
+    "name": "Coop Marked Eresfjord",
+    "lat": 62.6798309,
+    "lon": 8.1201093,
+    "address": "Siramoen 29",
+    "postalCode": "6470",
+    "city": "Eresfjord",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/coop-marked-eresfjord-1473"
+  },
+  {
+    "id": "1583",
+    "name": "Coop Marked Fevåg",
+    "lat": 63.67804,
+    "lon": 9.8602911,
+    "address": "Fevågveien 322",
+    "postalCode": "7110",
+    "city": "Fevåg",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/coop-marked-fevag-1583"
+  },
+  {
+    "id": "1561",
+    "name": "Coop Marked Fiskå",
+    "lat": 62.0983207,
+    "lon": 5.5579313,
+    "address": "Fiskåvegen",
+    "postalCode": "6143",
+    "city": "Fiskåbygd",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/coop-marked-fiska-1561"
+  },
+  {
+    "id": "1569",
+    "name": "Coop Marked Fjelli",
+    "lat": 61.8376334,
+    "lon": 6.4629606,
+    "address": "Panoramavegen 1202",
+    "postalCode": "6795",
+    "city": "Blaksæter",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/coop-marked-fjelli-1569"
+  },
+  {
+    "id": "1541",
+    "name": "Coop Marked Fjørtoft",
+    "lat": 62.7056087,
+    "lon": 6.3740097,
+    "address": "Fjørtoftvegen 214",
+    "postalCode": "6294",
+    "city": "Fjørtoft",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/coop-marked-fjortoft-1541"
+  },
+  {
+    "id": "1763",
+    "name": "Coop Marked Flatanger",
+    "lat": 64.4608441,
+    "lon": 10.7578057,
+    "address": "Nordsjøveien 68",
+    "postalCode": "7770",
+    "city": "Flatanger",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/coop-marked-flatanger-1763"
+  },
+  {
+    "id": "1414",
+    "name": "Coop Marked Flåm",
+    "lat": 60.864,
+    "lon": 7.11605,
+    "address": "A-Feltvegen 18",
+    "postalCode": "5743",
+    "city": "Flåm",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/coop-marked-flam-1414"
+  },
+  {
+    "id": "1790",
+    "name": "Coop Marked Foldfjorden",
+    "lat": 63.2605757,
+    "lon": 8.382926,
+    "address": "Tømmervågvegen 1081-1083",
+    "postalCode": "6694",
+    "city": "Foldfjorden",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/coop-marked-foldfjorden-1790"
+  },
+  {
+    "id": "1560",
+    "name": "Coop Marked Folkestad",
+    "lat": 62.1199894,
+    "lon": 6.0267054,
+    "address": "Råsa Folkestad",
+    "postalCode": "6120",
+    "city": "Folkestad",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/coop-marked-folkestad-1560"
+  },
+  {
+    "id": "1585",
+    "name": "Coop Marked Follafoss",
+    "lat": 63.986251,
+    "lon": 11.109166,
+    "address": "Follafossvegen 1120",
+    "postalCode": "7796",
+    "city": "Follafoss",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/coop-marked-follafoss-1585"
+  },
+  {
+    "id": "1230",
+    "name": "Coop Marked Forsand",
+    "lat": 58.901324,
+    "lon": 6.0876312,
+    "address": "Forsandvegen 436",
+    "postalCode": "4110",
+    "city": "Forsand",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/coop-marked-forsand-1230"
+  },
+  {
+    "id": "1434",
+    "name": "Coop Marked Fresvik",
+    "lat": 61.0742382,
+    "lon": 6.939556,
+    "address": "Fresvikvegen",
+    "postalCode": "6896",
+    "city": "Fresvik",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/coop-marked-fresvik-1434"
+  },
+  {
+    "id": "1546",
+    "name": "Coop Marked Gjerdsvika",
+    "lat": 62.258132,
+    "lon": 5.5851412,
+    "address": "Dekkevegen 2",
+    "postalCode": "6083",
+    "city": "Gjerdsvika",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/coop-marked-gjerdsvika-1546"
+  },
+  {
+    "id": "1658",
+    "name": "Coop Marked Glåmos",
+    "lat": 62.6737816,
+    "lon": 11.4188148,
+    "address": "Stasjonsveien 5",
+    "postalCode": "7372",
+    "city": "Glåmos",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/coop-marked-glamos-1658"
+  },
+  {
+    "id": "1351",
+    "name": "Coop Marked Gyland",
+    "lat": 58.3844432,
+    "lon": 6.8365635,
+    "address": "Gylandsvegen 210",
+    "postalCode": "4436",
+    "city": "Gyland",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/coop-marked-gyland-1351"
+  },
+  {
+    "id": "1597",
+    "name": "Coop Marked Harran",
+    "lat": 64.5610201,
+    "lon": 12.4929537,
+    "address": "Namsenvegen 1517",
+    "postalCode": "7873",
+    "city": "Harran",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/coop-marked-harran-1597"
+  },
+  {
+    "id": "1517",
+    "name": "Coop Marked Hellesylt",
+    "lat": 62.0847969,
+    "lon": 6.8690093,
+    "address": "Hellesyltvegen 45-47",
+    "postalCode": "6218",
+    "city": "Hellesylt",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/coop-marked-hellesylt-1517"
+  },
+  {
+    "id": "1844",
+    "name": "Coop Marked Helligvær",
+    "lat": 67.4328,
+    "lon": 13.9759,
+    "address": "Sørværveien",
+    "postalCode": "8095",
+    "city": "Helligvær",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/coop-marked-helligvaer-1844"
+  },
+  {
+    "id": "1605",
+    "name": "Coop Marked Kjerknesvågen",
+    "lat": 63.9118712,
+    "lon": 11.1907823,
+    "address": "Buavegen 1",
+    "postalCode": "7670",
+    "city": "Inderøy",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/coop-marked-kjerknesvagen-1605"
+  },
+  {
+    "id": "1616",
+    "name": "Coop Marked Kvam",
+    "lat": 64.139874,
+    "lon": 11.740433,
+    "address": "Kvamskjerkvegen 20",
+    "postalCode": "7732",
+    "city": "Steinkjer",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/coop-marked-kvam-1616"
+  },
+  {
+    "id": "1548",
+    "name": "Coop Marked Kvamsøy",
+    "lat": 62.1974794,
+    "lon": 5.4184403,
+    "address": "Hamna 11",
+    "postalCode": "6087",
+    "city": "Kvamsøy",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/coop-marked-kvamsoy-1548"
+  },
+  {
+    "id": "1617",
+    "name": "Coop Marked Kvikne",
+    "lat": 62.5656851,
+    "lon": 10.3230943,
+    "address": "Enan",
+    "postalCode": "2512",
+    "city": "Kvikne",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/coop-marked-kvikne-1617"
+  },
+  {
+    "id": "1848",
+    "name": "Coop Marked Leines",
+    "lat": 67.737,
+    "lon": 14.8029,
+    "address": "Helnesveien",
+    "postalCode": "8285",
+    "city": "Leines",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/coop-marked-leines-1848"
+  },
+  {
+    "id": "1619",
+    "name": "Coop Marked Leka",
+    "lat": 65.0941272,
+    "lon": 11.7015769,
+    "address": "Leknesveien 86",
+    "postalCode": "7994",
+    "city": "Leka",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/coop-marked-leka-1619"
+  },
+  {
+    "id": "2071",
+    "name": "Coop Marked Ljørdalen",
+    "lat": 61.3843409,
+    "lon": 12.6845168,
+    "address": "Skårvegen 2",
+    "postalCode": "2425",
+    "city": "Ljørdalen",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/coop-marked-ljordalen-2071"
+  },
+  {
+    "id": "1630",
+    "name": "Coop Marked Mausundvær",
+    "lat": 63.867997,
+    "lon": 8.6641801,
+    "address": "Måøyveien 16",
+    "postalCode": "7284",
+    "city": "Mausund",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/coop-marked-mausundvaer-1630"
+  },
+  {
+    "id": "1852",
+    "name": "Coop Marked Meløy",
+    "lat": 66.8229999,
+    "lon": 13.408793,
+    "address": "Meløysundveien 683",
+    "postalCode": "8157",
+    "city": "Meløy",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/coop-marked-meloy-1852"
+  },
+  {
+    "id": "1897",
+    "name": "Coop Marked Misvær",
+    "lat": 67.1161,
+    "lon": 15.0057,
+    "address": "Misvær",
+    "postalCode": "8100",
+    "city": "Misvær",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/coop-marked-misvaer-1897"
+  },
+  {
+    "id": "1396",
+    "name": "Coop Marked Modalen",
+    "lat": 60.8143561,
+    "lon": 5.8027659,
+    "address": "Mo 1326",
+    "postalCode": "5729",
+    "city": "Modalen",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/coop-marked-modalen-1396"
+  },
+  {
+    "id": "1549",
+    "name": "Coop Marked Moltustranda",
+    "lat": 62.2940083,
+    "lon": 5.6335845,
+    "address": "Sekundær Fylkesveg 10",
+    "postalCode": "6076",
+    "city": "Moltustranda",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/coop-marked-moltustranda-1549"
+  },
+  {
+    "id": "1751",
+    "name": "Coop Marked Mosvik",
+    "lat": 63.8161648,
+    "lon": 11.0043068,
+    "address": "Nervikvegen 66",
+    "postalCode": "7690",
+    "city": "Mosvik",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/coop-marked-mosvik-1751"
+  },
+  {
+    "id": "1781",
+    "name": "Coop Marked Mølnbukt",
+    "lat": 63.6170277,
+    "lon": 9.6485085,
+    "address": "Værnesveien 10/63",
+    "postalCode": "7318",
+    "city": "Agdenes",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/coop-marked-molnbukt-1781"
+  },
+  {
+    "id": "1610",
+    "name": "Coop Marked Naustbukta",
+    "lat": 64.9838249,
+    "lon": 11.7588524,
+    "address": "Gravvikvegen 1510",
+    "postalCode": "7990",
+    "city": "Naustbukta",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/coop-marked-naustbukta-1610"
+  },
+  {
+    "id": "1171",
+    "name": "Coop Marked Neslandsvatn",
+    "lat": 58.9686741,
+    "lon": 9.1589203,
+    "address": "Krokenveien 1671",
+    "postalCode": "3760",
+    "city": "Neslandsvatn",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/coop-marked-neslandsvatn-1171"
+  },
+  {
+    "id": "1849",
+    "name": "Coop Marked Nordfold",
+    "lat": 67.7648311,
+    "lon": 15.2429502,
+    "address": "Fv632",
+    "postalCode": "8286",
+    "city": "Nordfold",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/coop-marked-nordfold-1849"
+  },
+  {
+    "id": "1794",
+    "name": "Coop Marked Nordskag",
+    "lat": 63.7055616,
+    "lon": 8.5631159,
+    "address": "Nordskaget 2",
+    "postalCode": "7266",
+    "city": "Kverva",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/coop-marked-nordskag-1794"
+  },
+  {
+    "id": "1656",
+    "name": "Coop Marked Nybø",
+    "lat": 63.0977124,
+    "lon": 9.3231479,
+    "address": "Rindalslina 1605",
+    "postalCode": "6658",
+    "city": "Rindalsskogen",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/coop-marked-nybo-1656"
+  },
+  {
+    "id": "1862",
+    "name": "Coop Marked Nygårdsjøen",
+    "lat": 67.1110108,
+    "lon": 14.3048662,
+    "address": "Nygårdveien 134",
+    "postalCode": "8120",
+    "city": "Nygårdsjøen",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/coop-marked-nygardsjoen-1862"
+  },
+  {
+    "id": "1929",
+    "name": "Coop Marked Olderdalen",
+    "lat": 69.6038388,
+    "lon": 20.5328731,
+    "address": "Olderdalsvegen 376",
+    "postalCode": "9146",
+    "city": "Olderdalen",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/coop-marked-olderdalen-1929"
+  },
+  {
+    "id": "1653",
+    "name": "Coop Marked Opløfjorden",
+    "lat": 64.7990647,
+    "lon": 11.846075,
+    "address": "Geisnesvegen 1349",
+    "postalCode": "7960",
+    "city": "Salsbruket",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/coop-marked-oplofjorden-1653"
+  },
+  {
+    "id": "2398",
+    "name": "Coop Marked Ose I Setesdal",
+    "lat": 58.9511,
+    "lon": 7.67563,
+    "address": "Ose 20",
+    "postalCode": "4745",
+    "city": "Bygland",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/coop-marked-ose-i-setesdal-2398"
+  },
+  {
+    "id": "1682",
+    "name": "Coop Marked Otterøy",
+    "lat": 64.5168811,
+    "lon": 11.2902995,
+    "address": "Skomsvollvegen 1290",
+    "postalCode": "7819",
+    "city": "Fosslandsosen",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/coop-marked-otteroy-1682"
+  },
+  {
+    "id": "1996",
+    "name": "Coop Marked Rafsbotn",
+    "lat": 70.0192704,
+    "lon": 23.5384152,
+    "address": "Rafsbotnveien",
+    "postalCode": "9517",
+    "city": "Alta",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/coop-marked-rafsbotn-1996"
+  },
+  {
+    "id": "2593",
+    "name": "Coop Marked Randsverk",
+    "lat": 61.7302765,
+    "lon": 9.0819838,
+    "address": "Fjellvegen 1972",
+    "postalCode": "2683",
+    "city": "Tessanden",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/coop-marked-randsverk-2593"
+  },
+  {
+    "id": "2435",
+    "name": "Coop Marked Roan",
+    "lat": 64.17265,
+    "lon": 10.2304385,
+    "address": "Roansveien 9",
+    "postalCode": "7180",
+    "city": "Roan",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/coop-marked-roan-2435"
+  },
+  {
+    "id": "1640",
+    "name": "Coop Marked Rye",
+    "lat": 63.4226802,
+    "lon": 10.1492726,
+    "address": "Spongdalsvegen 28",
+    "postalCode": "7070",
+    "city": "Bosberg",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/coop-marked-rye-1640"
+  },
+  {
+    "id": "1831",
+    "name": "Coop Marked Råkvåg",
+    "lat": 63.761693,
+    "lon": 10.0685815,
+    "address": "Prangveien 9",
+    "postalCode": "7114",
+    "city": "Råkvåg",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/coop-marked-rakvag-1831"
+  },
+  {
+    "id": "1545",
+    "name": "Coop Marked Sandsøy",
+    "lat": 62.2534187,
+    "lon": 5.4845345,
+    "address": "Sandshamna 76",
+    "postalCode": "6089",
+    "city": "Sandshamn",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/coop-marked-sandsoy-1545"
+  },
+  {
+    "id": "1689",
+    "name": "Coop Marked Seløy",
+    "lat": 66.0247965,
+    "lon": 12.2412069,
+    "address": "Flatøyveien 26",
+    "postalCode": "8850",
+    "city": "Herøy",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/coop-marked-seloy-1689"
+  },
+  {
+    "id": "1612",
+    "name": "Coop Marked Sjånes",
+    "lat": 64.8063935,
+    "lon": 11.4550078,
+    "address": "Abelværvegen 8",
+    "postalCode": "7970",
+    "city": "Kolvereid",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/coop-marked-sjanes-1612"
+  },
+  {
+    "id": "1636",
+    "name": "Coop Marked Sjøåsen",
+    "lat": 64.308517,
+    "lon": 11.221326,
+    "address": "Lauvsnesvegen",
+    "postalCode": "7750",
+    "city": "Namdalseid",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/coop-marked-sjoasen-1636"
+  },
+  {
+    "id": "1922",
+    "name": "Coop Marked Skjånes",
+    "lat": 70.799718,
+    "lon": 28.0961605,
+    "address": "Skjånesveien",
+    "postalCode": "9771",
+    "city": "Skjånes",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/coop-marked-skjanes-1922"
+  },
+  {
+    "id": "2464",
+    "name": "Coop Marked Skrova",
+    "lat": 68.1668623,
+    "lon": 14.6610423,
+    "address": "Været 9",
+    "postalCode": "8320",
+    "city": "Skrova",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/coop-marked-skrova-2464"
+  },
+  {
+    "id": "2119",
+    "name": "Coop Marked Skåbu",
+    "lat": 61.5246881,
+    "lon": 9.4070055,
+    "address": "Skåbuvegen 2666",
+    "postalCode": "2643",
+    "city": "Skåbu",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/coop-marked-skabu-2119"
+  },
+  {
+    "id": "1370",
+    "name": "Coop Marked Stanghelle",
+    "lat": 60.5518202,
+    "lon": 5.7388106,
+    "address": "Lågaskarvegen 6",
+    "postalCode": "5724",
+    "city": "Stanghelle",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/coop-marked-stanghelle-1370"
+  },
+  {
+    "id": "1719",
+    "name": "Coop Marked Stod",
+    "lat": 64.086,
+    "lon": 11.7102,
+    "address": "Vassinghaugen 13",
+    "postalCode": "7717",
+    "city": "Steinkjer",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/coop-marked-stod-1719"
+  },
+  {
+    "id": "1720",
+    "name": "Coop Marked Stokkøy",
+    "lat": 64.0474638,
+    "lon": 10.0175948,
+    "address": "Stokkøyveien 151-155",
+    "postalCode": "7178",
+    "city": "Stokkøy",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/coop-marked-stokkoy-1720"
+  },
+  {
+    "id": "1830",
+    "name": "Coop Marked Storfosna",
+    "lat": 63.6597231,
+    "lon": 9.4105496,
+    "address": "Vedbergsodden 4",
+    "postalCode": "7150",
+    "city": "Storfosna",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/coop-marked-storfosna-1830"
+  },
+  {
+    "id": "1776",
+    "name": "Coop Marked Storås",
+    "lat": 63.0962854,
+    "lon": 9.5994409,
+    "address": "Elvadalen 1",
+    "postalCode": "7334",
+    "city": "Storås",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/coop-marked-storas-1776"
+  },
+  {
+    "id": "1795",
+    "name": "Coop Marked Sula",
+    "lat": 63.8456901,
+    "lon": 8.4589467,
+    "address": "Butikkveien 3",
+    "postalCode": "7280",
+    "city": "Sula",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/coop-marked-sula-1795"
+  },
+  {
+    "id": "1992",
+    "name": "Coop Marked Svanvik",
+    "lat": 69.4577715,
+    "lon": 30.0321651,
+    "address": "Primær Fylkesveg 885 885",
+    "postalCode": "9925",
+    "city": "Svanvik",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/coop-marked-svanvik-1992"
+  },
+  {
+    "id": "1178",
+    "name": "Coop Marked Tørdal",
+    "lat": 59.2170898,
+    "lon": 8.7711343,
+    "address": "Tørdalsveien 2771",
+    "postalCode": "3753",
+    "city": "Tordal",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/coop-marked-tordal-1178"
+  },
+  {
+    "id": "1318",
+    "name": "Coop Marked Vadla",
+    "lat": 59.3249664,
+    "lon": 6.4307356,
+    "address": "Jøsenfjordvegen 596",
+    "postalCode": "4134",
+    "city": "Jøsenfjorden",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/coop-marked-vadla-1318"
+  },
+  {
+    "id": "1735",
+    "name": "Coop Marked Vallersund",
+    "lat": 63.8511539,
+    "lon": 9.7560631,
+    "address": "Fv721 34",
+    "postalCode": "7167",
+    "city": "Vallersund",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/coop-marked-vallersund-1735"
+  },
+  {
+    "id": "1378",
+    "name": "Coop Marked Vassenden",
+    "lat": 61.4924115,
+    "lon": 6.1123502,
+    "address": "Jølstravegen 885",
+    "postalCode": "6847",
+    "city": "Vassenden",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/coop-marked-vassenden-1378"
+  },
+  {
+    "id": "1519",
+    "name": "Coop Marked Veidholmen",
+    "lat": 63.51795,
+    "lon": 7.955867,
+    "address": "Skjærgårdsveien 1005",
+    "postalCode": "6570",
+    "city": "Smøla",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/coop-marked-veidholmen-1519"
+  },
+  {
+    "id": "1755",
+    "name": "Coop Marked Vevelstad",
+    "lat": 65.7015614,
+    "lon": 12.4421633,
+    "address": "Forvikveien",
+    "postalCode": "8976",
+    "city": "Vevelstad",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/coop-marked-vevelstad-1755"
+  },
+  {
+    "id": "1756",
+    "name": "Coop Marked Vikhals",
+    "lat": 63.3469931,
+    "lon": 8.690978,
+    "address": "Vihalsvegen 24",
+    "postalCode": "6697",
+    "city": "Vihalsen",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/coop-marked-vikhals-1756"
+  },
+  {
+    "id": "1641",
+    "name": "Coop Marked Vingelen",
+    "lat": 62.4142341,
+    "lon": 10.8696966,
+    "address": "Fv735",
+    "postalCode": "2542",
+    "city": "Vingelen",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/coop-marked-vingelen-1641"
+  },
+  {
+    "id": "1268",
+    "name": "Coop Marked Voll",
+    "lat": 58.8058,
+    "lon": 5.60517,
+    "address": "Vollvegen 55",
+    "postalCode": "4354",
+    "city": "Voll",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/coop-marked-voll-1268"
+  },
+  {
+    "id": "1599",
+    "name": "Coop Marked Ytterøy",
+    "lat": 63.7980757,
+    "lon": 11.1654014,
+    "address": "Øvresflata 17",
+    "postalCode": "7629",
+    "city": "Ytterøy",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/coop-marked-ytteroy-1599"
+  },
+  {
+    "id": "2409",
+    "name": "Coop Marked Ålen",
+    "lat": 62.8419602,
+    "lon": 11.3025797,
+    "address": "Malmvegen 722",
+    "postalCode": "7380",
+    "city": "Ålen",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/coop-marked-alen-2409"
+  },
+  {
+    "id": "1314",
+    "name": "Coop Marked Østhusvik",
+    "lat": 59.0917983,
+    "lon": 5.7779729,
+    "address": "Østhusvikveien 610",
+    "postalCode": "4150",
+    "city": "Rennesøy",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/coop-marked-osthusvik-1314"
+  },
+  {
+    "id": "1397",
+    "name": "Coop Marked Øvre Helland",
+    "lat": 60.861626,
+    "lon": 5.980963,
+    "address": "Balane 2",
+    "postalCode": "5729",
+    "city": "Modalen",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/coop-marked-ovre-helland-1397"
+  },
+  {
+    "id": "2016",
+    "name": "Coop Marked Øvre Rendal",
+    "lat": 61.89,
+    "lon": 11.077,
+    "address": "Stevneveien 27",
+    "postalCode": "2485",
+    "city": "Rendalen",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/coop-marked-ovre-rendal-2016"
+  },
+  {
+    "id": "4376",
+    "name": "Matkroken Aldersund",
+    "lat": 66.398541,
+    "lon": 13.1367,
+    "address": "Aldersundveien 408",
+    "postalCode": "8730",
+    "city": "Bratland",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/matkroken-aldersund-4376"
+  },
+  {
+    "id": "4288",
+    "name": "Matkroken Atna",
+    "lat": 61.730805,
+    "lon": 10.832646,
+    "address": "Atneosveien 95",
+    "postalCode": "2476",
+    "city": "Atna",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/matkroken-atna-4288"
+  },
+  {
+    "id": "4384",
+    "name": "Matkroken Bessaker",
+    "lat": 64.247589,
+    "lon": 10.319559,
+    "address": "Bessakersjøveien 37",
+    "postalCode": "7190",
+    "city": "Bessaker",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/matkroken-bessaker-4384"
+  },
+  {
+    "id": "4386",
+    "name": "Matkroken Blekenberg",
+    "lat": 60.374231,
+    "lon": 5.332173,
+    "address": "Blekenberg 6-10",
+    "postalCode": "5055",
+    "city": "Bergen",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/matkroken-blekenberg-4386"
+  },
+  {
+    "id": "4521",
+    "name": "Matkroken Bråten",
+    "lat": 59.867585,
+    "lon": 10.792598,
+    "address": "Ekebergveien 195",
+    "postalCode": "1162",
+    "city": "Oslo",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/matkroken-braten-4521"
+  },
+  {
+    "id": "4394",
+    "name": "Matkroken Bygland",
+    "lat": 58.8319765,
+    "lon": 7.7940495,
+    "address": "Setesdalsvegen 2218",
+    "postalCode": "4745",
+    "city": "Bygland",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/matkroken-bygland-4394"
+  },
+  {
+    "id": "4395",
+    "name": "Matkroken Bæverfjord",
+    "lat": 63.024104,
+    "lon": 8.587875,
+    "address": "Åsskardvegen 1324",
+    "postalCode": "6644",
+    "city": "Bæverfjord",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/matkroken-baeverfjord-4395"
+  },
+  {
+    "id": "4287",
+    "name": "Matkroken City Skien",
+    "lat": 59.20754,
+    "lon": 9.61124,
+    "address": "Kongens gate 18",
+    "postalCode": "3717",
+    "city": "Skien",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/matkroken-city-skien-4287"
+  },
+  {
+    "id": "4398",
+    "name": "Matkroken Dalsøyra",
+    "lat": 60.933229,
+    "lon": 5.134874,
+    "address": "Gulafjordvegen",
+    "postalCode": "5960",
+    "city": "Dalsøyra",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/matkroken-dalsoyra-4398"
+  },
+  {
+    "id": "4236",
+    "name": "Matkroken Drøbak",
+    "lat": 59.6639496,
+    "lon": 10.6288943,
+    "address": "Kirkegata 9",
+    "postalCode": "1440",
+    "city": "Drøbak",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/matkroken-drobak-4236"
+  },
+  {
+    "id": "4402",
+    "name": "Matkroken Etnedal",
+    "lat": 60.8888557,
+    "lon": 9.6425497,
+    "address": "Etnedalsvegen 1212",
+    "postalCode": "2890",
+    "city": "Etnedal",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/matkroken-etnedal-4402"
+  },
+  {
+    "id": "4403",
+    "name": "Matkroken Fedje",
+    "lat": 60.780648,
+    "lon": 4.715203,
+    "address": "Muren 1",
+    "postalCode": "5947",
+    "city": "Fedje",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/matkroken-fedje-4403"
+  },
+  {
+    "id": "4256",
+    "name": "Matkroken Fridtjof Nansens Plass",
+    "lat": 59.9129113,
+    "lon": 10.7352836,
+    "address": "Fridtjof Nansens Plass 6",
+    "postalCode": "0160",
+    "city": "Oslo",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/matkroken-fridtjof-nansens-plass-4256"
+  },
+  {
+    "id": "4404",
+    "name": "Matkroken Gjesvær",
+    "lat": 71.0997584,
+    "lon": 25.3781169,
+    "address": "Walsøenesvegen 13",
+    "postalCode": "9765",
+    "city": "Gjesvær",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/matkroken-gjesvaer-4404"
+  },
+  {
+    "id": "4045",
+    "name": "Matkroken Gransherad",
+    "lat": 59.6906946,
+    "lon": 9.0392202,
+    "address": "Gransheradvegen 1043",
+    "postalCode": "3691",
+    "city": "Gransherad",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/matkroken-gransherad-4045"
+  },
+  {
+    "id": "4409",
+    "name": "Matkroken Grovfjord",
+    "lat": 68.6810316,
+    "lon": 17.1190594,
+    "address": "Fylkesvei 825",
+    "postalCode": "9446",
+    "city": "Grovfjord",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/matkroken-grovfjord-4409"
+  },
+  {
+    "id": "4410",
+    "name": "Matkroken Gryllefjord",
+    "lat": 69.3630507,
+    "lon": 17.0537765,
+    "address": "Primær Fylkesvei 86",
+    "postalCode": "9380",
+    "city": "Gryllefjord",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/matkroken-gryllefjord-4410"
+  },
+  {
+    "id": "4414",
+    "name": "Matkroken Hansnes",
+    "lat": 69.967616,
+    "lon": 19.627366,
+    "address": "Fv304",
+    "postalCode": "9130",
+    "city": "Hansnes",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/matkroken-hansnes-4414"
+  },
+  {
+    "id": "4422",
+    "name": "Matkroken Hjelmås",
+    "lat": 60.5920845,
+    "lon": 5.3641951,
+    "address": "Leknesvegen 389",
+    "postalCode": "5915",
+    "city": "Hjelmås",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/matkroken-hjelmas-4422"
+  },
+  {
+    "id": "4451",
+    "name": "Matkroken Hovin",
+    "lat": 59.8517154,
+    "lon": 9.0309154,
+    "address": "Hovinvegen 1910",
+    "postalCode": "3652",
+    "city": "Hovin i Telemark",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/matkroken-hovin-4451"
+  },
+  {
+    "id": "4202",
+    "name": "Matkroken Huk",
+    "lat": 59.9033503,
+    "lon": 10.6865261,
+    "address": "Langviksveien 15",
+    "postalCode": "0286",
+    "city": "Oslo",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/matkroken-huk-4202"
+  },
+  {
+    "id": "4205",
+    "name": "Matkroken Imsland",
+    "lat": 59.4766941,
+    "lon": 6.0318378,
+    "address": "Kvaløyvegen 74",
+    "postalCode": "5583",
+    "city": "Vikedal",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/matkroken-imsland-4205"
+  },
+  {
+    "id": "4424",
+    "name": "Matkroken Indre Årsnes",
+    "lat": 58.164023,
+    "lon": 8.218052,
+    "address": "Hæstadveien",
+    "postalCode": "4770",
+    "city": "Høvåg",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/matkroken-indre-arsnes-4424"
+  },
+  {
+    "id": "4425",
+    "name": "Matkroken Ingøy",
+    "lat": 71.08383322,
+    "lon": 24.05720482,
+    "address": "Ingøy",
+    "postalCode": "9672",
+    "city": "Ingøy",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/matkroken-ingoy-4425"
+  },
+  {
+    "id": "4509",
+    "name": "Matkroken Kilsund",
+    "lat": 58.550931,
+    "lon": 8.972199,
+    "address": "Kilsundveien 156",
+    "postalCode": "4920",
+    "city": "Staubø",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/matkroken-kilsund-4509"
+  },
+  {
+    "id": "4230",
+    "name": "Matkroken Kingosgate",
+    "lat": 59.9283602,
+    "lon": 10.7508529,
+    "address": "Kingos gate 2B",
+    "postalCode": "0457",
+    "city": "Oslo",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/matkroken-kingosgate-4230"
+  },
+  {
+    "id": "4958",
+    "name": "Matkroken Kirkehamn",
+    "lat": 58.232067,
+    "lon": 6.538722,
+    "address": "Kirkehamnveien 80",
+    "postalCode": "4432",
+    "city": "Hidrasund",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/matkroken-kirkehamn-4958"
+  },
+  {
+    "id": "4430",
+    "name": "Matkroken Kjørsvikbugen",
+    "lat": 63.41156,
+    "lon": 8.7279923,
+    "address": "Hemnevegen",
+    "postalCode": "6699",
+    "city": "Kjørsvikbugen",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/matkroken-kjorsvikbugen-4430"
+  },
+  {
+    "id": "4432",
+    "name": "Matkroken Kunes",
+    "lat": 70.346309,
+    "lon": 26.504285,
+    "address": "Laksefjordveien",
+    "postalCode": "9742",
+    "city": "Kunes",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/matkroken-kunes-4432"
+  },
+  {
+    "id": "4433",
+    "name": "Matkroken Kvalfjord",
+    "lat": 70.318565,
+    "lon": 22.871898,
+    "address": "Kvalfjordveien",
+    "postalCode": "9531",
+    "city": "Kvalfjord",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/matkroken-kvalfjord-4433"
+  },
+  {
+    "id": "4434",
+    "name": "Matkroken Kvelibua",
+    "lat": 64.52579,
+    "lon": 13.695475,
+    "address": "Kveliveien 1135",
+    "postalCode": "7882",
+    "city": "Nordli",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/matkroken-kvelibua-4434"
+  },
+  {
+    "id": "4435",
+    "name": "Matkroken Kvisvik",
+    "lat": 63.06715,
+    "lon": 7.98745,
+    "address": "Stabbursvikvegen 3",
+    "postalCode": "6674",
+    "city": "Kvisvik",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/matkroken-kvisvik-4435"
+  },
+  {
+    "id": "4291",
+    "name": "Matkroken Lakselvbukt",
+    "lat": 69.4308167,
+    "lon": 19.6521068,
+    "address": "Lakselvbuktveien 563",
+    "postalCode": "9045",
+    "city": "Lakselvbukt",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/matkroken-lakselvbukt-4291"
+  },
+  {
+    "id": "4235",
+    "name": "Matkroken Laukvik",
+    "lat": 68.3881937,
+    "lon": 14.4182971,
+    "address": "Laukvikveien 22",
+    "postalCode": "8315",
+    "city": "Laukvik",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/matkroken-laukvik-4235"
+  },
+  {
+    "id": "4438",
+    "name": "Matkroken Lierne",
+    "lat": 64.4657037,
+    "lon": 13.5882804,
+    "address": "Sandvikaveien",
+    "postalCode": "7882",
+    "city": "Nordli",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/matkroken-lierne-4438"
+  },
+  {
+    "id": "4799",
+    "name": "Matkroken Lillesand",
+    "lat": 58.248258,
+    "lon": 8.376821,
+    "address": "Strandgata 5",
+    "postalCode": "4790",
+    "city": "Lillesand",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/matkroken-lillesand-4799"
+  },
+  {
+    "id": "4439",
+    "name": "Matkroken Ljabru",
+    "lat": 59.853826,
+    "lon": 10.802199,
+    "address": "Ljabrubakken 1",
+    "postalCode": "1165",
+    "city": "Oslo",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/matkroken-ljabru-4439"
+  },
+  {
+    "id": "4052",
+    "name": "Matkroken Lurøy",
+    "lat": 66.3982465,
+    "lon": 12.8500532,
+    "address": "Jektvikveien 2",
+    "postalCode": "8766",
+    "city": "Lurøy",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/matkroken-luroy-4052"
+  },
+  {
+    "id": "4440",
+    "name": "Matkroken Lurøy",
+    "lat": 66.398338,
+    "lon": 12.850629,
+    "address": "Jektvikveien 1C",
+    "postalCode": "8766",
+    "city": "Lurøy",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/matkroken-luroy-4440"
+  },
+  {
+    "id": "4442",
+    "name": "Matkroken Mebygda",
+    "lat": 64.2239845,
+    "lon": 13.8334064,
+    "address": "Mebygdaveien",
+    "postalCode": "7884",
+    "city": "Sørli",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/matkroken-mebygda-4442"
+  },
+  {
+    "id": "4444",
+    "name": "Matkroken Måsøy",
+    "lat": 71.009885,
+    "lon": 25.004355,
+    "address": "Fv161",
+    "postalCode": "9692",
+    "city": "Måsøy",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/matkroken-masoy-4444"
+  },
+  {
+    "id": "4448",
+    "name": "Matkroken Nordnesøy",
+    "lat": 66.5885935,
+    "lon": 12.6557959,
+    "address": "Fv405",
+    "postalCode": "8198",
+    "city": "Nordnesøy",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/matkroken-nordnesoy-4448"
+  },
+  {
+    "id": "4453",
+    "name": "Matkroken Peer Gynt",
+    "lat": 59.565912,
+    "lon": 9.272135,
+    "address": "Kongsbergveien 15",
+    "postalCode": "3681",
+    "city": "Notodden",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/matkroken-peer-gynt-4453"
+  },
+  {
+    "id": "4218",
+    "name": "Matkroken Rasvåg",
+    "lat": 58.2122777,
+    "lon": 6.580425,
+    "address": "Rasvågveien 330",
+    "postalCode": "4432",
+    "city": "Hidrasund",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/matkroken-rasvag-4218"
+  },
+  {
+    "id": "4458",
+    "name": "Matkroken Rebbenes",
+    "lat": 70.0307906,
+    "lon": 18.6559801,
+    "address": "Engvikvegen",
+    "postalCode": "9140",
+    "city": "Rebbenes",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/matkroken-rebbenes-4458"
+  },
+  {
+    "id": "4058",
+    "name": "Matkroken Rossfjord",
+    "lat": 69.364,
+    "lon": 18.3107,
+    "address": "Sultindvikveien 1",
+    "postalCode": "9302",
+    "city": "Rossfjordstraumen",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/matkroken-rossfjord-4058"
+  },
+  {
+    "id": "4461",
+    "name": "Matkroken Russenes",
+    "lat": 70.4750472,
+    "lon": 25.0690947,
+    "address": "Vestre Porsangerveien 6094",
+    "postalCode": "9713",
+    "city": "Russenes",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/matkroken-russenes-4461"
+  },
+  {
+    "id": "4968",
+    "name": "Matkroken Sand",
+    "lat": 69.393274,
+    "lon": 18.605993,
+    "address": "Malangsveien 2346",
+    "postalCode": "9056",
+    "city": "Mortenhals",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/matkroken-sand-4968"
+  },
+  {
+    "id": "4468",
+    "name": "Matkroken Sangnes",
+    "lat": 60.7057084,
+    "lon": 10.7055228,
+    "address": "Vestre Totenveg 1229",
+    "postalCode": "2846",
+    "city": "Bøverbru",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/matkroken-sangnes-4468"
+  },
+  {
+    "id": "4963",
+    "name": "Matkroken Schweigaardsgate",
+    "lat": 59.9078793,
+    "lon": 10.7731883,
+    "address": "Schweigaards gate 72",
+    "postalCode": "0656",
+    "city": "Oslo",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/matkroken-schweigaardsgate-4963"
+  },
+  {
+    "id": "4469",
+    "name": "Matkroken Selsøyvik",
+    "lat": 66.574813,
+    "lon": 12.982175,
+    "address": "Fv443 26",
+    "postalCode": "8196",
+    "city": "Selsøyvik",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/matkroken-selsoyvik-4469"
+  },
+  {
+    "id": "4470",
+    "name": "Matkroken Senjahopen",
+    "lat": 69.496112,
+    "lon": 17.486167,
+    "address": "Fv252",
+    "postalCode": "9386",
+    "city": "Senjahopen",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/matkroken-senjahopen-4470"
+  },
+  {
+    "id": "4253",
+    "name": "Matkroken Skeikampen",
+    "lat": 61.3361709,
+    "lon": 10.0915639,
+    "address": "Segalstadsetervegen 62B",
+    "postalCode": "2652",
+    "city": "Svingvoll",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/matkroken-skeikampen-4253"
+  },
+  {
+    "id": "4474",
+    "name": "Matkroken Sommarøy",
+    "lat": 69.6342854,
+    "lon": 18.0050157,
+    "address": "Hamneveien 16",
+    "postalCode": "9110",
+    "city": "Sommarøy",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/matkroken-sommaroy-4474"
+  },
+  {
+    "id": "4254",
+    "name": "Matkroken Statland",
+    "lat": 64.4977556,
+    "lon": 11.1504601,
+    "address": "Sjøtrøa 18",
+    "postalCode": "7777",
+    "city": "Nord-statland",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/matkroken-statland-4254"
+  },
+  {
+    "id": "4526",
+    "name": "Matkroken Steen&Strøm",
+    "lat": 59.91183305,
+    "lon": 10.74280202,
+    "address": "Kongens gate 23",
+    "postalCode": "0153",
+    "city": "Oslo",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/matkroken-steenstrom-4526"
+  },
+  {
+    "id": "4959",
+    "name": "Matkroken Storvik",
+    "lat": 66.9603133,
+    "lon": 13.803562,
+    "address": "Strandveien 2",
+    "postalCode": "8145",
+    "city": "Storvik",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/matkroken-storvik-4959"
+  },
+  {
+    "id": "4242",
+    "name": "Matkroken Strømmehaven",
+    "lat": 58.1555062,
+    "lon": 8.0815325,
+    "address": "Strømmeveien 73M",
+    "postalCode": "4638",
+    "city": "Kristiansand",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/matkroken-strommehaven-4242"
+  },
+  {
+    "id": "4210",
+    "name": "Matkroken Strønen",
+    "lat": 60.326277,
+    "lon": 5.3400307,
+    "address": "Wernersholmsvegen 53",
+    "postalCode": "5232",
+    "city": "Paradis",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/matkroken-stronen-4210"
+  },
+  {
+    "id": "4240",
+    "name": "Matkroken Sunndalsporten",
+    "lat": 62.5492501,
+    "lon": 9.1154083,
+    "address": "Fjellgardsvegen 2",
+    "postalCode": "6613",
+    "city": "Gjøra",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/matkroken-sunndalsporten-4240"
+  },
+  {
+    "id": "4290",
+    "name": "Matkroken Søre Osen",
+    "lat": 61.1071448,
+    "lon": 11.9818748,
+    "address": "Osensjøen vest 11",
+    "postalCode": "2428",
+    "city": "Søre Osen",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/matkroken-sore-osen-4290"
+  },
+  {
+    "id": "4484",
+    "name": "Matkroken Sørstraumen",
+    "lat": 69.8415341,
+    "lon": 21.8567783,
+    "address": "Kvænangsveien",
+    "postalCode": "9162",
+    "city": "Sørstraumen",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/matkroken-sorstraumen-4484"
+  },
+  {
+    "id": "4485",
+    "name": "Matkroken Sørvågen",
+    "lat": 67.8898819,
+    "lon": 13.021564,
+    "address": "Moskenesveien 903",
+    "postalCode": "8392",
+    "city": "Sørvågen",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/matkroken-sorvagen-4485"
+  },
+  {
+    "id": "4108",
+    "name": "Matkroken Todalen",
+    "lat": 62.81997373,
+    "lon": 8.70360086,
+    "address": "Todalsveien 1354",
+    "postalCode": "6645",
+    "city": "Todalen",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/matkroken-todalen-4108"
+  },
+  {
+    "id": "4490",
+    "name": "Matkroken Trones",
+    "lat": 64.7419073,
+    "lon": 12.8438653,
+    "address": "Furuveien 4",
+    "postalCode": "7892",
+    "city": "Trones",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/matkroken-trones-4490"
+  },
+  {
+    "id": "4491",
+    "name": "Matkroken Trovatn",
+    "lat": 59.572856,
+    "lon": 8.184345,
+    "address": "Øyfjellvegen 892",
+    "postalCode": "3890",
+    "city": "Øyfjell",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/matkroken-trovatn-4491"
+  },
+  {
+    "id": "4206",
+    "name": "Matkroken Tylldalen",
+    "lat": 62.12015,
+    "lon": 10.79988,
+    "address": "Tylldalsveien 1975",
+    "postalCode": "2510",
+    "city": "Tylldal",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/matkroken-tylldalen-4206"
+  },
+  {
+    "id": "4245",
+    "name": "Matkroken Ulven",
+    "lat": 59.91970798,
+    "lon": 10.81693162,
+    "address": "Karl Staaffs vei 2a",
+    "postalCode": "0665",
+    "city": "Oslo",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/matkroken-ulven-4245"
+  },
+  {
+    "id": "4961",
+    "name": "Matkroken Ulvsvåg",
+    "lat": 68.1155349,
+    "lon": 15.8664774,
+    "address": "E6",
+    "postalCode": "8276",
+    "city": "Ulvsvåg",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/matkroken-ulvsvag-4961"
+  },
+  {
+    "id": "4497",
+    "name": "Matkroken Vannareid",
+    "lat": 70.1934237,
+    "lon": 19.6150095,
+    "address": "Fv305",
+    "postalCode": "9136",
+    "city": "Vannareid",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/matkroken-vannareid-4497"
+  },
+  {
+    "id": "4050",
+    "name": "Matkroken Vengsøy",
+    "lat": 69.8389429,
+    "lon": 18.5780478,
+    "address": "Vengsøya 97",
+    "postalCode": "9120",
+    "city": "Vengsøy",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/matkroken-vengsoy-4050"
+  },
+  {
+    "id": "4500",
+    "name": "Matkroken Vestbygd",
+    "lat": 68.3281469,
+    "lon": 15.619875,
+    "address": "Fv691",
+    "postalCode": "8412",
+    "city": "Vestbygd",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/matkroken-vestbygd-4500"
+  },
+  {
+    "id": "4038",
+    "name": "Matkroken Visthus",
+    "lat": 65.7228573,
+    "lon": 12.6047545,
+    "address": "Visthusveien 56",
+    "postalCode": "8870",
+    "city": "Visthus",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/matkroken-visthus-4038"
+  },
+  {
+    "id": "4061",
+    "name": "Matkroken Ålvik",
+    "lat": 60.4308813,
+    "lon": 6.4321135,
+    "address": "Ålvikvegen 1051",
+    "postalCode": "5614",
+    "city": "Ålvik",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/matkroken-alvik-4061"
+  },
+  {
+    "id": "4049",
+    "name": "Matkroken Ånstad",
+    "lat": 68.8297097,
+    "lon": 17.1840374,
+    "address": "Andørjaveien 452",
+    "postalCode": "9454",
+    "city": "Ånstad",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/matkroken-anstad-4049"
+  },
+  {
+    "id": "4506",
+    "name": "Matkroken Årviksand",
+    "lat": 70.194035,
+    "lon": 20.5202503,
+    "address": "Krokelvveien 124",
+    "postalCode": "9195",
+    "city": "Årviksand",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/matkroken-arviksand-4506"
+  },
+  {
+    "id": "4400",
+    "name": "Matkroken Åse",
+    "lat": 69.013759,
+    "lon": 15.785203,
+    "address": "Fv82",
+    "postalCode": "8484",
+    "city": "Risøyhamn",
+    "url": "https://www.coop.no/butikker/coop-marked-matkroken/matkroken-ase-4400"
+  }
+]

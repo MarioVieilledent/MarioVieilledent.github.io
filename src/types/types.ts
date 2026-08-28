@@ -28,3 +28,16 @@ export interface Source {
   // requires the server itself to opt in via Access-Control-Allow-Origin.
   unsupportedIn3D?: boolean;
 }
+
+export interface MapPoint {
+  id: string;
+  name: string;
+  lat: number;
+  lon: number;
+  address: string;
+  postalCode: string;
+  city: string;
+  url: string;
+  color: string;
+  source: string;
+}

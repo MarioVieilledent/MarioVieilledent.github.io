@@ -1,4 +1,12 @@
-import { lazy, Suspense, useCallback, useEffect, useRef, useState } from "react";
+import {
+  lazy,
+  Suspense,
+  useCallback,
+  useEffect,
+  useMemo,
+  useRef,
+  useState,
+} from "react";
 import LayerMenu from "./LayerMenu";
 import { sources } from "../../utils/sources";
 import ResetRotationButton from "./ResetRotationButton";
@@ -18,6 +26,8 @@ import { getURLParam, setURLParam } from "../../utils/urlSync";
 import SearchButton from "./SearchButton";
 import GlobeSwitch from "./GlobeSwitch";
 import LocateButton from "./LocateButton";
+import type { MapPoint } from "../../types/types";
+import { pointSources } from "../../utils/pointSources";
 
 // The MapLibre 3D globe pulls in the ~1MB maplibre-gl chunk. It's opt-in
 // (behind GlobeSwitch), so loading it eagerly would tax every visit just to
@@ -159,6 +169,7 @@ const getInitialZoom = (): number => {
 
 const MapLayer = () => {
   const [layers, setLayers] = useState<string[]>(getInitialLayers);
+  const [pointLayers, setPointLayers] = useState<string[]>([]);
   const [rotation, setRotation] = useState(0);
   const [globeView, setGlobeView] = useState<boolean>(getInitialGlobeView);
   // Owned here (not inside either renderer) so it survives the 2D/3D toggle:
@@ -170,6 +181,19 @@ const MapLayer = () => {
     lon: number;
     lat: number;
   } | null>(null);
+  const points = useMemo<MapPoint[]>(
+    () =>
+      pointSources
+        .filter((source) => pointLayers.includes(source.name))
+        .flatMap((source) =>
+          source.points.map((point) => ({
+            ...point,
+            color: source.color,
+            source: source.name,
+          })),
+        ),
+    [pointLayers],
+  );
 
   const triggers = useRef<{
     triggerReset: () => void;
@@ -244,6 +268,7 @@ const MapLayer = () => {
             zoom={zoom}
             onPositionChange={handlePositionChange}
             userLocation={userLocation}
+            points={points}
             ref={triggers}
           />
         </Suspense>
@@ -255,13 +280,14 @@ const MapLayer = () => {
           zoom={zoom}
           onPositionChange={handlePositionChange}
           userLocation={userLocation}
+          points={points}
           ref={triggers}
         />
       )}
 
       <SearchButton flyTo={flyTo} />
 
-      <LayerMenu layers={layers} setLayers={setLayers} globeView={globeView} />
+      <LayerMenu layers={layers} setLayers={setLayers} globeView={globeView} pointLayers={pointLayers} setPointLayers={setPointLayers} />
       <GlobeSwitch globeView={globeView} setGlobeView={setGlobeView} />
       {rotation !== 0 && (
         <ResetRotationButton

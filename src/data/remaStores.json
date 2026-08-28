@@ -1,0 +1,6982 @@
+[
+  {
+    "id": "1502731",
+    "name": "INNOM BIRKELUNDEN",
+    "lat": 59.927303000,
+    "lon": 10.758948200,
+    "address": "Thorvald Meyers gate 23A",
+    "postalCode": "0555",
+    "city": "OSLO",
+    "url": "https://www.rema.no/butikker/innom-birkelunden/"
+  },
+  {
+    "id": "2099736",
+    "name": "INNOM BJØRVIKA",
+    "lat": 59.907806000,
+    "lon": 10.757428100,
+    "address": "Dronning Eufemias gate 21",
+    "postalCode": "0194",
+    "city": "OSLO",
+    "url": "https://www.rema.no/butikker/innom-bjorvika/"
+  },
+  {
+    "id": "2100141",
+    "name": "INNOM MARKVEIEN",
+    "lat": 59.920975300,
+    "lon": 10.757602400,
+    "address": "Markveien 48",
+    "postalCode": "0554",
+    "city": "OSLO",
+    "url": "https://www.rema.no/butikker/innom-markveien/"
+  },
+  {
+    "id": "2091979",
+    "name": "REMA 1000 ALSTAD",
+    "lat": 67.275686500,
+    "lon": 14.458913600,
+    "address": "Notveien 17",
+    "postalCode": "8013",
+    "city": "BODØ",
+    "url": "https://www.rema.no/butikker/rema-1000-alstad/"
+  },
+  {
+    "id": "2091945",
+    "name": "REMA 1000 ALTA",
+    "lat": 69.964070000,
+    "lon": 23.271473000,
+    "address": "Bjørn Wirkolas vei 15",
+    "postalCode": "9510",
+    "city": "ALTA",
+    "url": "https://www.rema.no/butikker/rema-1000-alta/"
+  },
+  {
+    "id": "1553837",
+    "name": "REMA 1000 ALTI VERDAL",
+    "lat": 63.781954000,
+    "lon": 11.470772000,
+    "address": "Magnus den godes veg 23",
+    "postalCode": "7653",
+    "city": "VERDAL",
+    "url": "https://www.rema.no/butikker/rema-1000-alti-verdal/"
+  },
+  {
+    "id": "2098100",
+    "name": "REMA 1000 AMMERUD",
+    "lat": 59.958670100,
+    "lon": 10.871172400,
+    "address": "Ammerudveien 21",
+    "postalCode": "0958",
+    "city": "OSLO",
+    "url": "https://www.rema.no/butikker/rema-1000-ammerud/"
+  },
+  {
+    "id": "2091768",
+    "name": "REMA 1000 ANDENES",
+    "lat": 69.309519300,
+    "lon": 16.099888000,
+    "address": "Industriveien 7",
+    "postalCode": "8480",
+    "city": "ANDENES",
+    "url": "https://www.rema.no/butikker/rema-1000-andenes/"
+  },
+  {
+    "id": "2091938",
+    "name": "REMA 1000 ANKENES",
+    "lat": 68.406192800,
+    "lon": 17.415078400,
+    "address": "Ankenesveien 10",
+    "postalCode": "8520",
+    "city": "ANKENES",
+    "url": "https://www.rema.no/butikker/rema-1000-ankenes/"
+  },
+  {
+    "id": "2091976",
+    "name": "REMA 1000 ARKADEN",
+    "lat": 59.206593100,
+    "lon": 9.609835290,
+    "address": "Broene 1",
+    "postalCode": "3724",
+    "city": "SKIEN",
+    "url": "https://www.rema.no/butikker/rema-1000-arkaden/"
+  },
+  {
+    "id": "2091713",
+    "name": "REMA 1000 ARNEBRÅTVEIEN",
+    "lat": 59.955798900,
+    "lon": 10.656061000,
+    "address": "Arnebråtveien 159",
+    "postalCode": "0771",
+    "city": "OSLO",
+    "url": "https://www.rema.no/butikker/rema-1000-arnebratveien/"
+  },
+  {
+    "id": "2091737",
+    "name": "REMA 1000 ASK",
+    "lat": 60.071310900,
+    "lon": 11.034297800,
+    "address": "Vestvangen 6",
+    "postalCode": "2022",
+    "city": "GJERDRUM",
+    "url": "https://www.rema.no/butikker/rema-1000-ask/"
+  },
+  {
+    "id": "2092032",
+    "name": "REMA 1000 ASKER SENTRUM",
+    "lat": 59.833125000,
+    "lon": 10.432846000,
+    "address": "SKYSSTASJON 11A",
+    "postalCode": "1383",
+    "city": "ASKER",
+    "url": "https://www.rema.no/butikker/rema-1000-asker-sentrum/"
+  },
+  {
+    "id": "2096930",
+    "name": "REMA 1000 ASKIM",
+    "lat": 59.582267100,
+    "lon": 11.166550500,
+    "address": "Stallgata 3",
+    "postalCode": "1811",
+    "city": "ASKIM",
+    "url": "https://www.rema.no/butikker/rema-1000-askim/"
+  },
+  {
+    "id": "2091719",
+    "name": "REMA 1000 ASKØY",
+    "lat": 60.428015800,
+    "lon": 5.192497650,
+    "address": "Juvikflaten 2",
+    "postalCode": "5308",
+    "city": "KLEPPESTØ",
+    "url": "https://www.rema.no/butikker/rema-1000-askoy/"
+  },
+  {
+    "id": "2091725",
+    "name": "REMA 1000 ASPERVIK",
+    "lat": 58.865964700,
+    "lon": 5.760283320,
+    "address": "Åsveien 159",
+    "postalCode": "4328",
+    "city": "SANDNES",
+    "url": "https://www.rema.no/butikker/rema-1000-aspervik/"
+  },
+  {
+    "id": "2092029",
+    "name": "REMA 1000 AURSKOG",
+    "lat": 59.928571600,
+    "lon": 11.443448900,
+    "address": "Aurstubben 1",
+    "postalCode": "1930",
+    "city": "AURSKOG",
+    "url": "https://www.rema.no/butikker/rema-1000-aurskog/"
+  },
+  {
+    "id": "2091760",
+    "name": "REMA 1000 AVALDSNES",
+    "lat": 59.354279100,
+    "lon": 5.277620180,
+    "address": "Kong Augvaldsveg 1",
+    "postalCode": "4262",
+    "city": "AVALDSNES",
+    "url": "https://www.rema.no/butikker/rema-1000-avaldsnes/"
+  },
+  {
+    "id": "2098711",
+    "name": "REMA 1000 AVENYEN",
+    "lat": 58.177464600,
+    "lon": 8.132679800,
+    "address": "Barstølveien 60",
+    "postalCode": "4636",
+    "city": "KRISTIANSAND S",
+    "url": "https://www.rema.no/butikker/rema-1000-avenyen/"
+  },
+  {
+    "id": "1554215",
+    "name": "REMA 1000 AVERØY",
+    "lat": 63.067902500,
+    "lon": 7.646457900,
+    "address": "NÆRINGSVEIEN 18",
+    "postalCode": "6530",
+    "city": "AVERØY",
+    "url": "https://www.rema.no/butikker/rema-1000-averoy/"
+  },
+  {
+    "id": "1540002",
+    "name": "REMA 1000 BAKKLANDET",
+    "lat": 63.431326000,
+    "lon": 10.406571000,
+    "address": "Nedre Bakklandet 56",
+    "postalCode": "7014",
+    "city": "TRONDHEIM",
+    "url": "https://www.rema.no/butikker/rema-1000-bakklandet/"
+  },
+  {
+    "id": "1509051",
+    "name": "REMA 1000 BALLANGEN",
+    "lat": 68.343214600,
+    "lon": 16.829905500,
+    "address": "Sentrumsveien 65",
+    "postalCode": "8540",
+    "city": "BALLANGEN",
+    "url": "https://www.rema.no/butikker/rema-1000-ballangen/"
+  },
+  {
+    "id": "2089156",
+    "name": "REMA 1000 BARDU",
+    "lat": 68.862943000,
+    "lon": 18.348467000,
+    "address": "Fogd Holmboes gate 47",
+    "postalCode": "9360",
+    "city": "BARDU",
+    "url": "https://www.rema.no/butikker/rema-1000-bardu/"
+  },
+  {
+    "id": "2091811",
+    "name": "REMA 1000 BARDUFOSS",
+    "lat": 69.064088000,
+    "lon": 18.505175000,
+    "address": "Andsliveien 25",
+    "postalCode": "9325",
+    "city": "BARDUFOSS",
+    "url": "https://www.rema.no/butikker/rema-1000-bardufoss/"
+  },
+  {
+    "id": "2097220",
+    "name": "REMA 1000 BARSTØLVEIEN",
+    "lat": 58.179934600,
+    "lon": 8.129502100,
+    "address": "Barstølveien 31",
+    "postalCode": "4636",
+    "city": "KRISTIANSAND S",
+    "url": "https://www.rema.no/butikker/rema-1000-barstolveien/"
+  },
+  {
+    "id": "2091714",
+    "name": "REMA 1000 BASARENE HAMAR",
+    "lat": 60.794432000,
+    "lon": 11.067198000,
+    "address": "Lille Strandgate 3",
+    "postalCode": "2317",
+    "city": "HAMAR",
+    "url": "https://www.rema.no/butikker/rema-1000-basarene-hamar/"
+  },
+  {
+    "id": "2029999",
+    "name": "REMA 1000 BEGBY",
+    "lat": 59.208300000,
+    "lon": 10.990890000,
+    "address": "Haldenveien 6",
+    "postalCode": "1639",
+    "city": "GAMLE FREDRIKSTAD",
+    "url": "https://www.rema.no/butikker/rema-1000-begby/"
+  },
+  {
+    "id": "2100420",
+    "name": "REMA 1000 BERGMO",
+    "lat": 62.746785700,
+    "lon": 7.217921000,
+    "address": "Saturnvegen 1",
+    "postalCode": "6419",
+    "city": "MOLDE",
+    "url": "https://www.rema.no/butikker/rema-1000-bergmo/"
+  },
+  {
+    "id": "1553968",
+    "name": "REMA 1000 BERGSENG",
+    "lat": 68.812858000,
+    "lon": 16.514555000,
+    "address": "BERGSVEIEN 6",
+    "postalCode": "9403",
+    "city": "HARSTAD",
+    "url": "https://www.rema.no/butikker/rema-1000-bergseng/"
+  },
+  {
+    "id": "2070467",
+    "name": "REMA 1000 BERKÅK",
+    "lat": 62.828828000,
+    "lon": 10.008653000,
+    "address": "Myrveien 6",
+    "postalCode": "7391",
+    "city": "RENNEBU",
+    "url": "https://www.rema.no/butikker/rema-1000-berkak/"
+  },
+  {
+    "id": "1950641",
+    "name": "REMA 1000 BERTNES",
+    "lat": 67.287273000,
+    "lon": 14.592006000,
+    "address": "Fenesveien 10",
+    "postalCode": "8030",
+    "city": "BODØ",
+    "url": "https://www.rema.no/butikker/rema-1000-bertnes/"
+  },
+  {
+    "id": "2082571",
+    "name": "REMA 1000 BIE",
+    "lat": 58.351165100,
+    "lon": 8.597034640,
+    "address": "Arendalsveien 87",
+    "postalCode": "4878",
+    "city": "GRIMSTAD",
+    "url": "https://www.rema.no/butikker/rema-1000-bie/"
+  },
+  {
+    "id": "1518259",
+    "name": "REMA 1000 BILLINGSTADSLETTA",
+    "lat": 59.876782000,
+    "lon": 10.499834000,
+    "address": "Billingstadsletta 11",
+    "postalCode": "1396",
+    "city": "BILLINGSTAD",
+    "url": "https://www.rema.no/butikker/rema-1000-billingstadsletta/"
+  },
+  {
+    "id": "1553147",
+    "name": "REMA 1000 BISPEHAUGEN",
+    "lat": 60.797185000,
+    "lon": 11.051059000,
+    "address": "Aslak Boltsgate 40a",
+    "postalCode": "2316",
+    "city": "HAMAR",
+    "url": "https://www.rema.no/butikker/rema-1000-bispehaugen/"
+  },
+  {
+    "id": "2091855",
+    "name": "REMA 1000 BJELLAND",
+    "lat": 59.773555700,
+    "lon": 5.495279600,
+    "address": "KJØTTEINSVEGEN 71",
+    "postalCode": "5411",
+    "city": "STORD",
+    "url": "https://www.rema.no/butikker/rema-1000-bjelland/"
+  },
+  {
+    "id": "2083787",
+    "name": "REMA 1000 BJERGSTED",
+    "lat": 58.972972600,
+    "lon": 5.721637100,
+    "address": "Sverdrups gate 1",
+    "postalCode": "4007",
+    "city": "STAVANGER",
+    "url": "https://www.rema.no/butikker/rema-1000-bjergsted/"
+  },
+  {
+    "id": "2091809",
+    "name": "REMA 1000 BJERKVIK",
+    "lat": 68.550735100,
+    "lon": 17.557274600,
+    "address": "Nordmoveien 9",
+    "postalCode": "8530",
+    "city": "BJERKVIK",
+    "url": "https://www.rema.no/butikker/rema-1000-bjerkvik/"
+  },
+  {
+    "id": "1552821",
+    "name": "REMA 1000 BJUGN",
+    "lat": 63.763557000,
+    "lon": 9.805161000,
+    "address": "Emil Schanches gate 3",
+    "postalCode": "7160",
+    "city": "BJUGN",
+    "url": "https://www.rema.no/butikker/rema-1000-bjugn/"
+  },
+  {
+    "id": "2094218",
+    "name": "REMA 1000 BJØLSEN",
+    "lat": 59.944040100,
+    "lon": 10.760098900,
+    "address": "Bergensgata 41",
+    "postalCode": "0468",
+    "city": "OSLO",
+    "url": "https://www.rema.no/butikker/rema-1000-bjolsen/"
+  },
+  {
+    "id": "2092017",
+    "name": "REMA 1000 BJØRKELANGEN",
+    "lat": 59.883121000,
+    "lon": 11.567084000,
+    "address": "Rådhusveien 5",
+    "postalCode": "1940",
+    "city": "BJØRKELANGEN",
+    "url": "https://www.rema.no/butikker/rema-1000-bjorkelangen/"
+  },
+  {
+    "id": "1553978",
+    "name": "REMA 1000 BJØRNDAL",
+    "lat": 59.832599400,
+    "lon": 10.838591500,
+    "address": "Slimeveien 6A",
+    "postalCode": "1275",
+    "city": "OSLO",
+    "url": "https://www.rema.no/butikker/rema-1000-bjorndal/"
+  },
+  {
+    "id": "2092052",
+    "name": "REMA 1000 BJØRNDALSSLETTA",
+    "lat": 58.162444000,
+    "lon": 8.021219000,
+    "address": "Bjørndalssletta 15",
+    "postalCode": "4633",
+    "city": "KRISTIANSAND S",
+    "url": "https://www.rema.no/butikker/rema-1000-bjorndalssletta/"
+  },
+  {
+    "id": "2091946",
+    "name": "REMA 1000 BLINDHEIM",
+    "lat": 62.443072100,
+    "lon": 6.370263150,
+    "address": "Blindheimvegen 14",
+    "postalCode": "6012",
+    "city": "ÅLESUND",
+    "url": "https://www.rema.no/butikker/rema-1000-blindheim/"
+  },
+  {
+    "id": "2091865",
+    "name": "REMA 1000 BORG",
+    "lat": 59.274130000,
+    "lon": 11.082266000,
+    "address": "Klokkergårveien 31",
+    "postalCode": "1711",
+    "city": "SARPSBORG",
+    "url": "https://www.rema.no/butikker/rema-1000-borg/"
+  },
+  {
+    "id": "2056324",
+    "name": "REMA 1000 BORGEN",
+    "lat": 59.826578000,
+    "lon": 10.422519000,
+    "address": "Søndre Borgen 13",
+    "postalCode": "1388",
+    "city": "BORGEN",
+    "url": "https://www.rema.no/butikker/rema-1000-borgen/"
+  },
+  {
+    "id": "2091904",
+    "name": "REMA 1000 BORGHEIM",
+    "lat": 59.226005000,
+    "lon": 10.408198000,
+    "address": "Semsveien 1",
+    "postalCode": "3140",
+    "city": "NØTTERØY",
+    "url": "https://www.rema.no/butikker/rema-1000-borgheim/"
+  },
+  {
+    "id": "2083417",
+    "name": "REMA 1000 BRAGERNES KVARTAL",
+    "lat": 59.744400000,
+    "lon": 10.206860000,
+    "address": "Engene 3",
+    "postalCode": "3015",
+    "city": "DRAMMEN",
+    "url": "https://www.rema.no/butikker/rema-1000-bragernes-kvartal/"
+  },
+  {
+    "id": "2091951",
+    "name": "REMA 1000 BRANDBU",
+    "lat": 60.407054000,
+    "lon": 10.532676000,
+    "address": "Storlinna 125",
+    "postalCode": "2770",
+    "city": "JAREN",
+    "url": "https://www.rema.no/butikker/rema-1000-brandbu/"
+  },
+  {
+    "id": "2059019",
+    "name": "REMA 1000 BRATTVÅG",
+    "lat": 62.605567400,
+    "lon": 6.438063710,
+    "address": "SYNNALANDSVEGEN 51",
+    "postalCode": "6270",
+    "city": "BRATTVÅG",
+    "url": "https://www.rema.no/butikker/rema-1000-brattvag/"
+  },
+  {
+    "id": "2073081",
+    "name": "REMA 1000 BREIDABLIKK",
+    "lat": 63.349952000,
+    "lon": 10.359564000,
+    "address": "Industriveien 13",
+    "postalCode": "7072",
+    "city": "HEIMDAL",
+    "url": "https://www.rema.no/butikker/rema-1000-breidablikk/"
+  },
+  {
+    "id": "2091807",
+    "name": "REMA 1000 BREIVIKA",
+    "lat": 62.470545600,
+    "lon": 6.352554770,
+    "address": "Lerstadvegen 516",
+    "postalCode": "6018",
+    "city": "ÅLESUND",
+    "url": "https://www.rema.no/butikker/rema-1000-breivika/"
+  },
+  {
+    "id": "2092026",
+    "name": "REMA 1000 BREKSTAD",
+    "lat": 63.691513000,
+    "lon": 9.659946000,
+    "address": "Idrettsveien 2",
+    "postalCode": "7130",
+    "city": "BREKSTAD",
+    "url": "https://www.rema.no/butikker/rema-1000-brekstad/"
+  },
+  {
+    "id": "2091732",
+    "name": "REMA 1000 BREMNES",
+    "lat": 59.793482000,
+    "lon": 5.171917000,
+    "address": "Stavlandsvegen 3",
+    "postalCode": "5430",
+    "city": "BREMNES",
+    "url": "https://www.rema.no/butikker/rema-1000-bremnes/"
+  },
+  {
+    "id": "1552822",
+    "name": "REMA 1000 BRENNÅSEN",
+    "lat": 58.138580000,
+    "lon": 7.856036000,
+    "address": "Brennåsemoen 1",
+    "postalCode": "4647",
+    "city": "BRENNÅSEN",
+    "url": "https://www.rema.no/butikker/rema-1000-brennasen/"
+  },
+  {
+    "id": "2083786",
+    "name": "REMA 1000 BRISKEBY",
+    "lat": 59.920625100,
+    "lon": 10.716878300,
+    "address": "Briskebyveien 48",
+    "postalCode": "0259",
+    "city": "OSLO",
+    "url": "https://www.rema.no/butikker/rema-1000-briskeby/"
+  },
+  {
+    "id": "2031294",
+    "name": "REMA 1000 BROKELANDSHEIA",
+    "lat": 58.821144400,
+    "lon": 9.078607500,
+    "address": "Brokelandsheia øst 1",
+    "postalCode": "4993",
+    "city": "SUNDEBRU",
+    "url": "https://www.rema.no/butikker/rema-1000-brokelandsheia/"
+  },
+  {
+    "id": "2091936",
+    "name": "REMA 1000 BROMSTAD",
+    "lat": 63.430695000,
+    "lon": 10.450620000,
+    "address": "Kong Øysteins veg 7",
+    "postalCode": "7045",
+    "city": "TRONDHEIM",
+    "url": "https://www.rema.no/butikker/rema-1000-bromstad/"
+  },
+  {
+    "id": "2077115",
+    "name": "REMA 1000 BRUMUNDDAL",
+    "lat": 60.882324500,
+    "lon": 10.936874600,
+    "address": "Nils Amblis veg 4",
+    "postalCode": "2380",
+    "city": "BRUMUNDDAL",
+    "url": "https://www.rema.no/butikker/rema-1000-brumunddal/"
+  },
+  {
+    "id": "2091930",
+    "name": "REMA 1000 BRYN",
+    "lat": 59.913752500,
+    "lon": 10.825221700,
+    "address": "Ole Deviks vei 6A",
+    "postalCode": "0666",
+    "city": "OSLO",
+    "url": "https://www.rema.no/butikker/rema-1000-bryn/"
+  },
+  {
+    "id": "2091883",
+    "name": "REMA 1000 BRYNE",
+    "lat": 58.734704500,
+    "lon": 5.638437020,
+    "address": "Reevegen 113",
+    "postalCode": "4340",
+    "city": "BRYNE",
+    "url": "https://www.rema.no/butikker/rema-1000-bryne/"
+  },
+  {
+    "id": "2077114",
+    "name": "REMA 1000 BRYNSENG",
+    "lat": 59.909746500,
+    "lon": 10.813046800,
+    "address": "Østensjøveien 43",
+    "postalCode": "0667",
+    "city": "OSLO",
+    "url": "https://www.rema.no/butikker/rema-1000-brynseng/"
+  },
+  {
+    "id": "1965622",
+    "name": "REMA 1000 BRØDLØS",
+    "lat": 59.139241000,
+    "lon": 11.379349000,
+    "address": "B R A VEIEN 54",
+    "postalCode": "1779",
+    "city": "HALDEN",
+    "url": "https://www.rema.no/butikker/rema-1000-brodlos/"
+  },
+  {
+    "id": "2091905",
+    "name": "REMA 1000 BRØNNØYSUND",
+    "lat": 65.480749200,
+    "lon": 12.220662800,
+    "address": "Sømnaveien 139",
+    "postalCode": "8900",
+    "city": "BRØNNØYSUND",
+    "url": "https://www.rema.no/butikker/rema-1000-bronnoysund/"
+  },
+  {
+    "id": "2091742",
+    "name": "REMA 1000 BUSTERUDGATE",
+    "lat": 59.126133500,
+    "lon": 11.385768700,
+    "address": "BUSTERUDGATA 11",
+    "postalCode": "1776",
+    "city": "HALDEN",
+    "url": "https://www.rema.no/butikker/rema-1000-busterudgate/"
+  },
+  {
+    "id": "2006191",
+    "name": "REMA 1000 BYGNES",
+    "lat": 59.293136400,
+    "lon": 5.291440200,
+    "address": "Fotvegen 1A",
+    "postalCode": "4250",
+    "city": "KOPERVIK",
+    "url": "https://www.rema.no/butikker/rema-1000-bygnes/"
+  },
+  {
+    "id": "1553329",
+    "name": "REMA 1000 BYPORTEN",
+    "lat": 66.306596500,
+    "lon": 14.128498500,
+    "address": "Terminalveien 5",
+    "postalCode": "8624",
+    "city": "MO I RANA",
+    "url": "https://www.rema.no/butikker/rema-1000-byporten/"
+  },
+  {
+    "id": "2094110",
+    "name": "REMA 1000 BYPORTEN JESSHEIM",
+    "lat": 60.134489900,
+    "lon": 11.160439700,
+    "address": "Nordre Dølibekken 8",
+    "postalCode": "2050",
+    "city": "JESSHEIM",
+    "url": "https://www.rema.no/butikker/rema-1000-byporten-jessheim/"
+  },
+  {
+    "id": "2091800",
+    "name": "REMA 1000 BYTERMINALEN",
+    "lat": 58.966778400,
+    "lon": 5.733786510,
+    "address": "Jernbaneveien 9",
+    "postalCode": "4005",
+    "city": "STAVANGER",
+    "url": "https://www.rema.no/butikker/rema-1000-byterminalen/"
+  },
+  {
+    "id": "1497317",
+    "name": "REMA 1000 BYTUNET",
+    "lat": 59.414802000,
+    "lon": 5.267208140,
+    "address": "Haraldsgaten 177",
+    "postalCode": "5525",
+    "city": "HAUGESUND",
+    "url": "https://www.rema.no/butikker/rema-1000-bytunet/"
+  },
+  {
+    "id": "2091896",
+    "name": "REMA 1000 BYÅSEN",
+    "lat": 63.417801000,
+    "lon": 10.352689000,
+    "address": "Fjellseterveien 1",
+    "postalCode": "7020",
+    "city": "TRONDHEIM",
+    "url": "https://www.rema.no/butikker/rema-1000-byasen/"
+  },
+  {
+    "id": "1552848",
+    "name": "REMA 1000 BÅTSFJORD",
+    "lat": 70.631264000,
+    "lon": 29.712593000,
+    "address": "Skogholmvegen 4",
+    "postalCode": "9990",
+    "city": "BÅTSFJORD",
+    "url": "https://www.rema.no/butikker/rema-1000-batsfjord/"
+  },
+  {
+    "id": "2030668",
+    "name": "REMA 1000 BÆRUMS VERK",
+    "lat": 59.942452000,
+    "lon": 10.501191000,
+    "address": "Elvegangen 7",
+    "postalCode": "1353",
+    "city": "BÆRUMS VERK",
+    "url": "https://www.rema.no/butikker/rema-1000-baerums-verk/"
+  },
+  {
+    "id": "2091802",
+    "name": "REMA 1000 BØ",
+    "lat": 59.410033000,
+    "lon": 9.067696000,
+    "address": "Lundevegen 11",
+    "postalCode": "3800",
+    "city": "BØ I TELEMARK",
+    "url": "https://www.rema.no/butikker/rema-1000-bo/"
+  },
+  {
+    "id": "2030645",
+    "name": "REMA 1000 BØLER",
+    "lat": 59.879616000,
+    "lon": 10.852431900,
+    "address": "Bølerlia 52",
+    "postalCode": "0689",
+    "city": "OSLO",
+    "url": "https://www.rema.no/butikker/rema-1000-boler/"
+  },
+  {
+    "id": "2098196",
+    "name": "REMA 1000 BØNES",
+    "lat": 60.333440300,
+    "lon": 5.301931900,
+    "address": "Tjørnhaugen 1",
+    "postalCode": "5154",
+    "city": "BØNES",
+    "url": "https://www.rema.no/butikker/rema-1000-bones/"
+  },
+  {
+    "id": "1552826",
+    "name": "REMA 1000 CHARLOTTENLUND",
+    "lat": 63.420481300,
+    "lon": 10.494627600,
+    "address": "JAKOBSLIVEGEN 59A",
+    "postalCode": "7058",
+    "city": "CHARLOTTENLUND",
+    "url": "https://www.rema.no/butikker/rema-1000-charlottenlund/"
+  },
+  {
+    "id": "2077025",
+    "name": "REMA 1000 CHRISTIAN KROHGSGATE",
+    "lat": 59.914060100,
+    "lon": 10.756686900,
+    "address": "Christian Krohgs gate 1",
+    "postalCode": "0186",
+    "city": "OSLO",
+    "url": "https://www.rema.no/butikker/rema-1000-christian-krohgsgate/"
+  },
+  {
+    "id": "2091852",
+    "name": "REMA 1000 DANMARKSPLASS",
+    "lat": 60.376490600,
+    "lon": 5.339843380,
+    "address": "Fjøsangerveien 32 C",
+    "postalCode": "5054",
+    "city": "BERGEN",
+    "url": "https://www.rema.no/butikker/rema-1000-danmarksplass/"
+  },
+  {
+    "id": "2093843",
+    "name": "REMA 1000 DARRES GATE",
+    "lat": 59.927949100,
+    "lon": 10.752268300,
+    "address": "Darres gate 2",
+    "postalCode": "0175",
+    "city": "OSLO",
+    "url": "https://www.rema.no/butikker/rema-1000-darres-gate/"
+  },
+  {
+    "id": "2091871",
+    "name": "REMA 1000 DEKNEPOLLEN",
+    "lat": 61.925413000,
+    "lon": 5.147731000,
+    "address": "Ulvesundvegen 2",
+    "postalCode": "6718",
+    "city": "DEKNEPOLLEN",
+    "url": "https://www.rema.no/butikker/rema-1000-deknepollen/"
+  },
+  {
+    "id": "1972058",
+    "name": "REMA 1000 DIGERNES",
+    "lat": 62.493309600,
+    "lon": 6.608265870,
+    "address": "Digernes Næringsområde 1",
+    "postalCode": "6260",
+    "city": "SKODJE",
+    "url": "https://www.rema.no/butikker/rema-1000-digernes/"
+  },
+  {
+    "id": "2091710",
+    "name": "REMA 1000 DIKEVEIEN",
+    "lat": 59.251610400,
+    "lon": 10.996345700,
+    "address": "Dikeveien 25",
+    "postalCode": "1661",
+    "city": "ROLVSØY",
+    "url": "https://www.rema.no/butikker/rema-1000-dikeveien/"
+  },
+  {
+    "id": "2091829",
+    "name": "REMA 1000 DOKKA",
+    "lat": 60.837107000,
+    "lon": 10.069791000,
+    "address": "Storgata 52",
+    "postalCode": "2870",
+    "city": "DOKKA",
+    "url": "https://www.rema.no/butikker/rema-1000-dokka/"
+  },
+  {
+    "id": "2100730",
+    "name": "REMA 1000 DOKKEN",
+    "lat": 60.385682400,
+    "lon": 5.317473000,
+    "address": "O.J. Brochs gate 16F",
+    "postalCode": "5006",
+    "city": "BERGEN",
+    "url": "https://www.rema.no/butikker/rema-1000-dokken/"
+  },
+  {
+    "id": "2099024",
+    "name": "REMA 1000 DOWN TOWN",
+    "lat": 59.136457300,
+    "lon": 9.639144300,
+    "address": "Kulltangvegen 68",
+    "postalCode": "3921",
+    "city": "PORSGRUNN",
+    "url": "https://www.rema.no/butikker/rema-1000-down-town/"
+  },
+  {
+    "id": "1504816",
+    "name": "REMA 1000 DRAGVOLL",
+    "lat": 63.411677000,
+    "lon": 10.464533000,
+    "address": "Gamle Jonsvannsveien 45",
+    "postalCode": "7048",
+    "city": "TRONDHEIM",
+    "url": "https://www.rema.no/butikker/rema-1000-dragvoll/"
+  },
+  {
+    "id": "2091995",
+    "name": "REMA 1000 DROTNINGSVIK",
+    "lat": 60.372052000,
+    "lon": 5.180267000,
+    "address": "Drotningsvikveien 132",
+    "postalCode": "5179",
+    "city": "GODVIK",
+    "url": "https://www.rema.no/butikker/rema-1000-drotningsvik/"
+  },
+  {
+    "id": "2091848",
+    "name": "REMA 1000 DRØBAK",
+    "lat": 59.668287000,
+    "lon": 10.647926000,
+    "address": "Loimaaveien 5",
+    "postalCode": "1447",
+    "city": "DRØBAK",
+    "url": "https://www.rema.no/butikker/rema-1000-drobak/"
+  },
+  {
+    "id": "2091745",
+    "name": "REMA 1000 DUSAVIK",
+    "lat": 58.994943100,
+    "lon": 5.681427250,
+    "address": "Dusavikveien 281A",
+    "postalCode": "4029",
+    "city": "STAVANGER",
+    "url": "https://www.rema.no/butikker/rema-1000-dusavik/"
+  },
+  {
+    "id": "2091822",
+    "name": "REMA 1000 DYRLØKKEVEIEN",
+    "lat": 59.672529000,
+    "lon": 10.652442000,
+    "address": "Dyrløkkeveien 1",
+    "postalCode": "1448",
+    "city": "DRØBAK",
+    "url": "https://www.rema.no/butikker/rema-1000-dyrlokkeveien/"
+  },
+  {
+    "id": "2091985",
+    "name": "REMA 1000 EGERSUND",
+    "lat": 58.461523400,
+    "lon": 6.012134540,
+    "address": "Kvellurveien 1 B",
+    "postalCode": "4373",
+    "city": "EGERSUND",
+    "url": "https://www.rema.no/butikker/rema-1000-egersund/"
+  },
+  {
+    "id": "2091821",
+    "name": "REMA 1000 EIDE",
+    "lat": 62.916489200,
+    "lon": 7.446875700,
+    "address": "EIDETORGET 21",
+    "postalCode": "6490",
+    "city": "EIDE",
+    "url": "https://www.rema.no/butikker/rema-1000-eide/"
+  },
+  {
+    "id": "2091831",
+    "name": "REMA 1000 EIDSVOLL",
+    "lat": 60.327691000,
+    "lon": 11.259787000,
+    "address": "Vormavegen 19",
+    "postalCode": "2080",
+    "city": "EIDSVOLL",
+    "url": "https://www.rema.no/butikker/rema-1000-eidsvoll/"
+  },
+  {
+    "id": "2091846",
+    "name": "REMA 1000 EIDSVÅG",
+    "lat": 60.437990000,
+    "lon": 5.322732000,
+    "address": "Ervikveien 11",
+    "postalCode": "5106",
+    "city": "ØVRE ERVIK",
+    "url": "https://www.rema.no/butikker/rema-1000-eidsvag/"
+  },
+  {
+    "id": "2091878",
+    "name": "REMA 1000 EIK",
+    "lat": 59.289199000,
+    "lon": 10.417674000,
+    "address": "Eikveien 28",
+    "postalCode": "3122",
+    "city": "TØNSBERG",
+    "url": "https://www.rema.no/butikker/rema-1000-eik/"
+  },
+  {
+    "id": "2091894",
+    "name": "REMA 1000 EIKLI",
+    "lat": 60.153160000,
+    "lon": 10.248914000,
+    "address": "Barbroveien 7",
+    "postalCode": "3511",
+    "city": "HØNEFOSS",
+    "url": "https://www.rema.no/butikker/rema-1000-eikli/"
+  },
+  {
+    "id": "1968912",
+    "name": "REMA 1000 ELGESETER",
+    "lat": 63.415492000,
+    "lon": 10.399118000,
+    "address": "Klæbuveien 68",
+    "postalCode": "7030",
+    "city": "TRONDHEIM",
+    "url": "https://www.rema.no/butikker/rema-1000-elgeseter/"
+  },
+  {
+    "id": "1664258",
+    "name": "REMA 1000 ELLINGSRUD",
+    "lat": 59.938556400,
+    "lon": 10.907893900,
+    "address": "Skansen Terrasse 2",
+    "postalCode": "1063",
+    "city": "OSLO",
+    "url": "https://www.rema.no/butikker/rema-1000-ellingsrud/"
+  },
+  {
+    "id": "2091837",
+    "name": "REMA 1000 ELNESVÅGEN",
+    "lat": 62.854304800,
+    "lon": 7.165797990,
+    "address": "Torget 17",
+    "postalCode": "6440",
+    "city": "ELNESVÅGEN",
+    "url": "https://www.rema.no/butikker/rema-1000-elnesvagen/"
+  },
+  {
+    "id": "2092193",
+    "name": "REMA 1000 ELVEBAKKEN",
+    "lat": 69.970799500,
+    "lon": 23.371941800,
+    "address": "Altaveien 304",
+    "postalCode": "9515",
+    "city": "ALTA",
+    "url": "https://www.rema.no/butikker/rema-1000-elvebakken/"
+  },
+  {
+    "id": "2071854",
+    "name": "REMA 1000 ELVEGATA",
+    "lat": 58.849921300,
+    "lon": 5.738266000,
+    "address": "Elvegata 11",
+    "postalCode": "4306",
+    "city": "SANDNES",
+    "url": "https://www.rema.no/butikker/rema-1000-elvegata/"
+  },
+  {
+    "id": "1544593",
+    "name": "REMA 1000 ELVENESET",
+    "lat": 60.307903000,
+    "lon": 5.369672000,
+    "address": "Elvenesvegen 18",
+    "postalCode": "5223",
+    "city": "NESTTUN",
+    "url": "https://www.rema.no/butikker/rema-1000-elveneset/"
+  },
+  {
+    "id": "2091978",
+    "name": "REMA 1000 ELVETORGET",
+    "lat": 61.451815300,
+    "lon": 5.849059920,
+    "address": "NAUSTDALSVEGEN 1A",
+    "postalCode": "6800",
+    "city": "FØRDE",
+    "url": "https://www.rema.no/butikker/rema-1000-elvetorget/"
+  },
+  {
+    "id": "2091769",
+    "name": "REMA 1000 ENEBAKK",
+    "lat": 59.724032800,
+    "lon": 11.049875900,
+    "address": "SAGSTUVEIEN 1",
+    "postalCode": "1914",
+    "city": "YTRE ENEBAKK",
+    "url": "https://www.rema.no/butikker/rema-1000-enebakk/"
+  },
+  {
+    "id": "2091744",
+    "name": "REMA 1000 ENSJØ",
+    "lat": 59.914899100,
+    "lon": 10.787930500,
+    "address": "Gladengveien 2",
+    "postalCode": "0661",
+    "city": "OSLO",
+    "url": "https://www.rema.no/butikker/rema-1000-ensjo/"
+  },
+  {
+    "id": "2098362",
+    "name": "REMA 1000 EPA",
+    "lat": 60.192861600,
+    "lon": 12.001081600,
+    "address": "Storgata 40",
+    "postalCode": "2212",
+    "city": "KONGSVINGER",
+    "url": "https://www.rema.no/butikker/rema-1000-epa/"
+  },
+  {
+    "id": "2091935",
+    "name": "REMA 1000 ETNE",
+    "lat": 59.663905000,
+    "lon": 5.940905000,
+    "address": "Haukelivegen 997",
+    "postalCode": "5590",
+    "city": "ETNE",
+    "url": "https://www.rema.no/butikker/rema-1000-etne/"
+  },
+  {
+    "id": "2091970",
+    "name": "REMA 1000 ETTERSTAD",
+    "lat": 59.906481800,
+    "lon": 10.795753500,
+    "address": "BISKOP JENS NILSSØNS GATE 5",
+    "postalCode": "0659",
+    "city": "OSLO",
+    "url": "https://www.rema.no/butikker/rema-1000-etterstad/"
+  },
+  {
+    "id": "2083708",
+    "name": "REMA 1000 EVENSKJER",
+    "lat": 68.584590000,
+    "lon": 16.574157000,
+    "address": "Revegårdsveien 6, Kleivatorget",
+    "postalCode": "9440",
+    "city": "EVENSKJER",
+    "url": "https://www.rema.no/butikker/rema-1000-evenskjer/"
+  },
+  {
+    "id": "2091948",
+    "name": "REMA 1000 EVJA",
+    "lat": 61.599060000,
+    "lon": 5.047484000,
+    "address": "Seljetun 3",
+    "postalCode": "6900",
+    "city": "FLORØ",
+    "url": "https://www.rema.no/butikker/rema-1000-evja/"
+  },
+  {
+    "id": "1729131",
+    "name": "REMA 1000 EVJE",
+    "lat": 58.583273000,
+    "lon": 7.797168000,
+    "address": "VERKSVEGEN 12",
+    "postalCode": "4735",
+    "city": "EVJE",
+    "url": "https://www.rema.no/butikker/rema-1000-evje/"
+  },
+  {
+    "id": "1973754",
+    "name": "REMA 1000 FABRIKKVEGEN",
+    "lat": 60.887525000,
+    "lon": 10.930450000,
+    "address": "Fabrikkvegen 3",
+    "postalCode": "2383",
+    "city": "BRUMUNDDAL",
+    "url": "https://www.rema.no/butikker/rema-1000-fabrikkvegen/"
+  },
+  {
+    "id": "2083354",
+    "name": "REMA 1000 FAGERHOLT",
+    "lat": 58.177115000,
+    "lon": 8.041814000,
+    "address": "Magnus Barfotsvei 9A",
+    "postalCode": "4633",
+    "city": "KRISTIANSAND S",
+    "url": "https://www.rema.no/butikker/rema-1000-fagerholt/"
+  },
+  {
+    "id": "2074896",
+    "name": "REMA 1000 FALKUM",
+    "lat": 59.212217000,
+    "lon": 9.590599000,
+    "address": "Odds plass 1",
+    "postalCode": "3722",
+    "city": "SKIEN",
+    "url": "https://www.rema.no/butikker/rema-1000-falkum/"
+  },
+  {
+    "id": "2091973",
+    "name": "REMA 1000 FANATORGET",
+    "lat": 60.304934000,
+    "lon": 5.281869000,
+    "address": "Aurdalslia 10",
+    "postalCode": "5253",
+    "city": "SANDSLI",
+    "url": "https://www.rema.no/butikker/rema-1000-fanatorget/"
+  },
+  {
+    "id": "2091751",
+    "name": "REMA 1000 FARSUND",
+    "lat": 58.096357000,
+    "lon": 6.804499800,
+    "address": "Vestersiden 1",
+    "postalCode": "4550",
+    "city": "FARSUND",
+    "url": "https://www.rema.no/butikker/rema-1000-farsund/"
+  },
+  {
+    "id": "2091783",
+    "name": "REMA 1000 FAUSKE",
+    "lat": 67.257747500,
+    "lon": 15.388686700,
+    "address": "Sjøgata 47A",
+    "postalCode": "8200",
+    "city": "FAUSKE",
+    "url": "https://www.rema.no/butikker/rema-1000-fauske/"
+  },
+  {
+    "id": "2092018",
+    "name": "REMA 1000 FETSUND",
+    "lat": 59.928127000,
+    "lon": 11.162448000,
+    "address": "Gamle Fetvei 13",
+    "postalCode": "1900",
+    "city": "FETSUND",
+    "url": "https://www.rema.no/butikker/rema-1000-fetsund/"
+  },
+  {
+    "id": "2099990",
+    "name": "REMA 1000 FIBOVEIEN",
+    "lat": 58.156222800,
+    "lon": 7.106612000,
+    "address": "Fiboveien 12d",
+    "postalCode": "4580",
+    "city": "LYNGDAL",
+    "url": "https://www.rema.no/butikker/rema-1000-fiboveien/"
+  },
+  {
+    "id": "2091748",
+    "name": "REMA 1000 FINNSNES",
+    "lat": 69.227935800,
+    "lon": 17.977448000,
+    "address": "Nordborgveien 3",
+    "postalCode": "9300",
+    "city": "FINNSNES",
+    "url": "https://www.rema.no/butikker/rema-1000-finnsnes/"
+  },
+  {
+    "id": "1553932",
+    "name": "REMA 1000 FITJAR",
+    "lat": 59.919883000,
+    "lon": 5.327397000,
+    "address": "Fitjarsjøen 73",
+    "postalCode": "5419",
+    "city": "FITJAR",
+    "url": "https://www.rema.no/butikker/rema-1000-fitjar/"
+  },
+  {
+    "id": "2092307",
+    "name": "REMA 1000 FJELDBERG",
+    "lat": 59.218998200,
+    "lon": 10.922287900,
+    "address": "Mosseveien 16",
+    "postalCode": "1610",
+    "city": "FREDRIKSTAD",
+    "url": "https://www.rema.no/butikker/rema-1000-fjeldberg/"
+  },
+  {
+    "id": "1953405",
+    "name": "REMA 1000 FJELL",
+    "lat": 60.330770000,
+    "lon": 5.076628000,
+    "address": "Fjellavegen 228",
+    "postalCode": "5357",
+    "city": "FJELL",
+    "url": "https://www.rema.no/butikker/rema-1000-fjell/"
+  },
+  {
+    "id": "2091784",
+    "name": "REMA 1000 FJØSANGER",
+    "lat": 60.347310000,
+    "lon": 5.334949000,
+    "address": "Straumeveien 3",
+    "postalCode": "5073",
+    "city": "BERGEN",
+    "url": "https://www.rema.no/butikker/rema-1000-fjosanger/"
+  },
+  {
+    "id": "2091998",
+    "name": "REMA 1000 FLATÅSEN",
+    "lat": 63.372547000,
+    "lon": 10.344309000,
+    "address": "ØVRE FLATÅSVEG 2B",
+    "postalCode": "7079",
+    "city": "FLATÅSEN",
+    "url": "https://www.rema.no/butikker/rema-1000-flatasen/"
+  },
+  {
+    "id": "1528831",
+    "name": "REMA 1000 FLEKKEFJORD",
+    "lat": 58.294255000,
+    "lon": 6.664609000,
+    "address": "Lasta 2",
+    "postalCode": "4405",
+    "city": "FLEKKEFJORD",
+    "url": "https://www.rema.no/butikker/rema-1000-flekkefjord/"
+  },
+  {
+    "id": "2091832",
+    "name": "REMA 1000 FLISA",
+    "lat": 60.611835900,
+    "lon": 12.004712300,
+    "address": "Frøyas gate 1",
+    "postalCode": "2270",
+    "city": "FLISA",
+    "url": "https://www.rema.no/butikker/rema-1000-flisa/"
+  },
+  {
+    "id": "2079865",
+    "name": "REMA 1000 FLISNES",
+    "lat": 62.432811500,
+    "lon": 6.416101700,
+    "address": "Langrabben 2",
+    "postalCode": "6013",
+    "city": "ÅLESUND",
+    "url": "https://www.rema.no/butikker/rema-1000-flisnes/"
+  },
+  {
+    "id": "2091830",
+    "name": "REMA 1000 FLORØ SENTER",
+    "lat": 61.601176000,
+    "lon": 5.037486000,
+    "address": "Hestenesgata 4",
+    "postalCode": "6900",
+    "city": "FLORØ",
+    "url": "https://www.rema.no/butikker/rema-1000-floro-senter/"
+  },
+  {
+    "id": "2097102",
+    "name": "REMA 1000 FLÅ",
+    "lat": 60.431200900,
+    "lon": 9.458610500,
+    "address": "Svingelie 6",
+    "postalCode": "3539",
+    "city": "FLÅ",
+    "url": "https://www.rema.no/butikker/rema-1000-fla/"
+  },
+  {
+    "id": "2091733",
+    "name": "REMA 1000 FORUS",
+    "lat": 58.895468100,
+    "lon": 5.703801590,
+    "address": "Lagerveien 1",
+    "postalCode": "4033",
+    "city": "STAVANGER",
+    "url": "https://www.rema.no/butikker/rema-1000-forus/"
+  },
+  {
+    "id": "2056891",
+    "name": "REMA 1000 FOSNAVÅG",
+    "lat": 62.325015600,
+    "lon": 5.639505080,
+    "address": "Eggesbøjorda 1",
+    "postalCode": "6092",
+    "city": "FOSNAVÅG",
+    "url": "https://www.rema.no/butikker/rema-1000-fosnavag/"
+  },
+  {
+    "id": "2091847",
+    "name": "REMA 1000 FOSSEGRENDA",
+    "lat": 63.387302000,
+    "lon": 10.408310000,
+    "address": "Fossegrenda 44",
+    "postalCode": "7038",
+    "city": "TRONDHEIM",
+    "url": "https://www.rema.no/butikker/rema-1000-fossegrenda/"
+  },
+  {
+    "id": "1554307",
+    "name": "REMA 1000 FREDENSBORGVEIEN",
+    "lat": 59.919200900,
+    "lon": 10.747055100,
+    "address": "Fredensborgveien 24 b",
+    "postalCode": "0177",
+    "city": "OSLO",
+    "url": "https://www.rema.no/butikker/rema-1000-fredensborgveien/"
+  },
+  {
+    "id": "2092031",
+    "name": "REMA 1000 FREDRIKSTAD ØST",
+    "lat": 59.206482000,
+    "lon": 10.971644000,
+    "address": "Borgarveien 13",
+    "postalCode": "1633",
+    "city": "GAMLE FREDRIKSTAD",
+    "url": "https://www.rema.no/butikker/rema-1000-fredrikstad-ost/"
+  },
+  {
+    "id": "2091785",
+    "name": "REMA 1000 FREKHAUG",
+    "lat": 60.518521000,
+    "lon": 5.239487000,
+    "address": "Norgardshaugen 1",
+    "postalCode": "5918",
+    "city": "FREKHAUG",
+    "url": "https://www.rema.no/butikker/rema-1000-frekhaug/"
+  },
+  {
+    "id": "1554045",
+    "name": "REMA 1000 FROLAND",
+    "lat": 58.507478000,
+    "lon": 8.630457000,
+    "address": "Osedalen",
+    "postalCode": "4820",
+    "city": "FROLAND",
+    "url": "https://www.rema.no/butikker/rema-1000-froland/"
+  },
+  {
+    "id": "2098649",
+    "name": "REMA 1000 FROSTA",
+    "lat": 63.587267400,
+    "lon": 10.739631600,
+    "address": "Fånesvegen 2",
+    "postalCode": "7633",
+    "city": "FROSTA",
+    "url": "https://www.rema.no/butikker/rema-1000-frosta/"
+  },
+  {
+    "id": "1554666",
+    "name": "REMA 1000 FRYDENLUND",
+    "lat": 68.438605400,
+    "lon": 17.417216800,
+    "address": "Frydenlundgata 2",
+    "postalCode": "8516",
+    "city": "NARVIK",
+    "url": "https://www.rema.no/butikker/rema-1000-frydenlund/"
+  },
+  {
+    "id": "1553301",
+    "name": "REMA 1000 FRØYA",
+    "lat": 63.728777000,
+    "lon": 8.828133000,
+    "address": "Sørveien 17 B",
+    "postalCode": "7260",
+    "city": "SISTRANDA",
+    "url": "https://www.rema.no/butikker/rema-1000-froya/"
+  },
+  {
+    "id": "2091937",
+    "name": "REMA 1000 FUGLSET",
+    "lat": 62.741160700,
+    "lon": 7.197736240,
+    "address": "Enenvegen 1 A",
+    "postalCode": "6416",
+    "city": "MOLDE",
+    "url": "https://www.rema.no/butikker/rema-1000-fuglset/"
+  },
+  {
+    "id": "2088768",
+    "name": "REMA 1000 FUTURA",
+    "lat": 63.110622100,
+    "lon": 7.779912200,
+    "address": "Industriveien 17",
+    "postalCode": "6517",
+    "city": "KRISTIANSUND N",
+    "url": "https://www.rema.no/butikker/rema-1000-futura/"
+  },
+  {
+    "id": "2091692",
+    "name": "REMA 1000 FÅBERGGATA",
+    "lat": 61.120118000,
+    "lon": 10.459083000,
+    "address": "Fåberggata 126",
+    "postalCode": "2615",
+    "city": "LILLEHAMMER",
+    "url": "https://www.rema.no/butikker/rema-1000-faberggata/"
+  },
+  {
+    "id": "2091972",
+    "name": "REMA 1000 FØRDE",
+    "lat": 61.449090700,
+    "lon": 5.871924250,
+    "address": "Hafstad",
+    "postalCode": "6800",
+    "city": "FØRDE",
+    "url": "https://www.rema.no/butikker/rema-1000-forde/"
+  },
+  {
+    "id": "2057008",
+    "name": "REMA 1000 GAMLEVEIEN",
+    "lat": 58.883806700,
+    "lon": 5.743580000,
+    "address": "Gamleveien 81",
+    "postalCode": "4315",
+    "city": "SANDNES",
+    "url": "https://www.rema.no/butikker/rema-1000-gamleveien/"
+  },
+  {
+    "id": "2091772",
+    "name": "REMA 1000 GANDDAL",
+    "lat": 58.825456300,
+    "lon": 5.713585290,
+    "address": "Olabakken 2",
+    "postalCode": "4322",
+    "city": "SANDNES",
+    "url": "https://www.rema.no/butikker/rema-1000-ganddal/"
+  },
+  {
+    "id": "1555716",
+    "name": "REMA 1000 GARNESVEIEN",
+    "lat": 60.428570000,
+    "lon": 5.469521000,
+    "address": "Garnesvegen 7",
+    "postalCode": "5260",
+    "city": "INDRE ARNA",
+    "url": "https://www.rema.no/butikker/rema-1000-garnesveien/"
+  },
+  {
+    "id": "2091774",
+    "name": "REMA 1000 GAULA",
+    "lat": 63.286179900,
+    "lon": 10.267730900,
+    "address": "Martin Tranmæls veg 65",
+    "postalCode": "7224",
+    "city": "MELHUS",
+    "url": "https://www.rema.no/butikker/rema-1000-gaula/"
+  },
+  {
+    "id": "2091955",
+    "name": "REMA 1000 GAUSDAL",
+    "lat": 61.226523000,
+    "lon": 10.222132000,
+    "address": "Fargeriveien 5B",
+    "postalCode": "2651",
+    "city": "ØSTRE GAUSDAL",
+    "url": "https://www.rema.no/butikker/rema-1000-gausdal/"
+  },
+  {
+    "id": "2030674",
+    "name": "REMA 1000 GEILO",
+    "lat": 60.534151000,
+    "lon": 8.208093000,
+    "address": "Kyrkjevegen 2",
+    "postalCode": "3580",
+    "city": "GEILO",
+    "url": "https://www.rema.no/butikker/rema-1000-geilo/"
+  },
+  {
+    "id": "1658959",
+    "name": "REMA 1000 GIMSØY",
+    "lat": 59.191762000,
+    "lon": 9.611108000,
+    "address": "Porsgrunnsvegen 5",
+    "postalCode": "3730",
+    "city": "SKIEN",
+    "url": "https://www.rema.no/butikker/rema-1000-gimsoy/"
+  },
+  {
+    "id": "2092008",
+    "name": "REMA 1000 GISKE",
+    "lat": 62.529048000,
+    "lon": 6.116741000,
+    "address": "Valderøyvegen 1166",
+    "postalCode": "6050",
+    "city": "VALDERØYA",
+    "url": "https://www.rema.no/butikker/rema-1000-giske/"
+  },
+  {
+    "id": "1553348",
+    "name": "REMA 1000 GJELLERÅSEN",
+    "lat": 59.984666000,
+    "lon": 10.928201000,
+    "address": "Carl Bergersens vei 3",
+    "postalCode": "1481",
+    "city": "HAGAN",
+    "url": "https://www.rema.no/butikker/rema-1000-gjellerasen/"
+  },
+  {
+    "id": "2033283",
+    "name": "REMA 1000 GJETTUM",
+    "lat": 59.908687000,
+    "lon": 10.533792000,
+    "address": "Bærumsveien 377",
+    "postalCode": "1346",
+    "city": "GJETTUM",
+    "url": "https://www.rema.no/butikker/rema-1000-gjettum/"
+  },
+  {
+    "id": "2091975",
+    "name": "REMA 1000 GJØVIK SENTRUM",
+    "lat": 60.795634800,
+    "lon": 10.689506500,
+    "address": "Nedre Torvgate 4",
+    "postalCode": "2815",
+    "city": "GJØVIK",
+    "url": "https://www.rema.no/butikker/rema-1000-gjovik-sentrum/"
+  },
+  {
+    "id": "1663037",
+    "name": "REMA 1000 GJØVIK STADION",
+    "lat": 60.798987000,
+    "lon": 10.684472000,
+    "address": "MARCUS THRANES GATE 8",
+    "postalCode": "2821",
+    "city": "GJØVIK",
+    "url": "https://www.rema.no/butikker/rema-1000-gjovik-stadion/"
+  },
+  {
+    "id": "2091996",
+    "name": "REMA 1000 GODVIK",
+    "lat": 60.370176000,
+    "lon": 5.192858000,
+    "address": "Alvehaugen 2",
+    "postalCode": "5179",
+    "city": "GODVIK",
+    "url": "https://www.rema.no/butikker/rema-1000-godvik/"
+  },
+  {
+    "id": "2091705",
+    "name": "REMA 1000 GOL",
+    "lat": 60.701651000,
+    "lon": 8.960534000,
+    "address": "SENTRUMSVEGEN 35",
+    "postalCode": "3550",
+    "city": "GOL",
+    "url": "https://www.rema.no/butikker/rema-1000-gol/"
+  },
+  {
+    "id": "2037317",
+    "name": "REMA 1000 GRAN",
+    "lat": 60.352667000,
+    "lon": 10.575522000,
+    "address": "Morstadvegen 1",
+    "postalCode": "2750",
+    "city": "GRAN",
+    "url": "https://www.rema.no/butikker/rema-1000-gran/"
+  },
+  {
+    "id": "2100184",
+    "name": "REMA 1000 GRANDSENTERET",
+    "lat": 60.791820400,
+    "lon": 11.077344800,
+    "address": "Torggata 1",
+    "postalCode": "2317",
+    "city": "HAMAR",
+    "url": "https://www.rema.no/butikker/rema-1000-grandsenteret/"
+  },
+  {
+    "id": "2083701",
+    "name": "REMA 1000 GRANNES",
+    "lat": 58.932033700,
+    "lon": 5.696239700,
+    "address": "Novstemmen 2",
+    "postalCode": "4044",
+    "city": "HAFRSFJORD",
+    "url": "https://www.rema.no/butikker/rema-1000-grannes/"
+  },
+  {
+    "id": "2099614",
+    "name": "REMA 1000 GRANÅSEN",
+    "lat": 63.378348600,
+    "lon": 10.316684500,
+    "address": "Smistadvegen 2",
+    "postalCode": "7026",
+    "city": "TRONDHEIM",
+    "url": "https://www.rema.no/butikker/rema-1000-granasen/"
+  },
+  {
+    "id": "2098195",
+    "name": "REMA 1000 GRENSTØL",
+    "lat": 58.622280400,
+    "lon": 8.931439000,
+    "address": "Østre Grenstøl 80",
+    "postalCode": "4900",
+    "city": "TVEDESTRAND",
+    "url": "https://www.rema.no/butikker/rema-1000-grenstol/"
+  },
+  {
+    "id": "2091842",
+    "name": "REMA 1000 GRESSVIK",
+    "lat": 59.211054000,
+    "lon": 10.890886000,
+    "address": "Nordkilen 1",
+    "postalCode": "1621",
+    "city": "GRESSVIK",
+    "url": "https://www.rema.no/butikker/rema-1000-gressvik/"
+  },
+  {
+    "id": "2088644",
+    "name": "REMA 1000 GREVERUD",
+    "lat": 59.773538000,
+    "lon": 10.804337000,
+    "address": "Flåtestadveien 1",
+    "postalCode": "1415",
+    "city": "OPPEGÅRD",
+    "url": "https://www.rema.no/butikker/rema-1000-greverud/"
+  },
+  {
+    "id": "2086208",
+    "name": "REMA 1000 GRIMSTAD",
+    "lat": 58.336024000,
+    "lon": 8.590781000,
+    "address": "Bark Sila vei 8",
+    "postalCode": "4876",
+    "city": "GRIMSTAD",
+    "url": "https://www.rema.no/butikker/rema-1000-grimstad/"
+  },
+  {
+    "id": "2076854",
+    "name": "REMA 1000 GRONG",
+    "lat": 64.463844000,
+    "lon": 12.304657000,
+    "address": "Sundspetvegen 35",
+    "postalCode": "7870",
+    "city": "GRONG",
+    "url": "https://www.rema.no/butikker/rema-1000-grong/"
+  },
+  {
+    "id": "2075013",
+    "name": "REMA 1000 GRORUD",
+    "lat": 59.961026100,
+    "lon": 10.884186700,
+    "address": "ROMSÅSVEIEN 4",
+    "postalCode": "0962",
+    "city": "OSLO",
+    "url": "https://www.rema.no/butikker/rema-1000-grorud/"
+  },
+  {
+    "id": "1552825",
+    "name": "REMA 1000 GRUA",
+    "lat": 60.251020000,
+    "lon": 10.675021000,
+    "address": "Hadelandsvegen 1497",
+    "postalCode": "2742",
+    "city": "GRUA",
+    "url": "https://www.rema.no/butikker/rema-1000-grua/"
+  },
+  {
+    "id": "2091986",
+    "name": "REMA 1000 GRÅLUM",
+    "lat": 59.295282000,
+    "lon": 11.066955000,
+    "address": "Bjørnstadveien 4",
+    "postalCode": "1712",
+    "city": "GRÅLUM",
+    "url": "https://www.rema.no/butikker/rema-1000-gralum/"
+  },
+  {
+    "id": "2097750",
+    "name": "REMA 1000 GRØDEM",
+    "lat": 59.008485500,
+    "lon": 5.651471100,
+    "address": "Torvmyrveien 44B",
+    "postalCode": "4072",
+    "city": "RANDABERG",
+    "url": "https://www.rema.no/butikker/rema-1000-grodem/"
+  },
+  {
+    "id": "2091890",
+    "name": "REMA 1000 GRØM",
+    "lat": 58.339458000,
+    "lon": 8.574296000,
+    "address": "Lillesandveien 47",
+    "postalCode": "4877",
+    "city": "GRIMSTAD",
+    "url": "https://www.rema.no/butikker/rema-1000-grom/"
+  },
+  {
+    "id": "2007069",
+    "name": "REMA 1000 GULDBERGAUNET",
+    "lat": 64.017274000,
+    "lon": 11.504995000,
+    "address": "Ogndalsveien 49",
+    "postalCode": "7716",
+    "city": "STEINKJER",
+    "url": "https://www.rema.no/butikker/rema-1000-guldbergaunet/"
+  },
+  {
+    "id": "2091913",
+    "name": "REMA 1000 GULLHELLA",
+    "lat": 59.810404000,
+    "lon": 10.448187000,
+    "address": "Bukkemyrveien 4",
+    "postalCode": "1386",
+    "city": "ASKER",
+    "url": "https://www.rema.no/butikker/rema-1000-gullhella/"
+  },
+  {
+    "id": "1497564",
+    "name": "REMA 1000 GULSKOGEN",
+    "lat": 59.742047000,
+    "lon": 10.162395000,
+    "address": "Professor Smiths alle 54A",
+    "postalCode": "3048",
+    "city": "DRAMMEN",
+    "url": "https://www.rema.no/butikker/rema-1000-gulskogen/"
+  },
+  {
+    "id": "2088648",
+    "name": "REMA 1000 GYLDENPRIS",
+    "lat": 60.381460000,
+    "lon": 5.317508000,
+    "address": "Michael Krohns gate 86",
+    "postalCode": "5057",
+    "city": "BERGEN",
+    "url": "https://www.rema.no/butikker/rema-1000-gyldenpris/"
+  },
+  {
+    "id": "2091944",
+    "name": "REMA 1000 GYSTADPARKEN",
+    "lat": 60.143333000,
+    "lon": 11.190782000,
+    "address": "Henrik Bulls veg 106",
+    "postalCode": "2052",
+    "city": "JESSHEIM",
+    "url": "https://www.rema.no/butikker/rema-1000-gystadparken/"
+  },
+  {
+    "id": "2088917",
+    "name": "REMA 1000 GÅSEID",
+    "lat": 62.464029200,
+    "lon": 6.266071600,
+    "address": "BORGUNDVEGEN 491",
+    "postalCode": "6015",
+    "city": "ÅLESUND",
+    "url": "https://www.rema.no/butikker/rema-1000-gaseid/"
+  },
+  {
+    "id": "2100665",
+    "name": "REMA 1000 HAFJELL",
+    "lat": 61.239552900,
+    "lon": 10.439511200,
+    "address": "Hundervegen 66E",
+    "postalCode": "2636",
+    "city": "ØYER",
+    "url": "https://www.rema.no/butikker/rema-1000-hafjell/"
+  },
+  {
+    "id": "2082522",
+    "name": "REMA 1000 HALLSET",
+    "lat": 63.395047000,
+    "lon": 10.369171000,
+    "address": "SELSBAKKVEGEN 36B",
+    "postalCode": "7027",
+    "city": "TRONDHEIM",
+    "url": "https://www.rema.no/butikker/rema-1000-hallset/"
+  },
+  {
+    "id": "2025464",
+    "name": "REMA 1000 HALMSTAD",
+    "lat": 59.376073000,
+    "lon": 10.758791000,
+    "address": "RYGGEVEIEN 375A",
+    "postalCode": "1580",
+    "city": "RYGGE",
+    "url": "https://www.rema.no/butikker/rema-1000-halmstad/"
+  },
+  {
+    "id": "2091870",
+    "name": "REMA 1000 HALSØY",
+    "lat": 65.863128700,
+    "lon": 13.193498500,
+    "address": "Leira 5",
+    "postalCode": "8665",
+    "city": "MOSJØEN",
+    "url": "https://www.rema.no/butikker/rema-1000-halsoy/"
+  },
+  {
+    "id": "2098037",
+    "name": "REMA 1000 HAMAR BRISKEBY",
+    "lat": 60.796196500,
+    "lon": 11.095544700,
+    "address": "Vangsvegen 163",
+    "postalCode": "2321",
+    "city": "HAMAR",
+    "url": "https://www.rema.no/butikker/rema-1000-hamar-briskeby/"
+  },
+  {
+    "id": "2091817",
+    "name": "REMA 1000 HAMMERFEST",
+    "lat": 70.677540000,
+    "lon": 23.672192000,
+    "address": "Verkstedveien 33",
+    "postalCode": "9602",
+    "city": "HAMMERFEST",
+    "url": "https://www.rema.no/butikker/rema-1000-hammerfest/"
+  },
+  {
+    "id": "2097219",
+    "name": "REMA 1000 HANA",
+    "lat": 58.854677700,
+    "lon": 5.770343560,
+    "address": "Hanamyrveien 2",
+    "postalCode": "4328",
+    "city": "SANDNES",
+    "url": "https://www.rema.no/butikker/rema-1000-hana/"
+  },
+  {
+    "id": "2092306",
+    "name": "REMA 1000 HANSTAD",
+    "lat": 60.861125500,
+    "lon": 11.566100900,
+    "address": "Johan Falkbergets veg 2",
+    "postalCode": "2407",
+    "city": "ELVERUM",
+    "url": "https://www.rema.no/butikker/rema-1000-hanstad/"
+  },
+  {
+    "id": "2092443",
+    "name": "REMA 1000 HARESTUA",
+    "lat": 60.207204600,
+    "lon": 10.716347400,
+    "address": "Vannebos veg 211",
+    "postalCode": "2743",
+    "city": "HARESTUA",
+    "url": "https://www.rema.no/butikker/rema-1000-harestua/"
+  },
+  {
+    "id": "2091984",
+    "name": "REMA 1000 HARSTAD",
+    "lat": 68.791426000,
+    "lon": 16.535571000,
+    "address": "Bårnakkveien 1 A",
+    "postalCode": "9406",
+    "city": "HARSTAD",
+    "url": "https://www.rema.no/butikker/rema-1000-harstad/"
+  },
+  {
+    "id": "2091828",
+    "name": "REMA 1000 HASSINGVEIEN",
+    "lat": 59.217849000,
+    "lon": 10.945435000,
+    "address": "Hassingveien 40",
+    "postalCode": "1605",
+    "city": "FREDRIKSTAD",
+    "url": "https://www.rema.no/butikker/rema-1000-hassingveien/"
+  },
+  {
+    "id": "2091806",
+    "name": "REMA 1000 HAUGENSTUA",
+    "lat": 59.953124700,
+    "lon": 10.908128200,
+    "address": "Garver Ytterborgsvei 98",
+    "postalCode": "0977",
+    "city": "OSLO",
+    "url": "https://www.rema.no/butikker/rema-1000-haugenstua/"
+  },
+  {
+    "id": "2091729",
+    "name": "REMA 1000 HAUKELANDSVEIEN",
+    "lat": 60.377133000,
+    "lon": 5.358315000,
+    "address": "Haukelandsveien 1",
+    "postalCode": "5009",
+    "city": "BERGEN",
+    "url": "https://www.rema.no/butikker/rema-1000-haukelandsveien/"
+  },
+  {
+    "id": "2094187",
+    "name": "REMA 1000 HAUKERØD",
+    "lat": 59.147764300,
+    "lon": 10.191627000,
+    "address": "Moveien 111",
+    "postalCode": "3221",
+    "city": "SANDEFJORD",
+    "url": "https://www.rema.no/butikker/rema-1000-haukerod/"
+  },
+  {
+    "id": "2056889",
+    "name": "REMA 1000 HAVSTEIN",
+    "lat": 63.409075600,
+    "lon": 10.361278100,
+    "address": "John Skaarvolds veg 40",
+    "postalCode": "7021",
+    "city": "TRONDHEIM",
+    "url": "https://www.rema.no/butikker/rema-1000-havstein/"
+  },
+  {
+    "id": "2091939",
+    "name": "REMA 1000 HEIANE",
+    "lat": 59.761786000,
+    "lon": 5.453685000,
+    "address": "Meatjønnshaugen 6",
+    "postalCode": "5412",
+    "city": "STORD",
+    "url": "https://www.rema.no/butikker/rema-1000-heiane/"
+  },
+  {
+    "id": "2091912",
+    "name": "REMA 1000 HEIMDAL",
+    "lat": 63.351684500,
+    "lon": 10.353983700,
+    "address": "Ringvålveien 7",
+    "postalCode": "7080",
+    "city": "HEIMDAL",
+    "url": "https://www.rema.no/butikker/rema-1000-heimdal/"
+  },
+  {
+    "id": "1555694",
+    "name": "REMA 1000 HEISTAD",
+    "lat": 59.075975000,
+    "lon": 9.684154000,
+    "address": "Pansvei 2",
+    "postalCode": "3940",
+    "city": "PORSGRUNN",
+    "url": "https://www.rema.no/butikker/rema-1000-heistad/"
+  },
+  {
+    "id": "2100352",
+    "name": "REMA 1000 HELGERUDKVARTALET",
+    "lat": 59.891412500,
+    "lon": 10.525610200,
+    "address": "Jørgen Kanitz Gate 16",
+    "postalCode": "1337",
+    "city": "SANDVIKA",
+    "url": "https://www.rema.no/butikker/rema-1000-helgerudkvartalet/"
+  },
+  {
+    "id": "2091999",
+    "name": "REMA 1000 HELL",
+    "lat": 63.448257000,
+    "lon": 10.909878000,
+    "address": "SANDFÆRHUS 24",
+    "postalCode": "7502",
+    "city": "STJØRDAL",
+    "url": "https://www.rema.no/butikker/rema-1000-hell/"
+  },
+  {
+    "id": "2091898",
+    "name": "REMA 1000 HELLEBERG",
+    "lat": 61.125617000,
+    "lon": 10.456630000,
+    "address": "Storgata 170",
+    "postalCode": "2615",
+    "city": "LILLEHAMMER",
+    "url": "https://www.rema.no/butikker/rema-1000-helleberg/"
+  },
+  {
+    "id": "2032383",
+    "name": "REMA 1000 HELLERUD",
+    "lat": 59.916391600,
+    "lon": 10.848499500,
+    "address": "Tvetenveien 170",
+    "postalCode": "0671",
+    "city": "OSLO",
+    "url": "https://www.rema.no/butikker/rema-1000-hellerud/"
+  },
+  {
+    "id": "2091851",
+    "name": "REMA 1000 HELLEVEIEN",
+    "lat": 60.424562000,
+    "lon": 5.303194000,
+    "address": "Søndre Øyjorden 75",
+    "postalCode": "5038",
+    "city": "BERGEN",
+    "url": "https://www.rema.no/butikker/rema-1000-helleveien/"
+  },
+  {
+    "id": "2089149",
+    "name": "REMA 1000 HERKULES",
+    "lat": 59.196666000,
+    "lon": 9.599843000,
+    "address": "Melumvegen 6",
+    "postalCode": "3730",
+    "city": "SKIEN",
+    "url": "https://www.rema.no/butikker/rema-1000-herkules/"
+  },
+  {
+    "id": "2091717",
+    "name": "REMA 1000 HERØYA",
+    "lat": 59.114499000,
+    "lon": 9.646148000,
+    "address": "Fjordgaten 29",
+    "postalCode": "3936",
+    "city": "PORSGRUNN",
+    "url": "https://www.rema.no/butikker/rema-1000-heroya/"
+  },
+  {
+    "id": "2091727",
+    "name": "REMA 1000 HESSENG",
+    "lat": 69.688166000,
+    "lon": 29.996151000,
+    "address": "E. K. Andersons vei 1",
+    "postalCode": "9912",
+    "city": "HESSENG",
+    "url": "https://www.rema.no/butikker/rema-1000-hesseng/"
+  },
+  {
+    "id": "2092007",
+    "name": "REMA 1000 HILLEVÅG",
+    "lat": 58.947037300,
+    "lon": 5.741977110,
+    "address": "Myrvangveien 6",
+    "postalCode": "4016",
+    "city": "STAVANGER",
+    "url": "https://www.rema.no/butikker/rema-1000-hillevag/"
+  },
+  {
+    "id": "2091816",
+    "name": "REMA 1000 HINNA",
+    "lat": 58.920853500,
+    "lon": 5.724775220,
+    "address": "Boganesveien 10",
+    "postalCode": "4020",
+    "city": "STAVANGER",
+    "url": "https://www.rema.no/butikker/rema-1000-hinna/"
+  },
+  {
+    "id": "2091797",
+    "name": "REMA 1000 HIS",
+    "lat": 58.434876000,
+    "lon": 8.743818000,
+    "address": "Kirkeveien 186",
+    "postalCode": "4817",
+    "city": "HIS",
+    "url": "https://www.rema.no/butikker/rema-1000-his/"
+  },
+  {
+    "id": "2091849",
+    "name": "REMA 1000 HITRA",
+    "lat": 63.600242800,
+    "lon": 8.975543200,
+    "address": "Oldervikveien 2",
+    "postalCode": "7240",
+    "city": "HITRA",
+    "url": "https://www.rema.no/butikker/rema-1000-hitra/"
+  },
+  {
+    "id": "2028178",
+    "name": "REMA 1000 HOFFSVEIEN",
+    "lat": 59.925744400,
+    "lon": 10.674830100,
+    "address": "Hoffsveien 10",
+    "postalCode": "0275",
+    "city": "OSLO",
+    "url": "https://www.rema.no/butikker/rema-1000-hoffsveien/"
+  },
+  {
+    "id": "2089331",
+    "name": "REMA 1000 HOKKSUND",
+    "lat": 59.772902000,
+    "lon": 9.907982000,
+    "address": "Vestre Brugate 2",
+    "postalCode": "3300",
+    "city": "HOKKSUND",
+    "url": "https://www.rema.no/butikker/rema-1000-hokksund/"
+  },
+  {
+    "id": "2091776",
+    "name": "REMA 1000 HOLMESTRAND",
+    "lat": 59.475084000,
+    "lon": 10.317557000,
+    "address": "Våleveien 1",
+    "postalCode": "3083",
+    "city": "HOLMESTRAND",
+    "url": "https://www.rema.no/butikker/rema-1000-holmestrand/"
+  },
+  {
+    "id": "2092009",
+    "name": "REMA 1000 HOLMLIA",
+    "lat": 59.831948000,
+    "lon": 10.796498000,
+    "address": "Holmliaveien 100",
+    "postalCode": "1250",
+    "city": "OSLO",
+    "url": "https://www.rema.no/butikker/rema-1000-holmlia/"
+  },
+  {
+    "id": "2093978",
+    "name": "REMA 1000 HOLT VESTVOLLEN",
+    "lat": 59.986018900,
+    "lon": 11.028043700,
+    "address": "Prost Stabels vei 26",
+    "postalCode": "2019",
+    "city": "SKEDSMOKORSET",
+    "url": "https://www.rema.no/butikker/rema-1000-holt-vestvollen/"
+  },
+  {
+    "id": "2091790",
+    "name": "REMA 1000 HOLTANDALEN",
+    "lat": 59.411122000,
+    "lon": 10.467574000,
+    "address": "Grønnligata 21B",
+    "postalCode": "3188",
+    "city": "HORTEN",
+    "url": "https://www.rema.no/butikker/rema-1000-holtandalen/"
+  },
+  {
+    "id": "2030673",
+    "name": "REMA 1000 HOMMELVIK",
+    "lat": 63.416478000,
+    "lon": 10.810015000,
+    "address": "Havnevegen 20",
+    "postalCode": "7550",
+    "city": "HOMMELVIK",
+    "url": "https://www.rema.no/butikker/rema-1000-hommelvik/"
+  },
+  {
+    "id": "2091920",
+    "name": "REMA 1000 HONNINGSVÅG",
+    "lat": 70.999605000,
+    "lon": 25.967407000,
+    "address": "Nordkappveien 28 B",
+    "postalCode": "9750",
+    "city": "HONNINGSVÅG",
+    "url": "https://www.rema.no/butikker/rema-1000-honningsvag/"
+  },
+  {
+    "id": "2091798",
+    "name": "REMA 1000 HOV",
+    "lat": 60.696935000,
+    "lon": 10.353276000,
+    "address": "HOVLANDSVEGEN 1A",
+    "postalCode": "2860",
+    "city": "HOV",
+    "url": "https://www.rema.no/butikker/rema-1000-hov/"
+  },
+  {
+    "id": "2100015",
+    "name": "REMA 1000 HOVDEN",
+    "lat": 59.560307900,
+    "lon": 7.352514200,
+    "address": "Hovdegrend 1",
+    "postalCode": "4755",
+    "city": "HOVDEN I SETESDAL",
+    "url": "https://www.rema.no/butikker/rema-1000-hovden/"
+  },
+  {
+    "id": "2083749",
+    "name": "REMA 1000 HOVE39",
+    "lat": 58.834043500,
+    "lon": 5.732585300,
+    "address": "Hoveveien 94",
+    "postalCode": "4306",
+    "city": "SANDNES",
+    "url": "https://www.rema.no/butikker/rema-1000-hove39/"
+  },
+  {
+    "id": "1554041",
+    "name": "REMA 1000 HOVENGA",
+    "lat": 59.148799000,
+    "lon": 9.662622000,
+    "address": "Augestadvegen 1",
+    "postalCode": "3914",
+    "city": "PORSGRUNN",
+    "url": "https://www.rema.no/butikker/rema-1000-hovenga/"
+  },
+  {
+    "id": "2048258",
+    "name": "REMA 1000 HOVIN",
+    "lat": 59.921463900,
+    "lon": 10.791878400,
+    "address": "Hovinveien 43A",
+    "postalCode": "0576",
+    "city": "OSLO",
+    "url": "https://www.rema.no/butikker/rema-1000-hovin/"
+  },
+  {
+    "id": "2069395",
+    "name": "REMA 1000 HOVSETER",
+    "lat": 59.949381400,
+    "lon": 10.653424500,
+    "address": "Hovseterveien 70-72",
+    "postalCode": "0768",
+    "city": "OSLO",
+    "url": "https://www.rema.no/butikker/rema-1000-hovseter/"
+  },
+  {
+    "id": "2091949",
+    "name": "REMA 1000 HUNDVÅG",
+    "lat": 58.993236600,
+    "lon": 5.729262060,
+    "address": "Hundvågveien 44",
+    "postalCode": "4085",
+    "city": "HUNDVÅG",
+    "url": "https://www.rema.no/butikker/rema-1000-hundvag/"
+  },
+  {
+    "id": "2091916",
+    "name": "REMA 1000 HUNNDALEN",
+    "lat": 60.784125000,
+    "lon": 10.645767000,
+    "address": "Cellulosevegen 2",
+    "postalCode": "2827",
+    "city": "HUNNDALEN",
+    "url": "https://www.rema.no/butikker/rema-1000-hunndalen/"
+  },
+  {
+    "id": "2072575",
+    "name": "REMA 1000 HUNSTAD",
+    "lat": 67.280953400,
+    "lon": 14.544750100,
+    "address": "Hunstadsentret 9",
+    "postalCode": "8022",
+    "city": "BODØ",
+    "url": "https://www.rema.no/butikker/rema-1000-hunstad/"
+  },
+  {
+    "id": "1505663",
+    "name": "REMA 1000 HURRAHØLET",
+    "lat": 59.584573000,
+    "lon": 11.134930000,
+    "address": "Langnesveien 2",
+    "postalCode": "1815",
+    "city": "ASKIM",
+    "url": "https://www.rema.no/butikker/rema-1000-hurraholet/"
+  },
+  {
+    "id": "1538909",
+    "name": "REMA 1000 HUSBYFARET",
+    "lat": 63.469118000,
+    "lon": 10.942966000,
+    "address": "Husbyfaret 4",
+    "postalCode": "7505",
+    "city": "STJØRDAL",
+    "url": "https://www.rema.no/butikker/rema-1000-husbyfaret/"
+  },
+  {
+    "id": "2093311",
+    "name": "REMA 1000 HUSMORGÅRDEN",
+    "lat": 58.271829800,
+    "lon": 7.971711100,
+    "address": "Sentrumsveien 64",
+    "postalCode": "4700",
+    "city": "VENNESLA",
+    "url": "https://www.rema.no/butikker/rema-1000-husmorgarden/"
+  },
+  {
+    "id": "2091956",
+    "name": "REMA 1000 HUSNES",
+    "lat": 59.862370700,
+    "lon": 5.758153960,
+    "address": "Opsangervegen 4",
+    "postalCode": "5460",
+    "city": "HUSNES",
+    "url": "https://www.rema.no/butikker/rema-1000-husnes/"
+  },
+  {
+    "id": "2087986",
+    "name": "REMA 1000 HVALER",
+    "lat": 59.106537000,
+    "lon": 10.905384000,
+    "address": "Fastlandsveien 20",
+    "postalCode": "1684",
+    "city": "VESTERØY",
+    "url": "https://www.rema.no/butikker/rema-1000-hvaler/"
+  },
+  {
+    "id": "2091724",
+    "name": "REMA 1000 HÅBAFJELL",
+    "lat": 58.825864100,
+    "lon": 5.755923920,
+    "address": "Håbafjellveien 4",
+    "postalCode": "4325",
+    "city": "SANDNES",
+    "url": "https://www.rema.no/butikker/rema-1000-habafjell/"
+  },
+  {
+    "id": "1553827",
+    "name": "REMA 1000 HÅLAND",
+    "lat": 58.721228600,
+    "lon": 5.654861260,
+    "address": "Hognestadvegen 90",
+    "postalCode": "4344",
+    "city": "BRYNE",
+    "url": "https://www.rema.no/butikker/rema-1000-haland/"
+  },
+  {
+    "id": "2091840",
+    "name": "REMA 1000 HØNENGATEN",
+    "lat": 60.172044000,
+    "lon": 10.261563000,
+    "address": "Hønegata 18A",
+    "postalCode": "3513",
+    "city": "HØNEFOSS",
+    "url": "https://www.rema.no/butikker/rema-1000-honengaten/"
+  },
+  {
+    "id": "2091991",
+    "name": "REMA 1000 HØVLERIET",
+    "lat": 59.120751000,
+    "lon": 11.377606000,
+    "address": "Walkers gate 8 A",
+    "postalCode": "1771",
+    "city": "HALDEN",
+    "url": "https://www.rema.no/butikker/rema-1000-hovleriet/"
+  },
+  {
+    "id": "2091853",
+    "name": "REMA 1000 ILA",
+    "lat": 59.925942700,
+    "lon": 10.745490400,
+    "address": "WALDEMAR THRANES GATE 25",
+    "postalCode": "0171",
+    "city": "OSLO",
+    "url": "https://www.rema.no/butikker/rema-1000-ila/"
+  },
+  {
+    "id": "2006190",
+    "name": "REMA 1000 ILSVIKA",
+    "lat": 63.431480000,
+    "lon": 10.358301000,
+    "address": "Mellomila 75",
+    "postalCode": "7018",
+    "city": "TRONDHEIM",
+    "url": "https://www.rema.no/butikker/rema-1000-ilsvika/"
+  },
+  {
+    "id": "1969702",
+    "name": "REMA 1000 INDERØY",
+    "lat": 63.873866000,
+    "lon": 11.297914000,
+    "address": "Nessjordet 1",
+    "postalCode": "7670",
+    "city": "INDERØY",
+    "url": "https://www.rema.no/butikker/rema-1000-inderoy/"
+  },
+  {
+    "id": "2092034",
+    "name": "REMA 1000 INDUSTRIGATA",
+    "lat": 59.926706500,
+    "lon": 10.721889900,
+    "address": "Industrigata 45",
+    "postalCode": "0357",
+    "city": "OSLO",
+    "url": "https://www.rema.no/butikker/rema-1000-industrigata/"
+  },
+  {
+    "id": "1538846",
+    "name": "REMA 1000 INNHAVET",
+    "lat": 67.963224800,
+    "lon": 15.928186300,
+    "address": "Hamarøyveien 3066",
+    "postalCode": "8260",
+    "city": "INNHAVET",
+    "url": "https://www.rema.no/butikker/rema-1000-innhavet/"
+  },
+  {
+    "id": "2091879",
+    "name": "REMA 1000 ISEVEIEN",
+    "lat": 59.269524100,
+    "lon": 11.162427700,
+    "address": "Iseveien",
+    "postalCode": "1738",
+    "city": "BORGENHAUGEN",
+    "url": "https://www.rema.no/butikker/rema-1000-iseveien/"
+  },
+  {
+    "id": "2012619",
+    "name": "REMA 1000 JESSHEIM",
+    "lat": 60.142971200,
+    "lon": 11.173361800,
+    "address": "Ringveien 4",
+    "postalCode": "2050",
+    "city": "JESSHEIM",
+    "url": "https://www.rema.no/butikker/rema-1000-jessheim/"
+  },
+  {
+    "id": "2092713",
+    "name": "REMA 1000 JEVNAKER",
+    "lat": 60.240821600,
+    "lon": 10.382360900,
+    "address": "Brugata 11A",
+    "postalCode": "3520",
+    "city": "JEVNAKER",
+    "url": "https://www.rema.no/butikker/rema-1000-jevnaker/"
+  },
+  {
+    "id": "2091968",
+    "name": "REMA 1000 JORDAL",
+    "lat": 59.908315900,
+    "lon": 10.779187700,
+    "address": "Jordalgata 2",
+    "postalCode": "0657",
+    "city": "OSLO",
+    "url": "https://www.rema.no/butikker/rema-1000-jordal/"
+  },
+  {
+    "id": "2091900",
+    "name": "REMA 1000 JØRPELAND",
+    "lat": 59.017147700,
+    "lon": 6.037987000,
+    "address": "Stålverksvegen 53",
+    "postalCode": "4100",
+    "city": "JØRPELAND",
+    "url": "https://www.rema.no/butikker/rema-1000-jorpeland/"
+  },
+  {
+    "id": "2091712",
+    "name": "REMA 1000 KALBAKKEN",
+    "lat": 59.952353200,
+    "lon": 10.867578900,
+    "address": "Trondheimsveien 391",
+    "postalCode": "0953",
+    "city": "OSLO",
+    "url": "https://www.rema.no/butikker/rema-1000-kalbakken/"
+  },
+  {
+    "id": "2092006",
+    "name": "REMA 1000 KALMARHUSET",
+    "lat": 60.393198000,
+    "lon": 5.318936000,
+    "address": "Jon Smørsgate 11",
+    "postalCode": "5011",
+    "city": "BERGEN",
+    "url": "https://www.rema.no/butikker/rema-1000-kalmarhuset/"
+  },
+  {
+    "id": "2069506",
+    "name": "REMA 1000 KALOSJEGATA",
+    "lat": 59.755895000,
+    "lon": 10.009117000,
+    "address": "Kalosjegata 88",
+    "postalCode": "3055",
+    "city": "KROKSTADELVA",
+    "url": "https://www.rema.no/butikker/rema-1000-kalosjegata/"
+  },
+  {
+    "id": "2091709",
+    "name": "REMA 1000 KANALEN",
+    "lat": 59.434442700,
+    "lon": 10.651124500,
+    "address": "Værftsgata 1",
+    "postalCode": "1511",
+    "city": "MOSS",
+    "url": "https://www.rema.no/butikker/rema-1000-kanalen/"
+  },
+  {
+    "id": "1553828",
+    "name": "REMA 1000 KANALVEIEN",
+    "lat": 59.952013000,
+    "lon": 11.045441000,
+    "address": "Kanalveien 1",
+    "postalCode": "2004",
+    "city": "LILLESTRØM",
+    "url": "https://www.rema.no/butikker/rema-1000-kanalveien/"
+  },
+  {
+    "id": "2068302",
+    "name": "REMA 1000 KANEBOGEN",
+    "lat": 68.779309000,
+    "lon": 16.565744000,
+    "address": "SKILLEVEIEN 5",
+    "postalCode": "9411",
+    "city": "HARSTAD",
+    "url": "https://www.rema.no/butikker/rema-1000-kanebogen/"
+  },
+  {
+    "id": "2091997",
+    "name": "REMA 1000 KARASJOK",
+    "lat": 69.473393000,
+    "lon": 25.514272000,
+    "address": "Fitnodatgeaidnu 16",
+    "postalCode": "9730",
+    "city": "KARASJOK",
+    "url": "https://www.rema.no/butikker/rema-1000-karasjok/"
+  },
+  {
+    "id": "2093371",
+    "name": "REMA 1000 KARIHAUGEN",
+    "lat": 59.935648500,
+    "lon": 10.928736400,
+    "address": "Per Krohgs vei 4",
+    "postalCode": "1065",
+    "city": "OSLO",
+    "url": "https://www.rema.no/butikker/rema-1000-karihaugen/"
+  },
+  {
+    "id": "2091859",
+    "name": "REMA 1000 KAUTOKEINO",
+    "lat": 69.004271000,
+    "lon": 23.042429000,
+    "address": "Suomaluodda 3",
+    "postalCode": "9520",
+    "city": "KAUTOKEINO",
+    "url": "https://www.rema.no/butikker/rema-1000-kautokeino/"
+  },
+  {
+    "id": "1552827",
+    "name": "REMA 1000 KILAMYRA",
+    "lat": 68.740144700,
+    "lon": 16.563269400,
+    "address": "Kilamyra 2",
+    "postalCode": "9415",
+    "city": "HARSTAD",
+    "url": "https://www.rema.no/butikker/rema-1000-kilamyra/"
+  },
+  {
+    "id": "2091721",
+    "name": "REMA 1000 KIRKEBY",
+    "lat": 60.783970000,
+    "lon": 10.691719000,
+    "address": "Ringvegen 5",
+    "postalCode": "2816",
+    "city": "GJØVIK",
+    "url": "https://www.rema.no/butikker/rema-1000-kirkeby/"
+  },
+  {
+    "id": "2091918",
+    "name": "REMA 1000 KJELSÅS",
+    "lat": 59.965843700,
+    "lon": 10.776370300,
+    "address": "Kjelsåsveien 160",
+    "postalCode": "0491",
+    "city": "OSLO",
+    "url": "https://www.rema.no/butikker/rema-1000-kjelsas/"
+  },
+  {
+    "id": "2098189",
+    "name": "REMA 1000 KJEMPEHAUGEN",
+    "lat": 60.732885200,
+    "lon": 10.615950900,
+    "address": "Storgata 71",
+    "postalCode": "2830",
+    "city": "RAUFOSS",
+    "url": "https://www.rema.no/butikker/rema-1000-kjempehaugen/"
+  },
+  {
+    "id": "2091739",
+    "name": "REMA 1000 KJERREIDVIKEN",
+    "lat": 60.341921000,
+    "lon": 5.246836000,
+    "address": "Kjerreidviken 1",
+    "postalCode": "5141",
+    "city": "FYLLINGSDALEN",
+    "url": "https://www.rema.no/butikker/rema-1000-kjerreidviken/"
+  },
+  {
+    "id": "2091921",
+    "name": "REMA 1000 KJØKKELVIK",
+    "lat": 60.381935000,
+    "lon": 5.229259000,
+    "address": "Nedbergeveien 7",
+    "postalCode": "5178",
+    "city": "LODDEFJORD",
+    "url": "https://www.rema.no/butikker/rema-1000-kjokkelvik/"
+  },
+  {
+    "id": "2055800",
+    "name": "REMA 1000 KJØRBEKK",
+    "lat": 59.174244000,
+    "lon": 9.616169000,
+    "address": "Kjørbekkdalen 14",
+    "postalCode": "3735",
+    "city": "SKIEN",
+    "url": "https://www.rema.no/butikker/rema-1000-kjorbekk/"
+  },
+  {
+    "id": "2092022",
+    "name": "REMA 1000 KLEPP",
+    "lat": 58.773348700,
+    "lon": 5.630176610,
+    "address": "Jærvegen 539",
+    "postalCode": "4350",
+    "city": "KLEPPE",
+    "url": "https://www.rema.no/butikker/rema-1000-klepp/"
+  },
+  {
+    "id": "2091950",
+    "name": "REMA 1000 KLEPPESTØ",
+    "lat": 60.406476000,
+    "lon": 5.219453000,
+    "address": "Holmedalen 2A",
+    "postalCode": "5300",
+    "city": "KLEPPESTØ",
+    "url": "https://www.rema.no/butikker/rema-1000-kleppesto/"
+  },
+  {
+    "id": "2092024",
+    "name": "REMA 1000 KLØFTA",
+    "lat": 60.076125000,
+    "lon": 11.136121000,
+    "address": "Trondheimsvegen - Kløfta 86",
+    "postalCode": "2040",
+    "city": "KLØFTA",
+    "url": "https://www.rema.no/butikker/rema-1000-klofta/"
+  },
+  {
+    "id": "2091887",
+    "name": "REMA 1000 KLØVERHUSET",
+    "lat": 60.394486000,
+    "lon": 5.323175000,
+    "address": "Strandgaten 13-15",
+    "postalCode": "5013",
+    "city": "BERGEN",
+    "url": "https://www.rema.no/butikker/rema-1000-kloverhuset/"
+  },
+  {
+    "id": "2091964",
+    "name": "REMA 1000 KNARVIK",
+    "lat": 60.546151000,
+    "lon": 5.286943000,
+    "address": "Kvassnesvegen 23",
+    "postalCode": "5914",
+    "city": "ISDALSTØ",
+    "url": "https://www.rema.no/butikker/rema-1000-knarvik/"
+  },
+  {
+    "id": "2092645",
+    "name": "REMA 1000 KNUDSENKVARTALET",
+    "lat": 60.349253800,
+    "lon": 5.283966090,
+    "address": "Hjalmar Brantingsvei 2A",
+    "postalCode": "5143",
+    "city": "FYLLINGSDALEN",
+    "url": "https://www.rema.no/butikker/rema-1000-knudsenkvartalet/"
+  },
+  {
+    "id": "2091827",
+    "name": "REMA 1000 KOKSTAD",
+    "lat": 60.291859000,
+    "lon": 5.261988000,
+    "address": "Kokstadvegen 15",
+    "postalCode": "5257",
+    "city": "KOKSTAD",
+    "url": "https://www.rema.no/butikker/rema-1000-kokstad/"
+  },
+  {
+    "id": "1973375",
+    "name": "REMA 1000 KOLBOTN",
+    "lat": 59.823296000,
+    "lon": 10.808804000,
+    "address": "Ormerudveien 82",
+    "postalCode": "1410",
+    "city": "KOLBOTN",
+    "url": "https://www.rema.no/butikker/rema-1000-kolbotn/"
+  },
+  {
+    "id": "2082513",
+    "name": "REMA 1000 KOLVEREID",
+    "lat": 64.865858100,
+    "lon": 11.605009000,
+    "address": "Feskarbyvegen 2",
+    "postalCode": "7970",
+    "city": "KOLVEREID",
+    "url": "https://www.rema.no/butikker/rema-1000-kolvereid/"
+  },
+  {
+    "id": "2068649",
+    "name": "REMA 1000 KONNERUD",
+    "lat": 59.718803000,
+    "lon": 10.145368000,
+    "address": "Jarlsbergveien 3",
+    "postalCode": "3032",
+    "city": "DRAMMEN",
+    "url": "https://www.rema.no/butikker/rema-1000-konnerud/"
+  },
+  {
+    "id": "2091810",
+    "name": "REMA 1000 KOPPERUD",
+    "lat": 60.776276000,
+    "lon": 10.676737000,
+    "address": "Kalkvegen 13",
+    "postalCode": "2818",
+    "city": "GJØVIK",
+    "url": "https://www.rema.no/butikker/rema-1000-kopperud/"
+  },
+  {
+    "id": "2091876",
+    "name": "REMA 1000 KORSEGÅRDEN",
+    "lat": 59.586216000,
+    "lon": 11.178616000,
+    "address": "Korsegårdveien 22",
+    "postalCode": "1809",
+    "city": "ASKIM",
+    "url": "https://www.rema.no/butikker/rema-1000-korsegarden/"
+  },
+  {
+    "id": "2062570",
+    "name": "REMA 1000 KORSKIRKEKVARTALET",
+    "lat": 60.394360000,
+    "lon": 5.327411000,
+    "address": "Nedre Korskirkeallmenningen 1A",
+    "postalCode": "5017",
+    "city": "BERGEN",
+    "url": "https://www.rema.no/butikker/rema-1000-korskirkekvartalet/"
+  },
+  {
+    "id": "2097197",
+    "name": "REMA 1000 KORSVOLL",
+    "lat": 59.963171600,
+    "lon": 10.765643300,
+    "address": "Maridalsveien 350",
+    "postalCode": "0881",
+    "city": "OSLO",
+    "url": "https://www.rema.no/butikker/rema-1000-korsvoll/"
+  },
+  {
+    "id": "2091925",
+    "name": "REMA 1000 KRAGERØ",
+    "lat": 58.871448000,
+    "lon": 9.375069000,
+    "address": "Dalaneveien 8",
+    "postalCode": "3772",
+    "city": "KRAGERØ",
+    "url": "https://www.rema.no/butikker/rema-1000-kragero/"
+  },
+  {
+    "id": "2092053",
+    "name": "REMA 1000 KRAGSGATE",
+    "lat": 58.719304000,
+    "lon": 9.226401000,
+    "address": "Kragsgate 54",
+    "postalCode": "4950",
+    "city": "RISØR",
+    "url": "https://www.rema.no/butikker/rema-1000-kragsgate/"
+  },
+  {
+    "id": "2012330",
+    "name": "REMA 1000 KROKDALSMYRA",
+    "lat": 67.270191100,
+    "lon": 15.395289200,
+    "address": "Terminalveien 7",
+    "postalCode": "8208",
+    "city": "FAUSKE",
+    "url": "https://www.rema.no/butikker/rema-1000-krokdalsmyra/"
+  },
+  {
+    "id": "1789705",
+    "name": "REMA 1000 KROPPANMARKA",
+    "lat": 63.382759000,
+    "lon": 10.377629000,
+    "address": "Okstadvegen 1",
+    "postalCode": "7075",
+    "city": "TILLER",
+    "url": "https://www.rema.no/butikker/rema-1000-kroppanmarka/"
+  },
+  {
+    "id": "2100126",
+    "name": "REMA 1000 KRÆMER BRYGGE",
+    "lat": 69.665596700,
+    "lon": 18.969072900,
+    "address": "Stakkevollvegen 33",
+    "postalCode": "9010",
+    "city": "TROMSØ",
+    "url": "https://www.rema.no/butikker/rema-1000-kraemer-brygge/"
+  },
+  {
+    "id": "2091977",
+    "name": "REMA 1000 KRØGENES",
+    "lat": 58.474786000,
+    "lon": 8.815901000,
+    "address": "Kystveien 244",
+    "postalCode": "4841",
+    "city": "ARENDAL",
+    "url": "https://www.rema.no/butikker/rema-1000-krogenes/"
+  },
+  {
+    "id": "2091885",
+    "name": "REMA 1000 KURUDSAND",
+    "lat": 60.189111000,
+    "lon": 11.988969000,
+    "address": "Glommengata 115",
+    "postalCode": "2211",
+    "city": "KONGSVINGER",
+    "url": "https://www.rema.no/butikker/rema-1000-kurudsand/"
+  },
+  {
+    "id": "1503483",
+    "name": "REMA 1000 KUVEN STASJON",
+    "lat": 60.192638000,
+    "lon": 5.464870000,
+    "address": "Byvegen 85",
+    "postalCode": "5200",
+    "city": "OS",
+    "url": "https://www.rema.no/butikker/rema-1000-kuven-stasjon/"
+  },
+  {
+    "id": "2091792",
+    "name": "REMA 1000 KVALA",
+    "lat": 59.437681300,
+    "lon": 5.268511350,
+    "address": "AUSTRHEIMVEGEN 10",
+    "postalCode": "5516",
+    "city": "HAUGESUND",
+    "url": "https://www.rema.no/butikker/rema-1000-kvala/"
+  },
+  {
+    "id": "2091750",
+    "name": "REMA 1000 KVALØYA",
+    "lat": 69.690006000,
+    "lon": 18.860323000,
+    "address": "Slettatorget 1",
+    "postalCode": "9100",
+    "city": "KVALØYSLETTA",
+    "url": "https://www.rema.no/butikker/rema-1000-kvaloya/"
+  },
+  {
+    "id": "2091954",
+    "name": "REMA 1000 KVERNEVIK",
+    "lat": 58.965053400,
+    "lon": 5.610716020,
+    "address": "Mjughøyden 11",
+    "postalCode": "4048",
+    "city": "HAFRSFJORD",
+    "url": "https://www.rema.no/butikker/rema-1000-kvernevik/"
+  },
+  {
+    "id": "2091756",
+    "name": "REMA 1000 KVINESDAL",
+    "lat": 58.320826800,
+    "lon": 6.963535600,
+    "address": "Austerdalsvegen 3",
+    "postalCode": "4480",
+    "city": "KVINESDAL",
+    "url": "https://www.rema.no/butikker/rema-1000-kvinesdal/"
+  },
+  {
+    "id": "2091767",
+    "name": "REMA 1000 KYRKSÆTERØRA",
+    "lat": 63.291500000,
+    "lon": 9.087340000,
+    "address": "Trondheimsveien 4",
+    "postalCode": "7200",
+    "city": "KYRKSÆTERØRA",
+    "url": "https://www.rema.no/butikker/rema-1000-kyrksaeterora/"
+  },
+  {
+    "id": "1555725",
+    "name": "REMA 1000 LADE ARENA",
+    "lat": 63.441738000,
+    "lon": 10.458264000,
+    "address": "Haakon VII gate 8-10",
+    "postalCode": "7041",
+    "city": "TRONDHEIM",
+    "url": "https://www.rema.no/butikker/rema-1000-lade-arena/"
+  },
+  {
+    "id": "2091794",
+    "name": "REMA 1000 LADETORGET",
+    "lat": 63.447424000,
+    "lon": 10.444826000,
+    "address": "Østmarkveien 2",
+    "postalCode": "7040",
+    "city": "TRONDHEIM",
+    "url": "https://www.rema.no/butikker/rema-1000-ladetorget/"
+  },
+  {
+    "id": "2093349",
+    "name": "REMA 1000 LAGUNEN",
+    "lat": 60.296991000,
+    "lon": 5.326130840,
+    "address": "Fanavegen 77",
+    "postalCode": "5239",
+    "city": "RÅDAL",
+    "url": "https://www.rema.no/butikker/rema-1000-lagunen/"
+  },
+  {
+    "id": "1553821",
+    "name": "REMA 1000 LAKKEGATA",
+    "lat": 59.917984200,
+    "lon": 10.763835800,
+    "address": "Herslebs gate 17 A",
+    "postalCode": "0561",
+    "city": "OSLO",
+    "url": "https://www.rema.no/butikker/rema-1000-lakkegata/"
+  },
+  {
+    "id": "2091940",
+    "name": "REMA 1000 LAKSELV",
+    "lat": 70.053011000,
+    "lon": 24.958768000,
+    "address": "Torgveien 17",
+    "postalCode": "9700",
+    "city": "LAKSELV",
+    "url": "https://www.rema.no/butikker/rema-1000-lakselv/"
+  },
+  {
+    "id": "2094256",
+    "name": "REMA 1000 LAKSEVÅG",
+    "lat": 60.389147200,
+    "lon": 5.289763800,
+    "address": "Johan Berentsens vei 4",
+    "postalCode": "5160",
+    "city": "LAKSEVÅG",
+    "url": "https://www.rema.no/butikker/rema-1000-laksevag/"
+  },
+  {
+    "id": "2091854",
+    "name": "REMA 1000 LAMBERTSETER",
+    "lat": 59.878954500,
+    "lon": 10.807226300,
+    "address": "CECILIE THORESENS VEI 1",
+    "postalCode": "1153",
+    "city": "OSLO",
+    "url": "https://www.rema.no/butikker/rema-1000-lambertseter/"
+  },
+  {
+    "id": "2092191",
+    "name": "REMA 1000 LAMPELAND",
+    "lat": 59.835218900,
+    "lon": 9.580526700,
+    "address": "Lyngdalsvegen 2",
+    "postalCode": "3623",
+    "city": "LAMPELAND",
+    "url": "https://www.rema.no/butikker/rema-1000-lampeland/"
+  },
+  {
+    "id": "1554283",
+    "name": "REMA 1000 LANDÅS",
+    "lat": 60.357943000,
+    "lon": 5.368618000,
+    "address": "Nattlandsveien 84",
+    "postalCode": "5094",
+    "city": "BERGEN",
+    "url": "https://www.rema.no/butikker/rema-1000-landas/"
+  },
+  {
+    "id": "2048950",
+    "name": "REMA 1000 LANGELAND",
+    "lat": 60.202068000,
+    "lon": 11.976355000,
+    "address": "Industrivegen 5",
+    "postalCode": "2212",
+    "city": "KONGSVINGER",
+    "url": "https://www.rema.no/butikker/rema-1000-langeland/"
+  },
+  {
+    "id": "2089330",
+    "name": "REMA 1000 LANGEVÅG",
+    "lat": 62.440874400,
+    "lon": 6.195033600,
+    "address": "Djupdalen 23",
+    "postalCode": "6030",
+    "city": "LANGEVÅG",
+    "url": "https://www.rema.no/butikker/rema-1000-langevag/"
+  },
+  {
+    "id": "2091736",
+    "name": "REMA 1000 LANGNESET",
+    "lat": 66.303856500,
+    "lon": 14.127879700,
+    "address": "Redvald Knudtsons vei 2",
+    "postalCode": "8624",
+    "city": "MO I RANA",
+    "url": "https://www.rema.no/butikker/rema-1000-langneset/"
+  },
+  {
+    "id": "2091841",
+    "name": "REMA 1000 LANGVEIEN",
+    "lat": 63.108351100,
+    "lon": 7.728718370,
+    "address": "Langveien 1",
+    "postalCode": "6509",
+    "city": "KRISTIANSUND N",
+    "url": "https://www.rema.no/butikker/rema-1000-langveien/"
+  },
+  {
+    "id": "2075014",
+    "name": "REMA 1000 LARS HILLES GATE",
+    "lat": 60.387117000,
+    "lon": 5.331501000,
+    "address": "Lars Hilles gate 19",
+    "postalCode": "5008",
+    "city": "BERGEN",
+    "url": "https://www.rema.no/butikker/rema-1000-lars-hilles-gate/"
+  },
+  {
+    "id": "2092027",
+    "name": "REMA 1000 LARVIK",
+    "lat": 59.066701000,
+    "lon": 10.040637000,
+    "address": "Gamle Kongevei 47",
+    "postalCode": "3269",
+    "city": "LARVIK",
+    "url": "https://www.rema.no/butikker/rema-1000-larvik/"
+  },
+  {
+    "id": "2091856",
+    "name": "REMA 1000 LEIRA",
+    "lat": 60.970757000,
+    "lon": 9.291608000,
+    "address": "Skulevegen 7",
+    "postalCode": "2920",
+    "city": "LEIRA I VALDRES",
+    "url": "https://www.rema.no/butikker/rema-1000-leira/"
+  },
+  {
+    "id": "2091834",
+    "name": "REMA 1000 LEKNES",
+    "lat": 68.144675500,
+    "lon": 13.619439600,
+    "address": "Idrettsgata 61",
+    "postalCode": "8370",
+    "city": "LEKNES",
+    "url": "https://www.rema.no/butikker/rema-1000-leknes/"
+  },
+  {
+    "id": "2083734",
+    "name": "REMA 1000 LENA",
+    "lat": 60.677592000,
+    "lon": 10.818323000,
+    "address": "Rådhusgata 27",
+    "postalCode": "2850",
+    "city": "LENA",
+    "url": "https://www.rema.no/butikker/rema-1000-lena/"
+  },
+  {
+    "id": "2091888",
+    "name": "REMA 1000 LIERBYEN",
+    "lat": 59.786768000,
+    "lon": 10.243223000,
+    "address": "Bruveien 2",
+    "postalCode": "3403",
+    "city": "LIER",
+    "url": "https://www.rema.no/butikker/rema-1000-lierbyen/"
+  },
+  {
+    "id": "1496444",
+    "name": "REMA 1000 LIERSTRANDA",
+    "lat": 59.749305000,
+    "lon": 10.246724000,
+    "address": "Lierstranda 93",
+    "postalCode": "3414",
+    "city": "LIERSTRANDA",
+    "url": "https://www.rema.no/butikker/rema-1000-lierstranda/"
+  },
+  {
+    "id": "2030170",
+    "name": "REMA 1000 LIJORDET",
+    "lat": 59.936828000,
+    "lon": 10.608173000,
+    "address": "Nordveien 43A",
+    "postalCode": "1359",
+    "city": "EIKSMARKA",
+    "url": "https://www.rema.no/butikker/rema-1000-lijordet/"
+  },
+  {
+    "id": "2077113",
+    "name": "REMA 1000 LILLO",
+    "lat": 59.953117000,
+    "lon": 10.774162400,
+    "address": "Betzy Kjelsbergs vei 9",
+    "postalCode": "0486",
+    "city": "OSLO",
+    "url": "https://www.rema.no/butikker/rema-1000-lillo/"
+  },
+  {
+    "id": "2044041",
+    "name": "REMA 1000 LINDEN PARK",
+    "lat": 59.407653000,
+    "lon": 10.484497000,
+    "address": "Strandparken 3",
+    "postalCode": "3187",
+    "city": "HORTEN",
+    "url": "https://www.rema.no/butikker/rema-1000-linden-park/"
+  },
+  {
+    "id": "2091824",
+    "name": "REMA 1000 LINDÅS",
+    "lat": 60.738158000,
+    "lon": 5.160473000,
+    "address": "Kolåsvegen 3",
+    "postalCode": "5955",
+    "city": "LINDÅS",
+    "url": "https://www.rema.no/butikker/rema-1000-lindas/"
+  },
+  {
+    "id": "2092020",
+    "name": "REMA 1000 LOMMEDALEN",
+    "lat": 59.955602000,
+    "lon": 10.480487000,
+    "address": "Slalåmveien 35",
+    "postalCode": "1350",
+    "city": "LOMMEDALEN",
+    "url": "https://www.rema.no/butikker/rema-1000-lommedalen/"
+  },
+  {
+    "id": "2091740",
+    "name": "REMA 1000 LONEVÅG",
+    "lat": 60.526881000,
+    "lon": 5.494099000,
+    "address": "Lonevåg Senter",
+    "postalCode": "5282",
+    "city": "LONEVÅG",
+    "url": "https://www.rema.no/butikker/rema-1000-lonevag/"
+  },
+  {
+    "id": "2091953",
+    "name": "REMA 1000 LUND",
+    "lat": 58.150411000,
+    "lon": 8.025503000,
+    "address": "Industrigata 4",
+    "postalCode": "4632",
+    "city": "KRISTIANSAND S",
+    "url": "https://www.rema.no/butikker/rema-1000-lund/"
+  },
+  {
+    "id": "2091914",
+    "name": "REMA 1000 LURA",
+    "lat": 58.873630400,
+    "lon": 5.726692120,
+    "address": "Stavangerveien 32a",
+    "postalCode": "4313",
+    "city": "SANDNES",
+    "url": "https://www.rema.no/butikker/rema-1000-lura/"
+  },
+  {
+    "id": "2091757",
+    "name": "REMA 1000 LYNGDAL",
+    "lat": 58.137320000,
+    "lon": 7.071908000,
+    "address": "BATTERIVEIEN SØR 3",
+    "postalCode": "4580",
+    "city": "LYNGDAL",
+    "url": "https://www.rema.no/butikker/rema-1000-lyngdal/"
+  },
+  {
+    "id": "1493941",
+    "name": "REMA 1000 LYNGHAUGPARKEN",
+    "lat": 60.356618000,
+    "lon": 5.293971000,
+    "address": "Dag Hammerskjøldsvei 1",
+    "postalCode": "5144",
+    "city": "FYLLINGSDALEN",
+    "url": "https://www.rema.no/butikker/rema-1000-lynghaugparken/"
+  },
+  {
+    "id": "1530979",
+    "name": "REMA 1000 LYNGÅSEN",
+    "lat": 66.007787500,
+    "lon": 12.578040500,
+    "address": "Novikveien 113B",
+    "postalCode": "8802",
+    "city": "SANDNESSJØEN",
+    "url": "https://www.rema.no/butikker/rema-1000-lyngasen/"
+  },
+  {
+    "id": "2100096",
+    "name": "REMA 1000 LYSEKLOSTER",
+    "lat": 60.216278100,
+    "lon": 5.405861200,
+    "address": "Lyseklostervegen 288",
+    "postalCode": "5215",
+    "city": "LYSEKLOSTER",
+    "url": "https://www.rema.no/butikker/rema-1000-lysekloster/"
+  },
+  {
+    "id": "1970161",
+    "name": "REMA 1000 LYSTLUNDEN",
+    "lat": 59.416812000,
+    "lon": 10.490972000,
+    "address": "Moloveien 1A",
+    "postalCode": "3187",
+    "city": "HORTEN",
+    "url": "https://www.rema.no/butikker/rema-1000-lystlunden/"
+  },
+  {
+    "id": "2070552",
+    "name": "REMA 1000 LØDINGEN",
+    "lat": 68.419835000,
+    "lon": 15.990261500,
+    "address": "Sjøvegen 52",
+    "postalCode": "8410",
+    "city": "LØDINGEN",
+    "url": "https://www.rema.no/butikker/rema-1000-lodingen/"
+  },
+  {
+    "id": "2012909",
+    "name": "REMA 1000 LØKEN",
+    "lat": 59.795326000,
+    "lon": 11.464389000,
+    "address": "Sandumveien 2",
+    "postalCode": "1960",
+    "city": "LØKEN",
+    "url": "https://www.rema.no/butikker/rema-1000-loken/"
+  },
+  {
+    "id": "2088005",
+    "name": "REMA 1000 LØKENHAGEN",
+    "lat": 59.917410000,
+    "lon": 10.957349000,
+    "address": "Bjarne Haugens gate 3",
+    "postalCode": "1475",
+    "city": "FINSTADJORDET",
+    "url": "https://www.rema.no/butikker/rema-1000-lokenhagen/"
+  },
+  {
+    "id": "2091895",
+    "name": "REMA 1000 LØKKEMYRA",
+    "lat": 63.108925100,
+    "lon": 7.785732400,
+    "address": "Løkkemyrveien 2",
+    "postalCode": "6517",
+    "city": "KRISTIANSUND N",
+    "url": "https://www.rema.no/butikker/rema-1000-lokkemyra/"
+  },
+  {
+    "id": "2043447",
+    "name": "REMA 1000 LØRENSKOG STASJONSBY",
+    "lat": 59.944185900,
+    "lon": 10.950415700,
+    "address": "Haneborgveien 12",
+    "postalCode": "1470",
+    "city": "LØRENSKOG",
+    "url": "https://www.rema.no/butikker/rema-1000-lorenskog-stasjonsby/"
+  },
+  {
+    "id": "1515195",
+    "name": "REMA 1000 LØRENVEIEN",
+    "lat": 59.931720700,
+    "lon": 10.789367900,
+    "address": "Lørenveien 36 A",
+    "postalCode": "0585",
+    "city": "OSLO",
+    "url": "https://www.rema.no/butikker/rema-1000-lorenveien/"
+  },
+  {
+    "id": "2091989",
+    "name": "REMA 1000 LØTEN",
+    "lat": 60.821374000,
+    "lon": 11.337529000,
+    "address": "Stasjonsvegen 3A",
+    "postalCode": "2340",
+    "city": "LØTEN",
+    "url": "https://www.rema.no/butikker/rema-1000-loten/"
+  },
+  {
+    "id": "2091738",
+    "name": "REMA 1000 MADLAKROSSEN",
+    "lat": 58.952581400,
+    "lon": 5.680379870,
+    "address": "Madlakrossen 9 a",
+    "postalCode": "4042",
+    "city": "HAFRSFJORD",
+    "url": "https://www.rema.no/butikker/rema-1000-madlakrossen/"
+  },
+  {
+    "id": "2099072",
+    "name": "REMA 1000 MADSEBAKKEN",
+    "lat": 59.674145000,
+    "lon": 9.675945700,
+    "address": "Lurdalsveien 90",
+    "postalCode": "3612",
+    "city": "KONGSBERG",
+    "url": "https://www.rema.no/butikker/rema-1000-madsebakken/"
+  },
+  {
+    "id": "1552829",
+    "name": "REMA 1000 MAJORSTUA",
+    "lat": 59.929796200,
+    "lon": 10.713673400,
+    "address": "Sørkedalsveien 1A",
+    "postalCode": "0369",
+    "city": "OSLO",
+    "url": "https://www.rema.no/butikker/rema-1000-majorstua/"
+  },
+  {
+    "id": "2091758",
+    "name": "REMA 1000 MANDAL",
+    "lat": 58.029162000,
+    "lon": 7.460065000,
+    "address": "Marnarveien 33",
+    "postalCode": "4517",
+    "city": "MANDAL",
+    "url": "https://www.rema.no/butikker/rema-1000-mandal/"
+  },
+  {
+    "id": "2091927",
+    "name": "REMA 1000 MANGER",
+    "lat": 60.641218300,
+    "lon": 5.044069100,
+    "address": "Radøyvegen 1675",
+    "postalCode": "5936",
+    "city": "MANGER",
+    "url": "https://www.rema.no/butikker/rema-1000-manger/"
+  },
+  {
+    "id": "2091901",
+    "name": "REMA 1000 MARIERO",
+    "lat": 58.935469400,
+    "lon": 5.742462270,
+    "address": "Langflåtveien 29",
+    "postalCode": "4017",
+    "city": "STAVANGER",
+    "url": "https://www.rema.no/butikker/rema-1000-mariero/"
+  },
+  {
+    "id": "2091866",
+    "name": "REMA 1000 MARIKOLLEN",
+    "lat": 60.486543000,
+    "lon": 5.268875000,
+    "address": "Slettestølsvegen 24",
+    "postalCode": "5136",
+    "city": "MJØLKERÅEN",
+    "url": "https://www.rema.no/butikker/rema-1000-marikollen/"
+  },
+  {
+    "id": "2096962",
+    "name": "REMA 1000 MARIKOLLEN TORG",
+    "lat": 59.923350100,
+    "lon": 11.064240600,
+    "address": "Tangerudvegen 1 D",
+    "postalCode": "2008",
+    "city": "FJERDINGBY",
+    "url": "https://www.rema.no/butikker/rema-1000-marikollen-torg/"
+  },
+  {
+    "id": "1548400",
+    "name": "REMA 1000 MARKEN",
+    "lat": 60.391129000,
+    "lon": 5.331912000,
+    "address": "Marken 34",
+    "postalCode": "5017",
+    "city": "BERGEN",
+    "url": "https://www.rema.no/butikker/rema-1000-marken/"
+  },
+  {
+    "id": "2057716",
+    "name": "REMA 1000 MAURA",
+    "lat": 60.258501000,
+    "lon": 11.035324000,
+    "address": "Mauravegen 4",
+    "postalCode": "2032",
+    "city": "MAURA",
+    "url": "https://www.rema.no/butikker/rema-1000-maura/"
+  },
+  {
+    "id": "2091741",
+    "name": "REMA 1000 MAXIS",
+    "lat": 58.454477000,
+    "lon": 8.747214000,
+    "address": "Vesterveien 44",
+    "postalCode": "4839",
+    "city": "ARENDAL",
+    "url": "https://www.rema.no/butikker/rema-1000-maxis/"
+  },
+  {
+    "id": "2083788",
+    "name": "REMA 1000 MEIERIGATA",
+    "lat": 69.227779000,
+    "lon": 17.977603000,
+    "address": "Meierigata 2",
+    "postalCode": "9300",
+    "city": "FINNSNES",
+    "url": "https://www.rema.no/butikker/rema-1000-meierigata/"
+  },
+  {
+    "id": "2098036",
+    "name": "REMA 1000 MEIERIKVARTALET",
+    "lat": 59.956134800,
+    "lon": 11.050525600,
+    "address": "Sørumsgata 5",
+    "postalCode": "2000",
+    "city": "LILLESTRØM",
+    "url": "https://www.rema.no/butikker/rema-1000-meierikvartalet/"
+  },
+  {
+    "id": "1552830",
+    "name": "REMA 1000 MELBU",
+    "lat": 68.501380900,
+    "lon": 14.814027600,
+    "address": "Neptunveien 2",
+    "postalCode": "8445",
+    "city": "MELBU",
+    "url": "https://www.rema.no/butikker/rema-1000-melbu/"
+  },
+  {
+    "id": "1548850",
+    "name": "REMA 1000 MELHUS TORG",
+    "lat": 63.285553000,
+    "lon": 10.280222000,
+    "address": "Per Bortens veg 3",
+    "postalCode": "7224",
+    "city": "MELHUS",
+    "url": "https://www.rema.no/butikker/rema-1000-melhus-torg/"
+  },
+  {
+    "id": "2029563",
+    "name": "REMA 1000 MELKEPLASSEN",
+    "lat": 60.371350300,
+    "lon": 5.302895630,
+    "address": "Øvre Fyllingsveien 77",
+    "postalCode": "5161",
+    "city": "LAKSEVÅG",
+    "url": "https://www.rema.no/butikker/rema-1000-melkeplassen/"
+  },
+  {
+    "id": "2092033",
+    "name": "REMA 1000 MELLOMBØLGEN",
+    "lat": 59.866259600,
+    "lon": 10.821896300,
+    "address": "Mellombølgen 141",
+    "postalCode": "1157",
+    "city": "OSLO",
+    "url": "https://www.rema.no/butikker/rema-1000-mellombolgen/"
+  },
+  {
+    "id": "2098174",
+    "name": "REMA 1000 MENSTAD",
+    "lat": 59.170131900,
+    "lon": 9.645220800,
+    "address": "Gunnar Knudsens veg 64",
+    "postalCode": "3712",
+    "city": "SKIEN",
+    "url": "https://www.rema.no/butikker/rema-1000-menstad/"
+  },
+  {
+    "id": "2088299",
+    "name": "REMA 1000 MERÅKER",
+    "lat": 63.416845100,
+    "lon": 11.739081400,
+    "address": "Mellomriksveien 4869",
+    "postalCode": "7530",
+    "city": "MERÅKER",
+    "url": "https://www.rema.no/butikker/rema-1000-meraker/"
+  },
+  {
+    "id": "1765647",
+    "name": "REMA 1000 METRO SENTER",
+    "lat": 59.927111000,
+    "lon": 10.962492000,
+    "address": "Kulturhusgata 2",
+    "postalCode": "1473",
+    "city": "LØRENSKOG",
+    "url": "https://www.rema.no/butikker/rema-1000-metro-senter/"
+  },
+  {
+    "id": "2091960",
+    "name": "REMA 1000 MIDTUN",
+    "lat": 60.323546000,
+    "lon": 5.369618000,
+    "address": "Sanddalsringen 1",
+    "postalCode": "5225",
+    "city": "NESTTUN",
+    "url": "https://www.rema.no/butikker/rema-1000-midtun/"
+  },
+  {
+    "id": "2075744",
+    "name": "REMA 1000 MINDE",
+    "lat": 60.369968000,
+    "lon": 5.341864000,
+    "address": "Kanalveien 5",
+    "postalCode": "5068",
+    "city": "BERGEN",
+    "url": "https://www.rema.no/butikker/rema-1000-minde/"
+  },
+  {
+    "id": "2091795",
+    "name": "REMA 1000 MJØNDALEN",
+    "lat": 59.750731000,
+    "lon": 10.008203000,
+    "address": "Arbeidergata 32",
+    "postalCode": "3050",
+    "city": "MJØNDALEN",
+    "url": "https://www.rema.no/butikker/rema-1000-mjondalen/"
+  },
+  {
+    "id": "2091746",
+    "name": "REMA 1000 MOA",
+    "lat": 62.466112300,
+    "lon": 6.355641890,
+    "address": "Langelandsvegen 51",
+    "postalCode": "6010",
+    "city": "ÅLESUND",
+    "url": "https://www.rema.no/butikker/rema-1000-moa/"
+  },
+  {
+    "id": "1536925",
+    "name": "REMA 1000 MOAN",
+    "lat": 63.733504000,
+    "lon": 11.283830000,
+    "address": "Moafjæra 16",
+    "postalCode": "7600",
+    "city": "LEVANGER",
+    "url": "https://www.rema.no/butikker/rema-1000-moan/"
+  },
+  {
+    "id": "2098050",
+    "name": "REMA 1000 MOBERG",
+    "lat": 60.180447000,
+    "lon": 5.453018300,
+    "address": "Kuvågvegen 5",
+    "postalCode": "5209",
+    "city": "OS",
+    "url": "https://www.rema.no/butikker/rema-1000-moberg/"
+  },
+  {
+    "id": "2091994",
+    "name": "REMA 1000 MOELV",
+    "lat": 60.928994600,
+    "lon": 10.701849900,
+    "address": "Storgata 113B",
+    "postalCode": "2390",
+    "city": "MOELV",
+    "url": "https://www.rema.no/butikker/rema-1000-moelv/"
+  },
+  {
+    "id": "2091957",
+    "name": "REMA 1000 MOFLATA",
+    "lat": 59.191337000,
+    "lon": 9.588162000,
+    "address": "Maribakkane 2",
+    "postalCode": "3728",
+    "city": "SKIEN",
+    "url": "https://www.rema.no/butikker/rema-1000-moflata/"
+  },
+  {
+    "id": "1540810",
+    "name": "REMA 1000 MOGATA",
+    "lat": 59.939050100,
+    "lon": 10.753389900,
+    "address": "Kristiansands gate 12C",
+    "postalCode": "0463",
+    "city": "OSLO",
+    "url": "https://www.rema.no/butikker/rema-1000-mogata/"
+  },
+  {
+    "id": "2091969",
+    "name": "REMA 1000 MOHOLT",
+    "lat": 63.409956700,
+    "lon": 10.438919200,
+    "address": "Brøsetvegen 177",
+    "postalCode": "7050",
+    "city": "TRONDHEIM",
+    "url": "https://www.rema.no/butikker/rema-1000-moholt/"
+  },
+  {
+    "id": "2094217",
+    "name": "REMA 1000 MOLDEGÅRD",
+    "lat": 62.739119500,
+    "lon": 7.185778570,
+    "address": "Oscar Hanssens veg 11",
+    "postalCode": "6415",
+    "city": "MOLDE",
+    "url": "https://www.rema.no/butikker/rema-1000-moldegard/"
+  },
+  {
+    "id": "2077028",
+    "name": "REMA 1000 MONGSTAD",
+    "lat": 60.797019000,
+    "lon": 5.009883000,
+    "address": "Mongstadvegen 1050",
+    "postalCode": "5954",
+    "city": "MONGSTAD",
+    "url": "https://www.rema.no/butikker/rema-1000-mongstad/"
+  },
+  {
+    "id": "2100558",
+    "name": "REMA 1000 MORTENSRUD",
+    "lat": 59.848419500,
+    "lon": 10.829194800,
+    "address": "Lofsrudveien 6",
+    "postalCode": "1281",
+    "city": "OSLO",
+    "url": "https://www.rema.no/butikker/rema-1000-mortensrud/"
+  },
+  {
+    "id": "1552831",
+    "name": "REMA 1000 MORVIK",
+    "lat": 60.474311000,
+    "lon": 5.265761000,
+    "address": "Slettevikvegen 1",
+    "postalCode": "5124",
+    "city": "MORVIK",
+    "url": "https://www.rema.no/butikker/rema-1000-morvik/"
+  },
+  {
+    "id": "2091869",
+    "name": "REMA 1000 MOSBY",
+    "lat": 58.215567000,
+    "lon": 7.922838000,
+    "address": "Setesdalsveien 435",
+    "postalCode": "4619",
+    "city": "MOSBY",
+    "url": "https://www.rema.no/butikker/rema-1000-mosby/"
+  },
+  {
+    "id": "2088006",
+    "name": "REMA 1000 MOSJØEN",
+    "lat": 65.841234300,
+    "lon": 13.188508200,
+    "address": "Dolstadgata 19",
+    "postalCode": "8663",
+    "city": "MOSJØEN",
+    "url": "https://www.rema.no/butikker/rema-1000-mosjoen/"
+  },
+  {
+    "id": "2028276",
+    "name": "REMA 1000 MOSSEPORTEN",
+    "lat": 59.446244000,
+    "lon": 10.703235000,
+    "address": "Patterødveien 2",
+    "postalCode": "1599",
+    "city": "MOSS",
+    "url": "https://www.rema.no/butikker/rema-1000-mosseporten/"
+  },
+  {
+    "id": "2091924",
+    "name": "REMA 1000 MOSSESKOGEN",
+    "lat": 59.445782000,
+    "lon": 10.682704000,
+    "address": "Osloveien 37",
+    "postalCode": "1534",
+    "city": "MOSS",
+    "url": "https://www.rema.no/butikker/rema-1000-mosseskogen/"
+  },
+  {
+    "id": "2096957",
+    "name": "REMA 1000 MOSVANNET",
+    "lat": 58.952464000,
+    "lon": 5.706518300,
+    "address": "Tjensvollveien 1",
+    "postalCode": "4021",
+    "city": "STAVANGER",
+    "url": "https://www.rema.no/butikker/rema-1000-mosvannet/"
+  },
+  {
+    "id": "2099969",
+    "name": "REMA 1000 MUSTADHAGEN",
+    "lat": 60.792586200,
+    "lon": 10.694199800,
+    "address": "Strandgata 16",
+    "postalCode": "2815",
+    "city": "GJØVIK",
+    "url": "https://www.rema.no/butikker/rema-1000-mustadhagen/"
+  },
+  {
+    "id": "2083672",
+    "name": "REMA 1000 MYKLEBUST",
+    "lat": 58.945985600,
+    "lon": 5.580349940,
+    "address": "Alvaveien 33",
+    "postalCode": "4057",
+    "city": "TANANGER",
+    "url": "https://www.rema.no/butikker/rema-1000-myklebust/"
+  },
+  {
+    "id": "2091917",
+    "name": "REMA 1000 MYRE",
+    "lat": 68.914587700,
+    "lon": 15.081464800,
+    "address": "Storgata 30",
+    "postalCode": "8430",
+    "city": "MYRE",
+    "url": "https://www.rema.no/butikker/rema-1000-myre/"
+  },
+  {
+    "id": "2091974",
+    "name": "REMA 1000 MYRENE",
+    "lat": 58.462605500,
+    "lon": 8.751562760,
+    "address": "Myreneveien 16",
+    "postalCode": "4847",
+    "city": "ARENDAL",
+    "url": "https://www.rema.no/butikker/rema-1000-myrene/"
+  },
+  {
+    "id": "2091735",
+    "name": "REMA 1000 MYRHOLTET",
+    "lat": 60.345846800,
+    "lon": 5.271705690,
+    "address": "Myrholtet 131",
+    "postalCode": "5142",
+    "city": "FYLLINGSDALEN",
+    "url": "https://www.rema.no/butikker/rema-1000-myrholtet/"
+  },
+  {
+    "id": "2091844",
+    "name": "REMA 1000 MYSEN",
+    "lat": 59.552426000,
+    "lon": 11.340832000,
+    "address": "Opsahlveien 4",
+    "postalCode": "1850",
+    "city": "MYSEN",
+    "url": "https://www.rema.no/butikker/rema-1000-mysen/"
+  },
+  {
+    "id": "2092015",
+    "name": "REMA 1000 MÅLØY BRYGGE",
+    "lat": 61.935981000,
+    "lon": 5.115643000,
+    "address": "Sjøgata, Måløy Brygge",
+    "postalCode": "6700",
+    "city": "MÅLØY",
+    "url": "https://www.rema.no/butikker/rema-1000-maloy-brygge/"
+  },
+  {
+    "id": "1544970",
+    "name": "REMA 1000 MØLLENBERG",
+    "lat": 63.434241000,
+    "lon": 10.414849700,
+    "address": "Rosenborg gate 1",
+    "postalCode": "7043",
+    "city": "TRONDHEIM",
+    "url": "https://www.rema.no/butikker/rema-1000-mollenberg/"
+  },
+  {
+    "id": "2099103",
+    "name": "REMA 1000 MØLLHAUSEN TORG",
+    "lat": 59.926912100,
+    "lon": 10.677038900,
+    "address": "Hovfaret 17",
+    "postalCode": "0275",
+    "city": "OSLO",
+    "url": "https://www.rema.no/butikker/rema-1000-mollhausen-torg/"
+  },
+  {
+    "id": "2091860",
+    "name": "REMA 1000 NADDERUD",
+    "lat": 59.928658800,
+    "lon": 10.588707900,
+    "address": "Øygardveien 80A",
+    "postalCode": "1357",
+    "city": "BEKKESTUA",
+    "url": "https://www.rema.no/butikker/rema-1000-nadderud/"
+  },
+  {
+    "id": "2051760",
+    "name": "REMA 1000 NAMSOS",
+    "lat": 64.467456000,
+    "lon": 11.504728000,
+    "address": "SØREN R THORNÆS VEG 19",
+    "postalCode": "7800",
+    "city": "NAMSOS",
+    "url": "https://www.rema.no/butikker/rema-1000-namsos/"
+  },
+  {
+    "id": "2030119",
+    "name": "REMA 1000 NANNESTAD",
+    "lat": 60.220385000,
+    "lon": 11.015062000,
+    "address": "Ekervegen 2A",
+    "postalCode": "2030",
+    "city": "NANNESTAD",
+    "url": "https://www.rema.no/butikker/rema-1000-nannestad/"
+  },
+  {
+    "id": "2100438",
+    "name": "REMA 1000 NARDOCENTERET",
+    "lat": 63.403012100,
+    "lon": 10.427636400,
+    "address": "Hans Baucks veg 1",
+    "postalCode": "7033",
+    "city": "TRONDHEIM",
+    "url": "https://www.rema.no/butikker/rema-1000-nardocenteret/"
+  },
+  {
+    "id": "2091826",
+    "name": "REMA 1000 NATTLAND",
+    "lat": 60.351035000,
+    "lon": 5.368903000,
+    "address": "Nattlandsveien 126",
+    "postalCode": "5094",
+    "city": "BERGEN",
+    "url": "https://www.rema.no/butikker/rema-1000-nattland/"
+  },
+  {
+    "id": "1658931",
+    "name": "REMA 1000 NEDENES",
+    "lat": 58.417459000,
+    "lon": 8.700404000,
+    "address": "Vesterveien 737",
+    "postalCode": "4823",
+    "city": "NEDENES",
+    "url": "https://www.rema.no/butikker/rema-1000-nedenes/"
+  },
+  {
+    "id": "2091801",
+    "name": "REMA 1000 NEDRE ROMMEN",
+    "lat": 59.963184700,
+    "lon": 10.908105100,
+    "address": "Nedre Rommen 1",
+    "postalCode": "0988",
+    "city": "OSLO",
+    "url": "https://www.rema.no/butikker/rema-1000-nedre-rommen/"
+  },
+  {
+    "id": "2091911",
+    "name": "REMA 1000 NESBRU",
+    "lat": 59.862631000,
+    "lon": 10.487873000,
+    "address": "HOLMQUISTVEIEN 1",
+    "postalCode": "1394",
+    "city": "NESBRU",
+    "url": "https://www.rema.no/butikker/rema-1000-nesbru/"
+  },
+  {
+    "id": "2068665",
+    "name": "REMA 1000 NESBYEN",
+    "lat": 60.568184000,
+    "lon": 9.103530000,
+    "address": "RUKKEDALSVEGEN 45",
+    "postalCode": "3540",
+    "city": "NESBYEN",
+    "url": "https://www.rema.no/butikker/rema-1000-nesbyen/"
+  },
+  {
+    "id": "2007221",
+    "name": "REMA 1000 NESKOLLEN",
+    "lat": 60.123964000,
+    "lon": 11.339960000,
+    "address": "Melkevegen 2",
+    "postalCode": "2165",
+    "city": "HVAM",
+    "url": "https://www.rema.no/butikker/rema-1000-neskollen/"
+  },
+  {
+    "id": "2091766",
+    "name": "REMA 1000 NESODDEN",
+    "lat": 59.835208000,
+    "lon": 10.641810000,
+    "address": "Bjørnemyrveien 1",
+    "postalCode": "1453",
+    "city": "BJØRNEMYR",
+    "url": "https://www.rema.no/butikker/rema-1000-nesodden/"
+  },
+  {
+    "id": "1664641",
+    "name": "REMA 1000 NIDARVOLL",
+    "lat": 63.399131000,
+    "lon": 10.403001000,
+    "address": "Sluppenvegen 2",
+    "postalCode": "7037",
+    "city": "TRONDHEIM",
+    "url": "https://www.rema.no/butikker/rema-1000-nidarvoll/"
+  },
+  {
+    "id": "2091707",
+    "name": "REMA 1000 NITTEDAL",
+    "lat": 60.045872000,
+    "lon": 10.881101000,
+    "address": "Mattias Skytters vei 165",
+    "postalCode": "1482",
+    "city": "NITTEDAL",
+    "url": "https://www.rema.no/butikker/rema-1000-nittedal/"
+  },
+  {
+    "id": "2091915",
+    "name": "REMA 1000 NORDFJORDEID",
+    "lat": 61.907868000,
+    "lon": 5.986003000,
+    "address": "Sjøgata 19",
+    "postalCode": "6770",
+    "city": "NORDFJORDEID",
+    "url": "https://www.rema.no/butikker/rema-1000-nordfjordeid/"
+  },
+  {
+    "id": "1510643",
+    "name": "REMA 1000 NORDKJOSBOTN",
+    "lat": 69.215976000,
+    "lon": 19.555157000,
+    "address": "Sentrumsveien 4",
+    "postalCode": "9040",
+    "city": "NORDKJOSBOTN",
+    "url": "https://www.rema.no/butikker/rema-1000-nordkjosbotn/"
+  },
+  {
+    "id": "1974291",
+    "name": "REMA 1000 NORDSIA",
+    "lat": 64.018980000,
+    "lon": 11.491518000,
+    "address": "BOGAVEGEN 5",
+    "postalCode": "7725",
+    "city": "STEINKJER",
+    "url": "https://www.rema.no/butikker/rema-1000-nordsia/"
+  },
+  {
+    "id": "2097910",
+    "name": "REMA 1000 NORDÅSVEGEN",
+    "lat": 60.886864300,
+    "lon": 10.947978100,
+    "address": "Mausetvegen 4",
+    "postalCode": "2382",
+    "city": "BRUMUNDDAL",
+    "url": "https://www.rema.no/butikker/rema-1000-nordasvegen/"
+  },
+  {
+    "id": "2100662",
+    "name": "REMA 1000 NORESUND",
+    "lat": 60.180466700,
+    "lon": 9.624855100,
+    "address": "Nedre Rudsveien 1",
+    "postalCode": "3536",
+    "city": "NORESUND",
+    "url": "https://www.rema.no/butikker/rema-1000-noresund/"
+  },
+  {
+    "id": "2091907",
+    "name": "REMA 1000 NORHEIM",
+    "lat": 59.377547900,
+    "lon": 5.304943270,
+    "address": "Austbøvegen 16",
+    "postalCode": "5542",
+    "city": "KARMSUND",
+    "url": "https://www.rema.no/butikker/rema-1000-norheim/"
+  },
+  {
+    "id": "2092001",
+    "name": "REMA 1000 NORHEIMSUND",
+    "lat": 60.370478000,
+    "lon": 6.156643000,
+    "address": "Hardangerfjordvegen 91",
+    "postalCode": "5600",
+    "city": "NORHEIMSUND",
+    "url": "https://www.rema.no/butikker/rema-1000-norheimsund/"
+  },
+  {
+    "id": "2091820",
+    "name": "REMA 1000 NOTODDEN",
+    "lat": 59.558222000,
+    "lon": 9.257911000,
+    "address": "Birkelands gate 3",
+    "postalCode": "3674",
+    "city": "NOTODDEN",
+    "url": "https://www.rema.no/butikker/rema-1000-notodden/"
+  },
+  {
+    "id": "2091902",
+    "name": "REMA 1000 NYGÅRD",
+    "lat": 60.385350000,
+    "lon": 5.271048000,
+    "address": "Gravdalsveien 4",
+    "postalCode": "5165",
+    "city": "LAKSEVÅG",
+    "url": "https://www.rema.no/butikker/rema-1000-nygard/"
+  },
+  {
+    "id": "2091868",
+    "name": "REMA 1000 NYGÅRDSGATEN",
+    "lat": 60.388588000,
+    "lon": 5.326130000,
+    "address": "Nygårdsgaten 17",
+    "postalCode": "5015",
+    "city": "BERGEN",
+    "url": "https://www.rema.no/butikker/rema-1000-nygardsgaten/"
+  },
+  {
+    "id": "2091882",
+    "name": "REMA 1000 NYRUD",
+    "lat": 65.833934700,
+    "lon": 13.212048100,
+    "address": "Nyrudveien 1",
+    "postalCode": "8657",
+    "city": "MOSJØEN",
+    "url": "https://www.rema.no/butikker/rema-1000-nyrud/"
+  },
+  {
+    "id": "2096958",
+    "name": "REMA 1000 NÆRBØ",
+    "lat": 58.669264500,
+    "lon": 5.642408800,
+    "address": "Torlandsvegen 1",
+    "postalCode": "4365",
+    "city": "NÆRBØ",
+    "url": "https://www.rema.no/butikker/rema-1000-naerbo/"
+  },
+  {
+    "id": "2091909",
+    "name": "REMA 1000 OLAV TRYGGVASONSGATE",
+    "lat": 63.433169000,
+    "lon": 10.399870000,
+    "address": "Olav Tryggvasonsgate 15",
+    "postalCode": "7011",
+    "city": "TRONDHEIM",
+    "url": "https://www.rema.no/butikker/rema-1000-olav-tryggvasonsgate/"
+  },
+  {
+    "id": "2056318",
+    "name": "REMA 1000 OLAVSGATE",
+    "lat": 59.054227000,
+    "lon": 10.031486000,
+    "address": "Olavs gate 11",
+    "postalCode": "3256",
+    "city": "LARVIK",
+    "url": "https://www.rema.no/butikker/rema-1000-olavsgate/"
+  },
+  {
+    "id": "2091754",
+    "name": "REMA 1000 OLRUD CITY HAMAR",
+    "lat": 60.830340000,
+    "lon": 11.066448000,
+    "address": "Kårtorpvegen 1",
+    "postalCode": "2320",
+    "city": "FURNES",
+    "url": "https://www.rema.no/butikker/rema-1000-olrud-city-hamar/"
+  },
+  {
+    "id": "2030017",
+    "name": "REMA 1000 OLSRØD PARK",
+    "lat": 59.275104000,
+    "lon": 10.451185000,
+    "address": "Gauterødveien 6 B",
+    "postalCode": "3154",
+    "city": "TOLVSRØD",
+    "url": "https://www.rema.no/butikker/rema-1000-olsrod-park/"
+  },
+  {
+    "id": "2091962",
+    "name": "REMA 1000 OPPDAL",
+    "lat": 62.593750000,
+    "lon": 9.690851000,
+    "address": "Sunndalsvegen 3",
+    "postalCode": "7340",
+    "city": "OPPDAL",
+    "url": "https://www.rema.no/butikker/rema-1000-oppdal/"
+  },
+  {
+    "id": "2091884",
+    "name": "REMA 1000 OPPSAL",
+    "lat": 59.901439400,
+    "lon": 10.847648200,
+    "address": "Vetlandsveien 68",
+    "postalCode": "0685",
+    "city": "OSLO",
+    "url": "https://www.rema.no/butikker/rema-1000-oppsal/"
+  },
+  {
+    "id": "1554660",
+    "name": "REMA 1000 OPSTADVEIEN",
+    "lat": 58.778580200,
+    "lon": 5.833032760,
+    "address": "Opstadveien 2",
+    "postalCode": "4331",
+    "city": "ÅLGÅRD",
+    "url": "https://www.rema.no/butikker/rema-1000-opstadveien/"
+  },
+  {
+    "id": "2091886",
+    "name": "REMA 1000 ORKANGER",
+    "lat": 63.297739000,
+    "lon": 9.852276000,
+    "address": "Mælaveien 2",
+    "postalCode": "7300",
+    "city": "ORKANGER",
+    "url": "https://www.rema.no/butikker/rema-1000-orkanger/"
+  },
+  {
+    "id": "1495286",
+    "name": "REMA 1000 ORKIDEHØGDA",
+    "lat": 59.748212000,
+    "lon": 10.027953000,
+    "address": "Orkidehøgda 11",
+    "postalCode": "3050",
+    "city": "MJØNDALEN",
+    "url": "https://www.rema.no/butikker/rema-1000-orkidehogda/"
+  },
+  {
+    "id": "2076976",
+    "name": "REMA 1000 ORMÅSEN",
+    "lat": 59.753887000,
+    "lon": 9.822736000,
+    "address": "Ormåsen",
+    "postalCode": "3320",
+    "city": "VESTFOSSEN",
+    "url": "https://www.rema.no/butikker/rema-1000-ormasen/"
+  },
+  {
+    "id": "2030487",
+    "name": "REMA 1000 OSEBERG",
+    "lat": 59.263419600,
+    "lon": 10.414171400,
+    "address": "Storgaten 2 B",
+    "postalCode": "3126",
+    "city": "TØNSBERG",
+    "url": "https://www.rema.no/butikker/rema-1000-oseberg/"
+  },
+  {
+    "id": "2091777",
+    "name": "REMA 1000 OSTEREIDET SENTER",
+    "lat": 60.626314000,
+    "lon": 5.473076000,
+    "address": "Ostereidet",
+    "postalCode": "5993",
+    "city": "OSTEREIDET",
+    "url": "https://www.rema.no/butikker/rema-1000-ostereidet-senter/"
+  },
+  {
+    "id": "1952133",
+    "name": "REMA 1000 OTI SENTERET",
+    "lat": 63.306092000,
+    "lon": 9.838990000,
+    "address": "Tverradkomsten 60",
+    "postalCode": "7300",
+    "city": "ORKANGER",
+    "url": "https://www.rema.no/butikker/rema-1000-oti-senteret/"
+  },
+  {
+    "id": "2091755",
+    "name": "REMA 1000 OTTA",
+    "lat": 61.770651700,
+    "lon": 9.538515330,
+    "address": "Storgata 22A",
+    "postalCode": "2670",
+    "city": "OTTA",
+    "url": "https://www.rema.no/butikker/rema-1000-otta/"
+  },
+  {
+    "id": "2013917",
+    "name": "REMA 1000 OTTESTAD",
+    "lat": 60.768861200,
+    "lon": 11.130625700,
+    "address": "Holmlundvegen 1",
+    "postalCode": "2312",
+    "city": "OTTESTAD",
+    "url": "https://www.rema.no/butikker/rema-1000-ottestad/"
+  },
+  {
+    "id": "2083355",
+    "name": "REMA 1000 PALMAFOSSEN",
+    "lat": 60.635795000,
+    "lon": 6.466822000,
+    "address": "Tjukkebygdvegen 7",
+    "postalCode": "5706",
+    "city": "VOSS",
+    "url": "https://www.rema.no/butikker/rema-1000-palmafossen/"
+  },
+  {
+    "id": "2092352",
+    "name": "REMA 1000 PARADIS",
+    "lat": 60.336514500,
+    "lon": 5.345176500,
+    "address": "Jacob Kjødesveg 2E",
+    "postalCode": "5232",
+    "city": "PARADIS",
+    "url": "https://www.rema.no/butikker/rema-1000-paradis/"
+  },
+  {
+    "id": "2030018",
+    "name": "REMA 1000 PARKVEIEN",
+    "lat": 59.921244600,
+    "lon": 10.728970400,
+    "address": "Parkveien 21",
+    "postalCode": "0350",
+    "city": "OSLO",
+    "url": "https://www.rema.no/butikker/rema-1000-parkveien/"
+  },
+  {
+    "id": "2100237",
+    "name": "REMA 1000 PEPPERSTAD",
+    "lat": 59.605696200,
+    "lon": 10.714000200,
+    "address": "Moderens vei 4",
+    "postalCode": "1542",
+    "city": "VESTBY",
+    "url": "https://www.rema.no/butikker/rema-1000-pepperstad/"
+  },
+  {
+    "id": "2091708",
+    "name": "REMA 1000 PINDSLE",
+    "lat": 59.141156000,
+    "lon": 10.179724000,
+    "address": "Pindsleveien 11",
+    "postalCode": "3221",
+    "city": "SANDEFJORD",
+    "url": "https://www.rema.no/butikker/rema-1000-pindsle/"
+  },
+  {
+    "id": "1544528",
+    "name": "REMA 1000 PIRSENTERET",
+    "lat": 63.440468000,
+    "lon": 10.403959000,
+    "address": "Havnegata 7",
+    "postalCode": "7010",
+    "city": "TRONDHEIM",
+    "url": "https://www.rema.no/butikker/rema-1000-pirsenteret/"
+  },
+  {
+    "id": "2091726",
+    "name": "REMA 1000 PRINSENSGATE",
+    "lat": 63.431740000,
+    "lon": 10.392370000,
+    "address": "Prinsensgate 49",
+    "postalCode": "7011",
+    "city": "TRONDHEIM",
+    "url": "https://www.rema.no/butikker/rema-1000-prinsensgate/"
+  },
+  {
+    "id": "2092030",
+    "name": "REMA 1000 RAGLAMYR",
+    "lat": 59.397418200,
+    "lon": 5.334638300,
+    "address": "Longhammervegen 36",
+    "postalCode": "5536",
+    "city": "HAUGESUND",
+    "url": "https://www.rema.no/butikker/rema-1000-raglamyr/"
+  },
+  {
+    "id": "2091815",
+    "name": "REMA 1000 RAKKESTAD",
+    "lat": 59.419196000,
+    "lon": 11.346064000,
+    "address": "Storgata 64",
+    "postalCode": "1890",
+    "city": "RAKKESTAD",
+    "url": "https://www.rema.no/butikker/rema-1000-rakkestad/"
+  },
+  {
+    "id": "1542032",
+    "name": "REMA 1000 RANDABERG",
+    "lat": 58.992168700,
+    "lon": 5.642412680,
+    "address": "RANDABERGVEIEN 310",
+    "postalCode": "4073",
+    "city": "RANDABERG",
+    "url": "https://www.rema.no/butikker/rema-1000-randaberg/"
+  },
+  {
+    "id": "1537040",
+    "name": "REMA 1000 RANENGET",
+    "lat": 66.322070100,
+    "lon": 14.167283800,
+    "address": "Ranenget 25 A",
+    "postalCode": "8626",
+    "city": "MO I RANA",
+    "url": "https://www.rema.no/butikker/rema-1000-ranenget/"
+  },
+  {
+    "id": "2091971",
+    "name": "REMA 1000 RANHEIM",
+    "lat": 63.421169000,
+    "lon": 10.534475000,
+    "address": "Vikelvfaret 2",
+    "postalCode": "7054",
+    "city": "RANHEIM",
+    "url": "https://www.rema.no/butikker/rema-1000-ranheim/"
+  },
+  {
+    "id": "2092442",
+    "name": "REMA 1000 RANHEIMSFJÆRA",
+    "lat": 63.428788700,
+    "lon": 10.527120200,
+    "address": "Ranheimsfjæra 49",
+    "postalCode": "7055",
+    "city": "RANHEIM",
+    "url": "https://www.rema.no/butikker/rema-1000-ranheimsfjaera/"
+  },
+  {
+    "id": "2091897",
+    "name": "REMA 1000 RAUFOSS",
+    "lat": 60.719311000,
+    "lon": 10.612546000,
+    "address": "Storgata 7",
+    "postalCode": "2830",
+    "city": "RAUFOSS",
+    "url": "https://www.rema.no/butikker/rema-1000-raufoss/"
+  },
+  {
+    "id": "2091922",
+    "name": "REMA 1000 REKNES",
+    "lat": 62.734067500,
+    "lon": 7.139167910,
+    "address": "Gideonvegen 4",
+    "postalCode": "6412",
+    "city": "MOLDE",
+    "url": "https://www.rema.no/butikker/rema-1000-reknes/"
+  },
+  {
+    "id": "1554030",
+    "name": "REMA 1000 RENA",
+    "lat": 61.131444200,
+    "lon": 11.368451700,
+    "address": "Trudvanggata 15",
+    "postalCode": "2450",
+    "city": "RENA",
+    "url": "https://www.rema.no/butikker/rema-1000-rena/"
+  },
+  {
+    "id": "2072519",
+    "name": "REMA 1000 REVETAL",
+    "lat": 59.368268700,
+    "lon": 10.264246200,
+    "address": "Regata 9",
+    "postalCode": "3174",
+    "city": "REVETAL",
+    "url": "https://www.rema.no/butikker/rema-1000-revetal/"
+  },
+  {
+    "id": "1552834",
+    "name": "REMA 1000 RIDABU",
+    "lat": 60.805995000,
+    "lon": 11.147526000,
+    "address": "Kappvegen 1",
+    "postalCode": "2322",
+    "city": "RIDABU",
+    "url": "https://www.rema.no/butikker/rema-1000-ridabu/"
+  },
+  {
+    "id": "2032439",
+    "name": "REMA 1000 RINGEBU",
+    "lat": 61.530394000,
+    "lon": 10.144585000,
+    "address": "Brugata 9",
+    "postalCode": "2630",
+    "city": "RINGEBU",
+    "url": "https://www.rema.no/butikker/rema-1000-ringebu/"
+  },
+  {
+    "id": "2092087",
+    "name": "REMA 1000 RISAVIKA",
+    "lat": 58.916689200,
+    "lon": 5.602819600,
+    "address": "Kontinentalvegen 2",
+    "postalCode": "4056",
+    "city": "TANANGER",
+    "url": "https://www.rema.no/butikker/rema-1000-risavika/"
+  },
+  {
+    "id": "2095507",
+    "name": "REMA 1000 RISENGA",
+    "lat": 59.826452100,
+    "lon": 10.448157400,
+    "address": "Morellveien 1",
+    "postalCode": "1387",
+    "city": "ASKER",
+    "url": "https://www.rema.no/butikker/rema-1000-risenga/"
+  },
+  {
+    "id": "2083812",
+    "name": "REMA 1000 RISSA",
+    "lat": 63.585294000,
+    "lon": 9.961738320,
+    "address": "Hertug Skules vei 130",
+    "postalCode": "7100",
+    "city": "RISSA",
+    "url": "https://www.rema.no/butikker/rema-1000-rissa/"
+  },
+  {
+    "id": "2007230",
+    "name": "REMA 1000 RISUM",
+    "lat": 59.118682000,
+    "lon": 11.409370000,
+    "address": "Iddeveien 29",
+    "postalCode": "1769",
+    "city": "HALDEN",
+    "url": "https://www.rema.no/butikker/rema-1000-risum/"
+  },
+  {
+    "id": "2091770",
+    "name": "REMA 1000 RISØR",
+    "lat": 58.715104000,
+    "lon": 9.177036000,
+    "address": "Risørveien 183",
+    "postalCode": "4950",
+    "city": "RISØR",
+    "url": "https://www.rema.no/butikker/rema-1000-risor/"
+  },
+  {
+    "id": "2083831",
+    "name": "REMA 1000 RJUKAN",
+    "lat": 59.877123800,
+    "lon": 8.587157170,
+    "address": "Såheimsveien 2",
+    "postalCode": "3660",
+    "city": "RJUKAN",
+    "url": "https://www.rema.no/butikker/rema-1000-rjukan/"
+  },
+  {
+    "id": "2091843",
+    "name": "REMA 1000 ROCK CITY",
+    "lat": 64.469579000,
+    "lon": 11.489591000,
+    "address": "Th Sommerschieldsgate 5",
+    "postalCode": "7800",
+    "city": "NAMSOS",
+    "url": "https://www.rema.no/butikker/rema-1000-rock-city/"
+  },
+  {
+    "id": "2057107",
+    "name": "REMA 1000 RODELØKKA",
+    "lat": 59.923430600,
+    "lon": 10.772178300,
+    "address": "Trondheimsveien 72",
+    "postalCode": "0565",
+    "city": "OSLO",
+    "url": "https://www.rema.no/butikker/rema-1000-rodelokka/"
+  },
+  {
+    "id": "2091734",
+    "name": "REMA 1000 ROGNAN",
+    "lat": 67.102072200,
+    "lon": 15.397288600,
+    "address": "Kirkegata 26A",
+    "postalCode": "8250",
+    "city": "ROGNAN",
+    "url": "https://www.rema.no/butikker/rema-1000-rognan/"
+  },
+  {
+    "id": "2082272",
+    "name": "REMA 1000 ROGNBUDALEN",
+    "lat": 63.353950000,
+    "lon": 10.379642000,
+    "address": "Gjerlovs veg 2",
+    "postalCode": "7092",
+    "city": "TILLER",
+    "url": "https://www.rema.no/butikker/rema-1000-rognbudalen/"
+  },
+  {
+    "id": "2092028",
+    "name": "REMA 1000 ROLVSØYVEIEN",
+    "lat": 59.266567000,
+    "lon": 11.012995000,
+    "address": "Rolvsøyveien 402",
+    "postalCode": "1666",
+    "city": "ROLVSØY",
+    "url": "https://www.rema.no/butikker/rema-1000-rolvsoyveien/"
+  },
+  {
+    "id": "1552835",
+    "name": "REMA 1000 ROMBAKSVEIEN",
+    "lat": 68.445106400,
+    "lon": 17.451562100,
+    "address": "Rombaksveien 45",
+    "postalCode": "8517",
+    "city": "NARVIK",
+    "url": "https://www.rema.no/butikker/rema-1000-rombaksveien/"
+  },
+  {
+    "id": "2091903",
+    "name": "REMA 1000 ROSENBORG",
+    "lat": 63.430418000,
+    "lon": 10.419747000,
+    "address": "STADSING DAHLS GATE 5",
+    "postalCode": "7015",
+    "city": "TRONDHEIM",
+    "url": "https://www.rema.no/butikker/rema-1000-rosenborg/"
+  },
+  {
+    "id": "1554648",
+    "name": "REMA 1000 ROSENHOFF",
+    "lat": 59.929753800,
+    "lon": 10.780279300,
+    "address": "Olaf Schous vei 2",
+    "postalCode": "0572",
+    "city": "OSLO",
+    "url": "https://www.rema.no/butikker/rema-1000-rosenhoff/"
+  },
+  {
+    "id": "2091947",
+    "name": "REMA 1000 RYEN",
+    "lat": 59.897830400,
+    "lon": 10.803071100,
+    "address": "Enebakkveien 154 B",
+    "postalCode": "0680",
+    "city": "OSLO",
+    "url": "https://www.rema.no/butikker/rema-1000-ryen/"
+  },
+  {
+    "id": "1950852",
+    "name": "REMA 1000 RYENSVINGEN",
+    "lat": 59.892745900,
+    "lon": 10.804876500,
+    "address": "Ryensvingen 5-7",
+    "postalCode": "0680",
+    "city": "OSLO",
+    "url": "https://www.rema.no/butikker/rema-1000-ryensvingen/"
+  },
+  {
+    "id": "2091908",
+    "name": "REMA 1000 RYGGEVEIEN",
+    "lat": 59.414351000,
+    "lon": 10.686448000,
+    "address": "Gartnerveien 11",
+    "postalCode": "1526",
+    "city": "MOSS",
+    "url": "https://www.rema.no/butikker/rema-1000-ryggeveien/"
+  },
+  {
+    "id": "2091880",
+    "name": "REMA 1000 RÅDE",
+    "lat": 59.351407000,
+    "lon": 10.874035000,
+    "address": "Sarpsborgveien 9",
+    "postalCode": "1640",
+    "city": "RÅDE",
+    "url": "https://www.rema.no/butikker/rema-1000-rade/"
+  },
+  {
+    "id": "1952910",
+    "name": "REMA 1000 RÅDHUSPLASSEN",
+    "lat": 59.664645000,
+    "lon": 10.788453000,
+    "address": "Rådhusplassen 35",
+    "postalCode": "1430",
+    "city": "ÅS",
+    "url": "https://www.rema.no/butikker/rema-1000-radhusplassen/"
+  },
+  {
+    "id": "2091796",
+    "name": "REMA 1000 RÅHOLT",
+    "lat": 60.286527000,
+    "lon": 11.172015000,
+    "address": "Nyvegen 1",
+    "postalCode": "2070",
+    "city": "RÅHOLT",
+    "url": "https://www.rema.no/butikker/rema-1000-raholt/"
+  },
+  {
+    "id": "2071760",
+    "name": "REMA 1000 RÅSTØLEN",
+    "lat": 60.301170000,
+    "lon": 5.308614000,
+    "address": "Steinsvikvegen 274",
+    "postalCode": "5237",
+    "city": "RÅDAL",
+    "url": "https://www.rema.no/butikker/rema-1000-rastolen/"
+  },
+  {
+    "id": "2094238",
+    "name": "REMA 1000 RØA NÆRINGSPARK",
+    "lat": 59.940188800,
+    "lon": 10.650557500,
+    "address": "Aslakveien 18",
+    "postalCode": "0753",
+    "city": "OSLO",
+    "url": "https://www.rema.no/butikker/rema-1000-roa-naeringspark/"
+  },
+  {
+    "id": "2028969",
+    "name": "REMA 1000 RØAKRYSSET",
+    "lat": 59.947171900,
+    "lon": 10.642618400,
+    "address": "Vækerøveien 210",
+    "postalCode": "0751",
+    "city": "OSLO",
+    "url": "https://www.rema.no/butikker/rema-1000-roakrysset/"
+  },
+  {
+    "id": "1952909",
+    "name": "REMA 1000 RØNVIK",
+    "lat": 67.297600000,
+    "lon": 14.402000000,
+    "address": "Jernbaneveien 33",
+    "postalCode": "8012",
+    "city": "BODØ",
+    "url": "https://www.rema.no/butikker/rema-1000-ronvik/"
+  },
+  {
+    "id": "1554142",
+    "name": "REMA 1000 RØROS",
+    "lat": 62.574476400,
+    "lon": 11.397123800,
+    "address": "Falunveien 9",
+    "postalCode": "7374",
+    "city": "RØROS",
+    "url": "https://www.rema.no/butikker/rema-1000-roros/"
+  },
+  {
+    "id": "1552836",
+    "name": "REMA 1000 RØRVIK",
+    "lat": 64.858950000,
+    "lon": 11.231733000,
+    "address": "Havnegata 7E",
+    "postalCode": "7900",
+    "city": "RØRVIK",
+    "url": "https://www.rema.no/butikker/rema-1000-rorvik/"
+  },
+  {
+    "id": "2092000",
+    "name": "REMA 1000 RØSTAD",
+    "lat": 63.751097000,
+    "lon": 11.312090000,
+    "address": "HELGE INGSTADS VEG 2",
+    "postalCode": "7600",
+    "city": "LEVANGER",
+    "url": "https://www.rema.no/butikker/rema-1000-rostad/"
+  },
+  {
+    "id": "2032382",
+    "name": "REMA 1000 RØYSLIMOEN",
+    "lat": 61.099018000,
+    "lon": 10.506871000,
+    "address": "Røyslivegen 1",
+    "postalCode": "2611",
+    "city": "LILLEHAMMER",
+    "url": "https://www.rema.no/butikker/rema-1000-royslimoen/"
+  },
+  {
+    "id": "2076974",
+    "name": "REMA 1000 SAGVÅG",
+    "lat": 59.777435000,
+    "lon": 5.395160000,
+    "address": "Sagvågsvegen 501",
+    "postalCode": "5410",
+    "city": "SAGVÅG",
+    "url": "https://www.rema.no/butikker/rema-1000-sagvag/"
+  },
+  {
+    "id": "2091929",
+    "name": "REMA 1000 SANDANE",
+    "lat": 61.777615300,
+    "lon": 6.215325630,
+    "address": "Grandavegen 10",
+    "postalCode": "6823",
+    "city": "SANDANE",
+    "url": "https://www.rema.no/butikker/rema-1000-sandane/"
+  },
+  {
+    "id": "2091814",
+    "name": "REMA 1000 SANDE",
+    "lat": 59.583639000,
+    "lon": 10.210325000,
+    "address": "Revåveien 37",
+    "postalCode": "3070",
+    "city": "SANDE I VESTFOLD",
+    "url": "https://www.rema.no/butikker/rema-1000-sande/"
+  },
+  {
+    "id": "2091780",
+    "name": "REMA 1000 SANDEFJORD",
+    "lat": 59.129272000,
+    "lon": 10.240415000,
+    "address": "Kamfjordgata 56",
+    "postalCode": "3217",
+    "city": "SANDEFJORD",
+    "url": "https://www.rema.no/butikker/rema-1000-sandefjord/"
+  },
+  {
+    "id": "2083709",
+    "name": "REMA 1000 SANDGATA NAMSOS",
+    "lat": 64.465564000,
+    "lon": 11.510722000,
+    "address": "Sandgata 2",
+    "postalCode": "7800",
+    "city": "NAMSOS",
+    "url": "https://www.rema.no/butikker/rema-1000-sandgata-namsos/"
+  },
+  {
+    "id": "2085985",
+    "name": "REMA 1000 SANDMOEN",
+    "lat": 63.334219000,
+    "lon": 10.360222000,
+    "address": "Kvenildsskogen 3",
+    "postalCode": "7093",
+    "city": "TILLER",
+    "url": "https://www.rema.no/butikker/rema-1000-sandmoen/"
+  },
+  {
+    "id": "2091933",
+    "name": "REMA 1000 SANDNESSJØEN",
+    "lat": 66.023573100,
+    "lon": 12.641371400,
+    "address": "Nesset 1",
+    "postalCode": "8800",
+    "city": "SANDNESSJØEN",
+    "url": "https://www.rema.no/butikker/rema-1000-sandnessjoen/"
+  },
+  {
+    "id": "2088865",
+    "name": "REMA 1000 SANDSLI",
+    "lat": 60.292726000,
+    "lon": 5.283736000,
+    "address": "Sandslihaugen 10",
+    "postalCode": "5254",
+    "city": "SANDSLI",
+    "url": "https://www.rema.no/butikker/rema-1000-sandsli/"
+  },
+  {
+    "id": "2093280",
+    "name": "REMA 1000 SANDSTAD",
+    "lat": 63.520876000,
+    "lon": 9.109313550,
+    "address": "Hamneveien 9",
+    "postalCode": "7246",
+    "city": "SANDSTAD",
+    "url": "https://www.rema.no/butikker/rema-1000-sandstad/"
+  },
+  {
+    "id": "1754139",
+    "name": "REMA 1000 SANDSTUVEIEN",
+    "lat": 59.887704600,
+    "lon": 10.805530900,
+    "address": "SANDSTUVEIEN 60A",
+    "postalCode": "1184",
+    "city": "OSLO",
+    "url": "https://www.rema.no/butikker/rema-1000-sandstuveien/"
+  },
+  {
+    "id": "1953404",
+    "name": "REMA 1000 SANDVED",
+    "lat": 58.838206000,
+    "lon": 5.721995600,
+    "address": "Jærveien 123",
+    "postalCode": "4318",
+    "city": "SANDNES",
+    "url": "https://www.rema.no/butikker/rema-1000-sandved/"
+  },
+  {
+    "id": "1952120",
+    "name": "REMA 1000 SANNIDAL",
+    "lat": 58.896119000,
+    "lon": 9.283289000,
+    "address": "Tangen 11",
+    "postalCode": "3766",
+    "city": "SANNIDAL",
+    "url": "https://www.rema.no/butikker/rema-1000-sannidal/"
+  },
+  {
+    "id": "2091899",
+    "name": "REMA 1000 SARTORPARKEN",
+    "lat": 60.358246000,
+    "lon": 5.121866000,
+    "address": "Gjertrudvegen 4",
+    "postalCode": "5353",
+    "city": "STRAUME",
+    "url": "https://www.rema.no/butikker/rema-1000-sartorparken/"
+  },
+  {
+    "id": "1497194",
+    "name": "REMA 1000 SAUPSTAD",
+    "lat": 63.366631000,
+    "lon": 10.345429000,
+    "address": "Reier Søbstads veg 3",
+    "postalCode": "7078",
+    "city": "SAUPSTAD",
+    "url": "https://www.rema.no/butikker/rema-1000-saupstad/"
+  },
+  {
+    "id": "2083733",
+    "name": "REMA 1000 SELJORD",
+    "lat": 59.482869100,
+    "lon": 8.628806330,
+    "address": "Steinsrudvegen 2",
+    "postalCode": "3840",
+    "city": "SELJORD",
+    "url": "https://www.rema.no/butikker/rema-1000-seljord/"
+  },
+  {
+    "id": "2057023",
+    "name": "REMA 1000 SELLEBAKK",
+    "lat": 59.224414600,
+    "lon": 10.988947100,
+    "address": "Sorgenfri allé 5",
+    "postalCode": "1651",
+    "city": "SELLEBAKK",
+    "url": "https://www.rema.no/butikker/rema-1000-sellebakk/"
+  },
+  {
+    "id": "2030619",
+    "name": "REMA 1000 SEM",
+    "lat": 59.283094500,
+    "lon": 10.333389800,
+    "address": "Døvleveien 5",
+    "postalCode": "3170",
+    "city": "SEM",
+    "url": "https://www.rema.no/butikker/rema-1000-sem/"
+  },
+  {
+    "id": "2094268",
+    "name": "REMA 1000 SENNERUDTOPPEN",
+    "lat": 59.979968500,
+    "lon": 11.241125300,
+    "address": "Sennerudtoppen 4",
+    "postalCode": "1920",
+    "city": "SØRUMSAND",
+    "url": "https://www.rema.no/butikker/rema-1000-sennerudtoppen/"
+  },
+  {
+    "id": "2091782",
+    "name": "REMA 1000 SENTRUM KONGSBERG",
+    "lat": 59.671517000,
+    "lon": 9.646885000,
+    "address": "Dyrmyrgata 2",
+    "postalCode": "3611",
+    "city": "KONGSBERG",
+    "url": "https://www.rema.no/butikker/rema-1000-sentrum-kongsberg/"
+  },
+  {
+    "id": "2091762",
+    "name": "REMA 1000 SENTRUMSGÅRDEN",
+    "lat": 67.283786500,
+    "lon": 14.377091900,
+    "address": "Sjøgata 6",
+    "postalCode": "8006",
+    "city": "BODØ",
+    "url": "https://www.rema.no/butikker/rema-1000-sentrumsgarden/"
+  },
+  {
+    "id": "2093350",
+    "name": "REMA 1000 SENTRUMSKVARTALET",
+    "lat": 60.167132900,
+    "lon": 10.256411700,
+    "address": "Hønefoss Bru 1D",
+    "postalCode": "3510",
+    "city": "HØNEFOSS",
+    "url": "https://www.rema.no/butikker/rema-1000-sentrumskvartalet/"
+  },
+  {
+    "id": "2091722",
+    "name": "REMA 1000 SIGNATURGÅRDEN",
+    "lat": 59.918864000,
+    "lon": 10.584867000,
+    "address": "Gamle Ringeriksvei 45",
+    "postalCode": "1357",
+    "city": "BEKKESTUA",
+    "url": "https://www.rema.no/butikker/rema-1000-signaturgarden/"
+  },
+  {
+    "id": "2070426",
+    "name": "REMA 1000 SILJAN",
+    "lat": 59.278349000,
+    "lon": 9.726098000,
+    "address": "Sentrumsveien 40",
+    "postalCode": "3748",
+    "city": "SILJAN",
+    "url": "https://www.rema.no/butikker/rema-1000-siljan/"
+  },
+  {
+    "id": "1952134",
+    "name": "REMA 1000 SILOVEGEN",
+    "lat": 60.126018000,
+    "lon": 11.469305000,
+    "address": "Silovegen 24",
+    "postalCode": "2150",
+    "city": "ÅRNES",
+    "url": "https://www.rema.no/butikker/rema-1000-silovegen/"
+  },
+  {
+    "id": "2087913",
+    "name": "REMA 1000 SINSENVEIEN",
+    "lat": 59.934603400,
+    "lon": 10.791430400,
+    "address": "SINSENVEIEN 55",
+    "postalCode": "0585",
+    "city": "OSLO",
+    "url": "https://www.rema.no/butikker/rema-1000-sinsenveien/"
+  },
+  {
+    "id": "2088298",
+    "name": "REMA 1000 SJØGATA",
+    "lat": 68.690965300,
+    "lon": 15.418761500,
+    "address": "Sjøgata 30",
+    "postalCode": "8400",
+    "city": "SORTLAND",
+    "url": "https://www.rema.no/butikker/rema-1000-sjogata/"
+  },
+  {
+    "id": "2100640",
+    "name": "REMA 1000 SJØSKOGEN",
+    "lat": 59.738023100,
+    "lon": 10.764925400,
+    "address": "Sjøskogenveien 2A",
+    "postalCode": "1407",
+    "city": "VINTERBRO",
+    "url": "https://www.rema.no/butikker/rema-1000-sjoskogen/"
+  },
+  {
+    "id": "1556117",
+    "name": "REMA 1000 SKAARLIA",
+    "lat": 58.841836800,
+    "lon": 5.765648560,
+    "address": "Skaarlia 1",
+    "postalCode": "4326",
+    "city": "SANDNES",
+    "url": "https://www.rema.no/butikker/rema-1000-skaarlia/"
+  },
+  {
+    "id": "2077659",
+    "name": "REMA 1000 SKARNES",
+    "lat": 60.254208000,
+    "lon": 11.683367000,
+    "address": "Øgardsvegen 3",
+    "postalCode": "2100",
+    "city": "SKARNES",
+    "url": "https://www.rema.no/butikker/rema-1000-skarnes/"
+  },
+  {
+    "id": "2092002",
+    "name": "REMA 1000 SKEDSMOKORSET",
+    "lat": 59.999723000,
+    "lon": 11.041535000,
+    "address": "Postboks 56",
+    "postalCode": "2020",
+    "city": "SKEDSMOKORSET",
+    "url": "https://www.rema.no/butikker/rema-1000-skedsmokorset/"
+  },
+  {
+    "id": "2091730",
+    "name": "REMA 1000 SKEIDBANEN",
+    "lat": 59.942764800,
+    "lon": 10.784874500,
+    "address": "Kjelsåsveien 7",
+    "postalCode": "0488",
+    "city": "OSLO",
+    "url": "https://www.rema.no/butikker/rema-1000-skeidbanen/"
+  },
+  {
+    "id": "2091965",
+    "name": "REMA 1000 SKI",
+    "lat": 59.718518100,
+    "lon": 10.839932900,
+    "address": "Åsenveien 12A",
+    "postalCode": "1400",
+    "city": "SKI",
+    "url": "https://www.rema.no/butikker/rema-1000-ski/"
+  },
+  {
+    "id": "2088226",
+    "name": "REMA 1000 SKI STORSENTER",
+    "lat": 59.716837900,
+    "lon": 10.836328500,
+    "address": "Jernbanesvingen 6",
+    "postalCode": "1400",
+    "city": "SKI",
+    "url": "https://www.rema.no/butikker/rema-1000-ski-storsenter/"
+  },
+  {
+    "id": "1552838",
+    "name": "REMA 1000 SKINSNES",
+    "lat": 58.027098600,
+    "lon": 7.475285020,
+    "address": "Sommerkroveien 4",
+    "postalCode": "4515",
+    "city": "MANDAL",
+    "url": "https://www.rema.no/butikker/rema-1000-skinsnes/"
+  },
+  {
+    "id": "1553817",
+    "name": "REMA 1000 SKIPTVET",
+    "lat": 59.472885000,
+    "lon": 11.163330000,
+    "address": "Storveien 7",
+    "postalCode": "1816",
+    "city": "SKIPTVET",
+    "url": "https://www.rema.no/butikker/rema-1000-skiptvet/"
+  },
+  {
+    "id": "2091941",
+    "name": "REMA 1000 SKISTUA NARVIK",
+    "lat": 68.438456900,
+    "lon": 17.446339400,
+    "address": "Skistua 4",
+    "postalCode": "8515",
+    "city": "NARVIK",
+    "url": "https://www.rema.no/butikker/rema-1000-skistua-narvik/"
+  },
+  {
+    "id": "2082329",
+    "name": "REMA 1000 SKJEBERG",
+    "lat": 59.210227000,
+    "lon": 11.190378000,
+    "address": "Stasjonsveien 55",
+    "postalCode": "1746",
+    "city": "SKJEBERG",
+    "url": "https://www.rema.no/butikker/rema-1000-skjeberg/"
+  },
+  {
+    "id": "2091787",
+    "name": "REMA 1000 SKJOLD",
+    "lat": 60.309716000,
+    "lon": 5.346253000,
+    "address": "Odinsveg 61",
+    "postalCode": "5221",
+    "city": "NESTTUN",
+    "url": "https://www.rema.no/butikker/rema-1000-skjold/"
+  },
+  {
+    "id": "2095313",
+    "name": "REMA 1000 SKJÆVELAND",
+    "lat": 58.813316900,
+    "lon": 5.698080000,
+    "address": "Brunnadalen 2",
+    "postalCode": "4322",
+    "city": "SANDNES",
+    "url": "https://www.rema.no/butikker/rema-1000-skjaeveland/"
+  },
+  {
+    "id": "2062579",
+    "name": "REMA 1000 SKOGEN",
+    "lat": 59.413113000,
+    "lon": 9.064521000,
+    "address": "BØGATA 55A",
+    "postalCode": "3800",
+    "city": "BØ I TELEMARK",
+    "url": "https://www.rema.no/butikker/rema-1000-skogen/"
+  },
+  {
+    "id": "2091926",
+    "name": "REMA 1000 SKOGSVÅG",
+    "lat": 60.269776000,
+    "lon": 5.070903000,
+    "address": "Søre Fjellavegen 756",
+    "postalCode": "5382",
+    "city": "SKOGSVÅG",
+    "url": "https://www.rema.no/butikker/rema-1000-skogsvag/"
+  },
+  {
+    "id": "2075743",
+    "name": "REMA 1000 SKOGVEIEN",
+    "lat": 59.426740000,
+    "lon": 11.343593000,
+    "address": "Skogveien 6",
+    "postalCode": "1890",
+    "city": "RAKKESTAD",
+    "url": "https://www.rema.no/butikker/rema-1000-skogveien/"
+  },
+  {
+    "id": "2056238",
+    "name": "REMA 1000 SKREIA",
+    "lat": 60.654294000,
+    "lon": 10.934721000,
+    "address": "Jerikovegen 5",
+    "postalCode": "2848",
+    "city": "SKREIA",
+    "url": "https://www.rema.no/butikker/rema-1000-skreia/"
+  },
+  {
+    "id": "1496564",
+    "name": "REMA 1000 SKREPPESTAD",
+    "lat": 59.045523000,
+    "lon": 10.075227000,
+    "address": "Skreppestadveien 34",
+    "postalCode": "3261",
+    "city": "LARVIK",
+    "url": "https://www.rema.no/butikker/rema-1000-skreppestad/"
+  },
+  {
+    "id": "2023564",
+    "name": "REMA 1000 SKUDENES",
+    "lat": 59.157182800,
+    "lon": 5.236759060,
+    "address": "Syrevegen 2",
+    "postalCode": "4280",
+    "city": "SKUDENESHAVN",
+    "url": "https://www.rema.no/butikker/rema-1000-skudenes/"
+  },
+  {
+    "id": "2006400",
+    "name": "REMA 1000 SKULESTADMO",
+    "lat": 60.658708100,
+    "lon": 6.437102210,
+    "address": "Strandavegen 335",
+    "postalCode": "5710",
+    "city": "SKULESTADMO",
+    "url": "https://www.rema.no/butikker/rema-1000-skulestadmo/"
+  },
+  {
+    "id": "1899339",
+    "name": "REMA 1000 SKULLERUD",
+    "lat": 59.867834000,
+    "lon": 10.839507700,
+    "address": "JOHAN SCHARFFENBERGS VEI 75A",
+    "postalCode": "0694",
+    "city": "OSLO",
+    "url": "https://www.rema.no/butikker/rema-1000-skullerud/"
+  },
+  {
+    "id": "1499468",
+    "name": "REMA 1000 SKÅRER",
+    "lat": 59.921820000,
+    "lon": 10.952660000,
+    "address": "Skårersletta 55",
+    "postalCode": "1473",
+    "city": "LØRENSKOG",
+    "url": "https://www.rema.no/butikker/rema-1000-skarer/"
+  },
+  {
+    "id": "2091961",
+    "name": "REMA 1000 SLEMMESTAD",
+    "lat": 59.785769000,
+    "lon": 10.489301000,
+    "address": "Eternittveien 4",
+    "postalCode": "3470",
+    "city": "SLEMMESTAD",
+    "url": "https://www.rema.no/butikker/rema-1000-slemmestad/"
+  },
+  {
+    "id": "2092403",
+    "name": "REMA 1000 SLITU",
+    "lat": 59.580136400,
+    "lon": 11.280824600,
+    "address": "Morstongveien 56",
+    "postalCode": "1859",
+    "city": "SLITU",
+    "url": "https://www.rema.no/butikker/rema-1000-slitu/"
+  },
+  {
+    "id": "2095381",
+    "name": "REMA 1000 SMELTEVERKET",
+    "lat": 60.065924400,
+    "lon": 6.546983210,
+    "address": "Smelteverket 8",
+    "postalCode": "5750",
+    "city": "ODDA",
+    "url": "https://www.rema.no/butikker/rema-1000-smelteverket/"
+  },
+  {
+    "id": "2091788",
+    "name": "REMA 1000 SOFIEMYR",
+    "lat": 59.801715000,
+    "lon": 10.818084000,
+    "address": "Sønsterudveien 32",
+    "postalCode": "1412",
+    "city": "SOFIEMYR",
+    "url": "https://www.rema.no/butikker/rema-1000-sofiemyr/"
+  },
+  {
+    "id": "2091749",
+    "name": "REMA 1000 SOFIENBERG",
+    "lat": 59.921664400,
+    "lon": 10.770308600,
+    "address": "Trondheimsveien 47",
+    "postalCode": "0560",
+    "city": "OSLO",
+    "url": "https://www.rema.no/butikker/rema-1000-sofienberg/"
+  },
+  {
+    "id": "1552840",
+    "name": "REMA 1000 SOGN",
+    "lat": 59.953266400,
+    "lon": 10.729307700,
+    "address": "ROLF E.STENERSENS ALLÉ 26A",
+    "postalCode": "0858",
+    "city": "OSLO",
+    "url": "https://www.rema.no/butikker/rema-1000-sogn/"
+  },
+  {
+    "id": "2091873",
+    "name": "REMA 1000 SOGNDAL",
+    "lat": 61.226281000,
+    "lon": 7.100545000,
+    "address": "Stedjevegen 37",
+    "postalCode": "6856",
+    "city": "SOGNDAL",
+    "url": "https://www.rema.no/butikker/rema-1000-sogndal/"
+  },
+  {
+    "id": "1658932",
+    "name": "REMA 1000 SOGNINGEN",
+    "lat": 61.232166000,
+    "lon": 7.103653000,
+    "address": "Hovevegen 6",
+    "postalCode": "6856",
+    "city": "SOGNDAL",
+    "url": "https://www.rema.no/butikker/rema-1000-sogningen/"
+  },
+  {
+    "id": "2091919",
+    "name": "REMA 1000 SOLA",
+    "lat": 58.883896200,
+    "lon": 5.648472400,
+    "address": "Solakrossvegen 14",
+    "postalCode": "4050",
+    "city": "SOLA",
+    "url": "https://www.rema.no/butikker/rema-1000-sola/"
+  },
+  {
+    "id": "1553243",
+    "name": "REMA 1000 SOLSIDEN",
+    "lat": 63.436466000,
+    "lon": 10.416530000,
+    "address": "Dyre Halses gate 1A",
+    "postalCode": "7042",
+    "city": "TRONDHEIM",
+    "url": "https://www.rema.no/butikker/rema-1000-solsiden/"
+  },
+  {
+    "id": "2091793",
+    "name": "REMA 1000 SOLVANG",
+    "lat": 59.420359900,
+    "lon": 5.278818590,
+    "address": "SKJOLDAVEGEN 68",
+    "postalCode": "5519",
+    "city": "HAUGESUND",
+    "url": "https://www.rema.no/butikker/rema-1000-solvang/"
+  },
+  {
+    "id": "1555668",
+    "name": "REMA 1000 SON",
+    "lat": 59.493854700,
+    "lon": 10.690736700,
+    "address": "Gartnerveien 3",
+    "postalCode": "1555",
+    "city": "SON",
+    "url": "https://www.rema.no/butikker/rema-1000-son/"
+  },
+  {
+    "id": "2096880",
+    "name": "REMA 1000 SORGENFRI",
+    "lat": 63.405835500,
+    "lon": 10.399551800,
+    "address": "Sorgenfriveien 11",
+    "postalCode": "7031",
+    "city": "TRONDHEIM",
+    "url": "https://www.rema.no/butikker/rema-1000-sorgenfri/"
+  },
+  {
+    "id": "2091731",
+    "name": "REMA 1000 SORTLAND",
+    "lat": 68.708926800,
+    "lon": 15.413254100,
+    "address": "Vesterålsgata 24",
+    "postalCode": "8400",
+    "city": "SORTLAND",
+    "url": "https://www.rema.no/butikker/rema-1000-sortland/"
+  },
+  {
+    "id": "2091952",
+    "name": "REMA 1000 SPANNAVEGEN",
+    "lat": 59.395024900,
+    "lon": 5.306465350,
+    "address": "Spannavegen 151",
+    "postalCode": "5535",
+    "city": "HAUGESUND",
+    "url": "https://www.rema.no/butikker/rema-1000-spannavegen/"
+  },
+  {
+    "id": "1496901",
+    "name": "REMA 1000 SPIKKESTAD",
+    "lat": 59.744136000,
+    "lon": 10.339272000,
+    "address": "Spikkestadveien 128",
+    "postalCode": "3430",
+    "city": "SPIKKESTAD",
+    "url": "https://www.rema.no/butikker/rema-1000-spikkestad/"
+  },
+  {
+    "id": "2099663",
+    "name": "REMA 1000 SPILLUM",
+    "lat": 64.457487300,
+    "lon": 11.531654400,
+    "address": "Nøsthaugvegen 5",
+    "postalCode": "7820",
+    "city": "SPILLUM",
+    "url": "https://www.rema.no/butikker/rema-1000-spillum/"
+  },
+  {
+    "id": "2091804",
+    "name": "REMA 1000 SPORVEISGATA",
+    "lat": 59.925428200,
+    "lon": 10.725995600,
+    "address": "Sporveisgata 31",
+    "postalCode": "0354",
+    "city": "OSLO",
+    "url": "https://www.rema.no/butikker/rema-1000-sporveisgata/"
+  },
+  {
+    "id": "2091799",
+    "name": "REMA 1000 SPYDEBERG",
+    "lat": 59.615559000,
+    "lon": 11.076558000,
+    "address": "Nordmyrveien 4",
+    "postalCode": "1820",
+    "city": "SPYDEBERG",
+    "url": "https://www.rema.no/butikker/rema-1000-spydeberg/"
+  },
+  {
+    "id": "1554649",
+    "name": "REMA 1000 STADION",
+    "lat": 59.213492000,
+    "lon": 10.927205000,
+    "address": "Stadion 33",
+    "postalCode": "1671",
+    "city": "KRÅKERØY",
+    "url": "https://www.rema.no/butikker/rema-1000-stadion/"
+  },
+  {
+    "id": "1497909",
+    "name": "REMA 1000 STADIONPARKEN",
+    "lat": 58.914785300,
+    "lon": 5.730085060,
+    "address": "Jåttåvågveien 10",
+    "postalCode": "4020",
+    "city": "STAVANGER",
+    "url": "https://www.rema.no/butikker/rema-1000-stadionparken/"
+  },
+  {
+    "id": "1552841",
+    "name": "REMA 1000 STANGE",
+    "lat": 60.721026000,
+    "lon": 11.197942000,
+    "address": "ROMEDALSVEGEN 20",
+    "postalCode": "2335",
+    "city": "STANGE",
+    "url": "https://www.rema.no/butikker/rema-1000-stange/"
+  },
+  {
+    "id": "2092010",
+    "name": "REMA 1000 STANGELAND",
+    "lat": 58.856510700,
+    "lon": 5.714145990,
+    "address": "Solaveien 88",
+    "postalCode": "4316",
+    "city": "SANDNES",
+    "url": "https://www.rema.no/butikker/rema-1000-stangeland/"
+  },
+  {
+    "id": "2012853",
+    "name": "REMA 1000 STASJONSVEIEN",
+    "lat": 59.948456900,
+    "lon": 10.664869200,
+    "address": "Stasjonsveien 51A",
+    "postalCode": "0771",
+    "city": "OSLO",
+    "url": "https://www.rema.no/butikker/rema-1000-stasjonsveien/"
+  },
+  {
+    "id": "2091786",
+    "name": "REMA 1000 STATHELLE",
+    "lat": 59.045713000,
+    "lon": 9.690972000,
+    "address": "Brugaten 10",
+    "postalCode": "3960",
+    "city": "STATHELLE",
+    "url": "https://www.rema.no/butikker/rema-1000-stathelle/"
+  },
+  {
+    "id": "2091765",
+    "name": "REMA 1000 STAVERN",
+    "lat": 59.016164500,
+    "lon": 10.020833100,
+    "address": "Holmenjordetveien 31",
+    "postalCode": "3267",
+    "city": "LARVIK",
+    "url": "https://www.rema.no/butikker/rema-1000-stavern/"
+  },
+  {
+    "id": "2092016",
+    "name": "REMA 1000 STAVSET",
+    "lat": 63.387237000,
+    "lon": 10.330177000,
+    "address": "Enromvegen 2",
+    "postalCode": "7026",
+    "city": "TRONDHEIM",
+    "url": "https://www.rema.no/butikker/rema-1000-stavset/"
+  },
+  {
+    "id": "2091753",
+    "name": "REMA 1000 STEMMEN",
+    "lat": 58.979187300,
+    "lon": 5.715547430,
+    "address": "Tastagata 36",
+    "postalCode": "4007",
+    "city": "STAVANGER",
+    "url": "https://www.rema.no/butikker/rema-1000-stemmen/"
+  },
+  {
+    "id": "2097549",
+    "name": "REMA 1000 STJØRDAL",
+    "lat": 63.468451900,
+    "lon": 10.925990100,
+    "address": "Anna Mogaards gate 9",
+    "postalCode": "7500",
+    "city": "STJØRDAL",
+    "url": "https://www.rema.no/butikker/rema-1000-stjordal/"
+  },
+  {
+    "id": "2076975",
+    "name": "REMA 1000 STOA",
+    "lat": 58.464842000,
+    "lon": 8.710840000,
+    "address": "Sagvannsveien 16",
+    "postalCode": "4848",
+    "city": "ARENDAL",
+    "url": "https://www.rema.no/butikker/rema-1000-stoa/"
+  },
+  {
+    "id": "2092003",
+    "name": "REMA 1000 STOKKE",
+    "lat": 59.221991500,
+    "lon": 10.304635600,
+    "address": "Kornmagasingata 7",
+    "postalCode": "3160",
+    "city": "STOKKE",
+    "url": "https://www.rema.no/butikker/rema-1000-stokke/"
+  },
+  {
+    "id": "2088948",
+    "name": "REMA 1000 STOKKENES",
+    "lat": 61.910340000,
+    "lon": 6.002981000,
+    "address": "Uldegrova 2",
+    "postalCode": "6770",
+    "city": "NORDFJORDEID",
+    "url": "https://www.rema.no/butikker/rema-1000-stokkenes/"
+  },
+  {
+    "id": "2091943",
+    "name": "REMA 1000 STOKMARKNES",
+    "lat": 68.565093200,
+    "lon": 14.910159000,
+    "address": "Markedsgata 21",
+    "postalCode": "8450",
+    "city": "STOKMARKNES",
+    "url": "https://www.rema.no/butikker/rema-1000-stokmarknes/"
+  },
+  {
+    "id": "2037318",
+    "name": "REMA 1000 STORABERGET",
+    "lat": 58.896093000,
+    "lon": 5.724412500,
+    "address": "Binnekroken 1",
+    "postalCode": "4034",
+    "city": "STAVANGER",
+    "url": "https://www.rema.no/butikker/rema-1000-storaberget/"
+  },
+  {
+    "id": "2091812",
+    "name": "REMA 1000 STOREBØ SENTER",
+    "lat": 60.096228000,
+    "lon": 5.225080000,
+    "address": "Storebøvegen 50, Storebø Senter",
+    "postalCode": "5392",
+    "city": "STOREBØ",
+    "url": "https://www.rema.no/butikker/rema-1000-storebo-senter/"
+  },
+  {
+    "id": "2096953",
+    "name": "REMA 1000 STORGATA",
+    "lat": 59.913837900,
+    "lon": 10.751554600,
+    "address": "STENERSGATA 8",
+    "postalCode": "0184",
+    "city": "OSLO",
+    "url": "https://www.rema.no/butikker/rema-1000-storgata/"
+  },
+  {
+    "id": "2028967",
+    "name": "REMA 1000 STORHAMAR",
+    "lat": 60.801726000,
+    "lon": 11.035147000,
+    "address": "Kornsilovegen 58",
+    "postalCode": "2316",
+    "city": "HAMAR",
+    "url": "https://www.rema.no/butikker/rema-1000-storhamar/"
+  },
+  {
+    "id": "2099572",
+    "name": "REMA 1000 STORHAUG",
+    "lat": 58.966269300,
+    "lon": 5.759117200,
+    "address": "Ryfylkegata 61",
+    "postalCode": "4014",
+    "city": "STAVANGER",
+    "url": "https://www.rema.no/butikker/rema-1000-storhaug/"
+  },
+  {
+    "id": "1534150",
+    "name": "REMA 1000 STORMYRA",
+    "lat": 67.282255800,
+    "lon": 14.413725500,
+    "address": "Gamle Riksvei 7",
+    "postalCode": "8008",
+    "city": "BODØ",
+    "url": "https://www.rema.no/butikker/rema-1000-stormyra/"
+  },
+  {
+    "id": "1555923",
+    "name": "REMA 1000 STORO",
+    "lat": 59.943702700,
+    "lon": 10.770937200,
+    "address": "Sandakerveien 78",
+    "postalCode": "0484",
+    "city": "OSLO",
+    "url": "https://www.rema.no/butikker/rema-1000-storo/"
+  },
+  {
+    "id": "2091987",
+    "name": "REMA 1000 STORSLETT",
+    "lat": 69.768290600,
+    "lon": 21.008328900,
+    "address": "Hovedvegen 12A",
+    "postalCode": "9151",
+    "city": "STORSLETT",
+    "url": "https://www.rema.no/butikker/rema-1000-storslett/"
+  },
+  {
+    "id": "1504719",
+    "name": "REMA 1000 STORSVINGEN",
+    "lat": 70.652460000,
+    "lon": 23.663436000,
+    "address": "Storsvingen 4",
+    "postalCode": "9610",
+    "city": "RYPEFJORD",
+    "url": "https://www.rema.no/butikker/rema-1000-storsvingen/"
+  },
+  {
+    "id": "2091864",
+    "name": "REMA 1000 STRANDA",
+    "lat": 62.309019300,
+    "lon": 6.944247050,
+    "address": "Fagervollvegen 15",
+    "postalCode": "6200",
+    "city": "STRANDA",
+    "url": "https://www.rema.no/butikker/rema-1000-stranda/"
+  },
+  {
+    "id": "2091966",
+    "name": "REMA 1000 STRANDGATA",
+    "lat": 62.470272900,
+    "lon": 6.138930830,
+    "address": "Nedre Strandgate 57",
+    "postalCode": "6005",
+    "city": "ÅLESUND",
+    "url": "https://www.rema.no/butikker/rema-1000-strandgata/"
+  },
+  {
+    "id": "2093991",
+    "name": "REMA 1000 STRANDTORGET",
+    "lat": 61.113685200,
+    "lon": 10.450074300,
+    "address": "Strandpromenaden 81",
+    "postalCode": "2609",
+    "city": "LILLEHAMMER",
+    "url": "https://www.rema.no/butikker/rema-1000-strandtorget/"
+  },
+  {
+    "id": "1514822",
+    "name": "REMA 1000 STRANDVEGEN",
+    "lat": 69.635310000,
+    "lon": 18.934551000,
+    "address": "Strandvegen 106",
+    "postalCode": "9006",
+    "city": "TROMSØ",
+    "url": "https://www.rema.no/butikker/rema-1000-strandvegen/"
+  },
+  {
+    "id": "2092086",
+    "name": "REMA 1000 STRIDSKLEV",
+    "lat": 59.116711000,
+    "lon": 9.661915000,
+    "address": "Stridsklev Ring 32",
+    "postalCode": "3929",
+    "city": "PORSGRUNN",
+    "url": "https://www.rema.no/butikker/rema-1000-stridsklev/"
+  },
+  {
+    "id": "2083750",
+    "name": "REMA 1000 STRUSSHAMN",
+    "lat": 60.406278000,
+    "lon": 5.193886000,
+    "address": "Strusshamnvegen 36",
+    "postalCode": "5302",
+    "city": "STRUSSHAMN",
+    "url": "https://www.rema.no/butikker/rema-1000-strusshamn/"
+  },
+  {
+    "id": "1552844",
+    "name": "REMA 1000 STRYN",
+    "lat": 61.903388000,
+    "lon": 6.718593000,
+    "address": "Tonningsgata 4",
+    "postalCode": "6783",
+    "city": "STRYN",
+    "url": "https://www.rema.no/butikker/rema-1000-stryn/"
+  },
+  {
+    "id": "2095488",
+    "name": "REMA 1000 STRØMME",
+    "lat": 58.151730700,
+    "lon": 8.078592000,
+    "address": "Strømmeveien 92",
+    "postalCode": "4604",
+    "city": "KRISTIANSAND S",
+    "url": "https://www.rema.no/butikker/rema-1000-stromme/"
+  },
+  {
+    "id": "1556291",
+    "name": "REMA 1000 STRØMMEN STORSENTER",
+    "lat": 59.947286000,
+    "lon": 11.007331000,
+    "address": "Støperiveien 5",
+    "postalCode": "2010",
+    "city": "STRØMMEN",
+    "url": "https://www.rema.no/butikker/rema-1000-strommen-storsenter/"
+  },
+  {
+    "id": "2057106",
+    "name": "REMA 1000 STØREN",
+    "lat": 63.042353200,
+    "lon": 10.285891400,
+    "address": "Moøya 34",
+    "postalCode": "7290",
+    "city": "STØREN",
+    "url": "https://www.rema.no/butikker/rema-1000-storen/"
+  },
+  {
+    "id": "2082523",
+    "name": "REMA 1000 SULJORDET VERDAL",
+    "lat": 63.794427000,
+    "lon": 11.480530000,
+    "address": "Johannes Bruns gate 8",
+    "postalCode": "7650",
+    "city": "VERDAL",
+    "url": "https://www.rema.no/butikker/rema-1000-suljordet-verdal/"
+  },
+  {
+    "id": "2091931",
+    "name": "REMA 1000 SUNDE",
+    "lat": 58.956485900,
+    "lon": 5.636071880,
+    "address": "Bråde 2",
+    "postalCode": "4046",
+    "city": "HAFRSFJORD",
+    "url": "https://www.rema.no/butikker/rema-1000-sunde/"
+  },
+  {
+    "id": "2091743",
+    "name": "REMA 1000 SUNNDALSØRA",
+    "lat": 62.672445800,
+    "lon": 8.567668850,
+    "address": "Sunndalsvegen 17",
+    "postalCode": "6600",
+    "city": "SUNNDALSØRA",
+    "url": "https://www.rema.no/butikker/rema-1000-sunndalsora/"
+  },
+  {
+    "id": "1522780",
+    "name": "REMA 1000 SURNADAL",
+    "lat": 62.970024500,
+    "lon": 8.712879920,
+    "address": "Øravegen 4",
+    "postalCode": "6650",
+    "city": "SURNADAL",
+    "url": "https://www.rema.no/butikker/rema-1000-surnadal/"
+  },
+  {
+    "id": "2083745",
+    "name": "REMA 1000 SVARSTAD",
+    "lat": 59.401461400,
+    "lon": 9.957087020,
+    "address": "Lågaveien 14",
+    "postalCode": "3275",
+    "city": "SVARSTAD",
+    "url": "https://www.rema.no/butikker/rema-1000-svarstad/"
+  },
+  {
+    "id": "1553244",
+    "name": "REMA 1000 SVEBERG",
+    "lat": 63.420645900,
+    "lon": 10.755015500,
+    "address": "Svebergvegen 3",
+    "postalCode": "7550",
+    "city": "HOMMELVIK",
+    "url": "https://www.rema.no/butikker/rema-1000-sveberg/"
+  },
+  {
+    "id": "2096954",
+    "name": "REMA 1000 SVELVIK",
+    "lat": 59.617776300,
+    "lon": 10.407934800,
+    "address": "Storgata 64",
+    "postalCode": "3060",
+    "city": "SVELVIK",
+    "url": "https://www.rema.no/butikker/rema-1000-svelvik/"
+  },
+  {
+    "id": "2091818",
+    "name": "REMA 1000 SVINESUNDPARKEN",
+    "lat": 59.128434000,
+    "lon": 11.274532000,
+    "address": "Svinesundparken 3A",
+    "postalCode": "1788",
+    "city": "HALDEN",
+    "url": "https://www.rema.no/butikker/rema-1000-svinesundparken/"
+  },
+  {
+    "id": "2092025",
+    "name": "REMA 1000 SVOLVÆR",
+    "lat": 68.235071800,
+    "lon": 14.560053500,
+    "address": "Valgata 10",
+    "postalCode": "8300",
+    "city": "SVOLVÆR",
+    "url": "https://www.rema.no/butikker/rema-1000-svolvaer/"
+  },
+  {
+    "id": "2099144",
+    "name": "REMA 1000 SYKKYLVEN",
+    "lat": 62.392136000,
+    "lon": 6.578070000,
+    "address": "Sykkylvsvegen 301",
+    "postalCode": "6230",
+    "city": "SYKKYLVEN",
+    "url": "https://www.rema.no/butikker/rema-1000-sykkylven/"
+  },
+  {
+    "id": "2083623",
+    "name": "REMA 1000 SYMRA",
+    "lat": 59.875560800,
+    "lon": 10.811031300,
+    "address": "Cecilie Thoresens vei 12",
+    "postalCode": "1153",
+    "city": "OSLO",
+    "url": "https://www.rema.no/butikker/rema-1000-symra/"
+  },
+  {
+    "id": "2075745",
+    "name": "REMA 1000 SÆTERKRYSSET",
+    "lat": 59.860485200,
+    "lon": 10.801450900,
+    "address": "Nordstrandveien 47",
+    "postalCode": "1163",
+    "city": "OSLO",
+    "url": "https://www.rema.no/butikker/rema-1000-saeterkrysset/"
+  },
+  {
+    "id": "2091759",
+    "name": "REMA 1000 SØBAKKEN",
+    "lat": 60.895918000,
+    "lon": 11.581834000,
+    "address": "Søbakkveien 115",
+    "postalCode": "2409",
+    "city": "ELVERUM",
+    "url": "https://www.rema.no/butikker/rema-1000-sobakken/"
+  },
+  {
+    "id": "2057364",
+    "name": "REMA 1000 SØDERLUNDMYRA",
+    "lat": 66.317765300,
+    "lon": 14.144444400,
+    "address": "Søderlundmyra 14",
+    "postalCode": "8622",
+    "city": "MO I RANA",
+    "url": "https://www.rema.no/butikker/rema-1000-soderlundmyra/"
+  },
+  {
+    "id": "2092005",
+    "name": "REMA 1000 SØGNE",
+    "lat": 58.097802900,
+    "lon": 7.811058700,
+    "address": "GAMLE HØGSKOLEVEI 24",
+    "postalCode": "4640",
+    "city": "SØGNE",
+    "url": "https://www.rema.no/butikker/rema-1000-sogne/"
+  },
+  {
+    "id": "2094194",
+    "name": "REMA 1000 SØRE ÅL",
+    "lat": 61.099952300,
+    "lon": 10.471485300,
+    "address": "Hagevegen 8 A",
+    "postalCode": "2613",
+    "city": "LILLEHAMMER",
+    "url": "https://www.rema.no/butikker/rema-1000-sore-al/"
+  },
+  {
+    "id": "2077029",
+    "name": "REMA 1000 SØREIDE",
+    "lat": 60.306073000,
+    "lon": 5.269011000,
+    "address": "Dolvikbakken 4",
+    "postalCode": "5252",
+    "city": "SØREIDGREND",
+    "url": "https://www.rema.no/butikker/rema-1000-soreide/"
+  },
+  {
+    "id": "2057365",
+    "name": "REMA 1000 SØRENGA",
+    "lat": 59.902829600,
+    "lon": 10.754882200,
+    "address": "Sørengkaia 11",
+    "postalCode": "0194",
+    "city": "OSLO",
+    "url": "https://www.rema.no/butikker/rema-1000-sorenga/"
+  },
+  {
+    "id": "2091863",
+    "name": "REMA 1000 SØRFJORDSENTERET",
+    "lat": 60.070286000,
+    "lon": 6.542137000,
+    "address": "Eitrheimsvegen 32",
+    "postalCode": "5750",
+    "city": "ODDA",
+    "url": "https://www.rema.no/butikker/rema-1000-sorfjordsenteret/"
+  },
+  {
+    "id": "2091993",
+    "name": "REMA 1000 SØRLANDSPARKEN",
+    "lat": 58.179273000,
+    "lon": 8.125964000,
+    "address": "SKIBÅSEN 41",
+    "postalCode": "4636",
+    "city": "KRISTIANSAND S",
+    "url": "https://www.rema.no/butikker/rema-1000-sorlandsparken/"
+  },
+  {
+    "id": "1554625",
+    "name": "REMA 1000 SØRREISA",
+    "lat": 69.145177000,
+    "lon": 18.155935000,
+    "address": "Larsegårdveien 10",
+    "postalCode": "9310",
+    "city": "SØRREISA",
+    "url": "https://www.rema.no/butikker/rema-1000-sorreisa/"
+  },
+  {
+    "id": "2091959",
+    "name": "REMA 1000 SØRSIA",
+    "lat": 64.009624000,
+    "lon": 11.493758000,
+    "address": "Fjordgata 2",
+    "postalCode": "7714",
+    "city": "STEINKJER",
+    "url": "https://www.rema.no/butikker/rema-1000-sorsia/"
+  },
+  {
+    "id": "1518702",
+    "name": "REMA 1000 SØRUMSAND",
+    "lat": 59.987364000,
+    "lon": 11.246024000,
+    "address": "Tverrveien 2",
+    "postalCode": "1920",
+    "city": "SØRUMSAND",
+    "url": "https://www.rema.no/butikker/rema-1000-sorumsand/"
+  },
+  {
+    "id": "2092023",
+    "name": "REMA 1000 TANA",
+    "lat": 70.198740400,
+    "lon": 28.190560000,
+    "address": "Ringveien 4",
+    "postalCode": "9845",
+    "city": "TANA",
+    "url": "https://www.rema.no/butikker/rema-1000-tana/"
+  },
+  {
+    "id": "2096956",
+    "name": "REMA 1000 TANANGER",
+    "lat": 58.935193300,
+    "lon": 5.587275400,
+    "address": "Skibmannsvegen 1 B",
+    "postalCode": "4056",
+    "city": "TANANGER",
+    "url": "https://www.rema.no/butikker/rema-1000-tananger/"
+  },
+  {
+    "id": "2091718",
+    "name": "REMA 1000 TANGEN",
+    "lat": 58.148188000,
+    "lon": 8.006049000,
+    "address": "Østre Strandgate 67",
+    "postalCode": "4608",
+    "city": "KRISTIANSAND S",
+    "url": "https://www.rema.no/butikker/rema-1000-tangen/"
+  },
+  {
+    "id": "2091850",
+    "name": "REMA 1000 TASTA",
+    "lat": 58.983207200,
+    "lon": 5.685710110,
+    "address": "Smietunet 84",
+    "postalCode": "4027",
+    "city": "STAVANGER",
+    "url": "https://www.rema.no/butikker/rema-1000-tasta/"
+  },
+  {
+    "id": "2089332",
+    "name": "REMA 1000 TAU",
+    "lat": 59.065144400,
+    "lon": 5.918891800,
+    "address": "Ryfylkevegen 1986",
+    "postalCode": "4120",
+    "city": "TAU",
+    "url": "https://www.rema.no/butikker/rema-1000-tau/"
+  },
+  {
+    "id": "2091958",
+    "name": "REMA 1000 TEIE",
+    "lat": 59.251865000,
+    "lon": 10.418710000,
+    "address": "Smidsrødveien 11",
+    "postalCode": "3120",
+    "city": "NØTTERØY",
+    "url": "https://www.rema.no/butikker/rema-1000-teie/"
+  },
+  {
+    "id": "2039224",
+    "name": "REMA 1000 TEMPOKRYSSET",
+    "lat": 59.136530000,
+    "lon": 10.214025000,
+    "address": "SKIRINGSSALVEIEN 9A",
+    "postalCode": "3211",
+    "city": "SANDEFJORD",
+    "url": "https://www.rema.no/butikker/rema-1000-tempokrysset/"
+  },
+  {
+    "id": "2056237",
+    "name": "REMA 1000 TERNINGEN",
+    "lat": 60.884233000,
+    "lon": 11.537487000,
+    "address": "Jegerstien 12",
+    "postalCode": "2406",
+    "city": "ELVERUM",
+    "url": "https://www.rema.no/butikker/rema-1000-terningen/"
+  },
+  {
+    "id": "2091835",
+    "name": "REMA 1000 THON SENTER MOSS",
+    "lat": 59.436192000,
+    "lon": 10.665250000,
+    "address": "Dronningens gate 3A",
+    "postalCode": "1530",
+    "city": "MOSS",
+    "url": "https://www.rema.no/butikker/rema-1000-thon-senter-moss/"
+  },
+  {
+    "id": "2091706",
+    "name": "REMA 1000 THORØYA",
+    "lat": 59.102676000,
+    "lon": 10.223388000,
+    "address": "Thorøyaveien 4",
+    "postalCode": "3209",
+    "city": "SANDEFJORD",
+    "url": "https://www.rema.no/butikker/rema-1000-thoroya/"
+  },
+  {
+    "id": "2091723",
+    "name": "REMA 1000 TILLER",
+    "lat": 63.359710000,
+    "lon": 10.375932000,
+    "address": "Ivar Lykkes vei 1",
+    "postalCode": "7075",
+    "city": "TILLER",
+    "url": "https://www.rema.no/butikker/rema-1000-tiller/"
+  },
+  {
+    "id": "2064972",
+    "name": "REMA 1000 TINGSAKER",
+    "lat": 58.260983700,
+    "lon": 8.392210800,
+    "address": "TINGSAKERBAKKEN 15",
+    "postalCode": "4790",
+    "city": "LILLESAND",
+    "url": "https://www.rema.no/butikker/rema-1000-tingsaker/"
+  },
+  {
+    "id": "1555924",
+    "name": "REMA 1000 TINNHEIA",
+    "lat": 58.146843000,
+    "lon": 7.956629000,
+    "address": "Tinnheiveien 20",
+    "postalCode": "4629",
+    "city": "KRISTIANSAND S",
+    "url": "https://www.rema.no/butikker/rema-1000-tinnheia/"
+  },
+  {
+    "id": "2092800",
+    "name": "REMA 1000 TISTEDAL",
+    "lat": 59.125795900,
+    "lon": 11.445028900,
+    "address": "Aremarkveien 4",
+    "postalCode": "1792",
+    "city": "TISTEDAL",
+    "url": "https://www.rema.no/butikker/rema-1000-tistedal/"
+  },
+  {
+    "id": "2082602",
+    "name": "REMA 1000 TJØME",
+    "lat": 59.121188000,
+    "lon": 10.400568000,
+    "address": "Haugsjordet 5",
+    "postalCode": "3145",
+    "city": "TJØME",
+    "url": "https://www.rema.no/butikker/rema-1000-tjome/"
+  },
+  {
+    "id": "2069145",
+    "name": "REMA 1000 TOLLBODEN",
+    "lat": 60.398817000,
+    "lon": 5.309707000,
+    "address": "C. Sundts gate 60",
+    "postalCode": "5004",
+    "city": "BERGEN",
+    "url": "https://www.rema.no/butikker/rema-1000-tollboden/"
+  },
+  {
+    "id": "2091781",
+    "name": "REMA 1000 TOLLBUGATEN",
+    "lat": 59.730753000,
+    "lon": 10.222107000,
+    "address": "Tollbugaten 114",
+    "postalCode": "3041",
+    "city": "DRAMMEN",
+    "url": "https://www.rema.no/butikker/rema-1000-tollbugaten/"
+  },
+  {
+    "id": "2076530",
+    "name": "REMA 1000 TOLLNES",
+    "lat": 59.164682000,
+    "lon": 9.635172000,
+    "address": "Leirvollen 6",
+    "postalCode": "3736",
+    "city": "SKIEN",
+    "url": "https://www.rema.no/butikker/rema-1000-tollnes/"
+  },
+  {
+    "id": "2059766",
+    "name": "REMA 1000 TOMASJORD",
+    "lat": 69.664783000,
+    "lon": 19.021022000,
+    "address": "Evjenvegen 120",
+    "postalCode": "9024",
+    "city": "TOMASJORD",
+    "url": "https://www.rema.no/butikker/rema-1000-tomasjord/"
+  },
+  {
+    "id": "1664694",
+    "name": "REMA 1000 TOPPEN",
+    "lat": 59.490759000,
+    "lon": 10.293734000,
+    "address": "Hvittingfossveien 131",
+    "postalCode": "3085",
+    "city": "HOLMESTRAND",
+    "url": "https://www.rema.no/butikker/rema-1000-toppen/"
+  },
+  {
+    "id": "1975648",
+    "name": "REMA 1000 TORDENSKJOLDSGATE",
+    "lat": 58.146872500,
+    "lon": 7.989457900,
+    "address": "Kristian IVs gate 5",
+    "postalCode": "4612",
+    "city": "KRISTIANSAND S",
+    "url": "https://www.rema.no/butikker/rema-1000-tordenskjoldsgate/"
+  },
+  {
+    "id": "1552845",
+    "name": "REMA 1000 TORGGATA",
+    "lat": 59.913749400,
+    "lon": 10.747143000,
+    "address": "Torggata 2",
+    "postalCode": "0181",
+    "city": "OSLO",
+    "url": "https://www.rema.no/butikker/rema-1000-torggata/"
+  },
+  {
+    "id": "2092631",
+    "name": "REMA 1000 TORP",
+    "lat": 59.248569800,
+    "lon": 11.026276400,
+    "address": "Roald Amundsens vei 199B",
+    "postalCode": "1658",
+    "city": "TORP",
+    "url": "https://www.rema.no/butikker/rema-1000-torp/"
+  },
+  {
+    "id": "2077743",
+    "name": "REMA 1000 TORSBUDALEN",
+    "lat": 58.481225000,
+    "lon": 8.756155000,
+    "address": "Torsbuåsen 2",
+    "postalCode": "4846",
+    "city": "ARENDAL",
+    "url": "https://www.rema.no/butikker/rema-1000-torsbudalen/"
+  },
+  {
+    "id": "2091992",
+    "name": "REMA 1000 TORSHOV",
+    "lat": 59.934054500,
+    "lon": 10.761479200,
+    "address": "Sandakerveien 24B",
+    "postalCode": "0473",
+    "city": "OSLO",
+    "url": "https://www.rema.no/butikker/rema-1000-torshov/"
+  },
+  {
+    "id": "1789486",
+    "name": "REMA 1000 TORSHOVDALEN",
+    "lat": 59.938362000,
+    "lon": 10.780828600,
+    "address": "Hans Nielsen Hauges gate 37E",
+    "postalCode": "0481",
+    "city": "OSLO",
+    "url": "https://www.rema.no/butikker/rema-1000-torshovdalen/"
+  },
+  {
+    "id": "2091988",
+    "name": "REMA 1000 TORVET",
+    "lat": 63.429736000,
+    "lon": 10.394078000,
+    "address": "Munkegata 22",
+    "postalCode": "7013",
+    "city": "TRONDHEIM",
+    "url": "https://www.rema.no/butikker/rema-1000-torvet/"
+  },
+  {
+    "id": "2100183",
+    "name": "REMA 1000 TRAVBANEN",
+    "lat": 58.892465000,
+    "lon": 5.732308400,
+    "address": "Nådlandsbråtet 40",
+    "postalCode": "4034",
+    "city": "STAVANGER",
+    "url": "https://www.rema.no/butikker/rema-1000-travbanen/"
+  },
+  {
+    "id": "1552846",
+    "name": "REMA 1000 TRELASTGÅRDEN",
+    "lat": 59.910489000,
+    "lon": 10.764552000,
+    "address": "Platous gate 33",
+    "postalCode": "0190",
+    "city": "OSLO",
+    "url": "https://www.rema.no/butikker/rema-1000-trelastgarden/"
+  },
+  {
+    "id": "1728453",
+    "name": "REMA 1000 TRESCHOWSGATE",
+    "lat": 59.938975700,
+    "lon": 10.762347400,
+    "address": "Treschows gate 19B",
+    "postalCode": "0470",
+    "city": "OSLO",
+    "url": "https://www.rema.no/butikker/rema-1000-treschowsgate/"
+  },
+  {
+    "id": "2091761",
+    "name": "REMA 1000 TROMSDALEN",
+    "lat": 69.640895100,
+    "lon": 18.971424800,
+    "address": "Solstrandvegen 47",
+    "postalCode": "9020",
+    "city": "TROMSDALEN",
+    "url": "https://www.rema.no/butikker/rema-1000-tromsdalen/"
+  },
+  {
+    "id": "2092019",
+    "name": "REMA 1000 TROMSØ-K1",
+    "lat": 69.673825000,
+    "lon": 18.918412000,
+    "address": "Karlsøyveien 1",
+    "postalCode": "9015",
+    "city": "TROMSØ",
+    "url": "https://www.rema.no/butikker/rema-1000-tromso-k1/"
+  },
+  {
+    "id": "2091752",
+    "name": "REMA 1000 TRYSIL",
+    "lat": 61.315033000,
+    "lon": 12.255140000,
+    "address": "Vestsidevegen 6",
+    "postalCode": "2420",
+    "city": "TRYSIL",
+    "url": "https://www.rema.no/butikker/rema-1000-trysil/"
+  },
+  {
+    "id": "2042479",
+    "name": "REMA 1000 TRØGSTAD",
+    "lat": 59.641906100,
+    "lon": 11.315495400,
+    "address": "Kirkeveien 19",
+    "postalCode": "1860",
+    "city": "TRØGSTAD",
+    "url": "https://www.rema.no/butikker/rema-1000-trogstad/"
+  },
+  {
+    "id": "2091861",
+    "name": "REMA 1000 TUVEN",
+    "lat": 59.566821000,
+    "lon": 9.219221000,
+    "address": "Semsvegen 40A",
+    "postalCode": "3676",
+    "city": "NOTODDEN",
+    "url": "https://www.rema.no/butikker/rema-1000-tuven/"
+  },
+  {
+    "id": "2091942",
+    "name": "REMA 1000 TVEDESTRAND",
+    "lat": 58.627178000,
+    "lon": 8.920646000,
+    "address": "Fjærkleivene 49",
+    "postalCode": "4900",
+    "city": "TVEDESTRAND",
+    "url": "https://www.rema.no/butikker/rema-1000-tvedestrand/"
+  },
+  {
+    "id": "1513342",
+    "name": "REMA 1000 TVERLANDET",
+    "lat": 67.296713400,
+    "lon": 14.745346700,
+    "address": "Grøttingen 1",
+    "postalCode": "8050",
+    "city": "TVERLANDET",
+    "url": "https://www.rema.no/butikker/rema-1000-tverlandet/"
+  },
+  {
+    "id": "2091867",
+    "name": "REMA 1000 TYNSET",
+    "lat": 62.278874000,
+    "lon": 10.775635000,
+    "address": "Elfengveien 4 B",
+    "postalCode": "2500",
+    "city": "TYNSET",
+    "url": "https://www.rema.no/butikker/rema-1000-tynset/"
+  },
+  {
+    "id": "2092014",
+    "name": "REMA 1000 TØNSBERG",
+    "lat": 59.274533000,
+    "lon": 10.428997000,
+    "address": "Slagenveien 57",
+    "postalCode": "3117",
+    "city": "TØNSBERG",
+    "url": "https://www.rema.no/butikker/rema-1000-tonsberg/"
+  },
+  {
+    "id": "2091716",
+    "name": "REMA 1000 TØYEN",
+    "lat": 59.914369600,
+    "lon": 10.774527000,
+    "address": "Hagegata 23",
+    "postalCode": "0653",
+    "city": "OSLO",
+    "url": "https://www.rema.no/butikker/rema-1000-toyen/"
+  },
+  {
+    "id": "2098363",
+    "name": "REMA 1000 ULLEVAAL STADION",
+    "lat": 59.949128700,
+    "lon": 10.732644700,
+    "address": "Sognsveien 75B",
+    "postalCode": "0855",
+    "city": "OSLO",
+    "url": "https://www.rema.no/butikker/rema-1000-ullevaal-stadion/"
+  },
+  {
+    "id": "2091932",
+    "name": "REMA 1000 ULSET",
+    "lat": 60.462665000,
+    "lon": 5.319386000,
+    "address": "Hesthaugveien 16",
+    "postalCode": "5119",
+    "city": "ULSET",
+    "url": "https://www.rema.no/butikker/rema-1000-ulset/"
+  },
+  {
+    "id": "2092021",
+    "name": "REMA 1000 ULSRUD",
+    "lat": 59.891962100,
+    "lon": 10.853085300,
+    "address": "Østmarkveien 27",
+    "postalCode": "0687",
+    "city": "OSLO",
+    "url": "https://www.rema.no/butikker/rema-1000-ulsrud/"
+  },
+  {
+    "id": "2091980",
+    "name": "REMA 1000 ULSTEINVIK",
+    "lat": 62.337753900,
+    "lon": 5.852961310,
+    "address": "Glopen 1",
+    "postalCode": "6065",
+    "city": "ULSTEINVIK",
+    "url": "https://www.rema.no/butikker/rema-1000-ulsteinvik/"
+  },
+  {
+    "id": "2056892",
+    "name": "REMA 1000 VABAKKJEN",
+    "lat": 59.773961000,
+    "lon": 5.485773000,
+    "address": "Vabakkjen 4A",
+    "postalCode": "5411",
+    "city": "STORD",
+    "url": "https://www.rema.no/butikker/rema-1000-vabakkjen/"
+  },
+  {
+    "id": "2088846",
+    "name": "REMA 1000 VALLE",
+    "lat": 59.916809800,
+    "lon": 10.806546600,
+    "address": "Innspurten 13 B",
+    "postalCode": "0663",
+    "city": "OSLO",
+    "url": "https://www.rema.no/butikker/rema-1000-valle/"
+  },
+  {
+    "id": "2091845",
+    "name": "REMA 1000 VALLERMYRENE",
+    "lat": 59.134985000,
+    "lon": 9.671554000,
+    "address": "Langmyrvegen 12",
+    "postalCode": "3917",
+    "city": "PORSGRUNN",
+    "url": "https://www.rema.no/butikker/rema-1000-vallermyrene/"
+  },
+  {
+    "id": "2040195",
+    "name": "REMA 1000 VANSE",
+    "lat": 58.098093000,
+    "lon": 6.690790000,
+    "address": "Oreveien 5",
+    "postalCode": "4560",
+    "city": "VANSE",
+    "url": "https://www.rema.no/butikker/rema-1000-vanse/"
+  },
+  {
+    "id": "2091872",
+    "name": "REMA 1000 VARATUN",
+    "lat": 58.865702500,
+    "lon": 5.735633470,
+    "address": "Postveien 142 A",
+    "postalCode": "4317",
+    "city": "SANDNES",
+    "url": "https://www.rema.no/butikker/rema-1000-varatun/"
+  },
+  {
+    "id": "2092013",
+    "name": "REMA 1000 VARDØ",
+    "lat": 70.371017900,
+    "lon": 31.119703100,
+    "address": "Rømoveien 41B",
+    "postalCode": "9950",
+    "city": "VARDØ",
+    "url": "https://www.rema.no/butikker/rema-1000-vardo/"
+  },
+  {
+    "id": "2048319",
+    "name": "REMA 1000 VARNAVEIEN",
+    "lat": 59.417272000,
+    "lon": 10.675844000,
+    "address": "Varnaveien 30",
+    "postalCode": "1523",
+    "city": "MOSS",
+    "url": "https://www.rema.no/butikker/rema-1000-varnaveien/"
+  },
+  {
+    "id": "2097077",
+    "name": "REMA 1000 VATVEDT TORG",
+    "lat": 59.283118600,
+    "lon": 11.119731700,
+    "address": "Oscar Pedersens vei 3",
+    "postalCode": "1707",
+    "city": "SARPSBORG",
+    "url": "https://www.rema.no/butikker/rema-1000-vatvedt-torg/"
+  },
+  {
+    "id": "2083703",
+    "name": "REMA 1000 VEISLETTA",
+    "lat": 70.080662000,
+    "lon": 29.706481000,
+    "address": "Tanavegen 12",
+    "postalCode": "9801",
+    "city": "VADSØ",
+    "url": "https://www.rema.no/butikker/rema-1000-veisletta/"
+  },
+  {
+    "id": "2091825",
+    "name": "REMA 1000 VEITA",
+    "lat": 69.651937000,
+    "lon": 18.958180000,
+    "address": "Storgata 102",
+    "postalCode": "9008",
+    "city": "TROMSØ",
+    "url": "https://www.rema.no/butikker/rema-1000-veita/"
+  },
+  {
+    "id": "2073164",
+    "name": "REMA 1000 VEITVET",
+    "lat": 59.944354200,
+    "lon": 10.847901600,
+    "address": "Veitvetveien 8",
+    "postalCode": "0596",
+    "city": "OSLO",
+    "url": "https://www.rema.no/butikker/rema-1000-veitvet/"
+  },
+  {
+    "id": "1554528",
+    "name": "REMA 1000 VELDREBAKKEN",
+    "lat": 59.047477000,
+    "lon": 9.996604430,
+    "address": "Ulfsbakveien 2",
+    "postalCode": "3267",
+    "city": "LARVIK",
+    "url": "https://www.rema.no/butikker/rema-1000-veldrebakken/"
+  },
+  {
+    "id": "1544321",
+    "name": "REMA 1000 VENNESLA",
+    "lat": 58.250709000,
+    "lon": 7.964439000,
+    "address": "Lundevegen 47A",
+    "postalCode": "4708",
+    "city": "VENNESLA",
+    "url": "https://www.rema.no/butikker/rema-1000-vennesla/"
+  },
+  {
+    "id": "2091789",
+    "name": "REMA 1000 VERDAL",
+    "lat": 63.791849000,
+    "lon": 11.485240000,
+    "address": "Jernbanegata 11",
+    "postalCode": "7650",
+    "city": "VERDAL",
+    "url": "https://www.rema.no/butikker/rema-1000-verdal/"
+  },
+  {
+    "id": "2092427",
+    "name": "REMA 1000 VERDALEN",
+    "lat": 58.781516900,
+    "lon": 5.617948200,
+    "address": "Bjørkestubben 4",
+    "postalCode": "4351",
+    "city": "KLEPPE",
+    "url": "https://www.rema.no/butikker/rema-1000-verdalen/"
+  },
+  {
+    "id": "2091858",
+    "name": "REMA 1000 VESTBY",
+    "lat": 59.601587000,
+    "lon": 10.747077000,
+    "address": "Rådhusparken 24",
+    "postalCode": "1540",
+    "city": "VESTBY",
+    "url": "https://www.rema.no/butikker/rema-1000-vestby/"
+  },
+  {
+    "id": "1664697",
+    "name": "REMA 1000 VESTBY STORSENTER",
+    "lat": 59.603221000,
+    "lon": 10.742192000,
+    "address": "Senterveien 6",
+    "postalCode": "1543",
+    "city": "VESTBY",
+    "url": "https://www.rema.no/butikker/rema-1000-vestby-storsenter/"
+  },
+  {
+    "id": "2092004",
+    "name": "REMA 1000 VESTNES",
+    "lat": 62.624080100,
+    "lon": 7.093929150,
+    "address": "Sjøgata 19",
+    "postalCode": "6390",
+    "city": "VESTNES",
+    "url": "https://www.rema.no/butikker/rema-1000-vestnes/"
+  },
+  {
+    "id": "2091728",
+    "name": "REMA 1000 VESTNES SØR",
+    "lat": 58.028879000,
+    "lon": 7.447003000,
+    "address": "Gustav Vigelandsvei 33",
+    "postalCode": "4514",
+    "city": "MANDAL",
+    "url": "https://www.rema.no/butikker/rema-1000-vestnes-sor/"
+  },
+  {
+    "id": "2082307",
+    "name": "REMA 1000 VIE",
+    "lat": 61.459095000,
+    "lon": 5.890668000,
+    "address": "Vievegen 1",
+    "postalCode": "6800",
+    "city": "FØRDE",
+    "url": "https://www.rema.no/butikker/rema-1000-vie/"
+  },
+  {
+    "id": "2091813",
+    "name": "REMA 1000 VIGELAND",
+    "lat": 58.083240000,
+    "lon": 7.303755000,
+    "address": "Rådhusveien 2A",
+    "postalCode": "4520",
+    "city": "LINDESNES",
+    "url": "https://www.rema.no/butikker/rema-1000-vigeland/"
+  },
+  {
+    "id": "2067973",
+    "name": "REMA 1000 VIGRESTAD",
+    "lat": 58.571497500,
+    "lon": 5.691201660,
+    "address": "Grønholsveien 5",
+    "postalCode": "4362",
+    "city": "VIGRESTAD",
+    "url": "https://www.rema.no/butikker/rema-1000-vigrestad/"
+  },
+  {
+    "id": "2091893",
+    "name": "REMA 1000 VIK",
+    "lat": 60.077785900,
+    "lon": 10.282523600,
+    "address": "VIK TORG 2",
+    "postalCode": "3530",
+    "city": "RØYSE",
+    "url": "https://www.rema.no/butikker/rema-1000-vik/"
+  },
+  {
+    "id": "2068303",
+    "name": "REMA 1000 VIKA",
+    "lat": 59.914393100,
+    "lon": 10.721694900,
+    "address": "Parkveien 64",
+    "postalCode": "0254",
+    "city": "OSLO",
+    "url": "https://www.rema.no/butikker/rema-1000-vika/"
+  },
+  {
+    "id": "2056774",
+    "name": "REMA 1000 VIKEN",
+    "lat": 60.378365300,
+    "lon": 5.328802300,
+    "address": "Damsgårdsveien 35",
+    "postalCode": "5058",
+    "city": "BERGEN",
+    "url": "https://www.rema.no/butikker/rema-1000-viken/"
+  },
+  {
+    "id": "2091823",
+    "name": "REMA 1000 VIKERSUND",
+    "lat": 59.963227000,
+    "lon": 10.000356000,
+    "address": "Idrettsveien 2",
+    "postalCode": "3370",
+    "city": "VIKERSUND",
+    "url": "https://www.rema.no/butikker/rema-1000-vikersund/"
+  },
+  {
+    "id": "2091982",
+    "name": "REMA 1000 VIKHAMMER",
+    "lat": 63.437048900,
+    "lon": 10.626327200,
+    "address": "Ålivegen 2A",
+    "postalCode": "7560",
+    "city": "VIKHAMMER",
+    "url": "https://www.rema.no/butikker/rema-1000-vikhammer/"
+  },
+  {
+    "id": "2091808",
+    "name": "REMA 1000 VINDEREN",
+    "lat": 59.942868300,
+    "lon": 10.703040200,
+    "address": "Holmenveien 1",
+    "postalCode": "0374",
+    "city": "OSLO",
+    "url": "https://www.rema.no/butikker/rema-1000-vinderen/"
+  },
+  {
+    "id": "2030644",
+    "name": "REMA 1000 VINGROM",
+    "lat": 61.046945000,
+    "lon": 10.433418000,
+    "address": "Torpavegen 2",
+    "postalCode": "2607",
+    "city": "VINGROM",
+    "url": "https://www.rema.no/butikker/rema-1000-vingrom/"
+  },
+  {
+    "id": "1494731",
+    "name": "REMA 1000 VINJESGATE",
+    "lat": 59.747008000,
+    "lon": 10.192102000,
+    "address": "Vinjes gate 2",
+    "postalCode": "3018",
+    "city": "DRAMMEN",
+    "url": "https://www.rema.no/butikker/rema-1000-vinjesgate/"
+  },
+  {
+    "id": "2091928",
+    "name": "REMA 1000 VINSTRA",
+    "lat": 61.594918000,
+    "lon": 9.732693000,
+    "address": "Lomovegen 1",
+    "postalCode": "2640",
+    "city": "VINSTRA",
+    "url": "https://www.rema.no/butikker/rema-1000-vinstra/"
+  },
+  {
+    "id": "2030115",
+    "name": "REMA 1000 VINTERBRO",
+    "lat": 59.739540000,
+    "lon": 10.770839000,
+    "address": "Sjøskogenveien 7",
+    "postalCode": "1407",
+    "city": "VINTERBRO",
+    "url": "https://www.rema.no/butikker/rema-1000-vinterbro/"
+  },
+  {
+    "id": "2091779",
+    "name": "REMA 1000 VOIEBYEN",
+    "lat": 58.106737000,
+    "lon": 7.959999000,
+    "address": "Skonnertveien 2A",
+    "postalCode": "4624",
+    "city": "KRISTIANSAND S",
+    "url": "https://www.rema.no/butikker/rema-1000-voiebyen/"
+  },
+  {
+    "id": "2091874",
+    "name": "REMA 1000 VOLDA",
+    "lat": 62.144483200,
+    "lon": 6.071982860,
+    "address": "Industrigata 12",
+    "postalCode": "6100",
+    "city": "VOLDA",
+    "url": "https://www.rema.no/butikker/rema-1000-volda/"
+  },
+  {
+    "id": "2098872",
+    "name": "REMA 1000 VOLLEBEKK",
+    "lat": 59.935525100,
+    "lon": 10.826633700,
+    "address": "Brobekkveien 60J",
+    "postalCode": "0598",
+    "city": "OSLO",
+    "url": "https://www.rema.no/butikker/rema-1000-vollebekk/"
+  },
+  {
+    "id": "1554530",
+    "name": "REMA 1000 VOLLEN",
+    "lat": 59.806978000,
+    "lon": 10.486770000,
+    "address": "Arnestadveien 1C",
+    "postalCode": "1390",
+    "city": "VOLLEN",
+    "url": "https://www.rema.no/butikker/rema-1000-vollen/"
+  },
+  {
+    "id": "1965623",
+    "name": "REMA 1000 VULKAN",
+    "lat": 59.922419000,
+    "lon": 10.750940500,
+    "address": "Maridalsveien 15",
+    "postalCode": "0178",
+    "city": "OSLO",
+    "url": "https://www.rema.no/butikker/rema-1000-vulkan/"
+  },
+  {
+    "id": "2091963",
+    "name": "REMA 1000 VÅGSBYGD",
+    "lat": 58.124546000,
+    "lon": 7.953588360,
+    "address": "KIRSTEN FLAGSTADS VEI 30",
+    "postalCode": "4621",
+    "city": "KRISTIANSAND S",
+    "url": "https://www.rema.no/butikker/rema-1000-vagsbygd/"
+  },
+  {
+    "id": "1553128",
+    "name": "REMA 1000 VÆKERØVEIEN",
+    "lat": 59.935183600,
+    "lon": 10.638272500,
+    "address": "Vækerøveien 114 D",
+    "postalCode": "0383",
+    "city": "OSLO",
+    "url": "https://www.rema.no/butikker/rema-1000-vaekeroveien/"
+  },
+  {
+    "id": "2092763",
+    "name": "REMA 1000 VØYENENGA",
+    "lat": 59.908745600,
+    "lon": 10.478829300,
+    "address": "Møllerløkka 1",
+    "postalCode": "1339",
+    "city": "VØYENENGA",
+    "url": "https://www.rema.no/butikker/rema-1000-voyenenga/"
+  },
+  {
+    "id": "2091906",
+    "name": "REMA 1000 WERGELAND",
+    "lat": 60.359950000,
+    "lon": 5.351788000,
+    "address": "Fageråsveien 2",
+    "postalCode": "5067",
+    "city": "BERGEN",
+    "url": "https://www.rema.no/butikker/rema-1000-wergeland/"
+  },
+  {
+    "id": "2093963",
+    "name": "REMA 1000 XHIBITION",
+    "lat": 60.392728500,
+    "lon": 5.326349800,
+    "address": "Småstrandgaten 3",
+    "postalCode": "5014",
+    "city": "BERGEN",
+    "url": "https://www.rema.no/butikker/rema-1000-xhibition/"
+  },
+  {
+    "id": "2091892",
+    "name": "REMA 1000 ÅFJORD",
+    "lat": 63.960413100,
+    "lon": 10.224143200,
+    "address": "Joakim Brevolds allé 7",
+    "postalCode": "7170",
+    "city": "ÅFJORD",
+    "url": "https://www.rema.no/butikker/rema-1000-afjord/"
+  },
+  {
+    "id": "1552847",
+    "name": "REMA 1000 ÅGOTNES",
+    "lat": 60.403666800,
+    "lon": 5.000932650,
+    "address": "Skjærgårdsvegen 1384",
+    "postalCode": "5363",
+    "city": "ÅGOTNES",
+    "url": "https://www.rema.no/butikker/rema-1000-agotnes/"
+  },
+  {
+    "id": "2091983",
+    "name": "REMA 1000 ÅKREHAMN",
+    "lat": 59.264406100,
+    "lon": 5.192710330,
+    "address": "Tungarden 1",
+    "postalCode": "4270",
+    "city": "ÅKREHAMN",
+    "url": "https://www.rema.no/butikker/rema-1000-akrehamn/"
+  },
+  {
+    "id": "1972063",
+    "name": "REMA 1000 ÅLGÅRD",
+    "lat": 58.767732100,
+    "lon": 5.861238200,
+    "address": "Sandnesveien 15",
+    "postalCode": "4331",
+    "city": "ÅLGÅRD",
+    "url": "https://www.rema.no/butikker/rema-1000-algard/"
+  },
+  {
+    "id": "2033282",
+    "name": "REMA 1000 ÅLINGEN",
+    "lat": 60.630898000,
+    "lon": 8.564312000,
+    "address": "Myren 19",
+    "postalCode": "3570",
+    "city": "ÅL",
+    "url": "https://www.rema.no/butikker/rema-1000-alingen/"
+  },
+  {
+    "id": "1555066",
+    "name": "REMA 1000 ÅMOT",
+    "lat": 59.892672000,
+    "lon": 9.926028000,
+    "address": "Lilleåsgata 2A",
+    "postalCode": "3340",
+    "city": "ÅMOT",
+    "url": "https://www.rema.no/butikker/rema-1000-amot/"
+  },
+  {
+    "id": "2091819",
+    "name": "REMA 1000 ÅNDALSNES",
+    "lat": 62.559350200,
+    "lon": 7.682357130,
+    "address": "Øran Vest",
+    "postalCode": "6300",
+    "city": "ÅNDALSNES",
+    "url": "https://www.rema.no/butikker/rema-1000-andalsnes/"
+  },
+  {
+    "id": "1554518",
+    "name": "REMA 1000 ÅRDALSTANGEN",
+    "lat": 61.239226000,
+    "lon": 7.711633000,
+    "address": "Tangevegen 5",
+    "postalCode": "6885",
+    "city": "ÅRDALSTANGEN",
+    "url": "https://www.rema.no/butikker/rema-1000-ardalstangen/"
+  },
+  {
+    "id": "2056659",
+    "name": "REMA 1000 ÅROS",
+    "lat": 59.704682000,
+    "lon": 10.512534000,
+    "address": "Hurumveien 49",
+    "postalCode": "3474",
+    "city": "ÅROS",
+    "url": "https://www.rema.no/butikker/rema-1000-aros/"
+  },
+  {
+    "id": "1554159",
+    "name": "REMA 1000 ÅRSTADDALEN",
+    "lat": 58.438430700,
+    "lon": 6.008596800,
+    "address": "Gamle Sokndalsveien 53",
+    "postalCode": "4372",
+    "city": "EGERSUND",
+    "url": "https://www.rema.no/butikker/rema-1000-arstaddalen/"
+  },
+  {
+    "id": "2092353",
+    "name": "REMA 1000 ÅRUM",
+    "lat": 59.259779300,
+    "lon": 11.102249300,
+    "address": "Vardeveien 5",
+    "postalCode": "1659",
+    "city": "TORP",
+    "url": "https://www.rema.no/butikker/rema-1000-arum/"
+  },
+  {
+    "id": "1963485",
+    "name": "REMA 1000 ÅRVOLL",
+    "lat": 59.944995300,
+    "lon": 10.809127100,
+    "address": "Årvollveien 17",
+    "postalCode": "0590",
+    "city": "OSLO",
+    "url": "https://www.rema.no/butikker/rema-1000-arvoll/"
+  },
+  {
+    "id": "1507856",
+    "name": "REMA 1000 ÅRÅSEN",
+    "lat": 59.963864700,
+    "lon": 11.064039400,
+    "address": "Åråssvingen 9",
+    "postalCode": "2007",
+    "city": "KJELLER",
+    "url": "https://www.rema.no/butikker/rema-1000-arasen/"
+  },
+  {
+    "id": "2091881",
+    "name": "REMA 1000 ÅS",
+    "lat": 59.664828000,
+    "lon": 10.796409000,
+    "address": "Johan K. Skanckes vei 1",
+    "postalCode": "1430",
+    "city": "ÅS",
+    "url": "https://www.rema.no/butikker/rema-1000-as/"
+  },
+  {
+    "id": "1952911",
+    "name": "REMA 1000 ÅSANE SENTER",
+    "lat": 60.468222000,
+    "lon": 5.325124000,
+    "address": "Åsane Senter 51",
+    "postalCode": "5116",
+    "city": "ULSET",
+    "url": "https://www.rema.no/butikker/rema-1000-asane-senter/"
+  },
+  {
+    "id": "2053499",
+    "name": "REMA 1000 ÅSKOLLEN",
+    "lat": 59.712791000,
+    "lon": 10.257541000,
+    "address": "Tverrliggeren 4",
+    "postalCode": "3038",
+    "city": "DRAMMEN",
+    "url": "https://www.rema.no/butikker/rema-1000-askollen/"
+  },
+  {
+    "id": "2056870",
+    "name": "REMA 1000 ÅSSIDEN",
+    "lat": 59.755366000,
+    "lon": 10.124932000,
+    "address": "Ingeniør Rybergsgate 114",
+    "postalCode": "3027",
+    "city": "DRAMMEN",
+    "url": "https://www.rema.no/butikker/rema-1000-assiden/"
+  },
+  {
+    "id": "2098365",
+    "name": "REMA 1000 ØREBEKK",
+    "lat": 59.234161600,
+    "lon": 10.902633500,
+    "address": "Mosseveien 108",
+    "postalCode": "1623",
+    "city": "GRESSVIK",
+    "url": "https://www.rema.no/butikker/rema-1000-orebekk/"
+  },
+  {
+    "id": "2091771",
+    "name": "REMA 1000 ØRJE",
+    "lat": 59.479990800,
+    "lon": 11.663354000,
+    "address": "Braarudveien 7",
+    "postalCode": "1870",
+    "city": "ØRJE",
+    "url": "https://www.rema.no/butikker/rema-1000-orje/"
+  },
+  {
+    "id": "2088506",
+    "name": "REMA 1000 ØRLANDET SENTRUM",
+    "lat": 63.688655000,
+    "lon": 9.665959000,
+    "address": "Yrjars gate 5",
+    "postalCode": "7130",
+    "city": "BREKSTAD",
+    "url": "https://www.rema.no/butikker/rema-1000-orlandet-sentrum/"
+  },
+  {
+    "id": "2089329",
+    "name": "REMA 1000 ØRNES",
+    "lat": 66.873639700,
+    "lon": 13.707310200,
+    "address": "Chr. Tidemanns vei 16",
+    "postalCode": "8150",
+    "city": "ØRNES",
+    "url": "https://www.rema.no/butikker/rema-1000-ornes/"
+  },
+  {
+    "id": "2091839",
+    "name": "REMA 1000 ØRSTA",
+    "lat": 62.191287000,
+    "lon": 6.121288340,
+    "address": "Melsvegen 1",
+    "postalCode": "6155",
+    "city": "ØRSTA",
+    "url": "https://www.rema.no/butikker/rema-1000-orsta/"
+  },
+  {
+    "id": "1879689",
+    "name": "REMA 1000 ØSTERØYVEIEN",
+    "lat": 59.134202000,
+    "lon": 10.251474000,
+    "address": "Østerøyveien 2",
+    "postalCode": "3236",
+    "city": "SANDEFJORD",
+    "url": "https://www.rema.no/butikker/rema-1000-osteroyveien/"
+  },
+  {
+    "id": "2096955",
+    "name": "REMA 1000 ØVRE ROTSET",
+    "lat": 62.140797400,
+    "lon": 6.091781420,
+    "address": "Rotsetstranda 8",
+    "postalCode": "6100",
+    "city": "VOLDA",
+    "url": "https://www.rema.no/butikker/rema-1000-ovre-rotset/"
+  },
+  {
+    "id": "2091791",
+    "name": "REMA 1000 ØYA",
+    "lat": 59.045518000,
+    "lon": 10.060702000,
+    "address": "Øya 1",
+    "postalCode": "3262",
+    "city": "LARVIK",
+    "url": "https://www.rema.no/butikker/rema-1000-oya/"
+  },
+  {
+    "id": "2073082",
+    "name": "REMA 1000 ØYRANE",
+    "lat": 61.457519000,
+    "lon": 5.848443000,
+    "address": "Firdavegen 20",
+    "postalCode": "6800",
+    "city": "FØRDE",
+    "url": "https://www.rema.no/butikker/rema-1000-oyrane/"
+  },
+  {
+    "id": "2092011",
+    "name": "REMA 1000 ØYRANE TORG",
+    "lat": 60.421388000,
+    "lon": 5.465241000,
+    "address": "Ådnavegen 63",
+    "postalCode": "5260",
+    "city": "INDRE ARNA",
+    "url": "https://www.rema.no/butikker/rema-1000-oyrane-torg/"
+  }
+]

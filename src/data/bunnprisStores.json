@@ -1,0 +1,2432 @@
+[
+  {
+    "id": "7524",
+    "name": "Bunnpris & Gourmet Alta",
+    "lat": 69.96617,
+    "lon": 23.27263,
+    "address": "Markedsgata 21-25",
+    "postalCode": "9510",
+    "city": "Alta",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7530",
+    "name": "Bunnpris & Gourmet Bossekop",
+    "lat": 69.96014,
+    "lon": 23.22922,
+    "address": "Skiferveien 2",
+    "postalCode": "9513",
+    "city": "Alta",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7574",
+    "name": "Bunnpris & Gourmet Elgeseter",
+    "lat": 63.41952,
+    "lon": 10.39533,
+    "address": "Elgesetergate 18",
+    "postalCode": "7030",
+    "city": "TRONDHEIM",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "8098",
+    "name": "Bunnpris & Gourmet Fauske",
+    "lat": 67.25843,
+    "lon": 15.39508,
+    "address": "Sjøgata 74",
+    "postalCode": "8200",
+    "city": "Fauske",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7635",
+    "name": "Bunnpris & Gourmet Fuglset",
+    "lat": 62.74456,
+    "lon": 7.19854,
+    "address": "Frænaveien 107",
+    "postalCode": "6416",
+    "city": "MOLDE",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7618",
+    "name": "Bunnpris & Gourmet Leknes",
+    "lat": 68.14879,
+    "lon": 13.61711,
+    "address": "Storgata 8",
+    "postalCode": "8370",
+    "city": "LEKNES",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7619",
+    "name": "Bunnpris & Gourmet Mo",
+    "lat": 66.30635,
+    "lon": 14.13491,
+    "address": "O.T Olsens gate 1",
+    "postalCode": "8622",
+    "city": "MO I RANA",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7620",
+    "name": "Bunnpris & Gourmet Mosjøen",
+    "lat": 65.83977,
+    "lon": 13.19036,
+    "address": "Smågan 2 ",
+    "postalCode": "8656",
+    "city": "MOSJØEN",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "8083",
+    "name": "Bunnpris & Gourmet Narvik",
+    "lat": 68.43821,
+    "lon": 17.42286,
+    "address": "Bolagsgata 1",
+    "postalCode": "8514",
+    "city": "Narvik",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7576",
+    "name": "Bunnpris & Gourmet Nidarvoll",
+    "lat": 63.401224,
+    "lon": 10.404777,
+    "address": "Baard Iversens veg 4",
+    "postalCode": "7037",
+    "city": "TRONDHEIM",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7605",
+    "name": "Bunnpris & Gourmet Nyborg",
+    "lat": 63.41382,
+    "lon": 10.35173,
+    "address": "Gamle Oslovei 28",
+    "postalCode": "7020",
+    "city": "TRONDHEIM",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7529",
+    "name": "Bunnpris & Gourmet Sortland",
+    "lat": 68.69401,
+    "lon": 15.41589,
+    "address": "Strandgata 26",
+    "postalCode": "8401",
+    "city": "Sortland",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "8211",
+    "name": "Bunnpris & Gourmet Svolvær",
+    "lat": 68.233387,
+    "lon": 14.561606,
+    "address": "Sivert Nilsens gate 31",
+    "postalCode": "8300",
+    "city": "Svolvær",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7604",
+    "name": "Bunnpris & Gourmet Tyholt",
+    "lat": 63.41897,
+    "lon": 10.43091,
+    "address": "Lillebergveien 8",
+    "postalCode": "7052",
+    "city": "TRONDHEIM",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7673",
+    "name": "Bunnpris Adamstuen",
+    "lat": 59.93363,
+    "lon": 10.73162,
+    "address": "Ullevålsveien 105",
+    "postalCode": "0359",
+    "city": "OSLO",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7611",
+    "name": "Bunnpris Andenes",
+    "lat": 69.3053,
+    "lon": 16.07525,
+    "address": "Myrveien 1",
+    "postalCode": "8480",
+    "city": "Andenes",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7573",
+    "name": "Bunnpris Angelltrøa",
+    "lat": 63.41675,
+    "lon": 10.46079,
+    "address": "Granåsveien 33",
+    "postalCode": "7048",
+    "city": "TRONDHEIM",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7624",
+    "name": "Bunnpris Angvik",
+    "lat": 62.89724,
+    "lon": 8.09028,
+    "address": "Sørlandvegen 2269",
+    "postalCode": "6636",
+    "city": "ANGVIK",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7732",
+    "name": "Bunnpris Arendal",
+    "lat": 58.4609,
+    "lon": 8.77425,
+    "address": "Kystveien 14",
+    "postalCode": "4841",
+    "city": "Arendal",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7525",
+    "name": "Bunnpris Aspmyra",
+    "lat": 67.27633,
+    "lon": 14.38288,
+    "address": "Fridtjof Nansens vei 3",
+    "postalCode": "8003",
+    "city": "Bodø",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7625",
+    "name": "Bunnpris Aspøya",
+    "lat": 63.01151,
+    "lon": 7.97485,
+    "address": "Arnvika 70, Aspøya Fjordsenter",
+    "postalCode": "6670",
+    "city": "ØYDEGARD",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7626",
+    "name": "Bunnpris Aukra",
+    "lat": 62.80537,
+    "lon": 6.88976,
+    "address": "Falkhyttrøra 10",
+    "postalCode": "6480",
+    "city": "AUKRA",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7533",
+    "name": "Bunnpris Aure",
+    "lat": 63.26814,
+    "lon": 8.52959,
+    "address": "Bankvegen 2",
+    "postalCode": "6690",
+    "city": "Aure",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7547",
+    "name": "Bunnpris Austmarka",
+    "lat": 60.61742,
+    "lon": 5.17875,
+    "address": "Søre Austmarka 9",
+    "postalCode": "5938",
+    "city": "Sæbøvågen",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7577",
+    "name": "Bunnpris Bakklandet",
+    "lat": 63.43175,
+    "lon": 10.40772,
+    "address": "Nedre Bakklandet 79",
+    "postalCode": "7014",
+    "city": "TRONDHEIM",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7627",
+    "name": "Bunnpris Batnfjord",
+    "lat": 62.89283,
+    "lon": 7.68051,
+    "address": "Nordmørsvegen 6",
+    "postalCode": "6631",
+    "city": "BATNFJORDSØRA",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "8223",
+    "name": "Bunnpris Betna",
+    "lat": 63.08832,
+    "lon": 8.35288,
+    "address": "Landvegen 716",
+    "postalCode": "6683",
+    "city": "Vågland",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7674",
+    "name": "Bunnpris Bislett",
+    "lat": 59.92201,
+    "lon": 10.73621,
+    "address": "Sofiesgate 7",
+    "postalCode": "0170",
+    "city": "OSLO",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7531",
+    "name": "Bunnpris Bismo",
+    "lat": 61.87603,
+    "lon": 8.38077,
+    "address": "Skjåkvegen 1230",
+    "postalCode": "2690",
+    "city": "Skjåk",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7663",
+    "name": "Bunnpris Bjorli",
+    "lat": 62.25906,
+    "lon": 8.20753,
+    "address": "Bjorlivegen 11",
+    "postalCode": "2669",
+    "city": "BJORLI",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7676",
+    "name": "Bunnpris Blakstad",
+    "lat": 59.81498,
+    "lon": 10.46727,
+    "address": "Slemmestadveien 243",
+    "postalCode": "1392",
+    "city": "VETTRE",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7675",
+    "name": "Bunnpris Blindern",
+    "lat": 59.94051,
+    "lon": 10.7213,
+    "address": "Problemveien 11",
+    "postalCode": "0313",
+    "city": "OSLO",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7612",
+    "name": "Bunnpris Bogen",
+    "lat": 68.5237,
+    "lon": 17.00876,
+    "address": "Bergvikveien 9",
+    "postalCode": "8533",
+    "city": "Bogen i Ofoten",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7613",
+    "name": "Bunnpris Bogøy",
+    "lat": 67.89866,
+    "lon": 15.19244,
+    "address": "Bogveien 5",
+    "postalCode": "8288",
+    "city": "BOGØY",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7520",
+    "name": "Bunnpris Bragetunet",
+    "lat": 58.9755,
+    "lon": 5.71133,
+    "address": "Chr. Bjellandsgt. 6",
+    "postalCode": "4026",
+    "city": "Stavanger",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7628",
+    "name": "Bunnpris Brattvåg",
+    "lat": 62.59719,
+    "lon": 6.44613,
+    "address": "Strandgata 40",
+    "postalCode": "6270",
+    "city": "BRATTVÅG",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7571",
+    "name": "Bunnpris Breivika",
+    "lat": 68.7457,
+    "lon": 16.55754,
+    "address": "Ruggevikveien 17B",
+    "postalCode": "9415",
+    "city": "Harstad",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7629",
+    "name": "Bunnpris Broa",
+    "lat": 62.46975,
+    "lon": 6.12555,
+    "address": "Brogata 1",
+    "postalCode": "6005",
+    "city": "ÅLESUND",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7717",
+    "name": "Bunnpris Bruland",
+    "lat": 61.43734,
+    "lon": 5.89758,
+    "address": "Brulandsvegen 171",
+    "postalCode": "6813",
+    "city": "FØRDE",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7630",
+    "name": "Bunnpris Brunsvika",
+    "lat": 63.12238,
+    "lon": 7.71414,
+    "address": "Storskarven 2",
+    "postalCode": "6514",
+    "city": "KRISTIANSUND",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7667",
+    "name": "Bunnpris Bryggja",
+    "lat": 61.94145,
+    "lon": 5.4715,
+    "address": "Maurstad",
+    "postalCode": "6711",
+    "city": "Bryggja",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7614",
+    "name": "Bunnpris Brønnøysund",
+    "lat": 65.47158,
+    "lon": 12.20741,
+    "address": "Storgata 30",
+    "postalCode": "8900",
+    "city": "BRØNNØYSUND",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7631",
+    "name": "Bunnpris Bud",
+    "lat": 62.90665,
+    "lon": 6.91474,
+    "address": "Prestegardsvegen 163",
+    "postalCode": "6430",
+    "city": "BUD",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7579",
+    "name": "Bunnpris Buran",
+    "lat": 63.43686,
+    "lon": 10.42416,
+    "address": "Ulstadløkkveien 5",
+    "postalCode": "7067",
+    "city": "TRONDHEIM",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7615",
+    "name": "Bunnpris Båsmoen",
+    "lat": 66.33901,
+    "lon": 14.11697,
+    "address": "Nordåsveien 1",
+    "postalCode": "8616",
+    "city": "MO I RANA",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7699",
+    "name": "Bunnpris Båstad",
+    "lat": 59.70488,
+    "lon": 11.29437,
+    "address": "Båstadveien 651",
+    "postalCode": "1866",
+    "city": "BÅSTAD",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7687",
+    "name": "Bunnpris Bøvågen",
+    "lat": 60.69872,
+    "lon": 4.92575,
+    "address": "Bøvågen",
+    "postalCode": "5937",
+    "city": "BØVÅGEN",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7575",
+    "name": "Bunnpris Charlottenlund",
+    "lat": 63.42693,
+    "lon": 10.49413,
+    "address": "Jakobsliveien 7",
+    "postalCode": "7058",
+    "city": "TRONDHEIM",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7516",
+    "name": "Bunnpris Damsgård",
+    "lat": 60.38096,
+    "lon": 5.32053,
+    "address": "Damsgårdsveien 84",
+    "postalCode": "5058",
+    "city": "Bergen",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7664",
+    "name": "Bunnpris Dombås",
+    "lat": 62.07167,
+    "lon": 9.12336,
+    "address": "Gudbrandsdalsvegen 2576",
+    "postalCode": "2660",
+    "city": "DOMBÅS",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7686",
+    "name": "Bunnpris Drangedal",
+    "lat": 59.0893,
+    "lon": 9.06523,
+    "address": "Drangedalsveien 3301",
+    "postalCode": "3750",
+    "city": "DRANGEDAL",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "8179",
+    "name": "Bunnpris Dreggen",
+    "lat": 60.398496,
+    "lon": 5.321743,
+    "address": "Dreggsalmenningen 10",
+    "postalCode": "5003",
+    "city": "Bergen",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7668",
+    "name": "Bunnpris Eid",
+    "lat": 61.90861,
+    "lon": 5.98536,
+    "address": "Sjøgata 21",
+    "postalCode": "6770",
+    "city": "NORDFJORDEID",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7734",
+    "name": "Bunnpris Eidsbotn",
+    "lat": 60.84811,
+    "lon": 5.08346,
+    "address": "Sløvågen 2",
+    "postalCode": "5960",
+    "city": "Dalsøyra",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7632",
+    "name": "Bunnpris Eidsvåg",
+    "lat": 62.77567,
+    "lon": 8.06333,
+    "address": "Kråkholmveien 15",
+    "postalCode": "6460",
+    "city": "EIDSVÅG",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7733",
+    "name": "Bunnpris Eikelandsosen",
+    "lat": 60.24094,
+    "lon": 5.74416,
+    "address": "Torsneset 9\t\t\t",
+    "postalCode": "5640",
+    "city": "Eikelandsosen",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7633",
+    "name": "Bunnpris Elnesvågen",
+    "lat": 62.85481,
+    "lon": 7.17439,
+    "address": "Dalelia 12",
+    "postalCode": "6440",
+    "city": "ELNESVÅGEN",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7720",
+    "name": "Bunnpris Fana",
+    "lat": 60.26567,
+    "lon": 5.35211,
+    "address": "Titlestadvegen 230",
+    "postalCode": "5243",
+    "city": "Fana",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7563",
+    "name": "Bunnpris Florvåg",
+    "lat": 60.424,
+    "lon": 5.23961,
+    "address": "Florvågvegen 135",
+    "postalCode": "5305",
+    "city": "Florvåg",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7634",
+    "name": "Bunnpris Freitorget",
+    "lat": 63.09308,
+    "lon": 7.84151,
+    "address": "Senterveien 3",
+    "postalCode": "6522",
+    "city": "FREI",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7636",
+    "name": "Bunnpris Futura",
+    "lat": 63.11049,
+    "lon": 7.77996,
+    "address": "Industriveien 17",
+    "postalCode": "6517",
+    "city": "KRISTIANSUND",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7539",
+    "name": "Bunnpris Gjettum",
+    "lat": 59.90187,
+    "lon": 10.51737,
+    "address": "Dr. Høsts vei 2",
+    "postalCode": "1346",
+    "city": "Gjettum",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "8085",
+    "name": "Bunnpris Glassverket",
+    "lat": 59.433748,
+    "lon": 10.649716,
+    "address": "Helgerødgata 2",
+    "postalCode": "1515",
+    "city": "Moss",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7548",
+    "name": "Bunnpris Gravdal",
+    "lat": 68.11957,
+    "lon": 13.54691,
+    "address": "Gravdalsgata 22",
+    "postalCode": "8372",
+    "city": "Gravdal",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7702",
+    "name": "Bunnpris Grenseveien",
+    "lat": 59.92442,
+    "lon": 10.78775,
+    "address": "Grenseveien 39",
+    "postalCode": "0575",
+    "city": "OSLO",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7719",
+    "name": "Bunnpris Grimstad",
+    "lat": 58.34601,
+    "lon": 8.58077,
+    "address": "Storgaten 90",
+    "postalCode": "4877",
+    "city": "Grimstad",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7616",
+    "name": "Bunnpris Gruben",
+    "lat": 66.31808,
+    "lon": 14.1938,
+    "address": "Storgata 24",
+    "postalCode": "8610",
+    "city": "MO I RANA",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7514",
+    "name": "Bunnpris Grønnåsen",
+    "lat": 67.27755,
+    "lon": 14.46275,
+    "address": "Soløyvannsveien 4",
+    "postalCode": "8013",
+    "city": "Bodø",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7606",
+    "name": "Bunnpris Guldbergaunet",
+    "lat": 64.01779,
+    "lon": 11.51546,
+    "address": "Svedjanveien 2",
+    "postalCode": "7716",
+    "city": "STEINKJER",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7637",
+    "name": "Bunnpris Halsa",
+    "lat": 63.06838,
+    "lon": 8.22771,
+    "address": "Landveien 4",
+    "postalCode": "6680",
+    "city": "HALSANAUSTAN",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7638",
+    "name": "Bunnpris Hareid",
+    "lat": 62.36833,
+    "lon": 6.03251,
+    "address": "Strandgata 53",
+    "postalCode": "6060",
+    "city": "HAREID",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7639",
+    "name": "Bunnpris Harøy",
+    "lat": 62.78242,
+    "lon": 6.46874,
+    "address": "Vassbekkvegen 7",
+    "postalCode": "6487",
+    "city": "HARØY",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7526",
+    "name": "Bunnpris Hattfjelldal",
+    "lat": 65.59677,
+    "lon": 13.99034,
+    "address": "O. T. Olsens vei 2 C",
+    "postalCode": "8690",
+    "city": "Hattfjelldal ",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7557",
+    "name": "Bunnpris Havnegata",
+    "lat": 68.80477,
+    "lon": 16.54854,
+    "address": "Havnegata 4",
+    "postalCode": "9404",
+    "city": "Harstad",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7669",
+    "name": "Bunnpris Havreneset",
+    "lat": 61.5927,
+    "lon": 5.01156,
+    "address": "Havrenesveien 50",
+    "postalCode": "6905",
+    "city": "FLORØ",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7580",
+    "name": "Bunnpris Havstad",
+    "lat": 63.40765,
+    "lon": 10.35871,
+    "address": "Byåsveien 158",
+    "postalCode": "7021",
+    "city": "TRONDHEIM",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7581",
+    "name": "Bunnpris Heimdal",
+    "lat": 63.3535,
+    "lon": 10.35667,
+    "address": "Søbstadveien 7",
+    "postalCode": "7088",
+    "city": "HEIMDAL",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7688",
+    "name": "Bunnpris Hjellestad",
+    "lat": 60.25646,
+    "lon": 5.24018,
+    "address": "Hjellestadveien 313",
+    "postalCode": "5259",
+    "city": "HJELLESTAD",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "8213",
+    "name": "Bunnpris Hjelset",
+    "lat": 62.785748,
+    "lon": 7.537736,
+    "address": "Sjøvegen 18",
+    "postalCode": "6450",
+    "city": "Hjelset",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "8184",
+    "name": "Bunnpris Holbergs plass",
+    "lat": 59.919886,
+    "lon": 10.734879,
+    "address": "Holbergsgate 7",
+    "postalCode": "0166",
+    "city": "Oslo",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7701",
+    "name": "Bunnpris Holmen",
+    "lat": 58.97308,
+    "lon": 5.73156,
+    "address": "Nedre Holmegate 11",
+    "postalCode": "4006",
+    "city": "STAVANGER",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "8082",
+    "name": "Bunnpris Holmlia",
+    "lat": 59.83075,
+    "lon": 10.78678,
+    "address": "Nordåsveien 72",
+    "postalCode": "1251",
+    "city": "Oslo",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7730",
+    "name": "Bunnpris Holumporten",
+    "lat": 59.98809,
+    "lon": 10.93677,
+    "address": "Morteveien 1",
+    "postalCode": "1481",
+    "city": "Hagan",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7689",
+    "name": "Bunnpris Hope",
+    "lat": 60.36328,
+    "lon": 5.35225,
+    "address": "Inndalsveien 102",
+    "postalCode": "5063",
+    "city": "BERGEN",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "8185",
+    "name": "Bunnpris Hordvik",
+    "lat": 60.514278,
+    "lon": 5.331875,
+    "address": "Steinestøvegen 640",
+    "postalCode": "5108",
+    "city": "Hordvik",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "8191",
+    "name": "Bunnpris Hoveveien",
+    "lat": 58.8422,
+    "lon": 5.73519,
+    "address": "Ospabakken 1 D",
+    "postalCode": "4306",
+    "city": "Sandnes",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7513",
+    "name": "Bunnpris Hundhamaren",
+    "lat": 63.43833,
+    "lon": 10.59915,
+    "address": "Sjølyst",
+    "postalCode": "7562",
+    "city": "Saksvik",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7700",
+    "name": "Bunnpris Hvaler",
+    "lat": 59.102303,
+    "lon": 10.90246,
+    "address": "Rød",
+    "postalCode": "1684",
+    "city": "VESTERØY",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7682",
+    "name": "Bunnpris Høllen",
+    "lat": 58.08193,
+    "lon": 7.81008,
+    "address": "Hølleheiveien 62",
+    "postalCode": "4640",
+    "city": "SØGNE",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7726",
+    "name": "Bunnpris Ikornnes",
+    "lat": 62.386665,
+    "lon": 6.549407,
+    "address": "Sørestrandveien 691",
+    "postalCode": "6222",
+    "city": "Ikornnes",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7582",
+    "name": "Bunnpris Ila",
+    "lat": 63.42993,
+    "lon": 10.36851,
+    "address": "Kleistsgate 1",
+    "postalCode": "7018",
+    "city": "TRONDHEIM",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7640",
+    "name": "Bunnpris Innlandet",
+    "lat": 63.10375,
+    "lon": 7.72897,
+    "address": "Skjærvaveien 10",
+    "postalCode": "6507",
+    "city": "KRISTIANSUND",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7641",
+    "name": "Bunnpris Isfjorden",
+    "lat": 62.57785,
+    "lon": 7.795218,
+    "address": "Gravdalsvegen 5",
+    "postalCode": "6339",
+    "city": "ISFJORDEN",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "8217",
+    "name": "Bunnpris Jevnaker",
+    "lat": 60.2416741,
+    "lon": 10.3768211,
+    "address": "Hønefossvegen 2C",
+    "postalCode": "3520",
+    "city": "Jevnaker",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "8214",
+    "name": "Bunnpris Jørpeland",
+    "lat": 59.021805,
+    "lon": 6.043835,
+    "address": "Stålverksvegen 2",
+    "postalCode": "4100",
+    "city": "Jørpeland",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7704",
+    "name": "Bunnpris Kampen",
+    "lat": 59.91406,
+    "lon": 10.78113,
+    "address": "Bøgata 25 C",
+    "postalCode": "0655",
+    "city": "OSLO",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7542",
+    "name": "Bunnpris Karmsundgata",
+    "lat": 59.41072,
+    "lon": 5.28953,
+    "address": "Karmsundgt. 75",
+    "postalCode": "5531",
+    "city": "Haugesund",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7705",
+    "name": "Bunnpris Kirkeveien",
+    "lat": 59.93029,
+    "lon": 10.71959,
+    "address": "Kirkeveien 69",
+    "postalCode": "0364",
+    "city": "OSLO",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7617",
+    "name": "Bunnpris Kjøpsvik",
+    "lat": 68.09802,
+    "lon": 16.37755,
+    "address": "FL Smidtsvei 8",
+    "postalCode": "8590",
+    "city": "KJØPSVIK",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7583",
+    "name": "Bunnpris Klett",
+    "lat": 63.32527,
+    "lon": 10.30709,
+    "address": "Klettveien 9",
+    "postalCode": "7083",
+    "city": "LEINSTRAND",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "8219",
+    "name": "Bunnpris Klubbgata",
+    "lat": 58.9701401,
+    "lon": 5.7327428,
+    "address": "Klubbgata 3",
+    "postalCode": "4013",
+    "city": "Stavanger",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7586",
+    "name": "Bunnpris Klæbu",
+    "lat": 63.30009,
+    "lon": 10.48434,
+    "address": "Vikingveien 7",
+    "postalCode": "7540",
+    "city": "KLÆBU",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "8087",
+    "name": "Bunnpris Knarvik",
+    "lat": 60.54806,
+    "lon": 5.28764,
+    "address": "Kvernhushaugane 10",
+    "postalCode": "5914",
+    "city": "Isdalstø",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7570",
+    "name": "Bunnpris Kong Oscar",
+    "lat": 60.39543,
+    "lon": 5.32754,
+    "address": "Kong Oscar Gate 6",
+    "postalCode": "5017",
+    "city": "Bergen",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7559",
+    "name": "Bunnpris Kongens Plass",
+    "lat": 63.11005,
+    "lon": 7.72906,
+    "address": "Kongens plass 1",
+    "postalCode": "6509",
+    "city": "Kristiansund",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7706",
+    "name": "Bunnpris Konowsgt",
+    "lat": 59.90187,
+    "lon": 10.77068,
+    "address": "Konowsgate 7-9",
+    "postalCode": "0192",
+    "city": "OSLO",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "8207",
+    "name": "Bunnpris Kronstad",
+    "lat": 60.372693,
+    "lon": 5.344181,
+    "address": "Inger Bang Lundsvei 15",
+    "postalCode": "5059",
+    "city": "Bergen",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7642",
+    "name": "Bunnpris Kvam",
+    "lat": 62.73597,
+    "lon": 7.09516,
+    "address": "Mekvegen 5",
+    "postalCode": "6411",
+    "city": "MOLDE",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7569",
+    "name": "Bunnpris Kviltorp",
+    "lat": 62.74261,
+    "lon": 7.22932,
+    "address": "Kometvegen 5",
+    "postalCode": "6419",
+    "city": "Molde",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7585",
+    "name": "Bunnpris Lade",
+    "lat": 63.44383,
+    "lon": 10.43957,
+    "address": "Håkon Magnussonsgt 3",
+    "postalCode": "7041",
+    "city": "TRONDHEIM",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7707",
+    "name": "Bunnpris Lambertseter",
+    "lat": 59.87612,
+    "lon": 10.81841,
+    "address": "Nylænde 5",
+    "postalCode": "1154",
+    "city": "OSLO",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7644",
+    "name": "Bunnpris Langevåg",
+    "lat": 62.437653,
+    "lon": 6.187991,
+    "address": "Molværsvegen 41",
+    "postalCode": "6030",
+    "city": "LANGEVÅG",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7507",
+    "name": "Bunnpris Langmoheia",
+    "lat": 66.31766,
+    "lon": 14.15906,
+    "address": "Nordlandsveien 94",
+    "postalCode": "8624",
+    "city": "MO I RANA",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7643",
+    "name": "Bunnpris Langøya",
+    "lat": 63.0636,
+    "lon": 7.49878,
+    "address": "Reksundveien 103",
+    "postalCode": "6533",
+    "city": "AVERØY",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "8100",
+    "name": "Bunnpris Lavik",
+    "lat": 61.1037,
+    "lon": 5.51159,
+    "address": "Hellebøstranda 2",
+    "postalCode": "6947",
+    "city": "Lavik",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7552",
+    "name": "Bunnpris Leirfjord",
+    "lat": 66.06473,
+    "lon": 12.935,
+    "address": "Skoledalsveien 26",
+    "postalCode": "8890",
+    "city": "Leirfjord",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7731",
+    "name": "Bunnpris Leirvik",
+    "lat": 61.13665,
+    "lon": 5.347115,
+    "address": "Leirvik 64",
+    "postalCode": "6953",
+    "city": "Leirvik i Sogn",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "8080",
+    "name": "Bunnpris Lerkendal",
+    "lat": 63.4157,
+    "lon": 10.41089,
+    "address": "Dybdahls vei 5",
+    "postalCode": "7051",
+    "city": "Trondheim",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "8060",
+    "name": "Bunnpris Levangernesset",
+    "lat": 63.74792,
+    "lon": 11.27695,
+    "address": "Staupslia 34 C",
+    "postalCode": "7603",
+    "city": "Levanger",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7587",
+    "name": "Bunnpris Leüthen",
+    "lat": 63.43056,
+    "lon": 10.38759,
+    "address": "Kongens gate 56",
+    "postalCode": "7012",
+    "city": "TRONDHEIM",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7690",
+    "name": "Bunnpris Lindvik",
+    "lat": 60.36742,
+    "lon": 5.36692,
+    "address": "Bekkeveien 14",
+    "postalCode": "5096",
+    "city": "BERGEN",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7715",
+    "name": "Bunnpris Lundegrend",
+    "lat": 60.06031,
+    "lon": 5.63461,
+    "address": "Lundegrend",
+    "postalCode": "5690",
+    "city": "LUNDEGREND",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7572",
+    "name": "Bunnpris Lundkvartalet",
+    "lat": 59.95937,
+    "lon": 11.05013,
+    "address": "Gjerdrumsgata 19 B",
+    "postalCode": "2000",
+    "city": "Lillestrøm",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7543",
+    "name": "Bunnpris Markedet",
+    "lat": 59.40855,
+    "lon": 5.276,
+    "address": "Skåregt. 92",
+    "postalCode": "5528",
+    "city": "Haugesund",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "8081",
+    "name": "Bunnpris Markeveien",
+    "lat": 60.39342,
+    "lon": 5.31996,
+    "address": "Markeveien 10",
+    "postalCode": "5012",
+    "city": "Bergen",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "8205",
+    "name": "Bunnpris Marokko",
+    "lat": 63.112449,
+    "lon": 7.754858,
+    "address": "Dalegata 50 b",
+    "postalCode": "6516",
+    "city": "Kristiansund N",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "8079",
+    "name": "Bunnpris Millskvartalet",
+    "lat": 59.92137,
+    "lon": 10.76279,
+    "address": "Schæffers gate 10 A",
+    "postalCode": "0558",
+    "city": "Oslo",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7588",
+    "name": "Bunnpris Moholt",
+    "lat": 63.41287,
+    "lon": 10.43135,
+    "address": "Bregneveien 67",
+    "postalCode": "7050",
+    "city": "TRONDHEIM",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7691",
+    "name": "Bunnpris Montana",
+    "lat": 60.37111,
+    "lon": 5.3679,
+    "address": "Lægdesvingen 61",
+    "postalCode": "5096",
+    "city": "BERGEN",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7550",
+    "name": "Bunnpris Mulen",
+    "lat": 60.40477,
+    "lon": 5.32825,
+    "address": "Øvre Sandviksveien 52",
+    "postalCode": "5034",
+    "city": "Bergen",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7589",
+    "name": "Bunnpris Munkegaten",
+    "lat": 63.43208,
+    "lon": 10.39836,
+    "address": "Munkegaten 48",
+    "postalCode": "7011",
+    "city": "TRONDHEIM",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "8130",
+    "name": "Bunnpris Myra ",
+    "lat": 58.48112,
+    "lon": 8.72349,
+    "address": "Østenbuveien 79",
+    "postalCode": "4848",
+    "city": "Arendal",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7527",
+    "name": "Bunnpris Myre",
+    "lat": 68.91457,
+    "lon": 15.09395,
+    "address": "Storgata 39",
+    "postalCode": "8430",
+    "city": "Myre",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7721",
+    "name": "Bunnpris Mysen",
+    "lat": 59.55225,
+    "lon": 11.32453,
+    "address": "Jernbanegata 13",
+    "postalCode": "1850",
+    "city": "Mysen",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7592",
+    "name": "Bunnpris Møllenberg",
+    "lat": 63.43379,
+    "lon": 10.42531,
+    "address": "Weidmannsveien 4",
+    "postalCode": "7043",
+    "city": "TRONDHEIM",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7692",
+    "name": "Bunnpris Møllendalsbakken",
+    "lat": 60.37911,
+    "lon": 5.35312,
+    "address": "Møllendalsveien 61 B",
+    "postalCode": "5009",
+    "city": "BERGEN",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "8209",
+    "name": "Bunnpris Nissensenteret",
+    "lat": 70.663659,
+    "lon": 23.68251,
+    "address": "Sjøgata 6",
+    "postalCode": "9600",
+    "city": "Hammerfest",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7677",
+    "name": "Bunnpris Nittedal",
+    "lat": 60.0588,
+    "lon": 10.86659,
+    "address": "Stasjonsveien 69",
+    "postalCode": "1482",
+    "city": "NITTEDAL",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7708",
+    "name": "Bunnpris Nydalen",
+    "lat": 59.95054,
+    "lon": 10.77555,
+    "address": "Gunnar Scheldrups vei 13 C",
+    "postalCode": "0485",
+    "city": "OSLO",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7694",
+    "name": "Bunnpris Nygårdsgaten",
+    "lat": 60.3851,
+    "lon": 5.33135,
+    "address": "Nygårdsgaten 89",
+    "postalCode": "5008",
+    "city": "BERGEN",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "8140",
+    "name": "Bunnpris Nørve",
+    "lat": 62.471721,
+    "lon": 6.187072,
+    "address": "Nørvegata 1",
+    "postalCode": "6008",
+    "city": "Ålesund",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7551",
+    "name": "Bunnpris Nøstet",
+    "lat": 60.39315,
+    "lon": 5.31457,
+    "address": "Nøstegaten 52",
+    "postalCode": "5011",
+    "city": "Bergen",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7540",
+    "name": "Bunnpris Odda",
+    "lat": 60.06333,
+    "lon": 6.55108,
+    "address": "Hjøllo 1",
+    "postalCode": "5750",
+    "city": "Odda",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "8216",
+    "name": "Bunnpris Olav Tryggvason",
+    "lat": 63.4324382,
+    "lon": 10.3948102,
+    "address": "Olav Tryggvasons gate 5, Folkets Hus",
+    "postalCode": "7011",
+    "city": "Trondheim",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7670",
+    "name": "Bunnpris Oldeide",
+    "lat": 61.92505,
+    "lon": 5.09529,
+    "address": "Oppedalsvegen 92",
+    "postalCode": "6700",
+    "city": "MÅLØY",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7508",
+    "name": "Bunnpris Olden",
+    "lat": 61.835273,
+    "lon": 6.804989,
+    "address": "Fjordvegen 1667",
+    "postalCode": "6788",
+    "city": "Olden",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7511",
+    "name": "Bunnpris Olderskog",
+    "lat": 65.82861,
+    "lon": 13.2283,
+    "address": "Skogsveien 3",
+    "postalCode": "8661",
+    "city": "Mosjøen",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7590",
+    "name": "Bunnpris Oppdal",
+    "lat": 62.59495,
+    "lon": 9.69284,
+    "address": "Nyveien 33",
+    "postalCode": "7340",
+    "city": "OPPDAL",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7666",
+    "name": "Bunnpris Otta",
+    "lat": 61.77022,
+    "lon": 9.53683,
+    "address": "Storgata 17 B",
+    "postalCode": "2670",
+    "city": "OTTA",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7534",
+    "name": "Bunnpris Ottestad",
+    "lat": 60.78168,
+    "lon": 11.11189,
+    "address": "Postvegen 38",
+    "postalCode": "2312",
+    "city": "Ottestad",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7709",
+    "name": "Bunnpris President",
+    "lat": 59.93237,
+    "lon": 10.76561,
+    "address": "Presidentgate 5",
+    "postalCode": "0474",
+    "city": "OSLO",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7562",
+    "name": "Bunnpris Prinsen",
+    "lat": 63.4308,
+    "lon": 10.39119,
+    "address": "Kongensgate 30",
+    "postalCode": "7012",
+    "city": "Trondheim",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7621",
+    "name": "Bunnpris Ramberg",
+    "lat": 68.08943,
+    "lon": 13.22843,
+    "address": "Flakstadveien 457",
+    "postalCode": "8380",
+    "city": "RAMBERG",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7556",
+    "name": "Bunnpris Ramsund",
+    "lat": 68.49443,
+    "lon": 16.51482,
+    "address": "Strandveien 50",
+    "postalCode": "9442",
+    "city": "Melsbø",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7522",
+    "name": "Bunnpris Randaberg",
+    "lat": 58.99895,
+    "lon": 5.61689,
+    "address": "Jon Torbergssons Vei 15A",
+    "postalCode": "4070",
+    "city": "Randaberg",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7685",
+    "name": "Bunnpris Rasta",
+    "lat": 60.17934,
+    "lon": 12.0186,
+    "address": "Rastaveien 1",
+    "postalCode": "2211",
+    "city": "KONGSVINGER",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7538",
+    "name": "Bunnpris Raufoss",
+    "lat": 60.72241,
+    "lon": 10.61194,
+    "address": "Sagvollvegen 3",
+    "postalCode": "2830",
+    "city": "Raufoss",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7645",
+    "name": "Bunnpris Rensvik",
+    "lat": 63.09762,
+    "lon": 7.82129,
+    "address": "Kvalvågveien 3",
+    "postalCode": "6521",
+    "city": "FREI",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7646",
+    "name": "Bunnpris Rindal",
+    "lat": 63.05724,
+    "lon": 9.189,
+    "address": "Rindalslina 597",
+    "postalCode": "6657",
+    "city": "RINDAL",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7722",
+    "name": "Bunnpris Roa",
+    "lat": 60.28717,
+    "lon": 10.62531,
+    "address": "HADELANDSVEIEN 2128",
+    "postalCode": "2740",
+    "city": "Roa",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7558",
+    "name": "Bunnpris Romolslia",
+    "lat": 63.37828,
+    "lon": 10.36443,
+    "address": "Innbrektsflata 1",
+    "postalCode": "7029",
+    "city": "Trondheim",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7647",
+    "name": "Bunnpris Romsdalsgata",
+    "lat": 62.73834,
+    "lon": 7.16545,
+    "address": "Romsdalsgata 7",
+    "postalCode": "6415",
+    "city": "MOLDE",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "8113",
+    "name": "Bunnpris Rosendal",
+    "lat": 63.43691,
+    "lon": 10.43158,
+    "address": "Innherredsveien 80",
+    "postalCode": "7067",
+    "city": "Trondheim",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7710",
+    "name": "Bunnpris Ruseløkka",
+    "lat": 59.91215,
+    "lon": 10.71893,
+    "address": "Parkveien 80",
+    "postalCode": "0254",
+    "city": "OSLO",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7593",
+    "name": "Bunnpris Rydningen",
+    "lat": 63.3876,
+    "lon": 10.35292,
+    "address": "Rydningen 1",
+    "postalCode": "7027",
+    "city": "TRONDHEIM",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7623",
+    "name": "Bunnpris Rypefjord",
+    "lat": 70.64468,
+    "lon": 23.67613,
+    "address": "Mellomveien 25",
+    "postalCode": "9610",
+    "city": "RYPEFJORD",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7608",
+    "name": "Bunnpris Røra",
+    "lat": 63.8486,
+    "lon": 11.401,
+    "address": "Hyllavegen 4B",
+    "postalCode": "7670",
+    "city": "INDERØY",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7594",
+    "name": "Bunnpris Samfundet",
+    "lat": 63.42227,
+    "lon": 10.39894,
+    "address": "Klostergata 2",
+    "postalCode": "7030",
+    "city": "TRONDHEIM",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7544",
+    "name": "Bunnpris Sand",
+    "lat": 59.48344,
+    "lon": 6.25704,
+    "address": "Øvre Dalane 10",
+    "postalCode": "4230",
+    "city": "Sand",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "8192",
+    "name": "Bunnpris Sandal",
+    "lat": 58.955966,
+    "lon": 5.692076,
+    "address": "Rektor Oldens gate 14",
+    "postalCode": "4022",
+    "city": "Stavanger",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7509",
+    "name": "Bunnpris Sandane",
+    "lat": 61.77311,
+    "lon": 6.2148,
+    "address": "Gotevegen 2",
+    "postalCode": "6823",
+    "city": "Sandane",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7595",
+    "name": "Bunnpris Sandmoen",
+    "lat": 63.33557,
+    "lon": 10.36212,
+    "address": "Sandmoveien 24",
+    "postalCode": "7093",
+    "city": "TILLER",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7554",
+    "name": "Bunnpris Sandnessjøen",
+    "lat": 66.02229,
+    "lon": 12.63514,
+    "address": "Torolv Kveldulvsons gt. 24-28",
+    "postalCode": "8800",
+    "city": "Sandnessjøen",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7596",
+    "name": "Bunnpris Sandstad",
+    "lat": 63.53622,
+    "lon": 9.13977,
+    "address": "Badstuvikveien 2",
+    "postalCode": "7246",
+    "city": "SANDSTAD",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7518",
+    "name": "Bunnpris Sartor",
+    "lat": 60.3585,
+    "lon": 5.12407,
+    "address": "Sartorvegen 12 - Postboks 214",
+    "postalCode": "5353",
+    "city": "Straume",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7545",
+    "name": "Bunnpris Sauda",
+    "lat": 59.64839,
+    "lon": 6.35003,
+    "address": "Saudavegen 9",
+    "postalCode": "4200",
+    "city": "Sauda",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7517",
+    "name": "Bunnpris Seimsfoss",
+    "lat": 59.965851,
+    "lon": 5.995668,
+    "address": "Seimsvegen 116",
+    "postalCode": "5472",
+    "city": "Seimsfoss",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7648",
+    "name": "Bunnpris Sentrum Molde",
+    "lat": 62.73645,
+    "lon": 7.15758,
+    "address": "Fjordgata 1-3",
+    "postalCode": "6413",
+    "city": "MOLDE",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "8127",
+    "name": "Bunnpris Setermoen",
+    "lat": 68.87701,
+    "lon": 18.35715,
+    "address": "Industriveien 2",
+    "postalCode": "9360",
+    "city": "Setermoen",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7711",
+    "name": "Bunnpris Sinsen",
+    "lat": 59.9343,
+    "lon": 10.78096,
+    "address": "Sinsenterassen 6",
+    "postalCode": "0574",
+    "city": "OSLO",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7649",
+    "name": "Bunnpris Sjøholt",
+    "lat": 62.48229,
+    "lon": 6.81753,
+    "address": "Årøyvegen 2",
+    "postalCode": "6249",
+    "city": "ØRSKOG",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "8110",
+    "name": "Bunnpris Sjøvegan",
+    "lat": 68.87527,
+    "lon": 17.83444,
+    "address": "Strandveien 7",
+    "postalCode": "9350",
+    "city": "Sjøvegan",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7521",
+    "name": "Bunnpris Skadberg",
+    "lat": 58.87796,
+    "lon": 5.66999,
+    "address": "Tronholberget 1",
+    "postalCode": "4051",
+    "city": "Sola",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7510",
+    "name": "Bunnpris Skansen",
+    "lat": 62.47467,
+    "lon": 6.15687,
+    "address": "Skaregata 1",
+    "postalCode": "6002",
+    "city": "Ålesund",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7650",
+    "name": "Bunnpris Skei",
+    "lat": 62.97163,
+    "lon": 8.72122,
+    "address": "Skeivegen 35",
+    "postalCode": "6650",
+    "city": "SURNADAL",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "8090",
+    "name": "Bunnpris Skjervøy",
+    "lat": 70.02216,
+    "lon": 20.97235,
+    "address": "Minkveien 2",
+    "postalCode": "9180",
+    "city": "Skjervøy",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7609",
+    "name": "Bunnpris Skogn",
+    "lat": 63.70297,
+    "lon": 11.19323,
+    "address": "Gamle E6 1321",
+    "postalCode": "7620",
+    "city": "Skogn",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7684",
+    "name": "Bunnpris Skotselv",
+    "lat": 59.84246,
+    "lon": 9.89245,
+    "address": "Verksveien 19",
+    "postalCode": "3330",
+    "city": "SKOTSELV",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7678",
+    "name": "Bunnpris Skårer",
+    "lat": 59.92115,
+    "lon": 10.95532,
+    "address": "Skårersletta 60",
+    "postalCode": "1473",
+    "city": "LØRENSKOG",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "8084",
+    "name": "Bunnpris Skøyen Atrium",
+    "lat": 59.92214,
+    "lon": 10.68331,
+    "address": "Drammensveien 147",
+    "postalCode": "0277",
+    "city": "OSLO",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7555",
+    "name": "Bunnpris Sletten",
+    "lat": 60.35773,
+    "lon": 5.35875,
+    "address": "Hagerups vei 52",
+    "postalCode": "5093",
+    "city": "Bergen",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7695",
+    "name": "Bunnpris Smiberget",
+    "lat": 60.34087,
+    "lon": 5.28745,
+    "address": "Ture Nermannsvei 7",
+    "postalCode": "5143",
+    "city": "FYLLINGSDALEN",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7718",
+    "name": "Bunnpris Smøla",
+    "lat": 63.46344,
+    "lon": 8.013876,
+    "address": "Rådhusveien 21",
+    "postalCode": "6570",
+    "city": "Smøla",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7506",
+    "name": "Bunnpris Spildepollen",
+    "lat": 60.24046,
+    "lon": 5.0434,
+    "address": "Telavågvegen 6",
+    "postalCode": "5382",
+    "city": "Skogsvåg",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7723",
+    "name": "Bunnpris Spjelkavik",
+    "lat": 62.46301,
+    "lon": 6.36321,
+    "address": "Kanalvegen 18",
+    "postalCode": "6010",
+    "city": "Ålesund",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7651",
+    "name": "Bunnpris St. Hanshaugen",
+    "lat": 63.1169,
+    "lon": 7.72967,
+    "address": "Lars Guttormsens gate 76",
+    "postalCode": "6510",
+    "city": "KRISTIANSUND",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7671",
+    "name": "Bunnpris Stad",
+    "lat": 62.14119,
+    "lon": 5.24796,
+    "address": "Leikanger 42",
+    "postalCode": "6750",
+    "city": "STADLANDET",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "8126",
+    "name": "Bunnpris Steinkjer",
+    "lat": 64.01124,
+    "lon": 11.49162,
+    "address": "Sjøfartsgata 2",
+    "postalCode": "7714",
+    "city": "Steinkjer",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7523",
+    "name": "Bunnpris Steinsviken",
+    "lat": 60.30133,
+    "lon": 5.30383,
+    "address": "Steinsvikvegen 256",
+    "postalCode": "5237",
+    "city": "Rådal",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7546",
+    "name": "Bunnpris Storgata",
+    "lat": 69.3201,
+    "lon": 16.12382,
+    "address": "Storgata 19",
+    "postalCode": "8480",
+    "city": "Andenes",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7536",
+    "name": "Bunnpris Storo",
+    "lat": 59.94617,
+    "lon": 10.77623,
+    "address": "Vitaminveien 1 A",
+    "postalCode": "0485",
+    "city": "Oslo",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7652",
+    "name": "Bunnpris Stortua",
+    "lat": 63.12084,
+    "lon": 7.74004,
+    "address": "Trollsvingen 32",
+    "postalCode": "6511",
+    "city": "KRISTIANSUND",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7683",
+    "name": "Bunnpris Strai",
+    "lat": 58.18877,
+    "lon": 7.92559,
+    "address": "Straimoen 2",
+    "postalCode": "4618",
+    "city": "KRISTIANSAND",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7653",
+    "name": "Bunnpris Straumgjerde",
+    "lat": 62.334206,
+    "lon": 6.594733,
+    "address": "Sykkylvsveien 1038",
+    "postalCode": "6238",
+    "city": "STRAUMGJERDE",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7672",
+    "name": "Bunnpris Stryn",
+    "lat": 61.90424,
+    "lon": 6.71926,
+    "address": "Rognhaugen 13",
+    "postalCode": "6783",
+    "city": "STRYN",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7598",
+    "name": "Bunnpris Stubban",
+    "lat": 63.39128,
+    "lon": 10.4208,
+    "address": "Stubbsvingen 39",
+    "postalCode": "7036",
+    "city": "TRONDHEIM",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "8222",
+    "name": "Bunnpris Støletorget",
+    "lat": 60.4001319,
+    "lon": 5.3227926,
+    "address": "Ladegårdsgaten 1",
+    "postalCode": "5033",
+    "city": "Bergen",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7654",
+    "name": "Bunnpris Sunndalsøra",
+    "lat": 62.66569,
+    "lon": 8.54597,
+    "address": "Killurdsgate 1",
+    "postalCode": "6600",
+    "city": "SUNNDALSØRA",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7655",
+    "name": "Bunnpris Sylteosen",
+    "lat": 62.83531,
+    "lon": 7.23498,
+    "address": "Malmefjordvegen 24",
+    "postalCode": "6440",
+    "city": "ELNESVÅGEN",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7679",
+    "name": "Bunnpris Sørumsand",
+    "lat": 59.98673,
+    "lon": 11.24224,
+    "address": "Sørumsandveien 69",
+    "postalCode": "1920",
+    "city": "SØRUMSAND",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7713",
+    "name": "Bunnpris Theresesgt",
+    "lat": 59.92955,
+    "lon": 10.7334,
+    "address": "Theresesgate 16 K",
+    "postalCode": "0452",
+    "city": "OSLO",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7515",
+    "name": "Bunnpris Thorvald Meyersgt",
+    "lat": 59.92093,
+    "lon": 10.75901,
+    "address": "Thorvald Meyers gate 73-75",
+    "postalCode": "0552",
+    "city": "Oslo",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7519",
+    "name": "Bunnpris Tjensvoll",
+    "lat": 58.94959,
+    "lon": 5.69698,
+    "address": "Tjensvolltorget 25",
+    "postalCode": "4021",
+    "city": "Stavanger",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "8101",
+    "name": "Bunnpris Tonstad",
+    "lat": 63.36186,
+    "lon": 10.3898,
+    "address": "Torvmyra 2",
+    "postalCode": "7091",
+    "city": "Tiller",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7561",
+    "name": "Bunnpris Torggaten",
+    "lat": 60.39139,
+    "lon": 5.32233,
+    "address": "Torggaten 7",
+    "postalCode": "5014",
+    "city": "Bergen",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7728",
+    "name": "Bunnpris Torghallen",
+    "lat": 62.47037,
+    "lon": 6.15027,
+    "address": "Nedre strandgate 9",
+    "postalCode": "6004",
+    "city": "Ålesund",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "8220",
+    "name": "Bunnpris Trondheim S",
+    "lat": 63.4367887,
+    "lon": 10.3981989,
+    "address": "Trondheim Stasjon Trappehus Sjøgangen 2",
+    "postalCode": "7010",
+    "city": "Trondheim",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7716",
+    "name": "Bunnpris Trøgstad",
+    "lat": 59.64186,
+    "lon": 11.31575,
+    "address": "Kirkeveien 36",
+    "postalCode": "1860",
+    "city": "TRØGSTAD",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7600",
+    "name": "Bunnpris Ugla",
+    "lat": 63.39493,
+    "lon": 10.33669,
+    "address": "Odd Husbysvei 22",
+    "postalCode": "7024",
+    "city": "TRONDHEIM",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7714",
+    "name": "Bunnpris Ullensvang",
+    "lat": 60.335304,
+    "lon": 6.658606,
+    "address": "Sjoarvegen 18",
+    "postalCode": "5787",
+    "city": "LOFTSHUS",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7656",
+    "name": "Bunnpris Ulsteinvik",
+    "lat": 62.33976,
+    "lon": 5.85499,
+    "address": "Saunesvegen 10",
+    "postalCode": "6065",
+    "city": "ULSTEINVIK",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7696",
+    "name": "Bunnpris Ulvedalen",
+    "lat": 60.46489,
+    "lon": 5.36076,
+    "address": "Ulvedalen Torg",
+    "postalCode": "5134",
+    "city": "FLAKTVEIT",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "8204",
+    "name": "Bunnpris Urtekvartalet",
+    "lat": 59.914609,
+    "lon": 10.764602,
+    "address": "Urtegata 5",
+    "postalCode": "0187",
+    "city": "Oslo",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7657",
+    "name": "Bunnpris Valderøy",
+    "lat": 62.49941,
+    "lon": 6.13093,
+    "address": "Øysenteret,Pettervegen 2",
+    "postalCode": "6050",
+    "city": "VALDERØY",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7553",
+    "name": "Bunnpris Valldal",
+    "lat": 62.29768,
+    "lon": 7.25657,
+    "address": "Grandegata 38",
+    "postalCode": "6210",
+    "city": "Valldal",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7658",
+    "name": "Bunnpris Valsøyfjord",
+    "lat": 63.1234,
+    "lon": 8.56061,
+    "address": "Valsøyfjordvegen 1418",
+    "postalCode": "6687",
+    "city": "VALSØYFJORD",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7659",
+    "name": "Bunnpris Vatne",
+    "lat": 62.55811,
+    "lon": 6.64542,
+    "address": "Vatneeidet",
+    "postalCode": "6265",
+    "city": "Vatne",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7512",
+    "name": "Bunnpris Vedde",
+    "lat": 62.43789,
+    "lon": 6.2348,
+    "address": "Veddevegen 163",
+    "postalCode": "6030",
+    "city": "Langevåg",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7610",
+    "name": "Bunnpris Verdal",
+    "lat": 63.79076,
+    "lon": 11.48657,
+    "address": "Jernbanegata 9 a",
+    "postalCode": "7650",
+    "city": "VERDAL",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7601",
+    "name": "Bunnpris Vestlia",
+    "lat": 63.39894,
+    "lon": 10.43584,
+    "address": "Edgar B. Schieldrops vei 40",
+    "postalCode": "7033",
+    "city": "TRONDHEIM",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7568",
+    "name": "Bunnpris Vestnes",
+    "lat": 62.6214,
+    "lon": 7.09364,
+    "address": "Sjøgata 40",
+    "postalCode": "6390",
+    "city": "Vestnes",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7602",
+    "name": "Bunnpris Vikåsen",
+    "lat": 63.41247,
+    "lon": 10.5375,
+    "address": "Vikåsen 8",
+    "postalCode": "7054",
+    "city": "RANHEIM",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7660",
+    "name": "Bunnpris Volda",
+    "lat": 62.14509,
+    "lon": 6.06623,
+    "address": "Halkjelsgate 4",
+    "postalCode": "6100",
+    "city": "VOLDA",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7603",
+    "name": "Bunnpris Vormstad",
+    "lat": 63.1995,
+    "lon": 9.767675,
+    "address": "Orkdalsveien 1505",
+    "postalCode": "7327",
+    "city": "SVORKMO",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "8171",
+    "name": "Bunnpris Voss",
+    "lat": 60.629002,
+    "lon": 6.409837,
+    "address": "Evangerveien 11",
+    "postalCode": "5704",
+    "city": "Voss",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7622",
+    "name": "Bunnpris Vågaholmen",
+    "lat": 66.71183,
+    "lon": 13.28597,
+    "address": "Vågaveien 138",
+    "postalCode": "8185",
+    "city": "VÅGAHOLMEN",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7549",
+    "name": "Bunnpris Vålerveien",
+    "lat": 59.44144,
+    "lon": 10.69365,
+    "address": "Vålerveien 130",
+    "postalCode": "1599",
+    "city": "Moss",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7698",
+    "name": "Bunnpris Welhavensgate",
+    "lat": 60.38539,
+    "lon": 5.32204,
+    "address": "Welhavensgate 52",
+    "postalCode": "5006",
+    "city": "BERGEN",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7727",
+    "name": "Bunnpris Ågotnes",
+    "lat": 60.40751,
+    "lon": 5.01569,
+    "address": "Ågotnes Senter",
+    "postalCode": "5363",
+    "city": "Ågotnes",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7661",
+    "name": "Bunnpris Åndalsnes",
+    "lat": 62.55824,
+    "lon": 7.6844,
+    "address": "Raumabredda 4",
+    "postalCode": "6300",
+    "city": "ÅNDALSNES",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7528",
+    "name": "Bunnpris Årdal",
+    "lat": 61.31079,
+    "lon": 7.80337,
+    "address": "Storevegen 26",
+    "postalCode": "6884",
+    "city": "Øvre Årdal",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7537",
+    "name": "Bunnpris Årnes",
+    "lat": 60.12329,
+    "lon": 11.4681,
+    "address": "Rådhusgata 12",
+    "postalCode": "2150",
+    "city": "Årnes",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  },
+  {
+    "id": "7729",
+    "name": "Bunnpris Ørsta",
+    "lat": 62.19497,
+    "lon": 6.12736,
+    "address": "Postboks 65",
+    "postalCode": "6151",
+    "city": "ØRSTA",
+    "url": "https://www.bunnpris.no/alle-butikker"
+  }
+]

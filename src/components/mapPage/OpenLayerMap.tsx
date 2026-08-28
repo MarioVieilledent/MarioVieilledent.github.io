@@ -8,9 +8,16 @@ import { forwardRef, useEffect, useImperativeHandle, useRef } from "react";
 import { fromLonLat, toLonLat } from "ol/proj";
 import { sources } from "../../utils/sources";
 import UserLocationDot from "./UserLocationDot";
+import VectorLayer from "ol/layer/Vector";
+import VectorSource from "ol/source/Vector";
+import Feature from "ol/Feature";
+import Point from "ol/geom/Point";
+import { Circle as CircleStyle, Fill, Stroke, Style, Text } from "ol/style";
+import type { MapPoint } from "../../types/types";
 
 const FLY_DURATION = 500;
 const RESET_ROTATION_DURATION = 300;
+const POINT_LABEL_MIN_ZOOM = 10;
 
 interface OpenLayerMapProps {
   setRotation: React.Dispatch<React.SetStateAction<number>>;
@@ -19,6 +26,7 @@ interface OpenLayerMapProps {
   zoom: number;
   onPositionChange: (center: [number, number], zoom: number) => void;
   userLocation: { lon: number; lat: number } | null;
+  points: MapPoint[];
 }
 
 const OpenLayerMap = forwardRef<
@@ -27,7 +35,7 @@ const OpenLayerMap = forwardRef<
     triggerFlyTo: (lon: number, lat: number, zoom?: number) => void;
   },
   OpenLayerMapProps
->(({ setRotation, layers, center, zoom, onPositionChange, userLocation }, ref) => {
+>(({ setRotation, layers, center, zoom, onPositionChange, userLocation, points }, ref) => {
   useImperativeHandle(ref, () => ({
     triggerReset() {
       view.current.animate({
@@ -90,12 +98,48 @@ const OpenLayerMap = forwardRef<
             zIndex: index,
           }),
       );
+      const pointLayer = new VectorLayer({
+        source: new VectorSource({
+          features: points.map(
+            (point) =>
+              new Feature({
+                geometry: new Point(fromLonLat([point.lon, point.lat])),
+                name: point.name,
+                color: point.color,
+              }),
+          ),
+        }),
+        style: (feature, resolution) => {
+          const currentZoom = view.current.getZoomForResolution(resolution);
+          const showLabel =
+            currentZoom !== undefined && currentZoom >= POINT_LABEL_MIN_ZOOM;
+
+          return new Style({
+            image: new CircleStyle({
+              radius: 6,
+              fill: new Fill({ color: String(feature.get("color")) }),
+              stroke: new Stroke({ color: "#ffffff", width: 2 }),
+            }),
+            text: showLabel
+              ? new Text({
+                  text: String(feature.get("name")),
+                  offsetY: -15,
+                  font: "600 12px sans-serif",
+                  fill: new Fill({ color: "#1c1917" }),
+                  stroke: new Stroke({ color: "rgba(255,255,255,0.95)", width: 4 }),
+                })
+              : undefined,
+          });
+        },
+        zIndex: tileLayers.length,
+      });
+      const mapLayers = [...tileLayers, pointLayer];
 
       if (map.current === null) {
         map.current = new Map({
           controls: [],
           target: container.current,
-          layers: tileLayers,
+          layers: mapLayers,
           view: view.current,
         });
 
@@ -118,10 +162,10 @@ const OpenLayerMap = forwardRef<
         });
         map.current.addOverlay(marker.current);
       } else {
-        map.current.setLayers(tileLayers);
+        map.current.setLayers(mapLayers);
       }
     }
-  }, [layers]);
+  }, [layers, points]);
 
   useEffect(() => {
     marker.current?.setPosition(

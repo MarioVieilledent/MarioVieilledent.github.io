@@ -1,0 +1,1212 @@
+[
+  {
+    "id": "7058",
+    "name": "Nærbutikken Arnesen",
+    "lat": 61.42154504659072,
+    "lon": 11.072981015616476,
+    "address": "Mykleby",
+    "postalCode": "2480",
+    "city": "KOPPANG",
+    "url": "https://narbutikken.no/finn-butikk/narbutikken-arnesen"
+  },
+  {
+    "id": "5641",
+    "name": "Nærbutikken Auklandshamn",
+    "lat": 59.63816387835378,
+    "lon": 5.383969738350383,
+    "address": "Stølen 16",
+    "postalCode": "5551",
+    "city": "AUKLANDSHAMN",
+    "url": "https://narbutikken.no/finn-butikk/narbutikken-auklandshamn"
+  },
+  {
+    "id": "4309",
+    "name": "Nærbutikken Batalden",
+    "lat": 61.62034361164914,
+    "lon": 4.817088174769166,
+    "address": "Fanøyvegen 14",
+    "postalCode": "6917",
+    "city": "BATALDEN",
+    "url": "https://narbutikken.no/finn-butikk/narbutikken-batalden"
+  },
+  {
+    "id": "5658",
+    "name": "Nærbutikken Begnadalen",
+    "lat": 60.647538543687304,
+    "lon": 9.855137651376868,
+    "address": "Sørumsvegen 24",
+    "postalCode": "2937",
+    "city": "BEGNA",
+    "url": "https://narbutikken.no/finn-butikk/narbutikken-begnadalen"
+  },
+  {
+    "id": "1267",
+    "name": "Nærbutikken Bjarkøy",
+    "lat": 68.99717393740625,
+    "lon": 16.53816183279483,
+    "address": "Nergård",
+    "postalCode": "9426",
+    "city": "BJARKØY",
+    "url": "https://narbutikken.no/finn-butikk/narbutikken-bjarkoy"
+  },
+  {
+    "id": "7222",
+    "name": "Nærbutikken Bjølsen",
+    "lat": 59.94167406758378,
+    "lon": 10.7600399842014,
+    "address": "Bergensgata 9",
+    "postalCode": "0468",
+    "city": "OSLO",
+    "url": "https://narbutikken.no/finn-butikk/narbutikken-bjolsen"
+  },
+  {
+    "id": "699",
+    "name": "Nærbutikken Borgund",
+    "lat": 61.0821465012596,
+    "lon": 7.854516607925698,
+    "address": "Borgundsvegen 55",
+    "postalCode": "6888",
+    "city": "BORGUND",
+    "url": "https://narbutikken.no/finn-butikk/narbutikken-borgund"
+  },
+  {
+    "id": "9196",
+    "name": "Nærbutikken Bortelid",
+    "lat": 58.81878057469292,
+    "lon": 7.472144117293587,
+    "address": "Kapellodden 1",
+    "postalCode": "4540",
+    "city": "ÅSERAL",
+    "url": "https://narbutikken.no/finn-butikk/narbutikken-bortelid"
+  },
+  {
+    "id": "8063",
+    "name": "Nærbutikken Brasøy",
+    "lat": 65.9112223170805,
+    "lon": 12.168740576624105,
+    "address": "Brasøyveien 90",
+    "postalCode": "8842",
+    "city": "BRASØY",
+    "url": "https://narbutikken.no/finn-butikk/narbutikken-brasoy"
+  },
+  {
+    "id": "730",
+    "name": "Nærbutikken Bruntveit",
+    "lat": 60.038653384861014,
+    "lon": 5.435646318242063,
+    "address": "Rekstravegen 641",
+    "postalCode": "5683",
+    "city": "REKSTEREN",
+    "url": "https://narbutikken.no/finn-butikk/narbutikken-bruntveit"
+  },
+  {
+    "id": "7542",
+    "name": "Nærbutikken Bugøynes",
+    "lat": 69.97288476479264,
+    "lon": 29.638398408784383,
+    "address": "Østersandveien 18",
+    "postalCode": "9935",
+    "city": "BUGØYNES",
+    "url": "https://narbutikken.no/finn-butikk/narbutikken-bugoynes"
+  },
+  {
+    "id": "3695",
+    "name": "Nærbutikken Buttingsrud",
+    "lat": 60.44082455573298,
+    "lon": 10.089554911366116,
+    "address": "Ådalsveien 690",
+    "postalCode": "3525",
+    "city": "HALLINGBY",
+    "url": "https://narbutikken.no/finn-butikk/narbutikken-buttingsrud"
+  },
+  {
+    "id": "708",
+    "name": "Nærbutikken Bygstad",
+    "lat": 61.37383225205691,
+    "lon": 5.639952612559854,
+    "address": "Sveen",
+    "postalCode": "6977",
+    "city": "BYGSTAD",
+    "url": "https://narbutikken.no/finn-butikk/narbutikken-bygstad"
+  },
+  {
+    "id": "7127",
+    "name": "Nærbutikken Børson Dagligvare",
+    "lat": 61.47090070690157,
+    "lon": 10.136642592303494,
+    "address": "Mellomstasjonen",
+    "postalCode": "2634",
+    "city": "FÅVANG",
+    "url": "https://narbutikken.no/finn-butikk/narbutikken-borson-dagligvare"
+  },
+  {
+    "id": "5557",
+    "name": "Nærbutikken Davik",
+    "lat": 61.88903274171935,
+    "lon": 5.550965355780747,
+    "address": "Abbelkrysset",
+    "postalCode": "6730",
+    "city": "DAVIK",
+    "url": "https://narbutikken.no/finn-butikk/narbutikken-davik"
+  },
+  {
+    "id": "8017",
+    "name": "Nærbutikken Drevvatn",
+    "lat": 66.0676438644324,
+    "lon": 13.444918881461556,
+    "address": "Drevvassbygda 44",
+    "postalCode": "8672",
+    "city": "ELSFJORD",
+    "url": "https://narbutikken.no/finn-butikk/narbutikken-drevvatn"
+  },
+  {
+    "id": "4433",
+    "name": "Nærbutikken Eidsfoss",
+    "lat": 59.5959930047626,
+    "lon": 10.036800533585733,
+    "address": "Bråtagata 52",
+    "postalCode": "3095",
+    "city": "EIDSFOSS",
+    "url": "https://narbutikken.no/finn-butikk/narbutikken-eidsfoss"
+  },
+  {
+    "id": "710",
+    "name": "Nærbutikken Eikangervåg",
+    "lat": 60.659312359172006,
+    "lon": 5.350963660208862,
+    "address": "Svindalsvegen 3, Kløve",
+    "postalCode": "5913",
+    "city": "EIKANGERVÅG",
+    "url": "https://narbutikken.no/finn-butikk/narbutikken-eikangervag"
+  },
+  {
+    "id": "7115",
+    "name": "Nærbutikken Elgå",
+    "lat": 62.16314210875848,
+    "lon": 11.943912888639897,
+    "address": "Femundveien 3608",
+    "postalCode": "2446",
+    "city": "ELGÅ",
+    "url": "https://narbutikken.no/finn-butikk/narbutikken-elga"
+  },
+  {
+    "id": "7095",
+    "name": "Nærbutikken Engerdal",
+    "lat": 61.67635771041129,
+    "lon": 12.007096187675408,
+    "address": "Nordberget 1",
+    "postalCode": "2440",
+    "city": "ENGERDAL",
+    "url": "https://narbutikken.no/finn-butikk/narbutikken-engerdal"
+  },
+  {
+    "id": "7672",
+    "name": "Nærbutikken Engesland",
+    "lat": 58.53233482095583,
+    "lon": 8.118383634794906,
+    "address": "Engeslandsveien 1002",
+    "postalCode": "4768",
+    "city": "ENGESLAND",
+    "url": "https://narbutikken.no/finn-butikk/narbutikken-engesland"
+  },
+  {
+    "id": "3458",
+    "name": "Nærbutikken Etterstadsletta",
+    "lat": 59.90805761471566,
+    "lon": 10.802485332615767,
+    "address": "Etterstadsletta 61A",
+    "postalCode": "0660",
+    "city": "OSLO",
+    "url": "https://narbutikken.no/finn-butikk/narbutikken-etterstadsletta"
+  },
+  {
+    "id": "1184",
+    "name": "Nærbutikken Fageråsen",
+    "lat": 61.32296807581759,
+    "lon": 12.155739731893306,
+    "address": "Trysil Høyfjellsenter Fageråsen",
+    "postalCode": "2420",
+    "city": "TRYSIL",
+    "url": "https://narbutikken.no/finn-butikk/narbutikken-fagerasen"
+  },
+  {
+    "id": "5687",
+    "name": "Nærbutikken Fayesgate",
+    "lat": 59.932832983255786,
+    "lon": 10.741353102967874,
+    "address": "Fayesgate 4",
+    "postalCode": "0455",
+    "city": "OSLO",
+    "url": "https://narbutikken.no/finn-butikk/narbutikken-fayesgate"
+  },
+  {
+    "id": "508",
+    "name": "Nærbutikken Feios",
+    "lat": 61.14878642908648,
+    "lon": 6.751179578570295,
+    "address": "Feios",
+    "postalCode": "6895",
+    "city": "FEIOS",
+    "url": "https://narbutikken.no/finn-butikk/narbutikken-feios"
+  },
+  {
+    "id": "742",
+    "name": "Nærbutikken Feste",
+    "lat": 60.66562767950941,
+    "lon": 5.115495812268342,
+    "address": "Feste",
+    "postalCode": "5912",
+    "city": "SEIM",
+    "url": "https://narbutikken.no/finn-butikk/narbutikken-feste"
+  },
+  {
+    "id": "4436",
+    "name": "Nærbutikken Fjelberg",
+    "lat": 59.73117303783132,
+    "lon": 5.694307301519674,
+    "address": "",
+    "postalCode": "5459",
+    "city": "FJELBERG",
+    "url": "https://narbutikken.no/finn-butikk/narbutikken-fjelberg"
+  },
+  {
+    "id": "758",
+    "name": "Nærbutikken Fjorden",
+    "lat": 61.006494618629056,
+    "lon": 6.413942277419153,
+    "address": "Fjordavegen1853 A",
+    "postalCode": "6893",
+    "city": "VIK I SOGN",
+    "url": "https://narbutikken.no/finn-butikk/narbutikken-fjorden"
+  },
+  {
+    "id": "7555",
+    "name": "Nærbutikken Gamvik",
+    "lat": 71.06162691078204,
+    "lon": 28.248330406942923,
+    "address": "Grundnesveien 1",
+    "postalCode": "9775",
+    "city": "GAMVIK",
+    "url": "https://narbutikken.no/finn-butikk/narbutikken-gamvik"
+  },
+  {
+    "id": "8553",
+    "name": "Nærbutikken Grimo",
+    "lat": 60.386168099736665,
+    "lon": 6.64539710408359,
+    "address": "Fjordavegen 3583",
+    "postalCode": "5777",
+    "city": "GRIMO",
+    "url": "https://narbutikken.no/finn-butikk/narbutikken-grimo"
+  },
+  {
+    "id": "7658",
+    "name": "Nærbutikken Grorud",
+    "lat": 59.95066483331632,
+    "lon": 10.889181021553483,
+    "address": "Stjerneblokkveien 6",
+    "postalCode": "1083",
+    "city": "OSLO",
+    "url": "https://narbutikken.no/finn-butikk/narbutikken-grorud"
+  },
+  {
+    "id": "4557",
+    "name": "Nærbutikken Grytøy",
+    "lat": 68.87966263617253,
+    "lon": 16.569074529582355,
+    "address": "Grytøyveien 310",
+    "postalCode": "9420",
+    "city": "LUNDENES",
+    "url": "https://narbutikken.no/finn-butikk/narbutikken-grytoy"
+  },
+  {
+    "id": "746",
+    "name": "Nærbutikken Hagavik",
+    "lat": 60.169029807684744,
+    "lon": 5.424636702822378,
+    "address": "Hagavik",
+    "postalCode": "5217",
+    "city": "HAGAVIK",
+    "url": "https://narbutikken.no/finn-butikk/narbutikken-hagavik"
+  },
+  {
+    "id": "8559",
+    "name": "Nærbutikken Haugamoen Dyrdal",
+    "lat": 60.62683725552443,
+    "lon": 6.435763563392495,
+    "address": "Bordalsvegen 29",
+    "postalCode": "5700",
+    "city": "VOSS",
+    "url": "https://narbutikken.no/finn-butikk/narbutikken-haugamoen-dyrdal"
+  },
+  {
+    "id": "5104",
+    "name": "Nærbutikken Hegna Landhandel",
+    "lat": 59.4353666329782,
+    "lon": 8.863022594849626,
+    "address": "Manheimstrondi 1543",
+    "postalCode": "3805",
+    "city": "BØ I TELEMARK",
+    "url": "https://narbutikken.no/finn-butikk/narbutikken-hegna-landhandel"
+  },
+  {
+    "id": "1872",
+    "name": "Nærbutikken Heimdalsgata",
+    "lat": 59.914527433151605,
+    "lon": 10.76645428367902,
+    "address": "Heimdalsgata 33A",
+    "postalCode": "0578",
+    "city": "OSLO",
+    "url": "https://narbutikken.no/finn-butikk/narbutikken-heimdalsgata"
+  },
+  {
+    "id": "735",
+    "name": "Nærbutikken Hellestrand",
+    "lat": 61.3316802359158,
+    "lon": 5.122378683682357,
+    "address": "Hellestrand",
+    "postalCode": "6982",
+    "city": "HOLMEDAL",
+    "url": "https://narbutikken.no/finn-butikk/narbutikken-hellestrand"
+  },
+  {
+    "id": "3338",
+    "name": "Nærbutikken Hellevik",
+    "lat": 61.3026894119935,
+    "lon": 5.1782223848151325,
+    "address": "Hellevik",
+    "postalCode": "6967",
+    "city": "HELLEVIK I FJALER",
+    "url": "https://narbutikken.no/finn-butikk/narbutikken-hellevik"
+  },
+  {
+    "id": "7788",
+    "name": "Nærbutikken Holmefjord",
+    "lat": 60.28977088462215,
+    "lon": 5.666999605057627,
+    "address": "Holmsundvegen 79",
+    "postalCode": "5642",
+    "city": "HOLMEFJORD",
+    "url": "https://narbutikken.no/finn-butikk/narbutikken-holmefjord"
+  },
+  {
+    "id": "5868",
+    "name": "Nærbutikken Holmsbu",
+    "lat": 59.560611020800934,
+    "lon": 10.427836600591844,
+    "address": "Thomasløkken 2",
+    "postalCode": "3484",
+    "city": "HOLMSBU",
+    "url": "https://narbutikken.no/finn-butikk/narbutikken-holmsbu"
+  },
+  {
+    "id": "776",
+    "name": "Nærbutikken Huglo",
+    "lat": 59.86650752307903,
+    "lon": 5.563434442952541,
+    "address": "Nordhuglo 5",
+    "postalCode": "5413",
+    "city": "HUGLO",
+    "url": "https://narbutikken.no/finn-butikk/narbutikken-huglo"
+  },
+  {
+    "id": "7149",
+    "name": "Nærbutikken Høvringen",
+    "lat": 61.88909562815739,
+    "lon": 9.473613347455064,
+    "address": "Høvringsvegen",
+    "postalCode": "2673",
+    "city": "HØVRINGEN",
+    "url": "https://narbutikken.no/finn-butikk/narbutikken-hovringen"
+  },
+  {
+    "id": "4425",
+    "name": "Nærbutikken Kokelv",
+    "lat": 70.61279300405984,
+    "lon": 24.647340988093532,
+    "address": "Kokelv",
+    "postalCode": "9715",
+    "city": "KOKELV",
+    "url": "https://narbutikken.no/finn-butikk/narbutikken-kokelv"
+  },
+  {
+    "id": "4459",
+    "name": "Nærbutikken Konowsgate",
+    "lat": 59.90165302886328,
+    "lon": 10.790409214330435,
+    "address": "Konowsgate 79",
+    "postalCode": "0196",
+    "city": "OSLO",
+    "url": "https://narbutikken.no/finn-butikk/narbutikken-konowsgate"
+  },
+  {
+    "id": "7560",
+    "name": "Nærbutikken Korsfjord Handel",
+    "lat": 70.24589248549368,
+    "lon": 23.395779153420694,
+    "address": "Lerresfjordveien 6",
+    "postalCode": "9536",
+    "city": "KORSFJORDEN",
+    "url": "https://narbutikken.no/finn-butikk/narbutikken-korsfjord-handel"
+  },
+  {
+    "id": "9010",
+    "name": "Nærbutikken Korshamn",
+    "lat": 58.0228257186162,
+    "lon": 7.000569848511723,
+    "address": "Korshavn 5",
+    "postalCode": "4586",
+    "city": "KORSHAMN",
+    "url": "https://narbutikken.no/finn-butikk/narbutikken-korshamn"
+  },
+  {
+    "id": "4600",
+    "name": "Nærbutikken Kvaløyvågen",
+    "lat": 69.8517887804612,
+    "lon": 18.8195765865725,
+    "address": "Kvaløyvågen 1422",
+    "postalCode": "9103",
+    "city": "KVALØYA",
+    "url": "https://narbutikken.no/finn-butikk/narbutikken-kvaloyvagen"
+  },
+  {
+    "id": "4714",
+    "name": "Nærbutikken Kvingo",
+    "lat": 60.7453723899544,
+    "lon": 5.386484011139839,
+    "address": "Austfjordvegen 1190",
+    "postalCode": "5981",
+    "city": "MASFJORDNES",
+    "url": "https://narbutikken.no/finn-butikk/narbutikken-kvingo"
+  },
+  {
+    "id": "4785",
+    "name": "Nærbutikken Lebesby",
+    "lat": 70.57168239685329,
+    "lon": 27.006064293996435,
+    "address": "Stallnesveien 18",
+    "postalCode": "9740",
+    "city": "LEBESBY",
+    "url": "https://narbutikken.no/finn-butikk/narbutikken-lebesby"
+  },
+  {
+    "id": "4528",
+    "name": "Nærbutikken Leirgulen",
+    "lat": 61.861255747875425,
+    "lon": 5.312568096163368,
+    "address": "Hornelsvegen 1832",
+    "postalCode": "6734",
+    "city": "RUGSUND",
+    "url": "https://narbutikken.no/finn-butikk/narbutikken-leirgulen"
+  },
+  {
+    "id": "3837",
+    "name": "Nærbutikken Lesjaverk",
+    "lat": 62.19326188845134,
+    "lon": 8.536279176380676,
+    "address": "Romsdalsvegen 3349",
+    "postalCode": "2667",
+    "city": "LESJAVERK",
+    "url": "https://narbutikken.no/finn-butikk/narbutikken-lesjaverk"
+  },
+  {
+    "id": "7007",
+    "name": "Nærbutikken Lyngdal",
+    "lat": 59.90813210734943,
+    "lon": 9.52494478061429,
+    "address": "Lyngdalsvegen 997",
+    "postalCode": "3624",
+    "city": "LYNGDAL I NUMEDAL",
+    "url": "https://narbutikken.no/finn-butikk/narbutikken-lyngdal"
+  },
+  {
+    "id": "798",
+    "name": "Nærbutikken Lyngnes",
+    "lat": 59.85700243956771,
+    "lon": 6.0170926818657176,
+    "address": "Matersvegen 82",
+    "postalCode": "5498",
+    "city": "MATRE",
+    "url": "https://narbutikken.no/finn-butikk/narbutikken-lyngnes"
+  },
+  {
+    "id": "8043",
+    "name": "Nærbutikken Lønset",
+    "lat": 62.58323252259362,
+    "lon": 9.3435436292966,
+    "address": "Lønsetveien 1",
+    "postalCode": "7342",
+    "city": "LØNSET",
+    "url": "https://narbutikken.no/finn-butikk/narbutikken-lonset"
+  },
+  {
+    "id": "7559",
+    "name": "Nærbutikken Maze",
+    "lat": 69.44348442111715,
+    "lon": 23.667321814559386,
+    "address": "Hiersaluokka  12/61",
+    "postalCode": "9525",
+    "city": "MAZE",
+    "url": "https://narbutikken.no/finn-butikk/narbutikken-maze"
+  },
+  {
+    "id": "4717",
+    "name": "Nærbutikken Melandsjø",
+    "lat": 63.628965032533564,
+    "lon": 8.731046890086938,
+    "address": "Melandsjøveien 270",
+    "postalCode": "7250",
+    "city": "MELANDSJØ",
+    "url": "https://narbutikken.no/finn-butikk/narbutikken-melandsjo"
+  },
+  {
+    "id": "4306",
+    "name": "Nærbutikken Myking Handel",
+    "lat": 60.70058234800356,
+    "lon": 5.3262076294108285,
+    "address": "Mykingveien 1151",
+    "postalCode": "5957",
+    "city": "MYKING",
+    "url": "https://narbutikken.no/finn-butikk/narbutikken-myking-handel"
+  },
+  {
+    "id": "7100",
+    "name": "Nærbutikken Myking Nesbyen",
+    "lat": 60.535677101733576,
+    "lon": 8.82061651763699,
+    "address": "Mykingvegen 563",
+    "postalCode": "3540",
+    "city": "NESBYEN",
+    "url": "https://narbutikken.no/finn-butikk/narbutikken-myking-nesbyen"
+  },
+  {
+    "id": "883",
+    "name": "Nærbutikken Møkster",
+    "lat": 60.05966548399663,
+    "lon": 5.09912625957863,
+    "address": "Møkster 53",
+    "postalCode": "5387",
+    "city": "MØKSTER",
+    "url": "https://narbutikken.no/finn-butikk/narbutikken-mokster"
+  },
+  {
+    "id": "2661",
+    "name": "Nærbutikken Møllenberg",
+    "lat": 63.430285718498894,
+    "lon": 10.408846375006936,
+    "address": "Nedre Møllenberg gate 17",
+    "postalCode": "7014",
+    "city": "TRONDHEIM",
+    "url": "https://narbutikken.no/finn-butikk/narbutikken-mollenberg"
+  },
+  {
+    "id": "7705",
+    "name": "Nærbutikken Mørsvikbotn",
+    "lat": 67.70583438646314,
+    "lon": 15.84998145442373,
+    "address": "Mørsvikbotn",
+    "postalCode": "8266",
+    "city": "MØRSVIKBOTN",
+    "url": "https://narbutikken.no/finn-butikk/narbutikken-morsvikbotn"
+  },
+  {
+    "id": "7706",
+    "name": "Nærbutikken Nesflaten",
+    "lat": 59.645621801781616,
+    "lon": 6.801397300835677,
+    "address": "Nesflotvegen 10B",
+    "postalCode": "4244",
+    "city": "NESFLATEN",
+    "url": "https://narbutikken.no/finn-butikk/narbutikken-nesflaten"
+  },
+  {
+    "id": "7689",
+    "name": "Nærbutikken Nissedal",
+    "lat": 59.16512531904166,
+    "lon": 8.500932984260134,
+    "address": "Nissedalsvegen 910",
+    "postalCode": "3854",
+    "city": "NISSEDAL",
+    "url": "https://narbutikken.no/finn-butikk/narbutikken-nissedal"
+  },
+  {
+    "id": "1861",
+    "name": "Nærbutikken Norddal",
+    "lat": 62.25480880602222,
+    "lon": 7.234546787015365,
+    "address": "Dalssida 2",
+    "postalCode": "6214",
+    "city": "NORDDAL",
+    "url": "https://narbutikken.no/finn-butikk/narbutikken-norddal"
+  },
+  {
+    "id": "8056",
+    "name": "Nærbutikken Nordskot",
+    "lat": 67.83480498359611,
+    "lon": 14.788017837469356,
+    "address": "Nordskotveien 263",
+    "postalCode": "8283",
+    "city": "LEINESFJORD",
+    "url": "https://narbutikken.no/finn-butikk/narbutikken-nordskot"
+  },
+  {
+    "id": "4510",
+    "name": "Nærbutikken Nåra",
+    "lat": 61.010161204598916,
+    "lon": 4.695567320720832,
+    "address": "Nåravegen 470",
+    "postalCode": "6928",
+    "city": "KOLGROV",
+    "url": "https://narbutikken.no/finn-butikk/narbutikken-nara"
+  },
+  {
+    "id": "4722",
+    "name": "Nærbutikken Oksenøya",
+    "lat": 59.90306668492687,
+    "lon": 10.614587789199597,
+    "address": "Oksenøyaveien 41",
+    "postalCode": "1366",
+    "city": "LYSAKER",
+    "url": "https://narbutikken.no/finn-butikk/narbutikken-oksenoya"
+  },
+  {
+    "id": "7707",
+    "name": "Nærbutikken Omlid",
+    "lat": 58.83982349082186,
+    "lon": 6.777217197264172,
+    "address": "Omlid",
+    "postalCode": "4440",
+    "city": "TONSTAD",
+    "url": "https://narbutikken.no/finn-butikk/narbutikken-omlid"
+  },
+  {
+    "id": "965",
+    "name": "Nærbutikken Randøy",
+    "lat": 59.22344082163622,
+    "lon": 6.100536877667837,
+    "address": "Randøy Ring 59",
+    "postalCode": "4130",
+    "city": "HJELMELAND",
+    "url": "https://narbutikken.no/finn-butikk/narbutikken-randoy"
+  },
+  {
+    "id": "7730",
+    "name": "Nærbutikken Risløkka",
+    "lat": 59.931102717202485,
+    "lon": 10.822848017095644,
+    "address": "Risløkka T-banestasjon",
+    "postalCode": "0583",
+    "city": "OSLO",
+    "url": "https://narbutikken.no/finn-butikk/narbutikken-rislokka"
+  },
+  {
+    "id": "501",
+    "name": "Nærbutikken Rognaldsvåg",
+    "lat": 61.56466894711166,
+    "lon": 4.79026996697549,
+    "address": "Sjøstrand",
+    "postalCode": "6915",
+    "city": "ROGNALDSVÅG",
+    "url": "https://narbutikken.no/finn-butikk/narbutikken-rognaldsvag"
+  },
+  {
+    "id": "3832",
+    "name": "Nærbutikken Rollag",
+    "lat": 59.9836677706441,
+    "lon": 9.2964100742369,
+    "address": "Neset 8",
+    "postalCode": "3626",
+    "city": "ROLLAG",
+    "url": "https://narbutikken.no/finn-butikk/narbutikken-rollag"
+  },
+  {
+    "id": "3814",
+    "name": "Nærbutikken Rovde",
+    "lat": 62.17880491740859,
+    "lon": 5.754931147937591,
+    "address": "Åsevika 3",
+    "postalCode": "6141",
+    "city": "ROVDE",
+    "url": "https://narbutikken.no/finn-butikk/narbutikken-rovde"
+  },
+  {
+    "id": "5016",
+    "name": "Nærbutikken Rustad",
+    "lat": 59.87116560266962,
+    "lon": 10.84534965204437,
+    "address": "WELDING OLSENS V 3",
+    "postalCode": "0694",
+    "city": "OSLO",
+    "url": "https://narbutikken.no/finn-butikk/narbutikken-rustad"
+  },
+  {
+    "id": "9947",
+    "name": "Nærbutikken Rødven",
+    "lat": 62.63144358689451,
+    "lon": 7.493282236716252,
+    "address": "Rødvenvegen 616",
+    "postalCode": "6350",
+    "city": "EIDSBYGDA",
+    "url": "https://narbutikken.no/finn-butikk/narbutikken-rodven"
+  },
+  {
+    "id": "9598",
+    "name": "Nærbutikken Rødøy",
+    "lat": 66.65655790729409,
+    "lon": 13.076317167426737,
+    "address": "Rødøyveien 7",
+    "postalCode": "8193",
+    "city": "RØDØY",
+    "url": "https://narbutikken.no/finn-butikk/narbutikken-rodoy"
+  },
+  {
+    "id": "2319",
+    "name": "Nærbutikken Røvær",
+    "lat": 59.43946265611386,
+    "lon": 5.091473471377861,
+    "address": "",
+    "postalCode": "5549",
+    "city": "RØVÆR",
+    "url": "https://narbutikken.no/finn-butikk/narbutikken-rovar"
+  },
+  {
+    "id": "4431",
+    "name": "Nærbutikken Sandviken",
+    "lat": 60.40776989073581,
+    "lon": 5.3256007020690435,
+    "address": "Ekregaten 15",
+    "postalCode": "5036",
+    "city": "BERGEN",
+    "url": "https://narbutikken.no/finn-butikk/narbutikken-sandviken"
+  },
+  {
+    "id": "8645",
+    "name": "Nærbutikken Sandviksberget",
+    "lat": 64.32726288615022,
+    "lon": 10.446609132441388,
+    "address": "Strandaveien 263",
+    "postalCode": "7740",
+    "city": "STEINSDALEN",
+    "url": "https://narbutikken.no/finn-butikk/narbutikken-sandviksberget"
+  },
+  {
+    "id": "3407",
+    "name": "Nærbutikken Schouterrassen",
+    "lat": 59.93172265209368,
+    "lon": 10.782777301367679,
+    "address": "Schouterrassen 30",
+    "postalCode": "0573",
+    "city": "OSLO",
+    "url": "https://narbutikken.no/finn-butikk/narbutikken-schouterrassen"
+  },
+  {
+    "id": "739",
+    "name": "Nærbutikken Sekken",
+    "lat": 62.652608592573515,
+    "lon": 7.33895509826199,
+    "address": "Håkon Herdebreis veg 734",
+    "postalCode": "6418",
+    "city": "SEKKEN",
+    "url": "https://narbutikken.no/finn-butikk/narbutikken-sekken"
+  },
+  {
+    "id": "4437",
+    "name": "Nærbutikken Sifjord",
+    "lat": 69.28514108743643,
+    "lon": 17.14739590467886,
+    "address": "Sifjordveien 98",
+    "postalCode": "9395",
+    "city": "KALDFARNES",
+    "url": "https://narbutikken.no/finn-butikk/narbutikken-sifjord"
+  },
+  {
+    "id": "7621",
+    "name": "Nærbutikken Skaidi",
+    "lat": 70.43185202839602,
+    "lon": 24.504629095086962,
+    "address": "Skaidi",
+    "postalCode": "9620",
+    "city": "KVALSUND",
+    "url": "https://narbutikken.no/finn-butikk/narbutikken-skaidi"
+  },
+  {
+    "id": "9621",
+    "name": "Nærbutikken Skøyen",
+    "lat": 59.92871681517839,
+    "lon": 10.6867682132708,
+    "address": "Skøyenv 51",
+    "postalCode": "0375",
+    "city": "OSLO",
+    "url": "https://narbutikken.no/finn-butikk/narbutikken-skoyen"
+  },
+  {
+    "id": "5475",
+    "name": "Nærbutikken Slettås Handelslag",
+    "lat": 61.37255915443428,
+    "lon": 11.954878989204136,
+    "address": "Slettåsvegen 1187",
+    "postalCode": "2432",
+    "city": "SLETTÅS",
+    "url": "https://narbutikken.no/finn-butikk/narbutikken-slettas-handelslag"
+  },
+  {
+    "id": "4380",
+    "name": "Nærbutikken Stakkvik",
+    "lat": 69.95396274398007,
+    "lon": 19.667022964894755,
+    "address": "Stakkvik",
+    "postalCode": "9132",
+    "city": "STAKKVIK",
+    "url": "https://narbutikken.no/finn-butikk/narbutikken-stakkvik"
+  },
+  {
+    "id": "4720",
+    "name": "Nærbutikken Stavang Landhandel",
+    "lat": 61.53446776405943,
+    "lon": 5.182259838936849,
+    "address": "Stavang",
+    "postalCode": "6944",
+    "city": "STAVANG",
+    "url": "https://narbutikken.no/finn-butikk/narbutikken-stavang-landhandel"
+  },
+  {
+    "id": "2262",
+    "name": "Nærbutikken Storo",
+    "lat": 59.94357837135535,
+    "lon": 10.778569426176697,
+    "address": "Hans Nordahlsgt. 94",
+    "postalCode": "0485",
+    "city": "OSLO",
+    "url": "https://narbutikken.no/finn-butikk/narbutikken-storo"
+  },
+  {
+    "id": "9038",
+    "name": "Nærbutikken Stovner",
+    "lat": 59.960031294066326,
+    "lon": 10.91861582551104,
+    "address": "Tante Ulrikkes vei 32 D",
+    "postalCode": "0984",
+    "city": "OSLO",
+    "url": "https://narbutikken.no/finn-butikk/narbutikken-stovner"
+  },
+  {
+    "id": "744",
+    "name": "Nærbutikken Svanøy Handel",
+    "lat": 61.49733171248327,
+    "lon": 5.12743553718673,
+    "address": "BISKOP SVANES VEG 1",
+    "postalCode": "6914",
+    "city": "SVANØYBUKT",
+    "url": "https://narbutikken.no/finn-butikk/narbutikken-svanoy-handel"
+  },
+  {
+    "id": "1865",
+    "name": "Nærbutikken Svatsum",
+    "lat": 61.34145486206824,
+    "lon": 9.770074604197537,
+    "address": "Gardan 6",
+    "postalCode": "2657",
+    "city": "SVATSUM",
+    "url": "https://narbutikken.no/finn-butikk/narbutikken-svatsum"
+  },
+  {
+    "id": "4430",
+    "name": "Nærbutikken Swensen Landhandel",
+    "lat": 66.80481877773148,
+    "lon": 13.235304008137886,
+    "address": "Pervika",
+    "postalCode": "8158",
+    "city": "BOLGA",
+    "url": "https://narbutikken.no/finn-butikk/narbutikken-swensen-landhandel"
+  },
+  {
+    "id": "4511",
+    "name": "Nærbutikken Sævareid",
+    "lat": 60.189759198924065,
+    "lon": 5.760975753617626,
+    "address": "Sævareidvegen  673",
+    "postalCode": "5645",
+    "city": "SÆVAREID",
+    "url": "https://narbutikken.no/finn-butikk/narbutikken-savareid"
+  },
+  {
+    "id": "3093",
+    "name": "Nærbutikken Sør-Tverrfjord",
+    "lat": 70.21779977904458,
+    "lon": 21.713248780036828,
+    "address": "Sør-Tverrfjordveien 113",
+    "postalCode": "9584",
+    "city": "SØR-TVERRFJORD",
+    "url": "https://narbutikken.no/finn-butikk/narbutikken-sor-tverrfjord"
+  },
+  {
+    "id": "3475",
+    "name": "Nærbutikken Sørarnøy",
+    "lat": 67.13431932604877,
+    "lon": 13.97081466285435,
+    "address": "Hestøysundet 2",
+    "postalCode": "8135",
+    "city": "SØRARNØY",
+    "url": "https://narbutikken.no/finn-butikk/narbutikken-sorarnoy"
+  },
+  {
+    "id": "875",
+    "name": "Nærbutikken Tansøy",
+    "lat": 61.50047459678995,
+    "lon": 4.966465994922405,
+    "address": "Valvikvegen 2",
+    "postalCode": "6919",
+    "city": "TANSØY",
+    "url": "https://narbutikken.no/finn-butikk/narbutikken-tansoy"
+  },
+  {
+    "id": "5644",
+    "name": "Nærbutikken Tonnes",
+    "lat": 66.51100953418114,
+    "lon": 13.007306439177176,
+    "address": "Tonnesveien 309",
+    "postalCode": "8750",
+    "city": "TONNES",
+    "url": "https://narbutikken.no/finn-butikk/narbutikken-tonnes"
+  },
+  {
+    "id": "4429",
+    "name": "Nærbutikken Tonstad",
+    "lat": 58.66574178756687,
+    "lon": 6.7164741892274655,
+    "address": "Tonstadveien 17",
+    "postalCode": "4440",
+    "city": "TONSTAD",
+    "url": "https://narbutikken.no/finn-butikk/narbutikken-tonstad"
+  },
+  {
+    "id": "7533",
+    "name": "Nærbutikken Torsken",
+    "lat": 69.33854184616989,
+    "lon": 17.105340275982993,
+    "address": "Værnesveien 159",
+    "postalCode": "9381",
+    "city": "TORSKEN",
+    "url": "https://narbutikken.no/finn-butikk/narbutikken-torsken"
+  },
+  {
+    "id": "748",
+    "name": "Nærbutikken Trea",
+    "lat": 61.556559815262496,
+    "lon": 11.012817059310906,
+    "address": "Storelvdalsveien 4654",
+    "postalCode": "2480",
+    "city": "KOPPANG",
+    "url": "https://narbutikken.no/finn-butikk/narbutikken-trea"
+  },
+  {
+    "id": "7259",
+    "name": "Nærbutikken Trysilfjellet",
+    "lat": 61.306292192503854,
+    "lon": 12.243300460901876,
+    "address": "Velkomstvegen 8",
+    "postalCode": "2420",
+    "city": "TRYSIL",
+    "url": "https://narbutikken.no/finn-butikk/narbutikken-trysilfjellet"
+  },
+  {
+    "id": "3883",
+    "name": "Nærbutikken Tufjord",
+    "lat": 71.0049578308308,
+    "lon": 23.90876731840608,
+    "address": "Tufjord",
+    "postalCode": "9670",
+    "city": "TUFJORD",
+    "url": "https://narbutikken.no/finn-butikk/narbutikken-tufjord"
+  },
+  {
+    "id": "3347",
+    "name": "Nærbutikken Tufsingdal",
+    "lat": 62.28637817108531,
+    "lon": 11.735279052939177,
+    "address": "Kopparleden 6075",
+    "postalCode": "2555",
+    "city": "TUFSINGDALEN",
+    "url": "https://narbutikken.no/finn-butikk/narbutikken-tufsingdal"
+  },
+  {
+    "id": "2966",
+    "name": "Nærbutikken Tustna",
+    "lat": 63.15777078015985,
+    "lon": 7.954420598821159,
+    "address": "Tømmervågveien 4176",
+    "postalCode": "6590",
+    "city": "TUSTNA",
+    "url": "https://narbutikken.no/finn-butikk/narbutikken-tustna"
+  },
+  {
+    "id": "717",
+    "name": "Nærbutikken Tyssebotnen",
+    "lat": 60.61899860906679,
+    "lon": 5.5872075611135905,
+    "address": "Osterøyvegen 3390",
+    "postalCode": "5284",
+    "city": "TYSSEBOTNEN",
+    "url": "https://narbutikken.no/finn-butikk/narbutikken-tyssebotnen"
+  },
+  {
+    "id": "4443",
+    "name": "Nærbutikken Tyssedal",
+    "lat": 60.11614111078419,
+    "lon": 6.559857003968889,
+    "address": "Tveitavegen 2",
+    "postalCode": "5770",
+    "city": "TYSSEDAL",
+    "url": "https://narbutikken.no/finn-butikk/narbutikken-tyssedal"
+  },
+  {
+    "id": "893",
+    "name": "Nærbutikken Tørris Wågen",
+    "lat": 59.78760389438759,
+    "lon": 6.100824746421271,
+    "address": "Åkravegen 664",
+    "postalCode": "5499",
+    "city": "ÅKRA",
+    "url": "https://narbutikken.no/finn-butikk/narbutikken-torris-wagen"
+  },
+  {
+    "id": "808",
+    "name": "Nærbutikken Underdalsbui",
+    "lat": 60.95158240540745,
+    "lon": 7.104587703683314,
+    "address": "Undredalsvegen 137",
+    "postalCode": "5746",
+    "city": "UNDREDAL",
+    "url": "https://narbutikken.no/finn-butikk/narbutikken-underdalsbui"
+  },
+  {
+    "id": "5366",
+    "name": "Nærbutikken Utvika",
+    "lat": 60.02959314005611,
+    "lon": 10.263046736122627,
+    "address": "Utvika 2",
+    "postalCode": "3531",
+    "city": "KROKKLEIVA",
+    "url": "https://narbutikken.no/finn-butikk/narbutikken-utvika"
+  },
+  {
+    "id": "4716",
+    "name": "Nærbutikken Veitastrond",
+    "lat": 61.48544411817946,
+    "lon": 7.0270356246035615,
+    "address": "Veitastrondi",
+    "postalCode": "6878",
+    "city": "VEITASTROND",
+    "url": "https://narbutikken.no/finn-butikk/narbutikken-veitastrond"
+  },
+  {
+    "id": "500",
+    "name": "Nærbutikken Verma",
+    "lat": 62.34045297304793,
+    "lon": 8.062123950179217,
+    "address": "Romsdalsvegen 6572",
+    "postalCode": "6330",
+    "city": "VERMA",
+    "url": "https://narbutikken.no/finn-butikk/narbutikken-verma"
+  },
+  {
+    "id": "9140",
+    "name": "Nærbutikken Vestre Sandøy",
+    "lat": 58.59798735731574,
+    "lon": 9.060607428996097,
+    "address": "Strandavegen 16 A",
+    "postalCode": "4915",
+    "city": "VESTRE SANDØYA",
+    "url": "https://narbutikken.no/finn-butikk/narbutikken-vestre-sandoy"
+  },
+  {
+    "id": "516",
+    "name": "Nærbutikken Vevring",
+    "lat": 61.48992206458598,
+    "lon": 5.390470345515832,
+    "address": "Vevring",
+    "postalCode": "6817",
+    "city": "NAUSTDAL",
+    "url": "https://narbutikken.no/finn-butikk/narbutikken-vevring"
+  },
+  {
+    "id": "9968",
+    "name": "Nærbutikken Vågane",
+    "lat": 62.7312501264491,
+    "lon": 7.422350650860465,
+    "address": "Skålaveien 1030",
+    "postalCode": "6456",
+    "city": "SKÅLA",
+    "url": "https://narbutikken.no/finn-butikk/narbutikken-vagane"
+  },
+  {
+    "id": "4566",
+    "name": "Nærbutikken Vågehamn",
+    "lat": 68.3472836728809,
+    "lon": 15.510777093861137,
+    "address": "Vaage",
+    "postalCode": "8412",
+    "city": "VESTBYGD",
+    "url": "https://narbutikken.no/finn-butikk/narbutikken-vagehamn"
+  },
+  {
+    "id": "4421",
+    "name": "Nærbutikken Vågstranda",
+    "lat": 62.60646524421126,
+    "lon": 7.29440838014737,
+    "address": "Reistad",
+    "postalCode": "6387",
+    "city": "VÅGSTRANDA",
+    "url": "https://narbutikken.no/finn-butikk/narbutikken-vagstranda"
+  },
+  {
+    "id": "1984",
+    "name": "Nærbutikken Ålfoten",
+    "lat": 61.83699400846609,
+    "lon": 5.674463155075406,
+    "address": "Ålfotvegen 34",
+    "postalCode": "6737",
+    "city": "ÅLFOTEN",
+    "url": "https://narbutikken.no/finn-butikk/narbutikken-alfoten"
+  },
+  {
+    "id": "9078",
+    "name": "Nærbutikken Åmdals-Verk",
+    "lat": 59.37633001365582,
+    "lon": 8.03801282817453,
+    "address": "Verketvegen 12",
+    "postalCode": "3882",
+    "city": "ÅMDALS VERK",
+    "url": "https://narbutikken.no/finn-butikk/narbutikken-amdals-verk"
+  },
+  {
+    "id": "4753",
+    "name": "Nærbutikken Østby",
+    "lat": 61.25426078633212,
+    "lon": 12.532563280904604,
+    "address": "Landsvegen 25",
+    "postalCode": "2423",
+    "city": "ØSTBY",
+    "url": "https://narbutikken.no/finn-butikk/narbutikken-ostby"
+  },
+  {
+    "id": "7104",
+    "name": "Nærbutikken Øygardsgrend",
+    "lat": 60.32313249839907,
+    "lon": 8.92373934898118,
+    "address": "Tunhovdveien 55",
+    "postalCode": "3630",
+    "city": "RØDBERG",
+    "url": "https://narbutikken.no/finn-butikk/narbutikken-oygardsgrend"
+  },
+  {
+    "id": "9105",
+    "name": "Nærbutikken Øyna",
+    "lat": 58.23300487016906,
+    "lon": 6.668234797378516,
+    "address": "Andabeløy 101 A",
+    "postalCode": "4434",
+    "city": "ANDABELØY",
+    "url": "https://narbutikken.no/finn-butikk/narbutikken-oyna"
+  }
+]

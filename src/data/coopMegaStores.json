@@ -1,0 +1,612 @@
+[
+  {
+    "id": "2644",
+    "name": "Coop Ekspress Kleppe",
+    "lat": 58.7793134,
+    "lon": 5.6262918,
+    "address": "Solavegen 25",
+    "postalCode": "4351",
+    "city": "Kleppe",
+    "url": "https://www.coop.no/butikker/coop-mega/coop-ekspress-kleppe-2644"
+  },
+  {
+    "id": "4559",
+    "name": "Coop Mega Aker Brygge",
+    "lat": 59.91023341,
+    "lon": 10.72531017,
+    "address": "Holmens gate 7",
+    "postalCode": "0250",
+    "city": "Oslo",
+    "url": "https://www.coop.no/butikker/coop-mega/coop-mega-aker-brygge-4559"
+  },
+  {
+    "id": "4773",
+    "name": "Coop Mega Alexander Kiellandsplass",
+    "lat": 59.92832072,
+    "lon": 10.75013573,
+    "address": "Waldemar Thranes gate 72",
+    "postalCode": "0175",
+    "city": "Oslo",
+    "url": "https://www.coop.no/butikker/coop-mega/coop-mega-alexander-kiellandsplass-4773"
+  },
+  {
+    "id": "2621",
+    "name": "Coop Mega Arendal",
+    "lat": 58.4591362,
+    "lon": 8.7509024,
+    "address": "Strømsbusletta 9",
+    "postalCode": "4847",
+    "city": "Arendal",
+    "url": "https://www.coop.no/butikker/coop-mega/coop-mega-arendal-2621"
+  },
+  {
+    "id": "4372",
+    "name": "Coop Mega Bekkevoll",
+    "lat": 62.7396377,
+    "lon": 7.1392247,
+    "address": "Moldelivegen 97",
+    "postalCode": "6412",
+    "city": "Molde",
+    "url": "https://www.coop.no/butikker/coop-mega/coop-mega-bekkevoll-4372"
+  },
+  {
+    "id": "4301",
+    "name": "Coop Mega Berjasenteret",
+    "lat": 59.6721,
+    "lon": 9.6489423,
+    "address": "Herman Foss gate 12",
+    "postalCode": "3611",
+    "city": "Kongsberg",
+    "url": "https://www.coop.no/butikker/coop-mega/coop-mega-berjasenteret-4301"
+  },
+  {
+    "id": "2704",
+    "name": "Coop Mega Bislett",
+    "lat": 59.9231,
+    "lon": 10.7329,
+    "address": "Dalsbergstien 19",
+    "postalCode": "0170",
+    "city": "Oslo",
+    "url": "https://www.coop.no/butikker/coop-mega/coop-mega-bislett-2704"
+  },
+  {
+    "id": "1249",
+    "name": "Coop Mega Brueland",
+    "lat": 58.8453638,
+    "lon": 5.7319456,
+    "address": "Ganddalsgata 1",
+    "postalCode": "4306",
+    "city": "Sandnes",
+    "url": "https://www.coop.no/butikker/coop-mega/coop-mega-brueland-1249"
+  },
+  {
+    "id": "1097",
+    "name": "Coop Mega Bøler",
+    "lat": 59.882915,
+    "lon": 10.8460234,
+    "address": "Bølerlia 2",
+    "postalCode": "0691",
+    "city": "Oslo",
+    "url": "https://www.coop.no/butikker/coop-mega/coop-mega-boler-1097"
+  },
+  {
+    "id": "2643",
+    "name": "Coop Mega Carl Berner",
+    "lat": 59.9265742,
+    "lon": 10.7770041,
+    "address": "Trondheimsveien 127",
+    "postalCode": "0565",
+    "city": "Oslo",
+    "url": "https://www.coop.no/butikker/coop-mega/coop-mega-carl-berner-2643"
+  },
+  {
+    "id": "1228",
+    "name": "Coop Mega Egersund",
+    "lat": 58.453,
+    "lon": 6.00478,
+    "address": "Fabrikkgaten 2",
+    "postalCode": "4370",
+    "city": "Egersund",
+    "url": "https://www.coop.no/butikker/coop-mega/coop-mega-egersund-1228"
+  },
+  {
+    "id": "2581",
+    "name": "Coop Mega Fauske",
+    "lat": 67.258046,
+    "lon": 15.391514,
+    "address": "Sjøgata 62-64",
+    "postalCode": "8200",
+    "city": "Fauske",
+    "url": "https://www.coop.no/butikker/coop-mega/coop-mega-fauske-2581"
+  },
+  {
+    "id": "2527",
+    "name": "Coop Mega Fjellhamar",
+    "lat": 59.9410472,
+    "lon": 10.9802869,
+    "address": "Haneborgveien 103",
+    "postalCode": "1472",
+    "city": "Fjellhamar",
+    "url": "https://www.coop.no/butikker/coop-mega/coop-mega-fjellhamar-2527"
+  },
+  {
+    "id": "1085",
+    "name": "Coop Mega Fredrikstad",
+    "lat": 59.2139,
+    "lon": 10.9395,
+    "address": "Brochs gate 8",
+    "postalCode": "1607",
+    "city": "Fredrikstad",
+    "url": "https://www.coop.no/butikker/coop-mega/coop-mega-fredrikstad-1085"
+  },
+  {
+    "id": "4366",
+    "name": "Coop Mega Gausel",
+    "lat": 58.905055,
+    "lon": 5.732261,
+    "address": "Gullspennetunet 1",
+    "postalCode": "4032",
+    "city": "Stavanger",
+    "url": "https://www.coop.no/butikker/coop-mega/coop-mega-gausel-4366"
+  },
+  {
+    "id": "1092",
+    "name": "Coop Mega Hagan",
+    "lat": 59.9971129,
+    "lon": 10.9180596,
+    "address": "Hellinga 8",
+    "postalCode": "1481",
+    "city": "Hagan",
+    "url": "https://www.coop.no/butikker/coop-mega/coop-mega-hagan-1092"
+  },
+  {
+    "id": "2653",
+    "name": "Coop Mega Harbitz Torg",
+    "lat": 59.9244853,
+    "lon": 10.6741105,
+    "address": "Harbitzalleen 19",
+    "postalCode": "0275",
+    "city": "Oslo",
+    "url": "https://www.coop.no/butikker/coop-mega/coop-mega-harbitz-torg-2653"
+  },
+  {
+    "id": "4358",
+    "name": "Coop Mega Hasle Torg",
+    "lat": 59.923411,
+    "lon": 10.79302,
+    "address": "Grenseveien 50",
+    "postalCode": "0579",
+    "city": "Oslo",
+    "url": "https://www.coop.no/butikker/coop-mega/coop-mega-hasle-torg-4358"
+  },
+  {
+    "id": "4317",
+    "name": "Coop Mega Holmen",
+    "lat": 59.854363,
+    "lon": 10.488275,
+    "address": "Vogellund 6",
+    "postalCode": "1394",
+    "city": "Nesbru",
+    "url": "https://www.coop.no/butikker/coop-mega/coop-mega-holmen-4317"
+  },
+  {
+    "id": "1030",
+    "name": "Coop Mega Hønefoss",
+    "lat": 60.1771,
+    "lon": 10.2725,
+    "address": "Industrigata 1",
+    "postalCode": "3515",
+    "city": "Hønefoss",
+    "url": "https://www.coop.no/butikker/coop-mega/coop-mega-honefoss-1030"
+  },
+  {
+    "id": "4551",
+    "name": "Coop Mega Kilden",
+    "lat": 58.9480458,
+    "lon": 5.74011,
+    "address": "Gartnerveien 15",
+    "postalCode": "4016",
+    "city": "Stavanger",
+    "url": "https://www.coop.no/butikker/coop-mega/coop-mega-kilden-4551"
+  },
+  {
+    "id": "1265",
+    "name": "Coop Mega Klepp",
+    "lat": 58.77898,
+    "lon": 5.6256573,
+    "address": "Solavegen 25",
+    "postalCode": "4351",
+    "city": "Kleppe",
+    "url": "https://www.coop.no/butikker/coop-mega/coop-mega-klepp-1265"
+  },
+  {
+    "id": "1005",
+    "name": "Coop Mega Kolbotn",
+    "lat": 59.8103704,
+    "lon": 10.7980987,
+    "address": "Kolbotnveien 35",
+    "postalCode": "1410",
+    "city": "Kolbotn",
+    "url": "https://www.coop.no/butikker/coop-mega/coop-mega-kolbotn-1005"
+  },
+  {
+    "id": "2438",
+    "name": "Coop Mega Kristiansund",
+    "lat": 63.1095,
+    "lon": 7.73243,
+    "address": "Arnulf Øverlandsgata 8",
+    "postalCode": "6509",
+    "city": "Kristiansund",
+    "url": "https://www.coop.no/butikker/coop-mega/coop-mega-kristiansund-2438"
+  },
+  {
+    "id": "2079",
+    "name": "Coop Mega Lillehammer",
+    "lat": 61.1276,
+    "lon": 10.4527,
+    "address": "Gudbrandsdalsvegen 188",
+    "postalCode": "2619",
+    "city": "Lillehammer",
+    "url": "https://www.coop.no/butikker/coop-mega/coop-mega-lillehammer-2079"
+  },
+  {
+    "id": "4318",
+    "name": "Coop Mega Linderud",
+    "lat": 59.9427801,
+    "lon": 10.8354705,
+    "address": "Erich Mogensøns vei 38",
+    "postalCode": "0594",
+    "city": "Oslo",
+    "url": "https://www.coop.no/butikker/coop-mega/coop-mega-linderud-4318"
+  },
+  {
+    "id": "4373",
+    "name": "Coop Mega Lund",
+    "lat": 58.1538137,
+    "lon": 8.0247031,
+    "address": "Stadionveien 1",
+    "postalCode": "4632",
+    "city": "Kristiansand",
+    "url": "https://www.coop.no/butikker/coop-mega/coop-mega-lund-4373"
+  },
+  {
+    "id": "4001",
+    "name": "Coop Mega Madla",
+    "lat": 58.9527,
+    "lon": 5.68097,
+    "address": "Madlakrossen 7",
+    "postalCode": "4042",
+    "city": "Hafrsfjord",
+    "url": "https://www.coop.no/butikker/coop-mega/coop-mega-madla-4001"
+  },
+  {
+    "id": "5367",
+    "name": "Coop Mega Madla Express",
+    "lat": 58.9524723,
+    "lon": 5.6807278,
+    "address": "Madlakrossen 7",
+    "postalCode": "4042",
+    "city": "Hafrsfjord",
+    "url": "https://www.coop.no/butikker/coop-mega/coop-mega-madla-express-5367"
+  },
+  {
+    "id": "2599",
+    "name": "Coop Mega Meglergården",
+    "lat": 59.9182906,
+    "lon": 10.5853485,
+    "address": "Gamle Ringeriksvei 43c",
+    "postalCode": "1357",
+    "city": "Bekkestua",
+    "url": "https://www.coop.no/butikker/coop-mega/coop-mega-meglergarden-2599"
+  },
+  {
+    "id": "1016",
+    "name": "Coop Mega Metro",
+    "lat": 59.9275934,
+    "lon": 10.9583564,
+    "address": "Biblioteksgata 30",
+    "postalCode": "1473",
+    "city": "Lørenskog",
+    "url": "https://www.coop.no/butikker/coop-mega/coop-mega-metro-1016"
+  },
+  {
+    "id": "1516",
+    "name": "Coop Mega Molde",
+    "lat": 62.7372827,
+    "lon": 7.1828267,
+    "address": "Birger Hatlebakks veg 5",
+    "postalCode": "6415",
+    "city": "Molde",
+    "url": "https://www.coop.no/butikker/coop-mega/coop-mega-molde-1516"
+  },
+  {
+    "id": "4368",
+    "name": "Coop Mega Nittedal",
+    "lat": 60.0468325,
+    "lon": 10.88169048,
+    "address": "Mattias Skytters vei 2",
+    "postalCode": "1482",
+    "city": "Nittedal",
+    "url": "https://www.coop.no/butikker/coop-mega/coop-mega-nittedal-4368"
+  },
+  {
+    "id": "4322",
+    "name": "Coop Mega Nordås",
+    "lat": 60.3063,
+    "lon": 5.322765,
+    "address": "Søråshøgda 9",
+    "postalCode": "5235",
+    "city": "Rådal",
+    "url": "https://www.coop.no/butikker/coop-mega/coop-mega-nordas-4322"
+  },
+  {
+    "id": "4941",
+    "name": "Coop Mega Nydalen",
+    "lat": 59.949565,
+    "lon": 10.7657888,
+    "address": "Nydalsveien 33",
+    "postalCode": "0484",
+    "city": "Oslo",
+    "url": "https://www.coop.no/butikker/coop-mega/coop-mega-nydalen-4941"
+  },
+  {
+    "id": "1272",
+    "name": "Coop Mega Nærbø",
+    "lat": 58.6682,
+    "lon": 5.64114,
+    "address": "Torggata 2",
+    "postalCode": "4365",
+    "city": "Nærbø",
+    "url": "https://www.coop.no/butikker/coop-mega/coop-mega-naerbo-1272"
+  },
+  {
+    "id": "1652",
+    "name": "Coop Mega Oppdal",
+    "lat": 62.5950125,
+    "lon": 9.6903301,
+    "address": "Aunevegen 3",
+    "postalCode": "7340",
+    "city": "Oppdal",
+    "url": "https://www.coop.no/butikker/coop-mega/coop-mega-oppdal-1652"
+  },
+  {
+    "id": "1796",
+    "name": "Coop Mega Orkanger",
+    "lat": 63.2975,
+    "lon": 9.84466,
+    "address": "Orkdalsveien 113",
+    "postalCode": "7300",
+    "city": "Orkanger",
+    "url": "https://www.coop.no/butikker/coop-mega/coop-mega-orkanger-1796"
+  },
+  {
+    "id": "1257",
+    "name": "Coop Mega Randaberg",
+    "lat": 58.9989851,
+    "lon": 5.618155,
+    "address": "Vistenesveien 2",
+    "postalCode": "4070",
+    "city": "Randaberg",
+    "url": "https://www.coop.no/butikker/coop-mega/coop-mega-randaberg-1257"
+  },
+  {
+    "id": "2616",
+    "name": "Coop Mega Røa",
+    "lat": 59.946263,
+    "lon": 10.643279,
+    "address": "Tore Hals Mejdells vei 5",
+    "postalCode": "0751",
+    "city": "Oslo",
+    "url": "https://www.coop.no/butikker/coop-mega/coop-mega-roa-2616"
+  },
+  {
+    "id": "1659",
+    "name": "Coop Mega Røros",
+    "lat": 62.5756,
+    "lon": 11.3811,
+    "address": "Peder Hiortgata 7",
+    "postalCode": "7374",
+    "city": "Røros",
+    "url": "https://www.coop.no/butikker/coop-mega/coop-mega-roros-1659"
+  },
+  {
+    "id": "4557",
+    "name": "Coop Mega Sandaker",
+    "lat": 59.93843,
+    "lon": 10.768553,
+    "address": "Sandakerveien 59",
+    "postalCode": "0477",
+    "city": "Oslo",
+    "url": "https://www.coop.no/butikker/coop-mega/coop-mega-sandaker-4557"
+  },
+  {
+    "id": "4561",
+    "name": "Coop Mega Sirkus Shopping",
+    "lat": 63.4357293,
+    "lon": 10.4572122,
+    "address": "Falkenborgvegen 9",
+    "postalCode": "7044",
+    "city": "Trondheim",
+    "url": "https://www.coop.no/butikker/coop-mega/coop-mega-sirkus-shopping-4561"
+  },
+  {
+    "id": "4307",
+    "name": "Coop Mega Sjølyst",
+    "lat": 59.921219,
+    "lon": 10.677524,
+    "address": "Karenslyst Allé 58",
+    "postalCode": "0277",
+    "city": "Oslo",
+    "url": "https://www.coop.no/butikker/coop-mega/coop-mega-sjolyst-4307"
+  },
+  {
+    "id": "2831",
+    "name": "Coop Mega Slependen",
+    "lat": 59.8735786,
+    "lon": 10.5023978,
+    "address": "Pustutveien 6-14",
+    "postalCode": "1396",
+    "city": "Billingstad",
+    "url": "https://www.coop.no/butikker/coop-mega/coop-mega-slependen-2831"
+  },
+  {
+    "id": "1281",
+    "name": "Coop Mega Sola",
+    "lat": 58.8848381,
+    "lon": 5.6465798,
+    "address": "Solakrossen 15-17",
+    "postalCode": "4050",
+    "city": "Sola",
+    "url": "https://www.coop.no/butikker/coop-mega/coop-mega-sola-1281"
+  },
+  {
+    "id": "1898",
+    "name": "Coop Mega Sortland",
+    "lat": 68.695993,
+    "lon": 15.4182593,
+    "address": "Strandgata 12",
+    "postalCode": "8400",
+    "city": "Sortland",
+    "url": "https://www.coop.no/butikker/coop-mega/coop-mega-sortland-1898"
+  },
+  {
+    "id": "4312",
+    "name": "Coop Mega Storo",
+    "lat": 59.9470437,
+    "lon": 10.7747584,
+    "address": "Vitaminveien 7",
+    "postalCode": "0485",
+    "city": "Oslo",
+    "url": "https://www.coop.no/butikker/coop-mega/coop-mega-storo-4312"
+  },
+  {
+    "id": "4753",
+    "name": "Coop Mega Søgne",
+    "lat": 58.097411,
+    "lon": 7.814663,
+    "address": "Sentrumsveien 1",
+    "postalCode": "4640",
+    "city": "Søgne",
+    "url": "https://www.coop.no/butikker/coop-mega/coop-mega-sogne-4753"
+  },
+  {
+    "id": "2728",
+    "name": "Coop Mega Tananger",
+    "lat": 58.9345754,
+    "lon": 5.587495,
+    "address": "Risavika Havnering 12a",
+    "postalCode": "4056",
+    "city": "Tananger",
+    "url": "https://www.coop.no/butikker/coop-mega/coop-mega-tananger-2728"
+  },
+  {
+    "id": "2579",
+    "name": "Coop Mega Torgkvartalet",
+    "lat": 63.468938,
+    "lon": 10.924233,
+    "address": "Stokmovegen 2",
+    "postalCode": "7500",
+    "city": "Stjørdal",
+    "url": "https://www.coop.no/butikker/coop-mega/coop-mega-torgkvartalet-2579"
+  },
+  {
+    "id": "2074",
+    "name": "Coop Mega Trysil",
+    "lat": 61.3153896,
+    "lon": 12.2615695,
+    "address": "Storvegen 2",
+    "postalCode": "2420",
+    "city": "Trysil",
+    "url": "https://www.coop.no/butikker/coop-mega/coop-mega-trysil-2074"
+  },
+  {
+    "id": "4292",
+    "name": "Coop Mega Ullevål",
+    "lat": 59.9499228,
+    "lon": 10.7360365,
+    "address": "Sognsveien 77C",
+    "postalCode": "0855",
+    "city": "Oslo",
+    "url": "https://www.coop.no/butikker/coop-mega/coop-mega-ulleval-4292"
+  },
+  {
+    "id": "1542",
+    "name": "Coop Mega Ulsteinvik",
+    "lat": 62.3427,
+    "lon": 5.848,
+    "address": "Vikemyra 1",
+    "postalCode": "6065",
+    "city": "Ulsteinvik",
+    "url": "https://www.coop.no/butikker/coop-mega/coop-mega-ulsteinvik-1542"
+  },
+  {
+    "id": "1823",
+    "name": "Coop Mega Valentinlyst",
+    "lat": 63.4245,
+    "lon": 10.4417,
+    "address": "Anders Estenstads veg 4",
+    "postalCode": "7046",
+    "city": "Trondheim",
+    "url": "https://www.coop.no/butikker/coop-mega/coop-mega-valentinlyst-1823"
+  },
+  {
+    "id": "1739",
+    "name": "Coop Mega Verdal",
+    "lat": 63.7938,
+    "lon": 11.4816,
+    "address": "Nordgata 14",
+    "postalCode": "7650",
+    "city": "Verdal",
+    "url": "https://www.coop.no/butikker/coop-mega/coop-mega-verdal-1739"
+  },
+  {
+    "id": "4316",
+    "name": "Coop Mega Vinderen",
+    "lat": 59.9432098,
+    "lon": 10.7038199,
+    "address": "Borgenveien 48",
+    "postalCode": "0370",
+    "city": "Oslo",
+    "url": "https://www.coop.no/butikker/coop-mega/coop-mega-vinderen-4316"
+  },
+  {
+    "id": "1558",
+    "name": "Coop Mega Volda",
+    "lat": 62.1432,
+    "lon": 6.0704,
+    "address": "Hamnegata 12",
+    "postalCode": "6100",
+    "city": "Volda",
+    "url": "https://www.coop.no/butikker/coop-mega/coop-mega-volda-1558"
+  },
+  {
+    "id": "4309",
+    "name": "Coop Mega Vågsbygd",
+    "lat": 58.129198,
+    "lon": 7.961823,
+    "address": "Vågsbygd Ringvei 100",
+    "postalCode": "4621",
+    "city": "Kristiansand",
+    "url": "https://www.coop.no/butikker/coop-mega/coop-mega-vagsbygd-4309"
+  },
+  {
+    "id": "1323",
+    "name": "Coop Mega Ålgård",
+    "lat": 58.7702863,
+    "lon": 5.8453527,
+    "address": "Ole Nielsens vei 25",
+    "postalCode": "4330",
+    "city": "Ålgård",
+    "url": "https://www.coop.no/butikker/coop-mega/coop-mega-algard-1323"
+  },
+  {
+    "id": "1035",
+    "name": "Coop Mega Årnes",
+    "lat": 60.1228189,
+    "lon": 11.4685689,
+    "address": "Rådhusgata 11",
+    "postalCode": "2150",
+    "city": "Årnes",
+    "url": "https://www.coop.no/butikker/coop-mega/coop-mega-arnes-1035"
+  }
+]

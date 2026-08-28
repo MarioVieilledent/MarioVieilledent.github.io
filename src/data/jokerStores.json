@@ -1,0 +1,4362 @@
+[
+  {
+    "id": "5659",
+    "name": "JOKER UVDAL",
+    "lat": 60.26650544973025,
+    "lon": 8.599277230952469,
+    "address": "Imingfjellvegen 2",
+    "postalCode": "3632",
+    "city": "UVDAL",
+    "url": "https://joker.no/finn-butikk/joker-uvdal"
+  },
+  {
+    "id": "5575",
+    "name": "JOKER VÅLAND",
+    "lat": 58.95413641639305,
+    "lon": 5.7346454903194175,
+    "address": "ARMAUER HANSENS VEI 11",
+    "postalCode": "4011",
+    "city": "STAVANGER",
+    "url": "https://joker.no/finn-butikk/joker-valand"
+  },
+  {
+    "id": "7106",
+    "name": "Joker Aasheim",
+    "lat": 61.69551063294877,
+    "lon": 11.212980940742023,
+    "address": "Engerdalsveien 83",
+    "postalCode": "2485",
+    "city": "RENDALEN",
+    "url": "https://joker.no/finn-butikk/joker-aasheim"
+  },
+  {
+    "id": "2651",
+    "name": "Joker Abildsø",
+    "lat": 59.88860622398024,
+    "lon": 10.814067042400712,
+    "address": "Enebakkveien 208",
+    "postalCode": "0680",
+    "city": "OSLO",
+    "url": "https://joker.no/finn-butikk/joker-abildso"
+  },
+  {
+    "id": "9654",
+    "name": "Joker Adamstuen",
+    "lat": 59.932826638014,
+    "lon": 10.733657404387868,
+    "address": "Ullevålsveien 95A",
+    "postalCode": "0359",
+    "city": "OSLO",
+    "url": "https://joker.no/finn-butikk/joker-adamstuen"
+  },
+  {
+    "id": "2332",
+    "name": "Joker Agentgaten",
+    "lat": 59.21263899772728,
+    "lon": 10.936153172187769,
+    "address": "Agentgaten 1",
+    "postalCode": "1607",
+    "city": "FREDRIKSTAD",
+    "url": "https://joker.no/finn-butikk/joker-agentgaten"
+  },
+  {
+    "id": "3478",
+    "name": "Joker Akersgata",
+    "lat": 59.91087335163148,
+    "lon": 10.738911578186435,
+    "address": "Akersgata 5",
+    "postalCode": "0158",
+    "city": "OSLO",
+    "url": "https://joker.no/finn-butikk/joker-akersgata"
+  },
+  {
+    "id": "5668",
+    "name": "Joker Amundsen",
+    "lat": 60.55314000874824,
+    "lon": 12.022278857058593,
+    "address": "Hofvegen 261",
+    "postalCode": "2266",
+    "city": "ARNEBERG",
+    "url": "https://joker.no/finn-butikk/joker-amundsen"
+  },
+  {
+    "id": "4863",
+    "name": "Joker Arbosgate",
+    "lat": 59.92825347413486,
+    "lon": 10.713825990076733,
+    "address": "Arbos Gate 2A",
+    "postalCode": "0368",
+    "city": "OSLO",
+    "url": "https://joker.no/finn-butikk/joker-arbosgate"
+  },
+  {
+    "id": "4175",
+    "name": "Joker Aremark",
+    "lat": 59.2206478547222,
+    "lon": 11.697353275096066,
+    "address": "Fosby",
+    "postalCode": "1798",
+    "city": "AREMARK",
+    "url": "https://joker.no/finn-butikk/joker-aremark"
+  },
+  {
+    "id": "1972",
+    "name": "Joker Asker Stasjon",
+    "lat": 59.833891269463315,
+    "lon": 10.436432219500192,
+    "address": "Alfheim 7",
+    "postalCode": "1384",
+    "city": "ASKER",
+    "url": "https://joker.no/finn-butikk/joker-asker-stasjon"
+  },
+  {
+    "id": "4881",
+    "name": "Joker Atløy",
+    "lat": 61.33140931064454,
+    "lon": 5.020827355278773,
+    "address": "Sauesundet 4",
+    "postalCode": "6985",
+    "city": "ATLØY",
+    "url": "https://joker.no/finn-butikk/joker-atloy"
+  },
+  {
+    "id": "7167",
+    "name": "Joker Atnbrua",
+    "lat": 61.85511901189812,
+    "lon": 10.22384240152795,
+    "address": "Rondeveien 875",
+    "postalCode": "2477",
+    "city": "SOLLIA",
+    "url": "https://joker.no/finn-butikk/joker-atnbrua"
+  },
+  {
+    "id": "4393",
+    "name": "Joker Austafjord",
+    "lat": 64.916648100211,
+    "lon": 10.939661732733027,
+    "address": "Øvermølnveien 6",
+    "postalCode": "7900",
+    "city": "RØRVIK",
+    "url": "https://joker.no/finn-butikk/joker-austafjord"
+  },
+  {
+    "id": "7539",
+    "name": "Joker Austein",
+    "lat": 69.59999203233785,
+    "lon": 18.043247070291088,
+    "address": "Brensholmvegen 169",
+    "postalCode": "9118",
+    "city": "BRENSHOLMEN",
+    "url": "https://joker.no/finn-butikk/joker-austein"
+  },
+  {
+    "id": "7796",
+    "name": "Joker Austmarka",
+    "lat": 60.09670203476162,
+    "lon": 12.321903287930505,
+    "address": "Mølleveien 92",
+    "postalCode": "2224",
+    "city": "AUSTMARKA",
+    "url": "https://joker.no/finn-butikk/joker-austmarka"
+  },
+  {
+    "id": "5489",
+    "name": "Joker Bakkasund",
+    "lat": 60.13002162426104,
+    "lon": 5.091519883187729,
+    "address": "Bahus 23",
+    "postalCode": "5385",
+    "city": "BAKKASUND",
+    "url": "https://joker.no/finn-butikk/joker-bakkasund"
+  },
+  {
+    "id": "7031",
+    "name": "Joker Bakketun",
+    "lat": 60.46866733248377,
+    "lon": 11.621602440975225,
+    "address": "Vestsida 426",
+    "postalCode": "2130",
+    "city": "KNAPPER",
+    "url": "https://joker.no/finn-butikk/joker-bakketun"
+  },
+  {
+    "id": "3868",
+    "name": "Joker Balestrand",
+    "lat": 61.210100888414985,
+    "lon": 6.537321697642397,
+    "address": "Holmen 11",
+    "postalCode": "6899",
+    "city": "BALESTRAND",
+    "url": "https://joker.no/finn-butikk/joker-balestrand"
+  },
+  {
+    "id": "4385",
+    "name": "Joker Ballstad",
+    "lat": 68.07121955321074,
+    "lon": 13.538814696920747,
+    "address": "Fryseriveien 1",
+    "postalCode": "8373",
+    "city": "BALLSTAD",
+    "url": "https://joker.no/finn-butikk/joker-ballstad"
+  },
+  {
+    "id": "4965",
+    "name": "Joker Bangsund",
+    "lat": 64.38849256048111,
+    "lon": 11.40049602307984,
+    "address": "Klingavegen 1349",
+    "postalCode": "7822",
+    "city": "BANGSUND",
+    "url": "https://joker.no/finn-butikk/joker-bangsund"
+  },
+  {
+    "id": "4846",
+    "name": "Joker Barcode",
+    "lat": 59.90892710313749,
+    "lon": 10.75552756865458,
+    "address": "Dronning Eufemias gate 6B",
+    "postalCode": "0191",
+    "city": "OSLO",
+    "url": "https://joker.no/finn-butikk/joker-barcode"
+  },
+  {
+    "id": "4823",
+    "name": "Joker Bellingen",
+    "lat": 62.20943067322784,
+    "lon": 6.47586023765593,
+    "address": "Øyragata 40",
+    "postalCode": "6165",
+    "city": "SÆBØ",
+    "url": "https://joker.no/finn-butikk/joker-bellingen"
+  },
+  {
+    "id": "8625",
+    "name": "Joker Bergseng",
+    "lat": 68.811432276373,
+    "lon": 16.507315176652156,
+    "address": "Bergsengveien 27",
+    "postalCode": "9403",
+    "city": "HARSTAD",
+    "url": "https://joker.no/finn-butikk/joker-bergseng"
+  },
+  {
+    "id": "4390",
+    "name": "Joker Billingstad",
+    "lat": 59.875284802820936,
+    "lon": 10.481002080687896,
+    "address": "Åstadveien 1",
+    "postalCode": "1396",
+    "city": "BILLINGSTAD",
+    "url": "https://joker.no/finn-butikk/joker-billingstad"
+  },
+  {
+    "id": "8122",
+    "name": "Joker Birtavarre",
+    "lat": 69.49420053335841,
+    "lon": 20.831080815192436,
+    "address": "Stiger Pettersensvei 1",
+    "postalCode": "9147",
+    "city": "BIRTAVARRE",
+    "url": "https://joker.no/finn-butikk/joker-birtavarre"
+  },
+  {
+    "id": "9012",
+    "name": "Joker Bjelland",
+    "lat": 58.3851198792021,
+    "lon": 7.527732254369643,
+    "address": "Marnarveien 4399",
+    "postalCode": "4536",
+    "city": "BJELLAND",
+    "url": "https://joker.no/finn-butikk/joker-bjelland"
+  },
+  {
+    "id": "4461",
+    "name": "Joker Bjordal",
+    "lat": 61.07709929143504,
+    "lon": 5.832207569674335,
+    "address": "Sørsidevegen 3210",
+    "postalCode": "5962",
+    "city": "BJORDAL",
+    "url": "https://joker.no/finn-butikk/joker-bjordal"
+  },
+  {
+    "id": "7733",
+    "name": "Joker Bjølsen",
+    "lat": 59.9405506781806,
+    "lon": 10.759822906328246,
+    "address": "Bergensgata 3",
+    "postalCode": "0468",
+    "city": "OSLO",
+    "url": "https://joker.no/finn-butikk/joker-bjolsen"
+  },
+  {
+    "id": "8631",
+    "name": "Joker Blaker",
+    "lat": 59.977425123915225,
+    "lon": 11.362448121593301,
+    "address": "Vesthagan 1",
+    "postalCode": "1925",
+    "city": "BLAKER",
+    "url": "https://joker.no/finn-butikk/joker-blaker"
+  },
+  {
+    "id": "3447",
+    "name": "Joker Bleik",
+    "lat": 69.27166863373225,
+    "lon": 15.956740163013697,
+    "address": "Skoleveien 45",
+    "postalCode": "8481",
+    "city": "BLEIK",
+    "url": "https://joker.no/finn-butikk/joker-bleik"
+  },
+  {
+    "id": "5227",
+    "name": "Joker Blindernveien",
+    "lat": 59.93604954781725,
+    "lon": 10.724447211159097,
+    "address": "Blindernveien 6C",
+    "postalCode": "0361",
+    "city": "OSLO",
+    "url": "https://joker.no/finn-butikk/joker-blindernveien"
+  },
+  {
+    "id": "8650",
+    "name": "Joker Bogen",
+    "lat": 65.07402823500736,
+    "lon": 11.951297880903855,
+    "address": "Horsfjordveien 8",
+    "postalCode": "7982",
+    "city": "BINDALSEIDET",
+    "url": "https://joker.no/finn-butikk/joker-bogen"
+  },
+  {
+    "id": "9025",
+    "name": "Joker Borhaug",
+    "lat": 58.0994338497457,
+    "lon": 6.584246613464039,
+    "address": "Havneveien 15",
+    "postalCode": "4563",
+    "city": "BORHAUG",
+    "url": "https://joker.no/finn-butikk/joker-borhaug"
+  },
+  {
+    "id": "7552",
+    "name": "Joker Botnhamn",
+    "lat": 69.5088398242562,
+    "lon": 17.90191904073918,
+    "address": "Botnhamnveien 797",
+    "postalCode": "9373",
+    "city": "BOTNHAMN",
+    "url": "https://joker.no/finn-butikk/joker-botnhamn"
+  },
+  {
+    "id": "7098",
+    "name": "Joker Brandval",
+    "lat": 60.31734540545871,
+    "lon": 12.015520296375477,
+    "address": "Goggestredet 2",
+    "postalCode": "2219",
+    "city": "BRANDVAL",
+    "url": "https://joker.no/finn-butikk/joker-brandval"
+  },
+  {
+    "id": "7738",
+    "name": "Joker Braskereidfoss",
+    "lat": 60.72568622691033,
+    "lon": 11.798481307811715,
+    "address": "Braskereidfossveien 3",
+    "postalCode": "2435",
+    "city": "BRASKEREIDFOSS",
+    "url": "https://joker.no/finn-butikk/joker-braskereidfoss"
+  },
+  {
+    "id": "4457",
+    "name": "Joker Breivikbotn",
+    "lat": 70.58931818870384,
+    "lon": 22.282968969092792,
+    "address": "Strandgt. 21",
+    "postalCode": "9593",
+    "city": "BREIVIKBOTN",
+    "url": "https://joker.no/finn-butikk/joker-breivikbotn"
+  },
+  {
+    "id": "1183",
+    "name": "Joker Brekke",
+    "lat": 61.02004770918705,
+    "lon": 5.461758810391994,
+    "address": "Sognefjordvegen 459",
+    "postalCode": "5961",
+    "city": "BREKKE",
+    "url": "https://joker.no/finn-butikk/joker-brekke"
+  },
+  {
+    "id": "8111",
+    "name": "Joker Brekkvasselv",
+    "lat": 64.84763876190426,
+    "lon": 13.014467855655688,
+    "address": "Lupinveien 1",
+    "postalCode": "7896",
+    "city": "BREKKVASSELV",
+    "url": "https://joker.no/finn-butikk/joker-brekkvasselv"
+  },
+  {
+    "id": "626",
+    "name": "Joker Bremanger",
+    "lat": 61.837718042362766,
+    "lon": 4.938564308823077,
+    "address": "Iglandskaia 2",
+    "postalCode": "6727",
+    "city": "BREMANGER",
+    "url": "https://joker.no/finn-butikk/joker-bremanger"
+  },
+  {
+    "id": "6925",
+    "name": "Joker Brenneriroa",
+    "lat": 60.82701276819807,
+    "lon": 11.302080801566197,
+    "address": "Brennerivn.1",
+    "postalCode": "2340",
+    "city": "LØTEN",
+    "url": "https://joker.no/finn-butikk/joker-brenneriroa"
+  },
+  {
+    "id": "9034",
+    "name": "Joker Brevik",
+    "lat": 59.05447049594543,
+    "lon": 9.698542500000812,
+    "address": "Storgata 15",
+    "postalCode": "3950",
+    "city": "BREVIK",
+    "url": "https://joker.no/finn-butikk/joker-brevik"
+  },
+  {
+    "id": "4444",
+    "name": "Joker Briskeby",
+    "lat": 59.91955183605665,
+    "lon": 10.718379809818279,
+    "address": "Briskebyveien 22A",
+    "postalCode": "0259",
+    "city": "OSLO",
+    "url": "https://joker.no/finn-butikk/joker-briskeby"
+  },
+  {
+    "id": "8529",
+    "name": "Joker Brustadbua",
+    "lat": 58.950977609201715,
+    "lon": 5.7121231353453314,
+    "address": "Ullandhaugveien 75",
+    "postalCode": "4021",
+    "city": "STAVANGER",
+    "url": "https://joker.no/finn-butikk/joker-brustadbua"
+  },
+  {
+    "id": "4593",
+    "name": "Joker Brustadbua Sola",
+    "lat": 58.8874955274083,
+    "lon": 5.648443514823806,
+    "address": "Rådhusvegen 28",
+    "postalCode": "4050",
+    "city": "SOLA",
+    "url": "https://joker.no/finn-butikk/joker-brustadbua-sola"
+  },
+  {
+    "id": "9527",
+    "name": "Joker Brårud",
+    "lat": 60.208315370060035,
+    "lon": 11.339278749448434,
+    "address": "Vestsidavegen 885",
+    "postalCode": "2162",
+    "city": "BRÅRUD",
+    "url": "https://joker.no/finn-butikk/joker-brarud"
+  },
+  {
+    "id": "6312",
+    "name": "Joker Brønndalen",
+    "lat": 60.37360667362613,
+    "lon": 5.221425783154592,
+    "address": "Brønndalsåsen 1-3",
+    "postalCode": "5176",
+    "city": "LODDEFJORD",
+    "url": "https://joker.no/finn-butikk/joker-bronndalen"
+  },
+  {
+    "id": "3947",
+    "name": "Joker Brøttum",
+    "lat": 61.02921643064547,
+    "lon": 10.552659409770271,
+    "address": "Mælumsveien 5",
+    "postalCode": "2372",
+    "city": "BRØTTUM",
+    "url": "https://joker.no/finn-butikk/joker-brottum"
+  },
+  {
+    "id": "820",
+    "name": "Joker Bulandet",
+    "lat": 61.28601025083389,
+    "lon": 4.632618847609551,
+    "address": "Bulandet",
+    "postalCode": "6987",
+    "city": "BULANDET",
+    "url": "https://joker.no/finn-butikk/joker-bulandet"
+  },
+  {
+    "id": "7720",
+    "name": "Joker Bygdøy Allé",
+    "lat": 59.91899740245587,
+    "lon": 10.703169249565049,
+    "address": "Bygdøy allè 65",
+    "postalCode": "0265",
+    "city": "OSLO",
+    "url": "https://joker.no/finn-butikk/joker-bygdoy-alle"
+  },
+  {
+    "id": "7807",
+    "name": "Joker Bygland",
+    "lat": 58.83109424550961,
+    "lon": 7.797898229014509,
+    "address": "Sentrum 20",
+    "postalCode": "4745",
+    "city": "BYGLAND",
+    "url": "https://joker.no/finn-butikk/joker-bygland"
+  },
+  {
+    "id": "1195",
+    "name": "Joker Byremo",
+    "lat": 58.42076553685946,
+    "lon": 7.40254435497795,
+    "address": "Selandsdalsveien 7",
+    "postalCode": "4529",
+    "city": "BYREMO",
+    "url": "https://joker.no/finn-butikk/joker-byremo"
+  },
+  {
+    "id": "8519",
+    "name": "Joker Byrknesøy",
+    "lat": 60.89862752949639,
+    "lon": 4.838070357797632,
+    "address": "Søre Garden 4",
+    "postalCode": "5970",
+    "city": "BYRKNESØY",
+    "url": "https://joker.no/finn-butikk/joker-byrknesoy"
+  },
+  {
+    "id": "5188",
+    "name": "Joker Bysenteret",
+    "lat": 68.79979332706291,
+    "lon": 16.543782897067942,
+    "address": "Richard Kaarbø`s Plass 1",
+    "postalCode": "9405",
+    "city": "HARSTAD",
+    "url": "https://joker.no/finn-butikk/joker-bysenteret"
+  },
+  {
+    "id": "7640",
+    "name": "Joker Bø",
+    "lat": 68.72915043001686,
+    "lon": 14.600591567711335,
+    "address": "Regine Normanns vei 17",
+    "postalCode": "8475",
+    "city": "STRAUMSJØEN",
+    "url": "https://joker.no/finn-butikk/joker-bo"
+  },
+  {
+    "id": "7770",
+    "name": "Joker Carl Berner",
+    "lat": 59.92503248830534,
+    "lon": 10.774741597000105,
+    "address": "Trondheimsveien 100",
+    "postalCode": "0565",
+    "city": "OSLO",
+    "url": "https://joker.no/finn-butikk/joker-carl-berner"
+  },
+  {
+    "id": "7107",
+    "name": "Joker Dagali",
+    "lat": 60.41106011303556,
+    "lon": 8.441086497663324,
+    "address": "Dagalivegen 150",
+    "postalCode": "3588",
+    "city": "DAGALI",
+    "url": "https://joker.no/finn-butikk/joker-dagali"
+  },
+  {
+    "id": "4536",
+    "name": "Joker Dalen",
+    "lat": 59.44443579582367,
+    "lon": 8.007227150789154,
+    "address": "Hotellvegen 13",
+    "postalCode": "3880",
+    "city": "DALEN",
+    "url": "https://joker.no/finn-butikk/joker-dalen"
+  },
+  {
+    "id": "2329",
+    "name": "Joker Dalholen",
+    "lat": 62.173939191050884,
+    "lon": 9.817531304803035,
+    "address": "Folldalsvegen 1755",
+    "postalCode": "2584",
+    "city": "DALHOLEN",
+    "url": "https://joker.no/finn-butikk/joker-dalholen"
+  },
+  {
+    "id": "2668",
+    "name": "Joker Dalsbygda",
+    "lat": 62.52748318956454,
+    "lon": 11.109106799686282,
+    "address": "Mosengveien 475",
+    "postalCode": "2552",
+    "city": "DALSBYGDA",
+    "url": "https://joker.no/finn-butikk/joker-dalsbygda"
+  },
+  {
+    "id": "1199",
+    "name": "Joker Darbu",
+    "lat": 59.69602843997605,
+    "lon": 9.795605615324769,
+    "address": "Kongsbergveien 756",
+    "postalCode": "3322",
+    "city": "FISKUM",
+    "url": "https://joker.no/finn-butikk/joker-darbu"
+  },
+  {
+    "id": "3090",
+    "name": "Joker Diriksgate",
+    "lat": 59.9307007604969,
+    "lon": 10.74703899368955,
+    "address": "Diriks gate 7A",
+    "postalCode": "0457",
+    "city": "OSLO",
+    "url": "https://joker.no/finn-butikk/joker-diriksgate"
+  },
+  {
+    "id": "8054",
+    "name": "Joker Dolmøy",
+    "lat": 63.653934865543114,
+    "lon": 8.776800017033722,
+    "address": "Kjerringvågveien 33",
+    "postalCode": "7252",
+    "city": "DOLMØY",
+    "url": "https://joker.no/finn-butikk/joker-dolmoy"
+  },
+  {
+    "id": "9678",
+    "name": "Joker Drammen Togstasjon",
+    "lat": 59.74039378409832,
+    "lon": 10.20309014963157,
+    "address": "Drammen Stasjon, Strømsø torg 1",
+    "postalCode": "3044",
+    "city": "DRAMMEN",
+    "url": "https://joker.no/finn-butikk/joker-drammen-togstasjon"
+  },
+  {
+    "id": "7570",
+    "name": "Joker Dramsveien",
+    "lat": 69.66990441165652,
+    "lon": 18.964167937588908,
+    "address": "Dramsveien 153",
+    "postalCode": "9010",
+    "city": "TROMSØ",
+    "url": "https://joker.no/finn-butikk/joker-dramsveien"
+  },
+  {
+    "id": "7135",
+    "name": "Joker Drevsjø",
+    "lat": 61.89105221699347,
+    "lon": 12.029879480163697,
+    "address": "Moalia 4",
+    "postalCode": "2443",
+    "city": "DREVSJØ",
+    "url": "https://joker.no/finn-butikk/joker-drevsjo"
+  },
+  {
+    "id": "9130",
+    "name": "Joker Duestien",
+    "lat": 59.213894045633985,
+    "lon": 9.602932112854852,
+    "address": "DUESTIEN 15",
+    "postalCode": "3717",
+    "city": "SKIEN",
+    "url": "https://joker.no/finn-butikk/joker-duestien"
+  },
+  {
+    "id": "4559",
+    "name": "Joker Dåsnes",
+    "lat": 58.562499178583465,
+    "lon": 7.772435384005098,
+    "address": "Dåsnesvegen 31",
+    "postalCode": "4737",
+    "city": "HORNNES",
+    "url": "https://joker.no/finn-butikk/joker-dasnes"
+  },
+  {
+    "id": "4449",
+    "name": "Joker Dælenenggata",
+    "lat": 59.9285253793134,
+    "lon": 10.767413561524673,
+    "address": "Dælenenggata 38",
+    "postalCode": "0567",
+    "city": "OSLO",
+    "url": "https://joker.no/finn-butikk/joker-dalenenggata"
+  },
+  {
+    "id": "7651",
+    "name": "Joker Egedahl",
+    "lat": 60.16863318436162,
+    "lon": 9.010863523421843,
+    "address": "Fjordvegen 41",
+    "postalCode": "3629",
+    "city": "NORE",
+    "url": "https://joker.no/finn-butikk/joker-egedahl"
+  },
+  {
+    "id": "6208",
+    "name": "Joker Egersund",
+    "lat": 58.437675184765986,
+    "lon": 6.000541155606296,
+    "address": "Nonsfjellveien 57",
+    "postalCode": "4371",
+    "city": "EGERSUND",
+    "url": "https://joker.no/finn-butikk/joker-egersund"
+  },
+  {
+    "id": "816",
+    "name": "Joker Eidfjord",
+    "lat": 60.46622949887055,
+    "lon": 7.06919213282442,
+    "address": "Eidfjordvegen 282",
+    "postalCode": "5783",
+    "city": "EIDFJORD",
+    "url": "https://joker.no/finn-butikk/joker-eidfjord"
+  },
+  {
+    "id": "8082",
+    "name": "Joker Eidsbygda",
+    "lat": 62.58560369375081,
+    "lon": 7.498023531123188,
+    "address": "Norvikvegen 269",
+    "postalCode": "6350",
+    "city": "EIDSBYGDA",
+    "url": "https://joker.no/finn-butikk/joker-eidsbygda"
+  },
+  {
+    "id": "7618",
+    "name": "Joker Eidsfjord",
+    "lat": 68.71481766976093,
+    "lon": 15.15025243263858,
+    "address": "Eidsfjordvn. 311",
+    "postalCode": "8415",
+    "city": "SORTLAND",
+    "url": "https://joker.no/finn-butikk/joker-eidsfjord"
+  },
+  {
+    "id": "4302",
+    "name": "Joker Eidsvik",
+    "lat": 59.790812283057335,
+    "lon": 5.680807507415382,
+    "address": "Klostervegen 132",
+    "postalCode": "5455",
+    "city": "HALSNØY KLOSTER",
+    "url": "https://joker.no/finn-butikk/joker-eidsvik"
+  },
+  {
+    "id": "1182",
+    "name": "Joker Eiksmarka",
+    "lat": 59.94427888620198,
+    "lon": 10.613954262603697,
+    "address": "Eiksveien 57 B",
+    "postalCode": "1359",
+    "city": "EIKSMARKA",
+    "url": "https://joker.no/finn-butikk/joker-eiksmarka"
+  },
+  {
+    "id": "4977",
+    "name": "Joker Ekne",
+    "lat": 63.69490494448881,
+    "lon": 11.045050003031337,
+    "address": "Eknesveien 96",
+    "postalCode": "7624",
+    "city": "EKNE",
+    "url": "https://joker.no/finn-butikk/joker-ekne"
+  },
+  {
+    "id": "1989",
+    "name": "Joker Elisenberg",
+    "lat": 59.918367041386944,
+    "lon": 10.70748446610198,
+    "address": "Balchens gate 7",
+    "postalCode": "0265",
+    "city": "OSLO",
+    "url": "https://joker.no/finn-butikk/joker-elisenberg"
+  },
+  {
+    "id": "9662",
+    "name": "Joker Enebakk",
+    "lat": 59.763379141167526,
+    "lon": 11.145269732087318,
+    "address": "Prestegårdsveien 1",
+    "postalCode": "1912",
+    "city": "ENEBAKK",
+    "url": "https://joker.no/finn-butikk/joker-enebakk"
+  },
+  {
+    "id": "6251",
+    "name": "Joker Erfjord",
+    "lat": 59.34754788799092,
+    "lon": 6.238206665599518,
+    "address": "HÅLANDSOSEN 8",
+    "postalCode": "4233",
+    "city": "ERFJORD",
+    "url": "https://joker.no/finn-butikk/joker-erfjord"
+  },
+  {
+    "id": "5261",
+    "name": "Joker Eriksholmen",
+    "lat": 59.25310332703218,
+    "lon": 5.836510234871429,
+    "address": "Sjernarøyvegen 827",
+    "postalCode": "4170",
+    "city": "SJERNARØY",
+    "url": "https://joker.no/finn-butikk/joker-eriksholmen"
+  },
+  {
+    "id": "3421",
+    "name": "Joker Ervik",
+    "lat": 60.44374517861844,
+    "lon": 5.325767814854583,
+    "address": "Ervikveien 72",
+    "postalCode": "5106",
+    "city": "ØVRE ERVIK",
+    "url": "https://joker.no/finn-butikk/joker-ervik"
+  },
+  {
+    "id": "8622",
+    "name": "Joker Espevær",
+    "lat": 59.59091147084818,
+    "lon": 5.1544755562210565,
+    "address": "Espeværvegen 6",
+    "postalCode": "5444",
+    "city": "ESPEVÆR",
+    "url": "https://joker.no/finn-butikk/joker-espevar"
+  },
+  {
+    "id": "7179",
+    "name": "Joker Etnedal",
+    "lat": 60.933485344178884,
+    "lon": 9.633306641902,
+    "address": "Etnedalsvegen 1720",
+    "postalCode": "2890",
+    "city": "ETNEDAL",
+    "url": "https://joker.no/finn-butikk/joker-etnedal"
+  },
+  {
+    "id": "5651",
+    "name": "Joker Fagerborg",
+    "lat": 59.93461942931883,
+    "lon": 10.729133646684447,
+    "address": "Ullevålsveien 113",
+    "postalCode": "0359",
+    "city": "OSLO",
+    "url": "https://joker.no/finn-butikk/joker-fagerborg"
+  },
+  {
+    "id": "4377",
+    "name": "Joker Fenstad",
+    "lat": 60.2199392236089,
+    "lon": 11.3917857933395,
+    "address": "Svanfossvegen 1",
+    "postalCode": "2170",
+    "city": "FENSTAD",
+    "url": "https://joker.no/finn-butikk/joker-fenstad"
+  },
+  {
+    "id": "1871",
+    "name": "Joker Festa",
+    "lat": 62.61670653637814,
+    "lon": 9.484961462110581,
+    "address": "Festavegen 11",
+    "postalCode": "7340",
+    "city": "OPPDAL",
+    "url": "https://joker.no/finn-butikk/joker-festa"
+  },
+  {
+    "id": "1291",
+    "name": "Joker Festningen",
+    "lat": 63.42581212481651,
+    "lon": 10.417321966392752,
+    "address": "Tyholtveien 26",
+    "postalCode": "7052",
+    "city": "TRONDHEIM",
+    "url": "https://joker.no/finn-butikk/joker-festningen"
+  },
+  {
+    "id": "9152",
+    "name": "Joker Fevik",
+    "lat": 58.37324792632847,
+    "lon": 8.672573135361288,
+    "address": "Randulf Hansens vei 14",
+    "postalCode": "4870",
+    "city": "FEVIK",
+    "url": "https://joker.no/finn-butikk/joker-fevik"
+  },
+  {
+    "id": "8512",
+    "name": "Joker Figgjo",
+    "lat": 58.785695814006004,
+    "lon": 5.814973186828399,
+    "address": "FIGGENVEIEN 55",
+    "postalCode": "4332",
+    "city": "FIGGJO",
+    "url": "https://joker.no/finn-butikk/joker-figgjo"
+  },
+  {
+    "id": "4731",
+    "name": "Joker Fiksdal",
+    "lat": 62.61893629926444,
+    "lon": 6.852714699067499,
+    "address": "Nakkedalsvegen 2",
+    "postalCode": "6394",
+    "city": "FIKSDAL",
+    "url": "https://joker.no/finn-butikk/joker-fiksdal"
+  },
+  {
+    "id": "6235",
+    "name": "Joker Finnås",
+    "lat": 59.73982996048832,
+    "lon": 5.233116801781268,
+    "address": "Kanalvegen 3",
+    "postalCode": "5437",
+    "city": "FINNÅS",
+    "url": "https://joker.no/finn-butikk/joker-finnas"
+  },
+  {
+    "id": "9169",
+    "name": "Joker Finsland",
+    "lat": 58.27035650687663,
+    "lon": 7.658552227081229,
+    "address": "Songdalsveien 736",
+    "postalCode": "4646",
+    "city": "FINSLAND",
+    "url": "https://joker.no/finn-butikk/joker-finsland"
+  },
+  {
+    "id": "3246",
+    "name": "Joker Fister",
+    "lat": 59.175882176964045,
+    "lon": 6.067874212037272,
+    "address": "Fistervegen 580",
+    "postalCode": "4139",
+    "city": "FISTER",
+    "url": "https://joker.no/finn-butikk/joker-fister"
+  },
+  {
+    "id": "1266",
+    "name": "Joker Fjellbu",
+    "lat": 60.86671687502751,
+    "lon": 9.210560944218217,
+    "address": "Golsvegen 1573",
+    "postalCode": "2923",
+    "city": "TISLEIDALEN",
+    "url": "https://joker.no/finn-butikk/joker-fjellbu"
+  },
+  {
+    "id": "3106",
+    "name": "Joker Fjellbutikken",
+    "lat": 59.012105316755196,
+    "lon": 6.936884182194425,
+    "address": "Sirdalsveien 8685",
+    "postalCode": "4443",
+    "city": "TJØRHOM",
+    "url": "https://joker.no/finn-butikk/joker-fjellbutikken"
+  },
+  {
+    "id": "9649",
+    "name": "Joker Fjellstrand",
+    "lat": 59.798486028176036,
+    "lon": 10.615416336144023,
+    "address": "Fjellstrandveien 1",
+    "postalCode": "1458",
+    "city": "FJELLSTRAND",
+    "url": "https://joker.no/finn-butikk/joker-fjellstrand"
+  },
+  {
+    "id": "815",
+    "name": "Joker Fjærland",
+    "lat": 61.4051885193572,
+    "lon": 6.7411909838500845,
+    "address": "Fjærland",
+    "postalCode": "6848",
+    "city": "FJÆRLAND",
+    "url": "https://joker.no/finn-butikk/joker-fjarland"
+  },
+  {
+    "id": "3207",
+    "name": "Joker Flatdal",
+    "lat": 59.563146648622606,
+    "lon": 8.57558659703761,
+    "address": "Flatdalsvegen 713 A",
+    "postalCode": "3841",
+    "city": "FLATDAL",
+    "url": "https://joker.no/finn-butikk/joker-flatdal"
+  },
+  {
+    "id": "897",
+    "name": "Joker Flatraket",
+    "lat": 61.97410744840059,
+    "lon": 5.226006538267381,
+    "address": "Seljevegen 770",
+    "postalCode": "6717",
+    "city": "FLATRAKET",
+    "url": "https://joker.no/finn-butikk/joker-flatraket"
+  },
+  {
+    "id": "749",
+    "name": "Joker Flekke",
+    "lat": 61.31577453104095,
+    "lon": 5.3633594733746515,
+    "address": "Hauglandsvegen 1",
+    "postalCode": "6968",
+    "city": "FLEKKE",
+    "url": "https://joker.no/finn-butikk/joker-flekke"
+  },
+  {
+    "id": "9121",
+    "name": "Joker Flesberg",
+    "lat": 59.863378833308694,
+    "lon": 9.427809957098242,
+    "address": "Numedalsvegen 2937",
+    "postalCode": "3620",
+    "city": "FLESBERG",
+    "url": "https://joker.no/finn-butikk/joker-flesberg"
+  },
+  {
+    "id": "4474",
+    "name": "Joker Fogn",
+    "lat": 59.138371144638896,
+    "lon": 5.904475074257259,
+    "address": "Vestre Fognavegen 39",
+    "postalCode": "4164",
+    "city": "FOGN",
+    "url": "https://joker.no/finn-butikk/joker-fogn"
+  },
+  {
+    "id": "4394",
+    "name": "Joker Foldereid",
+    "lat": 64.96248181640027,
+    "lon": 12.177634358946497,
+    "address": "Foldereidvegen 6",
+    "postalCode": "7985",
+    "city": "FOLDEREID",
+    "url": "https://joker.no/finn-butikk/joker-foldereid"
+  },
+  {
+    "id": "2673",
+    "name": "Joker Folkestad",
+    "lat": 59.49026931438391,
+    "lon": 10.848621012800555,
+    "address": "Vestlia 1",
+    "postalCode": "1592",
+    "city": "VÅLER I ØSTFOLD",
+    "url": "https://joker.no/finn-butikk/joker-folkestad"
+  },
+  {
+    "id": "2211",
+    "name": "Joker Folldal",
+    "lat": 62.13435982392781,
+    "lon": 9.993256167581887,
+    "address": "Liaveien 1",
+    "postalCode": "2580",
+    "city": "FOLLDAL",
+    "url": "https://joker.no/finn-butikk/joker-folldal"
+  },
+  {
+    "id": "636",
+    "name": "Joker Fotlandsvåg",
+    "lat": 60.59153516922318,
+    "lon": 5.525170055978493,
+    "address": "Osterøyvegen 2734",
+    "postalCode": "5283",
+    "city": "FOTLANDSVÅG",
+    "url": "https://joker.no/finn-butikk/joker-fotlandsvag"
+  },
+  {
+    "id": "5106",
+    "name": "Joker Frysja",
+    "lat": 59.96689492896642,
+    "lon": 10.772291370424252,
+    "address": "Kjelsåsveien 164",
+    "postalCode": "0884",
+    "city": "OSLO",
+    "url": "https://joker.no/finn-butikk/joker-frysja"
+  },
+  {
+    "id": "5142",
+    "name": "Joker Frøysland",
+    "lat": 58.03778695485973,
+    "lon": 7.455799515000529,
+    "address": "Gjervoldstadveien 68",
+    "postalCode": "4517",
+    "city": "MANDAL",
+    "url": "https://joker.no/finn-butikk/joker-froysland"
+  },
+  {
+    "id": "9005",
+    "name": "Joker Fyresdal",
+    "lat": 59.20293366678675,
+    "lon": 8.084271750783318,
+    "address": "Molandsmoen 6",
+    "postalCode": "3870",
+    "city": "FYRESDAL",
+    "url": "https://joker.no/finn-butikk/joker-fyresdal"
+  },
+  {
+    "id": "909",
+    "name": "Joker Førde",
+    "lat": 59.61182551937655,
+    "lon": 5.475130004337433,
+    "address": "Tingveien 31",
+    "postalCode": "5555",
+    "city": "FØRDE I HORDALAND",
+    "url": "https://joker.no/finn-butikk/joker-forde"
+  },
+  {
+    "id": "4873",
+    "name": "Joker Gaia",
+    "lat": 61.22645543395444,
+    "lon": 10.513005717806447,
+    "address": "Lundstadmyrvegen 254",
+    "postalCode": "2636",
+    "city": "ØYER",
+    "url": "https://joker.no/finn-butikk/joker-gaia"
+  },
+  {
+    "id": "9604",
+    "name": "Joker Gamlebyen",
+    "lat": 59.90860323491819,
+    "lon": 10.76769319007219,
+    "address": "Schweigaardsgt. 53",
+    "postalCode": "0191",
+    "city": "OSLO",
+    "url": "https://joker.no/finn-butikk/joker-gamlebyen"
+  },
+  {
+    "id": "8125",
+    "name": "Joker Gan",
+    "lat": 59.881296479343774,
+    "lon": 11.220423278374113,
+    "address": "Fetveien 1202",
+    "postalCode": "1903",
+    "city": "GAN",
+    "url": "https://joker.no/finn-butikk/joker-gan"
+  },
+  {
+    "id": "2233",
+    "name": "Joker Garderåsen",
+    "lat": 59.937232284681095,
+    "lon": 11.151591833833269,
+    "address": "Ilebråtan 12",
+    "postalCode": "1900",
+    "city": "FETSUND",
+    "url": "https://joker.no/finn-butikk/joker-garderasen"
+  },
+  {
+    "id": "9648",
+    "name": "Joker Geitmyrsveien",
+    "lat": 59.932186011081136,
+    "lon": 10.741355376511741,
+    "address": "Geitmyrsveien 54",
+    "postalCode": "0455",
+    "city": "OSLO",
+    "url": "https://joker.no/finn-butikk/joker-geitmyrsveien"
+  },
+  {
+    "id": "7548",
+    "name": "Joker Gibostad",
+    "lat": 69.35334074173072,
+    "lon": 18.07781936225702,
+    "address": "Gisundveien 21",
+    "postalCode": "9372",
+    "city": "GIBOSTAD",
+    "url": "https://joker.no/finn-butikk/joker-gibostad"
+  },
+  {
+    "id": "6290",
+    "name": "Joker Gilje",
+    "lat": 58.80776793025769,
+    "lon": 6.2457133910428855,
+    "address": "Linlandveien 1",
+    "postalCode": "4335",
+    "city": "DIRDAL",
+    "url": "https://joker.no/finn-butikk/joker-gilje"
+  },
+  {
+    "id": "7185",
+    "name": "Joker Gimle",
+    "lat": 58.16211184780201,
+    "lon": 8.007509072895235,
+    "address": "Universitetsveien 3 C",
+    "postalCode": "4630",
+    "city": "KRISTIANSAND S",
+    "url": "https://joker.no/finn-butikk/joker-gimle"
+  },
+  {
+    "id": "2680",
+    "name": "Joker Gjekstad",
+    "lat": 59.12798440460231,
+    "lon": 10.274309503647457,
+    "address": "Lahelleveien 5",
+    "postalCode": "3218",
+    "city": "SANDEFJORD",
+    "url": "https://joker.no/finn-butikk/joker-gjekstad"
+  },
+  {
+    "id": "4777",
+    "name": "Joker Gjøvik",
+    "lat": 60.78278975021279,
+    "lon": 10.684739713665806,
+    "address": "Johan Granvins veg 23",
+    "postalCode": "2816",
+    "city": "GJØVIK",
+    "url": "https://joker.no/finn-butikk/joker-gjovik"
+  },
+  {
+    "id": "5649",
+    "name": "Joker Glitregården",
+    "lat": 60.88065268453526,
+    "lon": 11.562071783621949,
+    "address": "Elvarheimgata 5",
+    "postalCode": "2414",
+    "city": "ELVERUM",
+    "url": "https://joker.no/finn-butikk/joker-glitregarden"
+  },
+  {
+    "id": "6647",
+    "name": "Joker Godøy",
+    "lat": 62.47563473910152,
+    "lon": 6.038442892383184,
+    "address": "Teppemyra",
+    "postalCode": "6055",
+    "city": "GODØYA",
+    "url": "https://joker.no/finn-butikk/joker-godoy"
+  },
+  {
+    "id": "7525",
+    "name": "Joker Gratangen",
+    "lat": 68.6933322167272,
+    "lon": 17.427052644525837,
+    "address": "Foldvikneset 9",
+    "postalCode": "9470",
+    "city": "GRATANGEN",
+    "url": "https://joker.no/finn-butikk/joker-gratangen"
+  },
+  {
+    "id": "2285",
+    "name": "Joker Grimstad",
+    "lat": 58.34316934376479,
+    "lon": 8.591234121477079,
+    "address": "Storgaten 38",
+    "postalCode": "4876",
+    "city": "GRIMSTAD",
+    "url": "https://joker.no/finn-butikk/joker-grimstad"
+  },
+  {
+    "id": "7022",
+    "name": "Joker Grue Finnskog",
+    "lat": 60.41868458082698,
+    "lon": 12.403954414907123,
+    "address": "Finnskogveien 2490",
+    "postalCode": "2256",
+    "city": "GRUE FINNSKOG",
+    "url": "https://joker.no/finn-butikk/joker-grue-finnskog"
+  },
+  {
+    "id": "4553",
+    "name": "Joker Grunerløkka",
+    "lat": 59.92538450249426,
+    "lon": 10.759820501560768,
+    "address": "Seilduksgata 19",
+    "postalCode": "0553",
+    "city": "OSLO",
+    "url": "https://joker.no/finn-butikk/joker-grunerlokka"
+  },
+  {
+    "id": "2919",
+    "name": "Joker Grytøyra",
+    "lat": 61.2889280587339,
+    "lon": 5.023666751888601,
+    "address": "Grytøyra 102",
+    "postalCode": "6967",
+    "city": "HELLEVIK I FJALER",
+    "url": "https://joker.no/finn-butikk/joker-grytoyra"
+  },
+  {
+    "id": "771",
+    "name": "Joker Gudvangen",
+    "lat": 60.8791848065414,
+    "lon": 6.843542113039965,
+    "address": "Nærøydalen 11",
+    "postalCode": "5747",
+    "city": "GUDVANGEN",
+    "url": "https://joker.no/finn-butikk/joker-gudvangen"
+  },
+  {
+    "id": "8525",
+    "name": "Joker Gursken",
+    "lat": 62.21607428868884,
+    "lon": 5.649554644178682,
+    "address": "Gursken",
+    "postalCode": "6082",
+    "city": "GURSKEN",
+    "url": "https://joker.no/finn-butikk/joker-gursken"
+  },
+  {
+    "id": "1276",
+    "name": "Joker Gålå",
+    "lat": 61.50407520699274,
+    "lon": 9.788624344812439,
+    "address": "Lokkarsletta 2",
+    "postalCode": "2646",
+    "city": "GÅLÅ",
+    "url": "https://joker.no/finn-butikk/joker-gala"
+  },
+  {
+    "id": "7799",
+    "name": "Joker Hamnvik",
+    "lat": 68.7784436124066,
+    "lon": 17.173273029511247,
+    "address": "Bygdaveien 26",
+    "postalCode": "9450",
+    "city": "HAMNVIK",
+    "url": "https://joker.no/finn-butikk/joker-hamnvik"
+  },
+  {
+    "id": "4350",
+    "name": "Joker Hanøy",
+    "lat": 60.44961820262774,
+    "lon": 5.091672590597963,
+    "address": "Hanøyvegen 405",
+    "postalCode": "5310",
+    "city": "HAUGLANDSHELLA",
+    "url": "https://joker.no/finn-butikk/joker-hanoy"
+  },
+  {
+    "id": "9591",
+    "name": "Joker Hasle",
+    "lat": 59.921991636100884,
+    "lon": 10.797160362974257,
+    "address": "St. Jørgens vei 49",
+    "postalCode": "0662",
+    "city": "OSLO",
+    "url": "https://joker.no/finn-butikk/joker-hasle"
+  },
+  {
+    "id": "8071",
+    "name": "Joker Hasselvika",
+    "lat": 63.632399900153054,
+    "lon": 9.827724869777967,
+    "address": "Hasselvikveien 960",
+    "postalCode": "7112",
+    "city": "HASSELVIKA",
+    "url": "https://joker.no/finn-butikk/joker-hasselvika"
+  },
+  {
+    "id": "4668",
+    "name": "Joker Haugen",
+    "lat": 59.259321058202104,
+    "lon": 5.190214052142097,
+    "address": "Åkraveien 216",
+    "postalCode": "4270",
+    "city": "ÅKREHAMN",
+    "url": "https://joker.no/finn-butikk/joker-haugen"
+  },
+  {
+    "id": "5271",
+    "name": "Joker Haugen Kopervik",
+    "lat": 59.283704040202124,
+    "lon": 5.307463006156186,
+    "address": "Hovedgaten 39",
+    "postalCode": "4250",
+    "city": "KOPERVIK",
+    "url": "https://joker.no/finn-butikk/joker-haugen-kopervik"
+  },
+  {
+    "id": "9668",
+    "name": "Joker Haugesund",
+    "lat": 59.413715236796364,
+    "lon": 5.268982300363929,
+    "address": "Sørhauggata 152",
+    "postalCode": "5527",
+    "city": "HAUGESUND",
+    "url": "https://joker.no/finn-butikk/joker-haugesund"
+  },
+  {
+    "id": "809",
+    "name": "Joker Haugsvik",
+    "lat": 60.8035818889881,
+    "lon": 6.6501377172791205,
+    "address": "HAUGSVIK",
+    "postalCode": "5713",
+    "city": "VOSSESTRAND",
+    "url": "https://joker.no/finn-butikk/joker-haugsvik"
+  },
+  {
+    "id": "873",
+    "name": "Joker Haugsvær",
+    "lat": 60.89695064004776,
+    "lon": 5.519460359082446,
+    "address": "Sognevegen 2226",
+    "postalCode": "5985",
+    "city": "HAUGSVÆR",
+    "url": "https://joker.no/finn-butikk/joker-haugsvar"
+  },
+  {
+    "id": "7223",
+    "name": "Joker Haukeligrend",
+    "lat": 59.73507804332248,
+    "lon": 7.552438819121536,
+    "address": "Gugardsvegen 2",
+    "postalCode": "3895",
+    "city": "EDLAND",
+    "url": "https://joker.no/finn-butikk/joker-haukeligrend"
+  },
+  {
+    "id": "7163",
+    "name": "Joker Hedalen",
+    "lat": 60.599493008586066,
+    "lon": 9.743898646611028,
+    "address": "Hedalsveien 2036",
+    "postalCode": "3528",
+    "city": "HEDALEN",
+    "url": "https://joker.no/finn-butikk/joker-hedalen"
+  },
+  {
+    "id": "4551",
+    "name": "Joker Heggenes",
+    "lat": 61.13155761996543,
+    "lon": 9.083904553627173,
+    "address": "Vindevegen 2",
+    "postalCode": "2940",
+    "city": "HEGGENES",
+    "url": "https://joker.no/finn-butikk/joker-heggenes"
+  },
+  {
+    "id": "3261",
+    "name": "Joker Hektnersletta",
+    "lat": 59.8980203325881,
+    "lon": 11.095523740006481,
+    "address": "Hektnervegen 2",
+    "postalCode": "2008",
+    "city": "FJERDINGBY",
+    "url": "https://joker.no/finn-butikk/joker-hektnersletta"
+  },
+  {
+    "id": "8538",
+    "name": "Joker Helgøysund",
+    "lat": 59.22734703077019,
+    "lon": 5.836076904079814,
+    "address": "Helgøysundvegen 40",
+    "postalCode": "4170",
+    "city": "SJERNARØY",
+    "url": "https://joker.no/finn-butikk/joker-helgoysund"
+  },
+  {
+    "id": "6633",
+    "name": "Joker Hellesylt",
+    "lat": 62.08437918113967,
+    "lon": 6.869582397920207,
+    "address": "Hellesyltvegen 49",
+    "postalCode": "6218",
+    "city": "HELLESYLT",
+    "url": "https://joker.no/finn-butikk/joker-hellesylt"
+  },
+  {
+    "id": "8012",
+    "name": "Joker Henningsvær",
+    "lat": 68.15339673895394,
+    "lon": 14.20148182205474,
+    "address": "Dreyers gate 59",
+    "postalCode": "8312",
+    "city": "HENNINGSVÆR",
+    "url": "https://joker.no/finn-butikk/joker-henningsvar"
+  },
+  {
+    "id": "5670",
+    "name": "Joker Henrik Ibsens Gate",
+    "lat": 59.915165029626486,
+    "lon": 10.725760450845579,
+    "address": "Henrik Ibsens gate 36",
+    "postalCode": "0255",
+    "city": "OSLO",
+    "url": "https://joker.no/finn-butikk/joker-henrik-ibsens-gate"
+  },
+  {
+    "id": "953",
+    "name": "Joker Hervik",
+    "lat": 59.31999027398949,
+    "lon": 5.594726131142445,
+    "address": "Hervikvegen 868",
+    "postalCode": "5566",
+    "city": "HERVIK",
+    "url": "https://joker.no/finn-butikk/joker-hervik"
+  },
+  {
+    "id": "5342",
+    "name": "Joker Hesselbergsgate",
+    "lat": 59.20533157083925,
+    "lon": 9.59153054271756,
+    "address": "Vatner Ring 26",
+    "postalCode": "3725",
+    "city": "SKIEN",
+    "url": "https://joker.no/finn-butikk/joker-hesselbergsgate"
+  },
+  {
+    "id": "5102",
+    "name": "Joker Hinderåvåg",
+    "lat": 59.34899081471869,
+    "lon": 5.801077663969895,
+    "address": "Hinderåvåg",
+    "postalCode": "5560",
+    "city": "NEDSTRAND",
+    "url": "https://joker.no/finn-butikk/joker-hinderavag"
+  },
+  {
+    "id": "9160",
+    "name": "Joker Hisøy",
+    "lat": 58.44604338499342,
+    "lon": 8.756668741779297,
+    "address": "Skogveien 3",
+    "postalCode": "4817",
+    "city": "HIS",
+    "url": "https://joker.no/finn-butikk/joker-hisoy"
+  },
+  {
+    "id": "4339",
+    "name": "Joker Hjelledalen",
+    "lat": 61.91863148631553,
+    "lon": 7.169896427017162,
+    "address": "Strynevegen 2806",
+    "postalCode": "6798",
+    "city": "HJELLEDALEN",
+    "url": "https://joker.no/finn-butikk/joker-hjelledalen"
+  },
+  {
+    "id": "7164",
+    "name": "Joker Hokksund",
+    "lat": 59.76327028074145,
+    "lon": 9.923692617812504,
+    "address": "Loesmov 55",
+    "postalCode": "3300",
+    "city": "HOKKSUND",
+    "url": "https://joker.no/finn-butikk/joker-hokksund"
+  },
+  {
+    "id": "9571",
+    "name": "Joker Holmenhavna",
+    "lat": 59.95150492485887,
+    "lon": 10.679732872986495,
+    "address": "Gaupefaret 4",
+    "postalCode": "0773",
+    "city": "OSLO",
+    "url": "https://joker.no/finn-butikk/joker-holmenhavna"
+  },
+  {
+    "id": "4438",
+    "name": "Joker Holmenkollen",
+    "lat": 59.95473976538506,
+    "lon": 10.665426549747272,
+    "address": "HOLMENKOLLVEIEN 78",
+    "postalCode": "0784",
+    "city": "OSLO",
+    "url": "https://joker.no/finn-butikk/joker-holmenkollen"
+  },
+  {
+    "id": "4178",
+    "name": "Joker Holmlia",
+    "lat": 59.841366043411924,
+    "lon": 10.792827229353364,
+    "address": "Hallagerbakken 108",
+    "postalCode": "1256",
+    "city": "OSLO",
+    "url": "https://joker.no/finn-butikk/joker-holmlia"
+  },
+  {
+    "id": "7530",
+    "name": "Joker Holt",
+    "lat": 69.01690999042077,
+    "lon": 19.414190134489584,
+    "address": "Dividalsveien 3",
+    "postalCode": "9334",
+    "city": "ØVERBYGD",
+    "url": "https://joker.no/finn-butikk/joker-holt"
+  },
+  {
+    "id": "9638",
+    "name": "Joker Holtet",
+    "lat": 59.88311348862714,
+    "lon": 10.783979586092828,
+    "address": "Marienlundv 3 A",
+    "postalCode": "1178",
+    "city": "OSLO",
+    "url": "https://joker.no/finn-butikk/joker-holtet"
+  },
+  {
+    "id": "4442",
+    "name": "Joker Holvika",
+    "lat": 58.32255072748654,
+    "lon": 8.569639668140974,
+    "address": "Skjærgårdsveien 1",
+    "postalCode": "4879",
+    "city": "GRIMSTAD",
+    "url": "https://joker.no/finn-butikk/joker-holvika"
+  },
+  {
+    "id": "9092",
+    "name": "Joker Homstean",
+    "lat": 58.26261018315074,
+    "lon": 7.831080783652179,
+    "address": "Setesdalsveien 767",
+    "postalCode": "4715",
+    "city": "ØVREBØ",
+    "url": "https://joker.no/finn-butikk/joker-homstean"
+  },
+  {
+    "id": "7512",
+    "name": "Joker Honningsvåg",
+    "lat": 70.97636707571645,
+    "lon": 25.983364407624713,
+    "address": "Nordvågveien 8",
+    "postalCode": "9750",
+    "city": "HONNINGSVÅG",
+    "url": "https://joker.no/finn-butikk/joker-honningsvag"
+  },
+  {
+    "id": "9083",
+    "name": "Joker Hopestrand",
+    "lat": 58.68963146972523,
+    "lon": 9.143214736277987,
+    "address": "Åkvågveien 456",
+    "postalCode": "4950",
+    "city": "RISØR",
+    "url": "https://joker.no/finn-butikk/joker-hopestrand"
+  },
+  {
+    "id": "631",
+    "name": "Joker Hundvin",
+    "lat": 60.68419503294079,
+    "lon": 5.22954314416515,
+    "address": "Hetlehovda 2",
+    "postalCode": "5956",
+    "city": "HUNDVIN",
+    "url": "https://joker.no/finn-butikk/joker-hundvin"
+  },
+  {
+    "id": "8064",
+    "name": "Joker Husby - Leka",
+    "lat": 65.08763138519936,
+    "lon": 11.71293589874364,
+    "address": "Skeisveien 116",
+    "postalCode": "7994",
+    "city": "LEKA",
+    "url": "https://joker.no/finn-butikk/joker-husby-leka"
+  },
+  {
+    "id": "8124",
+    "name": "Joker Husbysjøen",
+    "lat": 63.75220714420037,
+    "lon": 10.131771858826376,
+    "address": "Råkvågveien 2",
+    "postalCode": "7113",
+    "city": "HUSBYSJØEN",
+    "url": "https://joker.no/finn-butikk/joker-husbysjoen"
+  },
+  {
+    "id": "7527",
+    "name": "Joker Husøy",
+    "lat": 69.5438039830748,
+    "lon": 17.664258805803197,
+    "address": "Husøy",
+    "postalCode": "9389",
+    "city": "HUSØY I SENJA",
+    "url": "https://joker.no/finn-butikk/joker-husoy"
+  },
+  {
+    "id": "9207",
+    "name": "Joker Hvasser",
+    "lat": 59.081730713443726,
+    "lon": 10.451532025210666,
+    "address": "Hvasserveien 247",
+    "postalCode": "3148",
+    "city": "HVASSER",
+    "url": "https://joker.no/finn-butikk/joker-hvasser"
+  },
+  {
+    "id": "658",
+    "name": "Joker Hyen",
+    "lat": 61.73962547939048,
+    "lon": 5.917101895641995,
+    "address": "Straumsvegen 12",
+    "postalCode": "6829",
+    "city": "HYEN",
+    "url": "https://joker.no/finn-butikk/joker-hyen"
+  },
+  {
+    "id": "9671",
+    "name": "Joker Høybråten",
+    "lat": 59.944133470537494,
+    "lon": 10.91791683713942,
+    "address": "Høybråtenveien 51",
+    "postalCode": "1086",
+    "city": "OSLO",
+    "url": "https://joker.no/finn-butikk/joker-hoybraten"
+  },
+  {
+    "id": "1964",
+    "name": "Joker Høydalsmo",
+    "lat": 59.49863872029431,
+    "lon": 8.199041780398437,
+    "address": "Høydalsmovegen 807",
+    "postalCode": "3891",
+    "city": "HØYDALSMO",
+    "url": "https://joker.no/finn-butikk/joker-hoydalsmo"
+  },
+  {
+    "id": "4358",
+    "name": "Joker Ila",
+    "lat": 59.930994573101806,
+    "lon": 10.753300442050238,
+    "address": "Claus Riis gate 4",
+    "postalCode": "0457",
+    "city": "OSLO",
+    "url": "https://joker.no/finn-butikk/joker-ila"
+  },
+  {
+    "id": "2636",
+    "name": "Joker Ilevollen",
+    "lat": 63.43005848172395,
+    "lon": 10.373160339920098,
+    "address": "Ilevollen 2",
+    "postalCode": "7018",
+    "city": "TRONDHEIM",
+    "url": "https://joker.no/finn-butikk/joker-ilevollen"
+  },
+  {
+    "id": "2657",
+    "name": "Joker Iveland",
+    "lat": 58.454593785442256,
+    "lon": 7.916784544323614,
+    "address": "Åkle 1",
+    "postalCode": "4724",
+    "city": "IVELAND",
+    "url": "https://joker.no/finn-butikk/joker-iveland"
+  },
+  {
+    "id": "5166",
+    "name": "Joker Jar",
+    "lat": 59.92973106805004,
+    "lon": 10.620468576785855,
+    "address": "Vollsveien 76",
+    "postalCode": "1358",
+    "city": "JAR",
+    "url": "https://joker.no/finn-butikk/joker-jar"
+  },
+  {
+    "id": "9651",
+    "name": "Joker Jarlsø",
+    "lat": 59.24615133621054,
+    "lon": 10.473790326500591,
+    "address": "Jarlsøveien 50",
+    "postalCode": "3124",
+    "city": "TØNSBERG",
+    "url": "https://joker.no/finn-butikk/joker-jarlso"
+  },
+  {
+    "id": "2679",
+    "name": "Joker Jektvik",
+    "lat": 66.62605578253435,
+    "lon": 13.292328772151444,
+    "address": "Jektvikveien 200",
+    "postalCode": "8187",
+    "city": "JEKTVIK",
+    "url": "https://joker.no/finn-butikk/joker-jektvik"
+  },
+  {
+    "id": "7802",
+    "name": "Joker Jelsa",
+    "lat": 59.338845016735924,
+    "lon": 6.029165564931922,
+    "address": "Sandane 55",
+    "postalCode": "4234",
+    "city": "JELSA",
+    "url": "https://joker.no/finn-butikk/joker-jelsa"
+  },
+  {
+    "id": "951",
+    "name": "Joker Jelsagaten",
+    "lat": 58.96746665264724,
+    "lon": 5.740527996954656,
+    "address": "Jelsagata 1",
+    "postalCode": "4012",
+    "city": "STAVANGER",
+    "url": "https://joker.no/finn-butikk/joker-jelsagaten"
+  },
+  {
+    "id": "1282",
+    "name": "Joker Jeløy",
+    "lat": 59.44163900541376,
+    "lon": 10.64442213840225,
+    "address": "Nesveien 11",
+    "postalCode": "1513",
+    "city": "MOSS",
+    "url": "https://joker.no/finn-butikk/joker-jeloy"
+  },
+  {
+    "id": "2692",
+    "name": "Joker Jens Bjelkesgate",
+    "lat": 59.91330513396469,
+    "lon": 10.772452873781823,
+    "address": "Jens Bjelkes gate 57",
+    "postalCode": "0650",
+    "city": "OSLO",
+    "url": "https://joker.no/finn-butikk/joker-jens-bjelkesgate"
+  },
+  {
+    "id": "7682",
+    "name": "Joker Jessheim",
+    "lat": 60.152186123067814,
+    "lon": 11.185729881033977,
+    "address": "Energivegen 16",
+    "postalCode": "2069",
+    "city": "JESSHEIM",
+    "url": "https://joker.no/finn-butikk/joker-jessheim"
+  },
+  {
+    "id": "1931",
+    "name": "Joker Jessheim Hageby",
+    "lat": 60.142472296114896,
+    "lon": 11.161731491077827,
+    "address": "Odelsvegen 15",
+    "postalCode": "2063",
+    "city": "JESSHEIM",
+    "url": "https://joker.no/finn-butikk/joker-jessheim-hageby"
+  },
+  {
+    "id": "7049",
+    "name": "Joker Jordet",
+    "lat": 61.42029962597137,
+    "lon": 12.139802719136622,
+    "address": "Gamlevei 25",
+    "postalCode": "2430",
+    "city": "JORDET",
+    "url": "https://joker.no/finn-butikk/joker-jordet"
+  },
+  {
+    "id": "714",
+    "name": "Joker Jostedal",
+    "lat": 61.63106562813525,
+    "lon": 7.263525428272234,
+    "address": "Jostedalsvegen 3051",
+    "postalCode": "6871",
+    "city": "JOSTEDAL",
+    "url": "https://joker.no/finn-butikk/joker-jostedal"
+  },
+  {
+    "id": "5859",
+    "name": "Joker Justvik",
+    "lat": 58.20004576209115,
+    "lon": 8.032899943693813,
+    "address": "Grostølveien 4D",
+    "postalCode": "4634",
+    "city": "KRISTIANSAND S",
+    "url": "https://joker.no/finn-butikk/joker-justvik"
+  },
+  {
+    "id": "5662",
+    "name": "Joker Jøa",
+    "lat": 64.63691134713247,
+    "lon": 11.344637736541534,
+    "address": "Seierstadvegen 5",
+    "postalCode": "7856",
+    "city": "JØA",
+    "url": "https://joker.no/finn-butikk/joker-joa"
+  },
+  {
+    "id": "5510",
+    "name": "Joker Kaien Brattholmen",
+    "lat": 60.34950018780962,
+    "lon": 5.161572071494414,
+    "address": "Brattholmen 108",
+    "postalCode": "5350",
+    "city": "BRATTHOLMEN",
+    "url": "https://joker.no/finn-butikk/joker-kaien-brattholmen"
+  },
+  {
+    "id": "5140",
+    "name": "Joker Kannik",
+    "lat": 58.96612141711795,
+    "lon": 5.731268516229011,
+    "address": "Olav V's gate 13",
+    "postalCode": "4005",
+    "city": "STAVANGER",
+    "url": "https://joker.no/finn-butikk/joker-kannik"
+  },
+  {
+    "id": "8076",
+    "name": "Joker Karusellberget",
+    "lat": 66.0805664437824,
+    "lon": 12.582123802405041,
+    "address": "Hæstadveien 5",
+    "postalCode": "8820",
+    "city": "DØNNA",
+    "url": "https://joker.no/finn-butikk/joker-karusellberget"
+  },
+  {
+    "id": "4369",
+    "name": "Joker Kirkenes",
+    "lat": 69.72685594082886,
+    "lon": 30.045739756474294,
+    "address": "Kielland Torkildsens gate 3A",
+    "postalCode": "9900",
+    "city": "KIRKENES",
+    "url": "https://joker.no/finn-butikk/joker-kirkenes"
+  },
+  {
+    "id": "4177",
+    "name": "Joker Kirkeveien",
+    "lat": 59.93184402338107,
+    "lon": 10.722278276624015,
+    "address": "Kirkeveien 90A",
+    "postalCode": "0364",
+    "city": "OSLO",
+    "url": "https://joker.no/finn-butikk/joker-kirkeveien"
+  },
+  {
+    "id": "4193",
+    "name": "Joker Kjeldebotn",
+    "lat": 68.40745837563728,
+    "lon": 16.675668398396006,
+    "address": "Skårnes",
+    "postalCode": "8543",
+    "city": "KJELDEBOTN",
+    "url": "https://joker.no/finn-butikk/joker-kjeldebotn"
+  },
+  {
+    "id": "4462",
+    "name": "Joker Kjelsås",
+    "lat": 59.95619151768185,
+    "lon": 10.789196141036797,
+    "address": "KJELSÅSVEIEN 87",
+    "postalCode": "0491",
+    "city": "OSLO",
+    "url": "https://joker.no/finn-butikk/joker-kjelsas"
+  },
+  {
+    "id": "1289",
+    "name": "Joker Kjøllefjord",
+    "lat": 70.94645824927936,
+    "lon": 27.326899612676883,
+    "address": "Breivikveien 2",
+    "postalCode": "9790",
+    "city": "KJØLLEFJORD",
+    "url": "https://joker.no/finn-butikk/joker-kjollefjord"
+  },
+  {
+    "id": "7238",
+    "name": "Joker Kleive",
+    "lat": 62.79479817056003,
+    "lon": 7.633612860861296,
+    "address": "Istadvegen 611",
+    "postalCode": "6453",
+    "city": "KLEIVE",
+    "url": "https://joker.no/finn-butikk/joker-kleive"
+  },
+  {
+    "id": "7004",
+    "name": "Joker Klemetsrud",
+    "lat": 59.834033142455816,
+    "lon": 10.84382268936696,
+    "address": "Enebakkveien 401",
+    "postalCode": "1279",
+    "city": "OSLO",
+    "url": "https://joker.no/finn-butikk/joker-klemetsrud"
+  },
+  {
+    "id": "2355",
+    "name": "Joker Klevbakken",
+    "lat": 60.78710647072927,
+    "lon": 11.320588623721616,
+    "address": "Klevbakken 91",
+    "postalCode": "2345",
+    "city": "ÅDALSBRUK",
+    "url": "https://joker.no/finn-butikk/joker-klevbakken"
+  },
+  {
+    "id": "4954",
+    "name": "Joker Klingenberg",
+    "lat": 59.91337404070043,
+    "lon": 10.73213674550816,
+    "address": "Klingenberggata 10",
+    "postalCode": "0161",
+    "city": "OSLO",
+    "url": "https://joker.no/finn-butikk/joker-klingenberg"
+  },
+  {
+    "id": "1281",
+    "name": "Joker Klovholt",
+    "lat": 59.18411454276559,
+    "lon": 9.512380926312527,
+    "address": "Ulefossveien 538",
+    "postalCode": "3729",
+    "city": "SKIEN",
+    "url": "https://joker.no/finn-butikk/joker-klovholt"
+  },
+  {
+    "id": "4327",
+    "name": "Joker Knarrlagsund",
+    "lat": 63.6636855476904,
+    "lon": 9.077443857786356,
+    "address": "Berge 3",
+    "postalCode": "7242",
+    "city": "KNARRLAGSUND",
+    "url": "https://joker.no/finn-butikk/joker-knarrlagsund"
+  },
+  {
+    "id": "8649",
+    "name": "Joker Kolsås",
+    "lat": 59.91396216873154,
+    "lon": 10.501071256703977,
+    "address": "Brynsveien 134",
+    "postalCode": "1352",
+    "city": "KOLSÅS",
+    "url": "https://joker.no/finn-butikk/joker-kolsas"
+  },
+  {
+    "id": "3333",
+    "name": "Joker Kongsvinger",
+    "lat": 60.17869106225267,
+    "lon": 12.025119905672117,
+    "address": "Bokfinkvegen 24",
+    "postalCode": "2209",
+    "city": "KONGSVINGER",
+    "url": "https://joker.no/finn-butikk/joker-kongsvinger"
+  },
+  {
+    "id": "7743",
+    "name": "Joker Konnerudgata",
+    "lat": 59.738344068558476,
+    "lon": 10.193031678145795,
+    "address": "Konnerudgata 33",
+    "postalCode": "3045",
+    "city": "DRAMMEN",
+    "url": "https://joker.no/finn-butikk/joker-konnerudgata"
+  },
+  {
+    "id": "782",
+    "name": "Joker Korssund",
+    "lat": 61.25425526106831,
+    "lon": 4.991665846486905,
+    "address": "Korssundvegen 317",
+    "postalCode": "6964",
+    "city": "KORSSUND",
+    "url": "https://joker.no/finn-butikk/joker-korssund"
+  },
+  {
+    "id": "7187",
+    "name": "Joker Kronprinsensgate",
+    "lat": 58.150435402970885,
+    "lon": 7.9969662262920025,
+    "address": "Kronprinsensgt. 49",
+    "postalCode": "4614",
+    "city": "KRISTIANSAND S",
+    "url": "https://joker.no/finn-butikk/joker-kronprinsensgate"
+  },
+  {
+    "id": "9139",
+    "name": "Joker Krossen",
+    "lat": 58.15216634500825,
+    "lon": 7.956904843341401,
+    "address": "Suldalsveien 1",
+    "postalCode": "4617",
+    "city": "KRISTIANSAND S",
+    "url": "https://joker.no/finn-butikk/joker-krossen"
+  },
+  {
+    "id": "5568",
+    "name": "Joker Kuben",
+    "lat": 61.11416723130903,
+    "lon": 10.46451608606631,
+    "address": "Kirkegata 53-55",
+    "postalCode": "2609",
+    "city": "LILLEHAMMER",
+    "url": "https://joker.no/finn-butikk/joker-kuben"
+  },
+  {
+    "id": "4864",
+    "name": "Joker Kvadraturen",
+    "lat": 59.910474509130616,
+    "lon": 10.744384666254026,
+    "address": "Tollbugata 17",
+    "postalCode": "0152",
+    "city": "OSLO",
+    "url": "https://joker.no/finn-butikk/joker-kvadraturen"
+  },
+  {
+    "id": "7808",
+    "name": "Joker Kvammen",
+    "lat": 61.45873089013154,
+    "lon": 5.416115164789068,
+    "address": "Kvammen",
+    "postalCode": "6983",
+    "city": "KVAMMEN",
+    "url": "https://joker.no/finn-butikk/joker-kvammen"
+  },
+  {
+    "id": "9004",
+    "name": "Joker Kvarstein",
+    "lat": 58.2375322088445,
+    "lon": 7.9393450371603285,
+    "address": "Venneslaveien 171",
+    "postalCode": "4700",
+    "city": "VENNESLA",
+    "url": "https://joker.no/finn-butikk/joker-kvarstein"
+  },
+  {
+    "id": "4893",
+    "name": "Joker Kvenvær",
+    "lat": 63.53345153335788,
+    "lon": 8.389965302233614,
+    "address": "Sjøbakken 15",
+    "postalCode": "7243",
+    "city": "KVENVÆR",
+    "url": "https://joker.no/finn-butikk/joker-kvenvar"
+  },
+  {
+    "id": "4315",
+    "name": "Joker Kvina",
+    "lat": 66.4667660594517,
+    "lon": 13.168094697975958,
+    "address": "TONNESVEIEN 30",
+    "postalCode": "8752",
+    "city": "KONSVIKOSEN",
+    "url": "https://joker.no/finn-butikk/joker-kvina"
+  },
+  {
+    "id": "8627",
+    "name": "Joker Kyrkjebø",
+    "lat": 61.16506884792847,
+    "lon": 5.938662803117018,
+    "address": "Kyrkjebø",
+    "postalCode": "6995",
+    "city": "KYRKJEBØ",
+    "url": "https://joker.no/finn-butikk/joker-kyrkjebo"
+  },
+  {
+    "id": "2273",
+    "name": "Joker Langhus",
+    "lat": 59.77173870242584,
+    "lon": 10.84932631249318,
+    "address": "Regnbuveien 2",
+    "postalCode": "1405",
+    "city": "LANGHUS",
+    "url": "https://joker.no/finn-butikk/joker-langhus"
+  },
+  {
+    "id": "4347",
+    "name": "Joker Langvik - Gml.Fredrikstad",
+    "lat": 59.210364586937466,
+    "lon": 10.983494185054157,
+    "address": "Anton Rosings vei 10",
+    "postalCode": "1637",
+    "city": "GAMLE FREDRIKSTAD",
+    "url": "https://joker.no/finn-butikk/joker-langvik-gmlfredrikstad"
+  },
+  {
+    "id": "4370",
+    "name": "Joker Langåsen",
+    "lat": 67.2916219437922,
+    "lon": 14.447669574291643,
+    "address": "Trollåsveien 42",
+    "postalCode": "8011",
+    "city": "BODØ",
+    "url": "https://joker.no/finn-butikk/joker-langasen"
+  },
+  {
+    "id": "9541",
+    "name": "Joker Larkollen",
+    "lat": 59.32736939893043,
+    "lon": 10.679722389031076,
+    "address": "Skoglyv 1",
+    "postalCode": "1560",
+    "city": "LARKOLLEN",
+    "url": "https://joker.no/finn-butikk/joker-larkollen"
+  },
+  {
+    "id": "8578",
+    "name": "Joker Larsnes",
+    "lat": 62.206415664629006,
+    "lon": 5.571331308478191,
+    "address": "Sentrum",
+    "postalCode": "6084",
+    "city": "LARSNES",
+    "url": "https://joker.no/finn-butikk/joker-larsnes"
+  },
+  {
+    "id": "7549",
+    "name": "Joker Lenangen",
+    "lat": 69.90847632940098,
+    "lon": 20.16024222224784,
+    "address": "Hamnenesveien 25",
+    "postalCode": "9068",
+    "city": "NORD-LENANGEN",
+    "url": "https://joker.no/finn-butikk/joker-lenangen"
+  },
+  {
+    "id": "623",
+    "name": "Joker Lepsøy",
+    "lat": 62.61032041586683,
+    "lon": 6.205116094158099,
+    "address": "Lepsøyvegen 57",
+    "postalCode": "6292",
+    "city": "KJERSTAD",
+    "url": "https://joker.no/finn-butikk/joker-lepsoy"
+  },
+  {
+    "id": "7011",
+    "name": "Joker Lesja",
+    "lat": 62.118067625971435,
+    "lon": 8.860784077565619,
+    "address": "Jakup B. Klukstadsveg 44",
+    "postalCode": "2665",
+    "city": "LESJA",
+    "url": "https://joker.no/finn-butikk/joker-lesja"
+  },
+  {
+    "id": "7652",
+    "name": "Joker Liland",
+    "lat": 68.4768170076708,
+    "lon": 16.884914221543866,
+    "address": "LILANDVN. 210",
+    "postalCode": "8534",
+    "city": "LILAND",
+    "url": "https://joker.no/finn-butikk/joker-liland"
+  },
+  {
+    "id": "5143",
+    "name": "Joker Lillemarkens",
+    "lat": 58.14566765755654,
+    "lon": 7.991277082279643,
+    "address": "Skippergata 4",
+    "postalCode": "4611",
+    "city": "KRISTIANSAND S",
+    "url": "https://joker.no/finn-butikk/joker-lillemarkens"
+  },
+  {
+    "id": "5501",
+    "name": "Joker Linderudsletta",
+    "lat": 59.945842765622125,
+    "lon": 10.844102108306725,
+    "address": "Linderudsletta 13",
+    "postalCode": "0597",
+    "city": "OSLO",
+    "url": "https://joker.no/finn-butikk/joker-linderudsletta"
+  },
+  {
+    "id": "1885",
+    "name": "Joker Lislebyveien",
+    "lat": 59.21333547512756,
+    "lon": 10.959131037614856,
+    "address": "Lislebyveien 52A",
+    "postalCode": "1604",
+    "city": "FREDRIKSTAD",
+    "url": "https://joker.no/finn-butikk/joker-lislebyveien"
+  },
+  {
+    "id": "9663",
+    "name": "Joker Ljan",
+    "lat": 59.84881065861494,
+    "lon": 10.787622090955004,
+    "address": "Von Øtkens vei 1",
+    "postalCode": "1169",
+    "city": "OSLO",
+    "url": "https://joker.no/finn-butikk/joker-ljan"
+  },
+  {
+    "id": "503",
+    "name": "Joker Ljøsne",
+    "lat": 61.0520309112293,
+    "lon": 7.58020072418175,
+    "address": "Lærdalsvegen 1140",
+    "postalCode": "6887",
+    "city": "LÆRDAL",
+    "url": "https://joker.no/finn-butikk/joker-ljosne"
+  },
+  {
+    "id": "617",
+    "name": "Joker Loen",
+    "lat": 61.871813910082324,
+    "lon": 6.848089336242149,
+    "address": "Lodalsvegen 9",
+    "postalCode": "6789",
+    "city": "LOEN",
+    "url": "https://joker.no/finn-butikk/joker-loen"
+  },
+  {
+    "id": "8008",
+    "name": "Joker Lovund",
+    "lat": 66.36914431791874,
+    "lon": 12.363327002943059,
+    "address": "Lundvollveien 2",
+    "postalCode": "8764",
+    "city": "LOVUND",
+    "url": "https://joker.no/finn-butikk/joker-lovund"
+  },
+  {
+    "id": "628",
+    "name": "Joker Luster",
+    "lat": 61.44149437955887,
+    "lon": 7.456870040407019,
+    "address": "Lustravegen 3265 A",
+    "postalCode": "6872",
+    "city": "LUSTER",
+    "url": "https://joker.no/finn-butikk/joker-luster"
+  },
+  {
+    "id": "9655",
+    "name": "Joker Lysaker Stasjon",
+    "lat": 59.91317419209146,
+    "lon": 10.638233154897467,
+    "address": "Drammensveien 305",
+    "postalCode": "1366",
+    "city": "LYSAKER",
+    "url": "https://joker.no/finn-butikk/joker-lysaker-stasjon"
+  },
+  {
+    "id": "8623",
+    "name": "Joker Lysefjorden",
+    "lat": 58.90552233268345,
+    "lon": 6.09805357686674,
+    "address": "Lysefjorden Marina",
+    "postalCode": "4110",
+    "city": "FORSAND",
+    "url": "https://joker.no/finn-butikk/joker-lysefjorden"
+  },
+  {
+    "id": "2310",
+    "name": "Joker Løkenhavna",
+    "lat": 59.92636512882278,
+    "lon": 10.499477048070595,
+    "address": "Åsbråtan 17",
+    "postalCode": "1352",
+    "city": "KOLSÅS",
+    "url": "https://joker.no/finn-butikk/joker-lokenhavna"
+  },
+  {
+    "id": "7224",
+    "name": "Joker Løkenåsen",
+    "lat": 59.92001474305824,
+    "lon": 11.18264592137073,
+    "address": "Løkenveien 101",
+    "postalCode": "1900",
+    "city": "FETSUND",
+    "url": "https://joker.no/finn-butikk/joker-lokenasen"
+  },
+  {
+    "id": "5116",
+    "name": "Joker Løren",
+    "lat": 59.92971466247987,
+    "lon": 10.796118983711038,
+    "address": "Lørenveien 52",
+    "postalCode": "0585",
+    "city": "OSLO",
+    "url": "https://joker.no/finn-butikk/joker-loren"
+  },
+  {
+    "id": "5242",
+    "name": "Joker Løren Stasjon",
+    "lat": 59.92996590497828,
+    "lon": 10.79184675915014,
+    "address": "Peter Møllers vei 2B",
+    "postalCode": "0585",
+    "city": "OSLO",
+    "url": "https://joker.no/finn-butikk/joker-loren-stasjon"
+  },
+  {
+    "id": "5623",
+    "name": "Joker Madlatuå",
+    "lat": 58.941027665995456,
+    "lon": 5.650154562720127,
+    "address": "Grenaderveien 2A",
+    "postalCode": "4045",
+    "city": "HAFRSFJORD",
+    "url": "https://joker.no/finn-butikk/joker-madlatua"
+  },
+  {
+    "id": "7563",
+    "name": "Joker Manndalen",
+    "lat": 69.54130748592432,
+    "lon": 20.545043151689562,
+    "address": "",
+    "postalCode": "9144",
+    "city": "SAMUELSBERG",
+    "url": "https://joker.no/finn-butikk/joker-manndalen"
+  },
+  {
+    "id": "4488",
+    "name": "Joker Maridalsveien",
+    "lat": 59.93974858447158,
+    "lon": 10.759598242661614,
+    "address": "Maridalsveien 169",
+    "postalCode": "0468",
+    "city": "OSLO",
+    "url": "https://joker.no/finn-butikk/joker-maridalsveien"
+  },
+  {
+    "id": "7634",
+    "name": "Joker Marnardal",
+    "lat": 58.212759112347605,
+    "lon": 7.514903239835516,
+    "address": "Marnarveien 2261",
+    "postalCode": "4534",
+    "city": "MARNARDAL",
+    "url": "https://joker.no/finn-butikk/joker-marnardal"
+  },
+  {
+    "id": "9667",
+    "name": "Joker Matrix",
+    "lat": 68.79254458186523,
+    "lon": 16.530940956082084,
+    "address": "Seljestadvegen 11",
+    "postalCode": "9406",
+    "city": "HARSTAD",
+    "url": "https://joker.no/finn-butikk/joker-matrix"
+  },
+  {
+    "id": "4181",
+    "name": "Joker Meaksmoen",
+    "lat": 59.571702183065774,
+    "lon": 9.260242821318398,
+    "address": "Langkåsvn. 15",
+    "postalCode": "3675",
+    "city": "NOTODDEN",
+    "url": "https://joker.no/finn-butikk/joker-meaksmoen"
+  },
+  {
+    "id": "5571",
+    "name": "Joker Melsomvik",
+    "lat": 59.23075519112339,
+    "lon": 10.338632362910754,
+    "address": "Melsomvikveien 187",
+    "postalCode": "3159",
+    "city": "MELSOMVIK",
+    "url": "https://joker.no/finn-butikk/joker-melsomvik"
+  },
+  {
+    "id": "5672",
+    "name": "Joker Moldjord",
+    "lat": 67.00812976577583,
+    "lon": 14.571439931548435,
+    "address": "Nedre Beiarveien 912",
+    "postalCode": "8110",
+    "city": "MOLDJORD",
+    "url": "https://joker.no/finn-butikk/joker-moldjord"
+  },
+  {
+    "id": "5624",
+    "name": "Joker Mosetertoppen",
+    "lat": 61.25315562604561,
+    "lon": 10.510548019062455,
+    "address": "Mosætervegen 611",
+    "postalCode": "2636",
+    "city": "ØYER",
+    "url": "https://joker.no/finn-butikk/joker-mosetertoppen"
+  },
+  {
+    "id": "1398",
+    "name": "Joker Mykland",
+    "lat": 58.63237089403908,
+    "lon": 8.290553862052,
+    "address": "Evjeveien 840",
+    "postalCode": "4832",
+    "city": "MYKLAND",
+    "url": "https://joker.no/finn-butikk/joker-mykland"
+  },
+  {
+    "id": "3217",
+    "name": "Joker Møllendal",
+    "lat": 60.37946591003684,
+    "lon": 5.351650792190872,
+    "address": "Møllendalsveien 62",
+    "postalCode": "5009",
+    "city": "BERGEN",
+    "url": "https://joker.no/finn-butikk/joker-mollendal"
+  },
+  {
+    "id": "5634",
+    "name": "Joker Møllergata",
+    "lat": 59.91745561442538,
+    "lon": 10.750260418063833,
+    "address": "Møllergata 34A",
+    "postalCode": "0179",
+    "city": "OSLO",
+    "url": "https://joker.no/finn-butikk/joker-mollergata"
+  },
+  {
+    "id": "4913",
+    "name": "Joker Narvik",
+    "lat": 68.43700131687463,
+    "lon": 17.42679039237213,
+    "address": "Kongens Gate 36",
+    "postalCode": "8514",
+    "city": "NARVIK",
+    "url": "https://joker.no/finn-butikk/joker-narvik"
+  },
+  {
+    "id": "3228",
+    "name": "Joker Naustedalen",
+    "lat": 61.57420030712827,
+    "lon": 5.825789834293911,
+    "address": "Naustedalen 952",
+    "postalCode": "6817",
+    "city": "NAUSTDAL",
+    "url": "https://joker.no/finn-butikk/joker-naustedalen"
+  },
+  {
+    "id": "3143",
+    "name": "Joker Nedre Slottsgate",
+    "lat": 59.91091328481481,
+    "lon": 10.741742948039102,
+    "address": "Tollbugata 24",
+    "postalCode": "0157",
+    "city": "OSLO",
+    "url": "https://joker.no/finn-butikk/joker-nedre-slottsgate"
+  },
+  {
+    "id": "946",
+    "name": "Joker Nedstrand",
+    "lat": 59.34582052726714,
+    "lon": 5.857752803028097,
+    "address": "Stranda 30",
+    "postalCode": "5560",
+    "city": "NEDSTRAND",
+    "url": "https://joker.no/finn-butikk/joker-nedstrand"
+  },
+  {
+    "id": "9592",
+    "name": "Joker Nerskogen",
+    "lat": 62.78733299374896,
+    "lon": 9.626027072078378,
+    "address": "Nerskogsveien 2035",
+    "postalCode": "7393",
+    "city": "RENNEBU",
+    "url": "https://joker.no/finn-butikk/joker-nerskogen"
+  },
+  {
+    "id": "9061",
+    "name": "Joker Nes Verk",
+    "lat": 58.62799225082614,
+    "lon": 8.855227393862746,
+    "address": "Nesverkveien 234",
+    "postalCode": "4934",
+    "city": "NES VERK",
+    "url": "https://joker.no/finn-butikk/joker-nes-verk"
+  },
+  {
+    "id": "5570",
+    "name": "Joker Neselva",
+    "lat": 59.870607885374724,
+    "lon": 10.483199936827805,
+    "address": "Sandekra 22",
+    "postalCode": "1396",
+    "city": "BILLINGSTAD",
+    "url": "https://joker.no/finn-butikk/joker-neselva"
+  },
+  {
+    "id": "7289",
+    "name": "Joker Nordagutu",
+    "lat": 59.417584842760554,
+    "lon": 9.321769395223379,
+    "address": "Nordagutuvegen 662A",
+    "postalCode": "3820",
+    "city": "NORDAGUTU",
+    "url": "https://joker.no/finn-butikk/joker-nordagutu"
+  },
+  {
+    "id": "9619",
+    "name": "Joker Nordberg",
+    "lat": 59.96125232701067,
+    "lon": 10.744600183749691,
+    "address": "Carl Kjelsens vei 21B",
+    "postalCode": "0860",
+    "city": "OSLO",
+    "url": "https://joker.no/finn-butikk/joker-nordberg"
+  },
+  {
+    "id": "5638",
+    "name": "Joker Norefjell",
+    "lat": 60.21275072961473,
+    "lon": 9.568304130764949,
+    "address": "Gamle Fjellhvilveien 1",
+    "postalCode": "3536",
+    "city": "NORESUND",
+    "url": "https://joker.no/finn-butikk/joker-norefjell"
+  },
+  {
+    "id": "5176",
+    "name": "Joker Nyhavn",
+    "lat": 60.418110627987176,
+    "lon": 5.3075292564815655,
+    "address": "Nyhavn 27",
+    "postalCode": "5042",
+    "city": "BERGEN",
+    "url": "https://joker.no/finn-butikk/joker-nyhavn"
+  },
+  {
+    "id": "7151",
+    "name": "Joker Nærsnes",
+    "lat": 59.75915370109222,
+    "lon": 10.507687690173627,
+    "address": "Sundbyveien 19",
+    "postalCode": "3478",
+    "city": "NÆRSNES",
+    "url": "https://joker.no/finn-butikk/joker-narsnes"
+  },
+  {
+    "id": "9188",
+    "name": "Joker Oddernesveien",
+    "lat": 58.156878211213,
+    "lon": 8.005013324836058,
+    "address": "Oddernesveien 25",
+    "postalCode": "4630",
+    "city": "KRISTIANSAND S",
+    "url": "https://joker.no/finn-butikk/joker-oddernesveien"
+  },
+  {
+    "id": "8507",
+    "name": "Joker Ogna",
+    "lat": 58.51945321502254,
+    "lon": 5.805836251585043,
+    "address": "Nordsjøvegen 4330",
+    "postalCode": "4364",
+    "city": "SIREVÅG",
+    "url": "https://joker.no/finn-butikk/joker-ogna"
+  },
+  {
+    "id": "2337",
+    "name": "Joker Ombo",
+    "lat": 59.23540973440313,
+    "lon": 5.938343044280034,
+    "address": "Ombovegen 1330C Eidssund kai",
+    "postalCode": "4187",
+    "city": "OMBO",
+    "url": "https://joker.no/finn-butikk/joker-ombo"
+  },
+  {
+    "id": "1867",
+    "name": "Joker Onarheim",
+    "lat": 59.948166555505345,
+    "lon": 5.628212075334624,
+    "address": "Onarheimsvegen 317",
+    "postalCode": "5694",
+    "city": "ONARHEIM",
+    "url": "https://joker.no/finn-butikk/joker-onarheim"
+  },
+  {
+    "id": "5677",
+    "name": "Joker Osebro",
+    "lat": 59.14314348357048,
+    "lon": 9.656440781520962,
+    "address": "Storgata 161",
+    "postalCode": "3915",
+    "city": "PORSGRUNN",
+    "url": "https://joker.no/finn-butikk/joker-osebro"
+  },
+  {
+    "id": "7093",
+    "name": "Joker Osen",
+    "lat": 61.30087077949906,
+    "lon": 11.764630247546494,
+    "address": "Osvegen 2455",
+    "postalCode": "2460",
+    "city": "OSEN",
+    "url": "https://joker.no/finn-butikk/joker-osen"
+  },
+  {
+    "id": "5306",
+    "name": "Joker Oslo Bussterminal",
+    "lat": 59.91191215840321,
+    "lon": 10.756442222749273,
+    "address": "Schweigaards gate 6",
+    "postalCode": "0185",
+    "city": "OSLO",
+    "url": "https://joker.no/finn-butikk/joker-oslo-bussterminal"
+  },
+  {
+    "id": "7235",
+    "name": "Joker Oslo S",
+    "lat": 59.91087484027514,
+    "lon": 10.750736082852491,
+    "address": "Jernbanetorget 1",
+    "postalCode": "0154",
+    "city": "OSLO",
+    "url": "https://joker.no/finn-butikk/joker-oslo-s"
+  },
+  {
+    "id": "1193",
+    "name": "Joker Otnes",
+    "lat": 61.757606813245445,
+    "lon": 11.175106581577193,
+    "address": "Gamle kongevei 2460",
+    "postalCode": "2485",
+    "city": "RENDALEN",
+    "url": "https://joker.no/finn-butikk/joker-otnes"
+  },
+  {
+    "id": "2320",
+    "name": "Joker Parkveien Bodø",
+    "lat": 67.28040793935388,
+    "lon": 14.384929420499718,
+    "address": "Parkveien 56",
+    "postalCode": "8005",
+    "city": "BODØ",
+    "url": "https://joker.no/finn-butikk/joker-parkveien-bodo"
+  },
+  {
+    "id": "5338",
+    "name": "Joker Parkveien Oslo",
+    "lat": 59.921106407282046,
+    "lon": 10.729504079525826,
+    "address": "Parkveien 8",
+    "postalCode": "0350",
+    "city": "OSLO",
+    "url": "https://joker.no/finn-butikk/joker-parkveien-oslo"
+  },
+  {
+    "id": "5636",
+    "name": "Joker Plaza",
+    "lat": 59.91200432570553,
+    "lon": 10.755625237261011,
+    "address": "Schweigaards gate 4",
+    "postalCode": "0185",
+    "city": "OSLO",
+    "url": "https://joker.no/finn-butikk/joker-plaza"
+  },
+  {
+    "id": "2940",
+    "name": "Joker Prinsensgate",
+    "lat": 59.91004108757294,
+    "lon": 10.748223407340019,
+    "address": "Prinsens gate 2",
+    "postalCode": "0152",
+    "city": "OSLO",
+    "url": "https://joker.no/finn-butikk/joker-prinsensgate"
+  },
+  {
+    "id": "8101",
+    "name": "Joker Reinslettveien",
+    "lat": 67.28832483955603,
+    "lon": 14.42050563928937,
+    "address": "Reinslettveien 66",
+    "postalCode": "8009",
+    "city": "BODØ",
+    "url": "https://joker.no/finn-butikk/joker-reinslettveien"
+  },
+  {
+    "id": "8072",
+    "name": "Joker Reipå",
+    "lat": 66.90886870550256,
+    "lon": 13.638247882890443,
+    "address": "Reipåveien 125",
+    "postalCode": "8146",
+    "city": "REIPÅ",
+    "url": "https://joker.no/finn-butikk/joker-reipa"
+  },
+  {
+    "id": "839",
+    "name": "Joker Revnestranden",
+    "lat": 60.152140508920034,
+    "lon": 5.735228887395039,
+    "address": "Sundvorveien 670",
+    "postalCode": "5647",
+    "city": "BALDERSHEIM",
+    "url": "https://joker.no/finn-butikk/joker-revnestranden"
+  },
+  {
+    "id": "5650",
+    "name": "Joker Risteigen",
+    "lat": 59.66703308714386,
+    "lon": 9.666724722474308,
+    "address": "Gamle Drammensvei 57",
+    "postalCode": "3612",
+    "city": "KONGSBERG",
+    "url": "https://joker.no/finn-butikk/joker-risteigen"
+  },
+  {
+    "id": "8630",
+    "name": "Joker Risør",
+    "lat": 58.72089419146139,
+    "lon": 9.232332658569467,
+    "address": "Carstensens gate 1",
+    "postalCode": "4950",
+    "city": "RISØR",
+    "url": "https://joker.no/finn-butikk/joker-risor"
+  },
+  {
+    "id": "7514",
+    "name": "Joker Risøyhamn",
+    "lat": 68.9748117167345,
+    "lon": 15.644465850178694,
+    "address": "Risøyhamn",
+    "postalCode": "8493",
+    "city": "RISØYHAMN",
+    "url": "https://joker.no/finn-butikk/joker-risoyhamn"
+  },
+  {
+    "id": "7020",
+    "name": "Joker Robru",
+    "lat": 60.74694722410844,
+    "lon": 8.867723985524561,
+    "address": "Hemsedalsveien 705",
+    "postalCode": "3550",
+    "city": "GOL",
+    "url": "https://joker.no/finn-butikk/joker-robru"
+  },
+  {
+    "id": "5244",
+    "name": "Joker Rosenkrantz gate",
+    "lat": 59.91262231215233,
+    "lon": 10.73717792425224,
+    "address": "Rosenkrantz gate 13",
+    "postalCode": "0160",
+    "city": "OSLO",
+    "url": "https://joker.no/finn-butikk/joker-rosenkrantz-gate"
+  },
+  {
+    "id": "7529",
+    "name": "Joker Rundhaug",
+    "lat": 69.0202805581533,
+    "lon": 18.899165956207803,
+    "address": "Øverbygdveien 1",
+    "postalCode": "9336",
+    "city": "RUNDHAUG",
+    "url": "https://joker.no/finn-butikk/joker-rundhaug"
+  },
+  {
+    "id": "9661",
+    "name": "Joker Ruseløkka",
+    "lat": 59.91388373145773,
+    "lon": 10.72491998470808,
+    "address": "Løkkeveien 11",
+    "postalCode": "0253",
+    "city": "OSLO",
+    "url": "https://joker.no/finn-butikk/joker-ruselokka"
+  },
+  {
+    "id": "3474",
+    "name": "Joker Rustad Ullern",
+    "lat": 59.93734085811884,
+    "lon": 10.649180877875489,
+    "address": "Ostadalsveien 75",
+    "postalCode": "0753",
+    "city": "OSLO",
+    "url": "https://joker.no/finn-butikk/joker-rustad-ullern"
+  },
+  {
+    "id": "4389",
+    "name": "Joker Ryfoss",
+    "lat": 61.13818067155093,
+    "lon": 8.820330899180243,
+    "address": "Ryfossvegen 111",
+    "postalCode": "2973",
+    "city": "RYFOSS",
+    "url": "https://joker.no/finn-butikk/joker-ryfoss"
+  },
+  {
+    "id": "9062",
+    "name": "Joker Rykene",
+    "lat": 58.40951663180363,
+    "lon": 8.638987928813057,
+    "address": "Presteveien 29",
+    "postalCode": "4821",
+    "city": "RYKENE",
+    "url": "https://joker.no/finn-butikk/joker-rykene"
+  },
+  {
+    "id": "7756",
+    "name": "Joker Rælingen",
+    "lat": 59.94555690744701,
+    "lon": 11.04837987390719,
+    "address": "Nedre Rælingsvei 157",
+    "postalCode": "2005",
+    "city": "RÆLINGEN",
+    "url": "https://joker.no/finn-butikk/joker-ralingen"
+  },
+  {
+    "id": "1691",
+    "name": "Joker Røa",
+    "lat": 59.958458357747226,
+    "lon": 10.634800414447836,
+    "address": "Ekraveien 68A",
+    "postalCode": "0757",
+    "city": "OSLO",
+    "url": "https://joker.no/finn-butikk/joker-roa"
+  },
+  {
+    "id": "8149",
+    "name": "Joker Rømskog",
+    "lat": 59.74623692353761,
+    "lon": 11.808577128814262,
+    "address": "Storveien 503",
+    "postalCode": "1950",
+    "city": "RØMSKOG",
+    "url": "https://joker.no/finn-butikk/joker-romskog"
+  },
+  {
+    "id": "7638",
+    "name": "Joker Rønvik",
+    "lat": 67.29849603965856,
+    "lon": 14.404690725571307,
+    "address": "Smed Qvales vei 9",
+    "postalCode": "8012",
+    "city": "BODØ",
+    "url": "https://joker.no/finn-butikk/joker-ronvik"
+  },
+  {
+    "id": "4723",
+    "name": "Joker Røssvoll",
+    "lat": 66.35647352394116,
+    "lon": 14.321943672372335,
+    "address": "Røssvollneset 7",
+    "postalCode": "8615",
+    "city": "SKONSENG",
+    "url": "https://joker.no/finn-butikk/joker-rossvoll"
+  },
+  {
+    "id": "8106",
+    "name": "Joker Røst",
+    "lat": 67.50558944651303,
+    "lon": 12.066915596192324,
+    "address": "Gleaveien 8",
+    "postalCode": "8064",
+    "city": "RØST",
+    "url": "https://joker.no/finn-butikk/joker-rost"
+  },
+  {
+    "id": "3872",
+    "name": "Joker Røyrvik",
+    "lat": 64.88272879623595,
+    "lon": 13.559980058660289,
+    "address": "Stadionveien 11",
+    "postalCode": "7898",
+    "city": "LIMINGEN",
+    "url": "https://joker.no/finn-butikk/joker-royrvik"
+  },
+  {
+    "id": "9676",
+    "name": "Joker Sagene",
+    "lat": 59.93744731020688,
+    "lon": 10.755036476089575,
+    "address": "Dannevigsveien 7",
+    "postalCode": "0463",
+    "city": "OSLO",
+    "url": "https://joker.no/finn-butikk/joker-sagene"
+  },
+  {
+    "id": "3418",
+    "name": "Joker Samfundet",
+    "lat": 63.42240085370942,
+    "lon": 10.393652034159734,
+    "address": "Håkon Jarls gate 2",
+    "postalCode": "7030",
+    "city": "TRONDHEIM",
+    "url": "https://joker.no/finn-butikk/joker-samfundet"
+  },
+  {
+    "id": "4441",
+    "name": "Joker Sandaker",
+    "lat": 59.94168186296991,
+    "lon": 10.772295503989145,
+    "address": "Grefsenveien 9A",
+    "postalCode": "0482",
+    "city": "OSLO",
+    "url": "https://joker.no/finn-butikk/joker-sandaker"
+  },
+  {
+    "id": "2839",
+    "name": "Joker Sande",
+    "lat": 59.587412549433374,
+    "lon": 10.20812049794117,
+    "address": "Revåveien 5",
+    "postalCode": "3070",
+    "city": "SANDE I VESTFOLD",
+    "url": "https://joker.no/finn-butikk/joker-sande"
+  },
+  {
+    "id": "3149",
+    "name": "Joker Sandefjord Stasjon",
+    "lat": 59.13475069141479,
+    "lon": 10.222110074532027,
+    "address": "Jernbaneplassen 1",
+    "postalCode": "3210",
+    "city": "SANDEFJORD",
+    "url": "https://joker.no/finn-butikk/joker-sandefjord-stasjon"
+  },
+  {
+    "id": "2906",
+    "name": "Joker Sandhornøy",
+    "lat": 67.12298916372326,
+    "lon": 14.047591837705133,
+    "address": "Vågsosen 14",
+    "postalCode": "8130",
+    "city": "SANDHORNØY",
+    "url": "https://joker.no/finn-butikk/joker-sandhornoy"
+  },
+  {
+    "id": "3141",
+    "name": "Joker Sandved",
+    "lat": 58.832619579700264,
+    "lon": 5.712550668239082,
+    "address": "Juvelveien 23",
+    "postalCode": "4321",
+    "city": "SANDNES",
+    "url": "https://joker.no/finn-butikk/joker-sandved"
+  },
+  {
+    "id": "5105",
+    "name": "Joker Sandvika",
+    "lat": 59.89161754587534,
+    "lon": 10.516768929435585,
+    "address": "Elias Smiths vei 14-26",
+    "postalCode": "1337",
+    "city": "SANDVIKA",
+    "url": "https://joker.no/finn-butikk/joker-sandvika"
+  },
+  {
+    "id": "5345",
+    "name": "Joker Sandvika Stasjon",
+    "lat": 59.89234613887984,
+    "lon": 10.524770273039714,
+    "address": "Otto Sverdrups Plass 1",
+    "postalCode": "1337",
+    "city": "SANDVIKA",
+    "url": "https://joker.no/finn-butikk/joker-sandvika-stasjon"
+  },
+  {
+    "id": "842",
+    "name": "Joker Sandviken",
+    "lat": 60.402378159477124,
+    "lon": 5.328204865552216,
+    "address": "Gjeble Pederssøns gate 13",
+    "postalCode": "5034",
+    "city": "BERGEN",
+    "url": "https://joker.no/finn-butikk/joker-sandviken"
+  },
+  {
+    "id": "2336",
+    "name": "Joker Sandvikstorget",
+    "lat": 60.40841431049206,
+    "lon": 5.32290585409414,
+    "address": "Sandvikstorget 11",
+    "postalCode": "5036",
+    "city": "BERGEN",
+    "url": "https://joker.no/finn-butikk/joker-sandvikstorget"
+  },
+  {
+    "id": "2698",
+    "name": "Joker Schous Plass",
+    "lat": 59.91906451493837,
+    "lon": 10.759210956560581,
+    "address": "Thorvald Meyers gate 87A",
+    "postalCode": "0550",
+    "city": "OSLO",
+    "url": "https://joker.no/finn-butikk/joker-schous-plass"
+  },
+  {
+    "id": "2849",
+    "name": "Joker Sel",
+    "lat": 61.846782637604925,
+    "lon": 9.41712356105935,
+    "address": "Nerøygardsvegen 59",
+    "postalCode": "2672",
+    "city": "SEL",
+    "url": "https://joker.no/finn-butikk/joker-sel"
+  },
+  {
+    "id": "8085",
+    "name": "Joker Selva",
+    "lat": 63.61522025818996,
+    "lon": 9.712463577309448,
+    "address": "Selvlia 2",
+    "postalCode": "7318",
+    "city": "AGDENES",
+    "url": "https://joker.no/finn-butikk/joker-selva"
+  },
+  {
+    "id": "4397",
+    "name": "Joker Setskog",
+    "lat": 59.83001375628848,
+    "lon": 11.719679057744704,
+    "address": "Setskog Senter",
+    "postalCode": "1954",
+    "city": "SETSKOG",
+    "url": "https://joker.no/finn-butikk/joker-setskog"
+  },
+  {
+    "id": "8107",
+    "name": "Joker Sinnes",
+    "lat": 58.90769353866439,
+    "lon": 6.854927341064049,
+    "address": "Svartevatn",
+    "postalCode": "4443",
+    "city": "TJØRHOM",
+    "url": "https://joker.no/finn-butikk/joker-sinnes"
+  },
+  {
+    "id": "8547",
+    "name": "Joker Sirevåg",
+    "lat": 58.50402666590205,
+    "lon": 5.801963687755635,
+    "address": "Vågen 27",
+    "postalCode": "4364",
+    "city": "SIREVÅG",
+    "url": "https://joker.no/finn-butikk/joker-sirevag"
+  },
+  {
+    "id": "7519",
+    "name": "Joker Sjursnes",
+    "lat": 69.53200647096182,
+    "lon": 19.640189271266053,
+    "address": "",
+    "postalCode": "9030",
+    "city": "SJURSNES",
+    "url": "https://joker.no/finn-butikk/joker-sjursnes"
+  },
+  {
+    "id": "4844",
+    "name": "Joker Sjøgata",
+    "lat": 67.28539929681176,
+    "lon": 14.383571533132574,
+    "address": "Sjøgata 27",
+    "postalCode": "8006",
+    "city": "BODØ",
+    "url": "https://joker.no/finn-butikk/joker-sjogata"
+  },
+  {
+    "id": "2681",
+    "name": "Joker Skaiaa",
+    "lat": 58.38823989117607,
+    "lon": 7.909731701858909,
+    "address": "Ivelandsveien 138",
+    "postalCode": "4724",
+    "city": "IVELAND",
+    "url": "https://joker.no/finn-butikk/joker-skaiaa"
+  },
+  {
+    "id": "7577",
+    "name": "Joker Skaland",
+    "lat": 69.44455792650623,
+    "lon": 17.297776401674565,
+    "address": "Bergsfjordveien 1784",
+    "postalCode": "9385",
+    "city": "SKALAND",
+    "url": "https://joker.no/finn-butikk/joker-skaland"
+  },
+  {
+    "id": "7041",
+    "name": "Joker Skarnes",
+    "lat": 60.25567959321049,
+    "lon": 11.673486962637645,
+    "address": "Lehmanns Veg 1",
+    "postalCode": "2100",
+    "city": "SKARNES",
+    "url": "https://joker.no/finn-butikk/joker-skarnes"
+  },
+  {
+    "id": "8535",
+    "name": "Joker Skarsmo",
+    "lat": 59.935689798491225,
+    "lon": 6.58746252697923,
+    "address": "Jøsendal 7",
+    "postalCode": "5763",
+    "city": "SKARE",
+    "url": "https://joker.no/finn-butikk/joker-skarsmo"
+  },
+  {
+    "id": "6291",
+    "name": "Joker Skartveit",
+    "lat": 59.1971657406967,
+    "lon": 5.957017968221708,
+    "address": "Eikevegen 226",
+    "postalCode": "4182",
+    "city": "SKARTVEIT",
+    "url": "https://joker.no/finn-butikk/joker-skartveit"
+  },
+  {
+    "id": "2883",
+    "name": "Joker Skei i Jølster",
+    "lat": 61.57033059008292,
+    "lon": 6.482254921331809,
+    "address": "Ospene 12",
+    "postalCode": "6843",
+    "city": "SKEI I JØLSTER",
+    "url": "https://joker.no/finn-butikk/joker-skei-i-jolster"
+  },
+  {
+    "id": "9650",
+    "name": "Joker Skeikampen",
+    "lat": 61.32873804028241,
+    "lon": 10.104851316553729,
+    "address": "Kjoslia 9",
+    "postalCode": "2652",
+    "city": "SVINGVOLL",
+    "url": "https://joker.no/finn-butikk/joker-skeikampen"
+  },
+  {
+    "id": "7509",
+    "name": "Joker Skibotn",
+    "lat": 69.38866618223153,
+    "lon": 20.27359110363512,
+    "address": "Skibotsveien 13",
+    "postalCode": "9143",
+    "city": "SKIBOTN",
+    "url": "https://joker.no/finn-butikk/joker-skibotn"
+  },
+  {
+    "id": "4374",
+    "name": "Joker Skillebekk",
+    "lat": 59.91277475049161,
+    "lon": 10.70962950424026,
+    "address": "Drammensveien 62",
+    "postalCode": "0271",
+    "city": "OSLO",
+    "url": "https://joker.no/finn-butikk/joker-skillebekk"
+  },
+  {
+    "id": "4964",
+    "name": "Joker Skippergata Oslo",
+    "lat": 59.91299188260148,
+    "lon": 10.749578727129673,
+    "address": "Skippergata 35",
+    "postalCode": "0154",
+    "city": "OSLO",
+    "url": "https://joker.no/finn-butikk/joker-skippergata-oslo"
+  },
+  {
+    "id": "9520",
+    "name": "Joker Skogbygda",
+    "lat": 60.22901763442987,
+    "lon": 11.51159200668758,
+    "address": "Skogbygdaveien 512",
+    "postalCode": "2164",
+    "city": "SKOGBYGDA",
+    "url": "https://joker.no/finn-butikk/joker-skogbygda"
+  },
+  {
+    "id": "1176",
+    "name": "Joker Skolegata",
+    "lat": 60.79926797445641,
+    "lon": 11.07243210796502,
+    "address": "Skolegata 51",
+    "postalCode": "2318",
+    "city": "HAMAR",
+    "url": "https://joker.no/finn-butikk/joker-skolegata"
+  },
+  {
+    "id": "3146",
+    "name": "Joker Skårerveien",
+    "lat": 59.93331625424497,
+    "lon": 10.950038734922996,
+    "address": "Skårerveien 54A",
+    "postalCode": "1470",
+    "city": "LØRENSKOG",
+    "url": "https://joker.no/finn-butikk/joker-skarerveien"
+  },
+  {
+    "id": "4770",
+    "name": "Joker Sleneset",
+    "lat": 66.3626961381024,
+    "lon": 12.603136487404255,
+    "address": "Straumen 4",
+    "postalCode": "8762",
+    "city": "SLENESET",
+    "url": "https://joker.no/finn-butikk/joker-sleneset"
+  },
+  {
+    "id": "5585",
+    "name": "Joker Smestad",
+    "lat": 59.93717073067757,
+    "lon": 10.683267635809328,
+    "address": "Sørkedalsveien 90A",
+    "postalCode": "0377",
+    "city": "OSLO",
+    "url": "https://joker.no/finn-butikk/joker-smestad"
+  },
+  {
+    "id": "4725",
+    "name": "Joker Smøla",
+    "lat": 63.33020490732787,
+    "lon": 8.051479678817907,
+    "address": "Edøyveien 766",
+    "postalCode": "6570",
+    "city": "SMØLA",
+    "url": "https://joker.no/finn-butikk/joker-smola"
+  },
+  {
+    "id": "4803",
+    "name": "Joker Spilde",
+    "lat": 60.38343133077433,
+    "lon": 5.323382652819028,
+    "address": "THORMØHLENSGATE 28",
+    "postalCode": "5006",
+    "city": "BERGEN",
+    "url": "https://joker.no/finn-butikk/joker-spilde"
+  },
+  {
+    "id": "1345",
+    "name": "Joker Sprova",
+    "lat": 64.13534248815196,
+    "lon": 11.293814420262386,
+    "address": "Flovegen 1",
+    "postalCode": "7730",
+    "city": "BEITSTAD",
+    "url": "https://joker.no/finn-butikk/joker-sprova"
+  },
+  {
+    "id": "5684",
+    "name": "Joker St Mariegate",
+    "lat": 59.28299580714775,
+    "lon": 11.111787418060375,
+    "address": "St. Marie gate 88",
+    "postalCode": "1706",
+    "city": "SARPSBORG",
+    "url": "https://joker.no/finn-butikk/joker-st-mariegate"
+  },
+  {
+    "id": "3854",
+    "name": "Joker Stabekk",
+    "lat": 59.90685829804081,
+    "lon": 10.61106284794156,
+    "address": "Professor Kohts vei 84A",
+    "postalCode": "1368",
+    "city": "STABEKK",
+    "url": "https://joker.no/finn-butikk/joker-stabekk"
+  },
+  {
+    "id": "638",
+    "name": "Joker Stadlandet",
+    "lat": 62.16059275844466,
+    "lon": 5.180412020938304,
+    "address": "Refsnes",
+    "postalCode": "6750",
+    "city": "STADLANDET",
+    "url": "https://joker.no/finn-butikk/joker-stadlandet"
+  },
+  {
+    "id": "7737",
+    "name": "Joker Stamnes",
+    "lat": 60.66412068001934,
+    "lon": 5.748140282934377,
+    "address": "Eidslandsvegen 1045",
+    "postalCode": "5727",
+    "city": "STAMNES",
+    "url": "https://joker.no/finn-butikk/joker-stamnes"
+  },
+  {
+    "id": "6922",
+    "name": "Joker Stamsund",
+    "lat": 68.13033958044238,
+    "lon": 13.849149357507278,
+    "address": "J.M. Johansens vei 149",
+    "postalCode": "8340",
+    "city": "STAMSUND",
+    "url": "https://joker.no/finn-butikk/joker-stamsund"
+  },
+  {
+    "id": "4452",
+    "name": "Joker Starveien",
+    "lat": 59.94476920794092,
+    "lon": 10.936489391672456,
+    "address": "STARVEIEN 6",
+    "postalCode": "1088",
+    "city": "OSLO",
+    "url": "https://joker.no/finn-butikk/joker-starveien"
+  },
+  {
+    "id": "9674",
+    "name": "Joker Stoksund",
+    "lat": 64.03850542607152,
+    "lon": 10.055541794640899,
+    "address": "Stokksundveien 1325",
+    "postalCode": "7177",
+    "city": "REVSNES",
+    "url": "https://joker.no/finn-butikk/joker-stoksund"
+  },
+  {
+    "id": "605",
+    "name": "Joker Stolmen",
+    "lat": 59.98790303198281,
+    "lon": 5.080956677722772,
+    "address": "Årland 124",
+    "postalCode": "5398",
+    "city": "STOLMEN",
+    "url": "https://joker.no/finn-butikk/joker-stolmen"
+  },
+  {
+    "id": "7557",
+    "name": "Joker Stonglandseidet",
+    "lat": 69.08397542397287,
+    "lon": 17.171911152006174,
+    "address": "Skrolsvikveien 7",
+    "postalCode": "9392",
+    "city": "STONGLANDSEIDET",
+    "url": "https://joker.no/finn-butikk/joker-stonglandseidet"
+  },
+  {
+    "id": "8589",
+    "name": "Joker Stordal",
+    "lat": 62.382208493206114,
+    "lon": 6.99318384065134,
+    "address": "Stordal",
+    "postalCode": "6250",
+    "city": "STORDAL",
+    "url": "https://joker.no/finn-butikk/joker-stordal"
+  },
+  {
+    "id": "4642",
+    "name": "Joker Storgatbakken",
+    "lat": 69.65409160585702,
+    "lon": 18.96036056321983,
+    "address": "Storgata 132",
+    "postalCode": "9008",
+    "city": "TROMSØ",
+    "url": "https://joker.no/finn-butikk/joker-storgatbakken"
+  },
+  {
+    "id": "1875",
+    "name": "Joker Storjord",
+    "lat": 68.19359440984616,
+    "lon": 16.028642466918097,
+    "address": "Storjord",
+    "postalCode": "8275",
+    "city": "STORJORD I TYSFJORD",
+    "url": "https://joker.no/finn-butikk/joker-storjord"
+  },
+  {
+    "id": "729",
+    "name": "Joker Strandvik",
+    "lat": 60.15818343957312,
+    "lon": 5.665310452518195,
+    "address": "Strandvikvegen 559",
+    "postalCode": "5643",
+    "city": "STRANDVIK",
+    "url": "https://joker.no/finn-butikk/joker-strandvik"
+  },
+  {
+    "id": "7809",
+    "name": "Joker Strømmen",
+    "lat": 59.95747209850438,
+    "lon": 11.01710494939676,
+    "address": "Skjettenveien 2A",
+    "postalCode": "1466",
+    "city": "STRØMMEN",
+    "url": "https://joker.no/finn-butikk/joker-strommen"
+  },
+  {
+    "id": "3233",
+    "name": "Joker Stugudal",
+    "lat": 62.913432598683414,
+    "lon": 11.888983814401255,
+    "address": "Stugudalsveien 2031",
+    "postalCode": "7590",
+    "city": "TYDAL",
+    "url": "https://joker.no/finn-butikk/joker-stugudal"
+  },
+  {
+    "id": "4197",
+    "name": "Joker Suldalsosen",
+    "lat": 59.491360647388795,
+    "lon": 6.514006014003893,
+    "address": "Suldalsvegen 1617",
+    "postalCode": "4237",
+    "city": "SULDALSOSEN",
+    "url": "https://joker.no/finn-butikk/joker-suldalsosen"
+  },
+  {
+    "id": "9611",
+    "name": "Joker Svarttjern",
+    "lat": 59.9692173153108,
+    "lon": 10.902628741591366,
+    "address": "Odvar Solbergsvei 150",
+    "postalCode": "0973",
+    "city": "OSLO",
+    "url": "https://joker.no/finn-butikk/joker-svarttjern"
+  },
+  {
+    "id": "2286",
+    "name": "Joker Svinndal",
+    "lat": 59.42494149266134,
+    "lon": 11.010249689175648,
+    "address": "Svinndalveien 14",
+    "postalCode": "1593",
+    "city": "SVINNDAL",
+    "url": "https://joker.no/finn-butikk/joker-svinndal"
+  },
+  {
+    "id": "8002",
+    "name": "Joker Sæbø",
+    "lat": 62.20934662895807,
+    "lon": 6.475203120752911,
+    "address": "Øyragata 38",
+    "postalCode": "6165",
+    "city": "SÆBØ",
+    "url": "https://joker.no/finn-butikk/joker-sabo"
+  },
+  {
+    "id": "2290",
+    "name": "Joker Søfteland",
+    "lat": 60.238228791670174,
+    "lon": 5.44205426615486,
+    "address": "Søfteland",
+    "postalCode": "5207",
+    "city": "SØFTELAND",
+    "url": "https://joker.no/finn-butikk/joker-softeland"
+  },
+  {
+    "id": "8018",
+    "name": "Joker Sørvågen",
+    "lat": 67.89159507364982,
+    "lon": 13.026282354495768,
+    "address": "Moskenesveien 865",
+    "postalCode": "8392",
+    "city": "SØRVÅGEN",
+    "url": "https://joker.no/finn-butikk/joker-sorvagen"
+  },
+  {
+    "id": "7513",
+    "name": "Joker Sørvær",
+    "lat": 70.62993795909169,
+    "lon": 21.981590944382564,
+    "address": "Havnveien 9",
+    "postalCode": "9595",
+    "city": "SØRVÆR",
+    "url": "https://joker.no/finn-butikk/joker-sorvar"
+  },
+  {
+    "id": "7225",
+    "name": "Joker Tananger",
+    "lat": 58.926769729508955,
+    "lon": 5.613485995437102,
+    "address": "Snødeveien 1",
+    "postalCode": "4056",
+    "city": "TANANGER",
+    "url": "https://joker.no/finn-butikk/joker-tananger"
+  },
+  {
+    "id": "1917",
+    "name": "Joker Teisen",
+    "lat": 59.91639204249644,
+    "lon": 10.820299929154444,
+    "address": "Teisenveien 18",
+    "postalCode": "0664",
+    "city": "OSLO",
+    "url": "https://joker.no/finn-butikk/joker-teisen"
+  },
+  {
+    "id": "9647",
+    "name": "Joker Theresesgate",
+    "lat": 59.931309766000645,
+    "lon": 10.73357823620852,
+    "address": "Theresesgate 7",
+    "postalCode": "0358",
+    "city": "OSLO",
+    "url": "https://joker.no/finn-butikk/joker-theresesgate"
+  },
+  {
+    "id": "2880",
+    "name": "Joker Tiedemannsbyen",
+    "lat": 59.9175825483355,
+    "lon": 10.78721220731162,
+    "address": "Sigurd Hoelsvei 41/43",
+    "postalCode": "0655",
+    "city": "OSLO",
+    "url": "https://joker.no/finn-butikk/joker-tiedemannsbyen"
+  },
+  {
+    "id": "7065",
+    "name": "Joker Tingnes",
+    "lat": 60.76250780365329,
+    "lon": 10.940249461316695,
+    "address": "Tingnesvegen 792",
+    "postalCode": "2350",
+    "city": "NES PÅ HEDMARKEN",
+    "url": "https://joker.no/finn-butikk/joker-tingnes"
+  },
+  {
+    "id": "9189",
+    "name": "Joker Tingvatn",
+    "lat": 58.375085081776774,
+    "lon": 7.222532054746046,
+    "address": "",
+    "postalCode": "4595",
+    "city": "TINGVATN",
+    "url": "https://joker.no/finn-butikk/joker-tingvatn"
+  },
+  {
+    "id": "1330",
+    "name": "Joker Tingvoll",
+    "lat": 62.91168734596028,
+    "lon": 8.205786845505013,
+    "address": "Vågavegen 53",
+    "postalCode": "6630",
+    "city": "TINGVOLL",
+    "url": "https://joker.no/finn-butikk/joker-tingvoll"
+  },
+  {
+    "id": "9002",
+    "name": "Joker Tinnheia",
+    "lat": 58.14522564862987,
+    "lon": 7.96484433335316,
+    "address": "Tinnheiv 8",
+    "postalCode": "4629",
+    "city": "KRISTIANSAND S",
+    "url": "https://joker.no/finn-butikk/joker-tinnheia"
+  },
+  {
+    "id": "4199",
+    "name": "Joker Tjuvholmen",
+    "lat": 59.907879420164754,
+    "lon": 10.723165285007852,
+    "address": "Strandpromenaden 9",
+    "postalCode": "0252",
+    "city": "OSLO",
+    "url": "https://joker.no/finn-butikk/joker-tjuvholmen"
+  },
+  {
+    "id": "9499",
+    "name": "Joker Tjøtta",
+    "lat": 65.82292531309524,
+    "lon": 12.428139150658259,
+    "address": "Nordsjøveien 2",
+    "postalCode": "8860",
+    "city": "TJØTTA",
+    "url": "https://joker.no/finn-butikk/joker-tjotta"
+  },
+  {
+    "id": "7692",
+    "name": "Joker Toftes Gate",
+    "lat": 59.929476769233595,
+    "lon": 10.76125008143004,
+    "address": "Toftes gate 12",
+    "postalCode": "0556",
+    "city": "OSLO",
+    "url": "https://joker.no/finn-butikk/joker-toftes-gate"
+  },
+  {
+    "id": "8509",
+    "name": "Joker Tomrefjord",
+    "lat": 62.58234402263019,
+    "lon": 6.931160318287727,
+    "address": "Fjordvegen 445",
+    "postalCode": "6393",
+    "city": "TOMREFJORD",
+    "url": "https://joker.no/finn-butikk/joker-tomrefjord"
+  },
+  {
+    "id": "4690",
+    "name": "Joker Tomta",
+    "lat": 59.13134223000303,
+    "lon": 10.218789836622474,
+    "address": "Aagaardsplass 4",
+    "postalCode": "3211",
+    "city": "SANDEFJORD",
+    "url": "https://joker.no/finn-butikk/joker-tomta"
+  },
+  {
+    "id": "5279",
+    "name": "Joker Toppenhaug",
+    "lat": 59.74690788557483,
+    "lon": 10.217983429313316,
+    "address": "Tord Pedersens gate 5",
+    "postalCode": "3014",
+    "city": "DRAMMEN",
+    "url": "https://joker.no/finn-butikk/joker-toppenhaug"
+  },
+  {
+    "id": "7180",
+    "name": "Joker Torpa",
+    "lat": 60.9997375334795,
+    "lon": 10.016957780615726,
+    "address": "NORD-TORPVEGEN 457",
+    "postalCode": "2880",
+    "city": "NORD-TORPA",
+    "url": "https://joker.no/finn-butikk/joker-torpa"
+  },
+  {
+    "id": "716",
+    "name": "Joker Torpo",
+    "lat": 60.664614359501314,
+    "lon": 8.711919140059459,
+    "address": "Torpovegen 489",
+    "postalCode": "3579",
+    "city": "TORPO",
+    "url": "https://joker.no/finn-butikk/joker-torpo"
+  },
+  {
+    "id": "9536",
+    "name": "Joker Torshov",
+    "lat": 59.93559120822781,
+    "lon": 10.775664731524852,
+    "address": "Nordkappgata 36",
+    "postalCode": "0479",
+    "city": "OSLO",
+    "url": "https://joker.no/finn-butikk/joker-torshov"
+  },
+  {
+    "id": "4379",
+    "name": "Joker Torvet Halden",
+    "lat": 59.1195600172665,
+    "lon": 11.386646283294542,
+    "address": "Storgata 2B",
+    "postalCode": "1767",
+    "city": "HALDEN",
+    "url": "https://joker.no/finn-butikk/joker-torvet-halden"
+  },
+  {
+    "id": "8565",
+    "name": "Joker Torvikbukt",
+    "lat": 62.9431615644106,
+    "lon": 7.856727231608111,
+    "address": "Torvikvegen 5",
+    "postalCode": "6639",
+    "city": "TORVIKBUKT",
+    "url": "https://joker.no/finn-butikk/joker-torvikbukt"
+  },
+  {
+    "id": "5673",
+    "name": "Joker Tretten",
+    "lat": 61.31827974823504,
+    "lon": 10.300601716567176,
+    "address": "Kongsvegen 1609",
+    "postalCode": "2635",
+    "city": "TRETTEN",
+    "url": "https://joker.no/finn-butikk/joker-tretten"
+  },
+  {
+    "id": "2335",
+    "name": "Joker Trondheimsveien",
+    "lat": 59.920261259520856,
+    "lon": 10.766867172326267,
+    "address": "Trondheimsveien 26A",
+    "postalCode": "0560",
+    "city": "OSLO",
+    "url": "https://joker.no/finn-butikk/joker-trondheimsveien"
+  },
+  {
+    "id": "9040",
+    "name": "Joker Trosby",
+    "lat": 58.95780716799079,
+    "lon": 9.618560748905207,
+    "address": "Kjønnøyaveien 7",
+    "postalCode": "3967",
+    "city": "STATHELLE",
+    "url": "https://joker.no/finn-butikk/joker-trosby"
+  },
+  {
+    "id": "4728",
+    "name": "Joker Træna",
+    "lat": 66.50116903026058,
+    "lon": 12.101401289033662,
+    "address": "Janesvågen 6",
+    "postalCode": "8770",
+    "city": "TRÆNA",
+    "url": "https://joker.no/finn-butikk/joker-trana"
+  },
+  {
+    "id": "5300",
+    "name": "Joker Tuddal",
+    "lat": 59.75498998870069,
+    "lon": 8.791085533504367,
+    "address": "Tuddalsvegen 2132",
+    "postalCode": "3697",
+    "city": "TUDDAL",
+    "url": "https://joker.no/finn-butikk/joker-tuddal"
+  },
+  {
+    "id": "1189",
+    "name": "Joker Tunhovd",
+    "lat": 60.46141499877518,
+    "lon": 8.759287202407629,
+    "address": "Tunhovdvegen 2155",
+    "postalCode": "3544",
+    "city": "TUNHOVD",
+    "url": "https://joker.no/finn-butikk/joker-tunhovd"
+  },
+  {
+    "id": "5234",
+    "name": "Joker Tvedestrand",
+    "lat": 58.624374168264794,
+    "lon": 8.927842535989667,
+    "address": "Tjennaveien 13",
+    "postalCode": "4900",
+    "city": "TVEDESTRAND",
+    "url": "https://joker.no/finn-butikk/joker-tvedestrand"
+  },
+  {
+    "id": "7712",
+    "name": "Joker Tveit",
+    "lat": 58.232670647656725,
+    "lon": 8.122543744761423,
+    "address": "Topdalsveien 267",
+    "postalCode": "4658",
+    "city": "TVEIT",
+    "url": "https://joker.no/finn-butikk/joker-tveit"
+  },
+  {
+    "id": "7538",
+    "name": "Joker Tverrelvdalen",
+    "lat": 69.93263460344592,
+    "lon": 23.429777037175533,
+    "address": "Tverrelvdalen 92",
+    "postalCode": "9537",
+    "city": "TVERRELVDALEN",
+    "url": "https://joker.no/finn-butikk/joker-tverrelvdalen"
+  },
+  {
+    "id": "4187",
+    "name": "Joker Tyinkrysset",
+    "lat": 61.204052082793396,
+    "lon": 8.246200571087822,
+    "address": "Tørisveien 2",
+    "postalCode": "2985",
+    "city": "TYINKRYSSET",
+    "url": "https://joker.no/finn-butikk/joker-tyinkrysset"
+  },
+  {
+    "id": "5521",
+    "name": "Joker Tørdal",
+    "lat": 59.15109727448224,
+    "lon": 8.81270851348779,
+    "address": "Tørdalsveien 1906",
+    "postalCode": "3753",
+    "city": "TØRDAL",
+    "url": "https://joker.no/finn-butikk/joker-tordal"
+  },
+  {
+    "id": "1194",
+    "name": "Joker Uggdal",
+    "lat": 59.99877722813545,
+    "lon": 5.496376122211205,
+    "address": "Tomyro 1",
+    "postalCode": "5685",
+    "city": "UGGDAL",
+    "url": "https://joker.no/finn-butikk/joker-uggdal"
+  },
+  {
+    "id": "5113",
+    "name": "Joker Ullern",
+    "lat": 59.93021312965754,
+    "lon": 10.656109001120365,
+    "address": "Silurveien 12",
+    "postalCode": "0380",
+    "city": "OSLO",
+    "url": "https://joker.no/finn-butikk/joker-ullern"
+  },
+  {
+    "id": "2252",
+    "name": "Joker Ulvøya",
+    "lat": 59.87024867742377,
+    "lon": 10.772699763920189,
+    "address": "Vargveien 16",
+    "postalCode": "0139",
+    "city": "OSLO",
+    "url": "https://joker.no/finn-butikk/joker-ulvoya"
+  },
+  {
+    "id": "2695",
+    "name": "Joker Urtegata",
+    "lat": 59.9150391660176,
+    "lon": 10.764442514905841,
+    "address": "Urtegata 20",
+    "postalCode": "0187",
+    "city": "OSLO",
+    "url": "https://joker.no/finn-butikk/joker-urtegata"
+  },
+  {
+    "id": "6300",
+    "name": "Joker Ustaoset",
+    "lat": 60.498999245675456,
+    "lon": 8.042003947349714,
+    "address": "Nystølveien 1",
+    "postalCode": "3593",
+    "city": "USTAOSET",
+    "url": "https://joker.no/finn-butikk/joker-ustaoset"
+  },
+  {
+    "id": "728",
+    "name": "Joker Utne",
+    "lat": 60.423995537781025,
+    "lon": 6.6211772284368555,
+    "address": "Museumsvegen 8",
+    "postalCode": "5779",
+    "city": "UTNE",
+    "url": "https://joker.no/finn-butikk/joker-utne"
+  },
+  {
+    "id": "4194",
+    "name": "Joker Utsira",
+    "lat": 59.29884417021225,
+    "lon": 4.891401480376306,
+    "address": "Utsira",
+    "postalCode": "5547",
+    "city": "UTSIRA",
+    "url": "https://joker.no/finn-butikk/joker-utsira"
+  },
+  {
+    "id": "4935",
+    "name": "Joker Utskarpen",
+    "lat": 66.29608043410212,
+    "lon": 13.550754777979204,
+    "address": "Nesnaveien 1400",
+    "postalCode": "8725",
+    "city": "UTSKARPEN",
+    "url": "https://joker.no/finn-butikk/joker-utskarpen"
+  },
+  {
+    "id": "532",
+    "name": "Joker Utvik",
+    "lat": 61.80689623803002,
+    "lon": 6.519011515458921,
+    "address": "Utvik",
+    "postalCode": "6797",
+    "city": "UTVIK",
+    "url": "https://joker.no/finn-butikk/joker-utvik"
+  },
+  {
+    "id": "889",
+    "name": "Joker Vadheim",
+    "lat": 61.20868518275779,
+    "lon": 5.824162463911035,
+    "address": "St Helenas Plass 9",
+    "postalCode": "6996",
+    "city": "VADHEIM",
+    "url": "https://joker.no/finn-butikk/joker-vadheim"
+  },
+  {
+    "id": "4353",
+    "name": "Joker Vadsø",
+    "lat": 70.07479696781184,
+    "lon": 29.781298980674357,
+    "address": "Oscarsgate 84",
+    "postalCode": "9800",
+    "city": "VADSØ",
+    "url": "https://joker.no/finn-butikk/joker-vadso"
+  },
+  {
+    "id": "2934",
+    "name": "Joker Vakås",
+    "lat": 59.84968058546972,
+    "lon": 10.465691315490183,
+    "address": "Jacob Neumanns Vei 2",
+    "postalCode": "1384",
+    "city": "ASKER",
+    "url": "https://joker.no/finn-butikk/joker-vakas"
+  },
+  {
+    "id": "8128",
+    "name": "Joker Valle",
+    "lat": 59.21233901650284,
+    "lon": 7.533533920751115,
+    "address": "Kjellebergsvegen 1",
+    "postalCode": "4747",
+    "city": "VALLE",
+    "url": "https://joker.no/finn-butikk/joker-valle"
+  },
+  {
+    "id": "7230",
+    "name": "Joker Vallset",
+    "lat": 60.684353604185624,
+    "lon": 11.34436725753573,
+    "address": "Skalbergvegen 2",
+    "postalCode": "2330",
+    "city": "VALLSET",
+    "url": "https://joker.no/finn-butikk/joker-vallset"
+  },
+  {
+    "id": "7566",
+    "name": "Joker Vannareid",
+    "lat": 70.20016691814415,
+    "lon": 19.61064164203909,
+    "address": "Skoleveien 26",
+    "postalCode": "9136",
+    "city": "VANNAREID",
+    "url": "https://joker.no/finn-butikk/joker-vannareid"
+  },
+  {
+    "id": "9669",
+    "name": "Joker Vannvåg",
+    "lat": 70.07199843058629,
+    "lon": 19.99751165155249,
+    "address": "Nord- Fugløyveien 769",
+    "postalCode": "9135",
+    "city": "VANNVÅG",
+    "url": "https://joker.no/finn-butikk/joker-vannvag"
+  },
+  {
+    "id": "7155",
+    "name": "Joker Vaset",
+    "lat": 60.9959902949912,
+    "lon": 8.988891874150436,
+    "address": "Panoramaveien 901",
+    "postalCode": "2960",
+    "city": "RØN",
+    "url": "https://joker.no/finn-butikk/joker-vaset"
+  },
+  {
+    "id": "5313",
+    "name": "Joker Vassøy",
+    "lat": 58.99851090139959,
+    "lon": 5.784646899435637,
+    "address": "Sørstrandveien 10",
+    "postalCode": "4076",
+    "city": "VASSØY",
+    "url": "https://joker.no/finn-butikk/joker-vassoy"
+  },
+  {
+    "id": "922",
+    "name": "Joker Vatlandsvåg",
+    "lat": 59.41017341209364,
+    "lon": 6.018078957498812,
+    "address": "Vatlandsvågen 19",
+    "postalCode": "4235",
+    "city": "HEBNES",
+    "url": "https://joker.no/finn-butikk/joker-vatlandsvag"
+  },
+  {
+    "id": "7783",
+    "name": "Joker Vatne",
+    "lat": 62.55959415911256,
+    "lon": 6.617194482464606,
+    "address": "Vatnefjordvegen 16",
+    "postalCode": "6265",
+    "city": "VATNE",
+    "url": "https://joker.no/finn-butikk/joker-vatne"
+  },
+  {
+    "id": "9154",
+    "name": "Joker Vatnestrøm",
+    "lat": 58.41877325512215,
+    "lon": 8.059714362559935,
+    "address": "Vatnestrømveien 87",
+    "postalCode": "4730",
+    "city": "VATNESTRØM",
+    "url": "https://joker.no/finn-butikk/joker-vatnestrom"
+  },
+  {
+    "id": "962",
+    "name": "Joker Vats",
+    "lat": 59.530133214991245,
+    "lon": 5.688371635583034,
+    "address": "Saudavegen 7480",
+    "postalCode": "5576",
+    "city": "ØVRE VATS",
+    "url": "https://joker.no/finn-butikk/joker-vats"
+  },
+  {
+    "id": "9137",
+    "name": "Joker Vennesla",
+    "lat": 58.282398175784905,
+    "lon": 7.975609194109771,
+    "address": "Ludeflaten",
+    "postalCode": "4700",
+    "city": "VENNESLA",
+    "url": "https://joker.no/finn-butikk/joker-vennesla"
+  },
+  {
+    "id": "8097",
+    "name": "Joker Vestbyen",
+    "lat": 67.27709001323511,
+    "lon": 14.368579670418642,
+    "address": "Hernesveien 12",
+    "postalCode": "8003",
+    "city": "BODØ",
+    "url": "https://joker.no/finn-butikk/joker-vestbyen"
+  },
+  {
+    "id": "5511",
+    "name": "Joker Vestkanten",
+    "lat": 60.36322002383177,
+    "lon": 5.23360086077686,
+    "address": "Loddefjordveien 2",
+    "postalCode": "5171",
+    "city": "LODDEFJORD",
+    "url": "https://joker.no/finn-butikk/joker-vestkanten"
+  },
+  {
+    "id": "4552",
+    "name": "Joker Vestparken",
+    "lat": 59.92057233089441,
+    "lon": 10.949226637817446,
+    "address": "Ola Hegerbergsgate 14",
+    "postalCode": "1476",
+    "city": "RASTA",
+    "url": "https://joker.no/finn-butikk/joker-vestparken"
+  },
+  {
+    "id": "4382",
+    "name": "Joker Vestsmøla",
+    "lat": 63.420681464021584,
+    "lon": 7.827906114089784,
+    "address": "Vestsideveien 2453",
+    "postalCode": "6570",
+    "city": "SMØLA",
+    "url": "https://joker.no/finn-butikk/joker-vestsmola"
+  },
+  {
+    "id": "9172",
+    "name": "Joker Vik",
+    "lat": 58.36862570649272,
+    "lon": 8.624137385023632,
+    "address": "Temseveien 2",
+    "postalCode": "4885",
+    "city": "GRIMSTAD",
+    "url": "https://joker.no/finn-butikk/joker-vik"
+  },
+  {
+    "id": "8587",
+    "name": "Joker Vikane",
+    "lat": 62.55819234334647,
+    "lon": 6.069657883405282,
+    "address": "Vikevegen 22",
+    "postalCode": "6040",
+    "city": "VIGRA",
+    "url": "https://joker.no/finn-butikk/joker-vikane"
+  },
+  {
+    "id": "9582",
+    "name": "Joker Vikane Gressvik",
+    "lat": 59.2174694623784,
+    "lon": 10.790909668117486,
+    "address": "Vikaneveien 435",
+    "postalCode": "1621",
+    "city": "GRESSVIK",
+    "url": "https://joker.no/finn-butikk/joker-vikane-gressvik"
+  },
+  {
+    "id": "698",
+    "name": "Joker Vikebygd",
+    "lat": 59.594297590288335,
+    "lon": 5.590511343006453,
+    "address": "Vikevegen 1210",
+    "postalCode": "5568",
+    "city": "VIKEBYGD",
+    "url": "https://joker.no/finn-butikk/joker-vikebygd"
+  },
+  {
+    "id": "933",
+    "name": "Joker Vikedal",
+    "lat": 59.49803443548276,
+    "lon": 5.902391397089284,
+    "address": "Holmen 2",
+    "postalCode": "5583",
+    "city": "VIKEDAL",
+    "url": "https://joker.no/finn-butikk/joker-vikedal"
+  },
+  {
+    "id": "536",
+    "name": "Joker Viksdalen",
+    "lat": 61.34962658898226,
+    "lon": 6.119032454732952,
+    "address": "Viksdalen",
+    "postalCode": "6978",
+    "city": "VIKSDALEN",
+    "url": "https://joker.no/finn-butikk/joker-viksdalen"
+  },
+  {
+    "id": "5023",
+    "name": "Joker Visperud",
+    "lat": 59.9337933526416,
+    "lon": 10.938380543845431,
+    "address": "Solheimveien 29",
+    "postalCode": "1461",
+    "city": "LØRENSKOG",
+    "url": "https://joker.no/finn-butikk/joker-visperud"
+  },
+  {
+    "id": "4361",
+    "name": "Joker Vossestrand",
+    "lat": 60.79221008097827,
+    "lon": 6.509157887449431,
+    "address": "Myrkdalsvegen 3",
+    "postalCode": "5713",
+    "city": "VOSSESTRAND",
+    "url": "https://joker.no/finn-butikk/joker-vossestrand"
+  },
+  {
+    "id": "7694",
+    "name": "Joker Vrådal",
+    "lat": 59.325687703263014,
+    "lon": 8.484415465963282,
+    "address": "Vråliosvegen 50",
+    "postalCode": "3853",
+    "city": "VRÅDAL",
+    "url": "https://joker.no/finn-butikk/joker-vradal"
+  },
+  {
+    "id": "4371",
+    "name": "Joker Våg",
+    "lat": 67.92628666948464,
+    "lon": 15.011641060854236,
+    "address": "Prestegårdsveien 1",
+    "postalCode": "8289",
+    "city": "ENGELØYA",
+    "url": "https://joker.no/finn-butikk/joker-vag"
+  },
+  {
+    "id": "2678",
+    "name": "Joker Vækerøveien",
+    "lat": 59.941469059058505,
+    "lon": 10.641670789857454,
+    "address": "Vækerøveien 167A",
+    "postalCode": "0751",
+    "city": "OSLO",
+    "url": "https://joker.no/finn-butikk/joker-vakeroveien"
+  },
+  {
+    "id": "891",
+    "name": "Joker Værlandet",
+    "lat": 61.3042616051574,
+    "lon": 4.739404736763168,
+    "address": "Nordsjøvegen 1",
+    "postalCode": "6986",
+    "city": "VÆRLANDET",
+    "url": "https://joker.no/finn-butikk/joker-varlandet"
+  },
+  {
+    "id": "9033",
+    "name": "Joker Westgaard",
+    "lat": 58.79209549371511,
+    "lon": 9.37246969291666,
+    "address": "Ole Halvorsensvei 914",
+    "postalCode": "3788",
+    "city": "STABBESTAD",
+    "url": "https://joker.no/finn-butikk/joker-westgaard"
+  },
+  {
+    "id": "3914",
+    "name": "Joker Ytre Vågsbygd",
+    "lat": 58.10957720155515,
+    "lon": 7.967687012444885,
+    "address": "Vågsbygdveien 79 H",
+    "postalCode": "4623",
+    "city": "KRISTIANSAND S",
+    "url": "https://joker.no/finn-butikk/joker-ytre-vagsbygd"
+  },
+  {
+    "id": "5311",
+    "name": "Joker Åfarnes",
+    "lat": 62.661208899493886,
+    "lon": 7.501457652427537,
+    "address": "Gamle Åfarnesveg 191",
+    "postalCode": "6360",
+    "city": "ÅFARNES",
+    "url": "https://joker.no/finn-butikk/joker-afarnes"
+  },
+  {
+    "id": "4615",
+    "name": "Joker Åheim",
+    "lat": 62.0365777982926,
+    "lon": 5.5295208710329335,
+    "address": "St. Jetmund-vegen 9",
+    "postalCode": "6146",
+    "city": "ÅHEIM",
+    "url": "https://joker.no/finn-butikk/joker-aheim"
+  },
+  {
+    "id": "3873",
+    "name": "Joker Åkrafjorden",
+    "lat": 59.80330527765999,
+    "lon": 6.213530650458852,
+    "address": "Åkrafjordvegen 1105",
+    "postalCode": "5596",
+    "city": "MARKHUS",
+    "url": "https://joker.no/finn-butikk/joker-akrafjorden"
+  },
+  {
+    "id": "4305",
+    "name": "Joker Ålvundfjord",
+    "lat": 62.85162381544458,
+    "lon": 8.520687325373341,
+    "address": "Ålvundfjordvegen 225",
+    "postalCode": "6622",
+    "city": "ÅLVUNDFJORD",
+    "url": "https://joker.no/finn-butikk/joker-alvundfjord"
+  },
+  {
+    "id": "9659",
+    "name": "Joker Åmli",
+    "lat": 58.76964104686672,
+    "lon": 8.486584901388374,
+    "address": "Gata 50",
+    "postalCode": "4865",
+    "city": "ÅMLI",
+    "url": "https://joker.no/finn-butikk/joker-amli"
+  },
+  {
+    "id": "9019",
+    "name": "Joker Åna-Sira",
+    "lat": 58.293800632423434,
+    "lon": 6.439619873723435,
+    "address": "Åna siraveien 5",
+    "postalCode": "4420",
+    "city": "ÅNA-SIRA",
+    "url": "https://joker.no/finn-butikk/joker-ana-sira"
+  },
+  {
+    "id": "643",
+    "name": "Joker Åram",
+    "lat": 62.17387030574319,
+    "lon": 5.441293050037946,
+    "address": "Hakallestranda 443",
+    "postalCode": "6149",
+    "city": "ÅRAM",
+    "url": "https://joker.no/finn-butikk/joker-aram"
+  },
+  {
+    "id": "5299",
+    "name": "Joker Åsbygda",
+    "lat": 60.73962884189777,
+    "lon": 11.363651244180266,
+    "address": "Storvegen 4",
+    "postalCode": "2332",
+    "city": "ÅSVANG",
+    "url": "https://joker.no/finn-butikk/joker-asbygda"
+  },
+  {
+    "id": "7087",
+    "name": "Joker Åsgårdstrand",
+    "lat": 59.34829351099657,
+    "lon": 10.4696796107048,
+    "address": "Bakkegt. 8",
+    "postalCode": "3179",
+    "city": "ÅSGÅRDSTRAND",
+    "url": "https://joker.no/finn-butikk/joker-asgardstrand"
+  },
+  {
+    "id": "8619",
+    "name": "Joker Ølve",
+    "lat": 60.00982934096123,
+    "lon": 5.805965301773628,
+    "address": "Ølvesvegen 523",
+    "postalCode": "5637",
+    "city": "ØLVE",
+    "url": "https://joker.no/finn-butikk/joker-olve"
+  },
+  {
+    "id": "5282",
+    "name": "Joker Øyslebø",
+    "lat": 58.1688135992036,
+    "lon": 7.55087330681387,
+    "address": "Marnarveien 1687",
+    "postalCode": "4532",
+    "city": "ØYSLEBØ",
+    "url": "https://joker.no/finn-butikk/joker-oyslebo"
+  }
+]

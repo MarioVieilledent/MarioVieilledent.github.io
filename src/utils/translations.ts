@@ -71,6 +71,8 @@ export const translations = {
     "图层",
     "Plasti",
   ],
+  points: ["Points", "Points", "Punti", "Puntos", "Punkter", "Noktalar", "Σημεία", "ポイント", "地点", "Točke"],
+  shops: ["Shops", "Magasins", "Negozi", "Tiendas", "Butikker", "Mağazalar", "Καταστήματα", "店舗", "商店", "Trgovine"],
   clearLayers: [
     "Clear layers",
     "Effacer les couches",

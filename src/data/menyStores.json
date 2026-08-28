@@ -1,0 +1,1832 @@
+[
+  {
+    "id": "5601",
+    "name": "CC Mat Gjøvik",
+    "lat": 60.79999068471155,
+    "lon": 10.693634798495285,
+    "address": "Jernbanesvingen 6",
+    "postalCode": "2821",
+    "city": "GJØVIK",
+    "url": "https://meny.no/finn-butikk/cc-mat-gjovik"
+  },
+  {
+    "id": "5603",
+    "name": "CC Mat Hamar",
+    "lat": 60.795434632129485,
+    "lon": 11.079025478267395,
+    "address": "Vangsvegen 62",
+    "postalCode": "2317",
+    "city": "HAMAR",
+    "url": "https://meny.no/finn-butikk/cc-mat-hamar"
+  },
+  {
+    "id": "5602",
+    "name": "CC Mat Lillehammer",
+    "lat": 61.114116516558674,
+    "lon": 10.453464150681109,
+    "address": "Sliperiveien 2",
+    "postalCode": "2609",
+    "city": "LILLEHAMMER",
+    "url": "https://meny.no/finn-butikk/cc-mat-lillehammer"
+  },
+  {
+    "id": "3823",
+    "name": "Helgø MENY Bogafjell",
+    "lat": 58.82103306773176,
+    "lon": 5.753264562621083,
+    "address": "Bogafjellveien 65",
+    "postalCode": "4324",
+    "city": "SANDNES",
+    "url": "https://meny.no/finn-butikk/helgo-meny-bogafjell"
+  },
+  {
+    "id": "2220",
+    "name": "Helgø MENY Herbarium",
+    "lat": 58.969865625549815,
+    "lon": 5.728282479296813,
+    "address": "Lars Hertervigs gate 6",
+    "postalCode": "4005",
+    "city": "STAVANGER",
+    "url": "https://meny.no/finn-butikk/helgo-meny-herbarium"
+  },
+  {
+    "id": "1541",
+    "name": "Helgø MENY Hundvåg",
+    "lat": 58.9937026172589,
+    "lon": 5.730845357777716,
+    "address": "Hundvågveien 49",
+    "postalCode": "4085",
+    "city": "HUNDVÅG",
+    "url": "https://meny.no/finn-butikk/helgo-meny-hundvag"
+  },
+  {
+    "id": "3807",
+    "name": "Helgø MENY Mariero",
+    "lat": 58.93449835705527,
+    "lon": 5.739473486931542,
+    "address": "Breidablikkvn. 3",
+    "postalCode": "4017",
+    "city": "STAVANGER",
+    "url": "https://meny.no/finn-butikk/helgo-meny-mariero"
+  },
+  {
+    "id": "1158",
+    "name": "Helgø MENY Sandnes",
+    "lat": 58.848226479753166,
+    "lon": 5.739635656904952,
+    "address": "Gravarsveien 7",
+    "postalCode": "4306",
+    "city": "SANDNES",
+    "url": "https://meny.no/finn-butikk/helgo-meny-sandnes"
+  },
+  {
+    "id": "3825",
+    "name": "Helgø MENY Sandved",
+    "lat": 58.84610197290502,
+    "lon": 5.716458390036784,
+    "address": "Asheimveien 2",
+    "postalCode": "4318",
+    "city": "SANDNES",
+    "url": "https://meny.no/finn-butikk/helgo-meny-sandved"
+  },
+  {
+    "id": "3827",
+    "name": "Helgø MENY Sola",
+    "lat": 58.88242674711873,
+    "lon": 5.652485929787586,
+    "address": "Solakrossvegen 2",
+    "postalCode": "4050",
+    "city": "SOLA",
+    "url": "https://meny.no/finn-butikk/helgo-meny-sola"
+  },
+  {
+    "id": "2612",
+    "name": "Helgø MENY Stadionparken",
+    "lat": 58.9149069715871,
+    "lon": 5.7293678507917285,
+    "address": "Jåttåvågveien 7",
+    "postalCode": "4020",
+    "city": "STAVANGER",
+    "url": "https://meny.no/finn-butikk/helgo-meny-stadionparken"
+  },
+  {
+    "id": "3824",
+    "name": "Helgø MENY Stokka",
+    "lat": 58.964655928667916,
+    "lon": 5.702627795466195,
+    "address": "Øvre Stokkavei 46",
+    "postalCode": "4023",
+    "city": "STAVANGER",
+    "url": "https://meny.no/finn-butikk/helgo-meny-stokka"
+  },
+  {
+    "id": "2712",
+    "name": "Helgø MENY Tasta",
+    "lat": 58.98399411910378,
+    "lon": 5.6910882765706425,
+    "address": "Tastatunet 1-3",
+    "postalCode": "4027",
+    "city": "STAVANGER",
+    "url": "https://meny.no/finn-butikk/helgo-meny-tasta"
+  },
+  {
+    "id": "1034",
+    "name": "Jacob’s Holtet",
+    "lat": 59.881396145189406,
+    "lon": 10.786702905396087,
+    "address": "Ekebergveien 145",
+    "postalCode": "1178",
+    "city": "OSLO",
+    "url": "https://meny.no/finn-butikk/jacob’s-holtet"
+  },
+  {
+    "id": "2620",
+    "name": "Jacob’s Majorstuen",
+    "lat": 59.929574524686466,
+    "lon": 10.71164876008196,
+    "address": "Essendrops gate 9",
+    "postalCode": "0368",
+    "city": "OSLO",
+    "url": "https://meny.no/finn-butikk/jacob’s-majorstuen"
+  },
+  {
+    "id": "4904",
+    "name": "Lerøy Mat",
+    "lat": 60.39292128480297,
+    "lon": 5.324619581428642,
+    "address": "Torgalmeningen 8",
+    "postalCode": "5014",
+    "city": "BERGEN",
+    "url": "https://meny.no/finn-butikk/leroy-mat"
+  },
+  {
+    "id": "2221",
+    "name": "MENY Aksdal",
+    "lat": 59.42201630571144,
+    "lon": 5.444439810159898,
+    "address": "Rådhusvegen 45",
+    "postalCode": "5570",
+    "city": "AKSDAL",
+    "url": "https://meny.no/finn-butikk/meny-aksdal"
+  },
+  {
+    "id": "1119",
+    "name": "MENY Albert",
+    "lat": 58.16612387690444,
+    "lon": 8.035878761955571,
+    "address": "Olav Trygvasons vei 2",
+    "postalCode": "4633",
+    "city": "KRISTIANSAND S",
+    "url": "https://meny.no/finn-butikk/meny-albert"
+  },
+  {
+    "id": "2623",
+    "name": "MENY Alna",
+    "lat": 59.92659419530519,
+    "lon": 10.84882607494714,
+    "address": "strømsveien 245",
+    "postalCode": "0668",
+    "city": "OSLO",
+    "url": "https://meny.no/finn-butikk/meny-alna"
+  },
+  {
+    "id": "5274",
+    "name": "MENY Amfi Moss",
+    "lat": 59.43628636548946,
+    "lon": 10.664950685439155,
+    "address": "Dronningens gate 3-7",
+    "postalCode": "1530",
+    "city": "MOSS",
+    "url": "https://meny.no/finn-butikk/meny-amfi-moss"
+  },
+  {
+    "id": "1524",
+    "name": "MENY Andebu",
+    "lat": 59.30503216846083,
+    "lon": 10.176720252949742,
+    "address": "Andebu Sentrum 21",
+    "postalCode": "3158",
+    "city": "ANDEBU",
+    "url": "https://meny.no/finn-butikk/meny-andebu"
+  },
+  {
+    "id": "1088",
+    "name": "MENY Askim",
+    "lat": 59.5815830906055,
+    "lon": 11.168824587169173,
+    "address": "Haugomgata 17",
+    "postalCode": "1811",
+    "city": "ASKIM",
+    "url": "https://meny.no/finn-butikk/meny-askim"
+  },
+  {
+    "id": "1100",
+    "name": "MENY Begby",
+    "lat": 59.217304337976735,
+    "lon": 11.008449516108922,
+    "address": "Olav Kyrres vei 2",
+    "postalCode": "1639",
+    "city": "GAMLE FREDRIKSTAD",
+    "url": "https://meny.no/finn-butikk/meny-begby"
+  },
+  {
+    "id": "1527",
+    "name": "MENY Bekkestua",
+    "lat": 59.9163672343231,
+    "lon": 10.588046922423933,
+    "address": "Gamle Ringeriksvei 34",
+    "postalCode": "1357",
+    "city": "BEKKESTUA",
+    "url": "https://meny.no/finn-butikk/meny-bekkestua"
+  },
+  {
+    "id": "1116",
+    "name": "MENY Bergen Storsenter",
+    "lat": 60.389237290203084,
+    "lon": 5.331814868489117,
+    "address": "Strømgaten 8",
+    "postalCode": "5015",
+    "city": "BERGEN",
+    "url": "https://meny.no/finn-butikk/meny-bergen-storsenter"
+  },
+  {
+    "id": "1159",
+    "name": "MENY Bjølsen",
+    "lat": 59.943692506985826,
+    "lon": 10.760830464795035,
+    "address": "Moldegata 1",
+    "postalCode": "0445",
+    "city": "OSLO",
+    "url": "https://meny.no/finn-butikk/meny-bjolsen"
+  },
+  {
+    "id": "3595",
+    "name": "MENY Bjørvika",
+    "lat": 59.90543378811712,
+    "lon": 10.759456055177326,
+    "address": "Rostockgata 130",
+    "postalCode": "0194",
+    "city": "OSLO",
+    "url": "https://meny.no/finn-butikk/meny-bjorvika"
+  },
+  {
+    "id": "1510",
+    "name": "MENY Bogstadveien",
+    "lat": 59.92670502285669,
+    "lon": 10.720347801728254,
+    "address": "Bogstadv 36",
+    "postalCode": "0366",
+    "city": "OSLO",
+    "url": "https://meny.no/finn-butikk/meny-bogstadveien"
+  },
+  {
+    "id": "1039",
+    "name": "MENY Borre",
+    "lat": 59.393770888111,
+    "lon": 10.462986538908352,
+    "address": "Borreveien 92",
+    "postalCode": "3186",
+    "city": "HORTEN",
+    "url": "https://meny.no/finn-butikk/meny-borre"
+  },
+  {
+    "id": "2225",
+    "name": "MENY Brakerøya",
+    "lat": 59.740972691773536,
+    "lon": 10.221753786807978,
+    "address": "Brandtenborggata 1",
+    "postalCode": "3012",
+    "city": "DRAMMEN",
+    "url": "https://meny.no/finn-butikk/meny-brakeroya"
+  },
+  {
+    "id": "4537",
+    "name": "MENY Brotorvet",
+    "lat": 59.045866028587575,
+    "lon": 9.693871736066024,
+    "address": "Gangveien 10",
+    "postalCode": "3960",
+    "city": "STATHELLE",
+    "url": "https://meny.no/finn-butikk/meny-brotorvet"
+  },
+  {
+    "id": "2625",
+    "name": "MENY Bryn",
+    "lat": 59.9031915742804,
+    "lon": 10.82245832094902,
+    "address": "Østensjøveien 79",
+    "postalCode": "0667",
+    "city": "OSLO",
+    "url": "https://meny.no/finn-butikk/meny-bryn"
+  },
+  {
+    "id": "1084",
+    "name": "MENY Bærums Verk",
+    "lat": 59.941065773175396,
+    "lon": 10.50153003408232,
+    "address": "Vertshusveien 2",
+    "postalCode": "1353",
+    "city": "BÆRUMS VERK",
+    "url": "https://meny.no/finn-butikk/meny-barums-verk"
+  },
+  {
+    "id": "1028",
+    "name": "MENY Bø",
+    "lat": 59.411316634572216,
+    "lon": 9.070834781030381,
+    "address": "Stasjonsvegen 28",
+    "postalCode": "3800",
+    "city": "BØ I TELEMARK",
+    "url": "https://meny.no/finn-butikk/meny-bo"
+  },
+  {
+    "id": "2610",
+    "name": "MENY CC Vest",
+    "lat": 59.917658568538904,
+    "lon": 10.636357767208757,
+    "address": "Lilleakerveien 16",
+    "postalCode": "0283",
+    "city": "OSLO",
+    "url": "https://meny.no/finn-butikk/meny-cc-vest"
+  },
+  {
+    "id": "1514",
+    "name": "MENY Colosseum",
+    "lat": 59.93072899833853,
+    "lon": 10.709962298877224,
+    "address": "Sørkedalsv 10 B",
+    "postalCode": "0369",
+    "city": "OSLO",
+    "url": "https://meny.no/finn-butikk/meny-colosseum"
+  },
+  {
+    "id": "1153",
+    "name": "MENY Dampejordet",
+    "lat": 59.42751891762488,
+    "lon": 10.453826744452838,
+    "address": "Dampejordet 1",
+    "postalCode": "3189",
+    "city": "HORTEN",
+    "url": "https://meny.no/finn-butikk/meny-dampejordet"
+  },
+  {
+    "id": "1151",
+    "name": "MENY Dolviken",
+    "lat": 60.308666008553594,
+    "lon": 5.2714335306195155,
+    "address": "Dolvikvegen 36",
+    "postalCode": "5252",
+    "city": "SØREIDGREND",
+    "url": "https://meny.no/finn-butikk/meny-dolviken"
+  },
+  {
+    "id": "5578",
+    "name": "MENY Down Town",
+    "lat": 59.13794588719066,
+    "lon": 9.640879365331683,
+    "address": "Kulltangvegen 70",
+    "postalCode": "3921",
+    "city": "PORSGRUNN",
+    "url": "https://meny.no/finn-butikk/meny-down-town"
+  },
+  {
+    "id": "1509",
+    "name": "MENY Drøbak City",
+    "lat": 59.67278410862041,
+    "lon": 10.658536911992458,
+    "address": "Holterveien 3",
+    "postalCode": "1448",
+    "city": "DRØBAK",
+    "url": "https://meny.no/finn-butikk/meny-drobak-city"
+  },
+  {
+    "id": "1064",
+    "name": "MENY Eiktoppen",
+    "lat": 59.29217553826156,
+    "lon": 10.419558746605082,
+    "address": "Eikveien 49",
+    "postalCode": "3122",
+    "city": "TØNSBERG",
+    "url": "https://meny.no/finn-butikk/meny-eiktoppen"
+  },
+  {
+    "id": "1087",
+    "name": "MENY Elverum",
+    "lat": 60.878169161728216,
+    "lon": 11.565576369482082,
+    "address": "Kremmertorget Kirkeveien 4",
+    "postalCode": "2406",
+    "city": "ELVERUM",
+    "url": "https://meny.no/finn-butikk/meny-elverum"
+  },
+  {
+    "id": "413",
+    "name": "MENY Fantoft",
+    "lat": 60.346402724901495,
+    "lon": 5.352193718426478,
+    "address": "Fantoftvegen 14P",
+    "postalCode": "5072",
+    "city": "BERGEN",
+    "url": "https://meny.no/finn-butikk/meny-fantoft"
+  },
+  {
+    "id": "2711",
+    "name": "MENY Farmandstredet",
+    "lat": 59.26928605794595,
+    "lon": 10.411764411817876,
+    "address": "Jernbanegaten 1D",
+    "postalCode": "3110",
+    "city": "TØNSBERG",
+    "url": "https://meny.no/finn-butikk/meny-farmandstredet"
+  },
+  {
+    "id": "1125",
+    "name": "MENY Fevik",
+    "lat": 58.381834427094326,
+    "lon": 8.675657632969354,
+    "address": "Feviktoppen 25",
+    "postalCode": "4870",
+    "city": "FEVIK",
+    "url": "https://meny.no/finn-butikk/meny-fevik"
+  },
+  {
+    "id": "1008",
+    "name": "MENY Flåtten",
+    "lat": 59.12155262459072,
+    "lon": 9.65903224700609,
+    "address": "Deichmansgate 109",
+    "postalCode": "3924",
+    "city": "PORSGRUNN",
+    "url": "https://meny.no/finn-butikk/meny-flatten"
+  },
+  {
+    "id": "7775",
+    "name": "MENY Fornebu",
+    "lat": 59.89351639760002,
+    "lon": 10.62075978247057,
+    "address": "Snarøyveien 55-57",
+    "postalCode": "1364",
+    "city": "FORNEBU",
+    "url": "https://meny.no/finn-butikk/meny-fornebu"
+  },
+  {
+    "id": "1121",
+    "name": "MENY Fosnavåg",
+    "lat": 62.342683390397724,
+    "lon": 5.630142464197729,
+    "address": "Tollåsbakken 2",
+    "postalCode": "6090",
+    "city": "FOSNAVÅG",
+    "url": "https://meny.no/finn-butikk/meny-fosnavag"
+  },
+  {
+    "id": "3144",
+    "name": "MENY Frogner",
+    "lat": 59.91614784564802,
+    "lon": 10.715242768780874,
+    "address": "Frognerveien 8-10",
+    "postalCode": "0257",
+    "city": "OSLO",
+    "url": "https://meny.no/finn-butikk/meny-frogner"
+  },
+  {
+    "id": "3858",
+    "name": "MENY Frysja",
+    "lat": 59.96529408226827,
+    "lon": 10.771498596903927,
+    "address": "Frysjaveien 40J",
+    "postalCode": "0884",
+    "city": "OSLO",
+    "url": "https://meny.no/finn-butikk/meny-frysja"
+  },
+  {
+    "id": "1284",
+    "name": "MENY GS",
+    "lat": 59.14997441776256,
+    "lon": 9.630958392449806,
+    "address": "Klyvevegen 25",
+    "postalCode": "3740",
+    "city": "SKIEN",
+    "url": "https://meny.no/finn-butikk/meny-gs"
+  },
+  {
+    "id": "1077",
+    "name": "MENY Gloppe",
+    "lat": 59.040732576410676,
+    "lon": 10.06756633862641,
+    "address": "Nordlyveien 1",
+    "postalCode": "3260",
+    "city": "LARVIK",
+    "url": "https://meny.no/finn-butikk/meny-gloppe"
+  },
+  {
+    "id": "1045",
+    "name": "MENY Granholmen",
+    "lat": 59.090437185286696,
+    "lon": 10.212764422695914,
+    "address": "Hystadveien 290",
+    "postalCode": "3231",
+    "city": "SANDEFJORD",
+    "url": "https://meny.no/finn-butikk/meny-granholmen"
+  },
+  {
+    "id": "3869",
+    "name": "MENY Gressbanen",
+    "lat": 59.95007665392477,
+    "lon": 10.676023575890282,
+    "address": "Holmenkollveien 45",
+    "postalCode": "0773",
+    "city": "OSLO",
+    "url": "https://meny.no/finn-butikk/meny-gressbanen"
+  },
+  {
+    "id": "1004",
+    "name": "MENY Greverud",
+    "lat": 59.77418549266113,
+    "lon": 10.80320756574506,
+    "address": "Flåtestadveien 3",
+    "postalCode": "1415",
+    "city": "OPPEGÅRD",
+    "url": "https://meny.no/finn-butikk/meny-greverud"
+  },
+  {
+    "id": "1085",
+    "name": "MENY Grim",
+    "lat": 58.149254883385176,
+    "lon": 7.971433132230054,
+    "address": "Grims Torv 3",
+    "postalCode": "4673",
+    "city": "KRISTIANSAND S",
+    "url": "https://meny.no/finn-butikk/meny-grim"
+  },
+  {
+    "id": "1103",
+    "name": "MENY Grimstad",
+    "lat": 58.3353179319951,
+    "lon": 8.590590887423158,
+    "address": "Bark Silas’ vei 7",
+    "postalCode": "4876",
+    "city": "GRIMSTAD",
+    "url": "https://meny.no/finn-butikk/meny-grimstad"
+  },
+  {
+    "id": "1500",
+    "name": "MENY Grorud",
+    "lat": 59.95989596036065,
+    "lon": 10.88124394830654,
+    "address": "Bergensvn. 2-4",
+    "postalCode": "0963",
+    "city": "OSLO",
+    "url": "https://meny.no/finn-butikk/meny-grorud"
+  },
+  {
+    "id": "1515",
+    "name": "MENY Grønland",
+    "lat": 59.91250843036231,
+    "lon": 10.761913130852578,
+    "address": "Smalgangen 49",
+    "postalCode": "0188",
+    "city": "OSLO",
+    "url": "https://meny.no/finn-butikk/meny-gronland"
+  },
+  {
+    "id": "1120",
+    "name": "MENY Gulskogen",
+    "lat": 59.74252931950144,
+    "lon": 10.157971646290868,
+    "address": "Guldlisten 35",
+    "postalCode": "3048",
+    "city": "DRAMMEN",
+    "url": "https://meny.no/finn-butikk/meny-gulskogen"
+  },
+  {
+    "id": "1933",
+    "name": "MENY Gystadmarka",
+    "lat": 60.14390843960395,
+    "lon": 11.189364927216953,
+    "address": "Henrik Bulls veg 100",
+    "postalCode": "2052",
+    "city": "JESSHEIM",
+    "url": "https://meny.no/finn-butikk/meny-gystadmarka"
+  },
+  {
+    "id": "2624",
+    "name": "MENY Hagaløkkveien",
+    "lat": 59.83218873616914,
+    "lon": 10.429526282204755,
+    "address": "Hagaløkkveien 7",
+    "postalCode": "1383",
+    "city": "ASKER",
+    "url": "https://meny.no/finn-butikk/meny-hagalokkveien"
+  },
+  {
+    "id": "2246",
+    "name": "MENY Halden",
+    "lat": 59.12157757568572,
+    "lon": 11.381455931663929,
+    "address": "Walkers gate 4",
+    "postalCode": "1771",
+    "city": "HALDEN",
+    "url": "https://meny.no/finn-butikk/meny-halden"
+  },
+  {
+    "id": "1165",
+    "name": "MENY Harebakken",
+    "lat": 58.47431612484692,
+    "lon": 8.747091280484804,
+    "address": "Langsæveien 5",
+    "postalCode": "4846",
+    "city": "ARENDAL",
+    "url": "https://meny.no/finn-butikk/meny-harebakken"
+  },
+  {
+    "id": "1129",
+    "name": "MENY Haslesenteret",
+    "lat": 59.138952855379735,
+    "lon": 10.242709630807521,
+    "address": "Nedre Gokstadvei 27",
+    "postalCode": "3228",
+    "city": "SANDEFJORD",
+    "url": "https://meny.no/finn-butikk/meny-haslesenteret"
+  },
+  {
+    "id": "1104",
+    "name": "MENY Heimdal",
+    "lat": 59.27441899069896,
+    "lon": 10.425313307288878,
+    "address": "Heimdalsveien 3",
+    "postalCode": "3117",
+    "city": "TØNSBERG",
+    "url": "https://meny.no/finn-butikk/meny-heimdal"
+  },
+  {
+    "id": "1015",
+    "name": "MENY Helgeroa",
+    "lat": 58.98844535651799,
+    "lon": 9.873022169371426,
+    "address": "Søndersrød",
+    "postalCode": "3295",
+    "city": "HELGEROA",
+    "url": "https://meny.no/finn-butikk/meny-helgeroa"
+  },
+  {
+    "id": "1502",
+    "name": "MENY Holmen",
+    "lat": 59.85586007797757,
+    "lon": 10.489637247560662,
+    "address": "Holmengata 6",
+    "postalCode": "1394",
+    "city": "NESBRU",
+    "url": "https://meny.no/finn-butikk/meny-holmen"
+  },
+  {
+    "id": "1105",
+    "name": "MENY Holmestrand",
+    "lat": 59.489756591456384,
+    "lon": 10.29513291658117,
+    "address": "Hvittingfossvn. 123",
+    "postalCode": "3080",
+    "city": "HOLMESTRAND",
+    "url": "https://meny.no/finn-butikk/meny-holmestrand"
+  },
+  {
+    "id": "5275",
+    "name": "MENY Holmlia",
+    "lat": 59.83424679087085,
+    "lon": 10.7960400216211,
+    "address": "Holmliaveien 75",
+    "postalCode": "1255",
+    "city": "OSLO",
+    "url": "https://meny.no/finn-butikk/meny-holmlia"
+  },
+  {
+    "id": "1032",
+    "name": "MENY Hovenga",
+    "lat": 59.14984387862629,
+    "lon": 9.663515277972254,
+    "address": "Augestadveien7",
+    "postalCode": "3914",
+    "city": "PORSGRUNN",
+    "url": "https://meny.no/finn-butikk/meny-hovenga"
+  },
+  {
+    "id": "2621",
+    "name": "MENY Høvik",
+    "lat": 59.89915697004993,
+    "lon": 10.579468322606285,
+    "address": "O.H. Bangs vei 5",
+    "postalCode": "1363",
+    "city": "HØVIK",
+    "url": "https://meny.no/finn-butikk/meny-hovik"
+  },
+  {
+    "id": "1099",
+    "name": "MENY Høyden",
+    "lat": 59.41797984212392,
+    "lon": 10.686045322369754,
+    "address": "Ryggeveien 96",
+    "postalCode": "1528",
+    "city": "MOSS",
+    "url": "https://meny.no/finn-butikk/meny-hoyden"
+  },
+  {
+    "id": "1053",
+    "name": "MENY Indre Havn",
+    "lat": 59.127830778017625,
+    "lon": 10.241350390858548,
+    "address": "Kilgata 25",
+    "postalCode": "3217",
+    "city": "SANDEFJORD",
+    "url": "https://meny.no/finn-butikk/meny-indre-havn"
+  },
+  {
+    "id": "1155",
+    "name": "MENY Jarhuset",
+    "lat": 59.92641537200306,
+    "lon": 10.620868754301238,
+    "address": "Jarmyra 1",
+    "postalCode": "1358",
+    "city": "JAR",
+    "url": "https://meny.no/finn-butikk/meny-jarhuset"
+  },
+  {
+    "id": "1023",
+    "name": "MENY Jarlsberg",
+    "lat": 59.280293145781435,
+    "lon": 10.364954541882526,
+    "address": "Travveien 1",
+    "postalCode": "3170",
+    "city": "SEM",
+    "url": "https://meny.no/finn-butikk/meny-jarlsberg"
+  },
+  {
+    "id": "1037",
+    "name": "MENY Jessheim",
+    "lat": 60.14306308649589,
+    "lon": 11.17253793107404,
+    "address": "Furusethgata 5",
+    "postalCode": "2050",
+    "city": "JESSHEIM",
+    "url": "https://meny.no/finn-butikk/meny-jessheim"
+  },
+  {
+    "id": "2709",
+    "name": "MENY Kalbakken",
+    "lat": 59.952677377517446,
+    "lon": 10.868442081182383,
+    "address": "Kalbakkveien 6",
+    "postalCode": "0953",
+    "city": "OSLO",
+    "url": "https://meny.no/finn-butikk/meny-kalbakken"
+  },
+  {
+    "id": "1152",
+    "name": "MENY Karmsundgata",
+    "lat": 59.40392829330073,
+    "lon": 5.288589718511973,
+    "address": "Karmsundgata 60",
+    "postalCode": "5529",
+    "city": "HAUGESUND",
+    "url": "https://meny.no/finn-butikk/meny-karmsundgata"
+  },
+  {
+    "id": "1145",
+    "name": "MENY Kleppestø",
+    "lat": 60.410192504050926,
+    "lon": 5.227166225740139,
+    "address": "Gamle Kleppestøvegen 2",
+    "postalCode": "5300",
+    "city": "KLEPPESTØ",
+    "url": "https://meny.no/finn-butikk/meny-kleppesto"
+  },
+  {
+    "id": "1056",
+    "name": "MENY Klokkerjordet",
+    "lat": 59.58858058750183,
+    "lon": 10.211594050499446,
+    "address": "Kirkesanger Pedersens vei 14",
+    "postalCode": "3070",
+    "city": "SANDE I VESTFOLD",
+    "url": "https://meny.no/finn-butikk/meny-klokkerjordet"
+  },
+  {
+    "id": "2611",
+    "name": "MENY Klosterfoss",
+    "lat": 59.19725790955115,
+    "lon": 9.604571056653146,
+    "address": "Helgas gate 10",
+    "postalCode": "3730",
+    "city": "SKIEN",
+    "url": "https://meny.no/finn-butikk/meny-klosterfoss"
+  },
+  {
+    "id": "417",
+    "name": "MENY Knarvik",
+    "lat": 60.54704438152738,
+    "lon": 5.2861953577104615,
+    "address": "Kvernhusmyrane 7A",
+    "postalCode": "5914",
+    "city": "ISDALSTØ",
+    "url": "https://meny.no/finn-butikk/meny-knarvik"
+  },
+  {
+    "id": "1530",
+    "name": "MENY Kolsås",
+    "lat": 59.91673231163552,
+    "lon": 10.50052584263974,
+    "address": "Rødskiferveien 1",
+    "postalCode": "1352",
+    "city": "KOLSÅS",
+    "url": "https://meny.no/finn-butikk/meny-kolsas"
+  },
+  {
+    "id": "1070",
+    "name": "MENY Konnerud",
+    "lat": 59.717537966590086,
+    "lon": 10.14962235713648,
+    "address": "Pettersvollen 3",
+    "postalCode": "3032",
+    "city": "DRAMMEN",
+    "url": "https://meny.no/finn-butikk/meny-konnerud"
+  },
+  {
+    "id": "1007",
+    "name": "MENY Kringsjå",
+    "lat": 59.96346430705032,
+    "lon": 10.736923890184366,
+    "address": "Minister Ditleffsv. 21",
+    "postalCode": "0862",
+    "city": "OSLO",
+    "url": "https://meny.no/finn-butikk/meny-kringsja"
+  },
+  {
+    "id": "1097",
+    "name": "MENY Krokstadelva",
+    "lat": 59.75769217328274,
+    "lon": 9.995139596580756,
+    "address": "Flisveien 1",
+    "postalCode": "3055",
+    "city": "KROKSTADELVA",
+    "url": "https://meny.no/finn-butikk/meny-krokstadelva"
+  },
+  {
+    "id": "1117",
+    "name": "MENY Krøgenes",
+    "lat": 58.47313464149493,
+    "lon": 8.814622319929947,
+    "address": "Tromøyveien 1",
+    "postalCode": "4841",
+    "city": "ARENDAL",
+    "url": "https://meny.no/finn-butikk/meny-krogenes"
+  },
+  {
+    "id": "1149",
+    "name": "MENY Kuben",
+    "lat": 60.16474356607998,
+    "lon": 10.25463867669795,
+    "address": "Kong Rings gate 1",
+    "postalCode": "3510",
+    "city": "HØNEFOSS",
+    "url": "https://meny.no/finn-butikk/meny-kuben"
+  },
+  {
+    "id": "402",
+    "name": "MENY Lagunen",
+    "lat": 60.29686525319382,
+    "lon": 5.331130924915894,
+    "address": "Laguneveien 1",
+    "postalCode": "5239",
+    "city": "RÅDAL",
+    "url": "https://meny.no/finn-butikk/meny-lagunen"
+  },
+  {
+    "id": "5260",
+    "name": "MENY Laksevåg",
+    "lat": 60.38933448210836,
+    "lon": 5.286430791607414,
+    "address": "Kringsjåveien 83-89",
+    "postalCode": "5163",
+    "city": "LAKSEVÅG",
+    "url": "https://meny.no/finn-butikk/meny-laksevag"
+  },
+  {
+    "id": "1154",
+    "name": "MENY Lambertseter",
+    "lat": 59.87381002046048,
+    "lon": 10.811080897415287,
+    "address": "Cecilie Thoresens vei 21",
+    "postalCode": "1153",
+    "city": "OSLO",
+    "url": "https://meny.no/finn-butikk/meny-lambertseter"
+  },
+  {
+    "id": "1114",
+    "name": "MENY Langhus",
+    "lat": 59.75511594561115,
+    "lon": 10.84543553670014,
+    "address": "Langhussenteret 1",
+    "postalCode": "1405",
+    "city": "LANGHUS",
+    "url": "https://meny.no/finn-butikk/meny-langhus"
+  },
+  {
+    "id": "1520",
+    "name": "MENY Larvik Sentrum",
+    "lat": 59.0537170222648,
+    "lon": 10.032469204837112,
+    "address": "Olavs Gate 30",
+    "postalCode": "3257",
+    "city": "LARVIK",
+    "url": "https://meny.no/finn-butikk/meny-larvik-sentrum"
+  },
+  {
+    "id": "1062",
+    "name": "MENY Lerstad",
+    "lat": 62.468368322603496,
+    "lon": 6.292061554156039,
+    "address": "Lerstadvegen 291",
+    "postalCode": "6014",
+    "city": "ÅLESUND",
+    "url": "https://meny.no/finn-butikk/meny-lerstad"
+  },
+  {
+    "id": "1140",
+    "name": "MENY Liertoppen",
+    "lat": 59.811291635689,
+    "lon": 10.305840410198186,
+    "address": "Drammensveien 201",
+    "postalCode": "3420",
+    "city": "LIERSKOGEN",
+    "url": "https://meny.no/finn-butikk/meny-liertoppen"
+  },
+  {
+    "id": "1141",
+    "name": "MENY Lietorvet",
+    "lat": 59.2104068204733,
+    "lon": 9.60498140620665,
+    "address": "LIEGATA 10-12",
+    "postalCode": "3717",
+    "city": "SKIEN",
+    "url": "https://meny.no/finn-butikk/meny-lietorvet"
+  },
+  {
+    "id": "1156",
+    "name": "MENY Lillesand",
+    "lat": 58.26095878920423,
+    "lon": 8.394425515120027,
+    "address": "Senterveien 10",
+    "postalCode": "4790",
+    "city": "LILLESAND",
+    "url": "https://meny.no/finn-butikk/meny-lillesand"
+  },
+  {
+    "id": "1076",
+    "name": "MENY Lillestrøm",
+    "lat": 59.95795350704116,
+    "lon": 11.050176636467052,
+    "address": "Stortorget 2",
+    "postalCode": "2000",
+    "city": "LILLESTRØM",
+    "url": "https://meny.no/finn-butikk/meny-lillestrom"
+  },
+  {
+    "id": "4686",
+    "name": "MENY Lillo Gård",
+    "lat": 59.94482400576869,
+    "lon": 10.770378478970644,
+    "address": "Sandakerveien 98-100",
+    "postalCode": "0484",
+    "city": "OSLO",
+    "url": "https://meny.no/finn-butikk/meny-lillo-gard"
+  },
+  {
+    "id": "1148",
+    "name": "MENY Løren",
+    "lat": 59.93074223187557,
+    "lon": 10.793479035316839,
+    "address": "Lørenveien 44",
+    "postalCode": "0585",
+    "city": "OSLO",
+    "url": "https://meny.no/finn-butikk/meny-loren"
+  },
+  {
+    "id": "1160",
+    "name": "MENY Magneten",
+    "lat": 63.732210840966324,
+    "lon": 11.282234028851763,
+    "address": "Moafjæra 12",
+    "postalCode": "7606",
+    "city": "LEVANGER",
+    "url": "https://meny.no/finn-butikk/meny-magneten"
+  },
+  {
+    "id": "1109",
+    "name": "MENY Mandal",
+    "lat": 58.02265628264799,
+    "lon": 7.45159586010242,
+    "address": "Kastellgata 14-15",
+    "postalCode": "4514",
+    "city": "MANDAL",
+    "url": "https://meny.no/finn-butikk/meny-mandal"
+  },
+  {
+    "id": "1538",
+    "name": "MENY Manglerud",
+    "lat": 59.897289992648844,
+    "lon": 10.812860822492903,
+    "address": "Plogveien 6",
+    "postalCode": "0679",
+    "city": "OSLO",
+    "url": "https://meny.no/finn-butikk/meny-manglerud"
+  },
+  {
+    "id": "414",
+    "name": "MENY Midtun",
+    "lat": 60.32569362349488,
+    "lon": 5.367569947208092,
+    "address": "SANDBREKKEVEGEN 96",
+    "postalCode": "5225",
+    "city": "NESTTUN",
+    "url": "https://meny.no/finn-butikk/meny-midtun"
+  },
+  {
+    "id": "1161",
+    "name": "MENY Moholt",
+    "lat": 63.40958924716402,
+    "lon": 10.443218052646976,
+    "address": "Vegamot 8",
+    "postalCode": "7049",
+    "city": "TRONDHEIM",
+    "url": "https://meny.no/finn-butikk/meny-moholt"
+  },
+  {
+    "id": "2215",
+    "name": "MENY Mosseporten",
+    "lat": 59.446252803079155,
+    "lon": 10.703233920942104,
+    "address": "Patterødveien 2",
+    "postalCode": "1599",
+    "city": "MOSS",
+    "url": "https://meny.no/finn-butikk/meny-mosseporten"
+  },
+  {
+    "id": "1188",
+    "name": "MENY Nanset",
+    "lat": 59.068294697793625,
+    "lon": 10.046538821610627,
+    "address": "Yttersøveien 2",
+    "postalCode": "3274",
+    "city": "LARVIK",
+    "url": "https://meny.no/finn-butikk/meny-nanset"
+  },
+  {
+    "id": "5674",
+    "name": "MENY Nesttun Senter",
+    "lat": 60.31746374618421,
+    "lon": 5.354228799700238,
+    "address": "Østre Nesttunvegen 16",
+    "postalCode": "5221",
+    "city": "NESTTUN",
+    "url": "https://meny.no/finn-butikk/meny-nesttun-senter"
+  },
+  {
+    "id": "1166",
+    "name": "MENY Nordbyveien",
+    "lat": 59.72032074537994,
+    "lon": 10.816254960755932,
+    "address": "Nordbyveien 41A",
+    "postalCode": "1406",
+    "city": "SKI",
+    "url": "https://meny.no/finn-butikk/meny-nordbyveien"
+  },
+  {
+    "id": "2672",
+    "name": "MENY Nordstrand",
+    "lat": 59.86103372644193,
+    "lon": 10.80148454416795,
+    "address": "Nordstrandveien 42",
+    "postalCode": "1163",
+    "city": "OSLO",
+    "url": "https://meny.no/finn-butikk/meny-nordstrand"
+  },
+  {
+    "id": "1005",
+    "name": "MENY Nøtterøy",
+    "lat": 59.20519136891135,
+    "lon": 10.442162947532392,
+    "address": "Skallestadveien 2",
+    "postalCode": "3138",
+    "city": "SKALLESTAD",
+    "url": "https://meny.no/finn-butikk/meny-notteroy"
+  },
+  {
+    "id": "1093",
+    "name": "MENY Oasen Bergen",
+    "lat": 60.34960209562449,
+    "lon": 5.2901374666204575,
+    "address": "Folke Bernadottes vei 50",
+    "postalCode": "5147",
+    "city": "FYLLINGSDALEN",
+    "url": "https://meny.no/finn-butikk/meny-oasen-bergen"
+  },
+  {
+    "id": "2207",
+    "name": "MENY Oasen Haugesund",
+    "lat": 59.37792809670823,
+    "lon": 5.3078573839714815,
+    "address": "Austbøvegen 16",
+    "postalCode": "5542",
+    "city": "KARMSUND",
+    "url": "https://meny.no/finn-butikk/meny-oasen-haugesund"
+  },
+  {
+    "id": "3303",
+    "name": "MENY Oppsal",
+    "lat": 59.89398928376032,
+    "lon": 10.839958012980604,
+    "address": "Haakon Tveters vei 90",
+    "postalCode": "0686",
+    "city": "OSLO",
+    "url": "https://meny.no/finn-butikk/meny-oppsal"
+  },
+  {
+    "id": "1144",
+    "name": "MENY Os",
+    "lat": 60.204629332366494,
+    "lon": 5.449634373094831,
+    "address": "Industrivegen 2",
+    "postalCode": "5210",
+    "city": "OS",
+    "url": "https://meny.no/finn-butikk/meny-os"
+  },
+  {
+    "id": "1401",
+    "name": "MENY Oslo City",
+    "lat": 59.91260655491918,
+    "lon": 10.751543964097404,
+    "address": "Stenersgaten 1",
+    "postalCode": "0050",
+    "city": "OSLO",
+    "url": "https://meny.no/finn-butikk/meny-oslo-city"
+  },
+  {
+    "id": "2223",
+    "name": "MENY Osloveien",
+    "lat": 60.152920053129904,
+    "lon": 10.255263889604276,
+    "address": "Dronning Åstas gate 4",
+    "postalCode": "3511",
+    "city": "HØNEFOSS",
+    "url": "https://meny.no/finn-butikk/meny-osloveien"
+  },
+  {
+    "id": "1137",
+    "name": "MENY Pindsle",
+    "lat": 59.13782640512533,
+    "lon": 10.178960206232889,
+    "address": "Nygårdsveien 84",
+    "postalCode": "3221",
+    "city": "SANDEFJORD",
+    "url": "https://meny.no/finn-butikk/meny-pindsle"
+  },
+  {
+    "id": "1095",
+    "name": "MENY Rasta",
+    "lat": 59.92336401425185,
+    "lon": 10.937062103440033,
+    "address": "Rastastubben 3",
+    "postalCode": "1476",
+    "city": "RASTA",
+    "url": "https://meny.no/finn-butikk/meny-rasta"
+  },
+  {
+    "id": "1143",
+    "name": "MENY Ravnanger",
+    "lat": 60.45643182734304,
+    "lon": 5.154345421135458,
+    "address": "",
+    "postalCode": "5310",
+    "city": "HAUGLANDSHELLA",
+    "url": "https://meny.no/finn-butikk/meny-ravnanger"
+  },
+  {
+    "id": "1011",
+    "name": "MENY Revetal",
+    "lat": 59.37174157966123,
+    "lon": 10.264306523105212,
+    "address": "Kåpeveien 5",
+    "postalCode": "3174",
+    "city": "REVETAL",
+    "url": "https://meny.no/finn-butikk/meny-revetal"
+  },
+  {
+    "id": "1150",
+    "name": "MENY Ringnes Park",
+    "lat": 59.92859057398126,
+    "lon": 10.76051060917757,
+    "address": "Sannergata 6C",
+    "postalCode": "0557",
+    "city": "OSLO",
+    "url": "https://meny.no/finn-butikk/meny-ringnes-park"
+  },
+  {
+    "id": "1180",
+    "name": "MENY Romerikssenteret",
+    "lat": 60.07612715639321,
+    "lon": 11.136117154070888,
+    "address": "Trondheimsvegen 86",
+    "postalCode": "2040",
+    "city": "KLØFTA",
+    "url": "https://meny.no/finn-butikk/meny-romerikssenteret"
+  },
+  {
+    "id": "7787",
+    "name": "MENY Rona",
+    "lat": 58.16047467963654,
+    "lon": 8.082222620503616,
+    "address": "Gamle Strømmevei 3",
+    "postalCode": "4638",
+    "city": "KRISTIANSAND S",
+    "url": "https://meny.no/finn-butikk/meny-rona"
+  },
+  {
+    "id": "1542",
+    "name": "MENY Rortunet",
+    "lat": 59.77825340051192,
+    "lon": 10.485877822828744,
+    "address": "Kirkealleen 1",
+    "postalCode": "3470",
+    "city": "SLEMMESTAD",
+    "url": "https://meny.no/finn-butikk/meny-rortunet"
+  },
+  {
+    "id": "2704",
+    "name": "MENY Rykkinn",
+    "lat": 59.92398717483408,
+    "lon": 10.486157482312702,
+    "address": "Munins vei 1",
+    "postalCode": "1348",
+    "city": "RYKKINN",
+    "url": "https://meny.no/finn-butikk/meny-rykkinn"
+  },
+  {
+    "id": "1507",
+    "name": "MENY Røa",
+    "lat": 59.94814013490558,
+    "lon": 10.643862473700402,
+    "address": "Vækerøv 205",
+    "postalCode": "0751",
+    "city": "OSLO",
+    "url": "https://meny.no/finn-butikk/meny-roa"
+  },
+  {
+    "id": "1073",
+    "name": "MENY Saga",
+    "lat": 59.185857640529925,
+    "lon": 9.613858390173704,
+    "address": "Telemarksvegen 14",
+    "postalCode": "3734",
+    "city": "SKIEN",
+    "url": "https://meny.no/finn-butikk/meny-saga"
+  },
+  {
+    "id": "1029",
+    "name": "MENY Sandsværveien",
+    "lat": 59.64746216194118,
+    "lon": 9.638031800143725,
+    "address": "Sandsværveien 164",
+    "postalCode": "3615",
+    "city": "KONGSBERG",
+    "url": "https://meny.no/finn-butikk/meny-sandsvarveien"
+  },
+  {
+    "id": "2627",
+    "name": "MENY Sandvika Storsenter",
+    "lat": 59.890109729290536,
+    "lon": 10.520363089606724,
+    "address": "Brodtkorbsgate 7",
+    "postalCode": "1338",
+    "city": "SANDVIKA",
+    "url": "https://meny.no/finn-butikk/meny-sandvika-storsenter"
+  },
+  {
+    "id": "2618",
+    "name": "MENY Sarpsborg",
+    "lat": 59.28420334927438,
+    "lon": 11.10816522083861,
+    "address": "Roald Amundsens gate 28",
+    "postalCode": "1723",
+    "city": "SARPSBORG",
+    "url": "https://meny.no/finn-butikk/meny-sarpsborg"
+  },
+  {
+    "id": "2713",
+    "name": "MENY Sartor",
+    "lat": 60.35783949419817,
+    "lon": 5.122658407828054,
+    "address": "Bildøyvegen 11A",
+    "postalCode": "5353",
+    "city": "STRAUME",
+    "url": "https://meny.no/finn-butikk/meny-sartor"
+  },
+  {
+    "id": "1040",
+    "name": "MENY Seljord",
+    "lat": 59.48151650024174,
+    "lon": 8.628334975341462,
+    "address": "Vekanvegen 1A",
+    "postalCode": "3840",
+    "city": "SELJORD",
+    "url": "https://meny.no/finn-butikk/meny-seljord"
+  },
+  {
+    "id": "1065",
+    "name": "MENY Skedsmo Senter",
+    "lat": 60.00099437083366,
+    "lon": 11.039742033204629,
+    "address": "Furuholtet 1",
+    "postalCode": "2020",
+    "city": "SKEDSMOKORSET",
+    "url": "https://meny.no/finn-butikk/meny-skedsmo-senter"
+  },
+  {
+    "id": "1020",
+    "name": "MENY Ski",
+    "lat": 59.713270583746976,
+    "lon": 10.835573399173752,
+    "address": "Eikeliv 1",
+    "postalCode": "1400",
+    "city": "SKI",
+    "url": "https://meny.no/finn-butikk/meny-ski"
+  },
+  {
+    "id": "2615",
+    "name": "MENY Ski Storsenter",
+    "lat": 59.716364365017434,
+    "lon": 10.83571340740336,
+    "address": "Jernbanesvingen 6",
+    "postalCode": "1400",
+    "city": "SKI",
+    "url": "https://meny.no/finn-butikk/meny-ski-storsenter"
+  },
+  {
+    "id": "1513",
+    "name": "MENY Skjetten",
+    "lat": 59.96706727306413,
+    "lon": 10.999481262914369,
+    "address": "Nordens vei 15",
+    "postalCode": "2013",
+    "city": "SKJETTEN",
+    "url": "https://meny.no/finn-butikk/meny-skjetten"
+  },
+  {
+    "id": "7202",
+    "name": "MENY Skøyen",
+    "lat": 59.92052144058445,
+    "lon": 10.68364072209592,
+    "address": "Karenslyst Allé 9",
+    "postalCode": "0278",
+    "city": "OSLO",
+    "url": "https://meny.no/finn-butikk/meny-skoyen"
+  },
+  {
+    "id": "1327",
+    "name": "MENY Slependen",
+    "lat": 59.87831551784257,
+    "lon": 10.504689215527492,
+    "address": "Slependveien 106",
+    "postalCode": "1396",
+    "city": "BILLINGSTAD",
+    "url": "https://meny.no/finn-butikk/meny-slependen"
+  },
+  {
+    "id": "1122",
+    "name": "MENY Sletten",
+    "lat": 60.35660407637791,
+    "lon": 5.359046935387732,
+    "address": "Vilhelm Bjerknes’ vei 4",
+    "postalCode": "5081",
+    "city": "BERGEN",
+    "url": "https://meny.no/finn-butikk/meny-sletten"
+  },
+  {
+    "id": "1038",
+    "name": "MENY Sogndal",
+    "lat": 61.23201209536856,
+    "lon": 7.1026152460711725,
+    "address": "Hovevegen 8",
+    "postalCode": "6856",
+    "city": "SOGNDAL",
+    "url": "https://meny.no/finn-butikk/meny-sogndal"
+  },
+  {
+    "id": "2619",
+    "name": "MENY Solsiden",
+    "lat": 63.43519957975299,
+    "lon": 10.410989930591985,
+    "address": "Beddingen 12",
+    "postalCode": "7042",
+    "city": "TRONDHEIM",
+    "url": "https://meny.no/finn-butikk/meny-solsiden"
+  },
+  {
+    "id": "1130",
+    "name": "MENY Stadiontunet",
+    "lat": 59.13422471243321,
+    "lon": 10.20444092579648,
+    "address": "Laskenveien 4",
+    "postalCode": "3228",
+    "city": "SANDEFJORD",
+    "url": "https://meny.no/finn-butikk/meny-stadiontunet"
+  },
+  {
+    "id": "1123",
+    "name": "MENY Stavern",
+    "lat": 59.00077435368571,
+    "lon": 10.034649871244183,
+    "address": "Kommandør Herbst gate 12",
+    "postalCode": "3290",
+    "city": "STAVERN",
+    "url": "https://meny.no/finn-butikk/meny-stavern"
+  },
+  {
+    "id": "1118",
+    "name": "MENY Stoa",
+    "lat": 58.466974967339844,
+    "lon": 8.720723833702015,
+    "address": "Sørsvannsveien 2",
+    "postalCode": "4848",
+    "city": "ARENDAL",
+    "url": "https://meny.no/finn-butikk/meny-stoa"
+  },
+  {
+    "id": "1002",
+    "name": "MENY Stokke",
+    "lat": 59.22268527960156,
+    "lon": 10.30752653270841,
+    "address": "Johannes Sandviks vei 2",
+    "postalCode": "3160",
+    "city": "STOKKE",
+    "url": "https://meny.no/finn-butikk/meny-stokke"
+  },
+  {
+    "id": "1110",
+    "name": "MENY Stortorvet",
+    "lat": 59.668858573774685,
+    "lon": 9.65186673981112,
+    "address": "Stortorvet/Karchesgt.3",
+    "postalCode": "3612",
+    "city": "KONGSBERG",
+    "url": "https://meny.no/finn-butikk/meny-stortorvet"
+  },
+  {
+    "id": "2613",
+    "name": "MENY Stovner",
+    "lat": 59.96215598205189,
+    "lon": 10.924518590007677,
+    "address": "Stovner Senter 3",
+    "postalCode": "0985",
+    "city": "OSLO",
+    "url": "https://meny.no/finn-butikk/meny-stovner"
+  },
+  {
+    "id": "1162",
+    "name": "MENY Strømmen",
+    "lat": 59.94686956914035,
+    "lon": 11.005160724783087,
+    "address": "Stasjonsveien 8",
+    "postalCode": "2010",
+    "city": "STRØMMEN",
+    "url": "https://meny.no/finn-butikk/meny-strommen"
+  },
+  {
+    "id": "416",
+    "name": "MENY Støletorget",
+    "lat": 60.399751705628944,
+    "lon": 5.325573249998701,
+    "address": "Stølegaten 15",
+    "postalCode": "5003",
+    "city": "BERGEN",
+    "url": "https://meny.no/finn-butikk/meny-stoletorget"
+  },
+  {
+    "id": "2671",
+    "name": "MENY Sverresborg",
+    "lat": 63.41739671117673,
+    "lon": 10.353965270639405,
+    "address": "Gamle Oslovei 1",
+    "postalCode": "7020",
+    "city": "TRONDHEIM",
+    "url": "https://meny.no/finn-butikk/meny-sverresborg"
+  },
+  {
+    "id": "3363",
+    "name": "MENY Sørlandsparken",
+    "lat": 58.180645457835766,
+    "lon": 8.12616861067108,
+    "address": "Grasdalen 16",
+    "postalCode": "4636",
+    "city": "KRISTIANSAND S",
+    "url": "https://meny.no/finn-butikk/meny-sorlandsparken"
+  },
+  {
+    "id": "1058",
+    "name": "MENY Tangen",
+    "lat": 59.85592269270533,
+    "lon": 10.660824663610006,
+    "address": "Vestveien 51",
+    "postalCode": "1450",
+    "city": "NESODDTANGEN",
+    "url": "https://meny.no/finn-butikk/meny-tangen"
+  },
+  {
+    "id": "2269",
+    "name": "MENY Teie Torg",
+    "lat": 59.251989560569484,
+    "lon": 10.416503198452963,
+    "address": "Ørsnesalléen 37 A",
+    "postalCode": "3106",
+    "city": "NØTTERØY",
+    "url": "https://meny.no/finn-butikk/meny-teie-torg"
+  },
+  {
+    "id": "1078",
+    "name": "MENY Telemarksporten",
+    "lat": 59.121166401030756,
+    "lon": 9.709576113981283,
+    "address": "Prestemoen 6",
+    "postalCode": "3946",
+    "city": "PORSGRUNN",
+    "url": "https://meny.no/finn-butikk/meny-telemarksporten"
+  },
+  {
+    "id": "2216",
+    "name": "MENY Tiller",
+    "lat": 63.35818389577918,
+    "lon": 10.374889879423195,
+    "address": "Ivar Lykkes veg 3",
+    "postalCode": "7075",
+    "city": "TILLER",
+    "url": "https://meny.no/finn-butikk/meny-tiller"
+  },
+  {
+    "id": "1049",
+    "name": "MENY Tolvsrød",
+    "lat": 59.272974854042104,
+    "lon": 10.463338594265553,
+    "address": "Valløveien 31",
+    "postalCode": "3151",
+    "city": "TOLVSRØD",
+    "url": "https://meny.no/finn-butikk/meny-tolvsrod"
+  },
+  {
+    "id": "1881",
+    "name": "MENY Torvet",
+    "lat": 58.145028357310174,
+    "lon": 7.994452398709746,
+    "address": "Markens gate 14",
+    "postalCode": "4611",
+    "city": "KRISTIANSAND S",
+    "url": "https://meny.no/finn-butikk/meny-torvet"
+  },
+  {
+    "id": "1522",
+    "name": "MENY Trekanten",
+    "lat": 59.83635423527829,
+    "lon": 10.434611451722446,
+    "address": "Knud Askers v 20",
+    "postalCode": "1383",
+    "city": "ASKER",
+    "url": "https://meny.no/finn-butikk/meny-trekanten"
+  },
+  {
+    "id": "2617",
+    "name": "MENY Triaden",
+    "lat": 59.91861495608985,
+    "lon": 10.953523211994227,
+    "address": "Gamleveien 88",
+    "postalCode": "1461",
+    "city": "LØRENSKOG",
+    "url": "https://meny.no/finn-butikk/meny-triaden"
+  },
+  {
+    "id": "5428",
+    "name": "MENY Tuven",
+    "lat": 59.5661861640277,
+    "lon": 9.222665900132238,
+    "address": "Tuvenbøygen 2",
+    "postalCode": "3676",
+    "city": "NOTODDEN",
+    "url": "https://meny.no/finn-butikk/meny-tuven"
+  },
+  {
+    "id": "1147",
+    "name": "MENY Tvedestrand",
+    "lat": 58.62873789084227,
+    "lon": 8.915806526203259,
+    "address": "Industriveien 8",
+    "postalCode": "4900",
+    "city": "TVEDESTRAND",
+    "url": "https://meny.no/finn-butikk/meny-tvedestrand"
+  },
+  {
+    "id": "1504",
+    "name": "MENY Tveita",
+    "lat": 59.91383566626576,
+    "lon": 10.84189709578186,
+    "address": "Tvetenveien 150",
+    "postalCode": "0671",
+    "city": "OSLO",
+    "url": "https://meny.no/finn-butikk/meny-tveita"
+  },
+  {
+    "id": "2629",
+    "name": "MENY Union Brygge",
+    "lat": 59.74268932691358,
+    "lon": 10.194541348019198,
+    "address": "Grønland 43-45",
+    "postalCode": "3045",
+    "city": "DRAMMEN",
+    "url": "https://meny.no/finn-butikk/meny-union-brygge"
+  },
+  {
+    "id": "5520",
+    "name": "MENY Vennesla",
+    "lat": 58.270690360831615,
+    "lon": 7.969943805090231,
+    "address": "Torsbyvegen 4",
+    "postalCode": "4700",
+    "city": "VENNESLA",
+    "url": "https://meny.no/finn-butikk/meny-vennesla"
+  },
+  {
+    "id": "1126",
+    "name": "MENY Verdal",
+    "lat": 63.79046959074149,
+    "lon": 11.486023842331722,
+    "address": "Jernbanegata 7A",
+    "postalCode": "7650",
+    "city": "VERDAL",
+    "url": "https://meny.no/finn-butikk/meny-verdal"
+  },
+  {
+    "id": "403",
+    "name": "MENY Vestkanten",
+    "lat": 60.36322002383177,
+    "lon": 5.23360086077686,
+    "address": "Loddefjordveien 2",
+    "postalCode": "5171",
+    "city": "LODDEFJORD",
+    "url": "https://meny.no/finn-butikk/meny-vestkanten"
+  },
+  {
+    "id": "5246",
+    "name": "MENY Vika",
+    "lat": 59.9125587922338,
+    "lon": 10.726927812101778,
+    "address": "Ruseløkkveien 26",
+    "postalCode": "0251",
+    "city": "OSLO",
+    "url": "https://meny.no/finn-butikk/meny-vika"
+  },
+  {
+    "id": "2710",
+    "name": "MENY Vollebekk",
+    "lat": 59.93647131865429,
+    "lon": 10.82695761984739,
+    "address": "Brobekkveien 52",
+    "postalCode": "0598",
+    "city": "OSLO",
+    "url": "https://meny.no/finn-butikk/meny-vollebekk"
+  },
+  {
+    "id": "1108",
+    "name": "MENY Voss",
+    "lat": 60.62883310254369,
+    "lon": 6.4349785187597615,
+    "address": "Hardangervegen 25",
+    "postalCode": "5705",
+    "city": "VOSS",
+    "url": "https://meny.no/finn-butikk/meny-voss"
+  },
+  {
+    "id": "1523",
+    "name": "MENY Vågsbygd",
+    "lat": 58.111385448583114,
+    "lon": 7.952802804690063,
+    "address": "Sagmyra 7",
+    "postalCode": "4624",
+    "city": "KRISTIANSAND S",
+    "url": "https://meny.no/finn-butikk/meny-vagsbygd"
+  },
+  {
+    "id": "1075",
+    "name": "MENY Wilbergjordet",
+    "lat": 59.22497834201444,
+    "lon": 10.953908322305141,
+    "address": "Wilbergjordet 10",
+    "postalCode": "1605",
+    "city": "FREDRIKSTAD",
+    "url": "https://meny.no/finn-butikk/meny-wilbergjordet"
+  },
+  {
+    "id": "1135",
+    "name": "MENY Åneby",
+    "lat": 60.0890220803014,
+    "lon": 10.871967313118628,
+    "address": "Ånebyveien 17",
+    "postalCode": "1484",
+    "city": "HAKADAL",
+    "url": "https://meny.no/finn-butikk/meny-aneby"
+  },
+  {
+    "id": "4687",
+    "name": "MENY Åråsen",
+    "lat": 59.9627156033161,
+    "lon": 11.06120675806098,
+    "address": "C.J. Hansens vei 16",
+    "postalCode": "2007",
+    "city": "KJELLER",
+    "url": "https://meny.no/finn-butikk/meny-arasen"
+  },
+  {
+    "id": "1157",
+    "name": "MENY Åsane Storsenter",
+    "lat": 60.4653225451558,
+    "lon": 5.322051313847239,
+    "address": "Åsane Senter 21",
+    "postalCode": "5116",
+    "city": "ULSET",
+    "url": "https://meny.no/finn-butikk/meny-asane-storsenter"
+  },
+  {
+    "id": "1010",
+    "name": "MENY Åsgårdstrand",
+    "lat": 59.34962092735378,
+    "lon": 10.459487128544376,
+    "address": "Grev Wedels gate 46",
+    "postalCode": "3179",
+    "city": "ÅSGÅRDSTRAND",
+    "url": "https://meny.no/finn-butikk/meny-asgardstrand"
+  },
+  {
+    "id": "1094",
+    "name": "MENY Åssiden",
+    "lat": 59.75371875099765,
+    "lon": 10.137499596234393,
+    "address": "Ing. Rybergs gate 56 B",
+    "postalCode": "3024",
+    "city": "DRAMMEN",
+    "url": "https://meny.no/finn-butikk/meny-assiden"
+  },
+  {
+    "id": "1096",
+    "name": "MENY Ørebekk",
+    "lat": 59.230079441109496,
+    "lon": 10.911781047468052,
+    "address": "Storveien 3B",
+    "postalCode": "1624",
+    "city": "GRESSVIK",
+    "url": "https://meny.no/finn-butikk/meny-orebekk"
+  },
+  {
+    "id": "1516",
+    "name": "MENY Østerås",
+    "lat": 59.943730048662204,
+    "lon": 10.60709022823039,
+    "address": "Otto Ruges vei 80",
+    "postalCode": "1361",
+    "city": "ØSTERÅS",
+    "url": "https://meny.no/finn-butikk/meny-osteras"
+  },
+  {
+    "id": "1164",
+    "name": "MENY Østfoldhallene",
+    "lat": 59.25156848569888,
+    "lon": 10.99305647494155,
+    "address": "Dikeveien 28",
+    "postalCode": "1661",
+    "city": "ROLVSØY",
+    "url": "https://meny.no/finn-butikk/meny-ostfoldhallene"
+  },
+  {
+    "id": "1113",
+    "name": "MENY Øya Larvik",
+    "lat": 59.044311396933985,
+    "lon": 10.061083206902872,
+    "address": "TJØLLINGVEIEN 45A",
+    "postalCode": "3262",
+    "city": "LARVIK",
+    "url": "https://meny.no/finn-butikk/meny-oya-larvik"
+  },
+  {
+    "id": "3813",
+    "name": "Nico Mat",
+    "lat": 58.31622999524861,
+    "lon": 6.962051516788486,
+    "address": "Nesgata 22",
+    "postalCode": "4480",
+    "city": "KVINESDAL",
+    "url": "https://meny.no/finn-butikk/nico-mat"
+  }
+]

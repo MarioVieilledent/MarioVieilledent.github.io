@@ -1,0 +1,2762 @@
+[
+  {
+    "id": "6630",
+    "name": "EUROSPAR Blindheim",
+    "lat": 62.44202519651887,
+    "lon": 6.371977041038529,
+    "address": "Gamle Blindheimsveg 25",
+    "postalCode": "6012",
+    "city": "ÅLESUND",
+    "url": "https://spar.no/finn-butikk/eurospar-blindheim"
+  },
+  {
+    "id": "6909",
+    "name": "EUROSPAR Bodø",
+    "lat": 67.27677189310104,
+    "lon": 14.41782647956451,
+    "address": "Plassmyrveien 50",
+    "postalCode": "8008",
+    "city": "BODØ",
+    "url": "https://spar.no/finn-butikk/eurospar-bodo"
+  },
+  {
+    "id": "5809",
+    "name": "EUROSPAR Brokelandsheia",
+    "lat": 58.82111643931513,
+    "lon": 9.071910902972363,
+    "address": "Brokelandsheia 20",
+    "postalCode": "4993",
+    "city": "SUNDEBRU",
+    "url": "https://spar.no/finn-butikk/eurospar-brokelandsheia"
+  },
+  {
+    "id": "5436",
+    "name": "EUROSPAR Brumunddal",
+    "lat": 60.88451678875214,
+    "lon": 10.94308413243292,
+    "address": "Brugata 16",
+    "postalCode": "2380",
+    "city": "BRUMUNDDAL",
+    "url": "https://spar.no/finn-butikk/eurospar-brumunddal"
+  },
+  {
+    "id": "5476",
+    "name": "EUROSPAR Eikersenteret",
+    "lat": 59.761734945628234,
+    "lon": 9.904264681733999,
+    "address": "Prestebråtan 6",
+    "postalCode": "3300",
+    "city": "HOKKSUND",
+    "url": "https://spar.no/finn-butikk/eurospar-eikersenteret"
+  },
+  {
+    "id": "2212",
+    "name": "EUROSPAR Fagernes",
+    "lat": 60.98707731440035,
+    "lon": 9.236225823067295,
+    "address": "Valdresvegen 28",
+    "postalCode": "2900",
+    "city": "FAGERNES",
+    "url": "https://spar.no/finn-butikk/eurospar-fagernes"
+  },
+  {
+    "id": "5504",
+    "name": "EUROSPAR Finnsnes",
+    "lat": 69.23722399230998,
+    "lon": 17.97753115833563,
+    "address": "Strandveien 68",
+    "postalCode": "9300",
+    "city": "FINNSNES",
+    "url": "https://spar.no/finn-butikk/eurospar-finnsnes"
+  },
+  {
+    "id": "6646",
+    "name": "EUROSPAR Hareid",
+    "lat": 62.37181097250872,
+    "lon": 6.027938648326079,
+    "address": "Kjøpmannsgata 13",
+    "postalCode": "6060",
+    "city": "HAREID",
+    "url": "https://spar.no/finn-butikk/eurospar-hareid"
+  },
+  {
+    "id": "5485",
+    "name": "EUROSPAR Hunstad",
+    "lat": 67.27993319195927,
+    "lon": 14.545795979244183,
+    "address": "Bodøveien 680",
+    "postalCode": "8020",
+    "city": "BODØ",
+    "url": "https://spar.no/finn-butikk/eurospar-hunstad"
+  },
+  {
+    "id": "1338",
+    "name": "EUROSPAR Koch Bodø",
+    "lat": 67.28401993004815,
+    "lon": 14.379452992189321,
+    "address": "Storgata 5",
+    "postalCode": "8006",
+    "city": "BODØ",
+    "url": "https://spar.no/finn-butikk/eurospar-koch-bodo"
+  },
+  {
+    "id": "5483",
+    "name": "EUROSPAR Krokane",
+    "lat": 61.599009008261525,
+    "lon": 5.064317901676878,
+    "address": "Nybøvegen 36",
+    "postalCode": "6907",
+    "city": "FLORØ",
+    "url": "https://spar.no/finn-butikk/eurospar-krokane"
+  },
+  {
+    "id": "6906",
+    "name": "EUROSPAR Kræmer",
+    "lat": 69.66718314626492,
+    "lon": 18.970089510913844,
+    "address": "Stakkevollvegen 41",
+    "postalCode": "9010",
+    "city": "TROMSØ",
+    "url": "https://spar.no/finn-butikk/eurospar-kramer"
+  },
+  {
+    "id": "6930",
+    "name": "EUROSPAR Kvaløysletta",
+    "lat": 69.69085140593602,
+    "lon": 18.863554289121296,
+    "address": "Manetvegen 2",
+    "postalCode": "9100",
+    "city": "KVALØYSLETTA",
+    "url": "https://spar.no/finn-butikk/eurospar-kvaloysletta"
+  },
+  {
+    "id": "4467",
+    "name": "EUROSPAR Langnes",
+    "lat": 69.6756999895163,
+    "lon": 18.9259196597197,
+    "address": "Stormåsveien 1-3",
+    "postalCode": "9015",
+    "city": "TROMSØ",
+    "url": "https://spar.no/finn-butikk/eurospar-langnes"
+  },
+  {
+    "id": "6675",
+    "name": "EUROSPAR Larsgården",
+    "lat": 62.47243651078629,
+    "lon": 6.240343426414197,
+    "address": "Larsgårdsvegen 19",
+    "postalCode": "6009",
+    "city": "ÅLESUND",
+    "url": "https://spar.no/finn-butikk/eurospar-larsgarden"
+  },
+  {
+    "id": "4456",
+    "name": "EUROSPAR Moa",
+    "lat": 62.46481718407167,
+    "lon": 6.351534231494822,
+    "address": "Langelandsvegen 25",
+    "postalCode": "6010",
+    "city": "ÅLESUND",
+    "url": "https://spar.no/finn-butikk/eurospar-moa"
+  },
+  {
+    "id": "4455",
+    "name": "EUROSPAR Molde",
+    "lat": 62.739718924567626,
+    "lon": 7.172828589383955,
+    "address": "Frænavegen 16",
+    "postalCode": "6415",
+    "city": "MOLDE",
+    "url": "https://spar.no/finn-butikk/eurospar-molde"
+  },
+  {
+    "id": "3115",
+    "name": "EUROSPAR Seljestad",
+    "lat": 68.79305572525543,
+    "lon": 16.54383564742082,
+    "address": "Margrethe Jørgensens vei 15B",
+    "postalCode": "9406",
+    "city": "HARSTAD",
+    "url": "https://spar.no/finn-butikk/eurospar-seljestad"
+  },
+  {
+    "id": "5418",
+    "name": "EUROSPAR Skarnes",
+    "lat": 60.2555115792585,
+    "lon": 11.680590840625285,
+    "address": "Bruvegen 15",
+    "postalCode": "2100",
+    "city": "SKARNES",
+    "url": "https://spar.no/finn-butikk/eurospar-skarnes"
+  },
+  {
+    "id": "6907",
+    "name": "EUROSPAR Storgata",
+    "lat": 69.64617544827624,
+    "lon": 18.951872364067317,
+    "address": "Storgata 25",
+    "postalCode": "9008",
+    "city": "TROMSØ",
+    "url": "https://spar.no/finn-butikk/eurospar-storgata"
+  },
+  {
+    "id": "3408",
+    "name": "EUROSPAR Strandveien",
+    "lat": 69.63598778826085,
+    "lon": 18.931905504698506,
+    "address": "Strandvegen 108",
+    "postalCode": "9006",
+    "city": "TROMSØ",
+    "url": "https://spar.no/finn-butikk/eurospar-strandveien"
+  },
+  {
+    "id": "6629",
+    "name": "EUROSPAR Sykkylven",
+    "lat": 62.39143113167348,
+    "lon": 6.57700560284515,
+    "address": "Haugneset 28",
+    "postalCode": "6230",
+    "city": "SYKKYLVEN",
+    "url": "https://spar.no/finn-butikk/eurospar-sykkylven"
+  },
+  {
+    "id": "6319",
+    "name": "EUROSPAR Tomasjord",
+    "lat": 69.66760278027982,
+    "lon": 19.023830244734242,
+    "address": "Tomasjordneset",
+    "postalCode": "9024",
+    "city": "TOMASJORD",
+    "url": "https://spar.no/finn-butikk/eurospar-tomasjord"
+  },
+  {
+    "id": "6908",
+    "name": "EUROSPAR Tromsdalen",
+    "lat": 69.64533772784146,
+    "lon": 18.99287429289721,
+    "address": "Anton Jakobsens veg 1",
+    "postalCode": "9020",
+    "city": "TROMSDALEN",
+    "url": "https://spar.no/finn-butikk/eurospar-tromsdalen"
+  },
+  {
+    "id": "6627",
+    "name": "EUROSPAR Valderøy",
+    "lat": 62.509019766146785,
+    "lon": 6.128288798106613,
+    "address": "Skaret 1",
+    "postalCode": "6050",
+    "city": "VALDERØYA",
+    "url": "https://spar.no/finn-butikk/eurospar-valderoy"
+  },
+  {
+    "id": "6601",
+    "name": "EUROSPAR Ålesund Storsenter",
+    "lat": 62.472310057927125,
+    "lon": 6.1583540878272975,
+    "address": "Rasmus Rønnebergs gate 21",
+    "postalCode": "6002",
+    "city": "ÅLESUND",
+    "url": "https://spar.no/finn-butikk/eurospar-alesund-storsenter"
+  },
+  {
+    "id": "6663",
+    "name": "EUROSPAR Ørsta",
+    "lat": 62.19680981571625,
+    "lon": 6.128112495529491,
+    "address": "Holmegata 6",
+    "postalCode": "6153",
+    "city": "ØRSTA",
+    "url": "https://spar.no/finn-butikk/eurospar-orsta"
+  },
+  {
+    "id": "5462",
+    "name": "SPAR Alvdal",
+    "lat": 62.10853228027656,
+    "lon": 10.6322086789009,
+    "address": "Steia 16",
+    "postalCode": "2560",
+    "city": "ALVDAL",
+    "url": "https://spar.no/finn-butikk/spar-alvdal"
+  },
+  {
+    "id": "615",
+    "name": "SPAR Amfi Os",
+    "lat": 60.20250598360695,
+    "lon": 5.456430929973362,
+    "address": "Prestegårdskogen 2",
+    "postalCode": "5210",
+    "city": "OS",
+    "url": "https://spar.no/finn-butikk/spar-amfi-os"
+  },
+  {
+    "id": "3405",
+    "name": "SPAR Arendal Sentrum",
+    "lat": 58.459492138650745,
+    "lon": 8.763461518417465,
+    "address": "Vesterveien 4, Arenasenteret",
+    "postalCode": "4836",
+    "city": "ARENDAL",
+    "url": "https://spar.no/finn-butikk/spar-arendal-sentrum"
+  },
+  {
+    "id": "2244",
+    "name": "SPAR Ask",
+    "lat": 60.478136282915415,
+    "lon": 5.212528616871655,
+    "address": "Liavegen 6",
+    "postalCode": "5307",
+    "city": "ASK",
+    "url": "https://spar.no/finn-butikk/spar-ask"
+  },
+  {
+    "id": "5551",
+    "name": "SPAR Atrå",
+    "lat": 59.9915888778286,
+    "lon": 8.744268097965046,
+    "address": "Atråvegen 386",
+    "postalCode": "3656",
+    "city": "ATRÅ",
+    "url": "https://spar.no/finn-butikk/spar-atra"
+  },
+  {
+    "id": "6625",
+    "name": "SPAR Aukra",
+    "lat": 62.80391846843991,
+    "lon": 6.8890609895181445,
+    "address": "Nyjordvegen 1",
+    "postalCode": "6480",
+    "city": "AUKRA",
+    "url": "https://spar.no/finn-butikk/spar-aukra"
+  },
+  {
+    "id": "5509",
+    "name": "SPAR Aurland",
+    "lat": 60.90575756741563,
+    "lon": 7.186972065988021,
+    "address": "Vangen 6B",
+    "postalCode": "5745",
+    "city": "AURLAND",
+    "url": "https://spar.no/finn-butikk/spar-aurland"
+  },
+  {
+    "id": "6609",
+    "name": "SPAR B. Langseth",
+    "lat": 63.25034722255958,
+    "lon": 11.09483314175326,
+    "address": "Uglmoene 4",
+    "postalCode": "7580",
+    "city": "SELBU",
+    "url": "https://spar.no/finn-butikk/spar-b-langseth"
+  },
+  {
+    "id": "5407",
+    "name": "SPAR Bagn",
+    "lat": 60.822898035642496,
+    "lon": 9.553821861391674,
+    "address": "Valdrestunet",
+    "postalCode": "2930",
+    "city": "BAGN",
+    "url": "https://spar.no/finn-butikk/spar-bagn"
+  },
+  {
+    "id": "5400",
+    "name": "SPAR Beitostølen",
+    "lat": 61.248769823151726,
+    "lon": 8.906570923346097,
+    "address": "Bygdinvegen 3783",
+    "postalCode": "2953",
+    "city": "BEITOSTØLEN",
+    "url": "https://spar.no/finn-butikk/spar-beitostolen"
+  },
+  {
+    "id": "7758",
+    "name": "SPAR Bekkelaget",
+    "lat": 60.7729959585148,
+    "lon": 11.115711764510282,
+    "address": "Gubberudvegen 2",
+    "postalCode": "2312",
+    "city": "OTTESTAD",
+    "url": "https://spar.no/finn-butikk/spar-bekkelaget"
+  },
+  {
+    "id": "6255",
+    "name": "SPAR Bekkjarvik",
+    "lat": 60.007136969061435,
+    "lon": 5.204940965894061,
+    "address": "Bekkjarvik 70",
+    "postalCode": "5397",
+    "city": "BEKKJARVIK",
+    "url": "https://spar.no/finn-butikk/spar-bekkjarvik"
+  },
+  {
+    "id": "6931",
+    "name": "SPAR Berlevåg",
+    "lat": 70.85906143528238,
+    "lon": 29.090569960592486,
+    "address": "Storgata 20",
+    "postalCode": "9980",
+    "city": "BERLEVÅG",
+    "url": "https://spar.no/finn-butikk/spar-berlevag"
+  },
+  {
+    "id": "6253",
+    "name": "SPAR Bjørkheim",
+    "lat": 60.401252451856436,
+    "lon": 5.731454265347276,
+    "address": "Bjørkheim 26",
+    "postalCode": "5652",
+    "city": "ÅRLAND",
+    "url": "https://spar.no/finn-butikk/spar-bjorkheim"
+  },
+  {
+    "id": "613",
+    "name": "SPAR Blomsterdalen",
+    "lat": 60.284336045544826,
+    "lon": 5.251730320015022,
+    "address": "Lilandsvegen 3",
+    "postalCode": "5258",
+    "city": "BLOMSTERDALEN",
+    "url": "https://spar.no/finn-butikk/spar-blomsterdalen"
+  },
+  {
+    "id": "4404",
+    "name": "SPAR Borg",
+    "lat": 68.23765553393032,
+    "lon": 13.74692519974854,
+    "address": "Vikingveien 440",
+    "postalCode": "8360",
+    "city": "BØSTAD",
+    "url": "https://spar.no/finn-butikk/spar-borg"
+  },
+  {
+    "id": "3792",
+    "name": "SPAR Borgestad",
+    "lat": 59.17029106243028,
+    "lon": 9.651327170919716,
+    "address": "Gregorius Dagsonsgt. 221",
+    "postalCode": "3712",
+    "city": "SKIEN",
+    "url": "https://spar.no/finn-butikk/spar-borgestad"
+  },
+  {
+    "id": "2222",
+    "name": "SPAR Brandbu",
+    "lat": 60.422097290367724,
+    "lon": 10.501531897884732,
+    "address": "Storlinna 5",
+    "postalCode": "2760",
+    "city": "BRANDBU",
+    "url": "https://spar.no/finn-butikk/spar-brandbu"
+  },
+  {
+    "id": "5828",
+    "name": "SPAR Brekkeåsen",
+    "lat": 59.41522966650862,
+    "lon": 10.2798287659467,
+    "address": "Skaugveien 12",
+    "postalCode": "3178",
+    "city": "VÅLE",
+    "url": "https://spar.no/finn-butikk/spar-brekkeasen"
+  },
+  {
+    "id": "6294",
+    "name": "SPAR Bremanger",
+    "lat": 61.84161658866386,
+    "lon": 4.964458304370051,
+    "address": "Grotlevegen 133",
+    "postalCode": "6727",
+    "city": "BREMANGER",
+    "url": "https://spar.no/finn-butikk/spar-bremanger"
+  },
+  {
+    "id": "5846",
+    "name": "SPAR Bruvegen",
+    "lat": 58.26807469301905,
+    "lon": 7.96477041411167,
+    "address": "Bruvegen 7",
+    "postalCode": "4700",
+    "city": "VENNESLA",
+    "url": "https://spar.no/finn-butikk/spar-bruvegen"
+  },
+  {
+    "id": "6329",
+    "name": "SPAR Bryne",
+    "lat": 58.735006644187415,
+    "lon": 5.652661786363889,
+    "address": "Arne Garborgsvei 15-17",
+    "postalCode": "4344",
+    "city": "BRYNE",
+    "url": "https://spar.no/finn-butikk/spar-bryne"
+  },
+  {
+    "id": "6645",
+    "name": "SPAR Brønnøysund",
+    "lat": 65.49137113036625,
+    "lon": 12.240288513029244,
+    "address": "Salhusmarka 2",
+    "postalCode": "8907",
+    "city": "BRØNNØYSUND",
+    "url": "https://spar.no/finn-butikk/spar-bronnoysund"
+  },
+  {
+    "id": "6356",
+    "name": "SPAR Bygdøy",
+    "lat": 59.90118863273433,
+    "lon": 10.67658277289611,
+    "address": "Fredriksborgveien 45",
+    "postalCode": "0286",
+    "city": "OSLO",
+    "url": "https://spar.no/finn-butikk/spar-bygdoy"
+  },
+  {
+    "id": "5513",
+    "name": "SPAR Bygstad",
+    "lat": 61.37584664091262,
+    "lon": 5.6535035480428055,
+    "address": "Bygstad",
+    "postalCode": "6977",
+    "city": "BYGSTAD",
+    "url": "https://spar.no/finn-butikk/spar-bygstad"
+  },
+  {
+    "id": "6285",
+    "name": "SPAR Byhagen",
+    "lat": 58.85143668942851,
+    "lon": 5.729724191767442,
+    "address": "Eidsvollgata 22",
+    "postalCode": "4307",
+    "city": "SANDNES",
+    "url": "https://spar.no/finn-butikk/spar-byhagen"
+  },
+  {
+    "id": "8639",
+    "name": "SPAR Bø i Vesterålen",
+    "lat": 68.62087001617947,
+    "lon": 14.445598277088898,
+    "address": "Bø i Vesterålen",
+    "postalCode": "8470",
+    "city": "BØ I VESTERÅLEN",
+    "url": "https://spar.no/finn-butikk/spar-bo-i-vesteralen"
+  },
+  {
+    "id": "6223",
+    "name": "SPAR Bømlo",
+    "lat": 59.60173764329856,
+    "lon": 5.208945380441276,
+    "address": "Vestvikvegen 2",
+    "postalCode": "5443",
+    "city": "BØMLO",
+    "url": "https://spar.no/finn-butikk/spar-bomlo"
+  },
+  {
+    "id": "6258",
+    "name": "SPAR Bønes",
+    "lat": 60.32817680352338,
+    "lon": 5.293159211774159,
+    "address": "Våkleiven 43",
+    "postalCode": "5155",
+    "city": "BØNES",
+    "url": "https://spar.no/finn-butikk/spar-bones"
+  },
+  {
+    "id": "6664",
+    "name": "SPAR CC Drammen",
+    "lat": 59.74123313986227,
+    "lon": 10.222776830455585,
+    "address": "Tomtegata 36",
+    "postalCode": "3012",
+    "city": "DRAMMEN",
+    "url": "https://spar.no/finn-butikk/spar-cc-drammen"
+  },
+  {
+    "id": "6205",
+    "name": "SPAR Dale",
+    "lat": 60.59003977940877,
+    "lon": 5.820509052068681,
+    "address": "Konsul Jebsensgata 10",
+    "postalCode": "5722",
+    "city": "DALEKVAM",
+    "url": "https://spar.no/finn-butikk/spar-dale"
+  },
+  {
+    "id": "1377",
+    "name": "SPAR Dampsaga",
+    "lat": 64.01864887870589,
+    "lon": 11.489467378165449,
+    "address": "Bogavegen 6",
+    "postalCode": "7725",
+    "city": "STEINKJER",
+    "url": "https://spar.no/finn-butikk/spar-dampsaga"
+  },
+  {
+    "id": "5022",
+    "name": "SPAR Dilling",
+    "lat": 59.40683545992243,
+    "lon": 10.69558892863655,
+    "address": "Tørkoppveien 1",
+    "postalCode": "1570",
+    "city": "DILLING",
+    "url": "https://spar.no/finn-butikk/spar-dilling"
+  },
+  {
+    "id": "1287",
+    "name": "SPAR Dokka",
+    "lat": 60.83385796483097,
+    "lon": 10.0931022819954,
+    "address": "Storgata 20",
+    "postalCode": "2870",
+    "city": "DOKKA",
+    "url": "https://spar.no/finn-butikk/spar-dokka"
+  },
+  {
+    "id": "5066",
+    "name": "SPAR Drag",
+    "lat": 68.04427072218115,
+    "lon": 16.08043127989931,
+    "address": "Hellandsveien 1",
+    "postalCode": "8270",
+    "city": "DRAG",
+    "url": "https://spar.no/finn-butikk/spar-drag"
+  },
+  {
+    "id": "5437",
+    "name": "SPAR Drangedal",
+    "lat": 59.088540993086696,
+    "lon": 9.065701344912767,
+    "address": "Kåsmyra",
+    "postalCode": "3750",
+    "city": "DRANGEDAL",
+    "url": "https://spar.no/finn-butikk/spar-drangedal"
+  },
+  {
+    "id": "3466",
+    "name": "SPAR Dælenenggata",
+    "lat": 59.9272813886616,
+    "lon": 10.770460468976788,
+    "address": "Dælenenggata 26",
+    "postalCode": "0567",
+    "city": "OSLO",
+    "url": "https://spar.no/finn-butikk/spar-dalenenggata"
+  },
+  {
+    "id": "4342",
+    "name": "SPAR Dønna",
+    "lat": 66.10925210286466,
+    "lon": 12.490341985789385,
+    "address": "KAIBAKKEN 1",
+    "postalCode": "8820",
+    "city": "DØNNA",
+    "url": "https://spar.no/finn-butikk/spar-donna"
+  },
+  {
+    "id": "6233",
+    "name": "SPAR EIGERØY",
+    "lat": 58.45242348443971,
+    "lon": 5.974957363834386,
+    "address": "Uførfjellveien 1A",
+    "postalCode": "4374",
+    "city": "EGERSUND",
+    "url": "https://spar.no/finn-butikk/spar-eigeroy"
+  },
+  {
+    "id": "7746",
+    "name": "SPAR Eggedal",
+    "lat": 60.24632987468539,
+    "lon": 9.355836485857711,
+    "address": "Eggedalsveien 1500",
+    "postalCode": "3359",
+    "city": "EGGEDAL",
+    "url": "https://spar.no/finn-butikk/spar-eggedal"
+  },
+  {
+    "id": "7685",
+    "name": "SPAR Eidsnes",
+    "lat": 62.42736966731458,
+    "lon": 6.315670283048045,
+    "address": "Eidsnes",
+    "postalCode": "6037",
+    "city": "EIDSNES",
+    "url": "https://spar.no/finn-butikk/spar-eidsnes"
+  },
+  {
+    "id": "6293",
+    "name": "SPAR Eikefjord",
+    "lat": 61.58863220567875,
+    "lon": 5.460449470175705,
+    "address": "Hovlandsveien 4",
+    "postalCode": "6940",
+    "city": "EIKEFJORD",
+    "url": "https://spar.no/finn-butikk/spar-eikefjord"
+  },
+  {
+    "id": "6237",
+    "name": "SPAR Eikelandsosen",
+    "lat": 60.24007132047163,
+    "lon": 5.747449446802345,
+    "address": "Leiro 37",
+    "postalCode": "5640",
+    "city": "EIKELANDSOSEN",
+    "url": "https://spar.no/finn-butikk/spar-eikelandsosen"
+  },
+  {
+    "id": "6224",
+    "name": "SPAR Eikeviken",
+    "lat": 60.428258575835876,
+    "lon": 5.294005140796853,
+    "address": "Helleveien 141",
+    "postalCode": "5039",
+    "city": "BERGEN",
+    "url": "https://spar.no/finn-butikk/spar-eikeviken"
+  },
+  {
+    "id": "1892",
+    "name": "SPAR Ekholt",
+    "lat": 59.412585907976386,
+    "lon": 10.661196816544319,
+    "address": "Ekholtv 2",
+    "postalCode": "1526",
+    "city": "MOSS",
+    "url": "https://spar.no/finn-butikk/spar-ekholt"
+  },
+  {
+    "id": "6660",
+    "name": "SPAR Ellingsøy",
+    "lat": 62.50448476179667,
+    "lon": 6.39605392703085,
+    "address": "Røysetmarka 1",
+    "postalCode": "6057",
+    "city": "ELLINGSØY",
+    "url": "https://spar.no/finn-butikk/spar-ellingsoy"
+  },
+  {
+    "id": "4586",
+    "name": "SPAR Ensjø",
+    "lat": 59.91393605200996,
+    "lon": 10.787678615856493,
+    "address": "Ensjøveien 21A",
+    "postalCode": "0655",
+    "city": "OSLO",
+    "url": "https://spar.no/finn-butikk/spar-ensjo"
+  },
+  {
+    "id": "5843",
+    "name": "SPAR Evje",
+    "lat": 58.58359052161488,
+    "lon": 7.79858315661356,
+    "address": "Verksvegen 2",
+    "postalCode": "4735",
+    "city": "EVJE",
+    "url": "https://spar.no/finn-butikk/spar-evje"
+  },
+  {
+    "id": "5337",
+    "name": "SPAR Farsund",
+    "lat": 58.085890862133944,
+    "lon": 6.783446926947809,
+    "address": "Lauervik terrasse 20",
+    "postalCode": "4550",
+    "city": "FARSUND",
+    "url": "https://spar.no/finn-butikk/spar-farsund"
+  },
+  {
+    "id": "4376",
+    "name": "SPAR Fauske",
+    "lat": 67.25215214848465,
+    "lon": 15.429366100110721,
+    "address": "Finneidgata 1",
+    "postalCode": "8210",
+    "city": "FAUSKE",
+    "url": "https://spar.no/finn-butikk/spar-fauske"
+  },
+  {
+    "id": "6357",
+    "name": "SPAR Fetsund",
+    "lat": 59.92733864300284,
+    "lon": 11.160372229001823,
+    "address": "Gamle Fetvei 11",
+    "postalCode": "1900",
+    "city": "FETSUND",
+    "url": "https://spar.no/finn-butikk/spar-fetsund"
+  },
+  {
+    "id": "1335",
+    "name": "SPAR Finbekken",
+    "lat": 68.44156946700753,
+    "lon": 17.428831449394323,
+    "address": "Frydenlundgata 44",
+    "postalCode": "8517",
+    "city": "NARVIK",
+    "url": "https://spar.no/finn-butikk/spar-finbekken"
+  },
+  {
+    "id": "6650",
+    "name": "SPAR Fiskåbygd",
+    "lat": 62.100103382449646,
+    "lon": 5.556596128196174,
+    "address": "Rådhusvegen 3",
+    "postalCode": "6143",
+    "city": "FISKÅ",
+    "url": "https://spar.no/finn-butikk/spar-fiskabygd"
+  },
+  {
+    "id": "6214",
+    "name": "SPAR Fitjar",
+    "lat": 59.91794971137596,
+    "lon": 5.315355360369737,
+    "address": "Fitjarsjøen 16",
+    "postalCode": "5419",
+    "city": "FITJAR",
+    "url": "https://spar.no/finn-butikk/spar-fitjar"
+  },
+  {
+    "id": "4997",
+    "name": "SPAR Fjøsanger",
+    "lat": 60.348724205918316,
+    "lon": 5.335929900879232,
+    "address": "Fjøsangerveien 215",
+    "postalCode": "5073",
+    "city": "BERGEN",
+    "url": "https://spar.no/finn-butikk/spar-fjosanger"
+  },
+  {
+    "id": "6624",
+    "name": "SPAR Flatanger",
+    "lat": 64.50001548724774,
+    "lon": 10.893923544487507,
+    "address": "Strandaveien 95",
+    "postalCode": "7770",
+    "city": "FLATANGER",
+    "url": "https://spar.no/finn-butikk/spar-flatanger"
+  },
+  {
+    "id": "5012",
+    "name": "SPAR Flateby",
+    "lat": 59.82977958030145,
+    "lon": 11.152192333761183,
+    "address": "Bakkehagen 6",
+    "postalCode": "1911",
+    "city": "FLATEBY",
+    "url": "https://spar.no/finn-butikk/spar-flateby"
+  },
+  {
+    "id": "5840",
+    "name": "SPAR Flekkefjord",
+    "lat": 58.29371577530063,
+    "lon": 6.665429083864713,
+    "address": "Jernbaneveien 12",
+    "postalCode": "4405",
+    "city": "FLEKKEFJORD",
+    "url": "https://spar.no/finn-butikk/spar-flekkefjord"
+  },
+  {
+    "id": "5484",
+    "name": "SPAR Florø",
+    "lat": 61.60008215571537,
+    "lon": 5.033379712364431,
+    "address": "Strandgata 42",
+    "postalCode": "6905",
+    "city": "FLORØ",
+    "url": "https://spar.no/finn-butikk/spar-floro"
+  },
+  {
+    "id": "2249",
+    "name": "SPAR Follese",
+    "lat": 60.40937707863559,
+    "lon": 5.157254760508413,
+    "address": "Follesevegen 267",
+    "postalCode": "5303",
+    "city": "FOLLESE",
+    "url": "https://spar.no/finn-butikk/spar-follese"
+  },
+  {
+    "id": "7680",
+    "name": "SPAR Fosnagata",
+    "lat": 63.11506614728173,
+    "lon": 7.731747819146608,
+    "address": "Fosnagata 11",
+    "postalCode": "6509",
+    "city": "KRISTIANSUND N",
+    "url": "https://spar.no/finn-butikk/spar-fosnagata"
+  },
+  {
+    "id": "6643",
+    "name": "SPAR Fosnavåg",
+    "lat": 62.32887778505845,
+    "lon": 5.634570261866295,
+    "address": "Myklebustvegen 42",
+    "postalCode": "6092",
+    "city": "FOSNAVÅG",
+    "url": "https://spar.no/finn-butikk/spar-fosnavag"
+  },
+  {
+    "id": "6322",
+    "name": "SPAR Frakkagjerd",
+    "lat": 59.41683297060948,
+    "lon": 5.4049361269802265,
+    "address": "Frakkagjerdvegen 90",
+    "postalCode": "5563",
+    "city": "FØRRESFJORDEN",
+    "url": "https://spar.no/finn-butikk/spar-frakkagjerd"
+  },
+  {
+    "id": "5099",
+    "name": "SPAR Fusa",
+    "lat": 60.19682442063149,
+    "lon": 5.612024088873253,
+    "address": "Venjanesvegen 136",
+    "postalCode": "5641",
+    "city": "FUSA",
+    "url": "https://spar.no/finn-butikk/spar-fusa"
+  },
+  {
+    "id": "5100",
+    "name": "SPAR Fyresdal",
+    "lat": 59.18473361005683,
+    "lon": 8.091387976083448,
+    "address": "Sentrumsbygget",
+    "postalCode": "3870",
+    "city": "FYRESDAL",
+    "url": "https://spar.no/finn-butikk/spar-fyresdal"
+  },
+  {
+    "id": "6261",
+    "name": "SPAR Førde",
+    "lat": 61.45211954178384,
+    "lon": 5.850608198229855,
+    "address": "Storehagen 9",
+    "postalCode": "6800",
+    "city": "FØRDE",
+    "url": "https://spar.no/finn-butikk/spar-forde"
+  },
+  {
+    "id": "5886",
+    "name": "SPAR Føynland",
+    "lat": 59.2361775255939,
+    "lon": 10.450376396643641,
+    "address": "Fjærholmveien 1",
+    "postalCode": "3132",
+    "city": "HUSØYSUND",
+    "url": "https://spar.no/finn-butikk/spar-foynland"
+  },
+  {
+    "id": "3886",
+    "name": "SPAR Gamle Fredrikstad",
+    "lat": 59.20166499360392,
+    "lon": 10.963692952030895,
+    "address": "Torsnesveien 7",
+    "postalCode": "1630",
+    "city": "GAMLE FREDRIKSTAD",
+    "url": "https://spar.no/finn-butikk/spar-gamle-fredrikstad"
+  },
+  {
+    "id": "6269",
+    "name": "SPAR Gaupne",
+    "lat": 61.40321119054425,
+    "lon": 7.295079727402992,
+    "address": "Pyramiden Senter",
+    "postalCode": "6868",
+    "city": "GAUPNE",
+    "url": "https://spar.no/finn-butikk/spar-gaupne"
+  },
+  {
+    "id": "5409",
+    "name": "SPAR Geilo",
+    "lat": 60.53484779655377,
+    "lon": 8.209423736033347,
+    "address": "Kyrkjevegen 18",
+    "postalCode": "3580",
+    "city": "GEILO",
+    "url": "https://spar.no/finn-butikk/spar-geilo"
+  },
+  {
+    "id": "5531",
+    "name": "SPAR Geilobrua",
+    "lat": 60.52872369518382,
+    "lon": 8.209353425412166,
+    "address": "Skurdalsvegen 26",
+    "postalCode": "3580",
+    "city": "GEILO",
+    "url": "https://spar.no/finn-butikk/spar-geilobrua"
+  },
+  {
+    "id": "3154",
+    "name": "SPAR Gol",
+    "lat": 60.69992782284789,
+    "lon": 8.9440611268991,
+    "address": "Furuvegen 6",
+    "postalCode": "3550",
+    "city": "GOL",
+    "url": "https://spar.no/finn-butikk/spar-gol"
+  },
+  {
+    "id": "2204",
+    "name": "SPAR Gran",
+    "lat": 60.35398512628095,
+    "lon": 10.572771509426325,
+    "address": "Smiegata 17",
+    "postalCode": "2750",
+    "city": "GRAN",
+    "url": "https://spar.no/finn-butikk/spar-gran"
+  },
+  {
+    "id": "4491",
+    "name": "SPAR Gratangen",
+    "lat": 68.69141823722057,
+    "lon": 17.533069634934616,
+    "address": "Nordsiveien 86",
+    "postalCode": "9470",
+    "city": "GRATANGEN",
+    "url": "https://spar.no/finn-butikk/spar-gratangen"
+  },
+  {
+    "id": "6321",
+    "name": "SPAR Hafslo",
+    "lat": 61.31595884542016,
+    "lon": 7.202991733889341,
+    "address": "Hafslovegen 169",
+    "postalCode": "6869",
+    "city": "HAFSLO",
+    "url": "https://spar.no/finn-butikk/spar-hafslo"
+  },
+  {
+    "id": "6228",
+    "name": "SPAR Haga",
+    "lat": 59.80344353815864,
+    "lon": 5.518627461388678,
+    "address": "Hystadvegen 250",
+    "postalCode": "5416",
+    "city": "STORD",
+    "url": "https://spar.no/finn-butikk/spar-haga"
+  },
+  {
+    "id": "1947",
+    "name": "SPAR Halden",
+    "lat": 59.13218949835947,
+    "lon": 11.355851822456762,
+    "address": "Rødsveien 74",
+    "postalCode": "1781",
+    "city": "HALDEN",
+    "url": "https://spar.no/finn-butikk/spar-halden"
+  },
+  {
+    "id": "2327",
+    "name": "SPAR Halsa",
+    "lat": 66.743360228721,
+    "lon": 13.551785579005518,
+    "address": "Furøyveien 6",
+    "postalCode": "8178",
+    "city": "HALSA",
+    "url": "https://spar.no/finn-butikk/spar-halsa"
+  },
+  {
+    "id": "1340",
+    "name": "SPAR Halsøy",
+    "lat": 65.8629137421775,
+    "lon": 13.195815584165596,
+    "address": "Leira 6",
+    "postalCode": "8665",
+    "city": "MOSJØEN",
+    "url": "https://spar.no/finn-butikk/spar-halsoy"
+  },
+  {
+    "id": "4372",
+    "name": "SPAR Hamarøy",
+    "lat": 68.08477452895325,
+    "lon": 15.611386440908031,
+    "address": "Vestfjordveien 1606",
+    "postalCode": "8294",
+    "city": "HAMARØY",
+    "url": "https://spar.no/finn-butikk/spar-hamaroy"
+  },
+  {
+    "id": "4325",
+    "name": "SPAR Hammerfest",
+    "lat": 70.65495754436654,
+    "lon": 23.700278115517815,
+    "address": "Freidigveien 2",
+    "postalCode": "9603",
+    "city": "HAMMERFEST",
+    "url": "https://spar.no/finn-butikk/spar-hammerfest"
+  },
+  {
+    "id": "6313",
+    "name": "SPAR Hana",
+    "lat": 58.85498409264606,
+    "lon": 5.769041539565156,
+    "address": "Skippergata 118",
+    "postalCode": "4328",
+    "city": "SANDNES",
+    "url": "https://spar.no/finn-butikk/spar-hana"
+  },
+  {
+    "id": "4591",
+    "name": "SPAR Hasle",
+    "lat": 59.92697977658725,
+    "lon": 10.793997319317382,
+    "address": "Bøkkerveien 4",
+    "postalCode": "0579",
+    "city": "OSLO",
+    "url": "https://spar.no/finn-butikk/spar-hasle"
+  },
+  {
+    "id": "6254",
+    "name": "SPAR Hatlestrand",
+    "lat": 60.05973515706203,
+    "lon": 5.914340630934214,
+    "address": "Hatlestrandsvegen 645",
+    "postalCode": "5635",
+    "city": "HATLESTRAND",
+    "url": "https://spar.no/finn-butikk/spar-hatlestrand"
+  },
+  {
+    "id": "5637",
+    "name": "SPAR Haugsbygd",
+    "lat": 60.17745979436381,
+    "lon": 10.345060714095041,
+    "address": "Smeden 2",
+    "postalCode": "3514",
+    "city": "HØNEFOSS",
+    "url": "https://spar.no/finn-butikk/spar-haugsbygd"
+  },
+  {
+    "id": "4613",
+    "name": "SPAR Haugåsstubben",
+    "lat": 58.94588846052748,
+    "lon": 5.728758500719127,
+    "address": "Haugåsstubben 3",
+    "postalCode": "4016",
+    "city": "STAVANGER",
+    "url": "https://spar.no/finn-butikk/spar-haugasstubben"
+  },
+  {
+    "id": "1273",
+    "name": "SPAR Haukeli",
+    "lat": 59.73715780806238,
+    "lon": 7.56593461583619,
+    "address": "Edland",
+    "postalCode": "3895",
+    "city": "EDLAND",
+    "url": "https://spar.no/finn-butikk/spar-haukeli"
+  },
+  {
+    "id": "6921",
+    "name": "SPAR Heggmo",
+    "lat": 69.04320347530702,
+    "lon": 18.509198256397664,
+    "address": "Rustaveien 16",
+    "postalCode": "9325",
+    "city": "BARDUFOSS",
+    "url": "https://spar.no/finn-butikk/spar-heggmo"
+  },
+  {
+    "id": "4345",
+    "name": "SPAR Hegra",
+    "lat": 63.46343346261576,
+    "lon": 11.11414357931095,
+    "address": "Einar Bergs veg 2 D",
+    "postalCode": "7520",
+    "city": "HEGRA",
+    "url": "https://spar.no/finn-butikk/spar-hegra"
+  },
+  {
+    "id": "4667",
+    "name": "SPAR Heiane",
+    "lat": 59.76263069989512,
+    "lon": 5.456310268348855,
+    "address": "SVARTADALEN 4",
+    "postalCode": "5412",
+    "city": "STORD",
+    "url": "https://spar.no/finn-butikk/spar-heiane"
+  },
+  {
+    "id": "1322",
+    "name": "SPAR Heimdal",
+    "lat": 63.3534095322187,
+    "lon": 10.355370765610596,
+    "address": "Søbstadvegen 16",
+    "postalCode": "7088",
+    "city": "HEIMDAL",
+    "url": "https://spar.no/finn-butikk/spar-heimdal"
+  },
+  {
+    "id": "5824",
+    "name": "SPAR Hemsedal",
+    "lat": 60.862414211689305,
+    "lon": 8.554682849660862,
+    "address": "Gamle Meieriet",
+    "postalCode": "3560",
+    "city": "HEMSEDAL",
+    "url": "https://spar.no/finn-butikk/spar-hemsedal"
+  },
+  {
+    "id": "2260",
+    "name": "SPAR Herøy",
+    "lat": 65.96088723663898,
+    "lon": 12.27447131680101,
+    "address": "Tennveien 1",
+    "postalCode": "8850",
+    "city": "HERØY",
+    "url": "https://spar.no/finn-butikk/spar-heroy"
+  },
+  {
+    "id": "7660",
+    "name": "SPAR Hjelmeland",
+    "lat": 59.22992820193065,
+    "lon": 6.152720907367702,
+    "address": "Ryfylkevegen 6963",
+    "postalCode": "4130",
+    "city": "HJELMELAND",
+    "url": "https://spar.no/finn-butikk/spar-hjelmeland"
+  },
+  {
+    "id": "3359",
+    "name": "SPAR Hobøl",
+    "lat": 59.55844060391852,
+    "lon": 10.845012641033133,
+    "address": "Ringvoll Senter 2B",
+    "postalCode": "1827",
+    "city": "HOBØL",
+    "url": "https://spar.no/finn-butikk/spar-hobol"
+  },
+  {
+    "id": "5439",
+    "name": "SPAR Hokksund",
+    "lat": 59.76807457747849,
+    "lon": 9.909598679057778,
+    "address": "Støagata 1B",
+    "postalCode": "3300",
+    "city": "HOKKSUND",
+    "url": "https://spar.no/finn-butikk/spar-hokksund"
+  },
+  {
+    "id": "5411",
+    "name": "SPAR Holsfjorden",
+    "lat": 59.894236668039454,
+    "lon": 10.283891516056771,
+    "address": "Modumveien 43",
+    "postalCode": "3410",
+    "city": "SYLLING",
+    "url": "https://spar.no/finn-butikk/spar-holsfjorden"
+  },
+  {
+    "id": "7208",
+    "name": "SPAR Holum",
+    "lat": 58.09252337260271,
+    "lon": 7.526860159761033,
+    "address": "Marnarveien 782",
+    "postalCode": "4519",
+    "city": "HOLUM",
+    "url": "https://spar.no/finn-butikk/spar-holum"
+  },
+  {
+    "id": "9679",
+    "name": "SPAR Hornindal",
+    "lat": 61.96770048541858,
+    "lon": 6.525502643153249,
+    "address": "Sanden 26",
+    "postalCode": "6763",
+    "city": "HORNINDAL",
+    "url": "https://spar.no/finn-butikk/spar-hornindal"
+  },
+  {
+    "id": "4678",
+    "name": "SPAR Hosteland",
+    "lat": 60.834032205768416,
+    "lon": 5.2629992064615,
+    "address": "Fensfjordvegen 613",
+    "postalCode": "5986",
+    "city": "HOSTELAND",
+    "url": "https://spar.no/finn-butikk/spar-hosteland"
+  },
+  {
+    "id": "2691",
+    "name": "SPAR Hovdebygda",
+    "lat": 62.18284003000833,
+    "lon": 6.084853034009286,
+    "address": "Hovdebygda",
+    "postalCode": "6160",
+    "city": "HOVDEBYGDA",
+    "url": "https://spar.no/finn-butikk/spar-hovdebygda"
+  },
+  {
+    "id": "5027",
+    "name": "SPAR Hurdal",
+    "lat": 60.4332004656531,
+    "lon": 11.066409397537262,
+    "address": "Vestsidevegen 6",
+    "postalCode": "2090",
+    "city": "HURDAL",
+    "url": "https://spar.no/finn-butikk/spar-hurdal"
+  },
+  {
+    "id": "619",
+    "name": "SPAR Husnes",
+    "lat": 59.862097086284834,
+    "lon": 5.755985461172996,
+    "address": "Sentrumsvegen 15",
+    "postalCode": "5460",
+    "city": "HUSNES",
+    "url": "https://spar.no/finn-butikk/spar-husnes"
+  },
+  {
+    "id": "3448",
+    "name": "SPAR Hvaltorvet",
+    "lat": 59.13019729870885,
+    "lon": 10.226210760954475,
+    "address": "Torget 7",
+    "postalCode": "3210",
+    "city": "SANDEFJORD",
+    "url": "https://spar.no/finn-butikk/spar-hvaltorvet"
+  },
+  {
+    "id": "2210",
+    "name": "SPAR Hvittingfoss",
+    "lat": 59.48303700095932,
+    "lon": 10.010164906286036,
+    "address": "Sentrumsveien 28",
+    "postalCode": "3647",
+    "city": "HVITTINGFOSS",
+    "url": "https://spar.no/finn-butikk/spar-hvittingfoss"
+  },
+  {
+    "id": "6241",
+    "name": "SPAR Hylkje",
+    "lat": 60.50904365069371,
+    "lon": 5.347350053851219,
+    "address": "Hylkjebakken 1",
+    "postalCode": "5109",
+    "city": "HYLKJE",
+    "url": "https://spar.no/finn-butikk/spar-hylkje"
+  },
+  {
+    "id": "6209",
+    "name": "SPAR Hyllestad",
+    "lat": 61.17033852347145,
+    "lon": 5.296315285000572,
+    "address": "Hyllestadvegen 436",
+    "postalCode": "6957",
+    "city": "HYLLESTAD",
+    "url": "https://spar.no/finn-butikk/spar-hyllestad"
+  },
+  {
+    "id": "5841",
+    "name": "SPAR Hægeland",
+    "lat": 58.383256002886554,
+    "lon": 7.741322849146391,
+    "address": "Setesdalsvegen 882",
+    "postalCode": "4720",
+    "city": "HÆGELAND",
+    "url": "https://spar.no/finn-butikk/spar-hageland"
+  },
+  {
+    "id": "5486",
+    "name": "SPAR Isdalstø",
+    "lat": 60.555975964155664,
+    "lon": 5.27021330957119,
+    "address": "Lindåsvegen 145",
+    "postalCode": "5916",
+    "city": "ISDALSTØ",
+    "url": "https://spar.no/finn-butikk/spar-isdalsto"
+  },
+  {
+    "id": "618",
+    "name": "SPAR Jondal",
+    "lat": 60.27535663184764,
+    "lon": 6.2521667918979,
+    "address": "Belsnesvegen 5",
+    "postalCode": "5627",
+    "city": "JONDAL",
+    "url": "https://spar.no/finn-butikk/spar-jondal"
+  },
+  {
+    "id": "6277",
+    "name": "SPAR Jølstraholmen",
+    "lat": 61.488130013745455,
+    "lon": 6.082610544091938,
+    "address": "Jølstravegen 705",
+    "postalCode": "6847",
+    "city": "VASSENDEN",
+    "url": "https://spar.no/finn-butikk/spar-jolstraholmen"
+  },
+  {
+    "id": "6885",
+    "name": "SPAR Kaldnes Brygge",
+    "lat": 59.26405368007705,
+    "lon": 10.402720101247537,
+    "address": "Rambergveien 1",
+    "postalCode": "3115",
+    "city": "TØNSBERG",
+    "url": "https://spar.no/finn-butikk/spar-kaldnes-brygge"
+  },
+  {
+    "id": "4368",
+    "name": "SPAR Kalvåg",
+    "lat": 61.76683171200674,
+    "lon": 4.879768963967797,
+    "address": "Amtskaivegen 8",
+    "postalCode": "6729",
+    "city": "KALVÅG",
+    "url": "https://spar.no/finn-butikk/spar-kalvag"
+  },
+  {
+    "id": "6339",
+    "name": "SPAR Karensfryd",
+    "lat": 60.38166671694569,
+    "lon": 5.311889599633743,
+    "address": "Frydenbølien 17",
+    "postalCode": "5056",
+    "city": "BERGEN",
+    "url": "https://spar.no/finn-butikk/spar-karensfryd"
+  },
+  {
+    "id": "5020",
+    "name": "SPAR Kastellet",
+    "lat": 59.87072742925004,
+    "lon": 10.795462637708397,
+    "address": "Lambertseterveien 7",
+    "postalCode": "1160",
+    "city": "OSLO",
+    "url": "https://spar.no/finn-butikk/spar-kastellet"
+  },
+  {
+    "id": "6218",
+    "name": "SPAR Kinsarvik",
+    "lat": 60.37521937880566,
+    "lon": 6.718913059849109,
+    "address": "Kinsarvikvegen 25",
+    "postalCode": "5780",
+    "city": "KINSARVIK",
+    "url": "https://spar.no/finn-butikk/spar-kinsarvik"
+  },
+  {
+    "id": "1367",
+    "name": "SPAR Kirkebukta Kragerø",
+    "lat": 58.87239520161934,
+    "lon": 9.415139382278957,
+    "address": "Ytre Strandveien 26",
+    "postalCode": "3770",
+    "city": "KRAGERØ",
+    "url": "https://spar.no/finn-butikk/spar-kirkebukta-kragero"
+  },
+  {
+    "id": "6358",
+    "name": "SPAR Kjelsås",
+    "lat": 59.960853365592186,
+    "lon": 10.790990282502433,
+    "address": "Myrerskogveien 12",
+    "postalCode": "0495",
+    "city": "OSLO",
+    "url": "https://spar.no/finn-butikk/spar-kjelsas"
+  },
+  {
+    "id": "8542",
+    "name": "SPAR Kjerrgarden",
+    "lat": 60.50338233055762,
+    "lon": 5.0650577009451405,
+    "address": "Skutlevika 1",
+    "postalCode": "5314",
+    "city": "KJERRGARDEN",
+    "url": "https://spar.no/finn-butikk/spar-kjerrgarden"
+  },
+  {
+    "id": "6648",
+    "name": "SPAR Kjørbekk",
+    "lat": 59.17706801372701,
+    "lon": 9.613254986649162,
+    "address": "Kjørbekkvegen 46",
+    "postalCode": "3735",
+    "city": "SKIEN",
+    "url": "https://spar.no/finn-butikk/spar-kjorbekk"
+  },
+  {
+    "id": "9111",
+    "name": "SPAR Kodal",
+    "lat": 59.21480519025484,
+    "lon": 10.136697732932832,
+    "address": "Sagmyra 2",
+    "postalCode": "3243",
+    "city": "KODAL",
+    "url": "https://spar.no/finn-butikk/spar-kodal"
+  },
+  {
+    "id": "4917",
+    "name": "SPAR Kongsberg",
+    "lat": 59.66596670519473,
+    "lon": 9.683099265939273,
+    "address": "Drammensveien 87",
+    "postalCode": "3612",
+    "city": "KONGSBERG",
+    "url": "https://spar.no/finn-butikk/spar-kongsberg"
+  },
+  {
+    "id": "9022",
+    "name": "SPAR Konsmo",
+    "lat": 58.28502988735764,
+    "lon": 7.3551292034668965,
+    "address": "Kvåsheiveien 2",
+    "postalCode": "4525",
+    "city": "KONSMO",
+    "url": "https://spar.no/finn-butikk/spar-konsmo"
+  },
+  {
+    "id": "5457",
+    "name": "SPAR Kristensen",
+    "lat": 59.7263767861882,
+    "lon": 10.227167796200458,
+    "address": "Holmestrandsveien 34",
+    "postalCode": "3041",
+    "city": "DRAMMEN",
+    "url": "https://spar.no/finn-butikk/spar-kristensen"
+  },
+  {
+    "id": "7233",
+    "name": "SPAR Kronstadparken",
+    "lat": 60.37349865365532,
+    "lon": 5.342356515506819,
+    "address": "Bjørnsons gate 5",
+    "postalCode": "5059",
+    "city": "BERGEN",
+    "url": "https://spar.no/finn-butikk/spar-kronstadparken"
+  },
+  {
+    "id": "6924",
+    "name": "SPAR Kullboden",
+    "lat": 59.48912427297973,
+    "lon": 10.317059270284169,
+    "address": "Havnegaten 11",
+    "postalCode": "3080",
+    "city": "HOLMESTRAND",
+    "url": "https://spar.no/finn-butikk/spar-kullboden"
+  },
+  {
+    "id": "5837",
+    "name": "SPAR Kvelde",
+    "lat": 59.19045395651149,
+    "lon": 9.964530500589126,
+    "address": "Holmfossveien 22",
+    "postalCode": "3282",
+    "city": "KVELDE",
+    "url": "https://spar.no/finn-butikk/spar-kvelde"
+  },
+  {
+    "id": "5629",
+    "name": "SPAR LUND TORV",
+    "lat": 58.15220222227757,
+    "lon": 8.010158350107861,
+    "address": "Marviksveien 2B",
+    "postalCode": "4631",
+    "city": "KRISTIANSAND S",
+    "url": "https://spar.no/finn-butikk/spar-lund-torv"
+  },
+  {
+    "id": "4337",
+    "name": "SPAR Lakselv",
+    "lat": 70.05293568663424,
+    "lon": 24.96113682389179,
+    "address": "Torget 16",
+    "postalCode": "9700",
+    "city": "LAKSELV",
+    "url": "https://spar.no/finn-butikk/spar-lakselv"
+  },
+  {
+    "id": "3848",
+    "name": "SPAR Langevåg",
+    "lat": 62.44214683484613,
+    "lon": 6.190327886123006,
+    "address": "Fyllingvegen 9",
+    "postalCode": "6030",
+    "city": "LANGEVÅG",
+    "url": "https://spar.no/finn-butikk/spar-langevag"
+  },
+  {
+    "id": "9921",
+    "name": "SPAR Lena",
+    "lat": 60.67313149266132,
+    "lon": 10.811863155338495,
+    "address": "Valsetvegen 10",
+    "postalCode": "2850",
+    "city": "LENA",
+    "url": "https://spar.no/finn-butikk/spar-lena"
+  },
+  {
+    "id": "6338",
+    "name": "SPAR Lone",
+    "lat": 60.37523665210359,
+    "lon": 5.456518351335427,
+    "address": "Hardangervegen 700",
+    "postalCode": "5268",
+    "city": "HAUKELAND",
+    "url": "https://spar.no/finn-butikk/spar-lone"
+  },
+  {
+    "id": "4640",
+    "name": "SPAR Lyngseidet",
+    "lat": 69.57628667446275,
+    "lon": 20.219771446851286,
+    "address": "Strandveien 10",
+    "postalCode": "9060",
+    "city": "LYNGSEIDET",
+    "url": "https://spar.no/finn-butikk/spar-lyngseidet"
+  },
+  {
+    "id": "5163",
+    "name": "SPAR Lysaker Brygge",
+    "lat": 59.91002431991435,
+    "lon": 10.642092129159229,
+    "address": "Lysaker Brygge 45",
+    "postalCode": "1366",
+    "city": "LYSAKER",
+    "url": "https://spar.no/finn-butikk/spar-lysaker-brygge"
+  },
+  {
+    "id": "6640",
+    "name": "SPAR Meldal",
+    "lat": 63.04639026146635,
+    "lon": 9.713189360809476,
+    "address": "Løkkenveien 1260",
+    "postalCode": "7336",
+    "city": "MELDAL",
+    "url": "https://spar.no/finn-butikk/spar-meldal"
+  },
+  {
+    "id": "7778",
+    "name": "SPAR Midsund",
+    "lat": 62.673953230408586,
+    "lon": 6.676051701817368,
+    "address": "Midsund senter",
+    "postalCode": "6475",
+    "city": "MIDSUND",
+    "url": "https://spar.no/finn-butikk/spar-midsund"
+  },
+  {
+    "id": "4829",
+    "name": "SPAR Mjøsbrua",
+    "lat": 60.923371010823544,
+    "lon": 10.701342778316896,
+    "address": "Storgata 130",
+    "postalCode": "2390",
+    "city": "MOELV",
+    "url": "https://spar.no/finn-butikk/spar-mjosbrua"
+  },
+  {
+    "id": "4833",
+    "name": "SPAR Momarken",
+    "lat": 59.57136874735404,
+    "lon": 11.329964502671471,
+    "address": "Vandugbakken 95-97",
+    "postalCode": "1850",
+    "city": "MYSEN",
+    "url": "https://spar.no/finn-butikk/spar-momarken"
+  },
+  {
+    "id": "2242",
+    "name": "SPAR Mongstad",
+    "lat": 60.79703784458126,
+    "lon": 5.012172613792738,
+    "address": "Litlås",
+    "postalCode": "5954",
+    "city": "MONGSTAD",
+    "url": "https://spar.no/finn-butikk/spar-mongstad"
+  },
+  {
+    "id": "5414",
+    "name": "SPAR Mosenteret",
+    "lat": 60.425233113567955,
+    "lon": 11.640111225804521,
+    "address": "Engvegen 14",
+    "postalCode": "2133",
+    "city": "GARDVIK",
+    "url": "https://spar.no/finn-butikk/spar-mosenteret"
+  },
+  {
+    "id": "2200",
+    "name": "SPAR Nesbyen",
+    "lat": 60.56925597264063,
+    "lon": 9.102303954336229,
+    "address": "Jordeshagen 5",
+    "postalCode": "3540",
+    "city": "NESBYEN",
+    "url": "https://spar.no/finn-butikk/spar-nesbyen"
+  },
+  {
+    "id": "4303",
+    "name": "SPAR Nesna",
+    "lat": 66.1977232931153,
+    "lon": 13.027111443952942,
+    "address": "Skolevegen 35",
+    "postalCode": "8700",
+    "city": "NESNA",
+    "url": "https://spar.no/finn-butikk/spar-nesna"
+  },
+  {
+    "id": "3276",
+    "name": "SPAR Nore Neset",
+    "lat": 60.18543842379397,
+    "lon": 5.408459657859126,
+    "address": "Ulvenvegen 373",
+    "postalCode": "5217",
+    "city": "HAGAVIK",
+    "url": "https://spar.no/finn-butikk/spar-nore-neset"
+  },
+  {
+    "id": "6330",
+    "name": "SPAR Norheimsund",
+    "lat": 60.371937817187714,
+    "lon": 6.141259172238284,
+    "address": "Gamle Dalaveg 3",
+    "postalCode": "5600",
+    "city": "NORHEIMSUND",
+    "url": "https://spar.no/finn-butikk/spar-norheimsund"
+  },
+  {
+    "id": "7661",
+    "name": "SPAR Notodden",
+    "lat": 59.56083411735367,
+    "lon": 9.248135492051045,
+    "address": "Heddalsveien 49",
+    "postalCode": "3678",
+    "city": "NOTODDEN",
+    "url": "https://spar.no/finn-butikk/spar-notodden"
+  },
+  {
+    "id": "2247",
+    "name": "SPAR Nykirke",
+    "lat": 59.42459834761107,
+    "lon": 10.382727636185228,
+    "address": "Kopstadveien 3",
+    "postalCode": "3180",
+    "city": "NYKIRKE",
+    "url": "https://spar.no/finn-butikk/spar-nykirke"
+  },
+  {
+    "id": "653",
+    "name": "SPAR Nå",
+    "lat": 60.25902635732928,
+    "lon": 6.5742035001204515,
+    "address": "Fjordavegen 1997",
+    "postalCode": "5776",
+    "city": "NÅ",
+    "url": "https://spar.no/finn-butikk/spar-na"
+  },
+  {
+    "id": "3325",
+    "name": "SPAR Odden",
+    "lat": 58.33777764442928,
+    "lon": 8.593041616654777,
+    "address": "Odden 1",
+    "postalCode": "4876",
+    "city": "GRIMSTAD",
+    "url": "https://spar.no/finn-butikk/spar-odden"
+  },
+  {
+    "id": "4383",
+    "name": "SPAR Oppdal",
+    "lat": 62.59103207011933,
+    "lon": 9.683510863270783,
+    "address": "Tranevegen 2",
+    "postalCode": "7340",
+    "city": "OPPDAL",
+    "url": "https://spar.no/finn-butikk/spar-oppdal"
+  },
+  {
+    "id": "5447",
+    "name": "SPAR Os",
+    "lat": 62.495994193259705,
+    "lon": 11.223971329224579,
+    "address": "Søstergata 4",
+    "postalCode": "2550",
+    "city": "OS I ØSTERDALEN",
+    "url": "https://spar.no/finn-butikk/spar-os"
+  },
+  {
+    "id": "8078",
+    "name": "SPAR Ottersøy",
+    "lat": 64.8571308690721,
+    "lon": 11.287516420647632,
+    "address": "Alexandra Sverdrups veg 2",
+    "postalCode": "7940",
+    "city": "OTTERSØY",
+    "url": "https://spar.no/finn-butikk/spar-ottersoy"
+  },
+  {
+    "id": "4319",
+    "name": "SPAR Overhalla",
+    "lat": 64.49411535606113,
+    "lon": 11.949029022026538,
+    "address": "Namsengata 1",
+    "postalCode": "7863",
+    "city": "OVERHALLA",
+    "url": "https://spar.no/finn-butikk/spar-overhalla"
+  },
+  {
+    "id": "2257",
+    "name": "SPAR Prestfoss",
+    "lat": 60.04304306463794,
+    "lon": 9.634554261075007,
+    "address": "Sagveien 2",
+    "postalCode": "3350",
+    "city": "PRESTFOSS",
+    "url": "https://spar.no/finn-butikk/spar-prestfoss"
+  },
+  {
+    "id": "5515",
+    "name": "SPAR Ramberghjørnet",
+    "lat": 59.56489143702764,
+    "lon": 9.266756399958108,
+    "address": "Storgata 87",
+    "postalCode": "3674",
+    "city": "NOTODDEN",
+    "url": "https://spar.no/finn-butikk/spar-ramberghjornet"
+  },
+  {
+    "id": "8638",
+    "name": "SPAR Raudeberg",
+    "lat": 61.981737146066195,
+    "lon": 5.135841712212064,
+    "address": "Vika",
+    "postalCode": "6710",
+    "city": "RAUDEBERG",
+    "url": "https://spar.no/finn-butikk/spar-raudeberg"
+  },
+  {
+    "id": "5479",
+    "name": "SPAR Rauland",
+    "lat": 59.69569442764768,
+    "lon": 8.066173914306823,
+    "address": "Juvlandsveien 2",
+    "postalCode": "3864",
+    "city": "RAULAND",
+    "url": "https://spar.no/finn-butikk/spar-rauland"
+  },
+  {
+    "id": "2205",
+    "name": "SPAR Rena",
+    "lat": 61.1330198315298,
+    "lon": 11.371548365725989,
+    "address": "Tollef Kildesgate 26",
+    "postalCode": "2450",
+    "city": "RENA",
+    "url": "https://spar.no/finn-butikk/spar-rena"
+  },
+  {
+    "id": "6912",
+    "name": "SPAR Ringvassøy",
+    "lat": 69.96056760162011,
+    "lon": 19.610042548991753,
+    "address": "Øvre Industrivei 67",
+    "postalCode": "9130",
+    "city": "HANSNES",
+    "url": "https://spar.no/finn-butikk/spar-ringvassoy"
+  },
+  {
+    "id": "4805",
+    "name": "SPAR Rising",
+    "lat": 59.2292964377714,
+    "lon": 9.598447356679122,
+    "address": "Luksefjellveien 53",
+    "postalCode": "3716",
+    "city": "SKIEN",
+    "url": "https://spar.no/finn-butikk/spar-rising"
+  },
+  {
+    "id": "1339",
+    "name": "SPAR Rognan",
+    "lat": 67.10147480297292,
+    "lon": 15.392212072044096,
+    "address": "Jernbanegata 19",
+    "postalCode": "8250",
+    "city": "ROGNAN",
+    "url": "https://spar.no/finn-butikk/spar-rognan"
+  },
+  {
+    "id": "1264",
+    "name": "SPAR Rong",
+    "lat": 60.513435300187844,
+    "lon": 4.909597234981095,
+    "address": "Rong Senter",
+    "postalCode": "5337",
+    "city": "RONG",
+    "url": "https://spar.no/finn-butikk/spar-rong"
+  },
+  {
+    "id": "6333",
+    "name": "SPAR Rosendal",
+    "lat": 59.986301232459354,
+    "lon": 6.009708280528704,
+    "address": "Skålagato 36",
+    "postalCode": "5486",
+    "city": "ROSENDAL",
+    "url": "https://spar.no/finn-butikk/spar-rosendal"
+  },
+  {
+    "id": "4338",
+    "name": "SPAR Rugtvedt",
+    "lat": 59.0370849799813,
+    "lon": 9.6747865809838,
+    "address": "Europaveien 139",
+    "postalCode": "3962",
+    "city": "STATHELLE",
+    "url": "https://spar.no/finn-butikk/spar-rugtvedt"
+  },
+  {
+    "id": "7693",
+    "name": "SPAR Råholt",
+    "lat": 60.284586451917676,
+    "lon": 11.171668353135857,
+    "address": "Gladbakkgutua 3,",
+    "postalCode": "2070",
+    "city": "RÅHOLT",
+    "url": "https://spar.no/finn-butikk/spar-raholt"
+  },
+  {
+    "id": "6674",
+    "name": "SPAR Røthe Namsos",
+    "lat": 64.46665713759968,
+    "lon": 11.495726147415045,
+    "address": "Kirkegata 8",
+    "postalCode": "7800",
+    "city": "NAMSOS",
+    "url": "https://spar.no/finn-butikk/spar-rothe-namsos"
+  },
+  {
+    "id": "5884",
+    "name": "SPAR Røyken",
+    "lat": 59.746376555074136,
+    "lon": 10.391781367480364,
+    "address": "Bråsetveien 3",
+    "postalCode": "3440",
+    "city": "RØYKEN",
+    "url": "https://spar.no/finn-butikk/spar-royken"
+  },
+  {
+    "id": "8621",
+    "name": "SPAR Sande i Sunnfjord",
+    "lat": 61.326142175871006,
+    "lon": 5.796703936016762,
+    "address": "Sandevegen 151",
+    "postalCode": "6973",
+    "city": "SANDE I SUNNFJORD",
+    "url": "https://spar.no/finn-butikk/spar-sande-i-sunnfjord"
+  },
+  {
+    "id": "5469",
+    "name": "SPAR Sannerud",
+    "lat": 60.80869235768303,
+    "lon": 11.087879367538585,
+    "address": "Furnesveien 134",
+    "postalCode": "2318",
+    "city": "HAMAR",
+    "url": "https://spar.no/finn-butikk/spar-sannerud"
+  },
+  {
+    "id": "5429",
+    "name": "SPAR Saulandtunet",
+    "lat": 59.61317445374991,
+    "lon": 8.946718563659925,
+    "address": "Saulandsvegen 422",
+    "postalCode": "3692",
+    "city": "SAULAND",
+    "url": "https://spar.no/finn-butikk/spar-saulandtunet"
+  },
+  {
+    "id": "6236",
+    "name": "SPAR Seimstrand",
+    "lat": 60.611741394734544,
+    "lon": 5.278307987102665,
+    "address": "Lurevegen 88",
+    "postalCode": "5912",
+    "city": "SEIM",
+    "url": "https://spar.no/finn-butikk/spar-seimstrand"
+  },
+  {
+    "id": "1376",
+    "name": "SPAR Sentrum Steinkjer",
+    "lat": 64.01454626255108,
+    "lon": 11.495333245361747,
+    "address": "Kongens gate 27",
+    "postalCode": "7713",
+    "city": "STEINKJER",
+    "url": "https://spar.no/finn-butikk/spar-sentrum-steinkjer"
+  },
+  {
+    "id": "6229",
+    "name": "SPAR Sikthaugen",
+    "lat": 60.35915683573484,
+    "lon": 5.300144509359441,
+    "address": "Sikthaugen Terrasse 1",
+    "postalCode": "5145",
+    "city": "FYLLINGSDALEN",
+    "url": "https://spar.no/finn-butikk/spar-sikthaugen"
+  },
+  {
+    "id": "6359",
+    "name": "SPAR Simensbråten",
+    "lat": 59.89690898562031,
+    "lon": 10.791475817465125,
+    "address": "Lyngveien 1",
+    "postalCode": "1182",
+    "city": "OSLO",
+    "url": "https://spar.no/finn-butikk/spar-simensbraten"
+  },
+  {
+    "id": "5883",
+    "name": "SPAR Sjøbua Valle",
+    "lat": 58.93054843383135,
+    "lon": 9.563060077939355,
+    "address": "Valleveien 1000",
+    "postalCode": "3960",
+    "city": "STATHELLE",
+    "url": "https://spar.no/finn-butikk/spar-sjobua-valle"
+  },
+  {
+    "id": "4328",
+    "name": "SPAR Skage",
+    "lat": 64.46360294098474,
+    "lon": 11.761238621468152,
+    "address": "Kjerkvegen 1 D",
+    "postalCode": "7860",
+    "city": "SKAGE I NAMDALEN",
+    "url": "https://spar.no/finn-butikk/spar-skage"
+  },
+  {
+    "id": "5630",
+    "name": "SPAR Skjebergveien",
+    "lat": 59.25463783109913,
+    "lon": 11.176276830697024,
+    "address": "Skjebergveien 123",
+    "postalCode": "1743",
+    "city": "KLAVESTADHAUGEN",
+    "url": "https://spar.no/finn-butikk/spar-skjebergveien"
+  },
+  {
+    "id": "5524",
+    "name": "SPAR Skjelsvik",
+    "lat": 59.09553038455405,
+    "lon": 9.685929826707904,
+    "address": "Gamle Postveg 2",
+    "postalCode": "3942",
+    "city": "PORSGRUNN",
+    "url": "https://spar.no/finn-butikk/spar-skjelsvik"
+  },
+  {
+    "id": "6263",
+    "name": "SPAR Skjoldtun",
+    "lat": 60.30373697719988,
+    "lon": 5.337821755419674,
+    "address": "Hjorteveien 2",
+    "postalCode": "5236",
+    "city": "RÅDAL",
+    "url": "https://spar.no/finn-butikk/spar-skjoldtun"
+  },
+  {
+    "id": "2306",
+    "name": "SPAR Skjærgården",
+    "lat": 59.012713285767276,
+    "lon": 9.741697441388801,
+    "address": "Baneåsen 55B",
+    "postalCode": "3970",
+    "city": "LANGESUND",
+    "url": "https://spar.no/finn-butikk/spar-skjargarden"
+  },
+  {
+    "id": "7686",
+    "name": "SPAR Skjærhalden",
+    "lat": 59.02549099083441,
+    "lon": 11.039531248647616,
+    "address": "Strandveien 17",
+    "postalCode": "1680",
+    "city": "SKJÆRHALDEN",
+    "url": "https://spar.no/finn-butikk/spar-skjarhalden"
+  },
+  {
+    "id": "4365",
+    "name": "SPAR Skåla",
+    "lat": 62.70191054047269,
+    "lon": 7.423711117394235,
+    "address": "Kaptein Dreyers veg 2",
+    "postalCode": "6456",
+    "city": "SKÅLA",
+    "url": "https://spar.no/finn-butikk/spar-skala"
+  },
+  {
+    "id": "6336",
+    "name": "SPAR Skånevik",
+    "lat": 59.73266489426017,
+    "lon": 5.933054940848483,
+    "address": "Skånevikvegen 1",
+    "postalCode": "5593",
+    "city": "SKÅNEVIK",
+    "url": "https://spar.no/finn-butikk/spar-skanevik"
+  },
+  {
+    "id": "2248",
+    "name": "SPAR Skåredalen",
+    "lat": 59.408425636631286,
+    "lon": 5.329642694241162,
+    "address": "Ragnvald Wesbøes gate 1",
+    "postalCode": "5534",
+    "city": "HAUGESUND",
+    "url": "https://spar.no/finn-butikk/spar-skaredalen"
+  },
+  {
+    "id": "2307",
+    "name": "SPAR Sluppan",
+    "lat": 58.87583202327519,
+    "lon": 9.362278746933553,
+    "address": "Kammerfossveien 1D",
+    "postalCode": "3772",
+    "city": "KRAGERØ",
+    "url": "https://spar.no/finn-butikk/spar-sluppan"
+  },
+  {
+    "id": "3285",
+    "name": "SPAR Snarøya",
+    "lat": 59.88191726952092,
+    "lon": 10.610813413293204,
+    "address": "Snarøyveien 139",
+    "postalCode": "1367",
+    "city": "SNARØYA",
+    "url": "https://spar.no/finn-butikk/spar-snaroya"
+  },
+  {
+    "id": "6240",
+    "name": "SPAR Solund",
+    "lat": 61.071840989455524,
+    "lon": 4.840691999792789,
+    "address": "Hardbakke",
+    "postalCode": "6924",
+    "city": "HARDBAKKE",
+    "url": "https://spar.no/finn-butikk/spar-solund"
+  },
+  {
+    "id": "4677",
+    "name": "SPAR Spannaveien",
+    "lat": 59.396009405402765,
+    "lon": 5.301918924560747,
+    "address": "Spannaveien 148",
+    "postalCode": "5535",
+    "city": "HAUGESUND",
+    "url": "https://spar.no/finn-butikk/spar-spannaveien"
+  },
+  {
+    "id": "5069",
+    "name": "SPAR Sperrebotn",
+    "lat": 59.45808591314708,
+    "lon": 10.8029452603327,
+    "address": "Vålerveien 925",
+    "postalCode": "1591",
+    "city": "SPERREBOTN",
+    "url": "https://spar.no/finn-butikk/spar-sperrebotn"
+  },
+  {
+    "id": "6678",
+    "name": "SPAR Spjelkavik",
+    "lat": 62.462269510067664,
+    "lon": 6.3640768141915505,
+    "address": "Spjelkavikv 61",
+    "postalCode": "6010",
+    "city": "ÅLESUND",
+    "url": "https://spar.no/finn-butikk/spar-spjelkavik"
+  },
+  {
+    "id": "2942",
+    "name": "SPAR Stadsbygd",
+    "lat": 63.510967092241884,
+    "lon": 10.015028128025756,
+    "address": "Teglverksveien 128",
+    "postalCode": "7105",
+    "city": "STADSBYGD",
+    "url": "https://spar.no/finn-butikk/spar-stadsbygd"
+  },
+  {
+    "id": "7751",
+    "name": "SPAR Steinsland",
+    "lat": 60.1926457819209,
+    "lon": 5.105872064632222,
+    "address": "Forlandskrysset",
+    "postalCode": "5379",
+    "city": "STEINSLAND",
+    "url": "https://spar.no/finn-butikk/spar-steinsland"
+  },
+  {
+    "id": "6917",
+    "name": "SPAR Storslett",
+    "lat": 69.76860530778417,
+    "lon": 21.003518781386255,
+    "address": "Fosseng 2",
+    "postalCode": "9151",
+    "city": "STORSLETT",
+    "url": "https://spar.no/finn-butikk/spar-storslett"
+  },
+  {
+    "id": "5205",
+    "name": "SPAR Storsteinnes",
+    "lat": 69.23975149394735,
+    "lon": 19.2362143976898,
+    "address": "Brattmelveien 6",
+    "postalCode": "9050",
+    "city": "STORSTEINNES",
+    "url": "https://spar.no/finn-butikk/spar-storsteinnes"
+  },
+  {
+    "id": "6317",
+    "name": "SPAR Straumane",
+    "lat": 62.31616099100654,
+    "lon": 5.843855011756533,
+    "address": "Sundgot",
+    "postalCode": "6065",
+    "city": "ULSTEINVIK",
+    "url": "https://spar.no/finn-butikk/spar-straumane"
+  },
+  {
+    "id": "4617",
+    "name": "SPAR Sundbyfoss",
+    "lat": 59.51290311122883,
+    "lon": 10.124010727738698,
+    "address": "Kaarbyveien 41",
+    "postalCode": "3092",
+    "city": "SUNDBYFOSS",
+    "url": "https://spar.no/finn-butikk/spar-sundbyfoss"
+  },
+  {
+    "id": "1192",
+    "name": "SPAR Sundvollen",
+    "lat": 60.06194989593541,
+    "lon": 10.310020293882626,
+    "address": "Dronningveien 3",
+    "postalCode": "3531",
+    "city": "KROKKLEIVA",
+    "url": "https://spar.no/finn-butikk/spar-sundvollen"
+  },
+  {
+    "id": "2245",
+    "name": "SPAR Svanedalgården",
+    "lat": 58.45150178863622,
+    "lon": 6.0076784473083205,
+    "address": "Spinnerigaten 13",
+    "postalCode": "4370",
+    "city": "EGERSUND",
+    "url": "https://spar.no/finn-butikk/spar-svanedalgarden"
+  },
+  {
+    "id": "5815",
+    "name": "SPAR Svarstad",
+    "lat": 59.401268420319454,
+    "lon": 9.962241957555486,
+    "address": "Lågaveien 25",
+    "postalCode": "3275",
+    "city": "SVARSTAD",
+    "url": "https://spar.no/finn-butikk/spar-svarstad"
+  },
+  {
+    "id": "5413",
+    "name": "SPAR Sveum",
+    "lat": 60.89096622395691,
+    "lon": 10.945125959634376,
+    "address": "Berger Langmoens veg 55",
+    "postalCode": "2386",
+    "city": "BRUMUNDDAL",
+    "url": "https://spar.no/finn-butikk/spar-sveum"
+  },
+  {
+    "id": "6621",
+    "name": "SPAR Svingen",
+    "lat": 62.311385289734,
+    "lon": 6.918058331217966,
+    "address": "Ringstadveien 67",
+    "postalCode": "6200",
+    "city": "STRANDA",
+    "url": "https://spar.no/finn-butikk/spar-svingen"
+  },
+  {
+    "id": "4399",
+    "name": "SPAR Svolvær",
+    "lat": 68.2336619889272,
+    "lon": 14.556731333918071,
+    "address": "Storøyveien 74",
+    "postalCode": "8300",
+    "city": "SVOLVÆR",
+    "url": "https://spar.no/finn-butikk/spar-svolvar"
+  },
+  {
+    "id": "6227",
+    "name": "SPAR Sæbøvik",
+    "lat": 59.7940449516075,
+    "lon": 5.708270339801496,
+    "address": "Sæbøvikvegen 130",
+    "postalCode": "5484",
+    "city": "SÆBØVIK",
+    "url": "https://spar.no/finn-butikk/spar-sabovik"
+  },
+  {
+    "id": "2250",
+    "name": "SPAR Søbakken",
+    "lat": 60.90123646337524,
+    "lon": 11.56091991289857,
+    "address": "Søbakkveien 2",
+    "postalCode": "2409",
+    "city": "ELVERUM",
+    "url": "https://spar.no/finn-butikk/spar-sobakken"
+  },
+  {
+    "id": "8499",
+    "name": "SPAR Sørhaug",
+    "lat": 59.41733638127354,
+    "lon": 5.295763022454293,
+    "address": "Fjellveien 1A",
+    "postalCode": "5532",
+    "city": "HAUGESUND",
+    "url": "https://spar.no/finn-butikk/spar-sorhaug"
+  },
+  {
+    "id": "5569",
+    "name": "SPAR Sørlandsparken",
+    "lat": 58.17668527816068,
+    "lon": 8.129295880607865,
+    "address": "Barstølveien 58",
+    "postalCode": "4636",
+    "city": "KRISTIANSAND S",
+    "url": "https://spar.no/finn-butikk/spar-sorlandsparken"
+  },
+  {
+    "id": "6631",
+    "name": "SPAR Søvik",
+    "lat": 62.55002200962282,
+    "lon": 6.278317006758011,
+    "address": "Hamnsundvegen 242",
+    "postalCode": "6280",
+    "city": "SØVIK",
+    "url": "https://spar.no/finn-butikk/spar-sovik"
+  },
+  {
+    "id": "5467",
+    "name": "SPAR Tangen",
+    "lat": 60.61758668108824,
+    "lon": 11.267656711308263,
+    "address": "Tangstubakken 2",
+    "postalCode": "2337",
+    "city": "TANGEN",
+    "url": "https://spar.no/finn-butikk/spar-tangen"
+  },
+  {
+    "id": "6344",
+    "name": "SPAR Tjeldstø",
+    "lat": 60.589946812830725,
+    "lon": 4.840867418203047,
+    "address": "Jensvandveien 1",
+    "postalCode": "5336",
+    "city": "TJELDSTØ",
+    "url": "https://spar.no/finn-butikk/spar-tjeldsto"
+  },
+  {
+    "id": "5808",
+    "name": "SPAR Tjøme",
+    "lat": 59.115451887819376,
+    "lon": 10.392260738724714,
+    "address": "Korsholmveien 1",
+    "postalCode": "3145",
+    "city": "TJØME",
+    "url": "https://spar.no/finn-butikk/spar-tjome"
+  },
+  {
+    "id": "8127",
+    "name": "SPAR Toppen",
+    "lat": 59.19380862043481,
+    "lon": 9.626201254692846,
+    "address": "Gregorius Dagssons gate 50",
+    "postalCode": "3746",
+    "city": "SKIEN",
+    "url": "https://spar.no/finn-butikk/spar-toppen"
+  },
+  {
+    "id": "4587",
+    "name": "SPAR Torget",
+    "lat": 58.97015635337327,
+    "lon": 5.732884759778763,
+    "address": "Domkirkeplassen 1",
+    "postalCode": "4006",
+    "city": "STAVANGER",
+    "url": "https://spar.no/finn-butikk/spar-torget"
+  },
+  {
+    "id": "5474",
+    "name": "SPAR Torget Vest",
+    "lat": 59.74580359942335,
+    "lon": 10.20235594946338,
+    "address": "Rådhusgaten 2",
+    "postalCode": "3016",
+    "city": "DRAMMEN",
+    "url": "https://spar.no/finn-butikk/spar-torget-vest"
+  },
+  {
+    "id": "6680",
+    "name": "SPAR Tresfjord",
+    "lat": 62.52244052398778,
+    "lon": 7.128331951161502,
+    "address": "Neremsvegen 6",
+    "postalCode": "6391",
+    "city": "TRESFJORD",
+    "url": "https://spar.no/finn-butikk/spar-tresfjord"
+  },
+  {
+    "id": "5877",
+    "name": "SPAR Treungen",
+    "lat": 59.0201409552306,
+    "lon": 8.520668874266187,
+    "address": "TREUNGVEGEN 410",
+    "postalCode": "3855",
+    "city": "TREUNGEN",
+    "url": "https://spar.no/finn-butikk/spar-treungen"
+  },
+  {
+    "id": "1975",
+    "name": "SPAR Tune",
+    "lat": 59.28710636123653,
+    "lon": 11.088177782037922,
+    "address": "Lilletuneveien 2",
+    "postalCode": "1711",
+    "city": "SARPSBORG",
+    "url": "https://spar.no/finn-butikk/spar-tune"
+  },
+  {
+    "id": "2202",
+    "name": "SPAR Tynset",
+    "lat": 62.27276186880859,
+    "lon": 10.774485679389983,
+    "address": "Ringveien 39",
+    "postalCode": "2500",
+    "city": "TYNSET",
+    "url": "https://spar.no/finn-butikk/spar-tynset"
+  },
+  {
+    "id": "6207",
+    "name": "SPAR Tysnes",
+    "lat": 60.043422133772815,
+    "lon": 5.522187474914708,
+    "address": "Hegglandsvegen 33",
+    "postalCode": "5680",
+    "city": "TYSNES",
+    "url": "https://spar.no/finn-butikk/spar-tysnes"
+  },
+  {
+    "id": "5024",
+    "name": "SPAR Tåsen",
+    "lat": 59.95243462879635,
+    "lon": 10.751191405971829,
+    "address": "Kaj Munks vei 41",
+    "postalCode": "0876",
+    "city": "OSLO",
+    "url": "https://spar.no/finn-butikk/spar-tasen"
+  },
+  {
+    "id": "3451",
+    "name": "SPAR Ulefoss",
+    "lat": 59.28225625708985,
+    "lon": 9.268947677421167,
+    "address": "Stårrvegen 3A",
+    "postalCode": "3830",
+    "city": "ULEFOSS",
+    "url": "https://spar.no/finn-butikk/spar-ulefoss"
+  },
+  {
+    "id": "6318",
+    "name": "SPAR Ulsteinvik",
+    "lat": 62.34226584655483,
+    "lon": 5.868340155882387,
+    "address": "Rognahaugen 1",
+    "postalCode": "6065",
+    "city": "ULSTEINVIK",
+    "url": "https://spar.no/finn-butikk/spar-ulsteinvik"
+  },
+  {
+    "id": "655",
+    "name": "SPAR Uskedalen",
+    "lat": 59.93200100873915,
+    "lon": 5.858715236484756,
+    "address": "Sandavegen 13",
+    "postalCode": "5463",
+    "city": "USKEDALEN",
+    "url": "https://spar.no/finn-butikk/spar-uskedalen"
+  },
+  {
+    "id": "679",
+    "name": "SPAR Valen",
+    "lat": 59.83206934124855,
+    "lon": 5.783580573092298,
+    "address": "Eplehagen 3",
+    "postalCode": "5451",
+    "city": "VALEN",
+    "url": "https://spar.no/finn-butikk/spar-valen"
+  },
+  {
+    "id": "2328",
+    "name": "SPAR Valldal",
+    "lat": 62.297964415868144,
+    "lon": 7.264075353476542,
+    "address": "Syltegata 1",
+    "postalCode": "6210",
+    "city": "VALLDAL",
+    "url": "https://spar.no/finn-butikk/spar-valldal"
+  },
+  {
+    "id": "2251",
+    "name": "SPAR Vang",
+    "lat": 60.845147493965015,
+    "lon": 11.199903568062236,
+    "address": "Slemsrudvegen 8",
+    "postalCode": "2324",
+    "city": "VANG PÅ HEDMARKEN",
+    "url": "https://spar.no/finn-butikk/spar-vang"
+  },
+  {
+    "id": "5626",
+    "name": "SPAR Vardø",
+    "lat": 70.37419626991613,
+    "lon": 31.099703323578595,
+    "address": "Skagveien 1",
+    "postalCode": "9952",
+    "city": "VARDØ",
+    "url": "https://spar.no/finn-butikk/spar-vardo"
+  },
+  {
+    "id": "8500",
+    "name": "SPAR Varhaug",
+    "lat": 58.61516641262226,
+    "lon": 5.647083986365839,
+    "address": "Stasjonsvegen 14",
+    "postalCode": "4360",
+    "city": "VARHAUG",
+    "url": "https://spar.no/finn-butikk/spar-varhaug"
+  },
+  {
+    "id": "4318",
+    "name": "SPAR Vartdal",
+    "lat": 62.30107411113262,
+    "lon": 6.0832620021375945,
+    "address": "Hamnevegen 3",
+    "postalCode": "6170",
+    "city": "VARTDAL",
+    "url": "https://spar.no/finn-butikk/spar-vartdal"
+  },
+  {
+    "id": "5657",
+    "name": "SPAR Vaskerelven",
+    "lat": 60.391624323583024,
+    "lon": 5.320939189368604,
+    "address": "Vaskerelven 4",
+    "postalCode": "5014",
+    "city": "BERGEN",
+    "url": "https://spar.no/finn-butikk/spar-vaskerelven"
+  },
+  {
+    "id": "2684",
+    "name": "SPAR Vea",
+    "lat": 59.27749314857134,
+    "lon": 5.242801331937721,
+    "address": "Bleikmyrvegen 2 A",
+    "postalCode": "4276",
+    "city": "VEAVÅGEN",
+    "url": "https://spar.no/finn-butikk/spar-vea"
+  },
+  {
+    "id": "8074",
+    "name": "SPAR Vega",
+    "lat": 65.67626245151457,
+    "lon": 11.963320244830541,
+    "address": "Rørøyveien 4",
+    "postalCode": "8983",
+    "city": "VEGA",
+    "url": "https://spar.no/finn-butikk/spar-vega"
+  },
+  {
+    "id": "9672",
+    "name": "SPAR Vektergården",
+    "lat": 59.41600808625351,
+    "lon": 10.485782775726348,
+    "address": "Vektergården Senter, Langgata 2",
+    "postalCode": "3187",
+    "city": "HORTEN",
+    "url": "https://spar.no/finn-butikk/spar-vektergarden"
+  },
+  {
+    "id": "5514",
+    "name": "SPAR Vigeland",
+    "lat": 58.08460543155884,
+    "lon": 7.3024671005470525,
+    "address": "Smibakken 14",
+    "postalCode": "4520",
+    "city": "LINDESNES",
+    "url": "https://spar.no/finn-butikk/spar-vigeland"
+  },
+  {
+    "id": "1343",
+    "name": "SPAR Vik",
+    "lat": 61.08564359778607,
+    "lon": 6.581502893635076,
+    "address": "Røysavegen 2",
+    "postalCode": "6893",
+    "city": "VIK I SOGN",
+    "url": "https://spar.no/finn-butikk/spar-vik"
+  },
+  {
+    "id": "5450",
+    "name": "SPAR Vikersund",
+    "lat": 59.96811823806399,
+    "lon": 9.99815690643343,
+    "address": "Vikersundgaten 6",
+    "postalCode": "3370",
+    "city": "VIKERSUND",
+    "url": "https://spar.no/finn-butikk/spar-vikersund"
+  },
+  {
+    "id": "1272",
+    "name": "SPAR Vinje",
+    "lat": 59.568806593783236,
+    "lon": 7.990399929705071,
+    "address": "Vinjevegen 174",
+    "postalCode": "3890",
+    "city": "VINJE",
+    "url": "https://spar.no/finn-butikk/spar-vinje"
+  },
+  {
+    "id": "9920",
+    "name": "SPAR Volda",
+    "lat": 62.14942584188037,
+    "lon": 6.084536688522051,
+    "address": "Kårstadveien 24",
+    "postalCode": "6102",
+    "city": "VOLDA",
+    "url": "https://spar.no/finn-butikk/spar-volda"
+  },
+  {
+    "id": "4320",
+    "name": "SPAR Voss",
+    "lat": 60.62841426413216,
+    "lon": 6.421210779437794,
+    "address": "Utrågata 16",
+    "postalCode": "5700",
+    "city": "VOSS",
+    "url": "https://spar.no/finn-butikk/spar-voss"
+  },
+  {
+    "id": "4535",
+    "name": "SPAR Vålerveien",
+    "lat": 59.4370139984963,
+    "lon": 10.689444083552155,
+    "address": "Vålerveien 86",
+    "postalCode": "1597",
+    "city": "MOSS",
+    "url": "https://spar.no/finn-butikk/spar-valerveien"
+  },
+  {
+    "id": "6331",
+    "name": "SPAR Ådland Stord",
+    "lat": 59.794382486926715,
+    "lon": 5.508196001316576,
+    "address": "Olvikveien 54",
+    "postalCode": "5416",
+    "city": "STORD",
+    "url": "https://spar.no/finn-butikk/spar-adland-stord"
+  },
+  {
+    "id": "6665",
+    "name": "SPAR Ål",
+    "lat": 60.62829743467914,
+    "lon": 8.560374882095987,
+    "address": "Sundrejordet 1",
+    "postalCode": "3570",
+    "city": "ÅL",
+    "url": "https://spar.no/finn-butikk/spar-al"
+  },
+  {
+    "id": "5325",
+    "name": "SPAR Åmot",
+    "lat": 59.89292305885315,
+    "lon": 9.925891680606817,
+    "address": "Lilleåsgata 1",
+    "postalCode": "3340",
+    "city": "ÅMOT",
+    "url": "https://spar.no/finn-butikk/spar-amot"
+  },
+  {
+    "id": "2665",
+    "name": "SPAR Årnes",
+    "lat": 60.12208614848893,
+    "lon": 11.46307433041517,
+    "address": "Nedre Hagaveg 5",
+    "postalCode": "2150",
+    "city": "ÅRNES",
+    "url": "https://spar.no/finn-butikk/spar-arnes"
+  },
+  {
+    "id": "5847",
+    "name": "SPAR Åsane",
+    "lat": 58.12144462887476,
+    "lon": 7.936978381231012,
+    "address": "Grågåsveien 43",
+    "postalCode": "4622",
+    "city": "KRISTIANSAND S",
+    "url": "https://spar.no/finn-butikk/spar-asane"
+  },
+  {
+    "id": "6662",
+    "name": "SPAR Åsetorget",
+    "lat": 62.464392703719334,
+    "lon": 6.317179771777395,
+    "address": "Øvre Geilegrend 1",
+    "postalCode": "6017",
+    "city": "ÅLESUND",
+    "url": "https://spar.no/finn-butikk/spar-asetorget"
+  },
+  {
+    "id": "1325",
+    "name": "SPAR Ørnes",
+    "lat": 66.87287074224825,
+    "lon": 13.70763379945582,
+    "address": "Chr. Tidemanns vei 2",
+    "postalCode": "8150",
+    "city": "ØRNES",
+    "url": "https://spar.no/finn-butikk/spar-ornes"
+  },
+  {
+    "id": "2243",
+    "name": "SPAR Øvrebø",
+    "lat": 58.295329810220004,
+    "lon": 7.839885247886219,
+    "address": "Skarpengland",
+    "postalCode": "4715",
+    "city": "ØVREBØ",
+    "url": "https://spar.no/finn-butikk/spar-ovrebo"
+  },
+  {
+    "id": "5492",
+    "name": "SPAR Øyer",
+    "lat": 61.2408261413408,
+    "lon": 10.438056257326929,
+    "address": "Hundervegen 17",
+    "postalCode": "2636",
+    "city": "ØYER",
+    "url": "https://spar.no/finn-butikk/spar-oyer"
+  },
+  {
+    "id": "6222",
+    "name": "SPAR Øyjorden",
+    "lat": 60.42476389338964,
+    "lon": 5.3052264648481176,
+    "address": "Øyjordsveien 1",
+    "postalCode": "5038",
+    "city": "BERGEN",
+    "url": "https://spar.no/finn-butikk/spar-oyjorden"
+  },
+  {
+    "id": "412",
+    "name": "SPAR Øyrane Torg",
+    "lat": 60.421310239780915,
+    "lon": 5.46505249639306,
+    "address": "Øyrane Torg",
+    "postalCode": "5260",
+    "city": "INDRE ARNA",
+    "url": "https://spar.no/finn-butikk/spar-oyrane-torg"
+  }
+]

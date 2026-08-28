@@ -1,0 +1,322 @@
+[
+  {
+    "id": "2541",
+    "name": "Obs Alnabru",
+    "lat": 59.9231386,
+    "lon": 10.8446883,
+    "address": "Smalvollveien 65",
+    "postalCode": "0667",
+    "city": "Oslo",
+    "url": "https://www.coop.no/butikker/obs/obs-alnabru-2541"
+  },
+  {
+    "id": "2254",
+    "name": "Obs Arendal",
+    "lat": 58.4644818,
+    "lon": 8.7100787,
+    "address": "Sagvannsveien 66",
+    "postalCode": "4848",
+    "city": "Arendal",
+    "url": "https://www.coop.no/butikker/obs/obs-arendal-2254"
+  },
+  {
+    "id": "2480",
+    "name": "Obs Bodø",
+    "lat": 67.277179,
+    "lon": 14.4254281,
+    "address": "Stormyrveien 20",
+    "postalCode": "8008",
+    "city": "Bodø",
+    "url": "https://www.coop.no/butikker/obs/obs-bodo-2480"
+  },
+  {
+    "id": "1255",
+    "name": "Obs Bryne",
+    "lat": 58.7357437,
+    "lon": 5.6397167,
+    "address": "Jupitervegen 2",
+    "postalCode": "4340",
+    "city": "Bryne",
+    "url": "https://www.coop.no/butikker/obs/obs-bryne-1255"
+  },
+  {
+    "id": "2227",
+    "name": "Obs Buskerud",
+    "lat": 59.7561,
+    "lon": 9.99915,
+    "address": "Sandstranda 24",
+    "postalCode": "3055",
+    "city": "Krokstadelva",
+    "url": "https://www.coop.no/butikker/obs/obs-buskerud-2227"
+  },
+  {
+    "id": "2342",
+    "name": "Obs City Lade",
+    "lat": 63.4433,
+    "lon": 10.4478,
+    "address": "Haakon VIIs gate 9",
+    "postalCode": "7041",
+    "city": "Trondheim",
+    "url": "https://www.coop.no/butikker/obs/obs-city-lade-2342"
+  },
+  {
+    "id": "2343",
+    "name": "Obs City Syd",
+    "lat": 63.3619,
+    "lon": 10.3789,
+    "address": "Østre Rosten 28",
+    "postalCode": "7075",
+    "city": "Tiller",
+    "url": "https://www.coop.no/butikker/obs/obs-city-syd-2343"
+  },
+  {
+    "id": "2510",
+    "name": "Obs Elverum",
+    "lat": 60.88583,
+    "lon": 11.56272,
+    "address": "Torggata 1",
+    "postalCode": "2408",
+    "city": "Elverum",
+    "url": "https://www.coop.no/butikker/obs/obs-elverum-2510"
+  },
+  {
+    "id": "2613",
+    "name": "Obs Fredrikstad",
+    "lat": 59.21181,
+    "lon": 10.92907,
+    "address": "Jens Wilhelmsens gate 5-7",
+    "postalCode": "1671",
+    "city": "Kråkerøy",
+    "url": "https://www.coop.no/butikker/obs/obs-fredrikstad-2613"
+  },
+  {
+    "id": "2375",
+    "name": "Obs Harstad",
+    "lat": 68.7899473,
+    "lon": 16.5422049,
+    "address": "Verkstedveien 7",
+    "postalCode": "9406",
+    "city": "Harstad",
+    "url": "https://www.coop.no/butikker/obs/obs-harstad-2375"
+  },
+  {
+    "id": "2582",
+    "name": "Obs Haugenstua",
+    "lat": 59.9550056,
+    "lon": 10.9006177,
+    "address": "Østre Aker Vei 264",
+    "postalCode": "0977",
+    "city": "Oslo",
+    "url": "https://www.coop.no/butikker/obs/obs-haugenstua-2582"
+  },
+  {
+    "id": "2235",
+    "name": "Obs Haugesund",
+    "lat": 59.3945546,
+    "lon": 5.3322878,
+    "address": "Longhammerveien 27",
+    "postalCode": "5536",
+    "city": "Haugesund",
+    "url": "https://www.coop.no/butikker/obs/obs-haugesund-2235"
+  },
+  {
+    "id": "2551",
+    "name": "Obs Horisont",
+    "lat": 60.470408,
+    "lon": 5.3231599,
+    "address": "Myrdalsvegen 6",
+    "postalCode": "5130",
+    "city": "Nyborg",
+    "url": "https://www.coop.no/butikker/obs/obs-horisont-2551"
+  },
+  {
+    "id": "2230",
+    "name": "Obs Jessheim",
+    "lat": 60.1434,
+    "lon": 11.1649,
+    "address": "Romsaas allé 1",
+    "postalCode": "2063",
+    "city": "Jessheim",
+    "url": "https://www.coop.no/butikker/obs/obs-jessheim-2230"
+  },
+  {
+    "id": "2250",
+    "name": "Obs Kvadrat",
+    "lat": 58.8760174,
+    "lon": 5.7220416,
+    "address": "Gamle Stokkavei 1",
+    "postalCode": "4313",
+    "city": "Sandnes",
+    "url": "https://www.coop.no/butikker/obs/obs-kvadrat-2250"
+  },
+  {
+    "id": "2267",
+    "name": "Obs Lagunen",
+    "lat": 60.2969,
+    "lon": 5.33109,
+    "address": "Laguneveien 1",
+    "postalCode": "5239",
+    "city": "Rådal",
+    "url": "https://www.coop.no/butikker/obs/obs-lagunen-2267"
+  },
+  {
+    "id": "2211",
+    "name": "Obs Lillestrøm",
+    "lat": 59.9573569,
+    "lon": 11.0363207,
+    "address": "Nittedalsgata 50",
+    "postalCode": "2000",
+    "city": "Lillestrøm",
+    "url": "https://www.coop.no/butikker/obs/obs-lillestrom-2211"
+  },
+  {
+    "id": "2507",
+    "name": "Obs Lyngdal",
+    "lat": 58.1556114,
+    "lon": 7.1038828,
+    "address": "Fiboveien 16",
+    "postalCode": "4580",
+    "city": "Lyngdal",
+    "url": "https://www.coop.no/butikker/obs/obs-lyngdal-2507"
+  },
+  {
+    "id": "2249",
+    "name": "Obs Mariero",
+    "lat": 58.9341421,
+    "lon": 5.7436639,
+    "address": "Langflåtveien 38",
+    "postalCode": "4017",
+    "city": "Stavanger",
+    "url": "https://www.coop.no/butikker/obs/obs-mariero-2249"
+  },
+  {
+    "id": "2488",
+    "name": "Obs Mo I Rana",
+    "lat": 66.3066866,
+    "lon": 14.149639,
+    "address": "Svortdalen 26",
+    "postalCode": "8626",
+    "city": "Mo i Rana",
+    "url": "https://www.coop.no/butikker/obs/obs-mo-i-rana-2488"
+  },
+  {
+    "id": "2486",
+    "name": "Obs Olrud",
+    "lat": 60.82993,
+    "lon": 11.06726,
+    "address": "Kårtorpvegen 1",
+    "postalCode": "2320",
+    "city": "Furnes",
+    "url": "https://www.coop.no/butikker/obs/obs-olrud-2486"
+  },
+  {
+    "id": "2396",
+    "name": "Obs Rudshøgda",
+    "lat": 60.9093,
+    "lon": 10.8145,
+    "address": "Stolvstadvegen 2",
+    "postalCode": "2360",
+    "city": "Rudshøgda",
+    "url": "https://www.coop.no/butikker/obs/obs-rudshogda-2396"
+  },
+  {
+    "id": "2226",
+    "name": "Obs Rygge",
+    "lat": 59.4160668,
+    "lon": 10.6816836,
+    "address": "Carlbergveien 2",
+    "postalCode": "1526",
+    "city": "Moss",
+    "url": "https://www.coop.no/butikker/obs/obs-rygge-2226"
+  },
+  {
+    "id": "2228",
+    "name": "Obs Sandefjord",
+    "lat": 59.1799,
+    "lon": 10.2084,
+    "address": "Fokserødveien 23",
+    "postalCode": "3241",
+    "city": "Sandefjord",
+    "url": "https://www.coop.no/butikker/obs/obs-sandefjord-2228"
+  },
+  {
+    "id": "2408",
+    "name": "Obs Sartor",
+    "lat": 60.3597113,
+    "lon": 5.1240904,
+    "address": "Sartorvegen 12",
+    "postalCode": "5353",
+    "city": "Straume",
+    "url": "https://www.coop.no/butikker/obs/obs-sartor-2408"
+  },
+  {
+    "id": "2224",
+    "name": "Obs Slitu",
+    "lat": 59.5788,
+    "lon": 11.2774,
+    "address": "Morstongveien 47",
+    "postalCode": "1859",
+    "city": "Slitu",
+    "url": "https://www.coop.no/butikker/obs/obs-slitu-2224"
+  },
+  {
+    "id": "2466",
+    "name": "Obs Steinkjer",
+    "lat": 64.0112,
+    "lon": 11.4917,
+    "address": "Sjøfartsgata 2",
+    "postalCode": "7714",
+    "city": "Steinkjer",
+    "url": "https://www.coop.no/butikker/obs/obs-steinkjer-2466"
+  },
+  {
+    "id": "2275",
+    "name": "Obs Stormoa",
+    "lat": 62.4663,
+    "lon": 6.34963,
+    "address": "Moavegen 1",
+    "postalCode": "6018",
+    "city": "Ålesund",
+    "url": "https://www.coop.no/butikker/obs/obs-stormoa-2275"
+  },
+  {
+    "id": "2253",
+    "name": "Obs Sørlandssenteret",
+    "lat": 58.1771863,
+    "lon": 8.1284577,
+    "address": "Barstølveien 29",
+    "postalCode": "4636",
+    "city": "Kristiansand",
+    "url": "https://www.coop.no/butikker/obs/obs-sorlandssenteret-2253"
+  },
+  {
+    "id": "2370",
+    "name": "Obs Tromsø",
+    "lat": 69.6746,
+    "lon": 18.9209,
+    "address": "Heilovegen 4",
+    "postalCode": "9015",
+    "city": "Tromsø",
+    "url": "https://www.coop.no/butikker/obs/obs-tromso-2370"
+  },
+  {
+    "id": "2511",
+    "name": "Obs Vestkanten",
+    "lat": 60.36348,
+    "lon": 5.23363,
+    "address": "Loddefjordveien 2",
+    "postalCode": "5171",
+    "city": "Loddefjord",
+    "url": "https://www.coop.no/butikker/obs/obs-vestkanten-2511"
+  },
+  {
+    "id": "2202",
+    "name": "Obs Vinterbro",
+    "lat": 59.7396714,
+    "lon": 10.7721185,
+    "address": "Sjøskogveien 7",
+    "postalCode": "1407",
+    "city": "Vinterbro",
+    "url": "https://www.coop.no/butikker/obs/obs-vinterbro-2202"
+  }
+]

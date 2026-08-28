@@ -1,0 +1,7282 @@
+[
+  {
+    "id": "2009",
+    "name": "KIWI 002 Reinsvoll",
+    "lat": 60.683876030386564,
+    "lon": 10.621752353590901,
+    "address": "Solvangvegen 2",
+    "postalCode": "2840",
+    "city": "REINSVOLL",
+    "url": "https://kiwi.no/finn-butikk/kiwi-002-reinsvoll"
+  },
+  {
+    "id": "2012",
+    "name": "KIWI 003 Magnor",
+    "lat": 59.9491450808435,
+    "lon": 12.20380824350198,
+    "address": "Grensevegen 666",
+    "postalCode": "2240",
+    "city": "MAGNOR",
+    "url": "https://kiwi.no/finn-butikk/kiwi-003-magnor"
+  },
+  {
+    "id": "2015",
+    "name": "KIWI 004 Trysil",
+    "lat": 61.311640390959035,
+    "lon": 12.267715693987036,
+    "address": "Sørhusjordet 3",
+    "postalCode": "2420",
+    "city": "TRYSIL",
+    "url": "https://kiwi.no/finn-butikk/kiwi-004-trysil"
+  },
+  {
+    "id": "4265",
+    "name": "KIWI 005 Hunndalen",
+    "lat": 60.78649357606124,
+    "lon": 10.644328444415507,
+    "address": "Raufossvegen 214",
+    "postalCode": "2827",
+    "city": "HUNNDALEN",
+    "url": "https://kiwi.no/finn-butikk/kiwi-005-hunndalen"
+  },
+  {
+    "id": "2017",
+    "name": "KIWI 006 Brumunddal",
+    "lat": 60.8849668771711,
+    "lon": 10.945664813306328,
+    "address": "Furnesvegen 20A",
+    "postalCode": "2382",
+    "city": "BRUMUNDDAL",
+    "url": "https://kiwi.no/finn-butikk/kiwi-006-brumunddal"
+  },
+  {
+    "id": "4154",
+    "name": "KIWI 007 Sjusjøen",
+    "lat": 61.15244959511602,
+    "lon": 10.690326264232532,
+    "address": "Sjusjøvegen 2000",
+    "postalCode": "2612",
+    "city": "SJUSJØEN",
+    "url": "https://kiwi.no/finn-butikk/kiwi-007-sjusjoen"
+  },
+  {
+    "id": "2018",
+    "name": "KIWI 008 Nesbyen",
+    "lat": 60.56938109073567,
+    "lon": 9.103863058606805,
+    "address": "Jordeshagen 4",
+    "postalCode": "3540",
+    "city": "NESBYEN",
+    "url": "https://kiwi.no/finn-butikk/kiwi-008-nesbyen"
+  },
+  {
+    "id": "2024",
+    "name": "KIWI 009 Gol",
+    "lat": 60.70151079984086,
+    "lon": 8.942134638914345,
+    "address": "Sentrumsvegen 96",
+    "postalCode": "3550",
+    "city": "GOL",
+    "url": "https://kiwi.no/finn-butikk/kiwi-009-gol"
+  },
+  {
+    "id": "2025",
+    "name": "KIWI 010 Dal",
+    "lat": 60.25814389129929,
+    "lon": 11.186759466205238,
+    "address": "Skinnstudumpa 4B",
+    "postalCode": "2072",
+    "city": "DAL",
+    "url": "https://kiwi.no/finn-butikk/kiwi-010-dal"
+  },
+  {
+    "id": "2027",
+    "name": "KIWI 011 Gjøvik",
+    "lat": 60.79734744440426,
+    "lon": 10.68961677854481,
+    "address": "Trondhjemsvegen 4",
+    "postalCode": "2821",
+    "city": "GJØVIK",
+    "url": "https://kiwi.no/finn-butikk/kiwi-011-gjovik"
+  },
+  {
+    "id": "2029",
+    "name": "KIWI 012 Raufoss",
+    "lat": 60.7303567842547,
+    "lon": 10.61654010351403,
+    "address": "Storgata 68",
+    "postalCode": "2830",
+    "city": "RAUFOSS",
+    "url": "https://kiwi.no/finn-butikk/kiwi-012-raufoss"
+  },
+  {
+    "id": "4061",
+    "name": "KIWI 013 Ottestad",
+    "lat": 60.77005135673189,
+    "lon": 11.128332567967739,
+    "address": "Hobergvegen 147",
+    "postalCode": "2312",
+    "city": "OTTESTAD",
+    "url": "https://kiwi.no/finn-butikk/kiwi-013-ottestad"
+  },
+  {
+    "id": "2039",
+    "name": "KIWI 014 Nannestad",
+    "lat": 60.21934958400529,
+    "lon": 11.01730188708365,
+    "address": "Teiealleen 6",
+    "postalCode": "2030",
+    "city": "NANNESTAD",
+    "url": "https://kiwi.no/finn-butikk/kiwi-014-nannestad"
+  },
+  {
+    "id": "2043",
+    "name": "KIWI 015 Kirkenær",
+    "lat": 60.457842120234616,
+    "lon": 12.057564411460188,
+    "address": "Gartnerivegen 6",
+    "postalCode": "2260",
+    "city": "KIRKENÆR",
+    "url": "https://kiwi.no/finn-butikk/kiwi-015-kirkenar"
+  },
+  {
+    "id": "2045",
+    "name": "KIWI 016 Fagernes",
+    "lat": 60.985297347143444,
+    "lon": 9.241237419587687,
+    "address": "Jernbanevegen 21",
+    "postalCode": "2900",
+    "city": "FAGERNES",
+    "url": "https://kiwi.no/finn-butikk/kiwi-016-fagernes"
+  },
+  {
+    "id": "2049",
+    "name": "KIWI 017 Skarnes",
+    "lat": 60.254909516863385,
+    "lon": 11.682460155806133,
+    "address": "Stasjonsvegen 14",
+    "postalCode": "2100",
+    "city": "SKARNES",
+    "url": "https://kiwi.no/finn-butikk/kiwi-017-skarnes"
+  },
+  {
+    "id": "2050",
+    "name": "KIWI 018 Flisa",
+    "lat": 60.612391431422225,
+    "lon": 12.01294697225174,
+    "address": "Idrettsvegen 3",
+    "postalCode": "2270",
+    "city": "FLISA",
+    "url": "https://kiwi.no/finn-butikk/kiwi-018-flisa"
+  },
+  {
+    "id": "2054",
+    "name": "KIWI 019 Brandbu",
+    "lat": 60.41885083718371,
+    "lon": 10.50913773524799,
+    "address": "Orhagavegen 11",
+    "postalCode": "2760",
+    "city": "BRANDBU",
+    "url": "https://kiwi.no/finn-butikk/kiwi-019-brandbu"
+  },
+  {
+    "id": "2056",
+    "name": "KIWI 020 Dokka",
+    "lat": 60.83623479118806,
+    "lon": 10.068901358185316,
+    "address": "Storgata 55",
+    "postalCode": "2870",
+    "city": "DOKKA",
+    "url": "https://kiwi.no/finn-butikk/kiwi-020-dokka"
+  },
+  {
+    "id": "2102",
+    "name": "KIWI 021 Røn",
+    "lat": 61.03388045951786,
+    "lon": 9.05456277375184,
+    "address": "Lundeskogen 9",
+    "postalCode": "2960",
+    "city": "RØN",
+    "url": "https://kiwi.no/finn-butikk/kiwi-021-ron"
+  },
+  {
+    "id": "2103",
+    "name": "KIWI 022 Grua",
+    "lat": 60.25683832033368,
+    "lon": 10.660334227506798,
+    "address": "Myllavegen 6",
+    "postalCode": "2742",
+    "city": "GRUA",
+    "url": "https://kiwi.no/finn-butikk/kiwi-022-grua"
+  },
+  {
+    "id": "2104",
+    "name": "KIWI 023 Harestua",
+    "lat": 60.20274793542546,
+    "lon": 10.71506084201625,
+    "address": "Furuveien 2A",
+    "postalCode": "2743",
+    "city": "HARESTUA",
+    "url": "https://kiwi.no/finn-butikk/kiwi-023-harestua"
+  },
+  {
+    "id": "2105",
+    "name": "KIWI 024 Gausdal",
+    "lat": 61.22696630634682,
+    "lon": 10.22326472271057,
+    "address": "Fargerivegen 2",
+    "postalCode": "2651",
+    "city": "ØSTRE GAUSDAL",
+    "url": "https://kiwi.no/finn-butikk/kiwi-024-gausdal"
+  },
+  {
+    "id": "2106",
+    "name": "KIWI 025 Romedal",
+    "lat": 60.73665165253105,
+    "lon": 11.293553629759648,
+    "address": "Åsvangvegen 10",
+    "postalCode": "2334",
+    "city": "ROMEDAL",
+    "url": "https://kiwi.no/finn-butikk/kiwi-025-romedal"
+  },
+  {
+    "id": "4156",
+    "name": "KIWI 026 Øyer",
+    "lat": 61.243744416623024,
+    "lon": 10.438672167246857,
+    "address": "Kongsvegen 10",
+    "postalCode": "2636",
+    "city": "ØYER",
+    "url": "https://kiwi.no/finn-butikk/kiwi-026-oyer"
+  },
+  {
+    "id": "5663",
+    "name": "KIWI 027 Pinnerud",
+    "lat": 60.93442299327185,
+    "lon": 10.707823718428775,
+    "address": "Åsmarkvegen 43",
+    "postalCode": "2390",
+    "city": "MOELV",
+    "url": "https://kiwi.no/finn-butikk/kiwi-027-pinnerud"
+  },
+  {
+    "id": "2108",
+    "name": "KIWI 028 Hov",
+    "lat": 60.699493844109156,
+    "lon": 10.352386002108084,
+    "address": "Sentrumsvegen 5",
+    "postalCode": "2860",
+    "city": "HOV",
+    "url": "https://kiwi.no/finn-butikk/kiwi-028-hov"
+  },
+  {
+    "id": "2109",
+    "name": "KIWI 029 Stavsjø",
+    "lat": 60.80423137773908,
+    "lon": 10.839599788218063,
+    "address": "Tingnesvegen 21",
+    "postalCode": "2353",
+    "city": "STAVSJØ",
+    "url": "https://kiwi.no/finn-butikk/kiwi-029-stavsjo"
+  },
+  {
+    "id": "2198",
+    "name": "KIWI 030 Dombås",
+    "lat": 62.07428901420249,
+    "lon": 9.127248163936414,
+    "address": "Sentralplassen 1A",
+    "postalCode": "2660",
+    "city": "DOMBÅS",
+    "url": "https://kiwi.no/finn-butikk/kiwi-030-dombas"
+  },
+  {
+    "id": "4161",
+    "name": "KIWI 031 Vågå",
+    "lat": 61.87761765118754,
+    "lon": 9.097405012641689,
+    "address": "Skogbygdsvegen 2",
+    "postalCode": "2680",
+    "city": "VÅGÅ",
+    "url": "https://kiwi.no/finn-butikk/kiwi-031-vaga"
+  },
+  {
+    "id": "5642",
+    "name": "KIWI 032 Råholthallen",
+    "lat": 60.28507909097112,
+    "lon": 11.170486041945928,
+    "address": "Gladbakkgutua 11",
+    "postalCode": "2070",
+    "city": "RÅHOLT",
+    "url": "https://kiwi.no/finn-butikk/kiwi-032-raholthallen"
+  },
+  {
+    "id": "3900",
+    "name": "KIWI 033 Kongsvinger",
+    "lat": 60.18673378921551,
+    "lon": 12.008088620516572,
+    "address": "Tronsmos veg 1",
+    "postalCode": "2211",
+    "city": "KONGSVINGER",
+    "url": "https://kiwi.no/finn-butikk/kiwi-033-kongsvinger"
+  },
+  {
+    "id": "3901",
+    "name": "KIWI 034 Maura",
+    "lat": 60.25385318784865,
+    "lon": 11.025120609990902,
+    "address": "Vålaugsvegen 147",
+    "postalCode": "2032",
+    "city": "MAURA",
+    "url": "https://kiwi.no/finn-butikk/kiwi-034-maura"
+  },
+  {
+    "id": "2192",
+    "name": "KIWI 035 Roa",
+    "lat": 60.287869380676526,
+    "lon": 10.625498988646815,
+    "address": "Hadelandsvegen 2121",
+    "postalCode": "2740",
+    "city": "ROA",
+    "url": "https://kiwi.no/finn-butikk/kiwi-035-roa"
+  },
+  {
+    "id": "3936",
+    "name": "KIWI 036 Nordkisa",
+    "lat": 60.18620612415634,
+    "lon": 11.26295520712215,
+    "address": "Storvegen 10",
+    "postalCode": "2055",
+    "city": "NORDKISA",
+    "url": "https://kiwi.no/finn-butikk/kiwi-036-nordkisa"
+  },
+  {
+    "id": "3982",
+    "name": "KIWI 037 Holsetgården",
+    "lat": 60.794905775463185,
+    "lon": 11.07538946591484,
+    "address": "Østregate 12",
+    "postalCode": "2317",
+    "city": "HAMAR",
+    "url": "https://kiwi.no/finn-butikk/kiwi-037-holsetgarden"
+  },
+  {
+    "id": "3981",
+    "name": "KIWI 038 Biri",
+    "lat": 60.95619175273837,
+    "lon": 10.610073387139868,
+    "address": "Birivegen 95",
+    "postalCode": "2836",
+    "city": "BIRI",
+    "url": "https://kiwi.no/finn-butikk/kiwi-038-biri"
+  },
+  {
+    "id": "2170",
+    "name": "KIWI 039 Moelv",
+    "lat": 60.9289572373028,
+    "lon": 10.700551757261323,
+    "address": "Storgata 116",
+    "postalCode": "2390",
+    "city": "MOELV",
+    "url": "https://kiwi.no/finn-butikk/kiwi-039-moelv"
+  },
+  {
+    "id": "4010",
+    "name": "KIWI 041 Tynset",
+    "lat": 62.27753684660371,
+    "lon": 10.774083579611018,
+    "address": "Brugata 18D",
+    "postalCode": "2500",
+    "city": "TYNSET",
+    "url": "https://kiwi.no/finn-butikk/kiwi-041-tynset"
+  },
+  {
+    "id": "1260",
+    "name": "KIWI 042 Trysilfjellet",
+    "lat": 61.31523130145966,
+    "lon": 12.255382836164996,
+    "address": "Vestsidevegen 4",
+    "postalCode": "2420",
+    "city": "TRYSIL",
+    "url": "https://kiwi.no/finn-butikk/kiwi-042-trysilfjellet"
+  },
+  {
+    "id": "4081",
+    "name": "KIWI 043 Fjeldset",
+    "lat": 60.87399116622091,
+    "lon": 11.576731902725774,
+    "address": "C.J.Hambros veg 2",
+    "postalCode": "2414",
+    "city": "ELVERUM",
+    "url": "https://kiwi.no/finn-butikk/kiwi-043-fjeldset"
+  },
+  {
+    "id": "4067",
+    "name": "KIWI 044 Lærdal",
+    "lat": 61.09894540432421,
+    "lon": 7.481127397149199,
+    "address": "Øyraplassen 11",
+    "postalCode": "6887",
+    "city": "LÆRDAL",
+    "url": "https://kiwi.no/finn-butikk/kiwi-044-lardal"
+  },
+  {
+    "id": "4068",
+    "name": "KIWI 045 Årdalstangen",
+    "lat": 61.235552793502094,
+    "lon": 7.702066213112041,
+    "address": "Torget 2",
+    "postalCode": "6885",
+    "city": "ÅRDALSTANGEN",
+    "url": "https://kiwi.no/finn-butikk/kiwi-045-ardalstangen"
+  },
+  {
+    "id": "3906",
+    "name": "KIWI 046 Leira",
+    "lat": 60.97005743800218,
+    "lon": 9.290340071710398,
+    "address": "Skulevegen 2",
+    "postalCode": "2920",
+    "city": "LEIRA I VALDRES",
+    "url": "https://kiwi.no/finn-butikk/kiwi-046-leira"
+  },
+  {
+    "id": "4065",
+    "name": "KIWI 047 Eidsvoll",
+    "lat": 60.32784331295265,
+    "lon": 11.260456752820298,
+    "address": "Vormavegen 25",
+    "postalCode": "2080",
+    "city": "EIDSVOLL",
+    "url": "https://kiwi.no/finn-butikk/kiwi-047-eidsvoll"
+  },
+  {
+    "id": "4069",
+    "name": "KIWI 048 Vinstra",
+    "lat": 61.59379229081106,
+    "lon": 9.728409062211657,
+    "address": "Vinstragata 97",
+    "postalCode": "2640",
+    "city": "VINSTRA",
+    "url": "https://kiwi.no/finn-butikk/kiwi-048-vinstra"
+  },
+  {
+    "id": "4070",
+    "name": "KIWI 049 Otta",
+    "lat": 61.77400009029087,
+    "lon": 9.538837492254638,
+    "address": "Johan Nygårds gate 21",
+    "postalCode": "2670",
+    "city": "OTTA",
+    "url": "https://kiwi.no/finn-butikk/kiwi-049-otta"
+  },
+  {
+    "id": "4066",
+    "name": "KIWI 050 Strandgata",
+    "lat": 60.79338523210679,
+    "lon": 10.69477338269328,
+    "address": "Strandgata 13",
+    "postalCode": "2815",
+    "city": "GJØVIK",
+    "url": "https://kiwi.no/finn-butikk/kiwi-050-strandgata"
+  },
+  {
+    "id": "4106",
+    "name": "KIWI 051 Jevnaker",
+    "lat": 60.239446814731664,
+    "lon": 10.384654645835424,
+    "address": "Torggata 2",
+    "postalCode": "3520",
+    "city": "JEVNAKER",
+    "url": "https://kiwi.no/finn-butikk/kiwi-051-jevnaker"
+  },
+  {
+    "id": "2096",
+    "name": "KIWI 052 Ål",
+    "lat": 60.62931413492144,
+    "lon": 8.563225135238483,
+    "address": "Helsetunvegen 18",
+    "postalCode": "3570",
+    "city": "ÅL",
+    "url": "https://kiwi.no/finn-butikk/kiwi-052-al"
+  },
+  {
+    "id": "4124",
+    "name": "KIWI 053 Elverum",
+    "lat": 60.8849011793447,
+    "lon": 11.562560037251252,
+    "address": "Torggata 3",
+    "postalCode": "2408",
+    "city": "ELVERUM",
+    "url": "https://kiwi.no/finn-butikk/kiwi-053-elverum"
+  },
+  {
+    "id": "4237",
+    "name": "KIWI 054 Follebu",
+    "lat": 61.21607198846853,
+    "lon": 10.285009823692661,
+    "address": "Holsbakkan 2A",
+    "postalCode": "2656",
+    "city": "FOLLEBU",
+    "url": "https://kiwi.no/finn-butikk/kiwi-054-follebu"
+  },
+  {
+    "id": "7757",
+    "name": "KIWI 055 Kirkeby",
+    "lat": 60.78510628069172,
+    "lon": 10.695402429823249,
+    "address": "Kasper Andresens veg 5",
+    "postalCode": "2816",
+    "city": "GJØVIK",
+    "url": "https://kiwi.no/finn-butikk/kiwi-055-kirkeby"
+  },
+  {
+    "id": "4227",
+    "name": "KIWI 056 Ringebu",
+    "lat": 61.52921671218443,
+    "lon": 10.141484720778909,
+    "address": "Gudbrandsdalsvegen 2022",
+    "postalCode": "2630",
+    "city": "RINGEBU",
+    "url": "https://kiwi.no/finn-butikk/kiwi-056-ringebu"
+  },
+  {
+    "id": "4242",
+    "name": "KIWI 057 Harpefoss",
+    "lat": 61.57780034609522,
+    "lon": 9.858489102393175,
+    "address": "Moavegen 1A",
+    "postalCode": "2647",
+    "city": "SØR-FRON",
+    "url": "https://kiwi.no/finn-butikk/kiwi-057-harpefoss"
+  },
+  {
+    "id": "1224",
+    "name": "KIWI 058 Øvre Årdal",
+    "lat": 61.30862189176581,
+    "lon": 7.813591235331026,
+    "address": "Årdalsvegen 3",
+    "postalCode": "6884",
+    "city": "ØVRE ÅRDAL",
+    "url": "https://kiwi.no/finn-butikk/kiwi-058-ovre-ardal"
+  },
+  {
+    "id": "4163",
+    "name": "KIWI 059 Aurdal",
+    "lat": 60.91961688381591,
+    "lon": 9.422291221829086,
+    "address": "Oslovegen 1229",
+    "postalCode": "2910",
+    "city": "AURDAL",
+    "url": "https://kiwi.no/finn-butikk/kiwi-059-aurdal"
+  },
+  {
+    "id": "2143",
+    "name": "KIWI 061 Råholt",
+    "lat": 60.28115588512136,
+    "lon": 11.17639455959805,
+    "address": "Råholtgutua 2",
+    "postalCode": "2070",
+    "city": "RÅHOLT",
+    "url": "https://kiwi.no/finn-butikk/kiwi-061-raholt"
+  },
+  {
+    "id": "3910",
+    "name": "KIWI 062 Gjemselund",
+    "lat": 60.19379039061965,
+    "lon": 11.990935209287718,
+    "address": "Otto Wengs veg 4",
+    "postalCode": "2212",
+    "city": "KONGSVINGER",
+    "url": "https://kiwi.no/finn-butikk/kiwi-062-gjemselund"
+  },
+  {
+    "id": "4170",
+    "name": "KIWI 063 Meierigården Løten",
+    "lat": 60.82036214191386,
+    "lon": 11.34464774145081,
+    "address": "Meierivegen 7A",
+    "postalCode": "2340",
+    "city": "LØTEN",
+    "url": "https://kiwi.no/finn-butikk/kiwi-063-meierigarden-loten"
+  },
+  {
+    "id": "1234",
+    "name": "KIWI 064 Stange Bruk",
+    "lat": 60.720451585443946,
+    "lon": 11.195267047167016,
+    "address": "Romedalsvegen 4",
+    "postalCode": "2335",
+    "city": "STANGE",
+    "url": "https://kiwi.no/finn-butikk/kiwi-064-stange-bruk"
+  },
+  {
+    "id": "1249",
+    "name": "KIWI 065 Vormsund",
+    "lat": 60.152096640537046,
+    "lon": 11.412693775476304,
+    "address": "Kjølstadvegen 1I",
+    "postalCode": "2160",
+    "city": "VORMSUND",
+    "url": "https://kiwi.no/finn-butikk/kiwi-065-vormsund"
+  },
+  {
+    "id": "7218",
+    "name": "KIWI 066 Sand",
+    "lat": 60.392497512782406,
+    "lon": 11.53667943305171,
+    "address": "Prestgardsjordet 1",
+    "postalCode": "2120",
+    "city": "SAGSTUA",
+    "url": "https://kiwi.no/finn-butikk/kiwi-066-sand"
+  },
+  {
+    "id": "1316",
+    "name": "KIWI 067 Gran",
+    "lat": 60.354086695964874,
+    "lon": 10.57462898259672,
+    "address": "Skolelia 2",
+    "postalCode": "2750",
+    "city": "GRAN",
+    "url": "https://kiwi.no/finn-butikk/kiwi-067-gran"
+  },
+  {
+    "id": "8629",
+    "name": "KIWI 068 Årnes",
+    "lat": 60.1190693127672,
+    "lon": 11.465006643169511,
+    "address": "Øvre Hagaveg 11",
+    "postalCode": "2150",
+    "city": "ÅRNES",
+    "url": "https://kiwi.no/finn-butikk/kiwi-068-arnes"
+  },
+  {
+    "id": "7763",
+    "name": "KIWI 069 Koppang",
+    "lat": 61.571680113260314,
+    "lon": 11.053370283727286,
+    "address": "Kjemsjøveien 21",
+    "postalCode": "2480",
+    "city": "KOPPANG",
+    "url": "https://kiwi.no/finn-butikk/kiwi-069-koppang"
+  },
+  {
+    "id": "7771",
+    "name": "KIWI 070 Lunner",
+    "lat": 60.30349305948492,
+    "lon": 10.584426127070442,
+    "address": "Lunnerlinna 28A",
+    "postalCode": "2730",
+    "city": "LUNNER",
+    "url": "https://kiwi.no/finn-butikk/kiwi-070-lunner"
+  },
+  {
+    "id": "7772",
+    "name": "KIWI 071 Roverud",
+    "lat": 60.25275201154501,
+    "lon": 12.058668604544133,
+    "address": "Roverudgata 30",
+    "postalCode": "2216",
+    "city": "ROVERUD",
+    "url": "https://kiwi.no/finn-butikk/kiwi-071-roverud"
+  },
+  {
+    "id": "2685",
+    "name": "KIWI 072 Ydalir",
+    "lat": 60.89463196677063,
+    "lon": 11.581172575509928,
+    "address": "Olav Sæters veg 2",
+    "postalCode": "2413",
+    "city": "ELVERUM",
+    "url": "https://kiwi.no/finn-butikk/kiwi-072-ydalir"
+  },
+  {
+    "id": "2352",
+    "name": "KIWI 073 Volljordet",
+    "lat": 60.815320828369714,
+    "lon": 11.062647280023697,
+    "address": "Lundgutua 2",
+    "postalCode": "2319",
+    "city": "HAMAR",
+    "url": "https://kiwi.no/finn-butikk/kiwi-073-volljordet"
+  },
+  {
+    "id": "2268",
+    "name": "KIWI 074 Nydal",
+    "lat": 60.84407920791942,
+    "lon": 11.044598000081761,
+    "address": "Øvermarka 2",
+    "postalCode": "2320",
+    "city": "FURNES",
+    "url": "https://kiwi.no/finn-butikk/kiwi-074-nydal"
+  },
+  {
+    "id": "2318",
+    "name": "KIWI 075 Holter",
+    "lat": 60.13760498491117,
+    "lon": 11.022491182947379,
+    "address": "Åsvegen 1",
+    "postalCode": "2034",
+    "city": "HOLTER",
+    "url": "https://kiwi.no/finn-butikk/kiwi-075-holter"
+  },
+  {
+    "id": "5057",
+    "name": "KIWI 076 Ingeberg",
+    "lat": 60.82718800727635,
+    "lon": 11.126257173717953,
+    "address": "Hagavegen 2",
+    "postalCode": "2323",
+    "city": "INGEBERG",
+    "url": "https://kiwi.no/finn-butikk/kiwi-076-ingeberg"
+  },
+  {
+    "id": "2359",
+    "name": "KIWI 077 Vingnes",
+    "lat": 61.10599435142973,
+    "lon": 10.443711833512623,
+    "address": "Vingnesgata 24",
+    "postalCode": "2608",
+    "city": "LILLEHAMMER",
+    "url": "https://kiwi.no/finn-butikk/kiwi-077-vingnes"
+  },
+  {
+    "id": "2638",
+    "name": "KIWI 078 Hagafoss",
+    "lat": 60.59787069399339,
+    "lon": 8.34618648100022,
+    "address": "Holsfjordvegen 12",
+    "postalCode": "3576",
+    "city": "HOL",
+    "url": "https://kiwi.no/finn-butikk/kiwi-078-hagafoss"
+  },
+  {
+    "id": "2293",
+    "name": "KIWI 079 Søre Ål",
+    "lat": 61.09997995666135,
+    "lon": 10.473477733909661,
+    "address": "Hagevegen 8B",
+    "postalCode": "2613",
+    "city": "LILLEHAMMER",
+    "url": "https://kiwi.no/finn-butikk/kiwi-079-sore-al"
+  },
+  {
+    "id": "1878",
+    "name": "KIWI 080 Fåvang",
+    "lat": 61.45440960362112,
+    "lon": 10.191804132708347,
+    "address": "Stasjonsvegen 7",
+    "postalCode": "2634",
+    "city": "FÅVANG",
+    "url": "https://kiwi.no/finn-butikk/kiwi-080-favang"
+  },
+  {
+    "id": "3263",
+    "name": "KIWI 081 Mørkvedvegen",
+    "lat": 60.879393913242794,
+    "lon": 10.954368103223842,
+    "address": "Mørkvedvegen 2a",
+    "postalCode": "2388",
+    "city": "BRUMUNDDAL",
+    "url": "https://kiwi.no/finn-butikk/kiwi-081-morkvedvegen"
+  },
+  {
+    "id": "3412",
+    "name": "KIWI 082 Mæhlumsløkka",
+    "lat": 60.80764540498756,
+    "lon": 11.079603730068328,
+    "address": "Stafsbergvegen 76A",
+    "postalCode": "2318",
+    "city": "HAMAR",
+    "url": "https://kiwi.no/finn-butikk/kiwi-082-mahlumslokka"
+  },
+  {
+    "id": "5666",
+    "name": "KIWI 083 Mesnali",
+    "lat": 61.101195872309106,
+    "lon": 10.68896108625438,
+    "address": "Sjusjøvegen 1324",
+    "postalCode": "2610",
+    "city": "MESNALI",
+    "url": "https://kiwi.no/finn-butikk/kiwi-083-mesnali"
+  },
+  {
+    "id": "4915",
+    "name": "KIWI 084 Grindalsmoen",
+    "lat": 60.88523942204378,
+    "lon": 11.53237734317049,
+    "address": "Jegerstien 24",
+    "postalCode": "2406",
+    "city": "ELVERUM",
+    "url": "https://kiwi.no/finn-butikk/kiwi-084-grindalsmoen"
+  },
+  {
+    "id": "4684",
+    "name": "KIWI 085 Hanstad",
+    "lat": 60.8611395756756,
+    "lon": 11.567798053727591,
+    "address": "Johan Falkbergets Veg 4",
+    "postalCode": "2407",
+    "city": "ELVERUM",
+    "url": "https://kiwi.no/finn-butikk/kiwi-085-hanstad"
+  },
+  {
+    "id": "3892",
+    "name": "KIWI 086 Rasta",
+    "lat": 60.179539836013404,
+    "lon": 12.020672015941916,
+    "address": "Kongevegen 20",
+    "postalCode": "2211",
+    "city": "KONGSVINGER",
+    "url": "https://kiwi.no/finn-butikk/kiwi-086-rasta"
+  },
+  {
+    "id": "3939",
+    "name": "KIWI 087 Våler",
+    "lat": 60.67496921349521,
+    "lon": 11.834425459594131,
+    "address": "Dr. Sjursens veg 5",
+    "postalCode": "2436",
+    "city": "VÅLER I SOLØR",
+    "url": "https://kiwi.no/finn-butikk/kiwi-087-valer"
+  },
+  {
+    "id": "3035",
+    "name": "KIWI 088 Kongssenteret",
+    "lat": 60.19109116480126,
+    "lon": 11.996235057379959,
+    "address": "Brugata 15",
+    "postalCode": "2212",
+    "city": "KONGSVINGER",
+    "url": "https://kiwi.no/finn-butikk/kiwi-088-kongssenteret"
+  },
+  {
+    "id": "4135",
+    "name": "KIWI 101 Oppdal",
+    "lat": 62.592483403906776,
+    "lon": 9.684740138148065,
+    "address": "Inge Krokanns veg 21",
+    "postalCode": "7340",
+    "city": "OPPDAL",
+    "url": "https://kiwi.no/finn-butikk/kiwi-101-oppdal"
+  },
+  {
+    "id": "4136",
+    "name": "KIWI 102 Røros",
+    "lat": 62.57323539766829,
+    "lon": 11.384920203411719,
+    "address": "Tollef Bredals vei 2A",
+    "postalCode": "7374",
+    "city": "RØROS",
+    "url": "https://kiwi.no/finn-butikk/kiwi-102-roros"
+  },
+  {
+    "id": "4203",
+    "name": "KIWI 104 Moholt",
+    "lat": 63.41061472311092,
+    "lon": 10.44162655897477,
+    "address": "Brøsetvegen 186A",
+    "postalCode": "7050",
+    "city": "TRONDHEIM",
+    "url": "https://kiwi.no/finn-butikk/kiwi-104-moholt"
+  },
+  {
+    "id": "4209",
+    "name": "KIWI 105 Holmen",
+    "lat": 63.48078281645656,
+    "lon": 10.906902337267132,
+    "address": "Vassbygdvegen 4",
+    "postalCode": "7503",
+    "city": "STJØRDAL",
+    "url": "https://kiwi.no/finn-butikk/kiwi-105-holmen"
+  },
+  {
+    "id": "4235",
+    "name": "KIWI 106 Ytteren",
+    "lat": 66.34064114813354,
+    "lon": 14.144963168016842,
+    "address": "Gammelveien 13",
+    "postalCode": "8614",
+    "city": "MO I RANA",
+    "url": "https://kiwi.no/finn-butikk/kiwi-106-ytteren"
+  },
+  {
+    "id": "4258",
+    "name": "KIWI 107 Stormyra",
+    "lat": 67.2797990957933,
+    "lon": 14.418727588081248,
+    "address": "Stormyrveien 2",
+    "postalCode": "8008",
+    "city": "BODØ",
+    "url": "https://kiwi.no/finn-butikk/kiwi-107-stormyra"
+  },
+  {
+    "id": "4262",
+    "name": "KIWI 108 Nordsia",
+    "lat": 64.02224346216045,
+    "lon": 11.49043396682349,
+    "address": "Bomvegen 8",
+    "postalCode": "7725",
+    "city": "STEINKJER",
+    "url": "https://kiwi.no/finn-butikk/kiwi-108-nordsia"
+  },
+  {
+    "id": "4268",
+    "name": "KIWI 109 Moan",
+    "lat": 63.74011408438993,
+    "lon": 11.28265489739263,
+    "address": "Moafjæra 1b",
+    "postalCode": "7606",
+    "city": "LEVANGER",
+    "url": "https://kiwi.no/finn-butikk/kiwi-109-moan"
+  },
+  {
+    "id": "3878",
+    "name": "KIWI 110 Mørkved",
+    "lat": 67.28445614210017,
+    "lon": 14.568290259312898,
+    "address": "Bodøveien 696",
+    "postalCode": "8020",
+    "city": "BODØ",
+    "url": "https://kiwi.no/finn-butikk/kiwi-110-morkved"
+  },
+  {
+    "id": "4295",
+    "name": "KIWI 111 Buvika",
+    "lat": 63.308691601175454,
+    "lon": 10.177065832501844,
+    "address": "Sandavegen 23",
+    "postalCode": "7350",
+    "city": "BUVIKA",
+    "url": "https://kiwi.no/finn-butikk/kiwi-111-buvika"
+  },
+  {
+    "id": "3999",
+    "name": "KIWI 112 Kirkegata Levanger",
+    "lat": 63.7491343657594,
+    "lon": 11.302635887012206,
+    "address": "Kirkegata 73A",
+    "postalCode": "7600",
+    "city": "LEVANGER",
+    "url": "https://kiwi.no/finn-butikk/kiwi-112-kirkegata-levanger"
+  },
+  {
+    "id": "4143",
+    "name": "KIWI 113 Orkanger",
+    "lat": 63.29836880976039,
+    "lon": 9.84929878367874,
+    "address": "Orkdalsveien 100",
+    "postalCode": "7300",
+    "city": "ORKANGER",
+    "url": "https://kiwi.no/finn-butikk/kiwi-113-orkanger"
+  },
+  {
+    "id": "2113",
+    "name": "KIWI 114 Tiller",
+    "lat": 63.356790783299665,
+    "lon": 10.373502142538165,
+    "address": "Ivar Lykkes veg 5",
+    "postalCode": "7075",
+    "city": "TILLER",
+    "url": "https://kiwi.no/finn-butikk/kiwi-114-tiller"
+  },
+  {
+    "id": "2169",
+    "name": "KIWI 115 Mindes Hus",
+    "lat": 63.46666092378747,
+    "lon": 10.921677322461203,
+    "address": "Værnesgata 11",
+    "postalCode": "7503",
+    "city": "STJØRDAL",
+    "url": "https://kiwi.no/finn-butikk/kiwi-115-mindes-hus"
+  },
+  {
+    "id": "1236",
+    "name": "KIWI 116 Brønnøysund",
+    "lat": 65.47654695219121,
+    "lon": 12.216360102131794,
+    "address": "Sømnaveien 106",
+    "postalCode": "8900",
+    "city": "BRØNNØYSUND",
+    "url": "https://kiwi.no/finn-butikk/kiwi-116-bronnoysund"
+  },
+  {
+    "id": "3979",
+    "name": "KIWI 118 Kyrksæterøra",
+    "lat": 63.292076358261774,
+    "lon": 9.085550125617555,
+    "address": "Trondheimsveien 7",
+    "postalCode": "7200",
+    "city": "KYRKSÆTERØRA",
+    "url": "https://kiwi.no/finn-butikk/kiwi-118-kyrksaterora"
+  },
+  {
+    "id": "7695",
+    "name": "KIWI 119 Åfjord",
+    "lat": 63.960594217410176,
+    "lon": 10.225737731003113,
+    "address": "Stordalsveien 2",
+    "postalCode": "7170",
+    "city": "ÅFJORD",
+    "url": "https://kiwi.no/finn-butikk/kiwi-119-afjord"
+  },
+  {
+    "id": "3958",
+    "name": "KIWI 120 Bjugn",
+    "lat": 63.76484848140575,
+    "lon": 9.807814989461358,
+    "address": "Bjørg Bergs vei 2",
+    "postalCode": "7160",
+    "city": "BJUGN",
+    "url": "https://kiwi.no/finn-butikk/kiwi-120-bjugn"
+  },
+  {
+    "id": "1246",
+    "name": "KIWI 122 Sannan",
+    "lat": 64.00826476089905,
+    "lon": 11.503573980946856,
+    "address": "Kapteinvegen 2",
+    "postalCode": "7713",
+    "city": "STEINKJER",
+    "url": "https://kiwi.no/finn-butikk/kiwi-122-sannan"
+  },
+  {
+    "id": "7405",
+    "name": "KIWI 123 Charlottenlund",
+    "lat": 63.43135777405709,
+    "lon": 10.496115980445294,
+    "address": "Ranheimsvegen 95",
+    "postalCode": "7060",
+    "city": "CHARLOTTENLUND",
+    "url": "https://kiwi.no/finn-butikk/kiwi-123-charlottenlund"
+  },
+  {
+    "id": "4927",
+    "name": "KIWI 125 Frøya",
+    "lat": 63.729550455087825,
+    "lon": 8.827621568275564,
+    "address": "Rådhusgata 12",
+    "postalCode": "7260",
+    "city": "SISTRANDA",
+    "url": "https://kiwi.no/finn-butikk/kiwi-125-froya"
+  },
+  {
+    "id": "1252",
+    "name": "KIWI 126 Selbu",
+    "lat": 63.21918356442958,
+    "lon": 11.040662876584172,
+    "address": "Gjelbakken 2",
+    "postalCode": "7580",
+    "city": "SELBU",
+    "url": "https://kiwi.no/finn-butikk/kiwi-126-selbu"
+  },
+  {
+    "id": "3896",
+    "name": "KIWI 127 Sandnessjøen",
+    "lat": 66.01739867369223,
+    "lon": 12.632103554976457,
+    "address": "Øyvind Senteret 1",
+    "postalCode": "8803",
+    "city": "SANDNESSJØEN",
+    "url": "https://kiwi.no/finn-butikk/kiwi-127-sandnessjoen"
+  },
+  {
+    "id": "7409",
+    "name": "KIWI 128 Rønvika",
+    "lat": 67.29546573721866,
+    "lon": 14.407849158909851,
+    "address": "Nordstrandveien 41",
+    "postalCode": "8012",
+    "city": "BODØ",
+    "url": "https://kiwi.no/finn-butikk/kiwi-128-ronvika"
+  },
+  {
+    "id": "1255",
+    "name": "KIWI 129 Støren",
+    "lat": 63.03583749703671,
+    "lon": 10.29314270628763,
+    "address": "Svartøyveien 15B",
+    "postalCode": "7290",
+    "city": "STØREN",
+    "url": "https://kiwi.no/finn-butikk/kiwi-129-storen"
+  },
+  {
+    "id": "7696",
+    "name": "KIWI 130 Flymuseet",
+    "lat": 67.2761436825568,
+    "lon": 14.41037170906705,
+    "address": "Påls vei 12",
+    "postalCode": "8008",
+    "city": "BODØ",
+    "url": "https://kiwi.no/finn-butikk/kiwi-130-flymuseet"
+  },
+  {
+    "id": "7413",
+    "name": "KIWI 131 Munkegata",
+    "lat": 63.43337102583704,
+    "lon": 10.39386266422289,
+    "address": "Munkegata 37",
+    "postalCode": "7011",
+    "city": "TRONDHEIM",
+    "url": "https://kiwi.no/finn-butikk/kiwi-131-munkegata"
+  },
+  {
+    "id": "7753",
+    "name": "KIWI 132 Nardobakken",
+    "lat": 63.40979087614393,
+    "lon": 10.418072600018863,
+    "address": "Nardobakken 2",
+    "postalCode": "7032",
+    "city": "TRONDHEIM",
+    "url": "https://kiwi.no/finn-butikk/kiwi-132-nardobakken"
+  },
+  {
+    "id": "5675",
+    "name": "KIWI 133 Hitra",
+    "lat": 63.599440409135624,
+    "lon": 8.974320323990636,
+    "address": "Stadionveien 2",
+    "postalCode": "7240",
+    "city": "HITRA",
+    "url": "https://kiwi.no/finn-butikk/kiwi-133-hitra"
+  },
+  {
+    "id": "1168",
+    "name": "KIWI 134 Langneset",
+    "lat": 66.30494847564431,
+    "lon": 14.133818679282276,
+    "address": "Verkstedveien 1",
+    "postalCode": "8624",
+    "city": "MO I RANA",
+    "url": "https://kiwi.no/finn-butikk/kiwi-134-langneset"
+  },
+  {
+    "id": "1292",
+    "name": "KIWI 135 Rørvik",
+    "lat": 64.86108183193305,
+    "lon": 11.236063552762907,
+    "address": "Strandgata 8",
+    "postalCode": "7900",
+    "city": "RØRVIK",
+    "url": "https://kiwi.no/finn-butikk/kiwi-135-rorvik"
+  },
+  {
+    "id": "1293",
+    "name": "KIWI 136 Nyrud",
+    "lat": 65.83291344665398,
+    "lon": 13.213619516303128,
+    "address": "Nyrudvegen 4",
+    "postalCode": "8657",
+    "city": "MOSJØEN",
+    "url": "https://kiwi.no/finn-butikk/kiwi-136-nyrud"
+  },
+  {
+    "id": "8651",
+    "name": "KIWI 137 Valentinlyst",
+    "lat": 63.42411527536932,
+    "lon": 10.442564907502742,
+    "address": "Anders Estenstads veg 4",
+    "postalCode": "7046",
+    "city": "TRONDHEIM",
+    "url": "https://kiwi.no/finn-butikk/kiwi-137-valentinlyst"
+  },
+  {
+    "id": "5554",
+    "name": "KIWI 138 Dalgård",
+    "lat": 63.39729670922179,
+    "lon": 10.342695302708377,
+    "address": "Drivhusvegen 2",
+    "postalCode": "7024",
+    "city": "TRONDHEIM",
+    "url": "https://kiwi.no/finn-butikk/kiwi-138-dalgard"
+  },
+  {
+    "id": "3267",
+    "name": "KIWI 139 Strinda",
+    "lat": 63.41843157497131,
+    "lon": 10.464096330483736,
+    "address": "Ingvald Ystgaards veg 38",
+    "postalCode": "7047",
+    "city": "TRONDHEIM",
+    "url": "https://kiwi.no/finn-butikk/kiwi-139-strinda"
+  },
+  {
+    "id": "4853",
+    "name": "KIWI 140 Sorgenfri",
+    "lat": 63.40523372702065,
+    "lon": 10.40016829558705,
+    "address": "Sorgenfriveien 28",
+    "postalCode": "7031",
+    "city": "TRONDHEIM",
+    "url": "https://kiwi.no/finn-butikk/kiwi-140-sorgenfri"
+  },
+  {
+    "id": "4598",
+    "name": "KIWI 141 Meierikvartalet",
+    "lat": 67.28362962438565,
+    "lon": 14.385967742987075,
+    "address": "Kongens gate 33A",
+    "postalCode": "8006",
+    "city": "BODØ",
+    "url": "https://kiwi.no/finn-butikk/kiwi-141-meierikvartalet"
+  },
+  {
+    "id": "4972",
+    "name": "KIWI 142 Lilleby",
+    "lat": 63.44229022817025,
+    "lon": 10.433637246789898,
+    "address": "Stjørdalsveien 2",
+    "postalCode": "7066",
+    "city": "TRONDHEIM",
+    "url": "https://kiwi.no/finn-butikk/kiwi-142-lilleby"
+  },
+  {
+    "id": "5333",
+    "name": "KIWI 143 Hommelvik",
+    "lat": 63.41488450969072,
+    "lon": 10.809520131945613,
+    "address": "Liavegen 2A",
+    "postalCode": "7550",
+    "city": "HOMMELVIK",
+    "url": "https://kiwi.no/finn-butikk/kiwi-143-hommelvik"
+  },
+  {
+    "id": "1979",
+    "name": "KIWI 144 Havstad",
+    "lat": 63.40611760294833,
+    "lon": 10.35841775698237,
+    "address": "Byåsveien 168",
+    "postalCode": "7021",
+    "city": "TRONDHEIM",
+    "url": "https://kiwi.no/finn-butikk/kiwi-144-havstad"
+  },
+  {
+    "id": "2836",
+    "name": "KIWI 145 Humlehaugen",
+    "lat": 63.42435856374476,
+    "lon": 10.534579723591527,
+    "address": "Ranheimsvegen 201F",
+    "postalCode": "7055",
+    "city": "RANHEIM",
+    "url": "https://kiwi.no/finn-butikk/kiwi-145-humlehaugen"
+  },
+  {
+    "id": "5654",
+    "name": "KIWI 147 Alstad",
+    "lat": 67.27624614185953,
+    "lon": 14.457230754922843,
+    "address": "Per Helgesens vei 99",
+    "postalCode": "8013",
+    "city": "BODØ",
+    "url": "https://kiwi.no/finn-butikk/kiwi-147-alstad"
+  },
+  {
+    "id": "4270",
+    "name": "KIWI 151 Vadsø",
+    "lat": 70.07981196303705,
+    "lon": 29.718744584342687,
+    "address": "Kong Haakons gate 6",
+    "postalCode": "9801",
+    "city": "VADSØ",
+    "url": "https://kiwi.no/finn-butikk/kiwi-151-vadso"
+  },
+  {
+    "id": "4274",
+    "name": "KIWI 152 Ankenes",
+    "lat": 68.40638959526444,
+    "lon": 17.4151237161083,
+    "address": "Ankenesveien 2",
+    "postalCode": "8520",
+    "city": "ANKENES",
+    "url": "https://kiwi.no/finn-butikk/kiwi-152-ankenes"
+  },
+  {
+    "id": "4273",
+    "name": "KIWI 153 Håpet",
+    "lat": 69.67927730221308,
+    "lon": 18.93329992148914,
+    "address": "Ørnevegen  9",
+    "postalCode": "9015",
+    "city": "TROMSØ",
+    "url": "https://kiwi.no/finn-butikk/kiwi-153-hapet"
+  },
+  {
+    "id": "2662",
+    "name": "KIWI 154 Fagereng",
+    "lat": 69.64690612150505,
+    "lon": 18.89865997578878,
+    "address": "Kvaløyvegen 156",
+    "postalCode": "9013",
+    "city": "TROMSØ",
+    "url": "https://kiwi.no/finn-butikk/kiwi-154-fagereng"
+  },
+  {
+    "id": "3975",
+    "name": "KIWI 155 Osan Svolvær",
+    "lat": 68.23267852427698,
+    "lon": 14.530157776439205,
+    "address": "Måseveien 1",
+    "postalCode": "8300",
+    "city": "SVOLVÆR",
+    "url": "https://kiwi.no/finn-butikk/kiwi-155-osan-svolvar"
+  },
+  {
+    "id": "3978",
+    "name": "KIWI 156 Finnsnes",
+    "lat": 69.22936442572602,
+    "lon": 17.988233001989975,
+    "address": "Hans Karolius vei 1",
+    "postalCode": "9300",
+    "city": "FINNSNES",
+    "url": "https://kiwi.no/finn-butikk/kiwi-156-finnsnes"
+  },
+  {
+    "id": "7400",
+    "name": "KIWI 157 Alta Sentrum",
+    "lat": 69.96577682620892,
+    "lon": 23.27587950716719,
+    "address": "Hesteskoen 4",
+    "postalCode": "9510",
+    "city": "ALTA",
+    "url": "https://kiwi.no/finn-butikk/kiwi-157-alta-sentrum"
+  },
+  {
+    "id": "7410",
+    "name": "KIWI 158 Lykkentreff",
+    "lat": 68.69017565349111,
+    "lon": 15.415908511198152,
+    "address": "Kjempenhøy 7",
+    "postalCode": "8400",
+    "city": "SORTLAND",
+    "url": "https://kiwi.no/finn-butikk/kiwi-158-lykkentreff"
+  },
+  {
+    "id": "1241",
+    "name": "KIWI 159 Kirkenes",
+    "lat": 69.72479804055396,
+    "lon": 30.070297929442624,
+    "address": "Hans Væggers vei 20",
+    "postalCode": "9901",
+    "city": "KIRKENES",
+    "url": "https://kiwi.no/finn-butikk/kiwi-159-kirkenes"
+  },
+  {
+    "id": "7408",
+    "name": "KIWI 160 Gangsås",
+    "lat": 68.78343619091788,
+    "lon": 16.567127899347486,
+    "address": "Rødbergveien 24",
+    "postalCode": "9409",
+    "city": "HARSTAD",
+    "url": "https://kiwi.no/finn-butikk/kiwi-160-gangsas"
+  },
+  {
+    "id": "1257",
+    "name": "KIWI 161 Hammerfest",
+    "lat": 70.67811632448235,
+    "lon": 23.66866113260565,
+    "address": "Finnmarksveien 54",
+    "postalCode": "9602",
+    "city": "HAMMERFEST",
+    "url": "https://kiwi.no/finn-butikk/kiwi-161-hammerfest"
+  },
+  {
+    "id": "5257",
+    "name": "KIWI 162 Leknes",
+    "lat": 68.14429362696056,
+    "lon": 13.616440948954095,
+    "address": "Slaksletta 1",
+    "postalCode": "8370",
+    "city": "LEKNES",
+    "url": "https://kiwi.no/finn-butikk/kiwi-162-leknes"
+  },
+  {
+    "id": "7761",
+    "name": "KIWI 164 Balsfjordgata",
+    "lat": 69.643728909329,
+    "lon": 18.943464117098564,
+    "address": "Balsfjordgata 2",
+    "postalCode": "9007",
+    "city": "TROMSØ",
+    "url": "https://kiwi.no/finn-butikk/kiwi-164-balsfjordgata"
+  },
+  {
+    "id": "1295",
+    "name": "KIWI 166 Andslimoen",
+    "lat": 69.09414214355036,
+    "lon": 18.590344553810436,
+    "address": "Fagerlidal 430",
+    "postalCode": "9325",
+    "city": "BARDUFOSS",
+    "url": "https://kiwi.no/finn-butikk/kiwi-166-andslimoen"
+  },
+  {
+    "id": "4549",
+    "name": "KIWI 167 Fredrik Langesgate",
+    "lat": 69.64959074041148,
+    "lon": 18.957458731495368,
+    "address": "Fredrik Langes gate 19",
+    "postalCode": "9008",
+    "city": "TROMSØ",
+    "url": "https://kiwi.no/finn-butikk/kiwi-167-fredrik-langesgate"
+  },
+  {
+    "id": "4533",
+    "name": "KIWI 168 Medkila",
+    "lat": 68.76264802778978,
+    "lon": 16.559123361490062,
+    "address": "Strandåkeren 15",
+    "postalCode": "9414",
+    "city": "HARSTAD",
+    "url": "https://kiwi.no/finn-butikk/kiwi-168-medkila"
+  },
+  {
+    "id": "2653",
+    "name": "KIWI 169 Hesseng",
+    "lat": 69.68732604068965,
+    "lon": 29.999080286767622,
+    "address": "Hessengveien 2",
+    "postalCode": "9912",
+    "city": "HESSENG",
+    "url": "https://kiwi.no/finn-butikk/kiwi-169-hesseng"
+  },
+  {
+    "id": "5561",
+    "name": "KIWI 170 Havnegata Sortland",
+    "lat": 68.70285086095413,
+    "lon": 15.414942823971364,
+    "address": "Vesterålsgata 48",
+    "postalCode": "8400",
+    "city": "SORTLAND",
+    "url": "https://kiwi.no/finn-butikk/kiwi-170-havnegata-sortland"
+  },
+  {
+    "id": "4880",
+    "name": "KIWI 171 Isrenna",
+    "lat": 69.68371856892269,
+    "lon": 19.000300114090557,
+    "address": "Stakkevollvegen 301",
+    "postalCode": "9019",
+    "city": "TROMSØ",
+    "url": "https://kiwi.no/finn-butikk/kiwi-171-isrenna"
+  },
+  {
+    "id": "4963",
+    "name": "KIWI 172 Narvikfjellet",
+    "lat": 68.43768452408828,
+    "lon": 17.449080019676714,
+    "address": "Skistua 7",
+    "postalCode": "8515",
+    "city": "NARVIK",
+    "url": "https://kiwi.no/finn-butikk/kiwi-172-narvikfjellet"
+  },
+  {
+    "id": "4921",
+    "name": "KIWI 173 Østre Elvebakken",
+    "lat": 69.97292364524846,
+    "lon": 23.37244800784079,
+    "address": "Smibakken 11",
+    "postalCode": "9515",
+    "city": "ALTA",
+    "url": "https://kiwi.no/finn-butikk/kiwi-173-ostre-elvebakken"
+  },
+  {
+    "id": "5152",
+    "name": "KIWI 174 Stakkevollvegen 11",
+    "lat": 69.66069641651015,
+    "lon": 18.967837794947105,
+    "address": "Stakkevollvegen 11C",
+    "postalCode": "9010",
+    "city": "TROMSØ",
+    "url": "https://kiwi.no/finn-butikk/kiwi-174-stakkevollvegen-11"
+  },
+  {
+    "id": "5355",
+    "name": "KIWI 175 Maskinsvingen",
+    "lat": 69.96850726702395,
+    "lon": 23.269112600213447,
+    "address": "Maskinsvingen 3",
+    "postalCode": "9511",
+    "city": "ALTA",
+    "url": "https://kiwi.no/finn-butikk/kiwi-175-maskinsvingen"
+  },
+  {
+    "id": "5059",
+    "name": "KIWI 176 Hamna",
+    "lat": 69.69992999979652,
+    "lon": 18.973642975996338,
+    "address": "Årevegen 2",
+    "postalCode": "9017",
+    "city": "TROMSØ",
+    "url": "https://kiwi.no/finn-butikk/kiwi-176-hamna"
+  },
+  {
+    "id": "3891",
+    "name": "KIWI 177 Svolvær Sentrum",
+    "lat": 68.2352117258997,
+    "lon": 14.562428848462764,
+    "address": "Lofotgata 52",
+    "postalCode": "8300",
+    "city": "SVOLVÆR",
+    "url": "https://kiwi.no/finn-butikk/kiwi-177-svolvar-sentrum"
+  },
+  {
+    "id": "5647",
+    "name": "KIWI 178 Taraldsvik",
+    "lat": 68.44360632298464,
+    "lon": 17.446162365495375,
+    "address": "Hamsuns vei 2",
+    "postalCode": "8517",
+    "city": "NARVIK",
+    "url": "https://kiwi.no/finn-butikk/kiwi-178-taraldsvik"
+  },
+  {
+    "id": "3931",
+    "name": "KIWI 201 Løten",
+    "lat": 60.821064797722585,
+    "lon": 11.339859357079742,
+    "address": "Stasjonsvegen 8",
+    "postalCode": "2340",
+    "city": "LØTEN",
+    "url": "https://kiwi.no/finn-butikk/kiwi-201-loten"
+  },
+  {
+    "id": "8151",
+    "name": "KIWI 202 Geilo",
+    "lat": 60.53420921215168,
+    "lon": 8.209130112948218,
+    "address": "Kyrkjevegen 1",
+    "postalCode": "3580",
+    "city": "GEILO",
+    "url": "https://kiwi.no/finn-butikk/kiwi-202-geilo"
+  },
+  {
+    "id": "4266",
+    "name": "KIWI 203 Skotterud",
+    "lat": 59.98524692798352,
+    "lon": 12.122925354087997,
+    "address": "Rådhusvegen 6",
+    "postalCode": "2230",
+    "city": "SKOTTERUD",
+    "url": "https://kiwi.no/finn-butikk/kiwi-203-skotterud"
+  },
+  {
+    "id": "5443",
+    "name": "KIWI 204 Skreia",
+    "lat": 60.65103123856448,
+    "lon": 10.939191297216654,
+    "address": "Rossgutua 4",
+    "postalCode": "2848",
+    "city": "SKREIA",
+    "url": "https://kiwi.no/finn-butikk/kiwi-204-skreia"
+  },
+  {
+    "id": "5444",
+    "name": "KIWI 206 Lena",
+    "lat": 60.672902166289155,
+    "lon": 10.813382962436181,
+    "address": "Hauggata 6",
+    "postalCode": "2850",
+    "city": "LENA",
+    "url": "https://kiwi.no/finn-butikk/kiwi-206-lena"
+  },
+  {
+    "id": "3938",
+    "name": "KIWI 207 Kapp",
+    "lat": 60.71355857101902,
+    "lon": 10.855204708052334,
+    "address": "Mjøsvegen 466",
+    "postalCode": "2849",
+    "city": "KAPP",
+    "url": "https://kiwi.no/finn-butikk/kiwi-207-kapp"
+  },
+  {
+    "id": "3919",
+    "name": "KIWI 209 Flå",
+    "lat": 60.431204438005125,
+    "lon": 9.4586097291601,
+    "address": "Svingelie 6",
+    "postalCode": "3539",
+    "city": "FLÅ",
+    "url": "https://kiwi.no/finn-butikk/kiwi-209-fla"
+  },
+  {
+    "id": "3942",
+    "name": "KIWI 210 Minnesund",
+    "lat": 60.40323377738698,
+    "lon": 11.242463503074339,
+    "address": "Langsetvegen 36",
+    "postalCode": "2092",
+    "city": "MINNESUND",
+    "url": "https://kiwi.no/finn-butikk/kiwi-210-minnesund"
+  },
+  {
+    "id": "3943",
+    "name": "KIWI 211 Heidal",
+    "lat": 61.758606660214355,
+    "lon": 9.285371767342737,
+    "address": "Heidalsvegen 1807",
+    "postalCode": "2676",
+    "city": "HEIDAL",
+    "url": "https://kiwi.no/finn-butikk/kiwi-211-heidal"
+  },
+  {
+    "id": "1191",
+    "name": "KIWI 212 CC Mart'n Hamar",
+    "lat": 60.79594717675512,
+    "lon": 11.088835305738435,
+    "address": "Ringgata 53",
+    "postalCode": "2318",
+    "city": "HAMAR",
+    "url": "https://kiwi.no/finn-butikk/kiwi-212-cc-martn-hamar"
+  },
+  {
+    "id": "4810",
+    "name": "KIWI 217 Storhamar",
+    "lat": 60.80363432396754,
+    "lon": 11.043721013091485,
+    "address": "Kornsilovegen 25A",
+    "postalCode": "2316",
+    "city": "HAMAR",
+    "url": "https://kiwi.no/finn-butikk/kiwi-217-storhamar"
+  },
+  {
+    "id": "7745",
+    "name": "KIWI 221 Ridabu",
+    "lat": 60.80310177877243,
+    "lon": 11.128763394872653,
+    "address": "Todderudvegen 46A",
+    "postalCode": "2322",
+    "city": "RIDABU",
+    "url": "https://kiwi.no/finn-butikk/kiwi-221-ridabu"
+  },
+  {
+    "id": "2137",
+    "name": "KIWI 223 Jaren",
+    "lat": 60.39457186293999,
+    "lon": 10.557921417562769,
+    "address": "Sætergutua 7",
+    "postalCode": "2770",
+    "city": "JAREN",
+    "url": "https://kiwi.no/finn-butikk/kiwi-223-jaren"
+  },
+  {
+    "id": "2142",
+    "name": "KIWI 224 Kvam",
+    "lat": 61.66519098955952,
+    "lon": 9.699105267916888,
+    "address": "Linvegen 1",
+    "postalCode": "2642",
+    "city": "KVAM",
+    "url": "https://kiwi.no/finn-butikk/kiwi-224-kvam"
+  },
+  {
+    "id": "3954",
+    "name": "KIWI 226 Hemsedal",
+    "lat": 60.850067856694785,
+    "lon": 8.615252980504314,
+    "address": "Hemsedalsvegen 2571",
+    "postalCode": "3560",
+    "city": "HEMSEDAL",
+    "url": "https://kiwi.no/finn-butikk/kiwi-226-hemsedal"
+  },
+  {
+    "id": "4155",
+    "name": "KIWI 227 Rødberg",
+    "lat": 60.26589826131662,
+    "lon": 8.946917761549741,
+    "address": "Norevegen 3",
+    "postalCode": "3630",
+    "city": "RØDBERG",
+    "url": "https://kiwi.no/finn-butikk/kiwi-227-rodberg"
+  },
+  {
+    "id": "3967",
+    "name": "KIWI 229 Venabygdsfjellet",
+    "lat": 61.64886632304447,
+    "lon": 10.094581784990211,
+    "address": "Rondevegen 770",
+    "postalCode": "2632",
+    "city": "VENABYGD",
+    "url": "https://kiwi.no/finn-butikk/kiwi-229-venabygdsfjellet"
+  },
+  {
+    "id": "2187",
+    "name": "KIWI 231 Røyslimoen",
+    "lat": 61.099502796590855,
+    "lon": 10.508608083126193,
+    "address": "Røyslivegen 2",
+    "postalCode": "2611",
+    "city": "LILLEHAMMER",
+    "url": "https://kiwi.no/finn-butikk/kiwi-231-royslimoen"
+  },
+  {
+    "id": "4047",
+    "name": "KIWI 232 Storgata",
+    "lat": 61.11523883969828,
+    "lon": 10.465817645691644,
+    "address": "Storgata 62",
+    "postalCode": "2609",
+    "city": "LILLEHAMMER",
+    "url": "https://kiwi.no/finn-butikk/kiwi-232-storgata"
+  },
+  {
+    "id": "4137",
+    "name": "KIWI 233 Stampa",
+    "lat": 61.124001927000855,
+    "lon": 10.468320851581765,
+    "address": "Nordsetervegen 42",
+    "postalCode": "2618",
+    "city": "LILLEHAMMER",
+    "url": "https://kiwi.no/finn-butikk/kiwi-233-stampa"
+  },
+  {
+    "id": "2289",
+    "name": "KIWI 234 Smestad",
+    "lat": 61.133790267546765,
+    "lon": 10.452576163341007,
+    "address": "Sigrid Undsets veg 56B",
+    "postalCode": "2624",
+    "city": "LILLEHAMMER",
+    "url": "https://kiwi.no/finn-butikk/kiwi-234-smestad"
+  },
+  {
+    "id": "3235",
+    "name": "KIWI 236 Nordre Ål",
+    "lat": 61.13114080555576,
+    "lon": 10.448282651749967,
+    "address": "Oskar Skoglys veg 2",
+    "postalCode": "2619",
+    "city": "LILLEHAMMER",
+    "url": "https://kiwi.no/finn-butikk/kiwi-236-nordre-al"
+  },
+  {
+    "id": "5664",
+    "name": "KIWI 237 Jørstadmoen",
+    "lat": 61.1551652778298,
+    "lon": 10.393133552931346,
+    "address": "Jørstadmovegen 691",
+    "postalCode": "2625",
+    "city": "FÅBERG",
+    "url": "https://kiwi.no/finn-butikk/kiwi-237-jorstadmoen"
+  },
+  {
+    "id": "4031",
+    "name": "KIWI 239 Rena",
+    "lat": 61.131575879180154,
+    "lon": 11.370924293632116,
+    "address": "Tollef Kildes gate 14",
+    "postalCode": "2450",
+    "city": "RENA",
+    "url": "https://kiwi.no/finn-butikk/kiwi-239-rena"
+  },
+  {
+    "id": "4034",
+    "name": "KIWI 242 Næroset",
+    "lat": 60.97560157134116,
+    "lon": 10.777595198523024,
+    "address": "Åsmarkvegen 761",
+    "postalCode": "2364",
+    "city": "NÆROSET",
+    "url": "https://kiwi.no/finn-butikk/kiwi-242-naroset"
+  },
+  {
+    "id": "4039",
+    "name": "KIWI 243 Beitostølen",
+    "lat": 61.242773567990405,
+    "lon": 8.920867852885896,
+    "address": "Øvrevegen 4A",
+    "postalCode": "2953",
+    "city": "BEITOSTØLEN",
+    "url": "https://kiwi.no/finn-butikk/kiwi-243-beitostolen"
+  },
+  {
+    "id": "4041",
+    "name": "KIWI 244 Lom",
+    "lat": 61.840678521185716,
+    "lon": 8.574181382951297,
+    "address": "Stupulvegen 9",
+    "postalCode": "2686",
+    "city": "LOM",
+    "url": "https://kiwi.no/finn-butikk/kiwi-244-lom"
+  },
+  {
+    "id": "4247",
+    "name": "KIWI 252 Eina",
+    "lat": 60.62977696611981,
+    "lon": 10.598050234024505,
+    "address": "Fjordgata 6",
+    "postalCode": "2843",
+    "city": "EINA",
+    "url": "https://kiwi.no/finn-butikk/kiwi-252-eina"
+  },
+  {
+    "id": "2011",
+    "name": "KIWI 255 Mjøndalen",
+    "lat": 59.74960320907473,
+    "lon": 10.01176980147322,
+    "address": "Arbeidergata 17A",
+    "postalCode": "3050",
+    "city": "MJØNDALEN",
+    "url": "https://kiwi.no/finn-butikk/kiwi-255-mjondalen"
+  },
+  {
+    "id": "5332",
+    "name": "KIWI 256 Sellebakk",
+    "lat": 59.22781148692708,
+    "lon": 10.99695667682761,
+    "address": "Løentorget 2",
+    "postalCode": "1653",
+    "city": "SELLEBAKK",
+    "url": "https://kiwi.no/finn-butikk/kiwi-256-sellebakk"
+  },
+  {
+    "id": "5270",
+    "name": "KIWI 257 Ringveien Tranby",
+    "lat": 59.81662680564471,
+    "lon": 10.288175507513076,
+    "address": "Joseph Kellers vei 21",
+    "postalCode": "3409",
+    "city": "TRANBY",
+    "url": "https://kiwi.no/finn-butikk/kiwi-257-ringveien-tranby"
+  },
+  {
+    "id": "4980",
+    "name": "KIWI 258 Linderud Senter",
+    "lat": 59.94324150449348,
+    "lon": 10.835472948898587,
+    "address": "Erich Mogensøns vei 38",
+    "postalCode": "0594",
+    "city": "OSLO",
+    "url": "https://kiwi.no/finn-butikk/kiwi-258-linderud-senter"
+  },
+  {
+    "id": "5136",
+    "name": "KIWI 259 Sølvparken",
+    "lat": 59.66880823684619,
+    "lon": 9.653541633949668,
+    "address": "Gomsrudveien 1",
+    "postalCode": "3612",
+    "city": "KONGSBERG",
+    "url": "https://kiwi.no/finn-butikk/kiwi-259-solvparken"
+  },
+  {
+    "id": "4988",
+    "name": "KIWI 260 Tangen",
+    "lat": 59.72987077376135,
+    "lon": 10.230685877503518,
+    "address": "Havnegata 26",
+    "postalCode": "3040",
+    "city": "DRAMMEN",
+    "url": "https://kiwi.no/finn-butikk/kiwi-260-tangen"
+  },
+  {
+    "id": "3416",
+    "name": "KIWI 261 Farriseidet",
+    "lat": 59.05435821009009,
+    "lon": 10.010020297309751,
+    "address": "Brunlanesveien 8",
+    "postalCode": "3268",
+    "city": "LARVIK",
+    "url": "https://kiwi.no/finn-butikk/kiwi-261-farriseidet"
+  },
+  {
+    "id": "5195",
+    "name": "KIWI 262 Ryenstubben",
+    "lat": 59.8984304118443,
+    "lon": 10.805699484680735,
+    "address": "Ryenstubben 2",
+    "postalCode": "0679",
+    "city": "OSLO",
+    "url": "https://kiwi.no/finn-butikk/kiwi-262-ryenstubben"
+  },
+  {
+    "id": "4872",
+    "name": "KIWI 263 Klokkarstua",
+    "lat": 59.619892785665265,
+    "lon": 10.470831646163743,
+    "address": "Farvelbakken 3",
+    "postalCode": "3490",
+    "city": "KLOKKARSTUA",
+    "url": "https://kiwi.no/finn-butikk/kiwi-263-klokkarstua"
+  },
+  {
+    "id": "4658",
+    "name": "KIWI 264 Myrvoll",
+    "lat": 59.78802271087766,
+    "lon": 10.801386653275543,
+    "address": "Trelastveien 1",
+    "postalCode": "1415",
+    "city": "OPPEGÅRD",
+    "url": "https://kiwi.no/finn-butikk/kiwi-264-myrvoll"
+  },
+  {
+    "id": "3427",
+    "name": "KIWI 265 Lerberg",
+    "lat": 59.778875510496974,
+    "lon": 9.91771611907937,
+    "address": "Lauvtjernveien 2",
+    "postalCode": "3303",
+    "city": "HOKKSUND",
+    "url": "https://kiwi.no/finn-butikk/kiwi-265-lerberg"
+  },
+  {
+    "id": "1299",
+    "name": "KIWI 266 Bogerud Senter",
+    "lat": 59.875561387913734,
+    "lon": 10.842816891340178,
+    "address": "Stallerudveien 105",
+    "postalCode": "0693",
+    "city": "OSLO",
+    "url": "https://kiwi.no/finn-butikk/kiwi-266-bogerud-senter"
+  },
+  {
+    "id": "3385",
+    "name": "KIWI 267 Løken",
+    "lat": 59.79491005443707,
+    "lon": 11.463750857809867,
+    "address": "Løkkealleen 8",
+    "postalCode": "1960",
+    "city": "LØKEN",
+    "url": "https://kiwi.no/finn-butikk/kiwi-267-loken"
+  },
+  {
+    "id": "3394",
+    "name": "KIWI 268 Råel",
+    "lat": 59.26659869437593,
+    "lon": 10.453547165713273,
+    "address": "Lunas vei 2",
+    "postalCode": "3113",
+    "city": "TØNSBERG",
+    "url": "https://kiwi.no/finn-butikk/kiwi-268-rael"
+  },
+  {
+    "id": "3870",
+    "name": "KIWI 269 Veum",
+    "lat": 59.25204194710635,
+    "lon": 10.93077507316912,
+    "address": "Evenrødveien 2",
+    "postalCode": "1615",
+    "city": "FREDRIKSTAD",
+    "url": "https://kiwi.no/finn-butikk/kiwi-269-veum"
+  },
+  {
+    "id": "1048",
+    "name": "KIWI 270 Hof",
+    "lat": 59.5296310516632,
+    "lon": 10.088234078492993,
+    "address": "Thorshaugveien 1",
+    "postalCode": "3090",
+    "city": "HOF",
+    "url": "https://kiwi.no/finn-butikk/kiwi-270-hof"
+  },
+  {
+    "id": "2004",
+    "name": "KIWI 271 Konnerud",
+    "lat": 59.717537966590086,
+    "lon": 10.14962235713648,
+    "address": "Pettersvollen 3",
+    "postalCode": "3032",
+    "city": "DRAMMEN",
+    "url": "https://kiwi.no/finn-butikk/kiwi-271-konnerud"
+  },
+  {
+    "id": "1298",
+    "name": "KIWI 272 Bjørkelangen",
+    "lat": 59.883798000843605,
+    "lon": 11.570873310087107,
+    "address": "Rådhusveien 8",
+    "postalCode": "1940",
+    "city": "BJØRKELANGEN",
+    "url": "https://kiwi.no/finn-butikk/kiwi-272-bjorkelangen"
+  },
+  {
+    "id": "3307",
+    "name": "KIWI 273 Cecilie Thoresens vei",
+    "lat": 59.87626866701062,
+    "lon": 10.809910808361849,
+    "address": "Cecilie Thoresens vei 11",
+    "postalCode": "1153",
+    "city": "OSLO",
+    "url": "https://kiwi.no/finn-butikk/kiwi-273-cecilie-thoresens-vei"
+  },
+  {
+    "id": "3354",
+    "name": "KIWI 274 Hasleveien",
+    "lat": 59.92761572099474,
+    "lon": 10.778897571719481,
+    "address": "Hasleveien 10",
+    "postalCode": "0571",
+    "city": "OSLO",
+    "url": "https://kiwi.no/finn-butikk/kiwi-274-hasleveien"
+  },
+  {
+    "id": "1962",
+    "name": "KIWI 275 Herøya",
+    "lat": 59.11546619681034,
+    "lon": 9.64941694466185,
+    "address": "Fjordgata 15",
+    "postalCode": "3936",
+    "city": "PORSGRUNN",
+    "url": "https://kiwi.no/finn-butikk/kiwi-275-heroya"
+  },
+  {
+    "id": "5508",
+    "name": "KIWI 276 Ulven",
+    "lat": 59.925871542237125,
+    "lon": 10.812531768304794,
+    "address": "Ulvenveien 84B",
+    "postalCode": "0581",
+    "city": "OSLO",
+    "url": "https://kiwi.no/finn-butikk/kiwi-276-ulven"
+  },
+  {
+    "id": "2699",
+    "name": "KIWI 277 Holt Vestvollen",
+    "lat": 59.98650141180487,
+    "lon": 11.027329202926238,
+    "address": "Prost Stabels vei 6",
+    "postalCode": "2019",
+    "city": "SKEDSMOKORSET",
+    "url": "https://kiwi.no/finn-butikk/kiwi-277-holt-vestvollen"
+  },
+  {
+    "id": "5503",
+    "name": "KIWI 278 Løren",
+    "lat": 59.927851841650714,
+    "lon": 10.789324205720153,
+    "address": "Frydenbergveien 46A",
+    "postalCode": "0575",
+    "city": "OSLO",
+    "url": "https://kiwi.no/finn-butikk/kiwi-278-loren"
+  },
+  {
+    "id": "2670",
+    "name": "KIWI 279 Briskeby",
+    "lat": 59.922597712014536,
+    "lon": 10.715871926012609,
+    "address": "Industrigata 2",
+    "postalCode": "0260",
+    "city": "OSLO",
+    "url": "https://kiwi.no/finn-butikk/kiwi-279-briskeby"
+  },
+  {
+    "id": "2656",
+    "name": "KIWI 280 Skippergata",
+    "lat": 59.13601614337148,
+    "lon": 9.642054664563553,
+    "address": "Skippergata 4",
+    "postalCode": "3921",
+    "city": "PORSGRUNN",
+    "url": "https://kiwi.no/finn-butikk/kiwi-280-skippergata"
+  },
+  {
+    "id": "2354",
+    "name": "KIWI 281 Heimdalsvingen",
+    "lat": 59.272454602978684,
+    "lon": 10.427582163667699,
+    "address": "Heimdalsvingen 3",
+    "postalCode": "3117",
+    "city": "TØNSBERG",
+    "url": "https://kiwi.no/finn-butikk/kiwi-281-heimdalsvingen"
+  },
+  {
+    "id": "2346",
+    "name": "KIWI 282 Hellerudveien",
+    "lat": 59.917525775885025,
+    "lon": 10.850991857342287,
+    "address": "Hellerudveien 1A",
+    "postalCode": "0672",
+    "city": "OSLO",
+    "url": "https://kiwi.no/finn-butikk/kiwi-282-hellerudveien"
+  },
+  {
+    "id": "2326",
+    "name": "KIWI 283 Sørumsand",
+    "lat": 59.986279552065135,
+    "lon": 11.247370986966809,
+    "address": "Sørumsandveien 66C",
+    "postalCode": "1920",
+    "city": "SØRUMSAND",
+    "url": "https://kiwi.no/finn-butikk/kiwi-283-sorumsand"
+  },
+  {
+    "id": "2276",
+    "name": "KIWI 284 Borg",
+    "lat": 59.275472853307434,
+    "lon": 11.086415405158146,
+    "address": "Klokkergårdveien 32",
+    "postalCode": "1711",
+    "city": "SARPSBORG",
+    "url": "https://kiwi.no/finn-butikk/kiwi-284-borg"
+  },
+  {
+    "id": "2309",
+    "name": "KIWI 285 Fjellhamar",
+    "lat": 59.94054448849868,
+    "lon": 10.98392115598402,
+    "address": "Fjellhamarveien 58",
+    "postalCode": "1472",
+    "city": "FJELLHAMAR",
+    "url": "https://kiwi.no/finn-butikk/kiwi-285-fjellhamar"
+  },
+  {
+    "id": "5241",
+    "name": "KIWI 286 Augerød",
+    "lat": 59.46878923983048,
+    "lon": 10.783439482884683,
+    "address": "Augerødlia 1",
+    "postalCode": "1591",
+    "city": "SPERREBOTN",
+    "url": "https://kiwi.no/finn-butikk/kiwi-286-augerod"
+  },
+  {
+    "id": "1945",
+    "name": "KIWI 287 Vammaveien",
+    "lat": 59.58067764075612,
+    "lon": 11.161550902970342,
+    "address": "Vammaveien 28",
+    "postalCode": "1813",
+    "city": "ASKIM",
+    "url": "https://kiwi.no/finn-butikk/kiwi-287-vammaveien"
+  },
+  {
+    "id": "5527",
+    "name": "KIWI 288 Nordre Jarlsberg Brygge",
+    "lat": 59.56508169804223,
+    "lon": 10.268777022585244,
+    "address": "Willem Stibolts vei 1",
+    "postalCode": "3077",
+    "city": "SANDE I VESTFOLD",
+    "url": "https://kiwi.no/finn-butikk/kiwi-288-nordre-jarlsberg-brygge"
+  },
+  {
+    "id": "1369",
+    "name": "KIWI 289 Slemdal",
+    "lat": 59.95029847235992,
+    "lon": 10.692618213291752,
+    "address": "Frognerseterveien 27",
+    "postalCode": "0775",
+    "city": "OSLO",
+    "url": "https://kiwi.no/finn-butikk/kiwi-289-slemdal"
+  },
+  {
+    "id": "2639",
+    "name": "KIWI 290 Hovinveien",
+    "lat": 59.92156124675792,
+    "lon": 10.792291606750307,
+    "address": "Hovinveien 45",
+    "postalCode": "0576",
+    "city": "OSLO",
+    "url": "https://kiwi.no/finn-butikk/kiwi-290-hovinveien"
+  },
+  {
+    "id": "9504",
+    "name": "KIWI 291 Bøleråsen Senter",
+    "lat": 59.76430510271044,
+    "lon": 10.851956521695639,
+    "address": "Bregnefaret 1A",
+    "postalCode": "1405",
+    "city": "LANGHUS",
+    "url": "https://kiwi.no/finn-butikk/kiwi-291-bolerasen-senter"
+  },
+  {
+    "id": "2303",
+    "name": "KIWI 292 Blystadlia",
+    "lat": 59.930904818724336,
+    "lon": 11.035335041597117,
+    "address": "GREVLINGVEGEN 3",
+    "postalCode": "2014",
+    "city": "BLYSTADLIA",
+    "url": "https://kiwi.no/finn-butikk/kiwi-292-blystadlia"
+  },
+  {
+    "id": "4585",
+    "name": "KIWI 293 Ski Stasjon",
+    "lat": 59.72047108490806,
+    "lon": 10.83368443079228,
+    "address": "Nordbyveien 2",
+    "postalCode": "1423",
+    "city": "SKI",
+    "url": "https://kiwi.no/finn-butikk/kiwi-293-ski-stasjon"
+  },
+  {
+    "id": "2693",
+    "name": "KIWI 294 Slynga",
+    "lat": 59.946677956686756,
+    "lon": 11.03121604373862,
+    "address": "Slynga 2",
+    "postalCode": "2005",
+    "city": "RÆLINGEN",
+    "url": "https://kiwi.no/finn-butikk/kiwi-294-slynga"
+  },
+  {
+    "id": "2282",
+    "name": "KIWI 295 Lørenfallet",
+    "lat": 60.020211306901935,
+    "lon": 11.225987109522094,
+    "address": "Haldenveien 318",
+    "postalCode": "1923",
+    "city": "SØRUM",
+    "url": "https://kiwi.no/finn-butikk/kiwi-295-lorenfallet"
+  },
+  {
+    "id": "2317",
+    "name": "KIWI 296 Stabekk Stasjon",
+    "lat": 59.90861032181575,
+    "lon": 10.605547372995387,
+    "address": "Gamle Drammensvei 40",
+    "postalCode": "1369",
+    "city": "STABEKK",
+    "url": "https://kiwi.no/finn-butikk/kiwi-296-stabekk-stasjon"
+  },
+  {
+    "id": "2690",
+    "name": "KIWI 297 Hvittingfoss",
+    "lat": 59.485049388491646,
+    "lon": 10.013167404261393,
+    "address": "Sentrumsveien 7",
+    "postalCode": "3647",
+    "city": "HVITTINGFOSS",
+    "url": "https://kiwi.no/finn-butikk/kiwi-297-hvittingfoss"
+  },
+  {
+    "id": "1940",
+    "name": "KIWI 298 Gomsrud",
+    "lat": 59.64191911569253,
+    "lon": 9.659353247447878,
+    "address": "Ove Gjeddes vei 110",
+    "postalCode": "3610",
+    "city": "KONGSBERG",
+    "url": "https://kiwi.no/finn-butikk/kiwi-298-gomsrud"
+  },
+  {
+    "id": "3349",
+    "name": "KIWI 299 Bondi",
+    "lat": 59.81890706450492,
+    "lon": 10.440941007792835,
+    "address": "RØYKENVEIEN 142A",
+    "postalCode": "1386",
+    "city": "ASKER",
+    "url": "https://kiwi.no/finn-butikk/kiwi-299-bondi"
+  },
+  {
+    "id": "4007",
+    "name": "KIWI 301 Solheim",
+    "lat": 59.92690301012337,
+    "lon": 10.954656744279621,
+    "address": "Skårersletta 10",
+    "postalCode": "1473",
+    "city": "LØRENSKOG",
+    "url": "https://kiwi.no/finn-butikk/kiwi-301-solheim"
+  },
+  {
+    "id": "1350",
+    "name": "KIWI 302 Fagerstrand",
+    "lat": 59.745785494984375,
+    "lon": 10.608038951273048,
+    "address": "Myklerudveien 118",
+    "postalCode": "1454",
+    "city": "FAGERSTRAND",
+    "url": "https://kiwi.no/finn-butikk/kiwi-302-fagerstrand"
+  },
+  {
+    "id": "5669",
+    "name": "KIWI 303 Langrønningen",
+    "lat": 58.970442330662834,
+    "lon": 9.518975770396485,
+    "address": "Langrønningen 17",
+    "postalCode": "3967",
+    "city": "STATHELLE",
+    "url": "https://kiwi.no/finn-butikk/kiwi-303-langronningen"
+  },
+  {
+    "id": "1173",
+    "name": "KIWI 304 Barkåker",
+    "lat": 59.31879672226377,
+    "lon": 10.388500614781872,
+    "address": "Sporveien 3",
+    "postalCode": "3157",
+    "city": "BARKÅKER",
+    "url": "https://kiwi.no/finn-butikk/kiwi-304-barkaker"
+  },
+  {
+    "id": "2127",
+    "name": "KIWI 305 Kjørbo",
+    "lat": 59.88720593746101,
+    "lon": 10.51859657318026,
+    "address": "Sandviksveien 183",
+    "postalCode": "1337",
+    "city": "SANDVIKA",
+    "url": "https://kiwi.no/finn-butikk/kiwi-305-kjorbo"
+  },
+  {
+    "id": "1351",
+    "name": "KIWI 306 Elingaardkilen",
+    "lat": 59.26520872352824,
+    "lon": 10.789586031265186,
+    "address": "Engelsvikenveien 157",
+    "postalCode": "1626",
+    "city": "MANSTAD",
+    "url": "https://kiwi.no/finn-butikk/kiwi-306-elingaardkilen"
+  },
+  {
+    "id": "2194",
+    "name": "KIWI 307 Kringsjå",
+    "lat": 59.96388866429616,
+    "lon": 10.732839047874325,
+    "address": "Olav M. Troviks vei 72",
+    "postalCode": "0864",
+    "city": "OSLO",
+    "url": "https://kiwi.no/finn-butikk/kiwi-307-kringsja"
+  },
+  {
+    "id": "3918",
+    "name": "KIWI 308 Fredensborg",
+    "lat": 59.91880721803184,
+    "lon": 10.751262333840936,
+    "address": "Møllergata 56",
+    "postalCode": "0179",
+    "city": "OSLO",
+    "url": "https://kiwi.no/finn-butikk/kiwi-308-fredensborg"
+  },
+  {
+    "id": "2008",
+    "name": "KIWI 309 Bjølsen",
+    "lat": 59.944240759980104,
+    "lon": 10.759147311254612,
+    "address": "BERGENSGATA 28B",
+    "postalCode": "0468",
+    "city": "OSLO",
+    "url": "https://kiwi.no/finn-butikk/kiwi-309-bjolsen"
+  },
+  {
+    "id": "2006",
+    "name": "KIWI 310 Heggedal",
+    "lat": 59.78665233300057,
+    "lon": 10.436360476787549,
+    "address": "Trevaren 1",
+    "postalCode": "1389",
+    "city": "HEGGEDAL",
+    "url": "https://kiwi.no/finn-butikk/kiwi-310-heggedal"
+  },
+  {
+    "id": "2013",
+    "name": "KIWI 311 Stabekk",
+    "lat": 59.90991774737867,
+    "lon": 10.601751890300669,
+    "address": "Gamle Ringeriksvei 9",
+    "postalCode": "1368",
+    "city": "STABEKK",
+    "url": "https://kiwi.no/finn-butikk/kiwi-311-stabekk"
+  },
+  {
+    "id": "1302",
+    "name": "KIWI 312 Ranvikskogen",
+    "lat": 59.11671992334744,
+    "lon": 10.214832664166696,
+    "address": "Ranvikskogen 2",
+    "postalCode": "3212",
+    "city": "SANDEFJORD",
+    "url": "https://kiwi.no/finn-butikk/kiwi-312-ranvikskogen"
+  },
+  {
+    "id": "1200",
+    "name": "KIWI 313 Lyngåskrysset",
+    "lat": 59.815257272555904,
+    "lon": 10.248845104688217,
+    "address": "Ringeriksveien 252",
+    "postalCode": "3403",
+    "city": "LIER",
+    "url": "https://kiwi.no/finn-butikk/kiwi-313-lyngaskrysset"
+  },
+  {
+    "id": "1201",
+    "name": "KIWI 314 Åskollen",
+    "lat": 59.71202661629549,
+    "lon": 10.257156103728192,
+    "address": "Nordbyveien 75",
+    "postalCode": "3038",
+    "city": "DRAMMEN",
+    "url": "https://kiwi.no/finn-butikk/kiwi-314-askollen"
+  },
+  {
+    "id": "7236",
+    "name": "KIWI 315 Kværnerbyen",
+    "lat": 59.90462349240738,
+    "lon": 10.787223975727121,
+    "address": "Turbinveien 4B",
+    "postalCode": "0195",
+    "city": "OSLO",
+    "url": "https://kiwi.no/finn-butikk/kiwi-315-kvarnerbyen"
+  },
+  {
+    "id": "4146",
+    "name": "KIWI 316 Frognerveien",
+    "lat": 59.92181303845058,
+    "lon": 10.705260053722233,
+    "address": "Frognerveien 54",
+    "postalCode": "0266",
+    "city": "OSLO",
+    "url": "https://kiwi.no/finn-butikk/kiwi-316-frognerveien"
+  },
+  {
+    "id": "4205",
+    "name": "KIWI 317 Hvalstad",
+    "lat": 59.858663975218185,
+    "lon": 10.476780435659153,
+    "address": "Smedsvingen 4",
+    "postalCode": "1395",
+    "city": "HVALSTAD",
+    "url": "https://kiwi.no/finn-butikk/kiwi-317-hvalstad"
+  },
+  {
+    "id": "1202",
+    "name": "KIWI 318 Spikkestad",
+    "lat": 59.744561403813194,
+    "lon": 10.340993254909481,
+    "address": "Nye Stasjonsvei 29",
+    "postalCode": "3430",
+    "city": "SPIKKESTAD",
+    "url": "https://kiwi.no/finn-butikk/kiwi-318-spikkestad"
+  },
+  {
+    "id": "1203",
+    "name": "KIWI 319 Krokstadelva",
+    "lat": 59.75723724027875,
+    "lon": 10.004371483609441,
+    "address": "Bruveien 6",
+    "postalCode": "3055",
+    "city": "KROKSTADELVA",
+    "url": "https://kiwi.no/finn-butikk/kiwi-319-krokstadelva"
+  },
+  {
+    "id": "2167",
+    "name": "KIWI 320 Rælingen",
+    "lat": 59.93236471140774,
+    "lon": 11.067353858347259,
+    "address": "Nedre Rælingsveg 261",
+    "postalCode": "2008",
+    "city": "FJERDINGBY",
+    "url": "https://kiwi.no/finn-butikk/kiwi-320-ralingen"
+  },
+  {
+    "id": "2149",
+    "name": "KIWI 321 Meierigården",
+    "lat": 60.14354457949935,
+    "lon": 11.162117251544723,
+    "address": "Gardermovegen 30A",
+    "postalCode": "2050",
+    "city": "JESSHEIM",
+    "url": "https://kiwi.no/finn-butikk/kiwi-321-meierigarden"
+  },
+  {
+    "id": "2021",
+    "name": "KIWI 322 Slependen",
+    "lat": 59.887255275877244,
+    "lon": 10.500465070219448,
+    "address": "Tanumveien 2",
+    "postalCode": "1341",
+    "city": "SLEPENDEN",
+    "url": "https://kiwi.no/finn-butikk/kiwi-322-slependen"
+  },
+  {
+    "id": "2095",
+    "name": "KIWI 323 Haugenstua",
+    "lat": 59.952258833553564,
+    "lon": 10.910787819531347,
+    "address": "Ole Brumms vei 1",
+    "postalCode": "0979",
+    "city": "OSLO",
+    "url": "https://kiwi.no/finn-butikk/kiwi-323-haugenstua"
+  },
+  {
+    "id": "1353",
+    "name": "KIWI 324 Pancoveien",
+    "lat": 59.23414904722992,
+    "lon": 10.905015272783004,
+    "address": "Pancoveien 30",
+    "postalCode": "1624",
+    "city": "GRESSVIK",
+    "url": "https://kiwi.no/finn-butikk/kiwi-324-pancoveien"
+  },
+  {
+    "id": "1204",
+    "name": "KIWI 325 Sætre",
+    "lat": 59.68154249852879,
+    "lon": 10.525862327401832,
+    "address": "Fransåsveien 2",
+    "postalCode": "3475",
+    "city": "SÆTRE",
+    "url": "https://kiwi.no/finn-butikk/kiwi-325-satre"
+  },
+  {
+    "id": "2069",
+    "name": "KIWI 326 Sandakerveien",
+    "lat": 59.94319546951308,
+    "lon": 10.770656172848318,
+    "address": "Sandakerveien 76C",
+    "postalCode": "0484",
+    "city": "OSLO",
+    "url": "https://kiwi.no/finn-butikk/kiwi-326-sandakerveien"
+  },
+  {
+    "id": "4264",
+    "name": "KIWI 327 Karlsrud",
+    "lat": 59.87965373896306,
+    "lon": 10.804006986142472,
+    "address": "Raschs vei 38",
+    "postalCode": "1153",
+    "city": "OSLO",
+    "url": "https://kiwi.no/finn-butikk/kiwi-327-karlsrud"
+  },
+  {
+    "id": "5329",
+    "name": "KIWI 328 Rortunet",
+    "lat": 59.7755482931405,
+    "lon": 10.485985179470955,
+    "address": "Odalsveien 64",
+    "postalCode": "3470",
+    "city": "SLEMMESTAD",
+    "url": "https://kiwi.no/finn-butikk/kiwi-328-rortunet"
+  },
+  {
+    "id": "1206",
+    "name": "KIWI 329 Hokksund",
+    "lat": 59.77261564930599,
+    "lon": 9.908654075328393,
+    "address": "Vestre Brugate 1",
+    "postalCode": "3300",
+    "city": "HOKKSUND",
+    "url": "https://kiwi.no/finn-butikk/kiwi-329-hokksund"
+  },
+  {
+    "id": "7687",
+    "name": "KIWI 330 Ytre Enebakk",
+    "lat": 59.723378212765645,
+    "lon": 11.05724106965225,
+    "address": "Gjeversrudveien 1A",
+    "postalCode": "1914",
+    "city": "YTRE ENEBAKK",
+    "url": "https://kiwi.no/finn-butikk/kiwi-330-ytre-enebakk"
+  },
+  {
+    "id": "2033",
+    "name": "KIWI 331 Storgata 33",
+    "lat": 59.91462230679811,
+    "lon": 10.753012164510901,
+    "address": "Storgata 33",
+    "postalCode": "0184",
+    "city": "OSLO",
+    "url": "https://kiwi.no/finn-butikk/kiwi-331-storgata-33"
+  },
+  {
+    "id": "1207",
+    "name": "KIWI 332 XL Ligosenteret",
+    "lat": 59.75669335554965,
+    "lon": 10.123829640895842,
+    "address": "Betzy Kjelsbergs vei 263",
+    "postalCode": "3028",
+    "city": "DRAMMEN",
+    "url": "https://kiwi.no/finn-butikk/kiwi-332-xl-ligosenteret"
+  },
+  {
+    "id": "2071",
+    "name": "KIWI 333 Etterstad",
+    "lat": 59.91323389910284,
+    "lon": 10.799692820753615,
+    "address": "Grensesvingen 10",
+    "postalCode": "0663",
+    "city": "OSLO",
+    "url": "https://kiwi.no/finn-butikk/kiwi-333-etterstad"
+  },
+  {
+    "id": "2183",
+    "name": "KIWI 334 Romsås",
+    "lat": 59.96315963910859,
+    "lon": 10.892848694798149,
+    "address": "Romsås Senter 1",
+    "postalCode": "0970",
+    "city": "OSLO",
+    "url": "https://kiwi.no/finn-butikk/kiwi-334-romsas"
+  },
+  {
+    "id": "4229",
+    "name": "KIWI 335 Prinsdal",
+    "lat": 59.833165630614424,
+    "lon": 10.807029696765719,
+    "address": "Nedre Prinsdals vei 79",
+    "postalCode": "1263",
+    "city": "OSLO",
+    "url": "https://kiwi.no/finn-butikk/kiwi-335-prinsdal"
+  },
+  {
+    "id": "4206",
+    "name": "KIWI 336 Torshov",
+    "lat": 59.938453832375004,
+    "lon": 10.776889483090802,
+    "address": "Kyrre Grepps gate 19A",
+    "postalCode": "0479",
+    "city": "OSLO",
+    "url": "https://kiwi.no/finn-butikk/kiwi-336-torshov"
+  },
+  {
+    "id": "1208",
+    "name": "KIWI 337 Lampeland",
+    "lat": 59.83535937093676,
+    "lon": 9.578726331701853,
+    "address": "Numedalsvegen 1966",
+    "postalCode": "3623",
+    "city": "LAMPELAND",
+    "url": "https://kiwi.no/finn-butikk/kiwi-337-lampeland"
+  },
+  {
+    "id": "1209",
+    "name": "KIWI 338 Åmot",
+    "lat": 59.9004360730896,
+    "lon": 9.906280558215053,
+    "address": "Strandgata 12A",
+    "postalCode": "3340",
+    "city": "ÅMOT",
+    "url": "https://kiwi.no/finn-butikk/kiwi-338-amot"
+  },
+  {
+    "id": "9301",
+    "name": "KIWI 339 Bjerke",
+    "lat": 59.941995162776266,
+    "lon": 10.808088860496058,
+    "address": "Refstadveien 46",
+    "postalCode": "0589",
+    "city": "OSLO",
+    "url": "https://kiwi.no/finn-butikk/kiwi-339-bjerke"
+  },
+  {
+    "id": "1210",
+    "name": "KIWI 340 Røykentorget",
+    "lat": 59.74750502636092,
+    "lon": 10.395688943344142,
+    "address": "Spikkestadveien 80A",
+    "postalCode": "3440",
+    "city": "RØYKEN",
+    "url": "https://kiwi.no/finn-butikk/kiwi-340-roykentorget"
+  },
+  {
+    "id": "4200",
+    "name": "KIWI 341 Sandvika",
+    "lat": 59.891024597440186,
+    "lon": 10.527511866186634,
+    "address": "Sandviksveien 163",
+    "postalCode": "1337",
+    "city": "SANDVIKA",
+    "url": "https://kiwi.no/finn-butikk/kiwi-341-sandvika"
+  },
+  {
+    "id": "1211",
+    "name": "KIWI 342 Solbergelva",
+    "lat": 59.76419807605022,
+    "lon": 10.077894851920087,
+    "address": "Gamle Riksvei 98",
+    "postalCode": "3057",
+    "city": "SOLBERGELVA",
+    "url": "https://kiwi.no/finn-butikk/kiwi-342-solbergelva"
+  },
+  {
+    "id": "1303",
+    "name": "KIWI 343 Tollnes",
+    "lat": 59.15335964563392,
+    "lon": 9.639274263542795,
+    "address": "Stadionvegen 1",
+    "postalCode": "3740",
+    "city": "SKIEN",
+    "url": "https://kiwi.no/finn-butikk/kiwi-343-tollnes"
+  },
+  {
+    "id": "4000",
+    "name": "KIWI 345 Vettre",
+    "lat": 59.82867540008991,
+    "lon": 10.472625143740148,
+    "address": "Konglungveien 199",
+    "postalCode": "1392",
+    "city": "VETTRE",
+    "url": "https://kiwi.no/finn-butikk/kiwi-345-vettre"
+  },
+  {
+    "id": "4243",
+    "name": "KIWI 348 Skedsmokorset",
+    "lat": 60.00421577640027,
+    "lon": 11.033651165986058,
+    "address": "Presthagaveien 20",
+    "postalCode": "2020",
+    "city": "SKEDSMOKORSET",
+    "url": "https://kiwi.no/finn-butikk/kiwi-348-skedsmokorset"
+  },
+  {
+    "id": "5363",
+    "name": "KIWI 349 Svinesundsveien",
+    "lat": 59.1207742100766,
+    "lon": 11.30537428530947,
+    "address": "Svinesundsveien 330",
+    "postalCode": "1788",
+    "city": "HALDEN",
+    "url": "https://kiwi.no/finn-butikk/kiwi-349-svinesundsveien"
+  },
+  {
+    "id": "1304",
+    "name": "KIWI 350 Torstrand",
+    "lat": 59.04720357641241,
+    "lon": 10.046824689322438,
+    "address": "Alfr Andersens gate 1",
+    "postalCode": "3262",
+    "city": "LARVIK",
+    "url": "https://kiwi.no/finn-butikk/kiwi-350-torstrand"
+  },
+  {
+    "id": "3831",
+    "name": "KIWI 351 Grønland Basar",
+    "lat": 59.91278318395366,
+    "lon": 10.763912113921599,
+    "address": "Tøyengata 2",
+    "postalCode": "0190",
+    "city": "OSLO",
+    "url": "https://kiwi.no/finn-butikk/kiwi-351-gronland-basar"
+  },
+  {
+    "id": "1357",
+    "name": "KIWI 352 Tigerplassen",
+    "lat": 59.446601180322915,
+    "lon": 10.685460253006939,
+    "address": "Osloveien 46",
+    "postalCode": "1534",
+    "city": "MOSS",
+    "url": "https://kiwi.no/finn-butikk/kiwi-352-tigerplassen"
+  },
+  {
+    "id": "5108",
+    "name": "KIWI 353 Hurrahølet",
+    "lat": 59.585618634069725,
+    "lon": 11.13441986635004,
+    "address": "Frydenlundveien 1",
+    "postalCode": "1815",
+    "city": "ASKIM",
+    "url": "https://kiwi.no/finn-butikk/kiwi-353-hurraholet"
+  },
+  {
+    "id": "2146",
+    "name": "KIWI 355 WM.Thranesgate",
+    "lat": 59.92305911517917,
+    "lon": 10.739179308978365,
+    "address": "Waldemar Thranes gate 1A",
+    "postalCode": "0171",
+    "city": "OSLO",
+    "url": "https://kiwi.no/finn-butikk/kiwi-355-wmthranesgate"
+  },
+  {
+    "id": "2139",
+    "name": "KIWI 357 Grefsenveien",
+    "lat": 59.94591955662022,
+    "lon": 10.786296275365272,
+    "address": "Grefsenveien 73",
+    "postalCode": "0487",
+    "city": "OSLO",
+    "url": "https://kiwi.no/finn-butikk/kiwi-357-grefsenveien"
+  },
+  {
+    "id": "1305",
+    "name": "KIWI 358 Bølevegen",
+    "lat": 59.19376956402073,
+    "lon": 9.621264365248702,
+    "address": "Bølevegen 12",
+    "postalCode": "3724",
+    "city": "SKIEN",
+    "url": "https://kiwi.no/finn-butikk/kiwi-358-bolevegen"
+  },
+  {
+    "id": "1306",
+    "name": "KIWI 359 Grønligata",
+    "lat": 59.4106536219541,
+    "lon": 10.472753189350042,
+    "address": "Grønligata 13",
+    "postalCode": "3188",
+    "city": "HORTEN",
+    "url": "https://kiwi.no/finn-butikk/kiwi-359-gronligata"
+  },
+  {
+    "id": "1307",
+    "name": "KIWI 360 Torggata Horten",
+    "lat": 59.41789397133783,
+    "lon": 10.48142147144421,
+    "address": "Torggata 9",
+    "postalCode": "3181",
+    "city": "HORTEN",
+    "url": "https://kiwi.no/finn-butikk/kiwi-360-torggata-horten"
+  },
+  {
+    "id": "1214",
+    "name": "KIWI 361 Strømsø",
+    "lat": 59.73776756362991,
+    "lon": 10.203151841392481,
+    "address": "Tordenskiolds gate 22",
+    "postalCode": "3044",
+    "city": "DRAMMEN",
+    "url": "https://kiwi.no/finn-butikk/kiwi-361-stromso"
+  },
+  {
+    "id": "4254",
+    "name": "KIWI 362 Gystad",
+    "lat": 60.13993602940337,
+    "lon": 11.186643712592344,
+    "address": "Algarheimsvegen 29",
+    "postalCode": "2053",
+    "city": "JESSHEIM",
+    "url": "https://kiwi.no/finn-butikk/kiwi-362-gystad"
+  },
+  {
+    "id": "2022",
+    "name": "KIWI 364 Byporten",
+    "lat": 59.911769739375245,
+    "lon": 10.751550820307056,
+    "address": "Jernbanetorget 9",
+    "postalCode": "0154",
+    "city": "OSLO",
+    "url": "https://kiwi.no/finn-butikk/kiwi-364-byporten"
+  },
+  {
+    "id": "2086",
+    "name": "KIWI 365 St. Olavsplass",
+    "lat": 59.91794257485373,
+    "lon": 10.740608690676982,
+    "address": "St. Olavs Plass 3",
+    "postalCode": "0165",
+    "city": "OSLO",
+    "url": "https://kiwi.no/finn-butikk/kiwi-365-st-olavsplass"
+  },
+  {
+    "id": "1215",
+    "name": "KIWI 366 Austadveien",
+    "lat": 59.72103558685203,
+    "lon": 10.216954426883126,
+    "address": "Austadveien 84",
+    "postalCode": "3034",
+    "city": "DRAMMEN",
+    "url": "https://kiwi.no/finn-butikk/kiwi-366-austadveien"
+  },
+  {
+    "id": "3927",
+    "name": "KIWI 367 Kjeller",
+    "lat": 59.968816092752,
+    "lon": 11.052048702053638,
+    "address": "Bregneveien 2C",
+    "postalCode": "2007",
+    "city": "KJELLER",
+    "url": "https://kiwi.no/finn-butikk/kiwi-367-kjeller"
+  },
+  {
+    "id": "1216",
+    "name": "KIWI 368 Brakerøya",
+    "lat": 59.742054286144466,
+    "lon": 10.225243375818573,
+    "address": "Tomtegata 51",
+    "postalCode": "3012",
+    "city": "DRAMMEN",
+    "url": "https://kiwi.no/finn-butikk/kiwi-368-brakeroya"
+  },
+  {
+    "id": "1217",
+    "name": "KIWI 369 Øvre Storgate",
+    "lat": 59.74397745403709,
+    "lon": 10.20269667312704,
+    "address": "Øvre Storgate 4",
+    "postalCode": "3018",
+    "city": "DRAMMEN",
+    "url": "https://kiwi.no/finn-butikk/kiwi-369-ovre-storgate"
+  },
+  {
+    "id": "3957",
+    "name": "KIWI 370 Sognsveien",
+    "lat": 59.94716359367806,
+    "lon": 10.73207846767163,
+    "address": "Sognsveien 66J",
+    "postalCode": "0855",
+    "city": "OSLO",
+    "url": "https://kiwi.no/finn-butikk/kiwi-370-sognsveien"
+  },
+  {
+    "id": "1225",
+    "name": "KIWI 371 Skøyen",
+    "lat": 59.91945015672051,
+    "lon": 10.686867814048686,
+    "address": "Karenslyst Allé 5",
+    "postalCode": "0278",
+    "city": "OSLO",
+    "url": "https://kiwi.no/finn-butikk/kiwi-371-skoyen"
+  },
+  {
+    "id": "4277",
+    "name": "KIWI 372 Billingstad",
+    "lat": 59.869336628639545,
+    "lon": 10.487517289136306,
+    "address": "Billingstadsletta 61",
+    "postalCode": "1396",
+    "city": "BILLINGSTAD",
+    "url": "https://kiwi.no/finn-butikk/kiwi-372-billingstad"
+  },
+  {
+    "id": "3904",
+    "name": "KIWI 373 Solli Plass",
+    "lat": 59.91457363736392,
+    "lon": 10.71942139877201,
+    "address": "Henrik Ibsens gate 90",
+    "postalCode": "0255",
+    "city": "OSLO",
+    "url": "https://kiwi.no/finn-butikk/kiwi-373-solli-plass"
+  },
+  {
+    "id": "1218",
+    "name": "KIWI 374 Skollenborg",
+    "lat": 59.621290995467184,
+    "lon": 9.682090115390327,
+    "address": "Vårveien 6",
+    "postalCode": "3619",
+    "city": "SKOLLENBORG",
+    "url": "https://kiwi.no/finn-butikk/kiwi-374-skollenborg"
+  },
+  {
+    "id": "1219",
+    "name": "KIWI 375 Landfalløya",
+    "lat": 59.75104671232789,
+    "lon": 10.162661973820025,
+    "address": "Landfalløya 109",
+    "postalCode": "3023",
+    "city": "DRAMMEN",
+    "url": "https://kiwi.no/finn-butikk/kiwi-375-landfalloya"
+  },
+  {
+    "id": "1308",
+    "name": "KIWI 376 Kjøpmannskjær",
+    "lat": 59.177115916581975,
+    "lon": 10.38761106191556,
+    "address": "Kirkeveien 540",
+    "postalCode": "3143",
+    "city": "KJØPMANNSKJÆR",
+    "url": "https://kiwi.no/finn-butikk/kiwi-376-kjopmannskjar"
+  },
+  {
+    "id": "1359",
+    "name": "KIWI 377 Kambo",
+    "lat": 59.48251749874123,
+    "lon": 10.695643498542298,
+    "address": "Wankels vei 2",
+    "postalCode": "1539",
+    "city": "MOSS",
+    "url": "https://kiwi.no/finn-butikk/kiwi-377-kambo"
+  },
+  {
+    "id": "1360",
+    "name": "KIWI 378 Askim",
+    "lat": 59.58151146229338,
+    "lon": 11.169417651807661,
+    "address": "Haugomgata 19",
+    "postalCode": "1811",
+    "city": "ASKIM",
+    "url": "https://kiwi.no/finn-butikk/kiwi-378-askim"
+  },
+  {
+    "id": "1220",
+    "name": "KIWI 379 Bødalen",
+    "lat": 59.75922327771266,
+    "lon": 10.460176124812032,
+    "address": "Bakkeveien 1",
+    "postalCode": "3472",
+    "city": "BØDALEN",
+    "url": "https://kiwi.no/finn-butikk/kiwi-379-bodalen"
+  },
+  {
+    "id": "3799",
+    "name": "KIWI 380 Hauketo",
+    "lat": 59.847141502948006,
+    "lon": 10.804517789001578,
+    "address": "Hauketoveien 8",
+    "postalCode": "1266",
+    "city": "OSLO",
+    "url": "https://kiwi.no/finn-butikk/kiwi-380-hauketo"
+  },
+  {
+    "id": "3974",
+    "name": "KIWI 381 Sorgenfrigata",
+    "lat": 59.92732808696584,
+    "lon": 10.718603220588752,
+    "address": "Sorgenfrigata 11",
+    "postalCode": "0367",
+    "city": "OSLO",
+    "url": "https://kiwi.no/finn-butikk/kiwi-381-sorgenfrigata"
+  },
+  {
+    "id": "2073",
+    "name": "KIWI 382 Markveien",
+    "lat": 59.92173733080985,
+    "lon": 10.75719488200133,
+    "address": "Markveien 35B",
+    "postalCode": "0554",
+    "city": "OSLO",
+    "url": "https://kiwi.no/finn-butikk/kiwi-382-markveien"
+  },
+  {
+    "id": "1361",
+    "name": "KIWI 383 Brødløs",
+    "lat": 59.14047840414339,
+    "lon": 11.380512419922692,
+    "address": "ROKKEVEIEN 10",
+    "postalCode": "1779",
+    "city": "HALDEN",
+    "url": "https://kiwi.no/finn-butikk/kiwi-383-brodlos"
+  },
+  {
+    "id": "7789",
+    "name": "KIWI 384 Auli",
+    "lat": 60.033720945165946,
+    "lon": 11.352349485675393,
+    "address": "Sentervegen 6",
+    "postalCode": "1929",
+    "city": "AULI",
+    "url": "https://kiwi.no/finn-butikk/kiwi-384-auli"
+  },
+  {
+    "id": "3754",
+    "name": "KIWI 385 Adamstuen",
+    "lat": 59.93150165115436,
+    "lon": 10.736159807227452,
+    "address": "Ullevålsveien 68",
+    "postalCode": "0454",
+    "city": "OSLO",
+    "url": "https://kiwi.no/finn-butikk/kiwi-385-adamstuen"
+  },
+  {
+    "id": "2079",
+    "name": "KIWI 386 Dragveien",
+    "lat": 59.903864159140305,
+    "lon": 10.565289618433711,
+    "address": "Dragveien 25A",
+    "postalCode": "1363",
+    "city": "HØVIK",
+    "url": "https://kiwi.no/finn-butikk/kiwi-386-dragveien"
+  },
+  {
+    "id": "4471",
+    "name": "KIWI 387 Fornebuporten",
+    "lat": 59.90504334394482,
+    "lon": 10.625481060638254,
+    "address": "Oksenøyveien 10",
+    "postalCode": "1366",
+    "city": "LYSAKER",
+    "url": "https://kiwi.no/finn-butikk/kiwi-387-fornebuporten"
+  },
+  {
+    "id": "1221",
+    "name": "KIWI 388 Vik",
+    "lat": 60.07761130567579,
+    "lon": 10.280680521976004,
+    "address": "Røyseveien 39",
+    "postalCode": "3530",
+    "city": "RØYSE",
+    "url": "https://kiwi.no/finn-butikk/kiwi-388-vik"
+  },
+  {
+    "id": "4236",
+    "name": "KIWI 389 Vøyenenga",
+    "lat": 59.90864252573636,
+    "lon": 10.476765265940294,
+    "address": "Vøyenengtunet 14",
+    "postalCode": "1339",
+    "city": "VØYENENGA",
+    "url": "https://kiwi.no/finn-butikk/kiwi-389-voyenenga"
+  },
+  {
+    "id": "5236",
+    "name": "KIWI 390 Bekkestua",
+    "lat": 59.91895041854355,
+    "lon": 10.586908171043753,
+    "address": "Nadderudveien 1D",
+    "postalCode": "1357",
+    "city": "BEKKESTUA",
+    "url": "https://kiwi.no/finn-butikk/kiwi-390-bekkestua"
+  },
+  {
+    "id": "2153",
+    "name": "KIWI 391 Bogstad",
+    "lat": 59.963965543690385,
+    "lon": 10.642335353499075,
+    "address": "Ankerveien 117",
+    "postalCode": "0766",
+    "city": "OSLO",
+    "url": "https://kiwi.no/finn-butikk/kiwi-391-bogstad"
+  },
+  {
+    "id": "1310",
+    "name": "KIWI 393 Laskentunet",
+    "lat": 59.143796182238155,
+    "lon": 10.184168009010296,
+    "address": "Øvre Laskenvei 28",
+    "postalCode": "3221",
+    "city": "SANDEFJORD",
+    "url": "https://kiwi.no/finn-butikk/kiwi-393-laskentunet"
+  },
+  {
+    "id": "1311",
+    "name": "KIWI 394 Notodden",
+    "lat": 59.55696220038273,
+    "lon": 9.253485569269348,
+    "address": "Jernverksgata 6",
+    "postalCode": "3674",
+    "city": "NOTODDEN",
+    "url": "https://kiwi.no/finn-butikk/kiwi-394-notodden"
+  },
+  {
+    "id": "5574",
+    "name": "KIWI 395 Grenlandsporten",
+    "lat": 59.08812197642214,
+    "lon": 9.819310910576714,
+    "address": "Setervegen 3",
+    "postalCode": "3947",
+    "city": "LANGANGEN",
+    "url": "https://kiwi.no/finn-butikk/kiwi-395-grenlandsporten"
+  },
+  {
+    "id": "1313",
+    "name": "KIWI 396 Rjukan",
+    "lat": 59.88064970822278,
+    "lon": 8.637732845897146,
+    "address": "Sam Eydes gate 264",
+    "postalCode": "3660",
+    "city": "RJUKAN",
+    "url": "https://kiwi.no/finn-butikk/kiwi-396-rjukan"
+  },
+  {
+    "id": "1181",
+    "name": "KIWI 397 Røa",
+    "lat": 59.94622021879081,
+    "lon": 10.645190323872665,
+    "address": "Tore Hals Mejdells vei 14",
+    "postalCode": "0751",
+    "city": "OSLO",
+    "url": "https://kiwi.no/finn-butikk/kiwi-397-roa"
+  },
+  {
+    "id": "2048",
+    "name": "KIWI 398 Nesøya",
+    "lat": 59.87078442700323,
+    "lon": 10.516958029160497,
+    "address": "Otto Blehrs vei 59",
+    "postalCode": "1397",
+    "city": "NESØYA",
+    "url": "https://kiwi.no/finn-butikk/kiwi-398-nesoya"
+  },
+  {
+    "id": "1228",
+    "name": "KIWI 399 KB Kløfta",
+    "lat": 60.07277803644323,
+    "lon": 11.135849288924911,
+    "address": "Trondheimsvegen - Kløfta  62",
+    "postalCode": "2040",
+    "city": "KLØFTA",
+    "url": "https://kiwi.no/finn-butikk/kiwi-399-kb-klofta"
+  },
+  {
+    "id": "1278",
+    "name": "KIWI 400 Konowsgate",
+    "lat": 59.90224751473451,
+    "lon": 10.768352917085087,
+    "address": "Konows gate 1A",
+    "postalCode": "0192",
+    "city": "OSLO",
+    "url": "https://kiwi.no/finn-butikk/kiwi-400-konowsgate"
+  },
+  {
+    "id": "4216",
+    "name": "KIWI 401 Eiksmarka",
+    "lat": 59.947179954160525,
+    "lon": 10.62260322204606,
+    "address": "Niels Leuchs vei 50",
+    "postalCode": "1359",
+    "city": "EIKSMARKA",
+    "url": "https://kiwi.no/finn-butikk/kiwi-401-eiksmarka"
+  },
+  {
+    "id": "4213",
+    "name": "KIWI 402 Tonsenhagen",
+    "lat": 59.94765493125939,
+    "lon": 10.822088640885767,
+    "address": "Rødbergveien 16",
+    "postalCode": "0591",
+    "city": "OSLO",
+    "url": "https://kiwi.no/finn-butikk/kiwi-402-tonsenhagen"
+  },
+  {
+    "id": "1362",
+    "name": "KIWI 403 Vesterøy",
+    "lat": 59.1101908847853,
+    "lon": 10.909624743406514,
+    "address": "Fastlandsveien 66",
+    "postalCode": "1684",
+    "city": "VESTERØY",
+    "url": "https://kiwi.no/finn-butikk/kiwi-403-vesteroy"
+  },
+  {
+    "id": "4231",
+    "name": "KIWI 405 Hagan",
+    "lat": 59.99843011159541,
+    "lon": 10.918020465098603,
+    "address": "Likollen 2A",
+    "postalCode": "1481",
+    "city": "HAGAN",
+    "url": "https://kiwi.no/finn-butikk/kiwi-405-hagan"
+  },
+  {
+    "id": "3921",
+    "name": "KIWI 406 Trollåsen",
+    "lat": 59.817247470831774,
+    "lon": 10.777283698193585,
+    "address": "Trollåsveien 25",
+    "postalCode": "1414",
+    "city": "TROLLÅSEN",
+    "url": "https://kiwi.no/finn-butikk/kiwi-406-trollasen"
+  },
+  {
+    "id": "3923",
+    "name": "KIWI 408 Tøyenhaugen",
+    "lat": 60.11220290451669,
+    "lon": 10.861519593060862,
+    "address": "Blomsterbakken 2",
+    "postalCode": "1487",
+    "city": "HAKADAL",
+    "url": "https://kiwi.no/finn-butikk/kiwi-408-toyenhaugen"
+  },
+  {
+    "id": "3928",
+    "name": "KIWI 409 Trosterud",
+    "lat": 59.92698118233693,
+    "lon": 10.865208562147222,
+    "address": "Tvetenveien 221",
+    "postalCode": "0675",
+    "city": "OSLO",
+    "url": "https://kiwi.no/finn-butikk/kiwi-409-trosterud"
+  },
+  {
+    "id": "4116",
+    "name": "KIWI 410 Lilleaker",
+    "lat": 59.92008460780777,
+    "lon": 10.636463187742045,
+    "address": "Lilleakerveien 31",
+    "postalCode": "0283",
+    "city": "OSLO",
+    "url": "https://kiwi.no/finn-butikk/kiwi-410-lilleaker"
+  },
+  {
+    "id": "1222",
+    "name": "KIWI 411 Stenseth",
+    "lat": 59.76090064967101,
+    "lon": 10.032197704579309,
+    "address": "Nordlysveien 5",
+    "postalCode": "3055",
+    "city": "KROKSTADELVA",
+    "url": "https://kiwi.no/finn-butikk/kiwi-411-stenseth"
+  },
+  {
+    "id": "1363",
+    "name": "KIWI 412 Grålum",
+    "lat": 59.294638421289065,
+    "lon": 11.068114142524548,
+    "address": "Bjørnstadveien 2",
+    "postalCode": "1712",
+    "city": "GRÅLUM",
+    "url": "https://kiwi.no/finn-butikk/kiwi-412-gralum"
+  },
+  {
+    "id": "1364",
+    "name": "KIWI 413 Bergenhuskrysset",
+    "lat": 59.41699741061193,
+    "lon": 11.350320129513664,
+    "address": "Sarpsborgveien 1",
+    "postalCode": "1890",
+    "city": "RAKKESTAD",
+    "url": "https://kiwi.no/finn-butikk/kiwi-413-bergenhuskrysset"
+  },
+  {
+    "id": "1223",
+    "name": "KIWI 414 Kleivbrottet",
+    "lat": 59.478542402252934,
+    "lon": 10.316158525608031,
+    "address": "Hvittingfossveien 29",
+    "postalCode": "3083",
+    "city": "HOLMESTRAND",
+    "url": "https://kiwi.no/finn-butikk/kiwi-414-kleivbrottet"
+  },
+  {
+    "id": "5068",
+    "name": "KIWI 415 Ringhuset",
+    "lat": 59.933025434289874,
+    "lon": 10.704622242027169,
+    "address": "Sørkedalsveien 33",
+    "postalCode": "0369",
+    "city": "OSLO",
+    "url": "https://kiwi.no/finn-butikk/kiwi-415-ringhuset"
+  },
+  {
+    "id": "4142",
+    "name": "KIWI 416 Ellingsrud",
+    "lat": 59.936092888609124,
+    "lon": 10.91685547064454,
+    "address": "Edvard Munchs vei 49",
+    "postalCode": "1063",
+    "city": "OSLO",
+    "url": "https://kiwi.no/finn-butikk/kiwi-416-ellingsrud"
+  },
+  {
+    "id": "4239",
+    "name": "KIWI 417 Hegdehaugsveien",
+    "lat": 59.92187512367155,
+    "lon": 10.727340001281219,
+    "address": "Hegdehaugsveien 31",
+    "postalCode": "0352",
+    "city": "OSLO",
+    "url": "https://kiwi.no/finn-butikk/kiwi-417-hegdehaugsveien"
+  },
+  {
+    "id": "1414",
+    "name": "KIWI 418 Strømmen",
+    "lat": 59.9470672751148,
+    "lon": 11.008509718329584,
+    "address": "Støperiveien 10D",
+    "postalCode": "2010",
+    "city": "STRØMMEN",
+    "url": "https://kiwi.no/finn-butikk/kiwi-418-strommen"
+  },
+  {
+    "id": "5266",
+    "name": "KIWI 419 Storo",
+    "lat": 59.946453166496724,
+    "lon": 10.77606573250071,
+    "address": "Vitaminveien 3",
+    "postalCode": "0485",
+    "city": "OSLO",
+    "url": "https://kiwi.no/finn-butikk/kiwi-419-storo"
+  },
+  {
+    "id": "4251",
+    "name": "KIWI 420 Vitbank",
+    "lat": 59.7558250372272,
+    "lon": 10.260936791583468,
+    "address": "Vebjørns vei 1A",
+    "postalCode": "3414",
+    "city": "LIERSTRANDA",
+    "url": "https://kiwi.no/finn-butikk/kiwi-420-vitbank"
+  },
+  {
+    "id": "3940",
+    "name": "KIWI 421 Kløfta",
+    "lat": 60.074970961757096,
+    "lon": 11.140967666070114,
+    "address": "Stasjonsvegen 1",
+    "postalCode": "2040",
+    "city": "KLØFTA",
+    "url": "https://kiwi.no/finn-butikk/kiwi-421-klofta"
+  },
+  {
+    "id": "3953",
+    "name": "KIWI 422 Frogner Lillestrøm",
+    "lat": 60.02400116788899,
+    "lon": 11.103417909801554,
+    "address": "Frognerveien 9B",
+    "postalCode": "2016",
+    "city": "FROGNER",
+    "url": "https://kiwi.no/finn-butikk/kiwi-422-frogner-lillestrom"
+  },
+  {
+    "id": "2053",
+    "name": "KIWI 424 Gardermoveien",
+    "lat": 60.15295140141025,
+    "lon": 11.130019593269765,
+    "address": "Gamle Gardermoveg 3",
+    "postalCode": "2067",
+    "city": "JESSHEIM",
+    "url": "https://kiwi.no/finn-butikk/kiwi-424-gardermoveien"
+  },
+  {
+    "id": "2052",
+    "name": "KIWI 425 Rødtvet",
+    "lat": 59.953138524475506,
+    "lon": 10.857073072293911,
+    "address": "SANDÅSVEIEN 8",
+    "postalCode": "0956",
+    "city": "OSLO",
+    "url": "https://kiwi.no/finn-butikk/kiwi-425-rodtvet"
+  },
+  {
+    "id": "4003",
+    "name": "KIWI 426 Gvarv",
+    "lat": 59.387350604219236,
+    "lon": 9.168781081101443,
+    "address": "Gamlegata 56A",
+    "postalCode": "3810",
+    "city": "GVARV",
+    "url": "https://kiwi.no/finn-butikk/kiwi-426-gvarv"
+  },
+  {
+    "id": "4015",
+    "name": "KIWI 427 Vestskogen",
+    "lat": 59.240282544011244,
+    "lon": 10.392754377902918,
+    "address": "Kjernåsveien 9",
+    "postalCode": "3142",
+    "city": "VESTSKOGEN",
+    "url": "https://kiwi.no/finn-butikk/kiwi-427-vestskogen"
+  },
+  {
+    "id": "3933",
+    "name": "KIWI 428 Kalstad",
+    "lat": 58.871967334462,
+    "lon": 9.37507579061197,
+    "address": "Dalaneveien 6",
+    "postalCode": "3772",
+    "city": "KRAGERØ",
+    "url": "https://kiwi.no/finn-butikk/kiwi-428-kalstad"
+  },
+  {
+    "id": "5340",
+    "name": "KIWI 429 Hammerdalen",
+    "lat": 59.05138728251062,
+    "lon": 10.022235579053708,
+    "address": "Hammergata 6",
+    "postalCode": "3264",
+    "city": "LARVIK",
+    "url": "https://kiwi.no/finn-butikk/kiwi-429-hammerdalen"
+  },
+  {
+    "id": "2117",
+    "name": "KIWI 433 Vestfossen",
+    "lat": 59.73451233324222,
+    "lon": 9.869379458953766,
+    "address": "Storgata",
+    "postalCode": "3320",
+    "city": "VESTFOSSEN",
+    "url": "https://kiwi.no/finn-butikk/kiwi-433-vestfossen"
+  },
+  {
+    "id": "2172",
+    "name": "KIWI 436 Semsmoen",
+    "lat": 59.77150517294244,
+    "lon": 9.881860968079925,
+    "address": "Semsmoveien 49",
+    "postalCode": "3302",
+    "city": "HOKKSUND",
+    "url": "https://kiwi.no/finn-butikk/kiwi-436-semsmoen"
+  },
+  {
+    "id": "4173",
+    "name": "KIWI 437 Risingveien",
+    "lat": 59.2188319613024,
+    "lon": 9.604762754824748,
+    "address": "Risingvegen 5",
+    "postalCode": "3716",
+    "city": "SKIEN",
+    "url": "https://kiwi.no/finn-butikk/kiwi-437-risingveien"
+  },
+  {
+    "id": "3911",
+    "name": "KIWI 438 Kongsberg",
+    "lat": 59.67887342496489,
+    "lon": 9.632477057634441,
+    "address": "Numedalsveien 70",
+    "postalCode": "3617",
+    "city": "KONGSBERG",
+    "url": "https://kiwi.no/finn-butikk/kiwi-438-kongsberg"
+  },
+  {
+    "id": "5052",
+    "name": "KIWI 440 Øya",
+    "lat": 59.04306392084139,
+    "lon": 10.059202527327043,
+    "address": "Elveveien 10",
+    "postalCode": "3262",
+    "city": "LARVIK",
+    "url": "https://kiwi.no/finn-butikk/kiwi-440-oya"
+  },
+  {
+    "id": "2087",
+    "name": "KIWI 442 Borgenhaugen",
+    "lat": 59.2645666847194,
+    "lon": 11.157659345284449,
+    "address": "Skjebergveien 62",
+    "postalCode": "1739",
+    "city": "BORGENHAUGEN",
+    "url": "https://kiwi.no/finn-butikk/kiwi-442-borgenhaugen"
+  },
+  {
+    "id": "4275",
+    "name": "KIWI 443 Rodeløkka",
+    "lat": 59.92445507274675,
+    "lon": 10.765724856470511,
+    "address": "Teglverksgata 7",
+    "postalCode": "0553",
+    "city": "OSLO",
+    "url": "https://kiwi.no/finn-butikk/kiwi-443-rodelokka"
+  },
+  {
+    "id": "2037",
+    "name": "KIWI 446 Son",
+    "lat": 59.52600752498151,
+    "lon": 10.689369341323843,
+    "address": "Havnegata 4",
+    "postalCode": "1555",
+    "city": "SON",
+    "url": "https://kiwi.no/finn-butikk/kiwi-446-son"
+  },
+  {
+    "id": "2040",
+    "name": "KIWI 450 Nordstrand",
+    "lat": 59.860565515386675,
+    "lon": 10.810146067616518,
+    "address": "Nordstrandveien 62",
+    "postalCode": "1164",
+    "city": "OSLO",
+    "url": "https://kiwi.no/finn-butikk/kiwi-450-nordstrand"
+  },
+  {
+    "id": "7703",
+    "name": "KIWI 451 Frogner Skien",
+    "lat": 59.210050598989646,
+    "lon": 9.621235645718803,
+    "address": "Håvundvegen 112",
+    "postalCode": "3715",
+    "city": "SKIEN",
+    "url": "https://kiwi.no/finn-butikk/kiwi-451-frogner-skien"
+  },
+  {
+    "id": "5584",
+    "name": "KIWI 452 Myren",
+    "lat": 59.200736972069585,
+    "lon": 9.588843173018379,
+    "address": "Sliperivegen 11",
+    "postalCode": "3718",
+    "city": "SKIEN",
+    "url": "https://kiwi.no/finn-butikk/kiwi-452-myren"
+  },
+  {
+    "id": "7722",
+    "name": "KIWI 456 IT Fornebu",
+    "lat": 59.89478747786784,
+    "lon": 10.62942641893464,
+    "address": "Martin Linges vei 25",
+    "postalCode": "1364",
+    "city": "FORNEBU",
+    "url": "https://kiwi.no/finn-butikk/kiwi-456-it-fornebu"
+  },
+  {
+    "id": "4253",
+    "name": "KIWI 457 Tofte",
+    "lat": 59.54292238569385,
+    "lon": 10.561886702398745,
+    "address": "Østre Strandvei 40",
+    "postalCode": "3482",
+    "city": "TOFTE",
+    "url": "https://kiwi.no/finn-butikk/kiwi-457-tofte"
+  },
+  {
+    "id": "3387",
+    "name": "KIWI 458 Nordbyveien",
+    "lat": 59.71950299632181,
+    "lon": 10.808935279185429,
+    "address": "Nordbyveien 76",
+    "postalCode": "1406",
+    "city": "SKI",
+    "url": "https://kiwi.no/finn-butikk/kiwi-458-nordbyveien"
+  },
+  {
+    "id": "7754",
+    "name": "KIWI 460 Hoffsveien",
+    "lat": 59.92753938859629,
+    "lon": 10.676394713540697,
+    "address": "Engebrets vei 5",
+    "postalCode": "0275",
+    "city": "OSLO",
+    "url": "https://kiwi.no/finn-butikk/kiwi-460-hoffsveien"
+  },
+  {
+    "id": "2094",
+    "name": "KIWI 465 Veitvet",
+    "lat": 59.943985362140474,
+    "lon": 10.847813528487968,
+    "address": "Veitvetveien 8",
+    "postalCode": "0596",
+    "city": "OSLO",
+    "url": "https://kiwi.no/finn-butikk/kiwi-465-veitvet"
+  },
+  {
+    "id": "2058",
+    "name": "KIWI 466 Fusdal",
+    "lat": 59.83327582512677,
+    "lon": 10.442668097193252,
+    "address": "Fusdal Terrasse 3",
+    "postalCode": "1387",
+    "city": "ASKER",
+    "url": "https://kiwi.no/finn-butikk/kiwi-466-fusdal"
+  },
+  {
+    "id": "4211",
+    "name": "KIWI 467 Lambertseter",
+    "lat": 59.86996751518217,
+    "lon": 10.819856878358143,
+    "address": "Bergkrystallen 2",
+    "postalCode": "1155",
+    "city": "OSLO",
+    "url": "https://kiwi.no/finn-butikk/kiwi-467-lambertseter"
+  },
+  {
+    "id": "1987",
+    "name": "KIWI 468 Ullern Allé",
+    "lat": 59.927027896008354,
+    "lon": 10.642525821533798,
+    "address": "Ullern allé 28",
+    "postalCode": "0381",
+    "city": "OSLO",
+    "url": "https://kiwi.no/finn-butikk/kiwi-468-ullern-alle"
+  },
+  {
+    "id": "2116",
+    "name": "KIWI 469 Schous Plass",
+    "lat": 59.919283330491986,
+    "lon": 10.764558074744345,
+    "address": "Trondheimsveien 15",
+    "postalCode": "0560",
+    "city": "OSLO",
+    "url": "https://kiwi.no/finn-butikk/kiwi-469-schous-plass"
+  },
+  {
+    "id": "7666",
+    "name": "KIWI 471 Bislett",
+    "lat": 59.928210682045055,
+    "lon": 10.732854861094287,
+    "address": "THERESES GATE 30C",
+    "postalCode": "0168",
+    "city": "OSLO",
+    "url": "https://kiwi.no/finn-butikk/kiwi-471-bislett"
+  },
+  {
+    "id": "2061",
+    "name": "KIWI 472 Finstad",
+    "lat": 59.71740318994692,
+    "lon": 10.816260255001312,
+    "address": "Gamleveien 34",
+    "postalCode": "1406",
+    "city": "SKI",
+    "url": "https://kiwi.no/finn-butikk/kiwi-472-finstad"
+  },
+  {
+    "id": "4062",
+    "name": "KIWI 473 Kirkekrysset",
+    "lat": 59.80571261258758,
+    "lon": 10.688704765511622,
+    "address": "Hagelundveien 2",
+    "postalCode": "1459",
+    "city": "NESODDEN",
+    "url": "https://kiwi.no/finn-butikk/kiwi-473-kirkekrysset"
+  },
+  {
+    "id": "2063",
+    "name": "KIWI 474 Flaskebekk",
+    "lat": 59.849518204980804,
+    "lon": 10.658773445394463,
+    "address": "Kapellveien 84",
+    "postalCode": "1452",
+    "city": "NESODDTANGEN",
+    "url": "https://kiwi.no/finn-butikk/kiwi-474-flaskebekk"
+  },
+  {
+    "id": "8632",
+    "name": "KIWI 475 Brobekk",
+    "lat": 59.9383577264298,
+    "lon": 10.826252540904834,
+    "address": "Brobekkveien 40",
+    "postalCode": "0598",
+    "city": "OSLO",
+    "url": "https://kiwi.no/finn-butikk/kiwi-475-brobekk"
+  },
+  {
+    "id": "4244",
+    "name": "KIWI 477 Vålerenga",
+    "lat": 59.908947451251805,
+    "lon": 10.787278616662563,
+    "address": "Strømsveien 24B",
+    "postalCode": "0658",
+    "city": "OSLO",
+    "url": "https://kiwi.no/finn-butikk/kiwi-477-valerenga"
+  },
+  {
+    "id": "5628",
+    "name": "KIWI 478 Carl Berner",
+    "lat": 59.92570423330953,
+    "lon": 10.775511721272386,
+    "address": "Trondheimsveien 110A",
+    "postalCode": "0565",
+    "city": "OSLO",
+    "url": "https://kiwi.no/finn-butikk/kiwi-478-carl-berner"
+  },
+  {
+    "id": "7403",
+    "name": "KIWI 483 Bygdøy Allé",
+    "lat": 59.916534108653124,
+    "lon": 10.712356228150876,
+    "address": "Bygdøy allé 23",
+    "postalCode": "0262",
+    "city": "OSLO",
+    "url": "https://kiwi.no/finn-butikk/kiwi-483-bygdoy-alle"
+  },
+  {
+    "id": "4276",
+    "name": "KIWI 484 Oppegård",
+    "lat": 59.76557739498409,
+    "lon": 10.813888893303448,
+    "address": "Sætreskogveien 4",
+    "postalCode": "1415",
+    "city": "OPPEGÅRD",
+    "url": "https://kiwi.no/finn-butikk/kiwi-484-oppegard"
+  },
+  {
+    "id": "4282",
+    "name": "KIWI 485 Lillestrøm Stasjon",
+    "lat": 59.953233725909904,
+    "lon": 11.048721151269215,
+    "address": "Stillverksveien 5",
+    "postalCode": "2004",
+    "city": "LILLESTRØM",
+    "url": "https://kiwi.no/finn-butikk/kiwi-485-lillestrom-stasjon"
+  },
+  {
+    "id": "4293",
+    "name": "KIWI 486 Bankveien",
+    "lat": 59.83469581700491,
+    "lon": 10.432955657216759,
+    "address": "Busserullen 1",
+    "postalCode": "1383",
+    "city": "ASKER",
+    "url": "https://kiwi.no/finn-butikk/kiwi-486-bankveien"
+  },
+  {
+    "id": "1410",
+    "name": "KIWI 487 Trondheimsveien",
+    "lat": 59.92308762370724,
+    "lon": 10.771577213249607,
+    "address": "Trondheimsveien 64",
+    "postalCode": "0565",
+    "city": "OSLO",
+    "url": "https://kiwi.no/finn-butikk/kiwi-487-trondheimsveien"
+  },
+  {
+    "id": "4059",
+    "name": "KIWI 488 Ensjø",
+    "lat": 59.91501826851827,
+    "lon": 10.788844880608083,
+    "address": "Gladengveien 5B",
+    "postalCode": "0661",
+    "city": "OSLO",
+    "url": "https://kiwi.no/finn-butikk/kiwi-488-ensjo"
+  },
+  {
+    "id": "3917",
+    "name": "KIWI 489 Københavngata",
+    "lat": 59.92733725046839,
+    "lon": 10.766938726503838,
+    "address": "Københavngata 10",
+    "postalCode": "0566",
+    "city": "OSLO",
+    "url": "https://kiwi.no/finn-butikk/kiwi-489-kobenhavngata"
+  },
+  {
+    "id": "8136",
+    "name": "KIWI 490 Ryen",
+    "lat": 59.89345588125601,
+    "lon": 10.80494791555628,
+    "address": "Ryensvingen 3",
+    "postalCode": "0680",
+    "city": "OSLO",
+    "url": "https://kiwi.no/finn-butikk/kiwi-490-ryen"
+  },
+  {
+    "id": "1172",
+    "name": "KIWI 491 Bølerlia",
+    "lat": 59.87749700672787,
+    "lon": 10.847536314123113,
+    "address": "Bølerlia 73B",
+    "postalCode": "0691",
+    "city": "OSLO",
+    "url": "https://kiwi.no/finn-butikk/kiwi-491-bolerlia"
+  },
+  {
+    "id": "2144",
+    "name": "KIWI 493 Høyden",
+    "lat": 59.41932763879638,
+    "lon": 10.683025746602635,
+    "address": "Øreveien 76",
+    "postalCode": "1528",
+    "city": "MOSS",
+    "url": "https://kiwi.no/finn-butikk/kiwi-493-hoyden"
+  },
+  {
+    "id": "2164",
+    "name": "KIWI 495 Rygge",
+    "lat": 59.379494747403,
+    "lon": 10.755190215249016,
+    "address": "Stasjonsveien 12A",
+    "postalCode": "1580",
+    "city": "RYGGE",
+    "url": "https://kiwi.no/finn-butikk/kiwi-495-rygge"
+  },
+  {
+    "id": "4078",
+    "name": "KIWI 496 Frydenberg",
+    "lat": 59.22107434805988,
+    "lon": 10.931551489364926,
+    "address": "Veumveien 17",
+    "postalCode": "1613",
+    "city": "FREDRIKSTAD",
+    "url": "https://kiwi.no/finn-butikk/kiwi-496-frydenberg"
+  },
+  {
+    "id": "2190",
+    "name": "KIWI 497 Sjøgata",
+    "lat": 59.4315983668809,
+    "lon": 10.649635103047435,
+    "address": "Sjøgata 15",
+    "postalCode": "1516",
+    "city": "MOSS",
+    "url": "https://kiwi.no/finn-butikk/kiwi-497-sjogata"
+  },
+  {
+    "id": "2088",
+    "name": "KIWI 499 Skiptvet",
+    "lat": 59.472515914373986,
+    "lon": 11.162984540312753,
+    "address": "Storveien 11",
+    "postalCode": "1816",
+    "city": "SKIPTVET",
+    "url": "https://kiwi.no/finn-butikk/kiwi-499-skiptvet"
+  },
+  {
+    "id": "4468",
+    "name": "KIWI 500 Falkum",
+    "lat": 59.211299079708034,
+    "lon": 9.58853063123018,
+    "address": "Hjalmar Johansens gt. 10 -12",
+    "postalCode": "3722",
+    "city": "SKIEN",
+    "url": "https://kiwi.no/finn-butikk/kiwi-500-falkum"
+  },
+  {
+    "id": "3924",
+    "name": "KIWI 501 Stridsklev",
+    "lat": 59.110296625872685,
+    "lon": 9.667418071906363,
+    "address": "Hestehoven 1",
+    "postalCode": "3930",
+    "city": "PORSGRUNN",
+    "url": "https://kiwi.no/finn-butikk/kiwi-501-stridsklev"
+  },
+  {
+    "id": "1277",
+    "name": "KIWI 502 Holmlia Sentervei",
+    "lat": 59.835993975708995,
+    "lon": 10.79647165007062,
+    "address": "Asperudveien 69",
+    "postalCode": "1255",
+    "city": "OSLO",
+    "url": "https://kiwi.no/finn-butikk/kiwi-502-holmlia-sentervei"
+  },
+  {
+    "id": "4032",
+    "name": "KIWI 503 Nordbyhagen",
+    "lat": 59.93430567976411,
+    "lon": 10.994651495655217,
+    "address": "Nordbyringen 1",
+    "postalCode": "1474",
+    "city": "LØRENSKOG",
+    "url": "https://kiwi.no/finn-butikk/kiwi-503-nordbyhagen"
+  },
+  {
+    "id": "1179",
+    "name": "KIWI 504 XL Strømsø Senter",
+    "lat": 59.73447560078003,
+    "lon": 10.206697831571697,
+    "address": "Bjørnstjerne Bjørnsons gate 60",
+    "postalCode": "3044",
+    "city": "DRAMMEN",
+    "url": "https://kiwi.no/finn-butikk/kiwi-504-xl-stromso-senter"
+  },
+  {
+    "id": "4532",
+    "name": "KIWI 505 Barcode",
+    "lat": 59.90728292450346,
+    "lon": 10.761228567755932,
+    "address": "Dronning Eufemias gate 38",
+    "postalCode": "0191",
+    "city": "OSLO",
+    "url": "https://kiwi.no/finn-butikk/kiwi-505-barcode"
+  },
+  {
+    "id": "2932",
+    "name": "KIWI 506 Dikeveien",
+    "lat": 59.25244159884977,
+    "lon": 10.998204117457375,
+    "address": "Dikeveien 33",
+    "postalCode": "1661",
+    "city": "ROLVSØY",
+    "url": "https://kiwi.no/finn-butikk/kiwi-506-dikeveien"
+  },
+  {
+    "id": "2275",
+    "name": "KIWI 508 Onsøyveien",
+    "lat": 59.22263676821763,
+    "lon": 10.920940629581994,
+    "address": "Onsøyveien 22",
+    "postalCode": "1613",
+    "city": "FREDRIKSTAD",
+    "url": "https://kiwi.no/finn-butikk/kiwi-508-onsoyveien"
+  },
+  {
+    "id": "4492",
+    "name": "KIWI 509 Økernveien",
+    "lat": 59.93229296468125,
+    "lon": 10.806860720814447,
+    "address": "Økern Torgvei 3",
+    "postalCode": "0580",
+    "city": "OSLO",
+    "url": "https://kiwi.no/finn-butikk/kiwi-509-okernveien"
+  },
+  {
+    "id": "4550",
+    "name": "KIWI 510 Jerikoveien",
+    "lat": 59.935626366556946,
+    "lon": 10.886956649673243,
+    "address": "Lindeberg Næringsvei 28",
+    "postalCode": "1067",
+    "city": "OSLO",
+    "url": "https://kiwi.no/finn-butikk/kiwi-510-jerikoveien"
+  },
+  {
+    "id": "4075",
+    "name": "KIWI 511 Skjærhalden",
+    "lat": 59.02823783779245,
+    "lon": 11.032873917800895,
+    "address": "Kjølholtveien 1",
+    "postalCode": "1680",
+    "city": "SKJÆRHALDEN",
+    "url": "https://kiwi.no/finn-butikk/kiwi-511-skjarhalden"
+  },
+  {
+    "id": "2314",
+    "name": "KIWI 513 Ulefoss",
+    "lat": 59.28194159790614,
+    "lon": 9.272424079639729,
+    "address": "Ulefossgata 14",
+    "postalCode": "3830",
+    "city": "ULEFOSS",
+    "url": "https://kiwi.no/finn-butikk/kiwi-513-ulefoss"
+  },
+  {
+    "id": "2176",
+    "name": "KIWI 514 Spydeberg",
+    "lat": 59.618745918585454,
+    "lon": 11.077303464261925,
+    "address": "Stasjonsgata 30/32",
+    "postalCode": "1820",
+    "city": "SPYDEBERG",
+    "url": "https://kiwi.no/finn-butikk/kiwi-514-spydeberg"
+  },
+  {
+    "id": "4033",
+    "name": "KIWI 515 Stokke",
+    "lat": 59.221485102764895,
+    "lon": 10.298945231762938,
+    "address": "Nygaards alle 3",
+    "postalCode": "3160",
+    "city": "STOKKE",
+    "url": "https://kiwi.no/finn-butikk/kiwi-515-stokke"
+  },
+  {
+    "id": "4248",
+    "name": "KIWI 516 Gullaug",
+    "lat": 59.74859759943747,
+    "lon": 10.290296250235388,
+    "address": "Røykenveien 14",
+    "postalCode": "3427",
+    "city": "GULLAUG",
+    "url": "https://kiwi.no/finn-butikk/kiwi-516-gullaug"
+  },
+  {
+    "id": "4230",
+    "name": "KIWI 518 Sletta",
+    "lat": 59.518460549747495,
+    "lon": 10.709800162803468,
+    "address": "Sletta Næringspark 4",
+    "postalCode": "1555",
+    "city": "SON",
+    "url": "https://kiwi.no/finn-butikk/kiwi-518-sletta"
+  },
+  {
+    "id": "4076",
+    "name": "KIWI 523 Hasbergsveien",
+    "lat": 59.663921719669474,
+    "lon": 9.644298956926109,
+    "address": "Hasbergs vei 42",
+    "postalCode": "3616",
+    "city": "KONGSBERG",
+    "url": "https://kiwi.no/finn-butikk/kiwi-523-hasbergsveien"
+  },
+  {
+    "id": "2178",
+    "name": "KIWI 524 Baneveien",
+    "lat": 59.67373419043219,
+    "lon": 9.651139428024297,
+    "address": "Baneveien 28",
+    "postalCode": "3612",
+    "city": "KONGSBERG",
+    "url": "https://kiwi.no/finn-butikk/kiwi-524-baneveien"
+  },
+  {
+    "id": "4298",
+    "name": "KIWI 525 Osloveien",
+    "lat": 60.15238459843811,
+    "lon": 10.253103943239932,
+    "address": "Dronning Åstas gate 10",
+    "postalCode": "3511",
+    "city": "HØNEFOSS",
+    "url": "https://kiwi.no/finn-butikk/kiwi-525-osloveien"
+  },
+  {
+    "id": "2077",
+    "name": "KIWI 526 Noresund",
+    "lat": 60.18024805945789,
+    "lon": 9.625771916921964,
+    "address": "Krøderfjordveien 1677",
+    "postalCode": "3536",
+    "city": "NORESUND",
+    "url": "https://kiwi.no/finn-butikk/kiwi-526-noresund"
+  },
+  {
+    "id": "2060",
+    "name": "KIWI 527 Vikersund",
+    "lat": 59.96536077863835,
+    "lon": 9.994050892858336,
+    "address": "Vikersundgata 32",
+    "postalCode": "3370",
+    "city": "VIKERSUND",
+    "url": "https://kiwi.no/finn-butikk/kiwi-527-vikersund"
+  },
+  {
+    "id": "2173",
+    "name": "KIWI 528 Lierbyen",
+    "lat": 59.786511727688605,
+    "lon": 10.242022715128064,
+    "address": "Vestsideveien 7A",
+    "postalCode": "3403",
+    "city": "LIER",
+    "url": "https://kiwi.no/finn-butikk/kiwi-528-lierbyen"
+  },
+  {
+    "id": "1237",
+    "name": "KIWI 529 Moane",
+    "lat": 59.625885175303345,
+    "lon": 9.62506163499533,
+    "address": "St. Hansveien 2",
+    "postalCode": "3614",
+    "city": "KONGSBERG",
+    "url": "https://kiwi.no/finn-butikk/kiwi-529-moane"
+  },
+  {
+    "id": "1411",
+    "name": "KIWI 531 Lindeberg",
+    "lat": 59.93263446657841,
+    "lon": 10.881381674780974,
+    "address": "Jerikoveien 3",
+    "postalCode": "1067",
+    "city": "OSLO",
+    "url": "https://kiwi.no/finn-butikk/kiwi-531-lindeberg"
+  },
+  {
+    "id": "3995",
+    "name": "KIWI 532 Trøgstad",
+    "lat": 59.64214399167873,
+    "lon": 11.318531537710072,
+    "address": "Vesleskrammerud 10A",
+    "postalCode": "1860",
+    "city": "TRØGSTAD",
+    "url": "https://kiwi.no/finn-butikk/kiwi-532-trogstad"
+  },
+  {
+    "id": "1412",
+    "name": "KIWI 533 Hosle",
+    "lat": 59.93626047937833,
+    "lon": 10.583745933055017,
+    "address": "Granåsen 16",
+    "postalCode": "1362",
+    "city": "HOSLE",
+    "url": "https://kiwi.no/finn-butikk/kiwi-533-hosle"
+  },
+  {
+    "id": "2091",
+    "name": "KIWI 534 Greåker",
+    "lat": 59.26788899131749,
+    "lon": 11.032062701585769,
+    "address": "Tamburveien 9",
+    "postalCode": "1718",
+    "city": "GREÅKER",
+    "url": "https://kiwi.no/finn-butikk/kiwi-534-greaker"
+  },
+  {
+    "id": "7790",
+    "name": "KIWI 535 Borgarveien",
+    "lat": 59.204985993495306,
+    "lon": 10.973848447968468,
+    "address": "Borgarveien 18",
+    "postalCode": "1633",
+    "city": "GAMLE FREDRIKSTAD",
+    "url": "https://kiwi.no/finn-butikk/kiwi-535-borgarveien"
+  },
+  {
+    "id": "1413",
+    "name": "KIWI 536 Lillestrøm",
+    "lat": 59.95651975242214,
+    "lon": 11.046506308138369,
+    "address": "Adolph Tidemands gate 26",
+    "postalCode": "2000",
+    "city": "LILLESTRØM",
+    "url": "https://kiwi.no/finn-butikk/kiwi-536-lillestrom"
+  },
+  {
+    "id": "4212",
+    "name": "KIWI 537 Kråkerøybrua",
+    "lat": 59.20606484138598,
+    "lon": 10.937045976413819,
+    "address": "Kråkerøyveien 9",
+    "postalCode": "1671",
+    "city": "KRÅKERØY",
+    "url": "https://kiwi.no/finn-butikk/kiwi-537-krakeroybrua"
+  },
+  {
+    "id": "4214",
+    "name": "KIWI 538 Kurland",
+    "lat": 59.290294773795445,
+    "lon": 11.114348678872696,
+    "address": "Bryggeriveien 9",
+    "postalCode": "1727",
+    "city": "SARPSBORG",
+    "url": "https://kiwi.no/finn-butikk/kiwi-538-kurland"
+  },
+  {
+    "id": "5648",
+    "name": "KIWI 539 Oppsalstubben",
+    "lat": 59.897546737283704,
+    "lon": 10.848057323370229,
+    "address": "Oppsalstubben 3",
+    "postalCode": "0685",
+    "city": "OSLO",
+    "url": "https://kiwi.no/finn-butikk/kiwi-539-oppsalstubben"
+  },
+  {
+    "id": "4261",
+    "name": "KIWI 540 Rosenhoff",
+    "lat": 59.931658866897706,
+    "lon": 10.77865408006489,
+    "address": "Trondheimsveien 163",
+    "postalCode": "0570",
+    "city": "OSLO",
+    "url": "https://kiwi.no/finn-butikk/kiwi-540-rosenhoff"
+  },
+  {
+    "id": "4269",
+    "name": "KIWI 541 Ås",
+    "lat": 59.664365150112104,
+    "lon": 10.793291510839657,
+    "address": "Brekkeveien 3A",
+    "postalCode": "1430",
+    "city": "ÅS",
+    "url": "https://kiwi.no/finn-butikk/kiwi-541-as"
+  },
+  {
+    "id": "4957",
+    "name": "KIWI 542 Sofiemyr",
+    "lat": 59.79634933939921,
+    "lon": 10.821957595373025,
+    "address": "Sofiemyrveien 7",
+    "postalCode": "1412",
+    "city": "SOFIEMYR",
+    "url": "https://kiwi.no/finn-butikk/kiwi-542-sofiemyr"
+  },
+  {
+    "id": "4284",
+    "name": "KIWI 543 Mysen",
+    "lat": 59.55317575876983,
+    "lon": 11.333889115841956,
+    "address": "Smedgaten 32",
+    "postalCode": "1850",
+    "city": "MYSEN",
+    "url": "https://kiwi.no/finn-butikk/kiwi-543-mysen"
+  },
+  {
+    "id": "4294",
+    "name": "KIWI 545 Tøyen",
+    "lat": 59.91378362079874,
+    "lon": 10.775067095766854,
+    "address": "Kolstadgata 18",
+    "postalCode": "0652",
+    "city": "OSLO",
+    "url": "https://kiwi.no/finn-butikk/kiwi-545-toyen"
+  },
+  {
+    "id": "3944",
+    "name": "KIWI 546 Melløs",
+    "lat": 59.42130494731583,
+    "lon": 10.676375243836452,
+    "address": "Rabekkgata 2B",
+    "postalCode": "1523",
+    "city": "MOSS",
+    "url": "https://kiwi.no/finn-butikk/kiwi-546-mellos"
+  },
+  {
+    "id": "2156",
+    "name": "KIWI 547 Fjellbo",
+    "lat": 60.0246081622077,
+    "lon": 11.070133594961312,
+    "address": "Fjellboveien 1",
+    "postalCode": "2016",
+    "city": "FROGNER",
+    "url": "https://kiwi.no/finn-butikk/kiwi-547-fjellbo"
+  },
+  {
+    "id": "1229",
+    "name": "KIWI 548 Årum",
+    "lat": 59.2608482303718,
+    "lon": 11.100382119789604,
+    "address": "Sundløkkaveien 81",
+    "postalCode": "1659",
+    "city": "TORP",
+    "url": "https://kiwi.no/finn-butikk/kiwi-548-arum"
+  },
+  {
+    "id": "4171",
+    "name": "KIWI 549 Skjeberg",
+    "lat": 59.267585486287444,
+    "lon": 11.169174260852436,
+    "address": "Rådhusveien 19",
+    "postalCode": "1739",
+    "city": "BORGENHAUGEN",
+    "url": "https://kiwi.no/finn-butikk/kiwi-549-skjeberg"
+  },
+  {
+    "id": "4104",
+    "name": "KIWI 551 Kviteseid",
+    "lat": 59.40193313250384,
+    "lon": 8.4896156136856,
+    "address": "Garverivegen 4",
+    "postalCode": "3850",
+    "city": "KVITESEID",
+    "url": "https://kiwi.no/finn-butikk/kiwi-551-kviteseid"
+  },
+  {
+    "id": "4240",
+    "name": "KIWI 552 Gulset",
+    "lat": 59.216117606112206,
+    "lon": 9.56535564142236,
+    "address": "Nyhusvegen 14",
+    "postalCode": "3726",
+    "city": "SKIEN",
+    "url": "https://kiwi.no/finn-butikk/kiwi-552-gulset"
+  },
+  {
+    "id": "486",
+    "name": "KIWI 553 Kragerø",
+    "lat": 58.86837829019924,
+    "lon": 9.414434793816438,
+    "address": "Ytre Strandvei 6A",
+    "postalCode": "3770",
+    "city": "KRAGERØ",
+    "url": "https://kiwi.no/finn-butikk/kiwi-553-kragero"
+  },
+  {
+    "id": "4283",
+    "name": "KIWI 554 Heistad",
+    "lat": 59.075143910552484,
+    "lon": 9.68423407008475,
+    "address": "Bekkefaret 1",
+    "postalCode": "3941",
+    "city": "PORSGRUNN",
+    "url": "https://kiwi.no/finn-butikk/kiwi-554-heistad"
+  },
+  {
+    "id": "4167",
+    "name": "KIWI 555 Austbygd",
+    "lat": 59.995146246264824,
+    "lon": 8.826609140597432,
+    "address": "Austbygdevegen 11",
+    "postalCode": "3650",
+    "city": "TINN AUSTBYGD",
+    "url": "https://kiwi.no/finn-butikk/kiwi-555-austbygd"
+  },
+  {
+    "id": "5827",
+    "name": "KIWI 556 Skoppum",
+    "lat": 59.38534062950684,
+    "lon": 10.404596856087968,
+    "address": "Reirveien 5",
+    "postalCode": "3185",
+    "city": "SKOPPUM",
+    "url": "https://kiwi.no/finn-butikk/kiwi-556-skoppum"
+  },
+  {
+    "id": "4172",
+    "name": "KIWI 557 Kilgata",
+    "lat": 59.1277545271412,
+    "lon": 10.235848751743573,
+    "address": "Kilgata 8",
+    "postalCode": "3217",
+    "city": "SANDEFJORD",
+    "url": "https://kiwi.no/finn-butikk/kiwi-557-kilgata"
+  },
+  {
+    "id": "1226",
+    "name": "KIWI 558 Nanset",
+    "lat": 59.06605909934149,
+    "lon": 10.041865133891573,
+    "address": "Karen Sundts vei 19",
+    "postalCode": "3269",
+    "city": "LARVIK",
+    "url": "https://kiwi.no/finn-butikk/kiwi-558-nanset"
+  },
+  {
+    "id": "2160",
+    "name": "KIWI 559 Rjukan Sentrum",
+    "lat": 59.878418182948025,
+    "lon": 8.587186946263017,
+    "address": "Sam Eydes gate 63",
+    "postalCode": "3660",
+    "city": "RJUKAN",
+    "url": "https://kiwi.no/finn-butikk/kiwi-559-rjukan-sentrum"
+  },
+  {
+    "id": "7401",
+    "name": "KIWI 560 Porselensfabrikken",
+    "lat": 59.140840207107594,
+    "lon": 9.63834218654346,
+    "address": "Porselensvegen 10",
+    "postalCode": "3920",
+    "city": "PORSGRUNN",
+    "url": "https://kiwi.no/finn-butikk/kiwi-560-porselensfabrikken"
+  },
+  {
+    "id": "1230",
+    "name": "KIWI 561 Beha",
+    "lat": 59.13793358016127,
+    "lon": 9.661950959339658,
+    "address": "C.E. Berg-Hanssens gate 12",
+    "postalCode": "3917",
+    "city": "PORSGRUNN",
+    "url": "https://kiwi.no/finn-butikk/kiwi-561-beha"
+  },
+  {
+    "id": "1238",
+    "name": "KIWI 562 Andebu",
+    "lat": 59.30476364883392,
+    "lon": 10.178007672530534,
+    "address": "Andebu Sentrum 23",
+    "postalCode": "3158",
+    "city": "ANDEBU",
+    "url": "https://kiwi.no/finn-butikk/kiwi-562-andebu"
+  },
+  {
+    "id": "4563",
+    "name": "KIWI 563 Stathelle",
+    "lat": 59.04439769906762,
+    "lon": 9.6930212090504,
+    "address": "Krabberødveien 1",
+    "postalCode": "3960",
+    "city": "STATHELLE",
+    "url": "https://kiwi.no/finn-butikk/kiwi-563-stathelle"
+  },
+  {
+    "id": "1251",
+    "name": "KIWI 564 Bø",
+    "lat": 59.41362899247173,
+    "lon": 9.068668189167012,
+    "address": "Hellandvegen 15",
+    "postalCode": "3800",
+    "city": "BØ I TELEMARK",
+    "url": "https://kiwi.no/finn-butikk/kiwi-564-bo"
+  },
+  {
+    "id": "8140",
+    "name": "KIWI 565 Holtandalen",
+    "lat": 59.41656546006592,
+    "lon": 10.459889354177996,
+    "address": "Gaupestien 1",
+    "postalCode": "3188",
+    "city": "HORTEN",
+    "url": "https://kiwi.no/finn-butikk/kiwi-565-holtandalen"
+  },
+  {
+    "id": "7402",
+    "name": "KIWI 566 Grasmyr",
+    "lat": 59.03018250701041,
+    "lon": 9.70454803586069,
+    "address": "Tønderveien 1",
+    "postalCode": "3961",
+    "city": "STATHELLE",
+    "url": "https://kiwi.no/finn-butikk/kiwi-566-grasmyr"
+  },
+  {
+    "id": "2315",
+    "name": "KIWI 567 Kjørbekkdalen",
+    "lat": 59.174845887742244,
+    "lon": 9.627165995570335,
+    "address": "Kjørbekkdalen 4",
+    "postalCode": "3735",
+    "city": "SKIEN",
+    "url": "https://kiwi.no/finn-butikk/kiwi-567-kjorbekkdalen"
+  },
+  {
+    "id": "1370",
+    "name": "KIWI 568 Gimsøy",
+    "lat": 59.193080491379185,
+    "lon": 9.61023967796014,
+    "address": "Lensmannsvegen 3",
+    "postalCode": "3730",
+    "city": "SKIEN",
+    "url": "https://kiwi.no/finn-butikk/kiwi-568-gimsoy"
+  },
+  {
+    "id": "5882",
+    "name": "KIWI 569 Moveien",
+    "lat": 59.143092824700894,
+    "lon": 10.199981828756844,
+    "address": "Moveien 53",
+    "postalCode": "3215",
+    "city": "SANDEFJORD",
+    "url": "https://kiwi.no/finn-butikk/kiwi-569-moveien"
+  },
+  {
+    "id": "4049",
+    "name": "KIWI 570 Gulskogen",
+    "lat": 59.74212544949752,
+    "lon": 10.160869145249757,
+    "address": "Guldlisten 35",
+    "postalCode": "3048",
+    "city": "DRAMMEN",
+    "url": "https://kiwi.no/finn-butikk/kiwi-570-gulskogen"
+  },
+  {
+    "id": "3984",
+    "name": "KIWI 571 Åmot Sentrum",
+    "lat": 59.892660531480324,
+    "lon": 9.924101877670822,
+    "address": "Stålfjæra 1",
+    "postalCode": "3340",
+    "city": "ÅMOT",
+    "url": "https://kiwi.no/finn-butikk/kiwi-571-amot-sentrum"
+  },
+  {
+    "id": "3985",
+    "name": "KIWI 572 Hønengata",
+    "lat": 60.177510888392206,
+    "lon": 10.267225324826805,
+    "address": "Hønengata 70B",
+    "postalCode": "3515",
+    "city": "HØNEFOSS",
+    "url": "https://kiwi.no/finn-butikk/kiwi-572-honengata"
+  },
+  {
+    "id": "1259",
+    "name": "KIWI 573 Lierskogen",
+    "lat": 59.81809396785799,
+    "lon": 10.32785332918522,
+    "address": "Gamle Drammensvei 90",
+    "postalCode": "3420",
+    "city": "LIERSKOGEN",
+    "url": "https://kiwi.no/finn-butikk/kiwi-573-lierskogen"
+  },
+  {
+    "id": "7406",
+    "name": "KIWI 574 Sande",
+    "lat": 59.59458976034962,
+    "lon": 10.207971711662466,
+    "address": "Prestegårdsalleen 49",
+    "postalCode": "3070",
+    "city": "SANDE I VESTFOLD",
+    "url": "https://kiwi.no/finn-butikk/kiwi-574-sande"
+  },
+  {
+    "id": "7765",
+    "name": "KIWI 575 Sokna",
+    "lat": 60.23964510138003,
+    "lon": 9.925242648117468,
+    "address": "Hallingdalsveien 30",
+    "postalCode": "3534",
+    "city": "SOKNA",
+    "url": "https://kiwi.no/finn-butikk/kiwi-575-sokna"
+  },
+  {
+    "id": "2368",
+    "name": "KIWI 576 Nybruveien",
+    "lat": 59.75615256306938,
+    "lon": 10.028783728594519,
+    "address": "Nybruveien 3A",
+    "postalCode": "3055",
+    "city": "KROKSTADELVA",
+    "url": "https://kiwi.no/finn-butikk/kiwi-576-nybruveien"
+  },
+  {
+    "id": "1171",
+    "name": "KIWI 577 Kobbervikdalen",
+    "lat": 59.6950494770199,
+    "lon": 10.24618023994643,
+    "address": "Dråpen 2",
+    "postalCode": "3036",
+    "city": "DRAMMEN",
+    "url": "https://kiwi.no/finn-butikk/kiwi-577-kobbervikdalen"
+  },
+  {
+    "id": "7414",
+    "name": "KIWI 578 Svelvik Senter",
+    "lat": 59.61760627553831,
+    "lon": 10.40951384629657,
+    "address": "Storgaten 35",
+    "postalCode": "3060",
+    "city": "SVELVIK",
+    "url": "https://kiwi.no/finn-butikk/kiwi-578-svelvik-senter"
+  },
+  {
+    "id": "2633",
+    "name": "KIWI 579 Hallingby",
+    "lat": 60.27217677068568,
+    "lon": 10.184508283966572,
+    "address": "Gamle Ådalsvei 23A",
+    "postalCode": "3525",
+    "city": "HALLINGBY",
+    "url": "https://kiwi.no/finn-butikk/kiwi-579-hallingby"
+  },
+  {
+    "id": "4050",
+    "name": "KIWI 580 Ammerud",
+    "lat": 59.958684514384984,
+    "lon": 10.870199553270488,
+    "address": "Ammerudveien 22",
+    "postalCode": "0958",
+    "city": "OSLO",
+    "url": "https://kiwi.no/finn-butikk/kiwi-580-ammerud"
+  },
+  {
+    "id": "5646",
+    "name": "KIWI 581 Lambertseter Senter",
+    "lat": 59.8725381478548,
+    "lon": 10.811455050447785,
+    "address": "Langbølgen 7E",
+    "postalCode": "1150",
+    "city": "OSLO",
+    "url": "https://kiwi.no/finn-butikk/kiwi-581-lambertseter-senter"
+  },
+  {
+    "id": "5235",
+    "name": "KIWI 582 Torggata Oslo",
+    "lat": 59.913262107602826,
+    "lon": 10.746784793576966,
+    "address": "Torggata 1",
+    "postalCode": "0181",
+    "city": "OSLO",
+    "url": "https://kiwi.no/finn-butikk/kiwi-582-torggata-oslo"
+  },
+  {
+    "id": "8123",
+    "name": "KIWI 583 Jordal",
+    "lat": 59.91197886310249,
+    "lon": 10.786166933744937,
+    "address": "Rolf Hofmos gate 1",
+    "postalCode": "0655",
+    "city": "OSLO",
+    "url": "https://kiwi.no/finn-butikk/kiwi-583-jordal"
+  },
+  {
+    "id": "8116",
+    "name": "KIWI 584 Aurskog",
+    "lat": 59.92763334450067,
+    "lon": 11.445456138049263,
+    "address": "Senterveien 15",
+    "postalCode": "1930",
+    "city": "AURSKOG",
+    "url": "https://kiwi.no/finn-butikk/kiwi-584-aurskog"
+  },
+  {
+    "id": "5627",
+    "name": "KIWI 585 Skovly",
+    "lat": 60.14393384852777,
+    "lon": 11.171763667404974,
+    "address": "Furusethgata 10",
+    "postalCode": "2050",
+    "city": "JESSHEIM",
+    "url": "https://kiwi.no/finn-butikk/kiwi-585-skovly"
+  },
+  {
+    "id": "1256",
+    "name": "KIWI 586 Trikkesløyfa",
+    "lat": 59.94078910839437,
+    "lon": 10.729132071672417,
+    "address": "Vestgrensa 2",
+    "postalCode": "0851",
+    "city": "OSLO",
+    "url": "https://kiwi.no/finn-butikk/kiwi-586-trikkesloyfa"
+  },
+  {
+    "id": "8147",
+    "name": "KIWI 587 Vogtsgate",
+    "lat": 59.93653609579722,
+    "lon": 10.76616945212478,
+    "address": "Vogts gate 66",
+    "postalCode": "0477",
+    "city": "OSLO",
+    "url": "https://kiwi.no/finn-butikk/kiwi-587-vogtsgate"
+  },
+  {
+    "id": "7411",
+    "name": "KIWI 588 Mortensrud",
+    "lat": 59.84919763002811,
+    "lon": 10.831381759872777,
+    "address": "Helga Vaneksvei 1",
+    "postalCode": "1281",
+    "city": "OSLO",
+    "url": "https://kiwi.no/finn-butikk/kiwi-588-mortensrud"
+  },
+  {
+    "id": "7668",
+    "name": "KIWI 589 Stovner",
+    "lat": 59.95968177584709,
+    "lon": 10.9235894162126,
+    "address": "Fossumveien 62",
+    "postalCode": "0988",
+    "city": "OSLO",
+    "url": "https://kiwi.no/finn-butikk/kiwi-589-stovner"
+  },
+  {
+    "id": "3899",
+    "name": "KIWI 590 Heer",
+    "lat": 59.684384527272215,
+    "lon": 10.660960232774658,
+    "address": "Heerveien 9",
+    "postalCode": "1445",
+    "city": "DRØBAK",
+    "url": "https://kiwi.no/finn-butikk/kiwi-590-heer"
+  },
+  {
+    "id": "1242",
+    "name": "KIWI 591 Saltnes",
+    "lat": 59.28743431896938,
+    "lon": 10.756379085213961,
+    "address": "Saltnesbekken 2",
+    "postalCode": "1642",
+    "city": "SALTNES",
+    "url": "https://kiwi.no/finn-butikk/kiwi-591-saltnes"
+  },
+  {
+    "id": "1248",
+    "name": "KIWI 592 Råde",
+    "lat": 59.3557284411278,
+    "lon": 10.8471001164848,
+    "address": "Mosseveien 50",
+    "postalCode": "1640",
+    "city": "RÅDE",
+    "url": "https://kiwi.no/finn-butikk/kiwi-592-rade"
+  },
+  {
+    "id": "7698",
+    "name": "KIWI 593 Ullerudsletta",
+    "lat": 59.66714623282004,
+    "lon": 10.646330210274083,
+    "address": "Loimaaveien 1",
+    "postalCode": "1447",
+    "city": "DRØBAK",
+    "url": "https://kiwi.no/finn-butikk/kiwi-593-ullerudsletta"
+  },
+  {
+    "id": "8148",
+    "name": "KIWI 594 Knapstad",
+    "lat": 59.62065509479897,
+    "lon": 11.027985163007589,
+    "address": "Spydebergveien 1",
+    "postalCode": "1823",
+    "city": "KNAPSTAD",
+    "url": "https://kiwi.no/finn-butikk/kiwi-594-knapstad"
+  },
+  {
+    "id": "1254",
+    "name": "KIWI 595 Kråkerøyhallen",
+    "lat": 59.19950768246746,
+    "lon": 10.908934114570725,
+    "address": "Langøyveien 16",
+    "postalCode": "1679",
+    "city": "KRÅKERØY",
+    "url": "https://kiwi.no/finn-butikk/kiwi-595-krakeroyhallen"
+  },
+  {
+    "id": "3912",
+    "name": "KIWI 596 Refsnes",
+    "lat": 59.442719848700406,
+    "lon": 10.6189462671549,
+    "address": "Refsnesalleen 66",
+    "postalCode": "1518",
+    "city": "MOSS",
+    "url": "https://kiwi.no/finn-butikk/kiwi-596-refsnes"
+  },
+  {
+    "id": "7781",
+    "name": "KIWI 597 Olav Vs gate",
+    "lat": 59.1198447672849,
+    "lon": 11.38917227182501,
+    "address": "Olav Vs gate 4",
+    "postalCode": "1767",
+    "city": "HALDEN",
+    "url": "https://kiwi.no/finn-butikk/kiwi-597-olav-vs-gate"
+  },
+  {
+    "id": "2356",
+    "name": "KIWI 598 Tomter",
+    "lat": 59.66010293745537,
+    "lon": 11.000452491041301,
+    "address": "Hobølveien 1",
+    "postalCode": "1825",
+    "city": "TOMTER",
+    "url": "https://kiwi.no/finn-butikk/kiwi-598-tomter"
+  },
+  {
+    "id": "7760",
+    "name": "KIWI 599 Vestby",
+    "lat": 59.60860691842648,
+    "lon": 10.742971393278424,
+    "address": "Vestbyveien 31",
+    "postalCode": "1543",
+    "city": "VESTBY",
+    "url": "https://kiwi.no/finn-butikk/kiwi-599-vestby"
+  },
+  {
+    "id": "4288",
+    "name": "KIWI 601 Studalen",
+    "lat": 59.780211112892225,
+    "lon": 5.4832070107911655,
+    "address": "Studalen 2",
+    "postalCode": "5417",
+    "city": "STORD",
+    "url": "https://kiwi.no/finn-butikk/kiwi-601-studalen"
+  },
+  {
+    "id": "4297",
+    "name": "KIWI 602 Eiganes",
+    "lat": 58.95753628185212,
+    "lon": 5.69860794960335,
+    "address": "Ytre Eiganesveien 17",
+    "postalCode": "4022",
+    "city": "STAVANGER",
+    "url": "https://kiwi.no/finn-butikk/kiwi-602-eiganes"
+  },
+  {
+    "id": "1250",
+    "name": "KIWI 603 Tasta",
+    "lat": 58.977767465592365,
+    "lon": 5.704668104963006,
+    "address": "Randabergveien 45",
+    "postalCode": "4025",
+    "city": "STAVANGER",
+    "url": "https://kiwi.no/finn-butikk/kiwi-603-tasta"
+  },
+  {
+    "id": "1232",
+    "name": "KIWI 604 Finnøy",
+    "lat": 59.16447489636053,
+    "lon": 5.871606265273296,
+    "address": "Finnøyvegen 509",
+    "postalCode": "4160",
+    "city": "FINNØY",
+    "url": "https://kiwi.no/finn-butikk/kiwi-604-finnoy"
+  },
+  {
+    "id": "4044",
+    "name": "KIWI 605 Kanalhuset",
+    "lat": 58.76899389001554,
+    "lon": 5.848644673075882,
+    "address": "Torgveien 20",
+    "postalCode": "4330",
+    "city": "ÅLGÅRD",
+    "url": "https://kiwi.no/finn-butikk/kiwi-605-kanalhuset"
+  },
+  {
+    "id": "7346",
+    "name": "KIWI 606 Gosen",
+    "lat": 58.93929649830935,
+    "lon": 5.687468720109575,
+    "address": "Gosenbakken 1",
+    "postalCode": "4041",
+    "city": "HAFRSFJORD",
+    "url": "https://kiwi.no/finn-butikk/kiwi-606-gosen"
+  },
+  {
+    "id": "4035",
+    "name": "KIWI 607 Kunnskapshuset",
+    "lat": 59.78750775090717,
+    "lon": 5.497095864770225,
+    "address": "Sæ 134",
+    "postalCode": "5417",
+    "city": "STORD",
+    "url": "https://kiwi.no/finn-butikk/kiwi-607-kunnskapshuset"
+  },
+  {
+    "id": "1247",
+    "name": "KIWI 608 Lervig Brygge",
+    "lat": 58.96538745741593,
+    "lon": 5.761545245425259,
+    "address": "Breivikveien 29D",
+    "postalCode": "4014",
+    "city": "STAVANGER",
+    "url": "https://kiwi.no/finn-butikk/kiwi-608-lervig-brygge"
+  },
+  {
+    "id": "7407",
+    "name": "KIWI 610 Kirkegata Haugesund",
+    "lat": 59.41606900693067,
+    "lon": 5.269398850430662,
+    "address": "Breidablikgata 184",
+    "postalCode": "5525",
+    "city": "HAUGESUND",
+    "url": "https://kiwi.no/finn-butikk/kiwi-610-kirkegata-haugesund"
+  },
+  {
+    "id": "4083",
+    "name": "KIWI 611 Åkra",
+    "lat": 59.259532447992775,
+    "lon": 5.193729453248917,
+    "address": "Klæhaugvegen 14",
+    "postalCode": "4270",
+    "city": "ÅKREHAMN",
+    "url": "https://kiwi.no/finn-butikk/kiwi-611-akra"
+  },
+  {
+    "id": "4082",
+    "name": "KIWI 612 Lura",
+    "lat": 58.87203903159393,
+    "lon": 5.739770854869069,
+    "address": "Gamleveien 4",
+    "postalCode": "4315",
+    "city": "SANDNES",
+    "url": "https://kiwi.no/finn-butikk/kiwi-612-lura"
+  },
+  {
+    "id": "4085",
+    "name": "KIWI 613 Avaldsnes",
+    "lat": 59.35498261478021,
+    "lon": 5.277586085547581,
+    "address": "Kong Augvalds veg 4",
+    "postalCode": "4262",
+    "city": "AVALDSNES",
+    "url": "https://kiwi.no/finn-butikk/kiwi-613-avaldsnes"
+  },
+  {
+    "id": "3903",
+    "name": "KIWI 614 Stangeland",
+    "lat": 59.27842574415794,
+    "lon": 5.312278170712337,
+    "address": "Austre Karmøyveg 189",
+    "postalCode": "4250",
+    "city": "KOPERVIK",
+    "url": "https://kiwi.no/finn-butikk/kiwi-614-stangeland"
+  },
+  {
+    "id": "4087",
+    "name": "KIWI 615 Vormedal",
+    "lat": 59.35495555932378,
+    "lon": 5.324124522291481,
+    "address": "Vormedalsvegen 340",
+    "postalCode": "5545",
+    "city": "VORMEDAL",
+    "url": "https://kiwi.no/finn-butikk/kiwi-615-vormedal"
+  },
+  {
+    "id": "4086",
+    "name": "KIWI 616 Sola",
+    "lat": 58.882776611588035,
+    "lon": 5.651521355103187,
+    "address": "Solakrossvegen 4",
+    "postalCode": "4050",
+    "city": "SOLA",
+    "url": "https://kiwi.no/finn-butikk/kiwi-616-sola"
+  },
+  {
+    "id": "4089",
+    "name": "KIWI 617 Rosseland",
+    "lat": 58.734602465051765,
+    "lon": 5.665476522234444,
+    "address": "Kong Haakons veg 1",
+    "postalCode": "4345",
+    "city": "BRYNE",
+    "url": "https://kiwi.no/finn-butikk/kiwi-617-rosseland"
+  },
+  {
+    "id": "4088",
+    "name": "KIWI 618 Ølensvåg",
+    "lat": 59.59737916040354,
+    "lon": 5.743006867453038,
+    "address": "Haukelivegen 668",
+    "postalCode": "5582",
+    "city": "ØLENSVÅG",
+    "url": "https://kiwi.no/finn-butikk/kiwi-618-olensvag"
+  },
+  {
+    "id": "3908",
+    "name": "KIWI 619 Sokndal",
+    "lat": 58.3419885376591,
+    "lon": 6.2844224821184165,
+    "address": "Gamleveien 54",
+    "postalCode": "4380",
+    "city": "HAUGE I DALANE",
+    "url": "https://kiwi.no/finn-butikk/kiwi-619-sokndal"
+  },
+  {
+    "id": "4091",
+    "name": "KIWI 620 Skåredalen",
+    "lat": 59.4103273188245,
+    "lon": 5.319053351124182,
+    "address": "Skjoldavegen 275",
+    "postalCode": "5533",
+    "city": "HAUGESUND",
+    "url": "https://kiwi.no/finn-butikk/kiwi-620-skaredalen"
+  },
+  {
+    "id": "4092",
+    "name": "KIWI 621 Tau",
+    "lat": 59.0651176103261,
+    "lon": 5.920695707754595,
+    "address": "Ryfylkevegen 1990B",
+    "postalCode": "4120",
+    "city": "TAU",
+    "url": "https://kiwi.no/finn-butikk/kiwi-621-tau"
+  },
+  {
+    "id": "8154",
+    "name": "KIWI 622 Salhusvegen",
+    "lat": 59.39840211853706,
+    "lon": 5.285932959052587,
+    "address": "Salhusvegen 93",
+    "postalCode": "5529",
+    "city": "HAUGESUND",
+    "url": "https://kiwi.no/finn-butikk/kiwi-622-salhusvegen"
+  },
+  {
+    "id": "4093",
+    "name": "KIWI 623 Magasin Blå",
+    "lat": 58.971772142831675,
+    "lon": 5.737240466705236,
+    "address": "Verksgata 2",
+    "postalCode": "4013",
+    "city": "STAVANGER",
+    "url": "https://kiwi.no/finn-butikk/kiwi-623-magasin-bla"
+  },
+  {
+    "id": "4094",
+    "name": "KIWI 624 Verdalen",
+    "lat": 58.78147108767741,
+    "lon": 5.618619282616808,
+    "address": "Verdalsvegen 2C",
+    "postalCode": "4351",
+    "city": "KLEPPE",
+    "url": "https://kiwi.no/finn-butikk/kiwi-624-verdalen"
+  },
+  {
+    "id": "4095",
+    "name": "KIWI 625 Hundvåg",
+    "lat": 59.00135827138747,
+    "lon": 5.741476843929589,
+    "address": "Lerkeskogen 2A",
+    "postalCode": "4083",
+    "city": "HUNDVÅG",
+    "url": "https://kiwi.no/finn-butikk/kiwi-625-hundvag"
+  },
+  {
+    "id": "4096",
+    "name": "KIWI 626 Sveio",
+    "lat": 59.54398699155218,
+    "lon": 5.3545347648709924,
+    "address": "Sveiogata 65A",
+    "postalCode": "5550",
+    "city": "SVEIO",
+    "url": "https://kiwi.no/finn-butikk/kiwi-626-sveio"
+  },
+  {
+    "id": "4097",
+    "name": "KIWI 627 Randaberg",
+    "lat": 58.996561976598024,
+    "lon": 5.628627489131841,
+    "address": "Dalveien 2A",
+    "postalCode": "4073",
+    "city": "RANDABERG",
+    "url": "https://kiwi.no/finn-butikk/kiwi-627-randaberg"
+  },
+  {
+    "id": "4098",
+    "name": "KIWI 628 Auglendsveien",
+    "lat": 58.945513276333784,
+    "lon": 5.719931324777342,
+    "address": "Auglendsveien 52A",
+    "postalCode": "4019",
+    "city": "STAVANGER",
+    "url": "https://kiwi.no/finn-butikk/kiwi-628-auglendsveien"
+  },
+  {
+    "id": "4099",
+    "name": "KIWI 629 Jørpeland",
+    "lat": 59.02294905357835,
+    "lon": 6.0414492838033125,
+    "address": "Rådhusgaten 6",
+    "postalCode": "4100",
+    "city": "JØRPELAND",
+    "url": "https://kiwi.no/finn-butikk/kiwi-629-jorpeland"
+  },
+  {
+    "id": "3977",
+    "name": "KIWI 630 Gard",
+    "lat": 59.42526930345584,
+    "lon": 5.270662687371406,
+    "address": "Hafrsfjordgata 11",
+    "postalCode": "5522",
+    "city": "HAUGESUND",
+    "url": "https://kiwi.no/finn-butikk/kiwi-630-gard"
+  },
+  {
+    "id": "4071",
+    "name": "KIWI 631 Spannavegen",
+    "lat": 59.40779907824904,
+    "lon": 5.2947351932100775,
+    "address": "Spannavegen 56",
+    "postalCode": "5531",
+    "city": "HAUGESUND",
+    "url": "https://kiwi.no/finn-butikk/kiwi-631-spannavegen"
+  },
+  {
+    "id": "4072",
+    "name": "KIWI 632 Hommersåk",
+    "lat": 58.91270756523268,
+    "lon": 5.852501669577534,
+    "address": "Hommersåkveien 174",
+    "postalCode": "4311",
+    "city": "HOMMERSÅK",
+    "url": "https://kiwi.no/finn-butikk/kiwi-632-hommersak"
+  },
+  {
+    "id": "4073",
+    "name": "KIWI 633 Jærveien",
+    "lat": 58.8484972352015,
+    "lon": 5.7293761648987,
+    "address": "Jærveien 2-4",
+    "postalCode": "4319",
+    "city": "SANDNES",
+    "url": "https://kiwi.no/finn-butikk/kiwi-633-jarveien"
+  },
+  {
+    "id": "4001",
+    "name": "KIWI 634 Sunde",
+    "lat": 58.96117624021356,
+    "lon": 5.610422178873664,
+    "address": "Kvernevik Ring 215",
+    "postalCode": "4048",
+    "city": "HAFRSFJORD",
+    "url": "https://kiwi.no/finn-butikk/kiwi-634-sunde"
+  },
+  {
+    "id": "2038",
+    "name": "KIWI 638 Rubbestadneset",
+    "lat": 59.815161437935416,
+    "lon": 5.268424814697394,
+    "address": "Søresjøvegen 5",
+    "postalCode": "5420",
+    "city": "RUBBESTADNESET",
+    "url": "https://kiwi.no/finn-butikk/kiwi-638-rubbestadneset"
+  },
+  {
+    "id": "2177",
+    "name": "KIWI 639 Sagvåg",
+    "lat": 59.77529307743416,
+    "lon": 5.393034756619189,
+    "address": "Lyngneset 5",
+    "postalCode": "5410",
+    "city": "SAGVÅG",
+    "url": "https://kiwi.no/finn-butikk/kiwi-639-sagvag"
+  },
+  {
+    "id": "2097",
+    "name": "KIWI 641 Torvastad",
+    "lat": 59.38917954929411,
+    "lon": 5.273318488946406,
+    "address": "Huldervegen 1",
+    "postalCode": "4260",
+    "city": "TORVASTAD",
+    "url": "https://kiwi.no/finn-butikk/kiwi-641-torvastad"
+  },
+  {
+    "id": "4132",
+    "name": "KIWI 642 Lagårdsveien",
+    "lat": 58.95359453747583,
+    "lon": 5.741691738519686,
+    "address": "Lagårdsveien 127",
+    "postalCode": "4011",
+    "city": "STAVANGER",
+    "url": "https://kiwi.no/finn-butikk/kiwi-642-lagardsveien"
+  },
+  {
+    "id": "4207",
+    "name": "KIWI 643 Isvik",
+    "lat": 59.50083299193975,
+    "lon": 5.577690788841958,
+    "address": "Vikevegen 38",
+    "postalCode": "5574",
+    "city": "SKJOLD",
+    "url": "https://kiwi.no/finn-butikk/kiwi-643-isvik"
+  },
+  {
+    "id": "4224",
+    "name": "KIWI 645 Joa",
+    "lat": 58.90378145466372,
+    "lon": 5.662030943162865,
+    "address": "Austerheimvegen 5",
+    "postalCode": "4055",
+    "city": "SOLA",
+    "url": "https://kiwi.no/finn-butikk/kiwi-645-joa"
+  },
+  {
+    "id": "4225",
+    "name": "KIWI 646 Nærbø",
+    "lat": 58.66842350151711,
+    "lon": 5.643968484207445,
+    "address": "Bernervegen 27",
+    "postalCode": "4365",
+    "city": "NÆRBØ",
+    "url": "https://kiwi.no/finn-butikk/kiwi-646-narbo"
+  },
+  {
+    "id": "4153",
+    "name": "KIWI 647 Bryne Torg",
+    "lat": 58.734190393479096,
+    "lon": 5.647883430368441,
+    "address": "Jernbanegata 13",
+    "postalCode": "4340",
+    "city": "BRYNE",
+    "url": "https://kiwi.no/finn-butikk/kiwi-647-bryne-torg"
+  },
+  {
+    "id": "4259",
+    "name": "KIWI 648 Ålgård",
+    "lat": 58.76751498694026,
+    "lon": 5.860095607957869,
+    "address": "Sandnesveien 28",
+    "postalCode": "4330",
+    "city": "ÅLGÅRD",
+    "url": "https://kiwi.no/finn-butikk/kiwi-648-algard"
+  },
+  {
+    "id": "8152",
+    "name": "KIWI 649 Heiane",
+    "lat": 59.76099467821722,
+    "lon": 5.45635418575968,
+    "address": "Grønehaugen 2",
+    "postalCode": "5412",
+    "city": "STORD",
+    "url": "https://kiwi.no/finn-butikk/kiwi-649-heiane"
+  },
+  {
+    "id": "1320",
+    "name": "KIWI 651 Klepp",
+    "lat": 58.77593960333823,
+    "lon": 5.629122354586961,
+    "address": "K.K. Kleppes veg 2",
+    "postalCode": "4350",
+    "city": "KLEPPE",
+    "url": "https://kiwi.no/finn-butikk/kiwi-651-klepp"
+  },
+  {
+    "id": "4603",
+    "name": "KIWI 653 Eiekrysset",
+    "lat": 58.46062920757658,
+    "lon": 6.001384201971392,
+    "address": "Lindøyveien 1",
+    "postalCode": "4373",
+    "city": "EGERSUND",
+    "url": "https://kiwi.no/finn-butikk/kiwi-653-eiekrysset"
+  },
+  {
+    "id": "5164",
+    "name": "KIWI 655 Tvedtsenteret",
+    "lat": 58.89678524278714,
+    "lon": 5.70348242370461,
+    "address": "Lagerveien 9",
+    "postalCode": "4033",
+    "city": "STAVANGER",
+    "url": "https://kiwi.no/finn-butikk/kiwi-655-tvedtsenteret"
+  },
+  {
+    "id": "5310",
+    "name": "KIWI 657 Bryggen Hommersåk",
+    "lat": 58.9289914793572,
+    "lon": 5.850636764237632,
+    "address": "Kaiveien 27",
+    "postalCode": "4310",
+    "city": "HOMMERSÅK",
+    "url": "https://kiwi.no/finn-butikk/kiwi-657-bryggen-hommersak"
+  },
+  {
+    "id": "5308",
+    "name": "KIWI 659 Ølen Torg",
+    "lat": 59.603799857248525,
+    "lon": 5.807325081848047,
+    "address": "Sandeidvegen 3",
+    "postalCode": "5580",
+    "city": "ØLEN",
+    "url": "https://kiwi.no/finn-butikk/kiwi-659-olen-torg"
+  },
+  {
+    "id": "4698",
+    "name": "KIWI 668 Lundehaugen",
+    "lat": 58.829774774773156,
+    "lon": 5.726932847218678,
+    "address": "Jonastunet 2",
+    "postalCode": "4320",
+    "city": "SANDNES",
+    "url": "https://kiwi.no/finn-butikk/kiwi-668-lundehaugen"
+  },
+  {
+    "id": "2065",
+    "name": "KIWI 669 Sauda",
+    "lat": 59.650097364950305,
+    "lon": 6.3547916980074906,
+    "address": "Torggata 3",
+    "postalCode": "4200",
+    "city": "SAUDA",
+    "url": "https://kiwi.no/finn-butikk/kiwi-669-sauda"
+  },
+  {
+    "id": "5661",
+    "name": "KIWI 671 Egersund Sentrum",
+    "lat": 58.454362895619035,
+    "lon": 6.001814547715463,
+    "address": "Jernbaneveien 12",
+    "postalCode": "4370",
+    "city": "EGERSUND",
+    "url": "https://kiwi.no/finn-butikk/kiwi-671-egersund-sentrum"
+  },
+  {
+    "id": "4140",
+    "name": "KIWI 680 Moi",
+    "lat": 58.46103095803127,
+    "lon": 6.5388182646329085,
+    "address": "Hauklandsveien 22",
+    "postalCode": "4460",
+    "city": "MOI",
+    "url": "https://kiwi.no/finn-butikk/kiwi-680-moi"
+  },
+  {
+    "id": "2715",
+    "name": "KIWI 684 Øysenteret",
+    "lat": 59.00138577110808,
+    "lon": 5.724126886093876,
+    "address": "Østersveien 1",
+    "postalCode": "4083",
+    "city": "HUNDVÅG",
+    "url": "https://kiwi.no/finn-butikk/kiwi-684-oysenteret"
+  },
+  {
+    "id": "3335",
+    "name": "KIWI 685 Åsen",
+    "lat": 58.93634719707605,
+    "lon": 5.723553238537582,
+    "address": "Auglendsdalen 83",
+    "postalCode": "4017",
+    "city": "STAVANGER",
+    "url": "https://kiwi.no/finn-butikk/kiwi-685-asen"
+  },
+  {
+    "id": "4855",
+    "name": "KIWI 686 Gard Senter",
+    "lat": 59.42706298420707,
+    "lon": 5.263612947225661,
+    "address": "Nygårdsvegen 6",
+    "postalCode": "5515",
+    "city": "HAUGESUND",
+    "url": "https://kiwi.no/finn-butikk/kiwi-686-gard-senter"
+  },
+  {
+    "id": "4878",
+    "name": "KIWI 687 Hillevåg",
+    "lat": 58.9495435811382,
+    "lon": 5.741018545579817,
+    "address": "Gartnerveien 4",
+    "postalCode": "4016",
+    "city": "STAVANGER",
+    "url": "https://kiwi.no/finn-butikk/kiwi-687-hillevag"
+  },
+  {
+    "id": "5309",
+    "name": "KIWI 688 Gausel",
+    "lat": 58.91036553058182,
+    "lon": 5.727772118680908,
+    "address": "Boganesgeilen 3",
+    "postalCode": "4032",
+    "city": "STAVANGER",
+    "url": "https://kiwi.no/finn-butikk/kiwi-688-gausel"
+  },
+  {
+    "id": "5272",
+    "name": "KIWI 689 Porsmyrveien",
+    "lat": 58.87957071574765,
+    "lon": 5.726649307762772,
+    "address": "Porsmyrveien 1",
+    "postalCode": "4314",
+    "city": "SANDNES",
+    "url": "https://kiwi.no/finn-butikk/kiwi-689-porsmyrveien"
+  },
+  {
+    "id": "7699",
+    "name": "KIWI 690 Mosterhamn",
+    "lat": 59.70268843912271,
+    "lon": 5.374597082968474,
+    "address": "Mostravegen 548",
+    "postalCode": "5440",
+    "city": "MOSTERHAMN",
+    "url": "https://kiwi.no/finn-butikk/kiwi-690-mosterhamn"
+  },
+  {
+    "id": "7811",
+    "name": "KIWI 691 Norheim",
+    "lat": 59.38688242873588,
+    "lon": 5.315576804010012,
+    "address": "Spannavegen 309",
+    "postalCode": "5542",
+    "city": "KARMSUND",
+    "url": "https://kiwi.no/finn-butikk/kiwi-691-norheim"
+  },
+  {
+    "id": "7735",
+    "name": "KIWI 692 Middelthon",
+    "lat": 58.98303870192881,
+    "lon": 5.687037736191182,
+    "address": "Randabergveien 134",
+    "postalCode": "4027",
+    "city": "STAVANGER",
+    "url": "https://kiwi.no/finn-butikk/kiwi-692-middelthon"
+  },
+  {
+    "id": "1294",
+    "name": "KIWI 693 Kvernaland",
+    "lat": 58.77921362253548,
+    "lon": 5.721326399844553,
+    "address": "Theodor Dahls veg 2",
+    "postalCode": "4355",
+    "city": "KVERNALAND",
+    "url": "https://kiwi.no/finn-butikk/kiwi-693-kvernaland"
+  },
+  {
+    "id": "4495",
+    "name": "KIWI 694 Mosterøy",
+    "lat": 59.0640030342334,
+    "lon": 5.677301350917635,
+    "address": "Kyrkjeveien 15",
+    "postalCode": "4156",
+    "city": "MOSTERØY",
+    "url": "https://kiwi.no/finn-butikk/kiwi-694-mosteroy"
+  },
+  {
+    "id": "4477",
+    "name": "KIWI 695 Forusparken",
+    "lat": 58.890041598625054,
+    "lon": 5.737286931280842,
+    "address": "Forusparken 12",
+    "postalCode": "4031",
+    "city": "STAVANGER",
+    "url": "https://kiwi.no/finn-butikk/kiwi-695-forusparken"
+  },
+  {
+    "id": "4473",
+    "name": "KIWI 696 Skudesnes",
+    "lat": 59.14954903637443,
+    "lon": 5.255131554156818,
+    "address": "Nessagadå 1",
+    "postalCode": "4280",
+    "city": "SKUDENESHAVN",
+    "url": "https://kiwi.no/finn-butikk/kiwi-696-skudesnes"
+  },
+  {
+    "id": "4558",
+    "name": "KIWI 697 HSD",
+    "lat": 59.79649052356239,
+    "lon": 5.187582472610309,
+    "address": "Svortlandsvegen 79",
+    "postalCode": "5430",
+    "city": "BREMNES",
+    "url": "https://kiwi.no/finn-butikk/kiwi-697-hsd"
+  },
+  {
+    "id": "5493",
+    "name": "KIWI 698 Vågsgata",
+    "lat": 58.85312631086902,
+    "lon": 5.739676399838219,
+    "address": "Vågsgata 41",
+    "postalCode": "4306",
+    "city": "SANDNES",
+    "url": "https://kiwi.no/finn-butikk/kiwi-698-vagsgata"
+  },
+  {
+    "id": "2716",
+    "name": "KIWI 699 Tananger",
+    "lat": 58.93624853919368,
+    "lon": 5.587029562319238,
+    "address": "Skibmannsvegen 3",
+    "postalCode": "4056",
+    "city": "TANANGER",
+    "url": "https://kiwi.no/finn-butikk/kiwi-699-tananger"
+  },
+  {
+    "id": "3991",
+    "name": "KIWI 701 Vågsbygd Senter",
+    "lat": 58.124836237938794,
+    "lon": 7.953290474550866,
+    "address": "Kirsten Flagstads vei 32",
+    "postalCode": "4621",
+    "city": "KRISTIANSAND S",
+    "url": "https://kiwi.no/finn-butikk/kiwi-701-vagsbygd-senter"
+  },
+  {
+    "id": "3969",
+    "name": "KIWI 702 Langenes",
+    "lat": 58.07501798314411,
+    "lon": 7.862344139270256,
+    "address": "Langenesveien 290",
+    "postalCode": "4643",
+    "city": "SØGNE",
+    "url": "https://kiwi.no/finn-butikk/kiwi-702-langenes"
+  },
+  {
+    "id": "3970",
+    "name": "KIWI 703 Flekkefjord",
+    "lat": 58.29686971016337,
+    "lon": 6.661684437153677,
+    "address": "Brogaten 17",
+    "postalCode": "4400",
+    "city": "FLEKKEFJORD",
+    "url": "https://kiwi.no/finn-butikk/kiwi-703-flekkefjord"
+  },
+  {
+    "id": "2067",
+    "name": "KIWI 704 Risør",
+    "lat": 58.71774307159449,
+    "lon": 9.214150230797756,
+    "address": "Krags gate 124",
+    "postalCode": "4950",
+    "city": "RISØR",
+    "url": "https://kiwi.no/finn-butikk/kiwi-704-risor"
+  },
+  {
+    "id": "4043",
+    "name": "KIWI 708 Tvedestrand",
+    "lat": 58.627785933332696,
+    "lon": 8.916808283952534,
+    "address": "Industriveien 9",
+    "postalCode": "4900",
+    "city": "TVEDESTRAND",
+    "url": "https://kiwi.no/finn-butikk/kiwi-708-tvedestrand"
+  },
+  {
+    "id": "1227",
+    "name": "KIWI 709 Nyli",
+    "lat": 58.47401829048155,
+    "lon": 8.774267270861381,
+    "address": "Nyli Ringvei 21A",
+    "postalCode": "4844",
+    "city": "ARENDAL",
+    "url": "https://kiwi.no/finn-butikk/kiwi-709-nyli"
+  },
+  {
+    "id": "2026",
+    "name": "KIWI 711 Vanse",
+    "lat": 58.097435178149745,
+    "lon": 6.688835988777628,
+    "address": "Oreveien 11",
+    "postalCode": "4560",
+    "city": "VANSE",
+    "url": "https://kiwi.no/finn-butikk/kiwi-711-vanse"
+  },
+  {
+    "id": "2034",
+    "name": "KIWI 712 Tangvall",
+    "lat": 58.09782477097223,
+    "lon": 7.817656909710767,
+    "address": "Marie Føreids vei 4",
+    "postalCode": "4640",
+    "city": "SØGNE",
+    "url": "https://kiwi.no/finn-butikk/kiwi-712-tangvall"
+  },
+  {
+    "id": "2066",
+    "name": "KIWI 714 Hånes",
+    "lat": 58.18111860145407,
+    "lon": 8.08888497555135,
+    "address": "Hånesveien 61",
+    "postalCode": "4635",
+    "city": "KRISTIANSAND S",
+    "url": "https://kiwi.no/finn-butikk/kiwi-714-hanes"
+  },
+  {
+    "id": "4129",
+    "name": "KIWI 718 Myrene",
+    "lat": 58.46187838857861,
+    "lon": 8.752561142664398,
+    "address": "Myreneveien 6",
+    "postalCode": "4847",
+    "city": "ARENDAL",
+    "url": "https://kiwi.no/finn-butikk/kiwi-718-myrene"
+  },
+  {
+    "id": "2181",
+    "name": "KIWI 719 Nedenes",
+    "lat": 58.41638346086538,
+    "lon": 8.701302432171817,
+    "address": "Natvigveien 1",
+    "postalCode": "4823",
+    "city": "NEDENES",
+    "url": "https://kiwi.no/finn-butikk/kiwi-719-nedenes"
+  },
+  {
+    "id": "4102",
+    "name": "KIWI 720 Torvet",
+    "lat": 58.14583926059025,
+    "lon": 7.996213154370607,
+    "address": "Kirkegata 14A",
+    "postalCode": "4611",
+    "city": "KRISTIANSAND S",
+    "url": "https://kiwi.no/finn-butikk/kiwi-720-torvet"
+  },
+  {
+    "id": "4107",
+    "name": "KIWI 721 Arendal Sentrum",
+    "lat": 58.45931047522089,
+    "lon": 8.766456363325137,
+    "address": "Kirkegaten 2A",
+    "postalCode": "4836",
+    "city": "ARENDAL",
+    "url": "https://kiwi.no/finn-butikk/kiwi-721-arendal-sentrum"
+  },
+  {
+    "id": "2098",
+    "name": "KIWI 722 Blakstadheia",
+    "lat": 58.498004349115774,
+    "lon": 8.644339258822395,
+    "address": "Møllaveien 8",
+    "postalCode": "4820",
+    "city": "FROLAND",
+    "url": "https://kiwi.no/finn-butikk/kiwi-722-blakstadheia"
+  },
+  {
+    "id": "2099",
+    "name": "KIWI 723 Hamresanden",
+    "lat": 58.19306120059684,
+    "lon": 8.085806260479021,
+    "address": "Balchens vei 5",
+    "postalCode": "4656",
+    "city": "HAMRESANDEN",
+    "url": "https://kiwi.no/finn-butikk/kiwi-723-hamresanden"
+  },
+  {
+    "id": "4208",
+    "name": "KIWI 724 Hovden",
+    "lat": 59.55984914411159,
+    "lon": 7.357511190374559,
+    "address": "Setesdalsvegen 4264",
+    "postalCode": "4755",
+    "city": "HOVDEN I SETESDAL",
+    "url": "https://kiwi.no/finn-butikk/kiwi-724-hovden"
+  },
+  {
+    "id": "4280",
+    "name": "KIWI 725 Tingsaker",
+    "lat": 58.26171202486129,
+    "lon": 8.394462527262185,
+    "address": "Senterveien 22",
+    "postalCode": "4790",
+    "city": "LILLESAND",
+    "url": "https://kiwi.no/finn-butikk/kiwi-725-tingsaker"
+  },
+  {
+    "id": "4158",
+    "name": "KIWI 727 Stoa Øst",
+    "lat": 58.467734751551816,
+    "lon": 8.720808895803934,
+    "address": "Frolandsveien 180",
+    "postalCode": "4848",
+    "city": "ARENDAL",
+    "url": "https://kiwi.no/finn-butikk/kiwi-727-stoa-ost"
+  },
+  {
+    "id": "4165",
+    "name": "KIWI 728 Grimstad",
+    "lat": 58.34011222892207,
+    "lon": 8.582406977539991,
+    "address": "Grooseveien 2",
+    "postalCode": "4876",
+    "city": "GRIMSTAD",
+    "url": "https://kiwi.no/finn-butikk/kiwi-728-grimstad"
+  },
+  {
+    "id": "7777",
+    "name": "KIWI 730 Vennesla",
+    "lat": 58.26992528773453,
+    "lon": 7.972962421808576,
+    "address": "Sentrumsvegen 30A",
+    "postalCode": "4700",
+    "city": "VENNESLA",
+    "url": "https://kiwi.no/finn-butikk/kiwi-730-vennesla"
+  },
+  {
+    "id": "2110",
+    "name": "KIWI 731 Lyngdal",
+    "lat": 58.134034501033874,
+    "lon": 7.069489653994235,
+    "address": "Agnefestveien 30",
+    "postalCode": "4580",
+    "city": "LYNGDAL",
+    "url": "https://kiwi.no/finn-butikk/kiwi-731-lyngdal"
+  },
+  {
+    "id": "4926",
+    "name": "KIWI 732 Birkeland",
+    "lat": 58.33193033151121,
+    "lon": 8.231801573315241,
+    "address": "Strøget 91",
+    "postalCode": "4760",
+    "city": "BIRKELAND",
+    "url": "https://kiwi.no/finn-butikk/kiwi-732-birkeland"
+  },
+  {
+    "id": "7345",
+    "name": "KIWI 733 Saltrød",
+    "lat": 58.494790128385105,
+    "lon": 8.848456222698568,
+    "address": "Kystveien 690",
+    "postalCode": "4815",
+    "city": "SALTRØD",
+    "url": "https://kiwi.no/finn-butikk/kiwi-733-saltrod"
+  },
+  {
+    "id": "3920",
+    "name": "KIWI 734 Flekkerøy",
+    "lat": 58.076500919745826,
+    "lon": 7.9991114404075905,
+    "address": "Kvitefjellveien 7",
+    "postalCode": "4625",
+    "city": "FLEKKERØY",
+    "url": "https://kiwi.no/finn-butikk/kiwi-734-flekkeroy"
+  },
+  {
+    "id": "1245",
+    "name": "KIWI 735 Spangereid",
+    "lat": 58.04475387053017,
+    "lon": 7.143225896753105,
+    "address": "Bålyveien 5",
+    "postalCode": "4521",
+    "city": "LINDESNES",
+    "url": "https://kiwi.no/finn-butikk/kiwi-735-spangereid"
+  },
+  {
+    "id": "1235",
+    "name": "KIWI 736 Elvegata",
+    "lat": 58.148322053823065,
+    "lon": 8.004385324638674,
+    "address": "Kongens gate 75",
+    "postalCode": "4608",
+    "city": "KRISTIANSAND S",
+    "url": "https://kiwi.no/finn-butikk/kiwi-736-elvegata"
+  },
+  {
+    "id": "7742",
+    "name": "KIWI 737 Mandal",
+    "lat": 58.02738777886471,
+    "lon": 7.4744385247273915,
+    "address": "Sommerkroveien 3",
+    "postalCode": "4515",
+    "city": "MANDAL",
+    "url": "https://kiwi.no/finn-butikk/kiwi-737-mandal"
+  },
+  {
+    "id": "8137",
+    "name": "KIWI 738 Alleen Senter",
+    "lat": 58.156359113350796,
+    "lon": 7.101667978287991,
+    "address": "Fiboveien 1",
+    "postalCode": "4580",
+    "city": "LYNGDAL",
+    "url": "https://kiwi.no/finn-butikk/kiwi-738-alleen-senter"
+  },
+  {
+    "id": "7677",
+    "name": "KIWI 739 Sørlandsparken",
+    "lat": 58.17733629346361,
+    "lon": 8.129973766458182,
+    "address": "Barstølveien 60A",
+    "postalCode": "4636",
+    "city": "KRISTIANSAND S",
+    "url": "https://kiwi.no/finn-butikk/kiwi-739-sorlandsparken"
+  },
+  {
+    "id": "7739",
+    "name": "KIWI 740 Evje",
+    "lat": 58.58636416011181,
+    "lon": 7.8066727028759,
+    "address": "Smievegen 3",
+    "postalCode": "4735",
+    "city": "EVJE",
+    "url": "https://kiwi.no/finn-butikk/kiwi-740-evje"
+  },
+  {
+    "id": "7759",
+    "name": "KIWI 741 Vegårshei",
+    "lat": 58.749270005340094,
+    "lon": 8.864254959492168,
+    "address": "Hovlandsveien 1",
+    "postalCode": "4985",
+    "city": "VEGÅRSHEI",
+    "url": "https://kiwi.no/finn-butikk/kiwi-741-vegarshei"
+  },
+  {
+    "id": "7762",
+    "name": "KIWI 742 Borkedalen",
+    "lat": 58.24211881390177,
+    "lon": 8.363538206634775,
+    "address": "Vestre Kystvei 122",
+    "postalCode": "4790",
+    "city": "LILLESAND",
+    "url": "https://kiwi.no/finn-butikk/kiwi-742-borkedalen"
+  },
+  {
+    "id": "7774",
+    "name": "KIWI 743 Bergemoen",
+    "lat": 58.34298423612603,
+    "lon": 8.555118095915244,
+    "address": "Bergemoveien 45",
+    "postalCode": "4886",
+    "city": "GRIMSTAD",
+    "url": "https://kiwi.no/finn-butikk/kiwi-743-bergemoen"
+  },
+  {
+    "id": "2655",
+    "name": "KIWI 744 Biesletta",
+    "lat": 58.347022606789636,
+    "lon": 8.5967385133709,
+    "address": "Arendalsveien 25",
+    "postalCode": "4878",
+    "city": "GRIMSTAD",
+    "url": "https://kiwi.no/finn-butikk/kiwi-744-biesletta"
+  },
+  {
+    "id": "3353",
+    "name": "KIWI 745 Krøgenes",
+    "lat": 58.47337556626144,
+    "lon": 8.81576938409966,
+    "address": "Kystveien 240",
+    "postalCode": "4841",
+    "city": "ARENDAL",
+    "url": "https://kiwi.no/finn-butikk/kiwi-745-krogenes"
+  },
+  {
+    "id": "4884",
+    "name": "KIWI 746 Marnargården",
+    "lat": 58.029135212104734,
+    "lon": 7.460196728051263,
+    "address": "Skarvøyveien 34",
+    "postalCode": "4517",
+    "city": "MANDAL",
+    "url": "https://kiwi.no/finn-butikk/kiwi-746-marnargarden"
+  },
+  {
+    "id": "5635",
+    "name": "KIWI 747 Henrik Wergelands gate",
+    "lat": 58.14709658217382,
+    "lon": 7.9919185039468195,
+    "address": "Henrik Wergelands gate 28",
+    "postalCode": "4612",
+    "city": "KRISTIANSAND S",
+    "url": "https://kiwi.no/finn-butikk/kiwi-747-henrik-wergelands-gate"
+  },
+  {
+    "id": "3796",
+    "name": "KIWI 762 Dvergsnes",
+    "lat": 58.13344117581492,
+    "lon": 8.073867682513843,
+    "address": "Dvergsnesveien 180",
+    "postalCode": "4639",
+    "city": "KRISTIANSAND S",
+    "url": "https://kiwi.no/finn-butikk/kiwi-762-dvergsnes"
+  },
+  {
+    "id": "2101",
+    "name": "KIWI 766 Farsund",
+    "lat": 58.09558696473105,
+    "lon": 6.795128229062741,
+    "address": "Listerveien 46",
+    "postalCode": "4550",
+    "city": "FARSUND",
+    "url": "https://kiwi.no/finn-butikk/kiwi-766-farsund"
+  },
+  {
+    "id": "2147",
+    "name": "KIWI 775 Brennåsen",
+    "lat": 58.13518816765974,
+    "lon": 7.856422879410129,
+    "address": "Rosselandsvegen 6",
+    "postalCode": "4647",
+    "city": "BRENNÅSEN",
+    "url": "https://kiwi.no/finn-butikk/kiwi-775-brennasen"
+  },
+  {
+    "id": "3960",
+    "name": "KIWI 784 Søm",
+    "lat": 58.151923890081285,
+    "lon": 8.057588567720238,
+    "address": "Vardåsveien 71",
+    "postalCode": "4637",
+    "city": "KRISTIANSAND S",
+    "url": "https://kiwi.no/finn-butikk/kiwi-784-som"
+  },
+  {
+    "id": "3961",
+    "name": "KIWI 785 Lund",
+    "lat": 58.15284348496597,
+    "lon": 8.024648927149821,
+    "address": "Stadionveien 4",
+    "postalCode": "4632",
+    "city": "KRISTIANSAND S",
+    "url": "https://kiwi.no/finn-butikk/kiwi-785-lund"
+  },
+  {
+    "id": "3993",
+    "name": "KIWI 790 Søndeled",
+    "lat": 58.76038757584989,
+    "lon": 9.07588490269939,
+    "address": "Øren 37",
+    "postalCode": "4990",
+    "city": "SØNDELED",
+    "url": "https://kiwi.no/finn-butikk/kiwi-790-sondeled"
+  },
+  {
+    "id": "4215",
+    "name": "KIWI 795 Ole Olsen",
+    "lat": 58.249225558340335,
+    "lon": 8.376498452470601,
+    "address": "Storgata 2E",
+    "postalCode": "4790",
+    "city": "LILLESAND",
+    "url": "https://kiwi.no/finn-butikk/kiwi-795-ole-olsen"
+  },
+  {
+    "id": "1175",
+    "name": "KIWI 798 Bjorbekk",
+    "lat": 58.43886909107376,
+    "lon": 8.708043786858338,
+    "address": "Rykeneveien 109",
+    "postalCode": "4824",
+    "city": "BJORBEKK",
+    "url": "https://kiwi.no/finn-butikk/kiwi-798-bjorbekk"
+  },
+  {
+    "id": "2085",
+    "name": "KIWI 800 Sund Senter",
+    "lat": 60.270138377200574,
+    "lon": 5.072855238024356,
+    "address": "Skogsleitet 16",
+    "postalCode": "5382",
+    "city": "SKOGSVÅG",
+    "url": "https://kiwi.no/finn-butikk/kiwi-800-sund-senter"
+  },
+  {
+    "id": "2084",
+    "name": "KIWI 801 Frekhaug",
+    "lat": 60.51756294037776,
+    "lon": 5.239960718829048,
+    "address": "Havnevegen 37",
+    "postalCode": "5918",
+    "city": "FREKHAUG",
+    "url": "https://kiwi.no/finn-butikk/kiwi-801-frekhaug"
+  },
+  {
+    "id": "3352",
+    "name": "KIWI 802 Storebotn",
+    "lat": 60.44107693071471,
+    "lon": 5.182324289129236,
+    "address": "Storebotn 1",
+    "postalCode": "5309",
+    "city": "KLEPPESTØ",
+    "url": "https://kiwi.no/finn-butikk/kiwi-802-storebotn"
+  },
+  {
+    "id": "3973",
+    "name": "KIWI 803 Jonas Lies Vei",
+    "lat": 60.375413731551326,
+    "lon": 5.348795661089201,
+    "address": "Jonas Lies vei 62",
+    "postalCode": "5053",
+    "city": "BERGEN",
+    "url": "https://kiwi.no/finn-butikk/kiwi-803-jonas-lies-vei"
+  },
+  {
+    "id": "2100",
+    "name": "KIWI 804 Øygarden",
+    "lat": 60.512708643284235,
+    "lon": 4.910383276838633,
+    "address": "Haugetunvegen 32",
+    "postalCode": "5337",
+    "city": "RONG",
+    "url": "https://kiwi.no/finn-butikk/kiwi-804-oygarden"
+  },
+  {
+    "id": "2920",
+    "name": "KIWI 805 Nordås",
+    "lat": 60.30546261406407,
+    "lon": 5.326696340215627,
+    "address": "Nordåsdalen 42",
+    "postalCode": "5235",
+    "city": "RÅDAL",
+    "url": "https://kiwi.no/finn-butikk/kiwi-805-nordas"
+  },
+  {
+    "id": "405",
+    "name": "KIWI 806 Olsvik",
+    "lat": 60.382270244818244,
+    "lon": 5.2191600716860975,
+    "address": "Olsvikåsen 8A",
+    "postalCode": "5183",
+    "city": "OLSVIK",
+    "url": "https://kiwi.no/finn-butikk/kiwi-806-olsvik"
+  },
+  {
+    "id": "401",
+    "name": "KIWI 808 Laksevåg Senter",
+    "lat": 60.38933297421602,
+    "lon": 5.286434882309002,
+    "address": "KRINGSJÅVEIEN 83/89",
+    "postalCode": "5163",
+    "city": "LAKSEVÅG",
+    "url": "https://kiwi.no/finn-butikk/kiwi-808-laksevag-senter"
+  },
+  {
+    "id": "7713",
+    "name": "KIWI 809 Paradis",
+    "lat": 60.33214074339704,
+    "lon": 5.3489578464169325,
+    "address": "Tjernvegen 30",
+    "postalCode": "5232",
+    "city": "PARADIS",
+    "url": "https://kiwi.no/finn-butikk/kiwi-809-paradis"
+  },
+  {
+    "id": "4661",
+    "name": "KIWI 810 Holme",
+    "lat": 60.530790866518856,
+    "lon": 5.156723374664994,
+    "address": "Melandsvegen 6",
+    "postalCode": "5919",
+    "city": "FREKHAUG",
+    "url": "https://kiwi.no/finn-butikk/kiwi-810-holme"
+  },
+  {
+    "id": "2161",
+    "name": "KIWI 811 Palmafossen",
+    "lat": 60.636547360383695,
+    "lon": 6.46555517606258,
+    "address": "Tjukkebygdvegen 16",
+    "postalCode": "5706",
+    "city": "VOSS",
+    "url": "https://kiwi.no/finn-butikk/kiwi-811-palmafossen"
+  },
+  {
+    "id": "2162",
+    "name": "KIWI 812 Vangen",
+    "lat": 60.62810639928538,
+    "lon": 6.419717686769502,
+    "address": "Uttrågata 11",
+    "postalCode": "5700",
+    "city": "VOSS",
+    "url": "https://kiwi.no/finn-butikk/kiwi-812-vangen"
+  },
+  {
+    "id": "1169",
+    "name": "KIWI 813 Strømgaten",
+    "lat": 60.387224978234244,
+    "lon": 5.327623069686944,
+    "address": "Strømgaten 38",
+    "postalCode": "5008",
+    "city": "BERGEN",
+    "url": "https://kiwi.no/finn-butikk/kiwi-813-stromgaten"
+  },
+  {
+    "id": "4285",
+    "name": "KIWI 814 Tertnes",
+    "lat": 60.45569767882885,
+    "lon": 5.295332989678826,
+    "address": "Tertnesveien 88",
+    "postalCode": "5113",
+    "city": "TERTNES",
+    "url": "https://kiwi.no/finn-butikk/kiwi-814-tertnes"
+  },
+  {
+    "id": "7412",
+    "name": "KIWI 815 Gudridflaten",
+    "lat": 60.20407536964145,
+    "lon": 5.453510510792333,
+    "address": "Gudridflaten 3",
+    "postalCode": "5210",
+    "city": "OS",
+    "url": "https://kiwi.no/finn-butikk/kiwi-815-gudridflaten"
+  },
+  {
+    "id": "7665",
+    "name": "KIWI 816 Ågotnes",
+    "lat": 60.40363810681379,
+    "lon": 5.018062727979028,
+    "address": "Skjergardsvegen 1309",
+    "postalCode": "5363",
+    "city": "ÅGOTNES",
+    "url": "https://kiwi.no/finn-butikk/kiwi-816-agotnes"
+  },
+  {
+    "id": "8633",
+    "name": "KIWI 817 Sandsli",
+    "lat": 60.2922938009149,
+    "lon": 5.285088780549585,
+    "address": "Sandslihaugen 1",
+    "postalCode": "5254",
+    "city": "SANDSLI",
+    "url": "https://kiwi.no/finn-butikk/kiwi-817-sandsli"
+  },
+  {
+    "id": "8635",
+    "name": "KIWI 818 Bøhmergaten",
+    "lat": 60.375839251122635,
+    "lon": 5.334859440610663,
+    "address": "Bøhmergaten 44",
+    "postalCode": "5057",
+    "city": "BERGEN",
+    "url": "https://kiwi.no/finn-butikk/kiwi-818-bohmergaten"
+  },
+  {
+    "id": "1296",
+    "name": "KIWI 819 Høyanger",
+    "lat": 61.219322331829616,
+    "lon": 6.0729469732603265,
+    "address": "Marcus Thranesgate 5",
+    "postalCode": "6993",
+    "city": "HØYANGER",
+    "url": "https://kiwi.no/finn-butikk/kiwi-819-hoyanger"
+  },
+  {
+    "id": "7714",
+    "name": "KIWI 820 Thon Senter Åsane",
+    "lat": 60.466235873390524,
+    "lon": 5.322603079708466,
+    "address": "Åsane Senter 42",
+    "postalCode": "5116",
+    "city": "ULSET",
+    "url": "https://kiwi.no/finn-butikk/kiwi-820-thon-senter-asane"
+  },
+  {
+    "id": "2062",
+    "name": "KIWI 821 Haus",
+    "lat": 60.45361179169424,
+    "lon": 5.493785352490632,
+    "address": "Haus 45",
+    "postalCode": "5286",
+    "city": "HAUS",
+    "url": "https://kiwi.no/finn-butikk/kiwi-821-haus"
+  },
+  {
+    "id": "3894",
+    "name": "KIWI 822 Husnes",
+    "lat": 59.86016305099134,
+    "lon": 5.754406210169667,
+    "address": "Sentrumsvegen 41",
+    "postalCode": "5460",
+    "city": "HUSNES",
+    "url": "https://kiwi.no/finn-butikk/kiwi-822-husnes"
+  },
+  {
+    "id": "3893",
+    "name": "KIWI 823 Spelhaugen",
+    "lat": 60.34978782467818,
+    "lon": 5.276855676222173,
+    "address": "Krokatjønnveien 11A",
+    "postalCode": "5147",
+    "city": "FYLLINGSDALEN",
+    "url": "https://kiwi.no/finn-butikk/kiwi-823-spelhaugen"
+  },
+  {
+    "id": "1280",
+    "name": "KIWI 825 Nyborg",
+    "lat": 60.46744406292518,
+    "lon": 5.345914265289666,
+    "address": "Liakroken 2A",
+    "postalCode": "5132",
+    "city": "NYBORG",
+    "url": "https://kiwi.no/finn-butikk/kiwi-825-nyborg"
+  },
+  {
+    "id": "8146",
+    "name": "KIWI 826 Allehelgensgate",
+    "lat": 60.39323828025135,
+    "lon": 5.327942769702329,
+    "address": "ALLEHELGENS GATE 2",
+    "postalCode": "5016",
+    "city": "BERGEN",
+    "url": "https://kiwi.no/finn-butikk/kiwi-826-allehelgensgate"
+  },
+  {
+    "id": "3971",
+    "name": "KIWI 827 Ørsta",
+    "lat": 62.202525734251964,
+    "lon": 6.144150740944637,
+    "address": "Håkonsgate 16",
+    "postalCode": "6153",
+    "city": "ØRSTA",
+    "url": "https://kiwi.no/finn-butikk/kiwi-827-orsta"
+  },
+  {
+    "id": "4579",
+    "name": "KIWI 828 Midtun",
+    "lat": 60.32124110863736,
+    "lon": 5.370057316730447,
+    "address": "Ulsmågskaret 1",
+    "postalCode": "5224",
+    "city": "NESTTUN",
+    "url": "https://kiwi.no/finn-butikk/kiwi-828-midtun"
+  },
+  {
+    "id": "6628",
+    "name": "KIWI 830 Skjellebreida Volda",
+    "lat": 62.145350431031375,
+    "lon": 6.074459987683594,
+    "address": "Røysbakken 3",
+    "postalCode": "6100",
+    "city": "VOLDA",
+    "url": "https://kiwi.no/finn-butikk/kiwi-830-skjellebreida-volda"
+  },
+  {
+    "id": "2030",
+    "name": "KIWI 831 Ikenberget",
+    "lat": 60.56150265295048,
+    "lon": 5.250617509851255,
+    "address": "Blombakken 2",
+    "postalCode": "5911",
+    "city": "ALVERSUND",
+    "url": "https://kiwi.no/finn-butikk/kiwi-831-ikenberget"
+  },
+  {
+    "id": "4023",
+    "name": "KIWI 832 Sundgata",
+    "lat": 62.470969784309986,
+    "lon": 6.166737785781022,
+    "address": "Sundgata 8",
+    "postalCode": "6003",
+    "city": "ÅLESUND",
+    "url": "https://kiwi.no/finn-butikk/kiwi-832-sundgata"
+  },
+  {
+    "id": "3437",
+    "name": "KIWI 833 Damsgårdssundet",
+    "lat": 60.37967199393143,
+    "lon": 5.324588685835113,
+    "address": "Damsgårdsveien 62",
+    "postalCode": "5058",
+    "city": "BERGEN",
+    "url": "https://kiwi.no/finn-butikk/kiwi-833-damsgardssundet"
+  },
+  {
+    "id": "5676",
+    "name": "KIWI 834 Kråkenes",
+    "lat": 60.338522581589785,
+    "lon": 5.321325207514734,
+    "address": "Øvre Kråkenes 51",
+    "postalCode": "5152",
+    "city": "BØNES",
+    "url": "https://kiwi.no/finn-butikk/kiwi-834-krakenes"
+  },
+  {
+    "id": "4871",
+    "name": "KIWI 835 Valle",
+    "lat": 60.291597185349815,
+    "lon": 5.380258539133659,
+    "address": "Hatlestad Terrasse 1",
+    "postalCode": "5227",
+    "city": "NESTTUN",
+    "url": "https://kiwi.no/finn-butikk/kiwi-835-valle"
+  },
+  {
+    "id": "4582",
+    "name": "KIWI 836 Nesttun Sentrum",
+    "lat": 60.32006554956122,
+    "lon": 5.353388537715517,
+    "address": "Nesttunvegen 90",
+    "postalCode": "5221",
+    "city": "NESTTUN",
+    "url": "https://kiwi.no/finn-butikk/kiwi-836-nesttun-sentrum"
+  },
+  {
+    "id": "4845",
+    "name": "KIWI 837 Ågotnes Torg",
+    "lat": 60.403175082763795,
+    "lon": 5.000344046442167,
+    "address": "Skjergardsvegen 1384",
+    "postalCode": "5363",
+    "city": "ÅGOTNES",
+    "url": "https://kiwi.no/finn-butikk/kiwi-837-agotnes-torg"
+  },
+  {
+    "id": "5643",
+    "name": "KIWI 838 Skjenet",
+    "lat": 60.36480032902219,
+    "lon": 5.120123136041895,
+    "address": "Skjenet 8",
+    "postalCode": "5354",
+    "city": "STRAUME",
+    "url": "https://kiwi.no/finn-butikk/kiwi-838-skjenet"
+  },
+  {
+    "id": "5633",
+    "name": "KIWI 839 Spectrum",
+    "lat": 60.3507467112423,
+    "lon": 5.288654043234344,
+    "address": "Folke Bernadottes vei 44",
+    "postalCode": "5147",
+    "city": "FYLLINGSDALEN",
+    "url": "https://kiwi.no/finn-butikk/kiwi-839-spectrum"
+  },
+  {
+    "id": "1258",
+    "name": "KIWI 841 Skodje",
+    "lat": 62.50345316780438,
+    "lon": 6.6969496785392435,
+    "address": "Skodjevegen 424",
+    "postalCode": "6260",
+    "city": "SKODJE",
+    "url": "https://kiwi.no/finn-butikk/kiwi-841-skodje"
+  },
+  {
+    "id": "5632",
+    "name": "KIWI 842 Gullgruven",
+    "lat": 60.47261421726288,
+    "lon": 5.3329027611875635,
+    "address": "Liamyrane 1",
+    "postalCode": "5132",
+    "city": "NYBORG",
+    "url": "https://kiwi.no/finn-butikk/kiwi-842-gullgruven"
+  },
+  {
+    "id": "4168",
+    "name": "KIWI 843 Volda",
+    "lat": 62.14656352142488,
+    "lon": 6.089526764775617,
+    "address": "Vikebygdvegen 2A",
+    "postalCode": "6103",
+    "city": "VOLDA",
+    "url": "https://kiwi.no/finn-butikk/kiwi-843-volda"
+  },
+  {
+    "id": "4120",
+    "name": "KIWI 844 Sykkylven",
+    "lat": 62.39125083619645,
+    "lon": 6.581653354980124,
+    "address": "Storgata 10",
+    "postalCode": "6230",
+    "city": "SYKKYLVEN",
+    "url": "https://kiwi.no/finn-butikk/kiwi-844-sykkylven"
+  },
+  {
+    "id": "4128",
+    "name": "KIWI 845 Kristiansund Sentrum",
+    "lat": 63.113041292638464,
+    "lon": 7.727458331764111,
+    "address": "President Christies gate 19",
+    "postalCode": "6509",
+    "city": "KRISTIANSUND N",
+    "url": "https://kiwi.no/finn-butikk/kiwi-845-kristiansund-sentrum"
+  },
+  {
+    "id": "2917",
+    "name": "KIWI 847 Hilleren",
+    "lat": 60.33782461268552,
+    "lon": 5.20085083537712,
+    "address": "Hillerenveien 114",
+    "postalCode": "5174",
+    "city": "MATHOPEN",
+    "url": "https://kiwi.no/finn-butikk/kiwi-847-hilleren"
+  },
+  {
+    "id": "6656",
+    "name": "KIWI 849 Skarbøvik",
+    "lat": 62.46669538821056,
+    "lon": 6.114143305008755,
+    "address": "Skarbøvikgt.25",
+    "postalCode": "6006",
+    "city": "ÅLESUND",
+    "url": "https://kiwi.no/finn-butikk/kiwi-849-skarbovik"
+  },
+  {
+    "id": "5381",
+    "name": "KIWI 851 Førde",
+    "lat": 61.44589428923073,
+    "lon": 5.888289426312766,
+    "address": "Sanderplassen 5",
+    "postalCode": "6813",
+    "city": "FØRDE",
+    "url": "https://kiwi.no/finn-butikk/kiwi-851-forde"
+  },
+  {
+    "id": "1240",
+    "name": "KIWI 852 Dalsøren",
+    "lat": 61.34743888143006,
+    "lon": 5.064582638608662,
+    "address": "Askvollvegen 409",
+    "postalCode": "6980",
+    "city": "ASKVOLL",
+    "url": "https://kiwi.no/finn-butikk/kiwi-852-dalsoren"
+  },
+  {
+    "id": "4018",
+    "name": "KIWI 853 Ulset",
+    "lat": 60.46378021685962,
+    "lon": 5.304004830720163,
+    "address": "Fossekleiva 39",
+    "postalCode": "5119",
+    "city": "ULSET",
+    "url": "https://kiwi.no/finn-butikk/kiwi-853-ulset"
+  },
+  {
+    "id": "1231",
+    "name": "KIWI 854 Møvik",
+    "lat": 60.326885798957235,
+    "lon": 5.020538591917451,
+    "address": "Signalvegen 1",
+    "postalCode": "5357",
+    "city": "FJELL",
+    "url": "https://kiwi.no/finn-butikk/kiwi-854-movik"
+  },
+  {
+    "id": "2141",
+    "name": "KIWI 855 Bjørgeveien",
+    "lat": 60.350954894681315,
+    "lon": 5.2446944437606815,
+    "address": "Bjørndalsstølen 2",
+    "postalCode": "5170",
+    "city": "BJØRNDALSTRÆ",
+    "url": "https://kiwi.no/finn-butikk/kiwi-855-bjorgeveien"
+  },
+  {
+    "id": "4020",
+    "name": "KIWI 856 Sørås",
+    "lat": 60.297423009519235,
+    "lon": 5.316893903109648,
+    "address": "Folldalslia 1L",
+    "postalCode": "5239",
+    "city": "RÅDAL",
+    "url": "https://kiwi.no/finn-butikk/kiwi-856-soras"
+  },
+  {
+    "id": "4021",
+    "name": "KIWI 857 Kleppestø",
+    "lat": 60.410192504050926,
+    "lon": 5.227166225740139,
+    "address": "Gamle Kleppestøvegen 2",
+    "postalCode": "5300",
+    "city": "KLEPPESTØ",
+    "url": "https://kiwi.no/finn-butikk/kiwi-857-kleppesto"
+  },
+  {
+    "id": "4022",
+    "name": "KIWI 858 Birkeveien",
+    "lat": 60.360617619609926,
+    "lon": 5.364803818288557,
+    "address": "Birkeveien 43",
+    "postalCode": "5089",
+    "city": "BERGEN",
+    "url": "https://kiwi.no/finn-butikk/kiwi-858-birkeveien"
+  },
+  {
+    "id": "3897",
+    "name": "KIWI 859 Moberg",
+    "lat": 60.18143535381893,
+    "lon": 5.453939732926641,
+    "address": "Storhaugen 2",
+    "postalCode": "5209",
+    "city": "OS",
+    "url": "https://kiwi.no/finn-butikk/kiwi-859-moberg"
+  },
+  {
+    "id": "4024",
+    "name": "KIWI 860 Hermansverk",
+    "lat": 61.18303930909525,
+    "lon": 6.852826880401531,
+    "address": "",
+    "postalCode": "6863",
+    "city": "LEIKANGER",
+    "url": "https://kiwi.no/finn-butikk/kiwi-860-hermansverk"
+  },
+  {
+    "id": "3428",
+    "name": "KIWI 861 Idrettsvegen",
+    "lat": 60.19750624901416,
+    "lon": 5.458796167142885,
+    "address": "Idrettsvegen 2",
+    "postalCode": "5210",
+    "city": "OS",
+    "url": "https://kiwi.no/finn-butikk/kiwi-861-idrettsvegen"
+  },
+  {
+    "id": "8150",
+    "name": "KIWI 862 Krokeideveien",
+    "lat": 60.26225350755674,
+    "lon": 5.342643715542991,
+    "address": "Krokeidevegen 13",
+    "postalCode": "5244",
+    "city": "FANA",
+    "url": "https://kiwi.no/finn-butikk/kiwi-862-krokeideveien"
+  },
+  {
+    "id": "1274",
+    "name": "KIWI 863 Juvik",
+    "lat": 60.43046427042165,
+    "lon": 5.188737240593058,
+    "address": "Juvikflaten 36",
+    "postalCode": "5308",
+    "city": "KLEPPESTØ",
+    "url": "https://kiwi.no/finn-butikk/kiwi-863-juvik"
+  },
+  {
+    "id": "4063",
+    "name": "KIWI 865 Kronstad X",
+    "lat": 60.37181844766947,
+    "lon": 5.347818773914105,
+    "address": "Bjørnsons gate 29",
+    "postalCode": "5052",
+    "city": "BERGEN",
+    "url": "https://kiwi.no/finn-butikk/kiwi-865-kronstad-x"
+  },
+  {
+    "id": "2687",
+    "name": "KIWI 866 Hylkje",
+    "lat": 60.509752905416306,
+    "lon": 5.347896570572022,
+    "address": "Hylkjebakken 3",
+    "postalCode": "5109",
+    "city": "HYLKJE",
+    "url": "https://kiwi.no/finn-butikk/kiwi-866-hylkje"
+  },
+  {
+    "id": "2090",
+    "name": "KIWI 867 Hetlevikåsen",
+    "lat": 60.350541884395334,
+    "lon": 5.227754010950958,
+    "address": "Mathopsveien 58",
+    "postalCode": "5173",
+    "city": "LODDEFJORD",
+    "url": "https://kiwi.no/finn-butikk/kiwi-867-hetlevikasen"
+  },
+  {
+    "id": "4026",
+    "name": "KIWI 868 Skjoldskiftet",
+    "lat": 60.31317868520026,
+    "lon": 5.3569300248043445,
+    "address": "Osvegen 3",
+    "postalCode": "5228",
+    "city": "NESTTUN",
+    "url": "https://kiwi.no/finn-butikk/kiwi-868-skjoldskiftet"
+  },
+  {
+    "id": "2000",
+    "name": "KIWI 869 Kvassnesvegen Knarvik",
+    "lat": 60.54610027990678,
+    "lon": 5.290957552949817,
+    "address": "Kvassnesvegen 42",
+    "postalCode": "5914",
+    "city": "ISDALSTØ",
+    "url": "https://kiwi.no/finn-butikk/kiwi-869-kvassnesvegen-knarvik"
+  },
+  {
+    "id": "4101",
+    "name": "KIWI 870 Florvåg",
+    "lat": 60.420075396037376,
+    "lon": 5.239400735022625,
+    "address": "Florvågvegen 93",
+    "postalCode": "5305",
+    "city": "FLORVÅG",
+    "url": "https://kiwi.no/finn-butikk/kiwi-870-florvag"
+  },
+  {
+    "id": "4103",
+    "name": "KIWI 871 Fjaler",
+    "lat": 61.36398725809211,
+    "lon": 5.399906872138912,
+    "address": "Dalstunet 6A",
+    "postalCode": "6963",
+    "city": "DALE I SUNNFJORD",
+    "url": "https://kiwi.no/finn-butikk/kiwi-871-fjaler"
+  },
+  {
+    "id": "4045",
+    "name": "KIWI 872 Skulestadmo",
+    "lat": 60.660078275836625,
+    "lon": 6.435187114813821,
+    "address": "Fitjavegen 5",
+    "postalCode": "5710",
+    "city": "SKULESTADMO",
+    "url": "https://kiwi.no/finn-butikk/kiwi-872-skulestadmo"
+  },
+  {
+    "id": "4108",
+    "name": "KIWI 873 Hamrehjørnet",
+    "lat": 60.382075118170974,
+    "lon": 5.30428982058586,
+    "address": "Gabriel Tischendorfs vei 16",
+    "postalCode": "5162",
+    "city": "LAKSEVÅG",
+    "url": "https://kiwi.no/finn-butikk/kiwi-873-hamrehjornet"
+  },
+  {
+    "id": "4109",
+    "name": "KIWI 874 Lindås Senter",
+    "lat": 60.73937493130939,
+    "lon": 5.160606234838067,
+    "address": "Kolåsvegen 7",
+    "postalCode": "5955",
+    "city": "LINDÅS",
+    "url": "https://kiwi.no/finn-butikk/kiwi-874-lindas-senter"
+  },
+  {
+    "id": "4127",
+    "name": "KIWI 875 Birkelundstoppen",
+    "lat": 60.34468740649054,
+    "lon": 5.363695422406773,
+    "address": "Birkelundsbakken 59",
+    "postalCode": "5231",
+    "city": "PARADIS",
+    "url": "https://kiwi.no/finn-butikk/kiwi-875-birkelundstoppen"
+  },
+  {
+    "id": "4131",
+    "name": "KIWI 876 Bjørkheim",
+    "lat": 60.40143062446971,
+    "lon": 5.730812968245008,
+    "address": "Bjørkheim 10",
+    "postalCode": "5652",
+    "city": "ÅRLAND",
+    "url": "https://kiwi.no/finn-butikk/kiwi-876-bjorkheim"
+  },
+  {
+    "id": "4138",
+    "name": "KIWI 877 Øystese",
+    "lat": 60.386756936473745,
+    "lon": 6.199508833225896,
+    "address": "Sjusetevegen 6",
+    "postalCode": "5610",
+    "city": "ØYSTESE",
+    "url": "https://kiwi.no/finn-butikk/kiwi-877-oystese"
+  },
+  {
+    "id": "4144",
+    "name": "KIWI 878 Birkebeinersenteret",
+    "lat": 60.39986238145956,
+    "lon": 5.323726452941854,
+    "address": "Nye Sandviksveien 9",
+    "postalCode": "5003",
+    "city": "BERGEN",
+    "url": "https://kiwi.no/finn-butikk/kiwi-878-birkebeinersenteret"
+  },
+  {
+    "id": "1239",
+    "name": "KIWI 879 Rolland",
+    "lat": 60.4621005326829,
+    "lon": 5.329732998125151,
+    "address": "Rollandslia 51",
+    "postalCode": "5115",
+    "city": "ULSET",
+    "url": "https://kiwi.no/finn-butikk/kiwi-879-rolland"
+  },
+  {
+    "id": "4233",
+    "name": "KIWI 880 Strandgaten Bergen",
+    "lat": 60.39742446832102,
+    "lon": 5.3113394295517,
+    "address": "Strandgaten 204",
+    "postalCode": "5004",
+    "city": "BERGEN",
+    "url": "https://kiwi.no/finn-butikk/kiwi-880-strandgaten-bergen"
+  },
+  {
+    "id": "4256",
+    "name": "KIWI 881 Nøstet",
+    "lat": 60.391414168224664,
+    "lon": 5.314636101286042,
+    "address": "Nøstegaten 31",
+    "postalCode": "5011",
+    "city": "BERGEN",
+    "url": "https://kiwi.no/finn-butikk/kiwi-881-nostet"
+  },
+  {
+    "id": "4245",
+    "name": "KIWI 882 Godvik",
+    "lat": 60.370733302212166,
+    "lon": 5.191909305503018,
+    "address": "Alvehaugen 4",
+    "postalCode": "5179",
+    "city": "GODVIK",
+    "url": "https://kiwi.no/finn-butikk/kiwi-882-godvik"
+  },
+  {
+    "id": "1450",
+    "name": "KIWI 883 Florø",
+    "lat": 61.600611155425135,
+    "lon": 5.0442460571851315,
+    "address": "Leirvåggata 17",
+    "postalCode": "6900",
+    "city": "FLORØ",
+    "url": "https://kiwi.no/finn-butikk/kiwi-883-floro"
+  },
+  {
+    "id": "4255",
+    "name": "KIWI 884 Arnatveit",
+    "lat": 60.4073032501125,
+    "lon": 5.475755795730557,
+    "address": "ARNATVEITVEGEN 155",
+    "postalCode": "5262",
+    "city": "ARNATVEIT",
+    "url": "https://kiwi.no/finn-butikk/kiwi-884-arnatveit"
+  },
+  {
+    "id": "4287",
+    "name": "KIWI 885 Haugsneset",
+    "lat": 60.18378591958281,
+    "lon": 5.4744982912274835,
+    "address": "Steinneset 2",
+    "postalCode": "5200",
+    "city": "OS",
+    "url": "https://kiwi.no/finn-butikk/kiwi-885-haugsneset"
+  },
+  {
+    "id": "4299",
+    "name": "KIWI 886 Oasen",
+    "lat": 60.34895543237811,
+    "lon": 5.29177180465327,
+    "address": "Folke Bernadottes vei 52",
+    "postalCode": "5147",
+    "city": "FYLLINGSDALEN",
+    "url": "https://kiwi.no/finn-butikk/kiwi-886-oasen"
+  },
+  {
+    "id": "4286",
+    "name": "KIWI 887 Toppe",
+    "lat": 60.48592850436533,
+    "lon": 5.271808440122461,
+    "address": "Nordre Toppe 1",
+    "postalCode": "5136",
+    "city": "MJØLKERÅEN",
+    "url": "https://kiwi.no/finn-butikk/kiwi-887-toppe"
+  },
+  {
+    "id": "4296",
+    "name": "KIWI 888 Indre Arna",
+    "lat": 60.42472539443354,
+    "lon": 5.470643197819375,
+    "address": "Stølsvegen 1",
+    "postalCode": "5260",
+    "city": "INDRE ARNA",
+    "url": "https://kiwi.no/finn-butikk/kiwi-888-indre-arna"
+  },
+  {
+    "id": "4162",
+    "name": "KIWI 889 Søreide",
+    "lat": 60.315592643405935,
+    "lon": 5.270371315150555,
+    "address": "Ytrebygdsvegen 41",
+    "postalCode": "5251",
+    "city": "SØREIDGREND",
+    "url": "https://kiwi.no/finn-butikk/kiwi-889-soreide"
+  },
+  {
+    "id": "4123",
+    "name": "KIWI 891 Langmyrveien",
+    "lat": 62.74361300981284,
+    "lon": 7.169478224987703,
+    "address": "Langmyrvegen 19B",
+    "postalCode": "6413",
+    "city": "MOLDE",
+    "url": "https://kiwi.no/finn-butikk/kiwi-891-langmyrveien"
+  },
+  {
+    "id": "4219",
+    "name": "KIWI 892 Bergmo",
+    "lat": 62.744781867867864,
+    "lon": 7.21434271955917,
+    "address": "Nøisomhedvegen 19",
+    "postalCode": "6419",
+    "city": "MOLDE",
+    "url": "https://kiwi.no/finn-butikk/kiwi-892-bergmo"
+  },
+  {
+    "id": "4263",
+    "name": "KIWI 894 Øran",
+    "lat": 62.55855203661502,
+    "lon": 7.681447653614582,
+    "address": "Øravegen 12",
+    "postalCode": "6300",
+    "city": "ÅNDALSNES",
+    "url": "https://kiwi.no/finn-butikk/kiwi-894-oran"
+  },
+  {
+    "id": "4272",
+    "name": "KIWI 895 Surnadal",
+    "lat": 62.9739696535452,
+    "lon": 8.725193853021294,
+    "address": "Svartvassvegen 2",
+    "postalCode": "6650",
+    "city": "SURNADAL",
+    "url": "https://kiwi.no/finn-butikk/kiwi-895-surnadal"
+  },
+  {
+    "id": "4290",
+    "name": "KIWI 896 Rensvik",
+    "lat": 63.09104999351562,
+    "lon": 7.809187989437967,
+    "address": "Einerskaret 21",
+    "postalCode": "6521",
+    "city": "FREI",
+    "url": "https://kiwi.no/finn-butikk/kiwi-896-rensvik"
+  },
+  {
+    "id": "4160",
+    "name": "KIWI 897 Dale",
+    "lat": 63.12149692334898,
+    "lon": 7.785229769831474,
+    "address": "Tverrveien 2",
+    "postalCode": "6518",
+    "city": "KRISTIANSUND N",
+    "url": "https://kiwi.no/finn-butikk/kiwi-897-dale"
+  },
+  {
+    "id": "2197",
+    "name": "KIWI 898 Bruhagen",
+    "lat": 63.05211983843785,
+    "lon": 7.63170521466055,
+    "address": "Averøyveien 24",
+    "postalCode": "6530",
+    "city": "AVERØY",
+    "url": "https://kiwi.no/finn-butikk/kiwi-898-bruhagen"
+  },
+  {
+    "id": "1233",
+    "name": "KIWI 899 Atlanterhavsveien",
+    "lat": 63.00980016796709,
+    "lon": 7.431359081829613,
+    "address": "ATLANTERHAVSVEGEN 3",
+    "postalCode": "6532",
+    "city": "AVERØY",
+    "url": "https://kiwi.no/finn-butikk/kiwi-899-atlanterhavsveien"
+  },
+  {
+    "id": "4220",
+    "name": "KIWI 901 Nørve",
+    "lat": 62.471511512725314,
+    "lon": 6.206506837751972,
+    "address": "Nørvegata 23",
+    "postalCode": "6008",
+    "city": "ÅLESUND",
+    "url": "https://kiwi.no/finn-butikk/kiwi-901-norve"
+  },
+  {
+    "id": "4221",
+    "name": "KIWI 902 Spjelkavik",
+    "lat": 62.463529338689995,
+    "lon": 6.364473396999957,
+    "address": "Spjelkavikvegen 42",
+    "postalCode": "6010",
+    "city": "ÅLESUND",
+    "url": "https://kiwi.no/finn-butikk/kiwi-902-spjelkavik"
+  },
+  {
+    "id": "4210",
+    "name": "KIWI 903 Måløy",
+    "lat": 61.93322117275986,
+    "lon": 5.112883313132676,
+    "address": "Sjøgata 8",
+    "postalCode": "6700",
+    "city": "MÅLØY",
+    "url": "https://kiwi.no/finn-butikk/kiwi-903-maloy"
+  },
+  {
+    "id": "4222",
+    "name": "KIWI 905 Eggesbønes",
+    "lat": 62.32583272482508,
+    "lon": 5.637988579971262,
+    "address": "Eggesbøvegen 4",
+    "postalCode": "6092",
+    "city": "FOSNAVÅG",
+    "url": "https://kiwi.no/finn-butikk/kiwi-905-eggesbones"
+  },
+  {
+    "id": "4217",
+    "name": "KIWI 906 Deknepollen",
+    "lat": 61.92302165521858,
+    "lon": 5.1504178386039765,
+    "address": "Nordfjordvegen 9248",
+    "postalCode": "6718",
+    "city": "DEKNEPOLLEN",
+    "url": "https://kiwi.no/finn-butikk/kiwi-906-deknepollen"
+  },
+  {
+    "id": "4271",
+    "name": "KIWI 908 Klokkersund",
+    "lat": 62.46665044365086,
+    "lon": 6.246248246891423,
+    "address": "Nedre Klokkersundvegen 2",
+    "postalCode": "6015",
+    "city": "ÅLESUND",
+    "url": "https://kiwi.no/finn-butikk/kiwi-908-klokkersund"
+  },
+  {
+    "id": "4925",
+    "name": "KIWI 909 Flisnes",
+    "lat": 62.43193293017857,
+    "lon": 6.412846397489231,
+    "address": "Flisnesvegen 1",
+    "postalCode": "6013",
+    "city": "ÅLESUND",
+    "url": "https://kiwi.no/finn-butikk/kiwi-909-flisnes"
+  },
+  {
+    "id": "4278",
+    "name": "KIWI 910 Kverve",
+    "lat": 62.491163022175904,
+    "lon": 6.191563296316935,
+    "address": "Kverve Senter",
+    "postalCode": "6057",
+    "city": "ELLINGSØY",
+    "url": "https://kiwi.no/finn-butikk/kiwi-910-kverve"
+  },
+  {
+    "id": "4281",
+    "name": "KIWI 911 Fiskarstrand",
+    "lat": 62.44024264540828,
+    "lon": 6.27307009973215,
+    "address": "Risevegen 1",
+    "postalCode": "6035",
+    "city": "FISKARSTRAND",
+    "url": "https://kiwi.no/finn-butikk/kiwi-911-fiskarstrand"
+  },
+  {
+    "id": "4169",
+    "name": "KIWI 912 Stranda",
+    "lat": 62.30712371433579,
+    "lon": 6.946079669507462,
+    "address": "Øyna 10",
+    "postalCode": "6200",
+    "city": "STRANDA",
+    "url": "https://kiwi.no/finn-butikk/kiwi-912-stranda"
+  },
+  {
+    "id": "2047",
+    "name": "KIWI 913 Stryn",
+    "lat": 61.90300141103345,
+    "lon": 6.719612737162135,
+    "address": "Walhallavegen 2",
+    "postalCode": "6783",
+    "city": "STRYN",
+    "url": "https://kiwi.no/finn-butikk/kiwi-913-stryn"
+  },
+  {
+    "id": "4060",
+    "name": "KIWI 914 Ulsteinvik",
+    "lat": 62.34072367619084,
+    "lon": 5.854954293070325,
+    "address": "Saunesvegen 2",
+    "postalCode": "6065",
+    "city": "ULSTEINVIK",
+    "url": "https://kiwi.no/finn-butikk/kiwi-914-ulsteinvik"
+  },
+  {
+    "id": "2157",
+    "name": "KIWI 915 Valderøy",
+    "lat": 62.50670433024137,
+    "lon": 6.102760912763759,
+    "address": "Ytterland 1",
+    "postalCode": "6050",
+    "city": "VALDERØYA",
+    "url": "https://kiwi.no/finn-butikk/kiwi-915-valderoy"
+  },
+  {
+    "id": "4052",
+    "name": "KIWI 916 Kremmergaarden",
+    "lat": 62.471245768005645,
+    "lon": 6.153844297434887,
+    "address": "Rasmus Rønnebergs gate 6",
+    "postalCode": "6002",
+    "city": "ÅLESUND",
+    "url": "https://kiwi.no/finn-butikk/kiwi-916-kremmergaarden"
+  },
+  {
+    "id": "1315",
+    "name": "KIWI 917 Myrvåg",
+    "lat": 62.27697361893961,
+    "lon": 5.80318884788858,
+    "address": "Dragsundvegen 9",
+    "postalCode": "6080",
+    "city": "GURSKØY",
+    "url": "https://kiwi.no/finn-butikk/kiwi-917-myrvag"
+  },
+  {
+    "id": "7741",
+    "name": "KIWI 918 Langevåg",
+    "lat": 62.44070280432376,
+    "lon": 6.199788994975624,
+    "address": "Djupdalen 53",
+    "postalCode": "6030",
+    "city": "LANGEVÅG",
+    "url": "https://kiwi.no/finn-butikk/kiwi-918-langevag"
+  },
+  {
+    "id": "1197",
+    "name": "KIWI 919 Nedre Strandgate",
+    "lat": 62.470081814748006,
+    "lon": 6.140034914729213,
+    "address": "Nedre Strandgate 51",
+    "postalCode": "6005",
+    "city": "ÅLESUND",
+    "url": "https://kiwi.no/finn-butikk/kiwi-919-nedre-strandgate"
+  },
+  {
+    "id": "8648",
+    "name": "KIWI 920 Breivika",
+    "lat": 62.47172593487219,
+    "lon": 6.363341727823392,
+    "address": "Lerstadvegen 545",
+    "postalCode": "6018",
+    "city": "ÅLESUND",
+    "url": "https://kiwi.no/finn-butikk/kiwi-920-breivika"
+  },
+  {
+    "id": "4487",
+    "name": "KIWI 921 Vestnes",
+    "lat": 62.62356837421962,
+    "lon": 7.090166172762174,
+    "address": "Sjøgata 2",
+    "postalCode": "6390",
+    "city": "VESTNES",
+    "url": "https://kiwi.no/finn-butikk/kiwi-921-vestnes"
+  },
+  {
+    "id": "4655",
+    "name": "KIWI 922 Nordfjordeid",
+    "lat": 61.90996441637334,
+    "lon": 5.9953911340300206,
+    "address": "Nordfjordvegen 4517",
+    "postalCode": "6770",
+    "city": "NORDFJORDEID",
+    "url": "https://kiwi.no/finn-butikk/kiwi-922-nordfjordeid"
+  },
+  {
+    "id": "5516",
+    "name": "KIWI 923 Hatlane",
+    "lat": 62.460481915133094,
+    "lon": 6.268662879107334,
+    "address": "Smedgarden 1",
+    "postalCode": "6016",
+    "city": "ÅLESUND",
+    "url": "https://kiwi.no/finn-butikk/kiwi-923-hatlane"
+  },
+  {
+    "id": "4660",
+    "name": "KIWI 924 Vallekrysset",
+    "lat": 62.479081211425424,
+    "lon": 6.664787761997142,
+    "address": "Glomsetvegen 8",
+    "postalCode": "6260",
+    "city": "SKODJE",
+    "url": "https://kiwi.no/finn-butikk/kiwi-924-vallekrysset"
+  },
+  {
+    "id": "4130",
+    "name": "KIWI 925 Meieribygget Ørsta",
+    "lat": 62.19908876828194,
+    "lon": 6.127036722091197,
+    "address": "IVAR AASEN-GATA 7",
+    "postalCode": "6150",
+    "city": "ØRSTA",
+    "url": "https://kiwi.no/finn-butikk/kiwi-925-meieribygget-orsta"
+  },
+  {
+    "id": "4008",
+    "name": "KIWI 940 Grandfjæra",
+    "lat": 62.73680724537277,
+    "lon": 7.181296498173999,
+    "address": "Grandfjæra 24B",
+    "postalCode": "6415",
+    "city": "MOLDE",
+    "url": "https://kiwi.no/finn-butikk/kiwi-940-grandfjara"
+  },
+  {
+    "id": "4012",
+    "name": "KIWI 941 Løkkemyra",
+    "lat": 63.108828427780836,
+    "lon": 7.783703142130344,
+    "address": "Løkkemyrveien 1",
+    "postalCode": "6517",
+    "city": "KRISTIANSUND N",
+    "url": "https://kiwi.no/finn-butikk/kiwi-941-lokkemyra"
+  },
+  {
+    "id": "7776",
+    "name": "KIWI 942 Sunndalsøra",
+    "lat": 62.67378973057913,
+    "lon": 8.564281263137211,
+    "address": "Sunndalsvegen 3",
+    "postalCode": "6600",
+    "city": "SUNNDALSØRA",
+    "url": "https://kiwi.no/finn-butikk/kiwi-942-sunndalsora"
+  },
+  {
+    "id": "7704",
+    "name": "KIWI 943 Malmefjorden",
+    "lat": 62.82037973193684,
+    "lon": 7.24070594239428,
+    "address": "Holamyra 24",
+    "postalCode": "6445",
+    "city": "MALMEFJORDEN",
+    "url": "https://kiwi.no/finn-butikk/kiwi-943-malmefjorden"
+  },
+  {
+    "id": "1297",
+    "name": "KIWI 944 Eide",
+    "lat": 62.91058287145712,
+    "lon": 7.433718144531431,
+    "address": "Torvvegen 1",
+    "postalCode": "6490",
+    "city": "EIDE",
+    "url": "https://kiwi.no/finn-butikk/kiwi-944-eide"
+  },
+  {
+    "id": "4470",
+    "name": "KIWI 945 Nordbyen",
+    "lat": 62.75261056522477,
+    "lon": 7.23577517052297,
+    "address": "Råkhaugvegen 4",
+    "postalCode": "6425",
+    "city": "MOLDE",
+    "url": "https://kiwi.no/finn-butikk/kiwi-945-nordbyen"
+  },
+  {
+    "id": "4759",
+    "name": "KIWI 946 Skjevik",
+    "lat": 62.78809419133554,
+    "lon": 7.536266933828293,
+    "address": "Baklivegen 1",
+    "postalCode": "6450",
+    "city": "HJELSET",
+    "url": "https://kiwi.no/finn-butikk/kiwi-946-skjevik"
+  },
+  {
+    "id": "2971",
+    "name": "KIWI 960 Steinberg",
+    "lat": 59.755785229732076,
+    "lon": 9.983353961714442,
+    "address": "Steinbergveien 23",
+    "postalCode": "3053",
+    "city": "STEINBERG",
+    "url": "https://kiwi.no/finn-butikk/kiwi-960-steinberg"
+  },
+  {
+    "id": "3569",
+    "name": "KIWI 961 Skolebakken",
+    "lat": 59.810700749471174,
+    "lon": 10.803460422355348,
+    "address": "Kolbotnveien 6",
+    "postalCode": "1410",
+    "city": "KOLBOTN",
+    "url": "https://kiwi.no/finn-butikk/kiwi-961-skolebakken"
+  },
+  {
+    "id": "5597",
+    "name": "KIWI 963 Skårersletta",
+    "lat": 59.91896570282301,
+    "lon": 10.955923477038086,
+    "address": "Skårersletta 80",
+    "postalCode": "1473",
+    "city": "LØRENSKOG",
+    "url": "https://kiwi.no/finn-butikk/kiwi-963-skarersletta"
+  },
+  {
+    "id": "2036",
+    "name": "KIWI 964 Risum",
+    "lat": 59.11756991273514,
+    "lon": 11.411230710051926,
+    "address": "Iddeveien 35",
+    "postalCode": "1769",
+    "city": "HALDEN",
+    "url": "https://kiwi.no/finn-butikk/kiwi-964-risum"
+  },
+  {
+    "id": "3874",
+    "name": "KIWI 965 Sorgenfri Allé",
+    "lat": 59.222229494439006,
+    "lon": 10.992138651626746,
+    "address": "Sorgenfri allé 2",
+    "postalCode": "1654",
+    "city": "SELLEBAKK",
+    "url": "https://kiwi.no/finn-butikk/kiwi-965-sorgenfri-alle"
+  },
+  {
+    "id": "4260",
+    "name": "KIWI 966 Borre",
+    "lat": 59.380271030196106,
+    "lon": 10.454802541141088,
+    "address": "Gannestadveien 3",
+    "postalCode": "3184",
+    "city": "BORRE",
+    "url": "https://kiwi.no/finn-butikk/kiwi-966-borre"
+  },
+  {
+    "id": "8153",
+    "name": "KIWI 967 Tuven",
+    "lat": 59.56792704759877,
+    "lon": 9.21475873544838,
+    "address": "Semsvegen 56",
+    "postalCode": "3676",
+    "city": "NOTODDEN",
+    "url": "https://kiwi.no/finn-butikk/kiwi-967-tuven"
+  },
+  {
+    "id": "7740",
+    "name": "KIWI 968 Foyn",
+    "lat": 59.26695159524913,
+    "lon": 10.407526922752066,
+    "address": "Tjømegaten 4",
+    "postalCode": "3126",
+    "city": "TØNSBERG",
+    "url": "https://kiwi.no/finn-butikk/kiwi-968-foyn"
+  },
+  {
+    "id": "4159",
+    "name": "KIWI 969 Museumsgata",
+    "lat": 59.13168929046074,
+    "lon": 10.227349582319947,
+    "address": "Museumsgata 41A",
+    "postalCode": "3210",
+    "city": "SANDEFJORD",
+    "url": "https://kiwi.no/finn-butikk/kiwi-969-museumsgata"
+  },
+  {
+    "id": "2074",
+    "name": "KIWI 970 Gauterød",
+    "lat": 59.2801779790139,
+    "lon": 10.463236153192945,
+    "address": "Gauterødveien 57a",
+    "postalCode": "3154",
+    "city": "TOLVSRØD",
+    "url": "https://kiwi.no/finn-butikk/kiwi-970-gauterod"
+  },
+  {
+    "id": "2072",
+    "name": "KIWI 971 Vear",
+    "lat": 59.26353322273391,
+    "lon": 10.36244136643743,
+    "address": "Melsomvikveien 603",
+    "postalCode": "3173",
+    "city": "VEAR",
+    "url": "https://kiwi.no/finn-butikk/kiwi-971-vear"
+  },
+  {
+    "id": "4139",
+    "name": "KIWI 972 Hjemseng",
+    "lat": 59.220602730436404,
+    "lon": 10.442298941084767,
+    "address": "Hjemsengveien 107",
+    "postalCode": "3133",
+    "city": "DUKEN",
+    "url": "https://kiwi.no/finn-butikk/kiwi-972-hjemseng"
+  },
+  {
+    "id": "5442",
+    "name": "KIWI 973 Lunde",
+    "lat": 59.29982196641962,
+    "lon": 9.102278359598868,
+    "address": "Brugata 8",
+    "postalCode": "3825",
+    "city": "LUNDE",
+    "url": "https://kiwi.no/finn-butikk/kiwi-973-lunde"
+  },
+  {
+    "id": "2081",
+    "name": "KIWI 974 Ullevål",
+    "lat": 59.93693567879794,
+    "lon": 10.737057831462266,
+    "address": "Kirkeveien 166",
+    "postalCode": "0450",
+    "city": "OSLO",
+    "url": "https://kiwi.no/finn-butikk/kiwi-974-ulleval"
+  },
+  {
+    "id": "5605",
+    "name": "KIWI 975 Langhus Gård",
+    "lat": 59.74918586552231,
+    "lon": 10.83331777842597,
+    "address": "Hilda Langhus` vei 1",
+    "postalCode": "1405",
+    "city": "LANGHUS",
+    "url": "https://kiwi.no/finn-butikk/kiwi-975-langhus-gard"
+  },
+  {
+    "id": "2163",
+    "name": "KIWI 976 Vestkilen",
+    "lat": 59.20945776040102,
+    "lon": 10.888225307147733,
+    "address": "Vestkilen 3",
+    "postalCode": "1621",
+    "city": "GRESSVIK",
+    "url": "https://kiwi.no/finn-butikk/kiwi-976-vestkilen"
+  },
+  {
+    "id": "3976",
+    "name": "KIWI 977 Lisleby",
+    "lat": 59.23333372218875,
+    "lon": 10.97643900000507,
+    "address": "Lislebyveien 188",
+    "postalCode": "1617",
+    "city": "FREDRIKSTAD",
+    "url": "https://kiwi.no/finn-butikk/kiwi-977-lisleby"
+  },
+  {
+    "id": "5665",
+    "name": "KIWI 979 Middelthun",
+    "lat": 59.928077137320074,
+    "lon": 10.709450224349059,
+    "address": "Middelthuns gate 23",
+    "postalCode": "0368",
+    "city": "OSLO",
+    "url": "https://kiwi.no/finn-butikk/kiwi-979-middelthun"
+  },
+  {
+    "id": "5680",
+    "name": "KIWI 981 Ekebergskrenten",
+    "lat": 59.90222331318731,
+    "lon": 10.78373446075265,
+    "address": "Konows gate 67 B",
+    "postalCode": "0196",
+    "city": "OSLO",
+    "url": "https://kiwi.no/finn-butikk/kiwi-981-ekebergskrenten"
+  }
+]

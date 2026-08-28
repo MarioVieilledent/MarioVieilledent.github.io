@@ -1,0 +1,5992 @@
+[
+  {
+    "id": "4775",
+    "name": "Extra Abc",
+    "lat": 64.467932,
+    "lon": 11.507788,
+    "address": "Jernbanegata 1",
+    "postalCode": "7800",
+    "city": "Namsos",
+    "url": "https://www.coop.no/butikker/extra/extra-abc-4775"
+  },
+  {
+    "id": "4255",
+    "name": "Extra Algarheimveien",
+    "lat": 60.1407021,
+    "lon": 11.2110711,
+    "address": "Algarheimsvegen 77",
+    "postalCode": "2052",
+    "city": "Jessheim",
+    "url": "https://www.coop.no/butikker/extra/extra-algarheimveien-4255"
+  },
+  {
+    "id": "2777",
+    "name": "Extra Alvdal",
+    "lat": 62.1151984,
+    "lon": 10.6159608,
+    "address": "Nord-Østerdalsveien 5152",
+    "postalCode": "2560",
+    "city": "Alvdal",
+    "url": "https://www.coop.no/butikker/extra/extra-alvdal-2777"
+  },
+  {
+    "id": "4935",
+    "name": "Extra Alvim",
+    "lat": 59.2746068,
+    "lon": 11.0887169,
+    "address": "Doktor Johnsens gate 4",
+    "postalCode": "1725",
+    "city": "Sarpsborg",
+    "url": "https://www.coop.no/butikker/extra/extra-alvim-4935"
+  },
+  {
+    "id": "2666",
+    "name": "Extra Andenes",
+    "lat": 69.3103312,
+    "lon": 16.0991608,
+    "address": "Industriveien 4",
+    "postalCode": "8480",
+    "city": "Andenes",
+    "url": "https://www.coop.no/butikker/extra/extra-andenes-2666"
+  },
+  {
+    "id": "1856",
+    "name": "Extra Ankenes",
+    "lat": 68.4191444,
+    "lon": 17.3874974,
+    "address": "Torgveien 2",
+    "postalCode": "8520",
+    "city": "Ankenesstrand",
+    "url": "https://www.coop.no/butikker/extra/extra-ankenes-1856"
+  },
+  {
+    "id": "2432",
+    "name": "Extra Apeltun",
+    "lat": 60.2980109,
+    "lon": 5.3454641,
+    "address": "Nedre Nøttveit 12",
+    "postalCode": "5238",
+    "city": "Rådal",
+    "url": "https://www.coop.no/butikker/extra/extra-apeltun-2432"
+  },
+  {
+    "id": "2864",
+    "name": "Extra Aronnes",
+    "lat": 69.96282803,
+    "lon": 23.31350893,
+    "address": "Holstsletta 1",
+    "postalCode": "9514",
+    "city": "Alta",
+    "url": "https://www.coop.no/butikker/extra/extra-aronnes-2864"
+  },
+  {
+    "id": "4084",
+    "name": "Extra Askerholmen",
+    "lat": 59.83674634,
+    "lon": 10.43038687,
+    "address": "Gamle Drammensvei 227",
+    "postalCode": "1383",
+    "city": "Asker",
+    "url": "https://www.coop.no/butikker/extra/extra-askerholmen-4084"
+  },
+  {
+    "id": "2455",
+    "name": "Extra Askim",
+    "lat": 59.5847244,
+    "lon": 11.1668475,
+    "address": "Henstad Alle 3B",
+    "postalCode": "1809",
+    "city": "Askim",
+    "url": "https://www.coop.no/butikker/extra/extra-askim-2455"
+  },
+  {
+    "id": "4040",
+    "name": "Extra Askimtorget",
+    "lat": 59.5831739,
+    "lon": 11.1637932,
+    "address": "Rådhusgata 8B",
+    "postalCode": "1830",
+    "city": "Askim",
+    "url": "https://www.coop.no/butikker/extra/extra-askimtorget-4040"
+  },
+  {
+    "id": "4300",
+    "name": "Extra Askøy",
+    "lat": 60.422606,
+    "lon": 5.203309,
+    "address": "Kleppevegen 110",
+    "postalCode": "5300",
+    "city": "Kleppestø",
+    "url": "https://www.coop.no/butikker/extra/extra-askoy-4300"
+  },
+  {
+    "id": "4065",
+    "name": "Extra Auli Senter",
+    "lat": 60.034067,
+    "lon": 11.3509629,
+    "address": "Sentervegen 7",
+    "postalCode": "1929",
+    "city": "Auli",
+    "url": "https://www.coop.no/butikker/extra/extra-auli-senter-4065"
+  },
+  {
+    "id": "1791",
+    "name": "Extra Aure",
+    "lat": 63.2678979,
+    "lon": 8.5311858,
+    "address": "Aurdalsvegen 7",
+    "postalCode": "6690",
+    "city": "Aure",
+    "url": "https://www.coop.no/butikker/extra/extra-aure-1791"
+  },
+  {
+    "id": "1048",
+    "name": "Extra Aurskog",
+    "lat": 59.9284,
+    "lon": 11.4445,
+    "address": "Senterveien 10",
+    "postalCode": "1930",
+    "city": "Aurskog",
+    "url": "https://www.coop.no/butikker/extra/extra-aurskog-1048"
+  },
+  {
+    "id": "4335",
+    "name": "Extra Austad",
+    "lat": 59.7294554,
+    "lon": 10.2054899,
+    "address": "Austadveien 1",
+    "postalCode": "3043",
+    "city": "Drammen",
+    "url": "https://www.coop.no/butikker/extra/extra-austad-4335"
+  },
+  {
+    "id": "2570",
+    "name": "Extra Austevoll",
+    "lat": 60.1000873,
+    "lon": 5.2249801,
+    "address": "Storebøvegen",
+    "postalCode": "5392",
+    "city": "Storebø",
+    "url": "https://www.coop.no/butikker/extra/extra-austevoll-2570"
+  },
+  {
+    "id": "1235",
+    "name": "Extra Austmannaveien",
+    "lat": 59.394,
+    "lon": 5.30483,
+    "address": "Austmannavegen 11",
+    "postalCode": "5537",
+    "city": "Haugesund",
+    "url": "https://www.coop.no/butikker/extra/extra-austmannaveien-1235"
+  },
+  {
+    "id": "4689",
+    "name": "Extra Austrått",
+    "lat": 58.8448907,
+    "lon": 5.7581267,
+    "address": "Øygardsveien 158",
+    "postalCode": "4325",
+    "city": "Sandnes",
+    "url": "https://www.coop.no/butikker/extra/extra-austratt-4689"
+  },
+  {
+    "id": "1236",
+    "name": "Extra Avaldsnes",
+    "lat": 59.3555793,
+    "lon": 5.2784372,
+    "address": "Kong Augvalds veg 10B",
+    "postalCode": "4262",
+    "city": "Avaldsnes",
+    "url": "https://www.coop.no/butikker/extra/extra-avaldsnes-1236"
+  },
+  {
+    "id": "1854",
+    "name": "Extra Ballangen",
+    "lat": 68.3425365,
+    "lon": 16.8319833,
+    "address": "Sentrumsveien 57",
+    "postalCode": "8540",
+    "city": "Ballangen",
+    "url": "https://www.coop.no/butikker/extra/extra-ballangen-1854"
+  },
+  {
+    "id": "1870",
+    "name": "Extra Bankgata",
+    "lat": 67.2773893,
+    "lon": 14.3922494,
+    "address": "Bankgata 34",
+    "postalCode": "8005",
+    "city": "Bodø",
+    "url": "https://www.coop.no/butikker/extra/extra-bankgata-1870"
+  },
+  {
+    "id": "1987",
+    "name": "Extra Bardufoss",
+    "lat": 69.0650177,
+    "lon": 18.5119234,
+    "address": "Domussenteret",
+    "postalCode": "9325",
+    "city": "Bardufoss",
+    "url": "https://www.coop.no/butikker/extra/extra-bardufoss-1987"
+  },
+  {
+    "id": "4043",
+    "name": "Extra Beitostølen",
+    "lat": 61.2466796,
+    "lon": 8.91015,
+    "address": "Bygdinvegen 3764",
+    "postalCode": "2953",
+    "city": "Beitostølen",
+    "url": "https://www.coop.no/butikker/extra/extra-beitostolen-4043"
+  },
+  {
+    "id": "4698",
+    "name": "Extra Bekkajordet",
+    "lat": 59.43356,
+    "lon": 10.451978,
+    "address": "Gamleveien 55",
+    "postalCode": "3189",
+    "city": "Horten",
+    "url": "https://www.coop.no/butikker/extra/extra-bekkajordet-4698"
+  },
+  {
+    "id": "1306",
+    "name": "Extra Bekkefaret",
+    "lat": 58.9510646,
+    "lon": 5.7270412,
+    "address": "Hjalmar Johansens gate 2",
+    "postalCode": "4019",
+    "city": "Stavanger",
+    "url": "https://www.coop.no/butikker/extra/extra-bekkefaret-1306"
+  },
+  {
+    "id": "4066",
+    "name": "Extra Bekkestua",
+    "lat": 59.9170962,
+    "lon": 10.5882006,
+    "address": "Gamle Ringeriksvei 35A",
+    "postalCode": "1357",
+    "city": "Bekkestua",
+    "url": "https://www.coop.no/butikker/extra/extra-bekkestua-4066"
+  },
+  {
+    "id": "4219",
+    "name": "Extra Bergen Storsenter",
+    "lat": 60.3892373,
+    "lon": 5.3318142,
+    "address": "Strømgaten 8",
+    "postalCode": "5015",
+    "city": "Bergen",
+    "url": "https://www.coop.no/butikker/extra/extra-bergen-storsenter-4219"
+  },
+  {
+    "id": "1783",
+    "name": "Extra Berkåk",
+    "lat": 62.8290621,
+    "lon": 10.0112663,
+    "address": "Paralellveien 8",
+    "postalCode": "7391",
+    "city": "Rennebu",
+    "url": "https://www.coop.no/butikker/extra/extra-berkak-1783"
+  },
+  {
+    "id": "2006",
+    "name": "Extra Biri",
+    "lat": 60.9553556,
+    "lon": 10.6094218,
+    "address": "Biriveien 56",
+    "postalCode": "2836",
+    "city": "Biri",
+    "url": "https://www.coop.no/butikker/extra/extra-biri-2006"
+  },
+  {
+    "id": "1356",
+    "name": "Extra Birkeland",
+    "lat": 58.3301686,
+    "lon": 8.2325829,
+    "address": "Strøget 56",
+    "postalCode": "4760",
+    "city": "Birkeland",
+    "url": "https://www.coop.no/butikker/extra/extra-birkeland-1356"
+  },
+  {
+    "id": "4363",
+    "name": "Extra Birkelunden",
+    "lat": 59.9252058,
+    "lon": 10.7589509,
+    "address": "Thorvald Meyers gate 35",
+    "postalCode": "0555",
+    "city": "Oslo",
+    "url": "https://www.coop.no/butikker/extra/extra-birkelunden-4363"
+  },
+  {
+    "id": "4694",
+    "name": "Extra Bislett",
+    "lat": 59.9256543,
+    "lon": 10.7303378,
+    "address": "Pilestredet 73",
+    "postalCode": "0354",
+    "city": "Oslo",
+    "url": "https://www.coop.no/butikker/extra/extra-bislett-4694"
+  },
+  {
+    "id": "2688",
+    "name": "Extra Bjergsted",
+    "lat": 58.9737968,
+    "lon": 5.7223926,
+    "address": "Borgermester Middelthons Gate 14",
+    "postalCode": "4007",
+    "city": "Stavanger",
+    "url": "https://www.coop.no/butikker/extra/extra-bjergsted-2688"
+  },
+  {
+    "id": "2479",
+    "name": "Extra Bjerkaker",
+    "lat": 69.6309396,
+    "lon": 18.9231416,
+    "address": "Strandvegen 140",
+    "postalCode": "9006",
+    "city": "Tromsø",
+    "url": "https://www.coop.no/butikker/extra/extra-bjerkaker-2479"
+  },
+  {
+    "id": "1218",
+    "name": "Extra Bjerke",
+    "lat": 60.254,
+    "lon": 11.0271,
+    "address": "Nannestadvegen 507",
+    "postalCode": "2032",
+    "city": "Maura",
+    "url": "https://www.coop.no/butikker/extra/extra-bjerke-1218"
+  },
+  {
+    "id": "1859",
+    "name": "Extra Bjerkvik",
+    "lat": 68.549,
+    "lon": 17.5589,
+    "address": "Nordmoveien 2",
+    "postalCode": "8530",
+    "city": "Bjerkvik",
+    "url": "https://www.coop.no/butikker/extra/extra-bjerkvik-1859"
+  },
+  {
+    "id": "1767",
+    "name": "Extra Bjugn",
+    "lat": 63.7645,
+    "lon": 9.81089,
+    "address": "Alf Nebbs gate 3",
+    "postalCode": "7160",
+    "city": "Bjugn",
+    "url": "https://www.coop.no/butikker/extra/extra-bjugn-1767"
+  },
+  {
+    "id": "4280",
+    "name": "Extra Bjølsen",
+    "lat": 59.9382763,
+    "lon": 10.7571308,
+    "address": "Hammergata 1",
+    "postalCode": "0465",
+    "city": "Oslo",
+    "url": "https://www.coop.no/butikker/extra/extra-bjolsen-4280"
+  },
+  {
+    "id": "2484",
+    "name": "Extra Bjørkelangen",
+    "lat": 59.8840652,
+    "lon": 11.568471,
+    "address": "Bjørkeveien 22",
+    "postalCode": "1940",
+    "city": "Bjørkelangen",
+    "url": "https://www.coop.no/butikker/extra/extra-bjorkelangen-2484"
+  },
+  {
+    "id": "4217",
+    "name": "Extra Bjørndal",
+    "lat": 59.8267786,
+    "lon": 10.8368643,
+    "address": "Granbergstubben 24",
+    "postalCode": "1275",
+    "city": "Oslo",
+    "url": "https://www.coop.no/butikker/extra/extra-bjorndal-4217"
+  },
+  {
+    "id": "2461",
+    "name": "Extra Blomsterdalen",
+    "lat": 60.2843,
+    "lon": 5.2517,
+    "address": "Lilandsvegen 3",
+    "postalCode": "5258",
+    "city": "Blomsterdalen",
+    "url": "https://www.coop.no/butikker/extra/extra-blomsterdalen-2461"
+  },
+  {
+    "id": "2516",
+    "name": "Extra Bodøsjøen",
+    "lat": 67.2716974,
+    "lon": 14.4499115,
+    "address": "Garnveien 2",
+    "postalCode": "8013",
+    "city": "Bodø",
+    "url": "https://www.coop.no/butikker/extra/extra-bodosjoen-2516"
+  },
+  {
+    "id": "4388",
+    "name": "Extra Bogstadveien",
+    "lat": 59.9269775,
+    "lon": 10.7200008,
+    "address": "Bogstadveien 40A",
+    "postalCode": "0366",
+    "city": "Oslo",
+    "url": "https://www.coop.no/butikker/extra/extra-bogstadveien-4388"
+  },
+  {
+    "id": "2482",
+    "name": "Extra Bolaget",
+    "lat": 68.435903,
+    "lon": 17.4116833,
+    "address": "Bolagsgata 20",
+    "postalCode": "8501",
+    "city": "Narvik",
+    "url": "https://www.coop.no/butikker/extra/extra-bolaget-2482"
+  },
+  {
+    "id": "4940",
+    "name": "Extra Borgen",
+    "lat": 59.8192071,
+    "lon": 10.4290712,
+    "address": "Borgenveien 120",
+    "postalCode": "1388",
+    "city": "Borgen",
+    "url": "https://www.coop.no/butikker/extra/extra-borgen-4940"
+  },
+  {
+    "id": "4692",
+    "name": "Extra Borggata",
+    "lat": 59.9118031,
+    "lon": 10.7702801,
+    "address": "Åkebergveien 12",
+    "postalCode": "0650",
+    "city": "Oslo",
+    "url": "https://www.coop.no/butikker/extra/extra-borggata-4692"
+  },
+  {
+    "id": "4818",
+    "name": "Extra Borgåsen",
+    "lat": 59.164463,
+    "lon": 9.663174,
+    "address": "Buervegen 14",
+    "postalCode": "3711",
+    "city": "Skien",
+    "url": "https://www.coop.no/butikker/extra/extra-borgasen-4818"
+  },
+  {
+    "id": "1959",
+    "name": "Extra Borkenes",
+    "lat": 68.7719737,
+    "lon": 16.1745497,
+    "address": "Bygdevegen 24",
+    "postalCode": "9475",
+    "city": "Borkenes",
+    "url": "https://www.coop.no/butikker/extra/extra-borkenes-1959"
+  },
+  {
+    "id": "2003",
+    "name": "Extra Bossekop",
+    "lat": 69.9607061,
+    "lon": 23.2340425,
+    "address": "Bossekopveien 1",
+    "postalCode": "9511",
+    "city": "Alta",
+    "url": "https://www.coop.no/butikker/extra/extra-bossekop-2003"
+  },
+  {
+    "id": "2742",
+    "name": "Extra Brandbu",
+    "lat": 60.4212,
+    "lon": 10.5058,
+    "address": "Torgvegen 3",
+    "postalCode": "2760",
+    "city": "Brandbu",
+    "url": "https://www.coop.no/butikker/extra/extra-brandbu-2742"
+  },
+  {
+    "id": "1495",
+    "name": "Extra Brattvåg",
+    "lat": 62.5993869,
+    "lon": 6.4451712,
+    "address": "Brattvåggata 20",
+    "postalCode": "6270",
+    "city": "Brattvåg",
+    "url": "https://www.coop.no/butikker/extra/extra-brattvag-1495"
+  },
+  {
+    "id": "4656",
+    "name": "Extra Braveien",
+    "lat": 59.1376001,
+    "lon": 11.3768146,
+    "address": "B R A Veien 55",
+    "postalCode": "1782",
+    "city": "Halden",
+    "url": "https://www.coop.no/butikker/extra/extra-braveien-4656"
+  },
+  {
+    "id": "2492",
+    "name": "Extra Breivika",
+    "lat": 69.6734296,
+    "lon": 18.9769751,
+    "address": "Stakkevollvegen 63",
+    "postalCode": "9010",
+    "city": "Tromsø",
+    "url": "https://www.coop.no/butikker/extra/extra-breivika-2492"
+  },
+  {
+    "id": "2552",
+    "name": "Extra Brekstad",
+    "lat": 63.6931274,
+    "lon": 9.6605226,
+    "address": "Yrjars gate 35",
+    "postalCode": "7130",
+    "city": "Brekstad",
+    "url": "https://www.coop.no/butikker/extra/extra-brekstad-2552"
+  },
+  {
+    "id": "4602",
+    "name": "Extra Bremnes",
+    "lat": 59.798433,
+    "lon": 5.2088575,
+    "address": "Hollundsdalen 2",
+    "postalCode": "5430",
+    "city": "Bremnes",
+    "url": "https://www.coop.no/butikker/extra/extra-bremnes-4602"
+  },
+  {
+    "id": "1536",
+    "name": "Extra Bruhagen",
+    "lat": 63.0517289,
+    "lon": 7.6321396,
+    "address": "Averøyveien 21",
+    "postalCode": "6530",
+    "city": "Averøy",
+    "url": "https://www.coop.no/butikker/extra/extra-bruhagen-1536"
+  },
+  {
+    "id": "4953",
+    "name": "Extra Brumunddal",
+    "lat": 60.8803707,
+    "lon": 10.9528982,
+    "address": "Furnesvegen 56",
+    "postalCode": "2380",
+    "city": "Brumunddal",
+    "url": "https://www.coop.no/butikker/extra/extra-brumunddal-4953"
+  },
+  {
+    "id": "4552",
+    "name": "Extra Bryggen",
+    "lat": 70.666009,
+    "lon": 23.692767,
+    "address": "Strandgata 52",
+    "postalCode": "9600",
+    "city": "Hammerfest",
+    "url": "https://www.coop.no/butikker/extra/extra-bryggen-4552"
+  },
+  {
+    "id": "2900",
+    "name": "Extra Bryne",
+    "lat": 58.7408442,
+    "lon": 5.6400497,
+    "address": "Morenefaret 1",
+    "postalCode": "4340",
+    "city": "Bryne",
+    "url": "https://www.coop.no/butikker/extra/extra-bryne-2900"
+  },
+  {
+    "id": "2703",
+    "name": "Extra Brånåsen",
+    "lat": 59.9916,
+    "lon": 11.0276,
+    "address": "Brånåslia 4",
+    "postalCode": "2019",
+    "city": "Skedsmokorset",
+    "url": "https://www.coop.no/butikker/extra/extra-branasen-2703"
+  },
+  {
+    "id": "1821",
+    "name": "Extra Buvika",
+    "lat": 63.3081,
+    "lon": 10.175,
+    "address": "Sandavegen 3",
+    "postalCode": "7350",
+    "city": "Buvika",
+    "url": "https://www.coop.no/butikker/extra/extra-buvika-1821"
+  },
+  {
+    "id": "4646",
+    "name": "Extra Byhaven",
+    "lat": 59.7389674,
+    "lon": 10.2022161,
+    "address": "Schultz gate 14-16",
+    "postalCode": "3044",
+    "city": "Drammen",
+    "url": "https://www.coop.no/butikker/extra/extra-byhaven-4646"
+  },
+  {
+    "id": "1817",
+    "name": "Extra Byneset",
+    "lat": 63.355597,
+    "lon": 10.1646104,
+    "address": "Hangerslettvegen 1410",
+    "postalCode": "7074",
+    "city": "Spongdal",
+    "url": "https://www.coop.no/butikker/extra/extra-byneset-1817"
+  },
+  {
+    "id": "2693",
+    "name": "Extra Bystasjonen",
+    "lat": 58.8506565,
+    "lon": 5.7358306,
+    "address": "Vågsgata 18/20",
+    "postalCode": "4306",
+    "city": "Sandnes",
+    "url": "https://www.coop.no/butikker/extra/extra-bystasjonen-2693"
+  },
+  {
+    "id": "4070",
+    "name": "Extra Båtsfjord",
+    "lat": 70.6373889,
+    "lon": 29.7268884,
+    "address": "Havnegata 2",
+    "postalCode": "9990",
+    "city": "Båtsfjord",
+    "url": "https://www.coop.no/butikker/extra/extra-batsfjord-4070"
+  },
+  {
+    "id": "4285",
+    "name": "Extra Bø",
+    "lat": 59.4133831,
+    "lon": 9.0695005,
+    "address": "Folkestadvegen 1",
+    "postalCode": "3800",
+    "city": "Bø",
+    "url": "https://www.coop.no/butikker/extra/extra-bo-4285"
+  },
+  {
+    "id": "2657",
+    "name": "Extra Bøesenteret",
+    "lat": 58.4393158,
+    "lon": 6.0096927,
+    "address": "Sokndalsveien 140",
+    "postalCode": "4372",
+    "city": "Egersund",
+    "url": "https://www.coop.no/butikker/extra/extra-boesenteret-2657"
+  },
+  {
+    "id": "2162",
+    "name": "Extra Bønes",
+    "lat": 60.3344,
+    "lon": 5.3103851,
+    "address": "Øvre Kråkenes 115",
+    "postalCode": "5152",
+    "city": "Bønes",
+    "url": "https://www.coop.no/butikker/extra/extra-bones-2162"
+  },
+  {
+    "id": "1768",
+    "name": "Extra Børsa",
+    "lat": 63.3234371,
+    "lon": 10.0651254,
+    "address": "Rådhusvegen 3",
+    "postalCode": "7353",
+    "city": "Børsa",
+    "url": "https://www.coop.no/butikker/extra/extra-borsa-1768"
+  },
+  {
+    "id": "4942",
+    "name": "Extra Børstad",
+    "lat": 60.8019695,
+    "lon": 11.0835122,
+    "address": "Ringgata 127",
+    "postalCode": "2318",
+    "city": "Hamar",
+    "url": "https://www.coop.no/butikker/extra/extra-borstad-4942"
+  },
+  {
+    "id": "2855",
+    "name": "Extra Charlottenlund",
+    "lat": 63.4215558,
+    "lon": 10.4942093,
+    "address": "Jakobslivegen 53",
+    "postalCode": "7058",
+    "city": "Jakobsli",
+    "url": "https://www.coop.no/butikker/extra/extra-charlottenlund-2855"
+  },
+  {
+    "id": "4260",
+    "name": "Extra Christianslund",
+    "lat": 59.22499726,
+    "lon": 10.93082257,
+    "address": "Christianslund alle 4",
+    "postalCode": "1613",
+    "city": "Fredrikstad",
+    "url": "https://www.coop.no/butikker/extra/extra-christianslund-4260"
+  },
+  {
+    "id": "2604",
+    "name": "Extra Dale",
+    "lat": 61.357558,
+    "lon": 5.397657,
+    "address": "Dalsvegen",
+    "postalCode": "6963",
+    "city": "Dale",
+    "url": "https://www.coop.no/butikker/extra/extra-dale-2604"
+  },
+  {
+    "id": "1371",
+    "name": "Extra Dalekvam",
+    "lat": 60.5898,
+    "lon": 5.81957,
+    "address": "konsuljebsengt 3",
+    "postalCode": "5722",
+    "city": "Dalekvam",
+    "url": "https://www.coop.no/butikker/extra/extra-dalekvam-1371"
+  },
+  {
+    "id": "1179",
+    "name": "Extra Dalen",
+    "lat": 59.4445248,
+    "lon": 8.0100326,
+    "address": "Hotellvegen 36",
+    "postalCode": "3880",
+    "city": "Dalen",
+    "url": "https://www.coop.no/butikker/extra/extra-dalen-1179"
+  },
+  {
+    "id": "4738",
+    "name": "Extra Dampen",
+    "lat": 58.4583278,
+    "lon": 8.7549278,
+    "address": "Strømsbuveien 61",
+    "postalCode": "4836",
+    "city": "Arendal",
+    "url": "https://www.coop.no/butikker/extra/extra-dampen-4738"
+  },
+  {
+    "id": "4582",
+    "name": "Extra Damsgård",
+    "lat": 60.38652,
+    "lon": 5.299735,
+    "address": "Damsgårdsveien 205",
+    "postalCode": "5160",
+    "city": "Laksevåg",
+    "url": "https://www.coop.no/butikker/extra/extra-damsgard-4582"
+  },
+  {
+    "id": "1454",
+    "name": "Extra Danmarksplass",
+    "lat": 60.3753534,
+    "lon": 5.33818,
+    "address": "Solheimsgaten 33",
+    "postalCode": "5054",
+    "city": "Bergen",
+    "url": "https://www.coop.no/butikker/extra/extra-danmarksplass-1454"
+  },
+  {
+    "id": "2626",
+    "name": "Extra Digernes",
+    "lat": 62.493288,
+    "lon": 6.6061084,
+    "address": "Digernes Næringsområde",
+    "postalCode": "6260",
+    "city": "Skodje",
+    "url": "https://www.coop.no/butikker/extra/extra-digernes-2626"
+  },
+  {
+    "id": "4267",
+    "name": "Extra Divigården Åkra",
+    "lat": 59.2563155,
+    "lon": 5.1931569,
+    "address": "Vestre Karmøyveg 321",
+    "postalCode": "4270",
+    "city": "Åkrehamn",
+    "url": "https://www.coop.no/butikker/extra/extra-divigarden-akra-4267"
+  },
+  {
+    "id": "2080",
+    "name": "Extra Dokka",
+    "lat": 60.8345396,
+    "lon": 10.0743073,
+    "address": "Storgata 31",
+    "postalCode": "2870",
+    "city": "Dokka",
+    "url": "https://www.coop.no/butikker/extra/extra-dokka-2080"
+  },
+  {
+    "id": "2753",
+    "name": "Extra Dombås",
+    "lat": 62.0734762,
+    "lon": 9.1263207,
+    "address": "Sentralplassen 5a",
+    "postalCode": "2660",
+    "city": "Dombås",
+    "url": "https://www.coop.no/butikker/extra/extra-dombas-2753"
+  },
+  {
+    "id": "2711",
+    "name": "Extra Drangedal",
+    "lat": 59.0971116,
+    "lon": 9.058474,
+    "address": "Lauvåsen 1",
+    "postalCode": "3750",
+    "city": "Drangedal",
+    "url": "https://www.coop.no/butikker/extra/extra-drangedal-2711"
+  },
+  {
+    "id": "4247",
+    "name": "Extra Drengsrud",
+    "lat": 59.8288199,
+    "lon": 10.4104545,
+    "address": "Drammensveien 896",
+    "postalCode": "1383",
+    "city": "Asker",
+    "url": "https://www.coop.no/butikker/extra/extra-drengsrud-4247"
+  },
+  {
+    "id": "2650",
+    "name": "Extra Drøbak",
+    "lat": 59.6744767,
+    "lon": 10.6574617,
+    "address": "Holterveien 2B",
+    "postalCode": "1448",
+    "city": "Drøbak",
+    "url": "https://www.coop.no/butikker/extra/extra-drobak-2650"
+  },
+  {
+    "id": "1140",
+    "name": "Extra Dønski",
+    "lat": 59.9045069,
+    "lon": 10.5050019,
+    "address": "Rudsvn 44",
+    "postalCode": "1346",
+    "city": "Gjettum",
+    "url": "https://www.coop.no/butikker/extra/extra-donski-1140"
+  },
+  {
+    "id": "2765",
+    "name": "Extra Eidsvoll",
+    "lat": 60.33125,
+    "lon": 11.26635,
+    "address": "Nedre Vilberg veg 6",
+    "postalCode": "2080",
+    "city": "Sundet",
+    "url": "https://www.coop.no/butikker/extra/extra-eidsvoll-2765"
+  },
+  {
+    "id": "1511",
+    "name": "Extra Eidsvåg",
+    "lat": 62.7768434,
+    "lon": 8.0661126,
+    "address": "Eidsvågvegen 27",
+    "postalCode": "6460",
+    "city": "Eidsvåg i Romsdal",
+    "url": "https://www.coop.no/butikker/extra/extra-eidsvag-1511"
+  },
+  {
+    "id": "2712",
+    "name": "Extra Eidsvåg Bergen",
+    "lat": 60.436472,
+    "lon": 5.3185378,
+    "address": "Vollane 1",
+    "postalCode": "5105",
+    "city": "Eidsvåg i Åsane",
+    "url": "https://www.coop.no/butikker/extra/extra-eidsvag-bergen-2712"
+  },
+  {
+    "id": "4690",
+    "name": "Extra Eiganes",
+    "lat": 58.9654246,
+    "lon": 5.7045803,
+    "address": "Øvre Stokkavei 42A",
+    "postalCode": "4023",
+    "city": "Stavanger",
+    "url": "https://www.coop.no/butikker/extra/extra-eiganes-4690"
+  },
+  {
+    "id": "1135",
+    "name": "Extra Eiksmarka",
+    "lat": 59.9430426,
+    "lon": 10.6265867,
+    "address": "Vollsveien 180",
+    "postalCode": "1359",
+    "city": "Eiksmarka",
+    "url": "https://www.coop.no/butikker/extra/extra-eiksmarka-1135"
+  },
+  {
+    "id": "2684",
+    "name": "Extra Elgeseter",
+    "lat": 63.4191607,
+    "lon": 10.3964416,
+    "address": "Elgeseter Gate 21A",
+    "postalCode": "7030",
+    "city": "Trondheim",
+    "url": "https://www.coop.no/butikker/extra/extra-elgeseter-2684"
+  },
+  {
+    "id": "2465",
+    "name": "Extra Elnesvågen",
+    "lat": 62.8547591,
+    "lon": 7.1729249,
+    "address": "Dalelia 23",
+    "postalCode": "6440",
+    "city": "Elnesvågen",
+    "url": "https://www.coop.no/butikker/extra/extra-elnesvagen-2465"
+  },
+  {
+    "id": "4938",
+    "name": "Extra Eltonåsen",
+    "lat": 60.1356505,
+    "lon": 11.0239609,
+    "address": "Gamle Åsvegen 91",
+    "postalCode": "2034",
+    "city": "Holter",
+    "url": "https://www.coop.no/butikker/extra/extra-eltonasen-4938"
+  },
+  {
+    "id": "2002",
+    "name": "Extra Elvebakken",
+    "lat": 69.9731,
+    "lon": 23.3688,
+    "address": "Altaveien 277",
+    "postalCode": "9515",
+    "city": "Alta",
+    "url": "https://www.coop.no/butikker/extra/extra-elvebakken-2002"
+  },
+  {
+    "id": "1953",
+    "name": "Extra Elverhøy",
+    "lat": 69.6533,
+    "lon": 18.9293,
+    "address": "Gitta Jønssons veg 2",
+    "postalCode": "9012",
+    "city": "Tromsø",
+    "url": "https://www.coop.no/butikker/extra/extra-elverhoy-1953"
+  },
+  {
+    "id": "1243",
+    "name": "Extra Etne",
+    "lat": 59.6632685,
+    "lon": 5.9422277,
+    "address": "Haukelivegen 999",
+    "postalCode": "5590",
+    "city": "Etne",
+    "url": "https://www.coop.no/butikker/extra/extra-etne-1243"
+  },
+  {
+    "id": "1958",
+    "name": "Extra Evenskjer",
+    "lat": 68.5836877,
+    "lon": 16.5718014,
+    "address": "Skånlandsveien",
+    "postalCode": "9440",
+    "city": "Evenskjer",
+    "url": "https://www.coop.no/butikker/extra/extra-evenskjer-1958"
+  },
+  {
+    "id": "2850",
+    "name": "Extra Evje",
+    "lat": 58.5861675,
+    "lon": 7.8048727,
+    "address": "Nils Heglands veg 11",
+    "postalCode": "4735",
+    "city": "Evje",
+    "url": "https://www.coop.no/butikker/extra/extra-evje-2850"
+  },
+  {
+    "id": "2737",
+    "name": "Extra Express Øksnevad",
+    "lat": 58.7855003,
+    "lon": 5.7055246,
+    "address": "Plogfabrikkvegen 2",
+    "postalCode": "4353",
+    "city": "Klepp Stasjon",
+    "url": "https://www.coop.no/butikker/extra/extra-express-oksnevad-2737"
+  },
+  {
+    "id": "1357",
+    "name": "Extra Eydehavn",
+    "lat": 58.5000525,
+    "lon": 8.8649991,
+    "address": "Torvgata 4",
+    "postalCode": "4810",
+    "city": "Eydehavn",
+    "url": "https://www.coop.no/butikker/extra/extra-eydehavn-1357"
+  },
+  {
+    "id": "2685",
+    "name": "Extra Fabrikkvegen",
+    "lat": 60.8870321,
+    "lon": 10.93407,
+    "address": "Fabrikkvegen 6",
+    "postalCode": "2383",
+    "city": "Brumunddal",
+    "url": "https://www.coop.no/butikker/extra/extra-fabrikkvegen-2685"
+  },
+  {
+    "id": "4076",
+    "name": "Extra Fagerholt",
+    "lat": 58.17734187,
+    "lon": 8.04085334,
+    "address": "Magnus Barfots vei 3",
+    "postalCode": "4633",
+    "city": "Kristiansand",
+    "url": "https://www.coop.no/butikker/extra/extra-fagerholt-4076"
+  },
+  {
+    "id": "2096",
+    "name": "Extra Fagernes",
+    "lat": 60.9863831,
+    "lon": 9.2354026,
+    "address": "Skrautvålvegen 2",
+    "postalCode": "2900",
+    "city": "Fagernes",
+    "url": "https://www.coop.no/butikker/extra/extra-fagernes-2096"
+  },
+  {
+    "id": "1462",
+    "name": "Extra Fana",
+    "lat": 60.2580007,
+    "lon": 5.3380197,
+    "address": "Krokeidevegen 85",
+    "postalCode": "5244",
+    "city": "Fana",
+    "url": "https://www.coop.no/butikker/extra/extra-fana-1462"
+  },
+  {
+    "id": "1772",
+    "name": "Extra Fannrem",
+    "lat": 63.2683204,
+    "lon": 9.81783,
+    "address": "Orkdalsveien 547",
+    "postalCode": "7320",
+    "city": "Fanrnem",
+    "url": "https://www.coop.no/butikker/extra/extra-fannrem-1772"
+  },
+  {
+    "id": "1331",
+    "name": "Extra Farsund",
+    "lat": 58.0918522,
+    "lon": 6.808077,
+    "address": "Barbros gate 12",
+    "postalCode": "4550",
+    "city": "Farsund",
+    "url": "https://www.coop.no/butikker/extra/extra-farsund-1331"
+  },
+  {
+    "id": "2485",
+    "name": "Extra Fauske",
+    "lat": 67.2683486,
+    "lon": 15.3967442,
+    "address": "Terminalveien 6",
+    "postalCode": "8200",
+    "city": "Fauske",
+    "url": "https://www.coop.no/butikker/extra/extra-fauske-2485"
+  },
+  {
+    "id": "4641",
+    "name": "Extra Festningen",
+    "lat": 60.1966025,
+    "lon": 11.9998837,
+    "address": "Øvre Langelandsveg 34",
+    "postalCode": "2213",
+    "city": "Kongsvinger",
+    "url": "https://www.coop.no/butikker/extra/extra-festningen-4641"
+  },
+  {
+    "id": "4071",
+    "name": "Extra Fetsund",
+    "lat": 59.927709,
+    "lon": 11.163326,
+    "address": "Gamle Fetvei 20",
+    "postalCode": "1900",
+    "city": "Fetsund",
+    "url": "https://www.coop.no/butikker/extra/extra-fetsund-4071"
+  },
+  {
+    "id": "4204",
+    "name": "Extra Fevik",
+    "lat": 58.3811421,
+    "lon": 8.6756948,
+    "address": "Feviktoppen 17",
+    "postalCode": "4870",
+    "city": "Fevik",
+    "url": "https://www.coop.no/butikker/extra/extra-fevik-4204"
+  },
+  {
+    "id": "1229",
+    "name": "Extra Finnøy",
+    "lat": 59.1717196,
+    "lon": 5.8765783,
+    "address": "Lauvsnesvegen",
+    "postalCode": "4160",
+    "city": "Finnøy",
+    "url": "https://www.coop.no/butikker/extra/extra-finnoy-1229"
+  },
+  {
+    "id": "4069",
+    "name": "Extra Finstadjordet",
+    "lat": 59.9146046,
+    "lon": 10.9684722,
+    "address": "Finstadlia 3",
+    "postalCode": "1475",
+    "city": "Finstadjordet",
+    "url": "https://www.coop.no/butikker/extra/extra-finstadjordet-4069"
+  },
+  {
+    "id": "2481",
+    "name": "Extra Fjordgata",
+    "lat": 68.7984858,
+    "lon": 16.5445098,
+    "address": "Fjordgata 5",
+    "postalCode": "9405",
+    "city": "Harstad",
+    "url": "https://www.coop.no/butikker/extra/extra-fjordgata-2481"
+  },
+  {
+    "id": "4053",
+    "name": "Extra Flateby",
+    "lat": 59.8342625,
+    "lon": 11.1384997,
+    "address": "Kjensliveien 1",
+    "postalCode": "1911",
+    "city": "Flateby",
+    "url": "https://www.coop.no/butikker/extra/extra-flateby-4053"
+  },
+  {
+    "id": "4221",
+    "name": "Extra Flateby",
+    "lat": 59.834164,
+    "lon": 11.138633,
+    "address": "Kjensliveien 1",
+    "postalCode": "1911",
+    "city": "Flateby",
+    "url": "https://www.coop.no/butikker/extra/extra-flateby-4221"
+  },
+  {
+    "id": "1818",
+    "name": "Extra Flatåsen",
+    "lat": 63.3737038,
+    "lon": 10.3465181,
+    "address": "Øvre Flatåsveg 1A",
+    "postalCode": "7079",
+    "city": "Flatåsen",
+    "url": "https://www.coop.no/butikker/extra/extra-flatasen-1818"
+  },
+  {
+    "id": "1361",
+    "name": "Extra Flekkefjord",
+    "lat": 58.2937164,
+    "lon": 6.6654286,
+    "address": "Jernbaneveien 12",
+    "postalCode": "4400",
+    "city": "Flekkefjord",
+    "url": "https://www.coop.no/butikker/extra/extra-flekkefjord-1361"
+  },
+  {
+    "id": "2022",
+    "name": "Extra Flisa",
+    "lat": 60.6127,
+    "lon": 12.0103,
+    "address": "Kaffegata 9",
+    "postalCode": "2270",
+    "city": "Flisa",
+    "url": "https://www.coop.no/butikker/extra/extra-flisa-2022"
+  },
+  {
+    "id": "2160",
+    "name": "Extra Florø",
+    "lat": 61.6001685,
+    "lon": 5.0464699,
+    "address": "Leirvåggata 7",
+    "postalCode": "6900",
+    "city": "Florø",
+    "url": "https://www.coop.no/butikker/extra/extra-floro-2160"
+  },
+  {
+    "id": "2863",
+    "name": "Extra Fmv Kråkerøy",
+    "lat": 59.2112932,
+    "lon": 10.9206223,
+    "address": "Selma Nygrens Vei 4",
+    "postalCode": "1671",
+    "city": "Kråkerøy",
+    "url": "https://www.coop.no/butikker/extra/extra-fmv-krakeroy-2863"
+  },
+  {
+    "id": "1547",
+    "name": "Extra Fosnavåg",
+    "lat": 62.3261,
+    "lon": 5.63703,
+    "address": "Eggesbøvegen 2",
+    "postalCode": "6092",
+    "city": "Fosnavåg",
+    "url": "https://www.coop.no/butikker/extra/extra-fosnavag-1547"
+  },
+  {
+    "id": "2557",
+    "name": "Extra Frakkagjerd",
+    "lat": 59.4188464,
+    "lon": 5.405364,
+    "address": "Frakkagjerdvegen 121",
+    "postalCode": "5563",
+    "city": "Førresfjorden",
+    "url": "https://www.coop.no/butikker/extra/extra-frakkagjerd-2557"
+  },
+  {
+    "id": "4804",
+    "name": "Extra Framnes",
+    "lat": 59.123113,
+    "lon": 10.236074,
+    "address": "Vesterøyveien 27",
+    "postalCode": "3222",
+    "city": "Sandefjord",
+    "url": "https://www.coop.no/butikker/extra/extra-framnes-4804"
+  },
+  {
+    "id": "2838",
+    "name": "Extra Frekhaug",
+    "lat": 60.51793762,
+    "lon": 5.2391184,
+    "address": "Havnevegen 29",
+    "postalCode": "5918",
+    "city": "Frekhaug",
+    "url": "https://www.coop.no/butikker/extra/extra-frekhaug-2838"
+  },
+  {
+    "id": "1587",
+    "name": "Extra Frosta",
+    "lat": 63.5886,
+    "lon": 10.7407,
+    "address": "Fånesvegen",
+    "postalCode": "7633",
+    "city": "Frosta",
+    "url": "https://www.coop.no/butikker/extra/extra-frosta-1587"
+  },
+  {
+    "id": "2424",
+    "name": "Extra Frydenlund",
+    "lat": 68.4403,
+    "lon": 17.4218,
+    "address": "Frydenlundgata 15",
+    "postalCode": "8517",
+    "city": "Narvik",
+    "url": "https://www.coop.no/butikker/extra/extra-frydenlund-2424"
+  },
+  {
+    "id": "2630",
+    "name": "Extra Furuset",
+    "lat": 59.9421538,
+    "lon": 10.8977468,
+    "address": "Trygve Lies Plass 1",
+    "postalCode": "1051",
+    "city": "Oslo",
+    "url": "https://www.coop.no/butikker/extra/extra-furuset-2630"
+  },
+  {
+    "id": "2478",
+    "name": "Extra Fåvang",
+    "lat": 61.4538251,
+    "lon": 10.190048,
+    "address": "Stasjonsvegen 9",
+    "postalCode": "2634",
+    "city": "Fåvang",
+    "url": "https://www.coop.no/butikker/extra/extra-favang-2478"
+  },
+  {
+    "id": "2457",
+    "name": "Extra Førde",
+    "lat": 61.4482,
+    "lon": 5.88807,
+    "address": "Kronborgvegen 34",
+    "postalCode": "6800",
+    "city": "Førde",
+    "url": "https://www.coop.no/butikker/extra/extra-forde-2457"
+  },
+  {
+    "id": "2894",
+    "name": "Extra Førde Sentrum",
+    "lat": 61.4528,
+    "lon": 5.85784,
+    "address": "Langebruveien 22",
+    "postalCode": "6800",
+    "city": "Førde",
+    "url": "https://www.coop.no/butikker/extra/extra-forde-sentrum-2894"
+  },
+  {
+    "id": "4600",
+    "name": "Extra Førdegården",
+    "lat": 61.454345,
+    "lon": 5.849099,
+    "address": "Naustdalsvegen 5",
+    "postalCode": "6800",
+    "city": "Førde",
+    "url": "https://www.coop.no/butikker/extra/extra-fordegarden-4600"
+  },
+  {
+    "id": "4062",
+    "name": "Extra Gamlegrendåsen",
+    "lat": 59.6527418,
+    "lon": 9.6596001,
+    "address": "Josefine Nilsens vei 1",
+    "postalCode": "3610",
+    "city": "Kongsberg",
+    "url": "https://www.coop.no/butikker/extra/extra-gamlegrendasen-4062"
+  },
+  {
+    "id": "4243",
+    "name": "Extra Gimle",
+    "lat": 59.9171358,
+    "lon": 10.7096029,
+    "address": "Bygdøy allé 37",
+    "postalCode": "0265",
+    "city": "Oslo",
+    "url": "https://www.coop.no/butikker/extra/extra-gimle-4243"
+  },
+  {
+    "id": "2468",
+    "name": "Extra Gjerdrum",
+    "lat": 60.0709541,
+    "lon": 11.0351433,
+    "address": "Nannestadvegen",
+    "postalCode": "2022",
+    "city": "Gjerdrum",
+    "url": "https://www.coop.no/butikker/extra/extra-gjerdrum-2468"
+  },
+  {
+    "id": "2946",
+    "name": "Extra Glomfjord",
+    "lat": 66.816422,
+    "lon": 13.9424772,
+    "address": "Ørnesveien 1",
+    "postalCode": "8160",
+    "city": "Glomfjord",
+    "url": "https://www.coop.no/butikker/extra/extra-glomfjord-2946"
+  },
+  {
+    "id": "4567",
+    "name": "Extra Glommen Brygge",
+    "lat": 59.2070589,
+    "lon": 10.9377904,
+    "address": "Kråkerøyveien 2A",
+    "postalCode": "1671",
+    "city": "Kråkerøy",
+    "url": "https://www.coop.no/butikker/extra/extra-glommen-brygge-4567"
+  },
+  {
+    "id": "2592",
+    "name": "Extra Gol",
+    "lat": 60.7014776,
+    "lon": 8.9384465,
+    "address": "Sentrumsvegen 128",
+    "postalCode": "3550",
+    "city": "Gol",
+    "url": "https://www.coop.no/butikker/extra/extra-gol-2592"
+  },
+  {
+    "id": "1481",
+    "name": "Extra Gossen",
+    "lat": 62.8061714,
+    "lon": 6.8865175,
+    "address": "Aukraringen 2",
+    "postalCode": "6480",
+    "city": "Aukra",
+    "url": "https://www.coop.no/butikker/extra/extra-gossen-1481"
+  },
+  {
+    "id": "2490",
+    "name": "Extra Gran",
+    "lat": 60.3539856,
+    "lon": 10.5727722,
+    "address": "Smiegata 3",
+    "postalCode": "2750",
+    "city": "Gran",
+    "url": "https://www.coop.no/butikker/extra/extra-gran-2490"
+  },
+  {
+    "id": "2833",
+    "name": "Extra Gressvik",
+    "lat": 59.2171007,
+    "lon": 10.9060608,
+    "address": "Storveien 79",
+    "postalCode": "1621",
+    "city": "Gressvik",
+    "url": "https://www.coop.no/butikker/extra/extra-gressvik-2833"
+  },
+  {
+    "id": "2502",
+    "name": "Extra Grilstad",
+    "lat": 63.4339964,
+    "lon": 10.5038036,
+    "address": "Skonnertvegen 8",
+    "postalCode": "7053",
+    "city": "Ranheim",
+    "url": "https://www.coop.no/butikker/extra/extra-grilstad-2502"
+  },
+  {
+    "id": "2860",
+    "name": "Extra Grim",
+    "lat": 58.1485151,
+    "lon": 7.9782782,
+    "address": "Setesdalsveien 19",
+    "postalCode": "4616",
+    "city": "Kristiansand",
+    "url": "https://www.coop.no/butikker/extra/extra-grim-2860"
+  },
+  {
+    "id": "2725",
+    "name": "Extra Grimstad",
+    "lat": 58.3347734,
+    "lon": 8.5889256,
+    "address": "Guldmandsveien 2",
+    "postalCode": "4876",
+    "city": "Grimstad",
+    "url": "https://www.coop.no/butikker/extra/extra-grimstad-2725"
+  },
+  {
+    "id": "2682",
+    "name": "Extra Grindalsmoen",
+    "lat": 60.8872763,
+    "lon": 11.5144855,
+    "address": "Torolf Storsveens veg 26",
+    "postalCode": "2406",
+    "city": "Elverum",
+    "url": "https://www.coop.no/butikker/extra/extra-grindalsmoen-2682"
+  },
+  {
+    "id": "4785",
+    "name": "Extra Grong",
+    "lat": 64.4643949,
+    "lon": 12.3141061,
+    "address": "Granvegen 12",
+    "postalCode": "7870",
+    "city": "Medjå",
+    "url": "https://www.coop.no/butikker/extra/extra-grong-4785"
+  },
+  {
+    "id": "2442",
+    "name": "Extra Grorud",
+    "lat": 59.9609125,
+    "lon": 10.8852933,
+    "address": "Romsåsveien 6",
+    "postalCode": "0962",
+    "city": "Oslo",
+    "url": "https://www.coop.no/butikker/extra/extra-grorud-2442"
+  },
+  {
+    "id": "2487",
+    "name": "Extra Gruben",
+    "lat": 66.3210933,
+    "lon": 14.1933565,
+    "address": "Myra 4",
+    "postalCode": "8610",
+    "city": "Mo i Rana",
+    "url": "https://www.coop.no/butikker/extra/extra-gruben-2487"
+  },
+  {
+    "id": "2543",
+    "name": "Extra Grålum",
+    "lat": 59.2944432,
+    "lon": 11.0641615,
+    "address": "Vesterheimveien 2",
+    "postalCode": "1712",
+    "city": "Grålum",
+    "url": "https://www.coop.no/butikker/extra/extra-gralum-2543"
+  },
+  {
+    "id": "2679",
+    "name": "Extra Gråtenmoen",
+    "lat": 59.1862424,
+    "lon": 9.6116781,
+    "address": "Infanterivegen 16",
+    "postalCode": "3734",
+    "city": "Skien",
+    "url": "https://www.coop.no/butikker/extra/extra-gratenmoen-2679"
+  },
+  {
+    "id": "2678",
+    "name": "Extra Grønlandsleiret",
+    "lat": 59.9118285,
+    "lon": 10.7660965,
+    "address": "Grønlandsleiret 25A",
+    "postalCode": "0190",
+    "city": "Oslo",
+    "url": "https://www.coop.no/butikker/extra/extra-gronlandsleiret-2678"
+  },
+  {
+    "id": "2648",
+    "name": "Extra Grønnegata",
+    "lat": 69.649288,
+    "lon": 18.953818,
+    "address": "Grønnegata 64",
+    "postalCode": "9008",
+    "city": "Tromsø",
+    "url": "https://www.coop.no/butikker/extra/extra-gronnegata-2648"
+  },
+  {
+    "id": "4699",
+    "name": "Extra Gullhaug",
+    "lat": 59.4999465,
+    "lon": 10.2574775,
+    "address": "Fossveien 95",
+    "postalCode": "3089",
+    "city": "Holmestrand",
+    "url": "https://www.coop.no/butikker/extra/extra-gullhaug-4699"
+  },
+  {
+    "id": "1191",
+    "name": "Extra Gulset",
+    "lat": 59.2162,
+    "lon": 9.5681,
+    "address": "Nyhusvegen 4",
+    "postalCode": "3720",
+    "city": "Skien",
+    "url": "https://www.coop.no/butikker/extra/extra-gulset-1191"
+  },
+  {
+    "id": "4231",
+    "name": "Extra Gågaten",
+    "lat": 60.3955446,
+    "lon": 5.3190424,
+    "address": "Strandgaten 10",
+    "postalCode": "5004",
+    "city": "Bergen",
+    "url": "https://www.coop.no/butikker/extra/extra-gagaten-4231"
+  },
+  {
+    "id": "2431",
+    "name": "Extra Hafjell",
+    "lat": 61.2431652,
+    "lon": 10.4397711,
+    "address": "Kongsvegen 5",
+    "postalCode": "2636",
+    "city": "Øyer",
+    "url": "https://www.coop.no/butikker/extra/extra-hafjell-2431"
+  },
+  {
+    "id": "1072",
+    "name": "Extra Hafslundsøy",
+    "lat": 59.2915913,
+    "lon": 11.1502107,
+    "address": "Helgebyveien 8",
+    "postalCode": "1734",
+    "city": "Hafslundsøy",
+    "url": "https://www.coop.no/butikker/extra/extra-hafslundsoy-1072"
+  },
+  {
+    "id": "2448",
+    "name": "Extra Halden",
+    "lat": 59.1227622,
+    "lon": 11.3926549,
+    "address": "Grønland 6",
+    "postalCode": "1767",
+    "city": "Halden",
+    "url": "https://www.coop.no/butikker/extra/extra-halden-2448"
+  },
+  {
+    "id": "1675",
+    "name": "Extra Halsøy",
+    "lat": 65.8622,
+    "lon": 13.1968,
+    "address": "Endre Dalengs veg 4",
+    "postalCode": "8665",
+    "city": "Mosjøen",
+    "url": "https://www.coop.no/butikker/extra/extra-halsoy-1675"
+  },
+  {
+    "id": "1222",
+    "name": "Extra Hammerås",
+    "lat": 60.3308683,
+    "lon": 11.2141577,
+    "address": "Eidsvollvegen 2",
+    "postalCode": "2080",
+    "city": "Eidsvoll",
+    "url": "https://www.coop.no/butikker/extra/extra-hammeras-1222"
+  },
+  {
+    "id": "2508",
+    "name": "Extra Hamna",
+    "lat": 69.6969331,
+    "lon": 18.9531709,
+    "address": "Hamneneset 1",
+    "postalCode": "9017",
+    "city": "Tromsø",
+    "url": "https://www.coop.no/butikker/extra/extra-hamna-2508"
+  },
+  {
+    "id": "2851",
+    "name": "Extra Hana Sanz",
+    "lat": 58.8539191,
+    "lon": 5.7515181,
+    "address": "Hanaveien 17",
+    "postalCode": "4327",
+    "city": "Sandnes",
+    "url": "https://www.coop.no/butikker/extra/extra-hana-sanz-2851"
+  },
+  {
+    "id": "2852",
+    "name": "Extra Hana Skut",
+    "lat": 58.8538242,
+    "lon": 5.7621313,
+    "address": "Skippergata 73-75",
+    "postalCode": "4327",
+    "city": "Sandnes",
+    "url": "https://www.coop.no/butikker/extra/extra-hana-skut-2852"
+  },
+  {
+    "id": "1543",
+    "name": "Extra Hareid",
+    "lat": 62.37069,
+    "lon": 6.0281,
+    "address": "Strandgata 78",
+    "postalCode": "6060",
+    "city": "Hareid",
+    "url": "https://www.coop.no/butikker/extra/extra-hareid-1543"
+  },
+  {
+    "id": "2726",
+    "name": "Extra Haslebakken",
+    "lat": 59.1404151,
+    "lon": 10.2430185,
+    "address": "Haslebakken 2-4",
+    "postalCode": "3229",
+    "city": "Sandefjord",
+    "url": "https://www.coop.no/butikker/extra/extra-haslebakken-2726"
+  },
+  {
+    "id": "1138",
+    "name": "Extra Haslum",
+    "lat": 59.9172018,
+    "lon": 10.5607442,
+    "address": "Kirkeveien 93",
+    "postalCode": "1344",
+    "city": "Haslum",
+    "url": "https://www.coop.no/butikker/extra/extra-haslum-1138"
+  },
+  {
+    "id": "4077",
+    "name": "Extra Haugerud Senter",
+    "lat": 59.92227839,
+    "lon": 10.85700208,
+    "address": "Haugerudsenter 1-7",
+    "postalCode": "0673",
+    "city": "Oslo",
+    "url": "https://www.coop.no/butikker/extra/extra-haugerud-senter-4077"
+  },
+  {
+    "id": "4364",
+    "name": "Extra Haugtun",
+    "lat": 58.8950037,
+    "lon": 9.2853997,
+    "address": "Kjølebrøndsveien 5",
+    "postalCode": "3766",
+    "city": "Sannidal",
+    "url": "https://www.coop.no/butikker/extra/extra-haugtun-4364"
+  },
+  {
+    "id": "2649",
+    "name": "Extra Haukedalen",
+    "lat": 60.4633261,
+    "lon": 5.2951068,
+    "address": "Haukedalen 1",
+    "postalCode": "5121",
+    "city": "Ulset",
+    "url": "https://www.coop.no/butikker/extra/extra-haukedalen-2649"
+  },
+  {
+    "id": "4264",
+    "name": "Extra Hausmannsgate",
+    "lat": 59.9165966,
+    "lon": 10.7557971,
+    "address": "Hausmanns gate 19A",
+    "postalCode": "0182",
+    "city": "Oslo",
+    "url": "https://www.coop.no/butikker/extra/extra-hausmannsgate-4264"
+  },
+  {
+    "id": "2832",
+    "name": "Extra Havnesenteret",
+    "lat": 65.4728263,
+    "lon": 12.2082826,
+    "address": "Storgata 58",
+    "postalCode": "8900",
+    "city": "Brønnøysund",
+    "url": "https://www.coop.no/butikker/extra/extra-havnesenteret-2832"
+  },
+  {
+    "id": "4733",
+    "name": "Extra Havstad",
+    "lat": 58.4688585,
+    "lon": 8.7876095,
+    "address": "Gamle Songevei 51",
+    "postalCode": "4842",
+    "city": "Arendal",
+    "url": "https://www.coop.no/butikker/extra/extra-havstad-4733"
+  },
+  {
+    "id": "4967",
+    "name": "Extra Heggtoppen",
+    "lat": 59.779384,
+    "lon": 10.243124,
+    "address": "Heggtoppen 1",
+    "postalCode": "3403",
+    "city": "Lier",
+    "url": "https://www.coop.no/butikker/extra/extra-heggtoppen-4967"
+  },
+  {
+    "id": "2722",
+    "name": "Extra Heimdal",
+    "lat": 63.3504178,
+    "lon": 10.3546821,
+    "address": "Anne Ekrens Veg 6",
+    "postalCode": "7080",
+    "city": "Heimdal",
+    "url": "https://www.coop.no/butikker/extra/extra-heimdal-2722"
+  },
+  {
+    "id": "2891",
+    "name": "Extra Hell",
+    "lat": 63.44485542,
+    "lon": 10.9134433,
+    "address": "Selbuvegen 26",
+    "postalCode": "7517",
+    "city": "Hell",
+    "url": "https://www.coop.no/butikker/extra/extra-hell-2891"
+  },
+  {
+    "id": "4717",
+    "name": "Extra Helle",
+    "lat": 58.9010689,
+    "lon": 9.3793165,
+    "address": "Helleveien 180",
+    "postalCode": "3790",
+    "city": "Helle",
+    "url": "https://www.coop.no/butikker/extra/extra-helle-4717"
+  },
+  {
+    "id": "1003",
+    "name": "Extra Hellerasten",
+    "lat": 59.8079038,
+    "lon": 10.8166538,
+    "address": "Valhallaveien 31",
+    "postalCode": "1412",
+    "city": "Sofiemyr",
+    "url": "https://www.coop.no/butikker/extra/extra-hellerasten-1003"
+  },
+  {
+    "id": "4575",
+    "name": "Extra Helleveien",
+    "lat": 60.436749,
+    "lon": 5.286169,
+    "address": "Helleveien 263",
+    "postalCode": "5039",
+    "city": "Bergen",
+    "url": "https://www.coop.no/butikker/extra/extra-helleveien-4575"
+  },
+  {
+    "id": "2550",
+    "name": "Extra Helsehuset",
+    "lat": 59.412171,
+    "lon": 5.27208,
+    "address": "Sørhauggata 115",
+    "postalCode": "5527",
+    "city": "Haugesund",
+    "url": "https://www.coop.no/butikker/extra/extra-helsehuset-2550"
+  },
+  {
+    "id": "4651",
+    "name": "Extra Hemsedal",
+    "lat": 60.8634041,
+    "lon": 8.5501002,
+    "address": "Hemsedalsvegen",
+    "postalCode": "3560",
+    "city": "Hemsedal",
+    "url": "https://www.coop.no/butikker/extra/extra-hemsedal-4651"
+  },
+  {
+    "id": "1020",
+    "name": "Extra Heradsbygda",
+    "lat": 60.1782727,
+    "lon": 10.203834,
+    "address": "Valhallveien 1",
+    "postalCode": "3518",
+    "city": "Hønefoss",
+    "url": "https://www.coop.no/butikker/extra/extra-heradsbygda-1020"
+  },
+  {
+    "id": "2654",
+    "name": "Extra Herstrøm",
+    "lat": 59.7597968,
+    "lon": 10.059325,
+    "address": "Overgangen 3",
+    "postalCode": "3058",
+    "city": "Solbergmoen",
+    "url": "https://www.coop.no/butikker/extra/extra-herstrom-2654"
+  },
+  {
+    "id": "4946",
+    "name": "Extra Hillevåg",
+    "lat": 58.9427436,
+    "lon": 5.7461601,
+    "address": "Sandvikveien 1",
+    "postalCode": "4016",
+    "city": "Stavanger",
+    "url": "https://www.coop.no/butikker/extra/extra-hillevag-4946"
+  },
+  {
+    "id": "2961",
+    "name": "Extra Hinna",
+    "lat": 58.9222672,
+    "lon": 5.7240904,
+    "address": "Boganesveien 2",
+    "postalCode": "4020",
+    "city": "Stavanger",
+    "url": "https://www.coop.no/butikker/extra/extra-hinna-2961"
+  },
+  {
+    "id": "4638",
+    "name": "Extra Hitra",
+    "lat": 63.601865,
+    "lon": 8.977002,
+    "address": "Sentrumsgata 5",
+    "postalCode": "7240",
+    "city": "Hitra",
+    "url": "https://www.coop.no/butikker/extra/extra-hitra-4638"
+  },
+  {
+    "id": "2414",
+    "name": "Extra Hjelmeland",
+    "lat": 59.2336103,
+    "lon": 6.166615,
+    "address": "Vågavegen 2",
+    "postalCode": "4130",
+    "city": "Hjelmeland",
+    "url": "https://www.coop.no/butikker/extra/extra-hjelmeland-2414"
+  },
+  {
+    "id": "4762",
+    "name": "Extra Hokksund Sentrum",
+    "lat": 59.7690997,
+    "lon": 9.9091229,
+    "address": "Tangengata 2A",
+    "postalCode": "3300",
+    "city": "Hokksund",
+    "url": "https://www.coop.no/butikker/extra/extra-hokksund-sentrum-4762"
+  },
+  {
+    "id": "2809",
+    "name": "Extra Hollingen",
+    "lat": 62.7795314,
+    "lon": 6.9921143,
+    "address": "Julsundet 355",
+    "postalCode": "6409",
+    "city": "Molde",
+    "url": "https://www.coop.no/butikker/extra/extra-hollingen-2809"
+  },
+  {
+    "id": "2857",
+    "name": "Extra Holmedalen",
+    "lat": 60.4062163,
+    "lon": 5.2195761,
+    "address": "Holmedalen 6",
+    "postalCode": "5300",
+    "city": "Kleppestø",
+    "url": "https://www.coop.no/butikker/extra/extra-holmedalen-2857"
+  },
+  {
+    "id": "2513",
+    "name": "Extra Holmejordet",
+    "lat": 59.0171926,
+    "lon": 10.0188341,
+    "address": "Holmejordetveien 48",
+    "postalCode": "3267",
+    "city": "Larvik",
+    "url": "https://www.coop.no/butikker/extra/extra-holmejordet-2513"
+  },
+  {
+    "id": "2655",
+    "name": "Extra Holmestrand",
+    "lat": 59.4872489,
+    "lon": 10.3184276,
+    "address": "Langgata 35",
+    "postalCode": "3080",
+    "city": "Holmestrand",
+    "url": "https://www.coop.no/butikker/extra/extra-holmestrand-2655"
+  },
+  {
+    "id": "1186",
+    "name": "Extra Holtandalen",
+    "lat": 59.4110843,
+    "lon": 10.4653246,
+    "address": "H B Haraldsens gate 36",
+    "postalCode": "3188",
+    "city": "Horten",
+    "url": "https://www.coop.no/butikker/extra/extra-holtandalen-1186"
+  },
+  {
+    "id": "1812",
+    "name": "Extra Hommelvik",
+    "lat": 63.4112292,
+    "lon": 10.7955515,
+    "address": "Malvikveien 1335",
+    "postalCode": "7550",
+    "city": "Hommelvik",
+    "url": "https://www.coop.no/butikker/extra/extra-hommelvik-1812"
+  },
+  {
+    "id": "1252",
+    "name": "Extra Hommersåk",
+    "lat": 58.9297529,
+    "lon": 5.8479204,
+    "address": "Kaiveien 38",
+    "postalCode": "4310",
+    "city": "Hommersåk",
+    "url": "https://www.coop.no/butikker/extra/extra-hommersak-1252"
+  },
+  {
+    "id": "4072",
+    "name": "Extra Honningsvåg",
+    "lat": 70.980557,
+    "lon": 25.977612,
+    "address": "Storgata 18",
+    "postalCode": "9750",
+    "city": "Honningsvåg",
+    "url": "https://www.coop.no/butikker/extra/extra-honningsvag-4072"
+  },
+  {
+    "id": "2629",
+    "name": "Extra Horten Handelspark",
+    "lat": 59.4013364,
+    "lon": 10.4619484,
+    "address": "Trimveien 41",
+    "postalCode": "3188",
+    "city": "Horten",
+    "url": "https://www.coop.no/butikker/extra/extra-horten-handelspark-2629"
+  },
+  {
+    "id": "4104",
+    "name": "Extra Hovden",
+    "lat": 59.5596028,
+    "lon": 7.3561598,
+    "address": "Otravegen 11",
+    "postalCode": "4755",
+    "city": "Hovden",
+    "url": "https://www.coop.no/butikker/extra/extra-hovden-4104"
+  },
+  {
+    "id": "2691",
+    "name": "Extra Hovenga",
+    "lat": 59.1436052,
+    "lon": 9.6607635,
+    "address": "Doktor Munks gate 6",
+    "postalCode": "3912",
+    "city": "Porsgrunn",
+    "url": "https://www.coop.no/butikker/extra/extra-hovenga-2691"
+  },
+  {
+    "id": "1194",
+    "name": "Extra Hovland",
+    "lat": 59.0651,
+    "lon": 10.0534,
+    "address": "Frankendalsveien 99",
+    "postalCode": "3274",
+    "city": "Larvik",
+    "url": "https://www.coop.no/butikker/extra/extra-hovland-1194"
+  },
+  {
+    "id": "2167",
+    "name": "Extra Hundvåg",
+    "lat": 58.9939,
+    "lon": 5.74267,
+    "address": "Austbøsletta 5",
+    "postalCode": "4085",
+    "city": "Stavanger",
+    "url": "https://www.coop.no/butikker/extra/extra-hundvag-2167"
+  },
+  {
+    "id": "4039",
+    "name": "Extra Hunndalen",
+    "lat": 60.7857992,
+    "lon": 10.6413563,
+    "address": "Raufossvegen 223",
+    "postalCode": "2827",
+    "city": "Hunndalen",
+    "url": "https://www.coop.no/butikker/extra/extra-hunndalen-4039"
+  },
+  {
+    "id": "2858",
+    "name": "Extra Hunstad",
+    "lat": 67.2806348,
+    "lon": 14.547748,
+    "address": "Bodøveien 682",
+    "postalCode": "8020",
+    "city": "Bodø",
+    "url": "https://www.coop.no/butikker/extra/extra-hunstad-2858"
+  },
+  {
+    "id": "4369",
+    "name": "Extra Huseby",
+    "lat": 59.9466853,
+    "lon": 10.6547388,
+    "address": "Stasjonsveien 69",
+    "postalCode": "0768",
+    "city": "Oslo",
+    "url": "https://www.coop.no/butikker/extra/extra-huseby-4369"
+  },
+  {
+    "id": "2537",
+    "name": "Extra Husnes",
+    "lat": 59.8634147,
+    "lon": 5.7547923,
+    "address": "Heiamyro 11",
+    "postalCode": "5460",
+    "city": "Husnes",
+    "url": "https://www.coop.no/butikker/extra/extra-husnes-2537"
+  },
+  {
+    "id": "2441",
+    "name": "Extra Hvaler",
+    "lat": 59.1107793,
+    "lon": 10.9111404,
+    "address": "Nordrehaugveien 8",
+    "postalCode": "1684",
+    "city": "Vesterøy",
+    "url": "https://www.coop.no/butikker/extra/extra-hvaler-2441"
+  },
+  {
+    "id": "2631",
+    "name": "Extra Hvervenkastet",
+    "lat": 60.1476519,
+    "lon": 10.2511993,
+    "address": "Osloveien 75",
+    "postalCode": "3511",
+    "city": "Hønefoss",
+    "url": "https://www.coop.no/butikker/extra/extra-hvervenkastet-2631"
+  },
+  {
+    "id": "4572",
+    "name": "Extra Håkonsgaten",
+    "lat": 60.390091,
+    "lon": 5.321634,
+    "address": "Håkonsgaten 36",
+    "postalCode": "5015",
+    "city": "Bergen",
+    "url": "https://www.coop.no/butikker/extra/extra-hakonsgaten-4572"
+  },
+  {
+    "id": "2896",
+    "name": "Extra Håpet",
+    "lat": 69.6783519,
+    "lon": 18.9450598,
+    "address": "Winston Churchills Veg 86",
+    "postalCode": "9014",
+    "city": "Tromsø",
+    "url": "https://www.coop.no/butikker/extra/extra-hapet-2896"
+  },
+  {
+    "id": "2671",
+    "name": "Extra Høvik",
+    "lat": 59.8960613,
+    "lon": 10.5615976,
+    "address": "Sandviksveien 73-75",
+    "postalCode": "1363",
+    "city": "Høvik",
+    "url": "https://www.coop.no/butikker/extra/extra-hovik-2671"
+  },
+  {
+    "id": "1388",
+    "name": "Extra Høyanger",
+    "lat": 61.2192,
+    "lon": 6.07341,
+    "address": "Storgata 19",
+    "postalCode": "6993",
+    "city": "Høyanger",
+    "url": "https://www.coop.no/butikker/extra/extra-hoyanger-1388"
+  },
+  {
+    "id": "2427",
+    "name": "Extra Ila",
+    "lat": 63.4310542,
+    "lon": 10.3602037,
+    "address": "Mellomila 63",
+    "postalCode": "7018",
+    "city": "Trondheim",
+    "url": "https://www.coop.no/butikker/extra/extra-ila-2427"
+  },
+  {
+    "id": "2733",
+    "name": "Extra Ilebrekke",
+    "lat": 59.2930565,
+    "lon": 10.4752717,
+    "address": "Høvleriveien 1",
+    "postalCode": "3114",
+    "city": "Tønsberg",
+    "url": "https://www.coop.no/butikker/extra/extra-ilebrekke-2733"
+  },
+  {
+    "id": "2719",
+    "name": "Extra Ime",
+    "lat": 58.0339364,
+    "lon": 7.4880255,
+    "address": "Marnarveien 29",
+    "postalCode": "4516",
+    "city": "Mandal",
+    "url": "https://www.coop.no/butikker/extra/extra-ime-2719"
+  },
+  {
+    "id": "1606",
+    "name": "Extra Inderøy",
+    "lat": 63.8738237,
+    "lon": 11.2901178,
+    "address": "Sunfærvegen 2",
+    "postalCode": "7670",
+    "city": "Inderøy",
+    "url": "https://www.coop.no/butikker/extra/extra-inderoy-1606"
+  },
+  {
+    "id": "2872",
+    "name": "Extra Irisgården",
+    "lat": 60.1837472,
+    "lon": 5.4723768,
+    "address": "Hamnevegen 48",
+    "postalCode": "5200",
+    "city": "Os",
+    "url": "https://www.coop.no/butikker/extra/extra-irisgarden-2872"
+  },
+  {
+    "id": "1081",
+    "name": "Extra Iseveien",
+    "lat": 59.2684392,
+    "lon": 11.1671037,
+    "address": "Rådhusveien 24 A",
+    "postalCode": "1739",
+    "city": "Borgenhaugen",
+    "url": "https://www.coop.no/butikker/extra/extra-iseveien-1081"
+  },
+  {
+    "id": "4555",
+    "name": "Extra Isrenna",
+    "lat": 69.6851666,
+    "lon": 19.0038846,
+    "address": "Stakkevollvegen 321",
+    "postalCode": "9019",
+    "city": "Tromsø",
+    "url": "https://www.coop.no/butikker/extra/extra-isrenna-4555"
+  },
+  {
+    "id": "4284",
+    "name": "Extra Jar",
+    "lat": 59.919897,
+    "lon": 10.624944,
+    "address": "Storengveien 8",
+    "postalCode": "1358",
+    "city": "Jar",
+    "url": "https://www.coop.no/butikker/extra/extra-jar-4284"
+  },
+  {
+    "id": "4657",
+    "name": "Extra Jeløy",
+    "lat": 59.434097,
+    "lon": 10.633767,
+    "address": "Tronvikveien 1",
+    "postalCode": "1517",
+    "city": "Moss",
+    "url": "https://www.coop.no/butikker/extra/extra-jeloy-4657"
+  },
+  {
+    "id": "1034",
+    "name": "Extra Jernbanegata",
+    "lat": 60.1864632,
+    "lon": 12.0056476,
+    "address": "Jernbanegata 6",
+    "postalCode": "2211",
+    "city": "Kongsvinger",
+    "url": "https://www.coop.no/butikker/extra/extra-jernbanegata-1034"
+  },
+  {
+    "id": "4618",
+    "name": "Extra Jessheim",
+    "lat": 60.145679,
+    "lon": 11.169969,
+    "address": "Trondheimsvegen - Jessheim 85",
+    "postalCode": "2050",
+    "city": "Jessheim",
+    "url": "https://www.coop.no/butikker/extra/extra-jessheim-4618"
+  },
+  {
+    "id": "1031",
+    "name": "Extra Jevnaker",
+    "lat": 60.24,
+    "lon": 10.3892,
+    "address": "Storgata 6",
+    "postalCode": "3520",
+    "city": "Jevnaker",
+    "url": "https://www.coop.no/butikker/extra/extra-jevnaker-1031"
+  },
+  {
+    "id": "2949",
+    "name": "Extra Jåsund",
+    "lat": 58.9532505,
+    "lon": 5.6006792,
+    "address": "Jåsundbakken 2",
+    "postalCode": "4058",
+    "city": "Tananger",
+    "url": "https://www.coop.no/butikker/extra/extra-jasund-2949"
+  },
+  {
+    "id": "1294",
+    "name": "Extra Jørpeland",
+    "lat": 59.0214562,
+    "lon": 6.0415084,
+    "address": "Rådhusgaten 14",
+    "postalCode": "4100",
+    "city": "Jørpeland",
+    "url": "https://www.coop.no/butikker/extra/extra-jorpeland-1294"
+  },
+  {
+    "id": "1888",
+    "name": "Extra Kabelvåg",
+    "lat": 68.2100184,
+    "lon": 14.4769226,
+    "address": "Torggata 22",
+    "postalCode": "8310",
+    "city": "Kabelvåg",
+    "url": "https://www.coop.no/butikker/extra/extra-kabelvag-1888"
+  },
+  {
+    "id": "4665",
+    "name": "Extra Kalfarveien",
+    "lat": 60.3861065,
+    "lon": 5.3486372,
+    "address": "Kalfarveien 76",
+    "postalCode": "5022",
+    "city": "Bergen",
+    "url": "https://www.coop.no/butikker/extra/extra-kalfarveien-4665"
+  },
+  {
+    "id": "2512",
+    "name": "Extra Kallerud",
+    "lat": 60.7873343,
+    "lon": 10.6648667,
+    "address": "Stampevegen 13",
+    "postalCode": "2827",
+    "city": "Gjøvik",
+    "url": "https://www.coop.no/butikker/extra/extra-kallerud-2512"
+  },
+  {
+    "id": "4701",
+    "name": "Extra Kambo Forum",
+    "lat": 59.464074,
+    "lon": 10.689465,
+    "address": "Skredderveien 2",
+    "postalCode": "1537",
+    "city": "Moss",
+    "url": "https://www.coop.no/butikker/extra/extra-kambo-forum-4701"
+  },
+  {
+    "id": "2611",
+    "name": "Extra Kamfjordjordet",
+    "lat": 59.12815933,
+    "lon": 10.2454257,
+    "address": "Hegnaveien 3",
+    "postalCode": "3235",
+    "city": "Sandefjord",
+    "url": "https://www.coop.no/butikker/extra/extra-kamfjordjordet-2611"
+  },
+  {
+    "id": "4794",
+    "name": "Extra Kannik",
+    "lat": 58.9650738,
+    "lon": 5.7286131,
+    "address": "Engelsminnegata 16A",
+    "postalCode": "4008",
+    "city": "Stavanger",
+    "url": "https://www.coop.no/butikker/extra/extra-kannik-4794"
+  },
+  {
+    "id": "2829",
+    "name": "Extra Karasjok",
+    "lat": 69.4718429,
+    "lon": 25.5144821,
+    "address": "Fitnodatgeaidnu 1",
+    "postalCode": "9730",
+    "city": "Karasjok",
+    "url": "https://www.coop.no/butikker/extra/extra-karasjok-2829"
+  },
+  {
+    "id": "4549",
+    "name": "Extra Karmsundgata",
+    "lat": 59.4025954,
+    "lon": 5.2897464,
+    "address": "Karmsundgata 54",
+    "postalCode": "5529",
+    "city": "Haugesund",
+    "url": "https://www.coop.no/butikker/extra/extra-karmsundgata-4549"
+  },
+  {
+    "id": "2584",
+    "name": "Extra Kaupanger",
+    "lat": 61.1919852,
+    "lon": 7.2204995,
+    "address": "Helgheimsvegen",
+    "postalCode": "6854",
+    "city": "Kaupanger",
+    "url": "https://www.coop.no/butikker/extra/extra-kaupanger-2584"
+  },
+  {
+    "id": "2569",
+    "name": "Extra Kautokeino",
+    "lat": 69.020222,
+    "lon": 23.0467051,
+    "address": "Baktevarri 1",
+    "postalCode": "9520",
+    "city": "Kautokeino",
+    "url": "https://www.coop.no/butikker/extra/extra-kautokeino-2569"
+  },
+  {
+    "id": "2799",
+    "name": "Extra Kilen",
+    "lat": 59.2727418,
+    "lon": 10.4357361,
+    "address": "Valløveien 3",
+    "postalCode": "3118",
+    "city": "Tønsberg",
+    "url": "https://www.coop.no/butikker/extra/extra-kilen-2799"
+  },
+  {
+    "id": "4215",
+    "name": "Extra Kirkeby",
+    "lat": 60.7809721,
+    "lon": 10.6907347,
+    "address": "Valdresvegen 6",
+    "postalCode": "2816",
+    "city": "Gjøvik",
+    "url": "https://www.coop.no/butikker/extra/extra-kirkeby-4215"
+  },
+  {
+    "id": "2815",
+    "name": "Extra Kirkegata Levanger",
+    "lat": 63.7493798,
+    "lon": 11.3030217,
+    "address": "Kirkegata 73B",
+    "postalCode": "7600",
+    "city": "Levanger",
+    "url": "https://www.coop.no/butikker/extra/extra-kirkegata-levanger-2815"
+  },
+  {
+    "id": "2561",
+    "name": "Extra Kirkenes",
+    "lat": 69.720595,
+    "lon": 30.039428,
+    "address": "Verksveien 1",
+    "postalCode": "9900",
+    "city": "Kirkenes",
+    "url": "https://www.coop.no/butikker/extra/extra-kirkenes-2561"
+  },
+  {
+    "id": "4732",
+    "name": "Extra Kirkenær",
+    "lat": 60.4561609,
+    "lon": 12.0589014,
+    "address": "Silovegen 4",
+    "postalCode": "2260",
+    "city": "Kirkenær",
+    "url": "https://www.coop.no/butikker/extra/extra-kirkenaer-4732"
+  },
+  {
+    "id": "2806",
+    "name": "Extra Kjerulfs Gate",
+    "lat": 59.95664,
+    "lon": 11.05367,
+    "address": "Kjerulfs gate 3A",
+    "postalCode": "2000",
+    "city": "Lillestrøm",
+    "url": "https://www.coop.no/butikker/extra/extra-kjerulfs-gate-2806"
+  },
+  {
+    "id": "4650",
+    "name": "Extra Klekken",
+    "lat": 60.172585,
+    "lon": 10.32011,
+    "address": "Øvre Klekkenvei 53",
+    "postalCode": "3514",
+    "city": "Hønefoss",
+    "url": "https://www.coop.no/butikker/extra/extra-klekken-4650"
+  },
+  {
+    "id": "1266",
+    "name": "Extra Klepp St",
+    "lat": 58.774267,
+    "lon": 5.6741908,
+    "address": "Stasjonsvegen 268",
+    "postalCode": "4353",
+    "city": "Klepp Stasjon",
+    "url": "https://www.coop.no/butikker/extra/extra-klepp-st-1266"
+  },
+  {
+    "id": "2647",
+    "name": "Extra Kleppekrossen",
+    "lat": 58.7766021,
+    "lon": 5.6274377,
+    "address": "K. K. Kleppes veg 1",
+    "postalCode": "4351",
+    "city": "Kleppe",
+    "url": "https://www.coop.no/butikker/extra/extra-kleppekrossen-2647"
+  },
+  {
+    "id": "1309",
+    "name": "Extra Klubbgata",
+    "lat": 58.9703034,
+    "lon": 5.7349114,
+    "address": "Klubbgata 4",
+    "postalCode": "4013",
+    "city": "Stavanger",
+    "url": "https://www.coop.no/butikker/extra/extra-klubbgata-1309"
+  },
+  {
+    "id": "1201",
+    "name": "Extra Klyve",
+    "lat": 59.1472406,
+    "lon": 9.62114,
+    "address": "Kongerødvegen 3",
+    "postalCode": "3737",
+    "city": "Skien",
+    "url": "https://www.coop.no/butikker/extra/extra-klyve-1201"
+  },
+  {
+    "id": "2559",
+    "name": "Extra Klæbu",
+    "lat": 63.2995,
+    "lon": 10.48358,
+    "address": "Ljosheimveien 8",
+    "postalCode": "7540",
+    "city": "Klæbu",
+    "url": "https://www.coop.no/butikker/extra/extra-klaebu-2559"
+  },
+  {
+    "id": "1244",
+    "name": "Extra Knapphus",
+    "lat": 59.5296,
+    "lon": 5.687,
+    "address": "Haukelivegen 495",
+    "postalCode": "5576",
+    "city": "Øvre Vats",
+    "url": "https://www.coop.no/butikker/extra/extra-knapphus-1244"
+  },
+  {
+    "id": "1822",
+    "name": "Extra Kolstad",
+    "lat": 63.3665584,
+    "lon": 10.3480357,
+    "address": "Reier Søbstads veg 14",
+    "postalCode": "7078",
+    "city": "Saupstad",
+    "url": "https://www.coop.no/butikker/extra/extra-kolstad-1822"
+  },
+  {
+    "id": "1609",
+    "name": "Extra Kolvereid",
+    "lat": 64.8646,
+    "lon": 11.6045,
+    "address": "Sentrumsgata 2",
+    "postalCode": "7970",
+    "city": "Kolvereid",
+    "url": "https://www.coop.no/butikker/extra/extra-kolvereid-1609"
+  },
+  {
+    "id": "2446",
+    "name": "Extra Kongsberg",
+    "lat": 59.6636369,
+    "lon": 9.6472121,
+    "address": "Myntgata 16",
+    "postalCode": "3616",
+    "city": "Kongsberg",
+    "url": "https://www.coop.no/butikker/extra/extra-kongsberg-2446"
+  },
+  {
+    "id": "2902",
+    "name": "Extra Kongsberg Sentrum",
+    "lat": 59.6681211,
+    "lon": 9.6521547,
+    "address": "Stasjonsbakken 4",
+    "postalCode": "3611",
+    "city": "Kongsberg",
+    "url": "https://www.coop.no/butikker/extra/extra-kongsberg-sentrum-2902"
+  },
+  {
+    "id": "1175",
+    "name": "Extra Kongsbergveien",
+    "lat": 59.5639,
+    "lon": 9.27578,
+    "address": "Kongsbergveien 49",
+    "postalCode": "3681",
+    "city": "Notodden",
+    "url": "https://www.coop.no/butikker/extra/extra-kongsbergveien-1175"
+  },
+  {
+    "id": "4736",
+    "name": "Extra Kongshavn",
+    "lat": 58.483458,
+    "lon": 8.8649002,
+    "address": "Østre Tromøyvei 388",
+    "postalCode": "4812",
+    "city": "Kongshavn",
+    "url": "https://www.coop.no/butikker/extra/extra-kongshavn-4736"
+  },
+  {
+    "id": "2483",
+    "name": "Extra Kongsvinger",
+    "lat": 60.2004961,
+    "lon": 11.9779437,
+    "address": "Kristian Walbys veg 2",
+    "postalCode": "2212",
+    "city": "Kongsvinger",
+    "url": "https://www.coop.no/butikker/extra/extra-kongsvinger-2483"
+  },
+  {
+    "id": "1237",
+    "name": "Extra Kopervik",
+    "lat": 59.2803556,
+    "lon": 5.3033412,
+    "address": "Austre Karmøyveg 130",
+    "postalCode": "4250",
+    "city": "Kopervik",
+    "url": "https://www.coop.no/butikker/extra/extra-kopervik-1237"
+  },
+  {
+    "id": "2837",
+    "name": "Extra Korgen",
+    "lat": 66.0802924,
+    "lon": 13.8250004,
+    "address": "Meieriveien 1",
+    "postalCode": "8646",
+    "city": "Korgen",
+    "url": "https://www.coop.no/butikker/extra/extra-korgen-2837"
+  },
+  {
+    "id": "1360",
+    "name": "Extra Kristiansand",
+    "lat": 58.1459163,
+    "lon": 7.9892911,
+    "address": "Vestre Strandgate 36",
+    "postalCode": "4612",
+    "city": "Kristiansand",
+    "url": "https://www.coop.no/butikker/extra/extra-kristiansand-1360"
+  },
+  {
+    "id": "2500",
+    "name": "Extra Kristiansund",
+    "lat": 63.11023,
+    "lon": 7.80143,
+    "address": "Rørgata 1",
+    "postalCode": "6517",
+    "city": "Kristiansund",
+    "url": "https://www.coop.no/butikker/extra/extra-kristiansund-2500"
+  },
+  {
+    "id": "1946",
+    "name": "Extra Kroken",
+    "lat": 69.6844276,
+    "lon": 19.0718264,
+    "address": "Anton Borchs veg 5",
+    "postalCode": "9022",
+    "city": "Krokelvdalen",
+    "url": "https://www.coop.no/butikker/extra/extra-kroken-1946"
+  },
+  {
+    "id": "2536",
+    "name": "Extra Kronstad",
+    "lat": 69.9632925,
+    "lon": 23.3910509,
+    "address": "Tømmerveien",
+    "postalCode": "9515",
+    "city": "Alta",
+    "url": "https://www.coop.no/butikker/extra/extra-kronstad-2536"
+  },
+  {
+    "id": "2436",
+    "name": "Extra Kurland",
+    "lat": 59.2927205,
+    "lon": 11.1121531,
+    "address": "Kurlandveien 2",
+    "postalCode": "1727",
+    "city": "Sarpsborg",
+    "url": "https://www.coop.no/butikker/extra/extra-kurland-2436"
+  },
+  {
+    "id": "1015",
+    "name": "Extra Kurlandsåsen",
+    "lat": 59.9334,
+    "lon": 11.0243,
+    "address": "Kurlandåsen 2",
+    "postalCode": "1479",
+    "city": "Kurland",
+    "url": "https://www.coop.no/butikker/extra/extra-kurlandsasen-1015"
+  },
+  {
+    "id": "2960",
+    "name": "Extra Kvadrat",
+    "lat": 58.87635062,
+    "lon": 5.72232522,
+    "address": "Gamle Stokkavei 1",
+    "postalCode": "4313",
+    "city": "Sandnes",
+    "url": "https://www.coop.no/butikker/extra/extra-kvadrat-2960"
+  },
+  {
+    "id": "4598",
+    "name": "Extra Kvala",
+    "lat": 59.4335445,
+    "lon": 5.2636417,
+    "address": "Kringlehaug 2",
+    "postalCode": "5516",
+    "city": "Haugesund",
+    "url": "https://www.coop.no/butikker/extra/extra-kvala-4598"
+  },
+  {
+    "id": "2822",
+    "name": "Extra Kvantum",
+    "lat": 59.566,
+    "lon": 9.21574,
+    "address": "Merdevegen 22",
+    "postalCode": "3676",
+    "city": "Notodden",
+    "url": "https://www.coop.no/butikker/extra/extra-kvantum-2822"
+  },
+  {
+    "id": "1254",
+    "name": "Extra Kvernaland",
+    "lat": 58.7792647,
+    "lon": 5.7219446,
+    "address": "Leirfenvegen 4",
+    "postalCode": "4355",
+    "city": "Kverneland",
+    "url": "https://www.coop.no/butikker/extra/extra-kvernaland-1254"
+  },
+  {
+    "id": "1271",
+    "name": "Extra Kvernevik",
+    "lat": 58.97148,
+    "lon": 5.60302,
+    "address": "Alkeveien 2",
+    "postalCode": "4049",
+    "city": "Hafrsfjord",
+    "url": "https://www.coop.no/butikker/extra/extra-kvernevik-1271"
+  },
+  {
+    "id": "1365",
+    "name": "Extra Kvinesdal",
+    "lat": 58.3176646,
+    "lon": 6.9588879,
+    "address": "Elvevegen 2",
+    "postalCode": "4480",
+    "city": "Kvinesdal",
+    "url": "https://www.coop.no/butikker/extra/extra-kvinesdal-1365"
+  },
+  {
+    "id": "2892",
+    "name": "Extra Kværnerbyen",
+    "lat": 59.9040455,
+    "lon": 10.785799,
+    "address": "Smeltedigelen 1",
+    "postalCode": "0195",
+    "city": "Oslo",
+    "url": "https://www.coop.no/butikker/extra/extra-kvaernerbyen-2892"
+  },
+  {
+    "id": "1778",
+    "name": "Extra Kyrksæterøra",
+    "lat": 63.2934321,
+    "lon": 9.0839792,
+    "address": "Industriveien 1",
+    "postalCode": "7200",
+    "city": "Kyrksæterøra",
+    "url": "https://www.coop.no/butikker/extra/extra-kyrksaeterora-1778"
+  },
+  {
+    "id": "2658",
+    "name": "Extra Kåsen",
+    "lat": 58.7419148,
+    "lon": 5.6369569,
+    "address": "Eskervegen 1-5",
+    "postalCode": "4341",
+    "city": "Bryne",
+    "url": "https://www.coop.no/butikker/extra/extra-kasen-2658"
+  },
+  {
+    "id": "2547",
+    "name": "Extra Lakselv",
+    "lat": 70.0522106,
+    "lon": 24.9653276,
+    "address": "Arne M Holdens vei 2",
+    "postalCode": "9700",
+    "city": "Lakselv",
+    "url": "https://www.coop.no/butikker/extra/extra-lakselv-2547"
+  },
+  {
+    "id": "4259",
+    "name": "Extra Lande Senter",
+    "lat": 59.2901822,
+    "lon": 11.0966788,
+    "address": "Vestrevei 4",
+    "postalCode": "1710",
+    "city": "Sarpsborg",
+    "url": "https://www.coop.no/butikker/extra/extra-lande-senter-4259"
+  },
+  {
+    "id": "2683",
+    "name": "Extra Landås",
+    "lat": 60.3618209,
+    "lon": 5.3693351,
+    "address": "Erleveien 20",
+    "postalCode": "5097",
+    "city": "Bergen",
+    "url": "https://www.coop.no/butikker/extra/extra-landas-2683"
+  },
+  {
+    "id": "1187",
+    "name": "Extra Langesund",
+    "lat": 59.002223,
+    "lon": 9.74409,
+    "address": "Bambleveien 8",
+    "postalCode": "3970",
+    "city": "Langesund",
+    "url": "https://www.coop.no/butikker/extra/extra-langesund-1187"
+  },
+  {
+    "id": "4325",
+    "name": "Extra Langhus",
+    "lat": 59.7545813,
+    "lon": 10.8293269,
+    "address": "Gamle Vevelstadvei 2C",
+    "postalCode": "1405",
+    "city": "Langhus",
+    "url": "https://www.coop.no/butikker/extra/extra-langhus-4325"
+  },
+  {
+    "id": "2952",
+    "name": "Extra Larvik",
+    "lat": 59.05447,
+    "lon": 10.02953,
+    "address": "Nansetgata 11",
+    "postalCode": "3256",
+    "city": "Larvik",
+    "url": "https://www.coop.no/butikker/extra/extra-larvik-2952"
+  },
+  {
+    "id": "2690",
+    "name": "Extra Leira",
+    "lat": 60.9711182,
+    "lon": 9.2895364,
+    "address": "Markavegen 2",
+    "postalCode": "2920",
+    "city": "Leira i Valdres",
+    "url": "https://www.coop.no/butikker/extra/extra-leira-2690"
+  },
+  {
+    "id": "2637",
+    "name": "Extra Leirvik",
+    "lat": 59.77851,
+    "lon": 5.49931,
+    "address": "Hamnegata 11",
+    "postalCode": "5411",
+    "city": "Stord",
+    "url": "https://www.coop.no/butikker/extra/extra-leirvik-2637"
+  },
+  {
+    "id": "2473",
+    "name": "Extra Leknes",
+    "lat": 68.1487938,
+    "lon": 13.6171096,
+    "address": "Storgata 8",
+    "postalCode": "8370",
+    "city": "Leknes",
+    "url": "https://www.coop.no/butikker/extra/extra-leknes-2473"
+  },
+  {
+    "id": "1621",
+    "name": "Extra Leksvik",
+    "lat": 63.6732352,
+    "lon": 10.6258408,
+    "address": "Vinnasand",
+    "postalCode": "7120",
+    "city": "Leksvik",
+    "url": "https://www.coop.no/butikker/extra/extra-leksvik-1621"
+  },
+  {
+    "id": "2614",
+    "name": "Extra Lena",
+    "lat": 60.6784924,
+    "lon": 10.814604,
+    "address": "Hovdesvingen 1",
+    "postalCode": "2850",
+    "city": "Lena",
+    "url": "https://www.coop.no/butikker/extra/extra-lena-2614"
+  },
+  {
+    "id": "2746",
+    "name": "Extra Lersbryggen",
+    "lat": 59.5711181,
+    "lon": 10.255905,
+    "address": "Lersbrygga 1",
+    "postalCode": "3077",
+    "city": "Sande i Vestfold",
+    "url": "https://www.coop.no/butikker/extra/extra-lersbryggen-2746"
+  },
+  {
+    "id": "2560",
+    "name": "Extra Lervig",
+    "lat": 58.967661,
+    "lon": 5.7551797,
+    "address": "Haugesundsgata 30",
+    "postalCode": "4014",
+    "city": "Stavanger",
+    "url": "https://www.coop.no/butikker/extra/extra-lervig-2560"
+  },
+  {
+    "id": "4246",
+    "name": "Extra Leuthenhaven",
+    "lat": 63.4304635,
+    "lon": 10.3906965,
+    "address": "Kongens gate 27",
+    "postalCode": "7012",
+    "city": "Trondheim",
+    "url": "https://www.coop.no/butikker/extra/extra-leuthenhaven-4246"
+  },
+  {
+    "id": "2898",
+    "name": "Extra Liertoppen",
+    "lat": 59.8112915,
+    "lon": 10.3058399,
+    "address": "Drammensveien 201",
+    "postalCode": "3420",
+    "city": "Lierskogen",
+    "url": "https://www.coop.no/butikker/extra/extra-liertoppen-2898"
+  },
+  {
+    "id": "2664",
+    "name": "Extra Lilleby",
+    "lat": 63.4419231,
+    "lon": 10.4356893,
+    "address": "Stjørdalsveien 4",
+    "postalCode": "7066",
+    "city": "Trondheim",
+    "url": "https://www.coop.no/butikker/extra/extra-lilleby-2664"
+  },
+  {
+    "id": "2524",
+    "name": "Extra Lillesand",
+    "lat": 58.2623,
+    "lon": 8.396709,
+    "address": "Senterveien 30",
+    "postalCode": "4790",
+    "city": "Lillesand",
+    "url": "https://www.coop.no/butikker/extra/extra-lillesand-2524"
+  },
+  {
+    "id": "1096",
+    "name": "Extra Lindebergåsen",
+    "lat": 59.9289628,
+    "lon": 10.8792031,
+    "address": "Lindebergåsen 10",
+    "postalCode": "1068",
+    "city": "Oslo",
+    "url": "https://www.coop.no/butikker/extra/extra-lindebergasen-1096"
+  },
+  {
+    "id": "2800",
+    "name": "Extra Lindesnes",
+    "lat": 58.0827592,
+    "lon": 7.3038166,
+    "address": "Spangereidveien 5",
+    "postalCode": "4520",
+    "city": "Sør-audnedal",
+    "url": "https://www.coop.no/butikker/extra/extra-lindesnes-2800"
+  },
+  {
+    "id": "1363",
+    "name": "Extra Lista",
+    "lat": 58.0977536,
+    "lon": 6.6925137,
+    "address": "Olav Selvaags Vei 16",
+    "postalCode": "4560",
+    "city": "Vanse",
+    "url": "https://www.coop.no/butikker/extra/extra-lista-1363"
+  },
+  {
+    "id": "2034",
+    "name": "Extra Lom",
+    "lat": 61.8372565,
+    "lon": 8.5686756,
+    "address": "Sognefjellsvegen 2",
+    "postalCode": "2686",
+    "city": "Lom",
+    "url": "https://www.coop.no/butikker/extra/extra-lom-2034"
+  },
+  {
+    "id": "2165",
+    "name": "Extra Lommedalen",
+    "lat": 59.9586918,
+    "lon": 10.4838219,
+    "address": "Lommedalsveien 299",
+    "postalCode": "1350",
+    "city": "Lommedalen",
+    "url": "https://www.coop.no/butikker/extra/extra-lommedalen-2165"
+  },
+  {
+    "id": "4586",
+    "name": "Extra Lone",
+    "lat": 60.37451,
+    "lon": 5.457538,
+    "address": "Hardangervegen 701",
+    "postalCode": "5268",
+    "city": "Haukeland",
+    "url": "https://www.coop.no/butikker/extra/extra-lone-4586"
+  },
+  {
+    "id": "4592",
+    "name": "Extra Lonevåg",
+    "lat": 60.5250408,
+    "lon": 5.496909,
+    "address": "Fotlandsvegen 7",
+    "postalCode": "5282",
+    "city": "Lonevåg",
+    "url": "https://www.coop.no/butikker/extra/extra-lonevag-4592"
+  },
+  {
+    "id": "1333",
+    "name": "Extra Lunde",
+    "lat": 58.0957007,
+    "lon": 7.782172,
+    "address": "Lundeveien 108",
+    "postalCode": "4640",
+    "city": "Søgne",
+    "url": "https://www.coop.no/butikker/extra/extra-lunde-1333"
+  },
+  {
+    "id": "1256",
+    "name": "Extra Lye",
+    "lat": 58.7306042,
+    "lon": 5.729469,
+    "address": "Prestegardsmarka 2",
+    "postalCode": "4347",
+    "city": "Lyefjell",
+    "url": "https://www.coop.no/butikker/extra/extra-lye-1256"
+  },
+  {
+    "id": "1362",
+    "name": "Extra Lyngdal",
+    "lat": 58.1384742,
+    "lon": 7.0713615,
+    "address": "Kirkevegen 3",
+    "postalCode": "4580",
+    "city": "Lyngdal",
+    "url": "https://www.coop.no/butikker/extra/extra-lyngdal-1362"
+  },
+  {
+    "id": "1964",
+    "name": "Extra Lyngseidet",
+    "lat": 69.574745,
+    "lon": 20.206927,
+    "address": "Parkveien 32",
+    "postalCode": "9060",
+    "city": "Lyngseidet",
+    "url": "https://www.coop.no/butikker/extra/extra-lyngseidet-1964"
+  },
+  {
+    "id": "2588",
+    "name": "Extra Lyngåsen",
+    "lat": 66.0087385,
+    "lon": 12.5812357,
+    "address": "Novvikveien 111",
+    "postalCode": "8802",
+    "city": "Sandnessjøen",
+    "url": "https://www.coop.no/butikker/extra/extra-lyngasen-2588"
+  },
+  {
+    "id": "4678",
+    "name": "Extra Lysehagan",
+    "lat": 59.9268894,
+    "lon": 10.6297163,
+    "address": "Lysehagan 46",
+    "postalCode": "0383",
+    "city": "Oslo",
+    "url": "https://www.coop.no/butikker/extra/extra-lysehagan-4678"
+  },
+  {
+    "id": "1430",
+    "name": "Extra Lærdal",
+    "lat": 61.0977024,
+    "lon": 7.482147,
+    "address": "Øyraplassen 2",
+    "postalCode": "6887",
+    "city": "Lærdal",
+    "url": "https://www.coop.no/butikker/extra/extra-laerdal-1430"
+  },
+  {
+    "id": "1774",
+    "name": "Extra Løkken",
+    "lat": 63.1264629,
+    "lon": 9.7051255,
+    "address": "Løkkenveien 223",
+    "postalCode": "7332",
+    "city": "Løkken Verk",
+    "url": "https://www.coop.no/butikker/extra/extra-lokken-1774"
+  },
+  {
+    "id": "1876",
+    "name": "Extra Løpsmarka",
+    "lat": 67.3133148,
+    "lon": 14.4499361,
+    "address": "Flatberget",
+    "postalCode": "8015",
+    "city": "Bodø",
+    "url": "https://www.coop.no/butikker/extra/extra-lopsmarka-1876"
+  },
+  {
+    "id": "2586",
+    "name": "Extra Lørenfallet",
+    "lat": 60.0208265,
+    "lon": 11.2272843,
+    "address": "Haldenveien 321",
+    "postalCode": "1923",
+    "city": "Sørum",
+    "url": "https://www.coop.no/butikker/extra/extra-lorenfallet-2586"
+  },
+  {
+    "id": "2911",
+    "name": "Extra Lørenveien",
+    "lat": 59.93106548,
+    "lon": 10.79014811,
+    "address": "Lørenveien 37",
+    "postalCode": "0585",
+    "city": "Oslo",
+    "url": "https://www.coop.no/butikker/extra/extra-lorenveien-2911"
+  },
+  {
+    "id": "2819",
+    "name": "Extra Løten",
+    "lat": 60.8203161,
+    "lon": 11.3401459,
+    "address": "Stasjonsvegen 7",
+    "postalCode": "2340",
+    "city": "Løten",
+    "url": "https://www.coop.no/butikker/extra/extra-loten-2819"
+  },
+  {
+    "id": "1058",
+    "name": "Extra Løvenstad",
+    "lat": 59.9376128,
+    "lon": 11.0214051,
+    "address": "Løvenstadtorget 12",
+    "postalCode": "2006",
+    "city": "Løvenstad",
+    "url": "https://www.coop.no/butikker/extra/extra-lovenstad-1058"
+  },
+  {
+    "id": "4580",
+    "name": "Extra Løvås",
+    "lat": 60.355829,
+    "lon": 5.289781,
+    "address": "Løvåsveien 20",
+    "postalCode": "5145",
+    "city": "Fyllingsdalen",
+    "url": "https://www.coop.no/butikker/extra/extra-lovas-4580"
+  },
+  {
+    "id": "4223",
+    "name": "Extra Maaseskjæret",
+    "lat": 60.413939,
+    "lon": 5.319974,
+    "address": "Sandsviksveien 94",
+    "postalCode": "5035",
+    "city": "Bergen",
+    "url": "https://www.coop.no/butikker/extra/extra-maaseskjaeret-4223"
+  },
+  {
+    "id": "4750",
+    "name": "Extra Madla",
+    "lat": 58.952033,
+    "lon": 5.657283,
+    "address": "Ragbakken 84",
+    "postalCode": "4042",
+    "city": "Hafrsfjord",
+    "url": "https://www.coop.no/butikker/extra/extra-madla-4750"
+  },
+  {
+    "id": "2782",
+    "name": "Extra Madlamark",
+    "lat": 58.9434511,
+    "lon": 5.6899427,
+    "address": "Jernalderveien 50",
+    "postalCode": "4041",
+    "city": "Hafrsfjord",
+    "url": "https://www.coop.no/butikker/extra/extra-madlamark-2782"
+  },
+  {
+    "id": "4055",
+    "name": "Extra Majorstuen",
+    "lat": 59.9305125,
+    "lon": 10.7158911,
+    "address": "Harald Hårfagres gate 2",
+    "postalCode": "0363",
+    "city": "Oslo",
+    "url": "https://www.coop.no/butikker/extra/extra-majorstuen-4055"
+  },
+  {
+    "id": "4326",
+    "name": "Extra Makrellbekken",
+    "lat": 59.9421507,
+    "lon": 10.6727801,
+    "address": "Øvre Smestadvei 2A",
+    "postalCode": "0378",
+    "city": "Oslo",
+    "url": "https://www.coop.no/butikker/extra/extra-makrellbekken-4326"
+  },
+  {
+    "id": "1344",
+    "name": "Extra Malmø",
+    "lat": 58.0261387,
+    "lon": 7.4659458,
+    "address": "Søren Jaabæks vei 21",
+    "postalCode": "4515",
+    "city": "Mandal",
+    "url": "https://www.coop.no/butikker/extra/extra-malmo-1344"
+  },
+  {
+    "id": "4277",
+    "name": "Extra Mandal Brygge",
+    "lat": 58.0237146,
+    "lon": 7.4514527,
+    "address": "Kastellgata 12 D",
+    "postalCode": "4514",
+    "city": "Mandal",
+    "url": "https://www.coop.no/butikker/extra/extra-mandal-brygge-4277"
+  },
+  {
+    "id": "1395",
+    "name": "Extra Manger",
+    "lat": 60.6406,
+    "lon": 5.04213,
+    "address": "Manger Senter",
+    "postalCode": "5936",
+    "city": "Manger",
+    "url": "https://www.coop.no/butikker/extra/extra-manger-1395"
+  },
+  {
+    "id": "4075",
+    "name": "Extra Manglerud Senter",
+    "lat": 59.8974019,
+    "lon": 10.8136716,
+    "address": "Plogveien 6",
+    "postalCode": "0679",
+    "city": "Oslo",
+    "url": "https://www.coop.no/butikker/extra/extra-manglerud-senter-4075"
+  },
+  {
+    "id": "2721",
+    "name": "Extra Mariero",
+    "lat": 58.9341872,
+    "lon": 5.7415384,
+    "address": "Langflåtveien 33",
+    "postalCode": "4017",
+    "city": "Stavanger",
+    "url": "https://www.coop.no/butikker/extra/extra-mariero-2721"
+  },
+  {
+    "id": "1366",
+    "name": "Extra Marvika Torv",
+    "lat": 58.1525507,
+    "lon": 8.0250841,
+    "address": "Industrigata 9",
+    "postalCode": "4632",
+    "city": "Kristiansand",
+    "url": "https://www.coop.no/butikker/extra/extra-marvika-torv-1366"
+  },
+  {
+    "id": "2715",
+    "name": "Extra Mascot",
+    "lat": 59.2322401,
+    "lon": 10.9053295,
+    "address": "Mosseveien 109",
+    "postalCode": "1624",
+    "city": "Gressvik",
+    "url": "https://www.coop.no/butikker/extra/extra-mascot-2715"
+  },
+  {
+    "id": "2914",
+    "name": "Extra Maskinveien",
+    "lat": 58.8951747,
+    "lon": 5.7054972,
+    "address": "Maskinveien 2",
+    "postalCode": "4033",
+    "city": "Stavanger",
+    "url": "https://www.coop.no/butikker/extra/extra-maskinveien-2914"
+  },
+  {
+    "id": "4950",
+    "name": "Extra Mastrevik",
+    "lat": 60.7835769,
+    "lon": 4.9303031,
+    "address": "Sætremarka 1",
+    "postalCode": "5943",
+    "city": "Austrheim",
+    "url": "https://www.coop.no/butikker/extra/extra-mastrevik-4950"
+  },
+  {
+    "id": "4345",
+    "name": "Extra Mathopen",
+    "lat": 60.3337715,
+    "lon": 5.2122364,
+    "address": "Skareveien 1 A",
+    "postalCode": "5174",
+    "city": "Mathopen",
+    "url": "https://www.coop.no/butikker/extra/extra-mathopen-4345"
+  },
+  {
+    "id": "2639",
+    "name": "Extra Maxi",
+    "lat": 60.7987033,
+    "lon": 11.0467047,
+    "address": "Aslak Bolts Gate 48",
+    "postalCode": "2316",
+    "city": "Hamar",
+    "url": "https://www.coop.no/butikker/extra/extra-maxi-2639"
+  },
+  {
+    "id": "4566",
+    "name": "Extra Maxis",
+    "lat": 58.454511,
+    "lon": 8.747336,
+    "address": "Vesterveien 44",
+    "postalCode": "4839",
+    "city": "Arendal",
+    "url": "https://www.coop.no/butikker/extra/extra-maxis-4566"
+  },
+  {
+    "id": "1909",
+    "name": "Extra Melbu",
+    "lat": 68.4993178,
+    "lon": 14.7988364,
+    "address": "Christian Fredriksens gate 1",
+    "postalCode": "8445",
+    "city": "Melbu",
+    "url": "https://www.coop.no/butikker/extra/extra-melbu-1909"
+  },
+  {
+    "id": "1824",
+    "name": "Extra Melhus",
+    "lat": 63.2856,
+    "lon": 10.276,
+    "address": "Jernbanevegen 11",
+    "postalCode": "7224",
+    "city": "Melhus",
+    "url": "https://www.coop.no/butikker/extra/extra-melhus-1824"
+  },
+  {
+    "id": "1632",
+    "name": "Extra Meråker",
+    "lat": 63.4129846,
+    "lon": 11.7391371,
+    "address": "Sørsidveien 20",
+    "postalCode": "7530",
+    "city": "Meråker",
+    "url": "https://www.coop.no/butikker/extra/extra-meraker-1632"
+  },
+  {
+    "id": "2890",
+    "name": "Extra Midsund",
+    "lat": 62.674084,
+    "lon": 6.6734575,
+    "address": "Utsidevegen 57",
+    "postalCode": "6475",
+    "city": "Midsund",
+    "url": "https://www.coop.no/butikker/extra/extra-midsund-2890"
+  },
+  {
+    "id": "2000",
+    "name": "Extra Midtbakken",
+    "lat": 69.9719,
+    "lon": 23.2767,
+    "address": "Trudvang 2",
+    "postalCode": "9511",
+    "city": "Alta",
+    "url": "https://www.coop.no/butikker/extra/extra-midtbakken-2000"
+  },
+  {
+    "id": "4275",
+    "name": "Extra Minde",
+    "lat": 60.360687,
+    "lon": 5.343119,
+    "address": "Minde allé 48",
+    "postalCode": "5068",
+    "city": "Bergen",
+    "url": "https://www.coop.no/butikker/extra/extra-minde-4275"
+  },
+  {
+    "id": "4289",
+    "name": "Extra Mjøndalen",
+    "lat": 59.7495403,
+    "lon": 10.014942,
+    "address": "Arbeidergata 6",
+    "postalCode": "3050",
+    "city": "Mjøndalen",
+    "url": "https://www.coop.no/butikker/extra/extra-mjondalen-4289"
+  },
+  {
+    "id": "2471",
+    "name": "Extra Moan Levanger",
+    "lat": 63.7351,
+    "lon": 11.2829,
+    "address": "Moafjæra 7A",
+    "postalCode": "7606",
+    "city": "Levanger",
+    "url": "https://www.coop.no/butikker/extra/extra-moan-levanger-2471"
+  },
+  {
+    "id": "2161",
+    "name": "Extra Moholt",
+    "lat": 63.4094237,
+    "lon": 10.4451644,
+    "address": "Vegamot 4",
+    "postalCode": "7048",
+    "city": "Trondheim",
+    "url": "https://www.coop.no/butikker/extra/extra-moholt-2161"
+  },
+  {
+    "id": "1260",
+    "name": "Extra Moi",
+    "lat": 58.4611309,
+    "lon": 6.5446496,
+    "address": "Øyevollveien 4",
+    "postalCode": "4460",
+    "city": "Moi",
+    "url": "https://www.coop.no/butikker/extra/extra-moi-1260"
+  },
+  {
+    "id": "2493",
+    "name": "Extra Moksheim",
+    "lat": 59.3634615,
+    "lon": 5.307986,
+    "address": "Røysvegen 1",
+    "postalCode": "5545",
+    "city": "Vormedal",
+    "url": "https://www.coop.no/butikker/extra/extra-moksheim-2493"
+  },
+  {
+    "id": "4263",
+    "name": "Extra Mortensrud",
+    "lat": 59.8484195,
+    "lon": 10.8291948,
+    "address": "Lofsrudveien 6",
+    "postalCode": "1281",
+    "city": "Oslo",
+    "url": "https://www.coop.no/butikker/extra/extra-mortensrud-4263"
+  },
+  {
+    "id": "2472",
+    "name": "Extra Mosjøen",
+    "lat": 65.8317,
+    "lon": 13.2051,
+    "address": "Vefsnvegen 11",
+    "postalCode": "8656",
+    "city": "Mosjøen",
+    "url": "https://www.coop.no/butikker/extra/extra-mosjoen-2472"
+  },
+  {
+    "id": "4273",
+    "name": "Extra Mosserød",
+    "lat": 59.1465321,
+    "lon": 10.2075623,
+    "address": "Ringveien 71",
+    "postalCode": "3226",
+    "city": "Sandefjord",
+    "url": "https://www.coop.no/butikker/extra/extra-mosserod-4273"
+  },
+  {
+    "id": "2676",
+    "name": "Extra Myre",
+    "lat": 68.9148362,
+    "lon": 15.1011973,
+    "address": "Storgata 62",
+    "postalCode": "8430",
+    "city": "Myre",
+    "url": "https://www.coop.no/butikker/extra/extra-myre-2676"
+  },
+  {
+    "id": "2453",
+    "name": "Extra Mysen",
+    "lat": 59.5535,
+    "lon": 11.3327,
+    "address": "Smedgata 30",
+    "postalCode": "1850",
+    "city": "Mysen",
+    "url": "https://www.coop.no/butikker/extra/extra-mysen-2453"
+  },
+  {
+    "id": "2915",
+    "name": "Extra Måløy",
+    "lat": 61.9216164,
+    "lon": 5.1541885,
+    "address": "Myrane 13",
+    "postalCode": "6718",
+    "city": "Deknepollen",
+    "url": "https://www.coop.no/butikker/extra/extra-maloy-2915"
+  },
+  {
+    "id": "1701",
+    "name": "Extra Mære",
+    "lat": 63.9375303,
+    "lon": 11.4225515,
+    "address": "Tuvbakken 2",
+    "postalCode": "7710",
+    "city": "Mære",
+    "url": "https://www.coop.no/butikker/extra/extra-maere-1701"
+  },
+  {
+    "id": "1877",
+    "name": "Extra Mørkved",
+    "lat": 67.2894,
+    "lon": 14.5681,
+    "address": "Mørkvedsentret 27",
+    "postalCode": "8028",
+    "city": "Bodø",
+    "url": "https://www.coop.no/butikker/extra/extra-morkved-1877"
+  },
+  {
+    "id": "2867",
+    "name": "Extra Nadderud",
+    "lat": 59.91697469,
+    "lon": 10.58838158,
+    "address": "Gamle Ringeriksvei 57",
+    "postalCode": "1357",
+    "city": "Bekkestua",
+    "url": "https://www.coop.no/butikker/extra/extra-nadderud-2867"
+  },
+  {
+    "id": "2463",
+    "name": "Extra Namsos",
+    "lat": 64.457236,
+    "lon": 11.532139,
+    "address": "Nøsthaugvegen 7",
+    "postalCode": "7820",
+    "city": "Spillum",
+    "url": "https://www.coop.no/butikker/extra/extra-namsos-2463"
+  },
+  {
+    "id": "4800",
+    "name": "Extra Narvik Kongensgate",
+    "lat": 68.44111,
+    "lon": 17.435195,
+    "address": "Kongensgate 66",
+    "postalCode": "8514",
+    "city": "Narvik",
+    "url": "https://www.coop.no/butikker/extra/extra-narvik-kongensgate-4800"
+  },
+  {
+    "id": "2568",
+    "name": "Extra Naustdal",
+    "lat": 61.508236,
+    "lon": 5.7175843,
+    "address": "fjæra",
+    "postalCode": "6817",
+    "city": "Naustdal",
+    "url": "https://www.coop.no/butikker/extra/extra-naustdal-2568"
+  },
+  {
+    "id": "2951",
+    "name": "Extra Nedenes",
+    "lat": 58.41204166,
+    "lon": 8.69786843,
+    "address": "Vesterveien 778",
+    "postalCode": "4823",
+    "city": "Nedenes",
+    "url": "https://www.coop.no/butikker/extra/extra-nedenes-2951"
+  },
+  {
+    "id": "2665",
+    "name": "Extra Nes I Ådal",
+    "lat": 60.5628465,
+    "lon": 9.9954207,
+    "address": "Ådalsveien 1169",
+    "postalCode": "3524",
+    "city": "Nes",
+    "url": "https://www.coop.no/butikker/extra/extra-nes-i-adal-2665"
+  },
+  {
+    "id": "2166",
+    "name": "Extra Neskollen",
+    "lat": 60.1265114,
+    "lon": 11.3400406,
+    "address": "Melkevegen 19",
+    "postalCode": "2165",
+    "city": "Hvam",
+    "url": "https://www.coop.no/butikker/extra/extra-neskollen-2166"
+  },
+  {
+    "id": "4262",
+    "name": "Extra Nesoddtangen",
+    "lat": 59.8455125,
+    "lon": 10.67072883,
+    "address": "Kapellveien 2",
+    "postalCode": "1452",
+    "city": "Nesoddtangen",
+    "url": "https://www.coop.no/butikker/extra/extra-nesoddtangen-4262"
+  },
+  {
+    "id": "2632",
+    "name": "Extra Nesset",
+    "lat": 59.7305527,
+    "lon": 10.7347474,
+    "address": "Nessetveien 69",
+    "postalCode": "1407",
+    "city": "Vinterbro",
+    "url": "https://www.coop.no/butikker/extra/extra-nesset-2632"
+  },
+  {
+    "id": "4239",
+    "name": "Extra Neuberggt.",
+    "lat": 59.9263214,
+    "lon": 10.715318,
+    "address": "Neuberggata 19A",
+    "postalCode": "0367",
+    "city": "Oslo",
+    "url": "https://www.coop.no/butikker/extra/extra-neuberggt-4239"
+  },
+  {
+    "id": "1805",
+    "name": "Extra Nidarvoll",
+    "lat": 63.3972,
+    "lon": 10.405,
+    "address": "Leirfossveien 2",
+    "postalCode": "7037",
+    "city": "Trondheim",
+    "url": "https://www.coop.no/butikker/extra/extra-nidarvoll-1805"
+  },
+  {
+    "id": "2583",
+    "name": "Extra Nordfjordeid",
+    "lat": 61.9076602,
+    "lon": 5.9884733,
+    "address": "Sjøgata 21",
+    "postalCode": "6770",
+    "city": "Nordfjordeid",
+    "url": "https://www.coop.no/butikker/extra/extra-nordfjordeid-2583"
+  },
+  {
+    "id": "1945",
+    "name": "Extra Nordkjosbotn",
+    "lat": 69.2181,
+    "lon": 19.5571,
+    "address": "Sentrumsveien 22",
+    "postalCode": "9040",
+    "city": "Nordkjosbotn",
+    "url": "https://www.coop.no/butikker/extra/extra-nordkjosbotn-1945"
+  },
+  {
+    "id": "1697",
+    "name": "Extra Nordsileiret",
+    "lat": 64.021595,
+    "lon": 11.489048,
+    "address": "Sagbruksvegen 5",
+    "postalCode": "7725",
+    "city": "Steinkjer",
+    "url": "https://www.coop.no/butikker/extra/extra-nordsileiret-1697"
+  },
+  {
+    "id": "4047",
+    "name": "Extra Notodden",
+    "lat": 59.5569582,
+    "lon": 9.2551764,
+    "address": "Storgata 13",
+    "postalCode": "3674",
+    "city": "Notodden",
+    "url": "https://www.coop.no/butikker/extra/extra-notodden-4047"
+  },
+  {
+    "id": "1451",
+    "name": "Extra Nyborg",
+    "lat": 60.4738271,
+    "lon": 5.3355052,
+    "address": "Åsamyrane 271",
+    "postalCode": "5131",
+    "city": "Nyborg",
+    "url": "https://www.coop.no/butikker/extra/extra-nyborg-1451"
+  },
+  {
+    "id": "2544",
+    "name": "Extra Nærbø",
+    "lat": 58.6648513,
+    "lon": 5.6366917,
+    "address": "Torggata 16",
+    "postalCode": "4365",
+    "city": "Nærbø",
+    "url": "https://www.coop.no/butikker/extra/extra-naerbo-2544"
+  },
+  {
+    "id": "1075",
+    "name": "Extra Næridsrød",
+    "lat": 59.1404381,
+    "lon": 11.4028393,
+    "address": "Asakveien 27",
+    "postalCode": "1785",
+    "city": "Halden",
+    "url": "https://www.coop.no/butikker/extra/extra-naeridsrod-1075"
+  },
+  {
+    "id": "4781",
+    "name": "Extra Nøtterøy",
+    "lat": 59.2441274,
+    "lon": 10.4249982,
+    "address": "Smidsrødveien 37A",
+    "postalCode": "3120",
+    "city": "Nøtterøy",
+    "url": "https://www.coop.no/butikker/extra/extra-notteroy-4781"
+  },
+  {
+    "id": "2793",
+    "name": "Extra Odda",
+    "lat": 60.066399,
+    "lon": 6.5476426,
+    "address": "Smelteverket 18",
+    "postalCode": "5750",
+    "city": "Odda",
+    "url": "https://www.coop.no/butikker/extra/extra-odda-2793"
+  },
+  {
+    "id": "2634",
+    "name": "Extra Olderhamna",
+    "lat": 69.2309665,
+    "lon": 18.0014245,
+    "address": "Sjøgata 42",
+    "postalCode": "9300",
+    "city": "Finnsnes",
+    "url": "https://www.coop.no/butikker/extra/extra-olderhamna-2634"
+  },
+  {
+    "id": "2732",
+    "name": "Extra Olsborg",
+    "lat": 69.1444018,
+    "lon": 18.5936846,
+    "address": "Målsnesveien 5",
+    "postalCode": "9321",
+    "city": "Olsborg",
+    "url": "https://www.coop.no/butikker/extra/extra-olsborg-2732"
+  },
+  {
+    "id": "4258",
+    "name": "Extra Olsvik",
+    "lat": 60.385116,
+    "lon": 5.217752,
+    "address": "Olsvikskjenet 155",
+    "postalCode": "5184",
+    "city": "Olsvik",
+    "url": "https://www.coop.no/butikker/extra/extra-olsvik-4258"
+  },
+  {
+    "id": "1835",
+    "name": "Extra Opphaug",
+    "lat": 63.7269576,
+    "lon": 9.6875089,
+    "address": "Røstadveien 1",
+    "postalCode": "7140",
+    "city": "Opphaug",
+    "url": "https://www.coop.no/butikker/extra/extra-opphaug-1835"
+  },
+  {
+    "id": "1770",
+    "name": "Extra Orkanger",
+    "lat": 63.3098538,
+    "lon": 9.8566179,
+    "address": "Trondheimsveien 13",
+    "postalCode": "7300",
+    "city": "Orkanger",
+    "url": "https://www.coop.no/butikker/extra/extra-orkanger-1770"
+  },
+  {
+    "id": "2534",
+    "name": "Extra Orre",
+    "lat": 58.7184649,
+    "lon": 5.5679974,
+    "address": "Pollestadvegen 341",
+    "postalCode": "4343",
+    "city": "Orre",
+    "url": "https://www.coop.no/butikker/extra/extra-orre-2534"
+  },
+  {
+    "id": "2494",
+    "name": "Extra Os",
+    "lat": 60.2021431,
+    "lon": 5.4571552,
+    "address": "Prestegardskogen 2A",
+    "postalCode": "5210",
+    "city": "Os",
+    "url": "https://www.coop.no/butikker/extra/extra-os-2494"
+  },
+  {
+    "id": "2698",
+    "name": "Extra Osloveien. Øst",
+    "lat": 60.1570992,
+    "lon": 10.2568731,
+    "address": "Osloveien 10",
+    "postalCode": "3511",
+    "city": "Hønefoss",
+    "url": "https://www.coop.no/butikker/extra/extra-osloveien-ost-2698"
+  },
+  {
+    "id": "4590",
+    "name": "Extra Osøyro",
+    "lat": 60.185982,
+    "lon": 5.468405,
+    "address": "Øyro 59",
+    "postalCode": "5200",
+    "city": "Os",
+    "url": "https://www.coop.no/butikker/extra/extra-osoyro-4590"
+  },
+  {
+    "id": "2854",
+    "name": "Extra Otta",
+    "lat": 61.7714318,
+    "lon": 9.540228,
+    "address": "Johan Nygårds gate 12",
+    "postalCode": "2670",
+    "city": "Otta",
+    "url": "https://www.coop.no/butikker/extra/extra-otta-2854"
+  },
+  {
+    "id": "2692",
+    "name": "Extra Paradis",
+    "lat": 58.9575203,
+    "lon": 5.7403555,
+    "address": "Lagårdsveien 80",
+    "postalCode": "4010",
+    "city": "Stavanger",
+    "url": "https://www.coop.no/butikker/extra/extra-paradis-2692"
+  },
+  {
+    "id": "2729",
+    "name": "Extra Park+ Haugesund",
+    "lat": 59.3850077,
+    "lon": 5.3025783,
+    "address": "Ystadvegen 1",
+    "postalCode": "5538",
+    "city": "Haugesund",
+    "url": "https://www.coop.no/butikker/extra/extra-park-haugesund-2729"
+  },
+  {
+    "id": "4085",
+    "name": "Extra Parken Kristiansand Sørvest",
+    "lat": 58.1474434,
+    "lon": 7.9961026,
+    "address": "Gyldenløves gate 14",
+    "postalCode": "4611",
+    "city": "Kristiansand S",
+    "url": "https://www.coop.no/butikker/extra/extra-parken-kristiansand-sorvest-4085"
+  },
+  {
+    "id": "4063",
+    "name": "Extra Petroleumsveien",
+    "lat": 58.89253062,
+    "lon": 5.72176956,
+    "address": "Petroleumsveien 6",
+    "postalCode": "4031",
+    "city": "Stavanger",
+    "url": "https://www.coop.no/butikker/extra/extra-petroleumsveien-4063"
+  },
+  {
+    "id": "2458",
+    "name": "Extra Pilestredet Park",
+    "lat": 59.9195936,
+    "lon": 10.7395487,
+    "address": "Pilestredet Park 18",
+    "postalCode": "0176",
+    "city": "Oslo",
+    "url": "https://www.coop.no/butikker/extra/extra-pilestredet-park-2458"
+  },
+  {
+    "id": "2656",
+    "name": "Extra Pindsle",
+    "lat": 59.1384482,
+    "lon": 10.180599,
+    "address": "Nygårdsveien 76",
+    "postalCode": "3221",
+    "city": "Sandefjord",
+    "url": "https://www.coop.no/butikker/extra/extra-pindsle-2656"
+  },
+  {
+    "id": "2735",
+    "name": "Extra Plesner",
+    "lat": 59.2121072,
+    "lon": 9.6043462,
+    "address": "Schweigaards gate 15",
+    "postalCode": "3717",
+    "city": "Skien",
+    "url": "https://www.coop.no/butikker/extra/extra-plesner-2735"
+  },
+  {
+    "id": "1198",
+    "name": "Extra Porsgrunn",
+    "lat": 59.1395,
+    "lon": 9.65523,
+    "address": "Jernbanegata 3",
+    "postalCode": "3916",
+    "city": "Porsgrunn",
+    "url": "https://www.coop.no/butikker/extra/extra-porsgrunn-1198"
+  },
+  {
+    "id": "4741",
+    "name": "Extra Prestamarka",
+    "lat": 59.0557809,
+    "lon": 5.9194198,
+    "address": "Einerhaugvegen 2",
+    "postalCode": "4120",
+    "city": "Tau",
+    "url": "https://www.coop.no/butikker/extra/extra-prestamarka-4741"
+  },
+  {
+    "id": "4067",
+    "name": "Extra Prinsdal",
+    "lat": 59.8342241,
+    "lon": 10.8076359,
+    "address": "Nedre Prinsdals vei 70 A",
+    "postalCode": "1263",
+    "city": "Oslo",
+    "url": "https://www.coop.no/butikker/extra/extra-prinsdal-4067"
+  },
+  {
+    "id": "2848",
+    "name": "Extra Rakkestad",
+    "lat": 59.4256734,
+    "lon": 11.3429523,
+    "address": "Storgata 20",
+    "postalCode": "1890",
+    "city": "Rakkestad",
+    "url": "https://www.coop.no/butikker/extra/extra-rakkestad-2848"
+  },
+  {
+    "id": "2785",
+    "name": "Extra Randabergveien",
+    "lat": 58.9772182,
+    "lon": 5.7066407,
+    "address": "Randabergveien 24",
+    "postalCode": "4025",
+    "city": "Stavanger",
+    "url": "https://www.coop.no/butikker/extra/extra-randabergveien-2785"
+  },
+  {
+    "id": "4763",
+    "name": "Extra Randvik",
+    "lat": 58.7155234,
+    "lon": 9.2218429,
+    "address": "Tyriveien 25",
+    "postalCode": "4956",
+    "city": "Risør",
+    "url": "https://www.coop.no/butikker/extra/extra-randvik-4763"
+  },
+  {
+    "id": "2740",
+    "name": "Extra Raufoss",
+    "lat": 60.728938,
+    "lon": 10.6143422,
+    "address": "Storgata 49",
+    "postalCode": "2830",
+    "city": "Raufoss",
+    "url": "https://www.coop.no/butikker/extra/extra-raufoss-2740"
+  },
+  {
+    "id": "1181",
+    "name": "Extra Rauland",
+    "lat": 59.6953864,
+    "lon": 8.0651469,
+    "address": "Rjukanvegen 14",
+    "postalCode": "3864",
+    "city": "Rauland",
+    "url": "https://www.coop.no/butikker/extra/extra-rauland-1181"
+  },
+  {
+    "id": "3313",
+    "name": "Extra Raveien",
+    "lat": 59.6652038,
+    "lon": 10.7923918,
+    "address": "Brekkeveien 1",
+    "postalCode": "1430",
+    "city": "Ås",
+    "url": "https://www.coop.no/butikker/extra/extra-raveien-3313"
+  },
+  {
+    "id": "2950",
+    "name": "Extra Refstadveien",
+    "lat": 59.94248,
+    "lon": 10.81178,
+    "address": "Refstadveien 60-74",
+    "postalCode": "0589",
+    "city": "Oslo",
+    "url": "https://www.coop.no/butikker/extra/extra-refstadveien-2950"
+  },
+  {
+    "id": "2019",
+    "name": "Extra Rena",
+    "lat": 61.1325138,
+    "lon": 11.3732758,
+    "address": "Torget 3",
+    "postalCode": "2450",
+    "city": "Rena",
+    "url": "https://www.coop.no/butikker/extra/extra-rena-2019"
+  },
+  {
+    "id": "1657",
+    "name": "Extra Rindal",
+    "lat": 63.0546979,
+    "lon": 9.2125613,
+    "address": "Rindalsvegen 15A",
+    "postalCode": "6657",
+    "city": "Rindal",
+    "url": "https://www.coop.no/butikker/extra/extra-rindal-1657"
+  },
+  {
+    "id": "2040",
+    "name": "Extra Ringebu",
+    "lat": 61.5304937,
+    "lon": 10.1409574,
+    "address": "Ole Steigs gate 5",
+    "postalCode": "2630",
+    "city": "Ringebu",
+    "url": "https://www.coop.no/butikker/extra/extra-ringebu-2040"
+  },
+  {
+    "id": "1820",
+    "name": "Extra Ringvålveien",
+    "lat": 63.3507,
+    "lon": 10.3391,
+    "address": "Ringvålveien 48",
+    "postalCode": "7080",
+    "city": "Heimdal",
+    "url": "https://www.coop.no/butikker/extra/extra-ringvalveien-1820"
+  },
+  {
+    "id": "4286",
+    "name": "Extra Riska",
+    "lat": 58.9243375,
+    "lon": 5.8517897,
+    "address": "Hommersåkveien 20",
+    "postalCode": "4311",
+    "city": "Hommersåk",
+    "url": "https://www.coop.no/butikker/extra/extra-riska-4286"
+  },
+  {
+    "id": "1834",
+    "name": "Extra Rissa",
+    "lat": 63.5843291,
+    "lon": 9.9606334,
+    "address": "Rådhusveien 6",
+    "postalCode": "7100",
+    "city": "Rissa",
+    "url": "https://www.coop.no/butikker/extra/extra-rissa-1834"
+  },
+  {
+    "id": "4200",
+    "name": "Extra Risvollan",
+    "lat": 63.3915292,
+    "lon": 10.4301818,
+    "address": "Ingeborg Aas' veg 4",
+    "postalCode": "7036",
+    "city": "Trondheim",
+    "url": "https://www.coop.no/butikker/extra/extra-risvollan-4200"
+  },
+  {
+    "id": "2420",
+    "name": "Extra Rognan",
+    "lat": 67.1021,
+    "lon": 15.3936,
+    "address": "Jernbanegata 12",
+    "postalCode": "8250",
+    "city": "Rognan",
+    "url": "https://www.coop.no/butikker/extra/extra-rognan-2420"
+  },
+  {
+    "id": "2578",
+    "name": "Extra Rosenborg",
+    "lat": 63.433961,
+    "lon": 10.413734,
+    "address": "Innherredsveien 7",
+    "postalCode": "7014",
+    "city": "Trondheim",
+    "url": "https://www.coop.no/butikker/extra/extra-rosenborg-2578"
+  },
+  {
+    "id": "4710",
+    "name": "Extra Rotset Volda",
+    "lat": 62.144601,
+    "lon": 6.08169,
+    "address": "Prestegata 29",
+    "postalCode": "6100",
+    "city": "Volda",
+    "url": "https://www.coop.no/butikker/extra/extra-rotset-volda-4710"
+  },
+  {
+    "id": "2667",
+    "name": "Extra Ryensvingen",
+    "lat": 59.8939804,
+    "lon": 10.8059943,
+    "address": "Ryensvingen 1",
+    "postalCode": "0680",
+    "city": "Oslo",
+    "url": "https://www.coop.no/butikker/extra/extra-ryensvingen-2667"
+  },
+  {
+    "id": "1141",
+    "name": "Extra Rykkinn",
+    "lat": 59.9294966,
+    "lon": 10.4670082,
+    "address": "Valkyrievn 2",
+    "postalCode": "1349",
+    "city": "Rykkinn",
+    "url": "https://www.coop.no/butikker/extra/extra-rykkinn-1141"
+  },
+  {
+    "id": "4687",
+    "name": "Extra Rådhusgaten",
+    "lat": 59.020272,
+    "lon": 6.040042,
+    "address": "Rådhusgaten 24",
+    "postalCode": "4100",
+    "city": "Jørpeland",
+    "url": "https://www.coop.no/butikker/extra/extra-radhusgaten-4687"
+  },
+  {
+    "id": "1219",
+    "name": "Extra Råholt",
+    "lat": 60.2809338,
+    "lon": 11.1740099,
+    "address": "Gladbakkvegen 1",
+    "postalCode": "2070",
+    "city": "Råholt",
+    "url": "https://www.coop.no/butikker/extra/extra-raholt-1219"
+  },
+  {
+    "id": "4257",
+    "name": "Extra Rælingen",
+    "lat": 59.9458622,
+    "lon": 11.0289356,
+    "address": "Stallbakken 3",
+    "postalCode": "2005",
+    "city": "Rælingen",
+    "url": "https://www.coop.no/butikker/extra/extra-raelingen-4257"
+  },
+  {
+    "id": "2943",
+    "name": "Extra Rønvik",
+    "lat": 67.291714,
+    "lon": 14.4220604,
+    "address": "Rønvikveien 71",
+    "postalCode": "8009",
+    "city": "Bodø",
+    "url": "https://www.coop.no/butikker/extra/extra-ronvik-2943"
+  },
+  {
+    "id": "2718",
+    "name": "Extra Røros",
+    "lat": 62.5665051,
+    "lon": 11.3751355,
+    "address": "Havsjøveien 3",
+    "postalCode": "7374",
+    "city": "Røros",
+    "url": "https://www.coop.no/butikker/extra/extra-roros-2718"
+  },
+  {
+    "id": "2794",
+    "name": "Extra Rørvik",
+    "lat": 64.8611182,
+    "lon": 11.2384434,
+    "address": "Strandgata 13",
+    "postalCode": "7900",
+    "city": "Rørvik",
+    "url": "https://www.coop.no/butikker/extra/extra-rorvik-2794"
+  },
+  {
+    "id": "4078",
+    "name": "Extra Saga Senter",
+    "lat": 60.1414109,
+    "lon": 11.1802212,
+    "address": "Dampsaga Allè 2",
+    "postalCode": "2050",
+    "city": "Jessheim",
+    "url": "https://www.coop.no/butikker/extra/extra-saga-senter-4078"
+  },
+  {
+    "id": "4226",
+    "name": "Extra Sagene",
+    "lat": 59.9355442,
+    "lon": 10.7525795,
+    "address": "Thurmanns gate 12B",
+    "postalCode": "0461",
+    "city": "Oslo",
+    "url": "https://www.coop.no/butikker/extra/extra-sagene-4226"
+  },
+  {
+    "id": "2460",
+    "name": "Extra Salhus",
+    "lat": 65.4905399,
+    "lon": 12.2385345,
+    "address": "Sømnaveien 161",
+    "postalCode": "8907",
+    "city": "Brønnøysund",
+    "url": "https://www.coop.no/butikker/extra/extra-salhus-2460"
+  },
+  {
+    "id": "4211",
+    "name": "Extra Sama",
+    "lat": 68.8057265,
+    "lon": 16.5345014,
+    "address": "Flåtenveien 2",
+    "postalCode": "9404",
+    "city": "Harstad",
+    "url": "https://www.coop.no/butikker/extra/extra-sama-4211"
+  },
+  {
+    "id": "1037",
+    "name": "Extra Sand",
+    "lat": 60.3928522,
+    "lon": 11.5418962,
+    "address": "Herredsvegen 5",
+    "postalCode": "2120",
+    "city": "Sagstua",
+    "url": "https://www.coop.no/butikker/extra/extra-sand-1037"
+  },
+  {
+    "id": "1386",
+    "name": "Extra Sandane",
+    "lat": 61.7760821,
+    "lon": 6.214831,
+    "address": "Grandavegen 3",
+    "postalCode": "6823",
+    "city": "Sandane",
+    "url": "https://www.coop.no/butikker/extra/extra-sandane-1386"
+  },
+  {
+    "id": "2452",
+    "name": "Extra Sandnes",
+    "lat": 58.8498444,
+    "lon": 5.7382202,
+    "address": "Elvegate 11",
+    "postalCode": "4306",
+    "city": "Sandnes",
+    "url": "https://www.coop.no/butikker/extra/extra-sandnes-2452"
+  },
+  {
+    "id": "2625",
+    "name": "Extra Sandnes Kirkenes",
+    "lat": 69.6740962,
+    "lon": 29.961788,
+    "address": "Sandnesveien",
+    "postalCode": "9910",
+    "city": "Bjørnevatn",
+    "url": "https://www.coop.no/butikker/extra/extra-sandnes-kirkenes-2625"
+  },
+  {
+    "id": "3319",
+    "name": "Extra Sandnessjøen",
+    "lat": 66.0089671,
+    "lon": 12.6070199,
+    "address": "Forshaugen 2",
+    "postalCode": "8803",
+    "city": "Sandnessjøen",
+    "url": "https://www.coop.no/butikker/extra/extra-sandnessjoen-3319"
+  },
+  {
+    "id": "4303",
+    "name": "Extra Sandvika",
+    "lat": 59.8933357,
+    "lon": 10.5247439,
+    "address": "Leif Tronstads plass 7",
+    "postalCode": "1337",
+    "city": "Sandvika",
+    "url": "https://www.coop.no/butikker/extra/extra-sandvika-4303"
+  },
+  {
+    "id": "4234",
+    "name": "Extra Sannergata",
+    "lat": 59.9284686,
+    "lon": 10.7620402,
+    "address": "Sannergata 11",
+    "postalCode": "0557",
+    "city": "Oslo",
+    "url": "https://www.coop.no/butikker/extra/extra-sannergata-4234"
+  },
+  {
+    "id": "1238",
+    "name": "Extra Sauda",
+    "lat": 59.6492916,
+    "lon": 6.3574661,
+    "address": "Brugata 2",
+    "postalCode": "4200",
+    "city": "Sauda",
+    "url": "https://www.coop.no/butikker/extra/extra-sauda-1238"
+  },
+  {
+    "id": "2717",
+    "name": "Extra Selbu",
+    "lat": 63.2222416,
+    "lon": 11.0348175,
+    "address": "Selbuvegen 1685",
+    "postalCode": "7580",
+    "city": "Selbu",
+    "url": "https://www.coop.no/butikker/extra/extra-selbu-2717"
+  },
+  {
+    "id": "1668",
+    "name": "Extra Selfors",
+    "lat": 66.3260904,
+    "lon": 14.1775519,
+    "address": "Selforsveien 50",
+    "postalCode": "8613",
+    "city": "Mo i Rana",
+    "url": "https://www.coop.no/butikker/extra/extra-selfors-1668"
+  },
+  {
+    "id": "2928",
+    "name": "Extra Selje",
+    "lat": 62.04501249,
+    "lon": 5.34537365,
+    "address": "Nabben 90",
+    "postalCode": "6740",
+    "city": "Selje",
+    "url": "https://www.coop.no/butikker/extra/extra-selje-2928"
+  },
+  {
+    "id": "1957",
+    "name": "Extra Seljestad",
+    "lat": 68.7877,
+    "lon": 16.5344,
+    "address": "Seljestadveien 59",
+    "postalCode": "9406",
+    "city": "Harstad",
+    "url": "https://www.coop.no/butikker/extra/extra-seljestad-1957"
+  },
+  {
+    "id": "2820",
+    "name": "Extra Seljord",
+    "lat": 59.4829289,
+    "lon": 8.6288413,
+    "address": "Ingrid Slettens Veg 6",
+    "postalCode": "3820",
+    "city": "Seljord",
+    "url": "https://www.coop.no/butikker/extra/extra-seljord-2820"
+  },
+  {
+    "id": "4661",
+    "name": "Extra Sellebakk",
+    "lat": 59.2274028,
+    "lon": 10.9960678,
+    "address": "Løenveien 6",
+    "postalCode": "1653",
+    "city": "Sellebakk",
+    "url": "https://www.coop.no/butikker/extra/extra-sellebakk-4661"
+  },
+  {
+    "id": "2598",
+    "name": "Extra Semsbyen",
+    "lat": 59.2828217,
+    "lon": 10.3319563,
+    "address": "Semsbyveien 82",
+    "postalCode": "3170",
+    "city": "Sem",
+    "url": "https://www.coop.no/butikker/extra/extra-semsbyen-2598"
+  },
+  {
+    "id": "1753",
+    "name": "Extra Sentrum Levanger",
+    "lat": 63.7443,
+    "lon": 11.2971,
+    "address": "Håkon den Godes gate 10",
+    "postalCode": "7600",
+    "city": "Levanger",
+    "url": "https://www.coop.no/butikker/extra/extra-sentrum-levanger-1753"
+  },
+  {
+    "id": "1986",
+    "name": "Extra Setermoen",
+    "lat": 68.8613195,
+    "lon": 18.3450616,
+    "address": "Gammelveien 8",
+    "postalCode": "9360",
+    "city": "Bardu",
+    "url": "https://www.coop.no/butikker/extra/extra-setermoen-1986"
+  },
+  {
+    "id": "4261",
+    "name": "Extra Siggerud",
+    "lat": 59.7912075,
+    "lon": 10.8816526,
+    "address": "Svaleveien 6",
+    "postalCode": "1404",
+    "city": "Siggerud",
+    "url": "https://www.coop.no/butikker/extra/extra-siggerud-4261"
+  },
+  {
+    "id": "1915",
+    "name": "Extra Silsand",
+    "lat": 69.2426313,
+    "lon": 17.9491179,
+    "address": "Fergeveien 3",
+    "postalCode": "9303",
+    "city": "Silsand",
+    "url": "https://www.coop.no/butikker/extra/extra-silsand-1915"
+  },
+  {
+    "id": "1792",
+    "name": "Extra Sistranda",
+    "lat": 63.7353,
+    "lon": 8.83347,
+    "address": "Nordfrøyvegen 463",
+    "postalCode": "7260",
+    "city": "Sistranda",
+    "url": "https://www.coop.no/butikker/extra/extra-sistranda-1792"
+  },
+  {
+    "id": "1980",
+    "name": "Extra Sjøvegan",
+    "lat": 68.8753825,
+    "lon": 17.8365479,
+    "address": "Kongsveien 84",
+    "postalCode": "9350",
+    "city": "Sjøvegan",
+    "url": "https://www.coop.no/butikker/extra/extra-sjovegan-1980"
+  },
+  {
+    "id": "1040",
+    "name": "Extra Skarnes",
+    "lat": 60.25468,
+    "lon": 11.68134,
+    "address": "Bruvegen 13",
+    "postalCode": "2100",
+    "city": "Skarnes",
+    "url": "https://www.coop.no/butikker/extra/extra-skarnes-1040"
+  },
+  {
+    "id": "1711",
+    "name": "Extra Skatval",
+    "lat": 63.5089163,
+    "lon": 10.8259889,
+    "address": "Skatvalsvegen 137",
+    "postalCode": "7510",
+    "city": "Skatval",
+    "url": "https://www.coop.no/butikker/extra/extra-skatval-1711"
+  },
+  {
+    "id": "2058",
+    "name": "Extra Skeimo",
+    "lat": 61.882861,
+    "lon": 8.267583,
+    "address": "Skeimoplassen 10",
+    "postalCode": "2690",
+    "city": "Skjåk",
+    "url": "https://www.coop.no/butikker/extra/extra-skeimo-2058"
+  },
+  {
+    "id": "4073",
+    "name": "Extra Ski",
+    "lat": 59.7152828,
+    "lon": 10.8394987,
+    "address": "Kjeppestadveien 2",
+    "postalCode": "1400",
+    "city": "Ski",
+    "url": "https://www.coop.no/butikker/extra/extra-ski-4073"
+  },
+  {
+    "id": "1949",
+    "name": "Extra Skjervøy",
+    "lat": 70.0308677,
+    "lon": 20.9711059,
+    "address": "Strandveien 88",
+    "postalCode": "9180",
+    "city": "Skjervøy",
+    "url": "https://www.coop.no/butikker/extra/extra-skjervoy-1949"
+  },
+  {
+    "id": "2695",
+    "name": "Extra Skjettentoppen",
+    "lat": 59.962294,
+    "lon": 11.0094987,
+    "address": "Skjettenveien 40C",
+    "postalCode": "2010",
+    "city": "Strømmen",
+    "url": "https://www.coop.no/butikker/extra/extra-skjettentoppen-2695"
+  },
+  {
+    "id": "1492",
+    "name": "Extra Skodje",
+    "lat": 62.506,
+    "lon": 6.68175,
+    "address": "Ådalsbakken 1",
+    "postalCode": "6260",
+    "city": "Skodje",
+    "url": "https://www.coop.no/butikker/extra/extra-skodje-1492"
+  },
+  {
+    "id": "1754",
+    "name": "Extra Skogn",
+    "lat": 63.7054955,
+    "lon": 11.1913006,
+    "address": "Åsvegen 10",
+    "postalCode": "7620",
+    "city": "Skogn",
+    "url": "https://www.coop.no/butikker/extra/extra-skogn-1754"
+  },
+  {
+    "id": "1039",
+    "name": "Extra Skotterud",
+    "lat": 59.9853713,
+    "lon": 12.1217152,
+    "address": "Doktor Lunderbys veg 2",
+    "postalCode": "2230",
+    "city": "Skotterud",
+    "url": "https://www.coop.no/butikker/extra/extra-skotterud-1039"
+  },
+  {
+    "id": "4943",
+    "name": "Extra Skreia",
+    "lat": 60.6536506,
+    "lon": 10.9341071,
+    "address": "Jerikovegen 4",
+    "postalCode": "2848",
+    "city": "Skreia",
+    "url": "https://www.coop.no/butikker/extra/extra-skreia-4943"
+  },
+  {
+    "id": "1279",
+    "name": "Extra Skudenes",
+    "lat": 59.1503322,
+    "lon": 5.2579036,
+    "address": "Postvegen 30",
+    "postalCode": "4280",
+    "city": "Skudeneshavn",
+    "url": "https://www.coop.no/butikker/extra/extra-skudenes-1279"
+  },
+  {
+    "id": "1409",
+    "name": "Extra Skulestadmo",
+    "lat": 60.6549348,
+    "lon": 6.4371271,
+    "address": "Nedkvitnesvegen 2",
+    "postalCode": "5710",
+    "city": "Skulestadmo",
+    "url": "https://www.coop.no/butikker/extra/extra-skulestadmo-1409"
+  },
+  {
+    "id": "4222",
+    "name": "Extra Skullerud",
+    "lat": 59.86812031,
+    "lon": 10.83845917,
+    "address": "Johan Scharffenbergs vei 118",
+    "postalCode": "0694",
+    "city": "Oslo",
+    "url": "https://www.coop.no/butikker/extra/extra-skullerud-4222"
+  },
+  {
+    "id": "1107",
+    "name": "Extra Skøyenåsen",
+    "lat": 59.900676,
+    "lon": 10.8346168,
+    "address": "Haakon Tveters vei 8",
+    "postalCode": "0682",
+    "city": "Oslo",
+    "url": "https://www.coop.no/butikker/extra/extra-skoyenasen-1107"
+  },
+  {
+    "id": "4611",
+    "name": "Extra Slemdal",
+    "lat": 59.950471,
+    "lon": 10.693747,
+    "address": "Stasjonsvn. 2-4",
+    "postalCode": "0776",
+    "city": "Oslo",
+    "url": "https://www.coop.no/butikker/extra/extra-slemdal-4611"
+  },
+  {
+    "id": "2610",
+    "name": "Extra Slemmestad",
+    "lat": 59.7844139,
+    "lon": 10.4863389,
+    "address": "Almedalsveien 4",
+    "postalCode": "3470",
+    "city": "Slemmestad",
+    "url": "https://www.coop.no/butikker/extra/extra-slemmestad-2610"
+  },
+  {
+    "id": "2608",
+    "name": "Extra Smeaheia",
+    "lat": 58.868875,
+    "lon": 5.718231,
+    "address": "Larsamyrå 1",
+    "postalCode": "4313",
+    "city": "Sandnes",
+    "url": "https://www.coop.no/butikker/extra/extra-smeaheia-2608"
+  },
+  {
+    "id": "2705",
+    "name": "Extra Sofiemyr",
+    "lat": 59.7963836,
+    "lon": 10.8229509,
+    "address": "Sofiemyrveien 7",
+    "postalCode": "1412",
+    "city": "Sofiemyr",
+    "url": "https://www.coop.no/butikker/extra/extra-sofiemyr-2705"
+  },
+  {
+    "id": "2521",
+    "name": "Extra Sogndal",
+    "lat": 61.22644,
+    "lon": 7.103626,
+    "address": "Sjøkanten",
+    "postalCode": "6856",
+    "city": "Sogndal",
+    "url": "https://www.coop.no/butikker/extra/extra-sogndal-2521"
+  },
+  {
+    "id": "4599",
+    "name": "Extra Sogndalsfjøra",
+    "lat": 61.2318423,
+    "lon": 7.1055358,
+    "address": "Fjørevegen 20",
+    "postalCode": "6856",
+    "city": "Sogndal",
+    "url": "https://www.coop.no/butikker/extra/extra-sogndalsfjora-4599"
+  },
+  {
+    "id": "1280",
+    "name": "Extra Sokndal",
+    "lat": 58.3420896,
+    "lon": 6.2910866,
+    "address": "Myrveien 6",
+    "postalCode": "4380",
+    "city": "Hauge I Dalane",
+    "url": "https://www.coop.no/butikker/extra/extra-sokndal-1280"
+  },
+  {
+    "id": "2774",
+    "name": "Extra Soknedal",
+    "lat": 62.951079,
+    "lon": 10.1892535,
+    "address": "Soknedalsveien 585",
+    "postalCode": "7288",
+    "city": "Soknedal",
+    "url": "https://www.coop.no/butikker/extra/extra-soknedal-2774"
+  },
+  {
+    "id": "2607",
+    "name": "Extra Sola",
+    "lat": 58.884033,
+    "lon": 5.652432,
+    "address": "Sandesletta 14",
+    "postalCode": "4050",
+    "city": "Sola",
+    "url": "https://www.coop.no/butikker/extra/extra-sola-2607"
+  },
+  {
+    "id": "2689",
+    "name": "Extra Solberg Øst",
+    "lat": 59.7189523,
+    "lon": 10.8016255,
+    "address": "Granheimtunet 3",
+    "postalCode": "1430",
+    "city": "Ås",
+    "url": "https://www.coop.no/butikker/extra/extra-solberg-ost-2689"
+  },
+  {
+    "id": "2590",
+    "name": "Extra Sortland",
+    "lat": 68.6834001,
+    "lon": 15.3984866,
+    "address": "Vesterålsgata 111",
+    "postalCode": "8403",
+    "city": "Sortland",
+    "url": "https://www.coop.no/butikker/extra/extra-sortland-2590"
+  },
+  {
+    "id": "1069",
+    "name": "Extra Spydeberg",
+    "lat": 59.6151232,
+    "lon": 11.0798533,
+    "address": "Wilses vei 3",
+    "postalCode": "1820",
+    "city": "Spydeberg",
+    "url": "https://www.coop.no/butikker/extra/extra-spydeberg-1069"
+  },
+  {
+    "id": "4276",
+    "name": "Extra St. Halvardsgate",
+    "lat": 59.907265,
+    "lon": 10.780662,
+    "address": "Sankt Halvards gate 67",
+    "postalCode": "0657",
+    "city": "Oslo",
+    "url": "https://www.coop.no/butikker/extra/extra-st-halvardsgate-4276"
+  },
+  {
+    "id": "4658",
+    "name": "Extra St. Marie Gate",
+    "lat": 59.2823698,
+    "lon": 11.1155675,
+    "address": "Sankt Marie gate 81/87",
+    "postalCode": "1706",
+    "city": "Sarpsborg",
+    "url": "https://www.coop.no/butikker/extra/extra-st-marie-gate-4658"
+  },
+  {
+    "id": "4639",
+    "name": "Extra St. Olavsgate",
+    "lat": 59.2678793,
+    "lon": 10.4162506,
+    "address": "Sankt Olavs gate 18 A",
+    "postalCode": "3112",
+    "city": "Tønsberg",
+    "url": "https://www.coop.no/butikker/extra/extra-st-olavsgate-4639"
+  },
+  {
+    "id": "2694",
+    "name": "Extra Stabburveien",
+    "lat": 59.2369166,
+    "lon": 10.9647402,
+    "address": "Stabburveien 1",
+    "postalCode": "1617",
+    "city": "Fredrikstad",
+    "url": "https://www.coop.no/butikker/extra/extra-stabburveien-2694"
+  },
+  {
+    "id": "1951",
+    "name": "Extra Stakkevollan",
+    "lat": 69.6931676,
+    "lon": 19.0013732,
+    "address": "Nørdøyavegen",
+    "postalCode": "9018",
+    "city": "Tromsø",
+    "url": "https://www.coop.no/butikker/extra/extra-stakkevollan-1951"
+  },
+  {
+    "id": "2776",
+    "name": "Extra Stange",
+    "lat": 60.71697429,
+    "lon": 11.19161701,
+    "address": "Heggedalsvegen 15",
+    "postalCode": "2335",
+    "city": "Stange",
+    "url": "https://www.coop.no/butikker/extra/extra-stange-2776"
+  },
+  {
+    "id": "2506",
+    "name": "Extra Stathelle",
+    "lat": 59.0447998,
+    "lon": 9.6949634,
+    "address": "Gangveien 2",
+    "postalCode": "3960",
+    "city": "Stathelle",
+    "url": "https://www.coop.no/butikker/extra/extra-stathelle-2506"
+  },
+  {
+    "id": "4060",
+    "name": "Extra Stavern",
+    "lat": 59.0008119,
+    "lon": 10.0390971,
+    "address": "Kronprinsens Gate 46",
+    "postalCode": "3290",
+    "city": "Stavern",
+    "url": "https://www.coop.no/butikker/extra/extra-stavern-4060"
+  },
+  {
+    "id": "2503",
+    "name": "Extra Stjørdal",
+    "lat": 63.4674087,
+    "lon": 10.9418725,
+    "address": "Øyanveien 4",
+    "postalCode": "7500",
+    "city": "Stjørdal",
+    "url": "https://www.coop.no/butikker/extra/extra-stjordal-2503"
+  },
+  {
+    "id": "2609",
+    "name": "Extra Stoa",
+    "lat": 58.466711,
+    "lon": 8.717652,
+    "address": "Sørsvannsveien 4",
+    "postalCode": "4848",
+    "city": "Arendal",
+    "url": "https://www.coop.no/butikker/extra/extra-stoa-2609"
+  },
+  {
+    "id": "2673",
+    "name": "Extra Stokmarknes",
+    "lat": 68.561359,
+    "lon": 14.914472,
+    "address": "Søndre Gate 30",
+    "postalCode": "8450",
+    "city": "Stokmarknes",
+    "url": "https://www.coop.no/butikker/extra/extra-stokmarknes-2673"
+  },
+  {
+    "id": "1455",
+    "name": "Extra Stord",
+    "lat": 59.7649,
+    "lon": 5.46127,
+    "address": "Ringvegen 44",
+    "postalCode": "5412",
+    "city": "Stord",
+    "url": "https://www.coop.no/butikker/extra/extra-stord-1455"
+  },
+  {
+    "id": "4944",
+    "name": "Extra Storebø",
+    "lat": 60.0866476,
+    "lon": 5.2438087,
+    "address": "Storebøvegen 201A",
+    "postalCode": "5393",
+    "city": "Storebø",
+    "url": "https://www.coop.no/butikker/extra/extra-storebo-4944"
+  },
+  {
+    "id": "4955",
+    "name": "Extra Storelva",
+    "lat": 69.683936,
+    "lon": 18.799422,
+    "address": "Storelvbakken 5",
+    "postalCode": "9100",
+    "city": "Kvaløysletta",
+    "url": "https://www.coop.no/butikker/extra/extra-storelva-4955"
+  },
+  {
+    "id": "2602",
+    "name": "Extra Stormyra",
+    "lat": 67.276902,
+    "lon": 14.419567,
+    "address": "Gidsken Jakobsens vei 41",
+    "postalCode": "8008",
+    "city": "Bodø",
+    "url": "https://www.coop.no/butikker/extra/extra-stormyra-2602"
+  },
+  {
+    "id": "1125",
+    "name": "Extra Storo",
+    "lat": 59.9432481,
+    "lon": 10.7738134,
+    "address": "Grefsenveien 26",
+    "postalCode": "0482",
+    "city": "Oslo",
+    "url": "https://www.coop.no/butikker/extra/extra-storo-1125"
+  },
+  {
+    "id": "1954",
+    "name": "Extra Storslett",
+    "lat": 69.7690474,
+    "lon": 21.0238828,
+    "address": "Sentrum 22",
+    "postalCode": "9151",
+    "city": "Storslett",
+    "url": "https://www.coop.no/butikker/extra/extra-storslett-1954"
+  },
+  {
+    "id": "1963",
+    "name": "Extra Storsteinnes",
+    "lat": 69.2397,
+    "lon": 19.227,
+    "address": "Rådhusgata 9",
+    "postalCode": "9050",
+    "city": "Storsteinnes",
+    "url": "https://www.coop.no/butikker/extra/extra-storsteinnes-1963"
+  },
+  {
+    "id": "2628",
+    "name": "Extra Storsvingen",
+    "lat": 70.6524171,
+    "lon": 23.6587452,
+    "address": "Storsvingen 3",
+    "postalCode": "9610",
+    "city": "Rypefjord",
+    "url": "https://www.coop.no/butikker/extra/extra-storsvingen-2628"
+  },
+  {
+    "id": "4283",
+    "name": "Extra Stovner",
+    "lat": 59.9621458,
+    "lon": 10.9245241,
+    "address": "Stovner Senter 3",
+    "postalCode": "0985",
+    "city": "Oslo",
+    "url": "https://www.coop.no/butikker/extra/extra-stovner-4283"
+  },
+  {
+    "id": "2923",
+    "name": "Extra Stovnerveien",
+    "lat": 59.9549575,
+    "lon": 10.9351387,
+    "address": "Stovnerveien 54",
+    "postalCode": "0982",
+    "city": "Oslo",
+    "url": "https://www.coop.no/butikker/extra/extra-stovnerveien-2923"
+  },
+  {
+    "id": "2749",
+    "name": "Extra Strand",
+    "lat": 68.6995615,
+    "lon": 15.449318,
+    "address": "Arons Vei",
+    "postalCode": "8400",
+    "city": "Sortland",
+    "url": "https://www.coop.no/butikker/extra/extra-strand-2749"
+  },
+  {
+    "id": "2573",
+    "name": "Extra Stryn",
+    "lat": 61.902672,
+    "lon": 6.71505,
+    "address": "Setrevegen 2",
+    "postalCode": "6783",
+    "city": "Stryn",
+    "url": "https://www.coop.no/butikker/extra/extra-stryn-2573"
+  },
+  {
+    "id": "2456",
+    "name": "Extra Strømmen",
+    "lat": 59.9505538,
+    "lon": 11.0107062,
+    "address": "Strømsveien 79",
+    "postalCode": "2010",
+    "city": "Strømmen",
+    "url": "https://www.coop.no/butikker/extra/extra-strommen-2456"
+  },
+  {
+    "id": "4268",
+    "name": "Extra Støperigården",
+    "lat": 58.9698684,
+    "lon": 5.753898,
+    "address": "Støperigata 24",
+    "postalCode": "4014",
+    "city": "Stavanger",
+    "url": "https://www.coop.no/butikker/extra/extra-stoperigarden-4268"
+  },
+  {
+    "id": "1725",
+    "name": "Extra Støren",
+    "lat": 63.0479854,
+    "lon": 10.283211,
+    "address": "Stasjonsveien 7",
+    "postalCode": "7290",
+    "city": "Støren",
+    "url": "https://www.coop.no/butikker/extra/extra-storen-1725"
+  },
+  {
+    "id": "2518",
+    "name": "Extra Støver",
+    "lat": 67.2890216,
+    "lon": 14.5986192,
+    "address": "Støverveien 2",
+    "postalCode": "8030",
+    "city": "Bodø",
+    "url": "https://www.coop.no/butikker/extra/extra-stover-2518"
+  },
+  {
+    "id": "1275",
+    "name": "Extra Suldal",
+    "lat": 59.4837138,
+    "lon": 6.2507773,
+    "address": "Gata 5",
+    "postalCode": "4230",
+    "city": "Sand",
+    "url": "https://www.coop.no/butikker/extra/extra-suldal-1275"
+  },
+  {
+    "id": "2545",
+    "name": "Extra Sunndalsøra",
+    "lat": 62.6733755,
+    "lon": 8.5680117,
+    "address": "Sunndalsvegen 18",
+    "postalCode": "6600",
+    "city": "Sunndalsøra",
+    "url": "https://www.coop.no/butikker/extra/extra-sunndalsora-2545"
+  },
+  {
+    "id": "1797",
+    "name": "Extra Surnadal",
+    "lat": 62.9739323,
+    "lon": 8.7273531,
+    "address": "Skeivegen 3",
+    "postalCode": "6650",
+    "city": "Surnadal",
+    "url": "https://www.coop.no/butikker/extra/extra-surnadal-1797"
+  },
+  {
+    "id": "4601",
+    "name": "Extra Sveio",
+    "lat": 59.5435491,
+    "lon": 5.3547843,
+    "address": "Sveiogata 66 A",
+    "postalCode": "5550",
+    "city": "Sveio",
+    "url": "https://www.coop.no/butikker/extra/extra-sveio-4601"
+  },
+  {
+    "id": "4203",
+    "name": "Extra Svelvik",
+    "lat": 59.5975613,
+    "lon": 10.4002238,
+    "address": "Strømmveien 76",
+    "postalCode": "3060",
+    "city": "Svelvik",
+    "url": "https://www.coop.no/butikker/extra/extra-svelvik-4203"
+  },
+  {
+    "id": "1892",
+    "name": "Extra Svolvær",
+    "lat": 68.2333,
+    "lon": 14.5592,
+    "address": "Lofotgata 33",
+    "postalCode": "8300",
+    "city": "Svolvær",
+    "url": "https://www.coop.no/butikker/extra/extra-svolvaer-1892"
+  },
+  {
+    "id": "2763",
+    "name": "Extra Sykkylven",
+    "lat": 62.392082,
+    "lon": 6.5828861,
+    "address": "Auregata 11",
+    "postalCode": "6230",
+    "city": "Sykkylven",
+    "url": "https://www.coop.no/butikker/extra/extra-sykkylven-2763"
+  },
+  {
+    "id": "4577",
+    "name": "Extra Sædalen",
+    "lat": 60.345111,
+    "lon": 5.394242,
+    "address": "Sædalssvingene 3",
+    "postalCode": "5098",
+    "city": "Bergen",
+    "url": "https://www.coop.no/butikker/extra/extra-saedalen-4577"
+  },
+  {
+    "id": "1160",
+    "name": "Extra Sætre",
+    "lat": 59.68187,
+    "lon": 10.52606,
+    "address": "Fransåsveien 2",
+    "postalCode": "3475",
+    "city": "Sætre",
+    "url": "https://www.coop.no/butikker/extra/extra-saetre-1160"
+  },
+  {
+    "id": "2112",
+    "name": "Extra Sødorptunet",
+    "lat": 61.5900363,
+    "lon": 9.7640897,
+    "address": "Nedregata 3",
+    "postalCode": "2640",
+    "city": "Vinstra",
+    "url": "https://www.coop.no/butikker/extra/extra-sodorptunet-2112"
+  },
+  {
+    "id": "2641",
+    "name": "Extra Søreide",
+    "lat": 60.3155085,
+    "lon": 5.2711375,
+    "address": "Steinsvikvegen 2",
+    "postalCode": "5251",
+    "city": "Søreidgrend",
+    "url": "https://www.coop.no/butikker/extra/extra-soreide-2641"
+  },
+  {
+    "id": "2659",
+    "name": "Extra Sørlandssenteret",
+    "lat": 58.1797718,
+    "lon": 8.131431,
+    "address": "Barstølveien 33",
+    "postalCode": "4636",
+    "city": "Kristiansand",
+    "url": "https://www.coop.no/butikker/extra/extra-sorlandssenteret-2659"
+  },
+  {
+    "id": "2585",
+    "name": "Extra Sørreisa",
+    "lat": 69.1449695,
+    "lon": 18.1533912,
+    "address": "Nordsiveien 17",
+    "postalCode": "9310",
+    "city": "Sørreisa",
+    "url": "https://www.coop.no/butikker/extra/extra-sorreisa-2585"
+  },
+  {
+    "id": "4371",
+    "name": "Extra Sørumsand",
+    "lat": 59.98704,
+    "lon": 11.243714,
+    "address": "Fru Natvigs vei 1",
+    "postalCode": "1920",
+    "city": "Sørumsand",
+    "url": "https://www.coop.no/butikker/extra/extra-sorumsand-4371"
+  },
+  {
+    "id": "1965",
+    "name": "Extra Tana",
+    "lat": 70.1986194,
+    "lon": 28.1866731,
+    "address": "Ringveien 3",
+    "postalCode": "9845",
+    "city": "Tana",
+    "url": "https://www.coop.no/butikker/extra/extra-tana-1965"
+  },
+  {
+    "id": "2813",
+    "name": "Extra Tangen Torv",
+    "lat": 58.1477342,
+    "lon": 8.0066808,
+    "address": "Tangen 3",
+    "postalCode": "4608",
+    "city": "Kristiansand",
+    "url": "https://www.coop.no/butikker/extra/extra-tangen-torv-2813"
+  },
+  {
+    "id": "2450",
+    "name": "Extra Tangvall",
+    "lat": 58.0984102,
+    "lon": 7.8155033,
+    "address": "Marie Føreids Vei 10",
+    "postalCode": "4640",
+    "city": "Søgne",
+    "url": "https://www.coop.no/butikker/extra/extra-tangvall-2450"
+  },
+  {
+    "id": "4939",
+    "name": "Extra Tasta",
+    "lat": 58.9880662,
+    "lon": 5.6931537,
+    "address": "Gjerdeveien 49",
+    "postalCode": "4027",
+    "city": "Stavanger",
+    "url": "https://www.coop.no/butikker/extra/extra-tasta-4939"
+  },
+  {
+    "id": "1316",
+    "name": "Extra Tau",
+    "lat": 59.0651295,
+    "lon": 5.9217927,
+    "address": "Fiskåvegen 2",
+    "postalCode": "4120",
+    "city": "Tau",
+    "url": "https://www.coop.no/butikker/extra/extra-tau-1316"
+  },
+  {
+    "id": "4279",
+    "name": "Extra Telemarkskanalen",
+    "lat": 59.3000671,
+    "lon": 9.1160985,
+    "address": "Hovedgata 71",
+    "postalCode": "3825",
+    "city": "Lunde",
+    "url": "https://www.coop.no/butikker/extra/extra-telemarkskanalen-4279"
+  },
+  {
+    "id": "4361",
+    "name": "Extra Tempe",
+    "lat": 63.407353,
+    "lon": 10.397406,
+    "address": "Tempevegen 22",
+    "postalCode": "7031",
+    "city": "Trondheim",
+    "url": "https://www.coop.no/butikker/extra/extra-tempe-4361"
+  },
+  {
+    "id": "4091",
+    "name": "Extra Theresesgate",
+    "lat": 59.928273,
+    "lon": 10.732078,
+    "address": "Thereses gate 29",
+    "postalCode": "0354",
+    "city": "Oslo",
+    "url": "https://www.coop.no/butikker/extra/extra-theresesgate-4091"
+  },
+  {
+    "id": "2672",
+    "name": "Extra Thon Senter Sandvika",
+    "lat": 59.886674,
+    "lon": 10.519684,
+    "address": "Sandviksveien 184",
+    "postalCode": "1337",
+    "city": "Sandvika",
+    "url": "https://www.coop.no/butikker/extra/extra-thon-senter-sandvika-2672"
+  },
+  {
+    "id": "2520",
+    "name": "Extra Tiller",
+    "lat": 63.35406,
+    "lon": 10.3741,
+    "address": "Østre Rosten 64",
+    "postalCode": "7075",
+    "city": "Trondheim",
+    "url": "https://www.coop.no/butikker/extra/extra-tiller-2520"
+  },
+  {
+    "id": "1512",
+    "name": "Extra Tingvoll",
+    "lat": 62.9098113,
+    "lon": 8.2071721,
+    "address": "Vågavegen 171",
+    "postalCode": "6630",
+    "city": "Tingvoll",
+    "url": "https://www.coop.no/butikker/extra/extra-tingvoll-1512"
+  },
+  {
+    "id": "4595",
+    "name": "Extra Tjelta",
+    "lat": 58.8418514,
+    "lon": 5.5961147,
+    "address": "Vigdelsvegen 700",
+    "postalCode": "4054",
+    "city": "Tjelta",
+    "url": "https://www.coop.no/butikker/extra/extra-tjelta-4595"
+  },
+  {
+    "id": "1206",
+    "name": "Extra Tjølling",
+    "lat": 59.0535984,
+    "lon": 10.1222903,
+    "address": "Østbyveien 2A",
+    "postalCode": "3280",
+    "city": "Tjodalyng",
+    "url": "https://www.coop.no/butikker/extra/extra-tjolling-1206"
+  },
+  {
+    "id": "4220",
+    "name": "Extra Tjøme",
+    "lat": 59.121332,
+    "lon": 10.39909,
+    "address": "Haugsjordet 2",
+    "postalCode": "3145",
+    "city": "Tjøme",
+    "url": "https://www.coop.no/butikker/extra/extra-tjome-4220"
+  },
+  {
+    "id": "1159",
+    "name": "Extra Tofte",
+    "lat": 59.54338,
+    "lon": 10.56262,
+    "address": "Østre Strandvei 48",
+    "postalCode": "3482",
+    "city": "Tofte",
+    "url": "https://www.coop.no/butikker/extra/extra-tofte-1159"
+  },
+  {
+    "id": "4044",
+    "name": "Extra Tolvsrød Torg",
+    "lat": 59.2724386,
+    "lon": 10.47218932,
+    "address": "Tolvsrød Torg 1A",
+    "postalCode": "3152",
+    "city": "Tolvsrød",
+    "url": "https://www.coop.no/butikker/extra/extra-tolvsrod-torg-4044"
+  },
+  {
+    "id": "1352",
+    "name": "Extra Tonstad",
+    "lat": 58.6646568,
+    "lon": 6.7169082,
+    "address": "Tonstadvegen 29",
+    "postalCode": "4440",
+    "city": "Tonstad",
+    "url": "https://www.coop.no/butikker/extra/extra-tonstad-1352"
+  },
+  {
+    "id": "1066",
+    "name": "Extra Torp",
+    "lat": 59.2423,
+    "lon": 11.0177,
+    "address": "Sulfatveien 2",
+    "postalCode": "1658",
+    "city": "Torp",
+    "url": "https://www.coop.no/butikker/extra/extra-torp-1066"
+  },
+  {
+    "id": "2798",
+    "name": "Extra Tranby",
+    "lat": 59.8112649,
+    "lon": 10.2690931,
+    "address": "Tranby Torg 6A",
+    "postalCode": "3408",
+    "city": "Tranby",
+    "url": "https://www.coop.no/butikker/extra/extra-tranby-2798"
+  },
+  {
+    "id": "4964",
+    "name": "Extra Triaden",
+    "lat": 59.918574,
+    "lon": 10.952224,
+    "address": "Gamleveien 88",
+    "postalCode": "1476",
+    "city": "Rasta",
+    "url": "https://www.coop.no/butikker/extra/extra-triaden-4964"
+  },
+  {
+    "id": "1948",
+    "name": "Extra Tromsdalen",
+    "lat": 69.6425069,
+    "lon": 18.9775388,
+    "address": "Solstrandvegen 23",
+    "postalCode": "9020",
+    "city": "Tromsdalen",
+    "url": "https://www.coop.no/butikker/extra/extra-tromsdalen-1948"
+  },
+  {
+    "id": "1358",
+    "name": "Extra Tromøytunet",
+    "lat": 58.4636242,
+    "lon": 8.8216151,
+    "address": "Elgveien 9",
+    "postalCode": "4818",
+    "city": "Færvik",
+    "url": "https://www.coop.no/butikker/extra/extra-tromoytunet-1358"
+  },
+  {
+    "id": "4079",
+    "name": "Extra Trondheimsveien",
+    "lat": 59.9183586,
+    "lon": 10.761328,
+    "address": "Trondheimsveien 5",
+    "postalCode": "0560",
+    "city": "Oslo",
+    "url": "https://www.coop.no/butikker/extra/extra-trondheimsveien-4079"
+  },
+  {
+    "id": "2531",
+    "name": "Extra Tune",
+    "lat": 59.2879581,
+    "lon": 11.0822627,
+    "address": "Lilletuneveien 3",
+    "postalCode": "1711",
+    "city": "Sarpsborg",
+    "url": "https://www.coop.no/butikker/extra/extra-tune-2531"
+  },
+  {
+    "id": "2743",
+    "name": "Extra Tvedestrand",
+    "lat": 58.6267158,
+    "lon": 8.929003,
+    "address": "Bibliotekveien 2",
+    "postalCode": "4900",
+    "city": "Tvedestrand",
+    "url": "https://www.coop.no/butikker/extra/extra-tvedestrand-2743"
+  },
+  {
+    "id": "4080",
+    "name": "Extra Tveita Senter",
+    "lat": 59.913814,
+    "lon": 10.841911,
+    "address": "Tvetenveien 150",
+    "postalCode": "0671",
+    "city": "Oslo",
+    "url": "https://www.coop.no/butikker/extra/extra-tveita-senter-4080"
+  },
+  {
+    "id": "2627",
+    "name": "Extra Tverlandet",
+    "lat": 67.3039617,
+    "lon": 14.7360658,
+    "address": "Tverlandsbrua",
+    "postalCode": "8050",
+    "city": "Tverlandet",
+    "url": "https://www.coop.no/butikker/extra/extra-tverlandet-2627"
+  },
+  {
+    "id": "1642",
+    "name": "Extra Tynset",
+    "lat": 62.2787,
+    "lon": 10.7727,
+    "address": "Brugata 20",
+    "postalCode": "2500",
+    "city": "Tynset",
+    "url": "https://www.coop.no/butikker/extra/extra-tynset-1642"
+  },
+  {
+    "id": "1022",
+    "name": "Extra Tyristrand",
+    "lat": 60.0866225,
+    "lon": 10.0994209,
+    "address": "Vikersundveien 235",
+    "postalCode": "3533",
+    "city": "Tyristrand",
+    "url": "https://www.coop.no/butikker/extra/extra-tyristrand-1022"
+  },
+  {
+    "id": "4674",
+    "name": "Extra Tysnes",
+    "lat": 60.0427038,
+    "lon": 5.5224914,
+    "address": "Hegglandsvegen 37",
+    "postalCode": "5680",
+    "city": "Tysnes",
+    "url": "https://www.coop.no/butikker/extra/extra-tysnes-4674"
+  },
+  {
+    "id": "2489",
+    "name": "Extra Tønsberg",
+    "lat": 59.2785092,
+    "lon": 10.4019735,
+    "address": "Anton Jenssens gate 2",
+    "postalCode": "3125",
+    "city": "Tønsberg",
+    "url": "https://www.coop.no/butikker/extra/extra-tonsberg-2489"
+  },
+  {
+    "id": "4271",
+    "name": "Extra Ugla",
+    "lat": 63.39574859,
+    "lon": 10.33899502,
+    "address": "Anders Wigens veg 2",
+    "postalCode": "7024",
+    "city": "Trondheim",
+    "url": "https://www.coop.no/butikker/extra/extra-ugla-4271"
+  },
+  {
+    "id": "4281",
+    "name": "Extra Ulefoss",
+    "lat": 59.2816021,
+    "lon": 9.2680779,
+    "address": "Stårrvegen 5",
+    "postalCode": "3830",
+    "city": "Ulefoss",
+    "url": "https://www.coop.no/butikker/extra/extra-ulefoss-4281"
+  },
+  {
+    "id": "4579",
+    "name": "Extra Ulset",
+    "lat": 60.4631085,
+    "lon": 5.3161009,
+    "address": "Hesthaugvegen 30",
+    "postalCode": "5119",
+    "city": "Ulset",
+    "url": "https://www.coop.no/butikker/extra/extra-ulset-4579"
+  },
+  {
+    "id": "2910",
+    "name": "Extra Uvdal",
+    "lat": 60.2694131,
+    "lon": 8.7502582,
+    "address": "Uvdalsvegen 1180",
+    "postalCode": "3632",
+    "city": "Uvdal",
+    "url": "https://www.coop.no/butikker/extra/extra-uvdal-2910"
+  },
+  {
+    "id": "1458",
+    "name": "Extra Vadmyra",
+    "lat": 60.3625749,
+    "lon": 5.2268406,
+    "address": "Vadmyrveien 48",
+    "postalCode": "5172",
+    "city": "Loddefjord",
+    "url": "https://www.coop.no/butikker/extra/extra-vadmyra-1458"
+  },
+  {
+    "id": "1994",
+    "name": "Extra Vadsø",
+    "lat": 70.0725897,
+    "lon": 29.7516348,
+    "address": "Strandgata 15",
+    "postalCode": "9800",
+    "city": "Vadsø",
+    "url": "https://www.coop.no/butikker/extra/extra-vadso-1994"
+  },
+  {
+    "id": "1471",
+    "name": "Extra Valestrand",
+    "lat": 60.5054372,
+    "lon": 5.4305867,
+    "address": "Valestrandsvegen",
+    "postalCode": "5281",
+    "city": "Valestrandsfossen",
+    "url": "https://www.coop.no/butikker/extra/extra-valestrand-1471"
+  },
+  {
+    "id": "4957",
+    "name": "Extra Vardås",
+    "lat": 58.1476722,
+    "lon": 8.065467,
+    "address": "Salbustadveien 2",
+    "postalCode": "4638",
+    "city": "Kristiansand",
+    "url": "https://www.coop.no/butikker/extra/extra-vardas-4957"
+  },
+  {
+    "id": "4334",
+    "name": "Extra Vardåsen",
+    "lat": 59.820073,
+    "lon": 10.382456,
+    "address": "Slottsberget 2",
+    "postalCode": "1385",
+    "city": "Asker",
+    "url": "https://www.coop.no/butikker/extra/extra-vardasen-4334"
+  },
+  {
+    "id": "1286",
+    "name": "Extra Varhaug",
+    "lat": 58.6174817,
+    "lon": 5.6455169,
+    "address": "Uelandsgata 4",
+    "postalCode": "4360",
+    "city": "Varhaug",
+    "url": "https://www.coop.no/butikker/extra/extra-varhaug-1286"
+  },
+  {
+    "id": "2624",
+    "name": "Extra Varnaveien",
+    "lat": 59.4170819,
+    "lon": 10.6837509,
+    "address": "Varnaveien 43 E",
+    "postalCode": "1526",
+    "city": "Moss",
+    "url": "https://www.coop.no/butikker/extra/extra-varnaveien-2624"
+  },
+  {
+    "id": "1505",
+    "name": "Extra Vatneeidet",
+    "lat": 62.54506,
+    "lon": 6.5896,
+    "address": "Slyngstadvegen 4",
+    "postalCode": "6264",
+    "city": "Tennfjord",
+    "url": "https://www.coop.no/butikker/extra/extra-vatneeidet-1505"
+  },
+  {
+    "id": "4059",
+    "name": "Extra Veggli",
+    "lat": 60.040662,
+    "lon": 9.155988,
+    "address": "Kolvegen 4",
+    "postalCode": "3628",
+    "city": "Veggli",
+    "url": "https://www.coop.no/butikker/extra/extra-veggli-4059"
+  },
+  {
+    "id": "2845",
+    "name": "Extra Vennesla",
+    "lat": 58.2722379,
+    "lon": 7.97094666,
+    "address": "Sentrumsvegen 72",
+    "postalCode": "4700",
+    "city": "Vennesla",
+    "url": "https://www.coop.no/butikker/extra/extra-vennesla-2845"
+  },
+  {
+    "id": "2528",
+    "name": "Extra Verdal",
+    "lat": 63.7895416,
+    "lon": 11.4792199,
+    "address": "Fløytarvegen 21",
+    "postalCode": "7650",
+    "city": "Verdal",
+    "url": "https://www.coop.no/butikker/extra/extra-verdal-2528"
+  },
+  {
+    "id": "1681",
+    "name": "Extra Verftsgata",
+    "lat": 64.4670807,
+    "lon": 11.4921117,
+    "address": "Verftsgata 8",
+    "postalCode": "7800",
+    "city": "Namsos",
+    "url": "https://www.coop.no/butikker/extra/extra-verftsgata-1681"
+  },
+  {
+    "id": "4068",
+    "name": "Extra Vestad",
+    "lat": 60.8813444,
+    "lon": 11.5529553,
+    "address": "Meierigata 2",
+    "postalCode": "2406",
+    "city": "Elverum",
+    "url": "https://www.coop.no/butikker/extra/extra-vestad-4068"
+  },
+  {
+    "id": "1012",
+    "name": "Extra Vestby",
+    "lat": 59.6003608,
+    "lon": 10.7462367,
+    "address": "Garderveien 15",
+    "postalCode": "1540",
+    "city": "Vestby",
+    "url": "https://www.coop.no/butikker/extra/extra-vestby-1012"
+  },
+  {
+    "id": "2861",
+    "name": "Extra Vestby Senter",
+    "lat": 59.6031634,
+    "lon": 10.7422281,
+    "address": "Senterveien 6",
+    "postalCode": "1543",
+    "city": "Vestby",
+    "url": "https://www.coop.no/butikker/extra/extra-vestby-senter-2861"
+  },
+  {
+    "id": "2748",
+    "name": "Extra Vestfossen",
+    "lat": 59.7336,
+    "lon": 9.86846,
+    "address": "Møllergata 1",
+    "postalCode": "3320",
+    "city": "Vestfossen",
+    "url": "https://www.coop.no/butikker/extra/extra-vestfossen-2748"
+  },
+  {
+    "id": "4054",
+    "name": "Extra Vestheiene",
+    "lat": 58.1484716,
+    "lon": 7.924105,
+    "address": "Skomagergada 9",
+    "postalCode": "4628",
+    "city": "Kristiansand",
+    "url": "https://www.coop.no/butikker/extra/extra-vestheiene-4054"
+  },
+  {
+    "id": "1105",
+    "name": "Extra Vestli",
+    "lat": 59.9722,
+    "lon": 10.9283,
+    "address": "Vestlisvingen 190",
+    "postalCode": "0969",
+    "city": "Oslo",
+    "url": "https://www.coop.no/butikker/extra/extra-vestli-1105"
+  },
+  {
+    "id": "2449",
+    "name": "Extra Vestnes",
+    "lat": 62.6238142,
+    "lon": 7.0913219,
+    "address": "Sjøgata 10",
+    "postalCode": "6390",
+    "city": "Vestnes",
+    "url": "https://www.coop.no/butikker/extra/extra-vestnes-2449"
+  },
+  {
+    "id": "1288",
+    "name": "Extra Vigrestad",
+    "lat": 58.5708811,
+    "lon": 5.6906081,
+    "address": "Lagårdsvegen 2",
+    "postalCode": "4362",
+    "city": "Vigrestad",
+    "url": "https://www.coop.no/butikker/extra/extra-vigrestad-1288"
+  },
+  {
+    "id": "1406",
+    "name": "Extra Vik",
+    "lat": 61.0870472,
+    "lon": 6.5799262,
+    "address": "Sentrumsgata 47",
+    "postalCode": "6893",
+    "city": "Vik i Sogn",
+    "url": "https://www.coop.no/butikker/extra/extra-vik-1406"
+  },
+  {
+    "id": "2451",
+    "name": "Extra Vikasenteret",
+    "lat": 60.7834,
+    "lon": 11.1098,
+    "address": "Vikavegen 15A",
+    "postalCode": "2312",
+    "city": "Ottestad",
+    "url": "https://www.coop.no/butikker/extra/extra-vikasenteret-2451"
+  },
+  {
+    "id": "4720",
+    "name": "Extra Vikeland",
+    "lat": 58.25119412,
+    "lon": 7.96538874,
+    "address": "Venneslavegen 234",
+    "postalCode": "4708",
+    "city": "Vennesla",
+    "url": "https://www.coop.no/butikker/extra/extra-vikeland-4720"
+  },
+  {
+    "id": "4341",
+    "name": "Extra Vikersund",
+    "lat": 59.96529906,
+    "lon": 9.99433792,
+    "address": "Vikersundgata 32",
+    "postalCode": "3370",
+    "city": "Vikersund",
+    "url": "https://www.coop.no/butikker/extra/extra-vikersund-4341"
+  },
+  {
+    "id": "1289",
+    "name": "Extra Vikeså",
+    "lat": 58.632008,
+    "lon": 6.078185,
+    "address": "Vikesågata 1",
+    "postalCode": "4389",
+    "city": "Vikeså",
+    "url": "https://www.coop.no/butikker/extra/extra-vikesa-1289"
+  },
+  {
+    "id": "1273",
+    "name": "Extra Vikevåg",
+    "lat": 59.0975128,
+    "lon": 5.6976331,
+    "address": "Vikevågveien 125",
+    "postalCode": "4150",
+    "city": "Rennesøy",
+    "url": "https://www.coop.no/butikker/extra/extra-vikevag-1273"
+  },
+  {
+    "id": "1810",
+    "name": "Extra Vikhammer",
+    "lat": 63.4379618,
+    "lon": 10.6253944,
+    "address": "Stasjonsvegen 1",
+    "postalCode": "7560",
+    "city": "Vikhammer",
+    "url": "https://www.coop.no/butikker/extra/extra-vikhammer-1810"
+  },
+  {
+    "id": "2576",
+    "name": "Extra Vinje",
+    "lat": 59.568157,
+    "lon": 7.990499,
+    "address": "Vinjeveien 176",
+    "postalCode": "3890",
+    "city": "Vinje",
+    "url": "https://www.coop.no/butikker/extra/extra-vinje-2576"
+  },
+  {
+    "id": "2587",
+    "name": "Extra Vinstra",
+    "lat": 61.5945142,
+    "lon": 9.7240906,
+    "address": "Vinstragata 96",
+    "postalCode": "2640",
+    "city": "Vinstra",
+    "url": "https://www.coop.no/butikker/extra/extra-vinstra-2587"
+  },
+  {
+    "id": "2499",
+    "name": "Extra Volda",
+    "lat": 62.1727945,
+    "lon": 6.04411,
+    "address": "Furene",
+    "postalCode": "6105",
+    "city": "Volda",
+    "url": "https://www.coop.no/butikker/extra/extra-volda-2499"
+  },
+  {
+    "id": "4042",
+    "name": "Extra Volden",
+    "lat": 67.294453,
+    "lon": 14.430886,
+    "address": "Vollveien 2",
+    "postalCode": "8011",
+    "city": "Bodø",
+    "url": "https://www.coop.no/butikker/extra/extra-volden-4042"
+  },
+  {
+    "id": "4621",
+    "name": "Extra Vormsund",
+    "lat": 60.1512972,
+    "lon": 11.4109988,
+    "address": "Kjølstadvegen 1",
+    "postalCode": "2160",
+    "city": "Vormsund",
+    "url": "https://www.coop.no/butikker/extra/extra-vormsund-4621"
+  },
+  {
+    "id": "1419",
+    "name": "Extra Voss",
+    "lat": 60.6290657,
+    "lon": 6.424403,
+    "address": "Sverresplass 3",
+    "postalCode": "5700",
+    "city": "Voss",
+    "url": "https://www.coop.no/butikker/extra/extra-voss-1419"
+  },
+  {
+    "id": "4225",
+    "name": "Extra Vossegata",
+    "lat": 59.9328987,
+    "lon": 10.7698066,
+    "address": "Vossegata 34A",
+    "postalCode": "0475",
+    "city": "Oslo",
+    "url": "https://www.coop.no/butikker/extra/extra-vossegata-4225"
+  },
+  {
+    "id": "1367",
+    "name": "Extra Vågsbygd",
+    "lat": 58.1257865,
+    "lon": 7.9636737,
+    "address": "Fiskåveien 6",
+    "postalCode": "4621",
+    "city": "Kristiansand",
+    "url": "https://www.coop.no/butikker/extra/extra-vagsbygd-1367"
+  },
+  {
+    "id": "2780",
+    "name": "Extra Vågå",
+    "lat": 61.8768411,
+    "lon": 9.0962566,
+    "address": "Vågåvegen 47",
+    "postalCode": "2680",
+    "city": "Vågå",
+    "url": "https://www.coop.no/butikker/extra/extra-vaga-2780"
+  },
+  {
+    "id": "2687",
+    "name": "Extra Vårveien",
+    "lat": 59.7528789,
+    "lon": 10.146263,
+    "address": "Vårveien 16",
+    "postalCode": "3024",
+    "city": "Drammen",
+    "url": "https://www.coop.no/butikker/extra/extra-varveien-2687"
+  },
+  {
+    "id": "2591",
+    "name": "Extra Workinnmarka",
+    "lat": 69.671122,
+    "lon": 18.920018,
+    "address": "Hulderveien 8",
+    "postalCode": "9016",
+    "city": "Tromsø",
+    "url": "https://www.coop.no/butikker/extra/extra-workinnmarka-2591"
+  },
+  {
+    "id": "1669",
+    "name": "Extra Ytteren",
+    "lat": 66.340681,
+    "lon": 14.1441683,
+    "address": "Gammelveien 11",
+    "postalCode": "8614",
+    "city": "Mo i Rana",
+    "url": "https://www.coop.no/butikker/extra/extra-ytteren-1669"
+  },
+  {
+    "id": "4041",
+    "name": "Extra Yven",
+    "lat": 59.2705282,
+    "lon": 11.066153,
+    "address": "Fjellhøyveien 1",
+    "postalCode": "1718",
+    "city": "Greåker",
+    "url": "https://www.coop.no/butikker/extra/extra-yven-4041"
+  },
+  {
+    "id": "2530",
+    "name": "Extra Åfjord",
+    "lat": 63.9655136,
+    "lon": 10.2153548,
+    "address": "Vassnesset 1",
+    "postalCode": "7170",
+    "city": "Åfjord",
+    "url": "https://www.coop.no/butikker/extra/extra-afjord-2530"
+  },
+  {
+    "id": "1246",
+    "name": "Extra Åkrehamn",
+    "lat": 59.2611026,
+    "lon": 5.193622,
+    "address": "Ringvegen 8",
+    "postalCode": "4270",
+    "city": "Åkrehamn",
+    "url": "https://www.coop.no/butikker/extra/extra-akrehamn-1246"
+  },
+  {
+    "id": "2535",
+    "name": "Extra Ålgård",
+    "lat": 58.7699923,
+    "lon": 5.8561394,
+    "address": "Ålgårdsheiå 2-4",
+    "postalCode": "4330",
+    "city": "Ålgård",
+    "url": "https://www.coop.no/butikker/extra/extra-algard-2535"
+  },
+  {
+    "id": "2804",
+    "name": "Extra Åmot",
+    "lat": 59.9069842,
+    "lon": 9.9434228,
+    "address": "Sporpindveien 1",
+    "postalCode": "3340",
+    "city": "Åmot",
+    "url": "https://www.coop.no/butikker/extra/extra-amot-2804"
+  },
+  {
+    "id": "2554",
+    "name": "Extra Åndalsnes",
+    "lat": 62.5689258,
+    "lon": 7.6867777,
+    "address": "Strandgata 1",
+    "postalCode": "6300",
+    "city": "Åndalsnes",
+    "url": "https://www.coop.no/butikker/extra/extra-andalsnes-2554"
+  },
+  {
+    "id": "1008",
+    "name": "Extra Ås",
+    "lat": 59.666481,
+    "lon": 10.8015393,
+    "address": "Idrettsveien 1",
+    "postalCode": "1434",
+    "city": "Ås",
+    "url": "https://www.coop.no/butikker/extra/extra-as-1008"
+  },
+  {
+    "id": "2905",
+    "name": "Extra Åsen",
+    "lat": 63.6107362,
+    "lon": 11.0504493,
+    "address": "Hammerøyvegen 1",
+    "postalCode": "7630",
+    "city": "Åsen",
+    "url": "https://www.coop.no/butikker/extra/extra-asen-2905"
+  },
+  {
+    "id": "4272",
+    "name": "Extra Åssiden",
+    "lat": 59.7577733,
+    "lon": 10.1423742,
+    "address": "Store Landfall Øvre 100",
+    "postalCode": "3025",
+    "city": "Drammen",
+    "url": "https://www.coop.no/butikker/extra/extra-assiden-4272"
+  },
+  {
+    "id": "2514",
+    "name": "Extra Øksnevad",
+    "lat": 58.7852664,
+    "lon": 5.7056887,
+    "address": "Plogfabrikkvegen 2",
+    "postalCode": "4353",
+    "city": "Klepp Stasjon",
+    "url": "https://www.coop.no/butikker/extra/extra-oksnevad-2514"
+  },
+  {
+    "id": "1321",
+    "name": "Extra Ølen",
+    "lat": 59.6065659,
+    "lon": 5.8127781,
+    "address": "Dreganesvegen 34",
+    "postalCode": "5580",
+    "city": "Ølen",
+    "url": "https://www.coop.no/butikker/extra/extra-olen-1321"
+  },
+  {
+    "id": "2766",
+    "name": "Extra Ørje",
+    "lat": 59.4806692,
+    "lon": 11.6615971,
+    "address": "Trekanten 6",
+    "postalCode": "1870",
+    "city": "Ørje",
+    "url": "https://www.coop.no/butikker/extra/extra-orje-2766"
+  },
+  {
+    "id": "2840",
+    "name": "Extra Ørmelen",
+    "lat": 63.7895695,
+    "lon": 11.4696791,
+    "address": "Gamlevegen 1",
+    "postalCode": "7650",
+    "city": "Verdal",
+    "url": "https://www.coop.no/butikker/extra/extra-ormelen-2840"
+  },
+  {
+    "id": "2784",
+    "name": "Extra Ørnes",
+    "lat": 66.8726244,
+    "lon": 13.7055976,
+    "address": "Christian Tidemanns vei 1",
+    "postalCode": "8150",
+    "city": "Ørnes",
+    "url": "https://www.coop.no/butikker/extra/extra-ornes-2784"
+  },
+  {
+    "id": "2752",
+    "name": "Extra Øverbygd",
+    "lat": 69.0246444,
+    "lon": 19.2955875,
+    "address": "Takvassveien 5",
+    "postalCode": "9334",
+    "city": "Øverbygd",
+    "url": "https://www.coop.no/butikker/extra/extra-overbygd-2752"
+  },
+  {
+    "id": "2540",
+    "name": "Extra Øvre Årdal",
+    "lat": 61.31028,
+    "lon": 7.808,
+    "address": "Farnesvegen 1",
+    "postalCode": "6884",
+    "city": "Øvre Årdal",
+    "url": "https://www.coop.no/butikker/extra/extra-ovre-ardal-2540"
+  },
+  {
+    "id": "3320",
+    "name": "Extra Øvrebyen",
+    "lat": 58.0294098,
+    "lon": 7.4627107,
+    "address": "St.Helenaveien 2",
+    "postalCode": "4517",
+    "city": "Mandal",
+    "url": "https://www.coop.no/butikker/extra/extra-ovrebyen-3320"
+  },
+  {
+    "id": "4947",
+    "name": "Extra Øvregaten",
+    "lat": 60.3986261,
+    "lon": 5.324291,
+    "address": "Øvregaten 37",
+    "postalCode": "5003",
+    "city": "Bergen",
+    "url": "https://www.coop.no/butikker/extra/extra-ovregaten-4947"
+  },
+  {
+    "id": "4672",
+    "name": "Extra Øygarden",
+    "lat": 59.346804,
+    "lon": 5.2730237,
+    "address": "Øygarden 2",
+    "postalCode": "4262",
+    "city": "Avaldsnes",
+    "url": "https://www.coop.no/butikker/extra/extra-oygarden-4672"
+  },
+  {
+    "id": "4269",
+    "name": "Extra Øygårdsdalen",
+    "lat": 58.341941,
+    "lon": 8.569529,
+    "address": "Vesterled 104",
+    "postalCode": "4877",
+    "city": "Grimstad",
+    "url": "https://www.coop.no/butikker/extra/extra-oygardsdalen-4269"
+  },
+  {
+    "id": "1443",
+    "name": "Extra Øystese",
+    "lat": 60.3872,
+    "lon": 6.20032,
+    "address": "Sjusetervegen 5",
+    "postalCode": "5610",
+    "city": "Øystese",
+    "url": "https://www.coop.no/butikker/extra/extra-oystese-1443"
+  },
+  {
+    "id": "4803",
+    "name": "Manstad Kjøtt Og Delikatesse",
+    "lat": 59.269056,
+    "lon": 10.76955,
+    "address": "Lervikveien 26",
+    "postalCode": "1626",
+    "city": "Manstad",
+    "url": "https://www.coop.no/butikker/extra/manstad-kjott-og-delikatesse-4803"
+  }
+]

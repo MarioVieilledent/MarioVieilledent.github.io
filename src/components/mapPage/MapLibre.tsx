@@ -4,8 +4,10 @@ import "maplibre-gl/dist/maplibre-gl.css";
 import { sources } from "../../utils/sources";
 import type { Source as MapSource } from "../../types/types";
 import UserLocationDot from "./UserLocationDot";
+import type { MapPoint } from "../../types/types";
 
 const FLY_DURATION = 500;
+const POINT_LABEL_MIN_ZOOM = 10;
 
 interface MapLibreProps {
   layers: string[];
@@ -13,6 +15,7 @@ interface MapLibreProps {
   zoom: number;
   onPositionChange: (center: [number, number], zoom: number) => void;
   userLocation: { lon: number; lat: number } | null;
+  points: MapPoint[];
 }
 
 // OpenLayers (the 2D renderer) natively expands a "{a-c}" subdomain-rotation
@@ -46,10 +49,13 @@ const MapLibre = forwardRef<
     triggerFlyTo: (lon: number, lat: number, zoom?: number) => void;
   },
   MapLibreProps
->(({ layers, center, zoom, onPositionChange, userLocation }, ref) => {
+>(({ layers, center, zoom, onPositionChange, userLocation, points }, ref) => {
   const mapRef = useRef<MapRef>(null);
   const [width, setWidth] = useState(window.innerWidth);
   const [height, setHeight] = useState(window.innerHeight);
+  const [showPointLabels, setShowPointLabels] = useState(
+    zoom >= POINT_LABEL_MIN_ZOOM,
+  );
 
   useImperativeHandle(ref, () => ({
     triggerReset() {
@@ -98,6 +104,9 @@ const MapLibre = forwardRef<
           event.viewState.zoom,
         )
       }
+      onZoomEnd={(event) =>
+        setShowPointLabels(event.viewState.zoom >= POINT_LABEL_MIN_ZOOM)
+      }
       style={{ width, height }}
       mapStyle="https://demotiles.maplibre.org/globe.json"
     >
@@ -117,6 +126,26 @@ const MapLibre = forwardRef<
             }}
           />
         </Source>
+      ))}
+      {points.map((point) => (
+        <Marker
+          key={`${point.source}-${point.id}`}
+          longitude={point.lon}
+          latitude={point.lat}
+          anchor="center"
+        >
+          <div
+            className="relative h-3 w-3 rounded-full border-2 border-white shadow"
+            style={{ backgroundColor: point.color }}
+            title={`${point.name} — ${point.address}, ${point.city}`}
+          >
+            {showPointLabels && (
+              <span className="pointer-events-none absolute bottom-4 left-1/2 w-max max-w-48 -translate-x-1/2 rounded bg-white/90 px-1.5 py-0.5 text-center text-[11px] font-semibold leading-tight text-stone-900 shadow">
+                {point.name}
+              </span>
+            )}
+          </div>
+        </Marker>
       ))}
       {userLocation && (
         <Marker longitude={userLocation.lon} latitude={userLocation.lat}>
