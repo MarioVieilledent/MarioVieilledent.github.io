@@ -7,6 +7,7 @@ import { RECIPES_PATH } from "../../utils/routes";
 import { categories, categoryEmoji } from "../../utils/recipeCategories";
 import type { Feast, Recipe } from "../../utils/validator";
 import RecipeCard from "./RecipeCard";
+import TranslationCoverageTable from "./TranslationCoverageTable";
 
 interface RecipesHomeProps {
   feasts: Feast[];
@@ -169,6 +170,8 @@ const RecipesHome = ({ feasts, recipes }: RecipesHomeProps) => {
           </div>
         </div>
       )}
+
+      <TranslationCoverageTable feasts={feasts} recipes={recipes} />
     </div>
   );
 };
