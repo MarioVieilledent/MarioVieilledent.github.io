@@ -16,10 +16,10 @@ import Feature from "ol/Feature";
 import Point from "ol/geom/Point";
 import { Circle as CircleStyle, Fill, Stroke, Style, Text } from "ol/style";
 import type { MapPoint } from "../../types/types";
+import { POINT_LABEL_MIN_ZOOM } from "../../utils/constants";
 
 const FLY_DURATION = 500;
 const RESET_ROTATION_DURATION = 300;
-const POINT_LABEL_MIN_ZOOM = 10;
 
 interface OpenLayerMapProps {
   setRotation: React.Dispatch<React.SetStateAction<number>>;

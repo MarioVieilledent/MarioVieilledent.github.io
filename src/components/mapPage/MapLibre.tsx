@@ -19,9 +19,9 @@ import type { Source as MapSource } from "../../types/types";
 import UserLocationDot from "./UserLocationDot";
 import type { MapPoint } from "../../types/types";
 import { useIsMobile } from "../../utils/isMobileHook";
+import { POINT_LABEL_MIN_ZOOM } from "../../utils/constants";
 
 const FLY_DURATION = 500;
-const POINT_LABEL_MIN_ZOOM = 10;
 
 interface MapLibreProps {
   layers: string[];

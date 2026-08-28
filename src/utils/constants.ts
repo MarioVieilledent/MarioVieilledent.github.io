@@ -11,6 +11,8 @@ export const LAYERS_QUERY_PARAM = "layers";
 export const CENTER_QUERY_PARAM = "center";
 export const ZOOM_QUERY_PARAM = "zoom";
 
+export const POINT_LABEL_MIN_ZOOM = 14;
+
 // Shared look for the circular floating action buttons scattered over the
 // map (menu, layers, globe toggle, reset rotation, ...). Split in two so
 // plain (non-Float) buttons can opt into the same hover/press feedback Float
