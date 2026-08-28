@@ -1,3 +1,4 @@
+import { useState } from "react";
 import { LuEye, LuEyeClosed, LuLayers2, LuMapPin } from "react-icons/lu";
 import LayerButton from "./LayerButton";
 import { useTranslation } from "../../utils/TranslationContext";
@@ -15,21 +16,69 @@ interface LayerMenuProps {
   setPointLayers: React.Dispatch<React.SetStateAction<string[]>>;
 }
 
-const sectionTitle = "text-xs font-semibold uppercase tracking-wide text-stone-500";
+const sectionTitle =
+  "text-xs font-semibold uppercase tracking-wide text-stone-500";
 
-const LayerMenu = ({ layers, setLayers, globeView, pointLayers, setPointLayers }: LayerMenuProps) => {
+const LayerMenu = ({
+  layers,
+  setLayers,
+  globeView,
+  pointLayers,
+  setPointLayers,
+}: LayerMenuProps) => {
   const isMobile = useIsMobile();
   const { t } = useTranslation();
+  const [mobileTab, setMobileTab] = useState<"baseMap" | "layers" | "points">(
+    "baseMap",
+  );
+  const mobileTabs = ["baseMap", "layers", "points"] as const;
 
   return (
     <Float
       Icon={LuLayers2}
       buttonClassName={`fixed top-4 right-4 z-50 ${FLOATING_BUTTON_BASE}`}
       containerClassName={`fixed z-40 max-w-[calc(100%-2rem)] rounded-3xl border border-stone-200 bg-white flex items-stretch shadow-xl transition-all max-h-[calc(100vh-8rem)] ${
-        isMobile ? "top-20 right-4 p-3 gap-3" : "top-4 right-20 p-5 gap-5"
+        isMobile
+          ? "top-20 right-4 left-4 z-[60] max-w-none p-3 gap-3 flex-col items-stretch"
+          : "top-4 right-20 p-5 gap-5"
       }`}
     >
-      <div className="flex flex-col items-start gap-4 overflow-auto">
+      {isMobile && (
+        <div
+          className="grid shrink-0 grid-cols-3 gap-1 rounded-2xl bg-stone-100 p-1"
+          role="tablist"
+          aria-label={t("layers")}
+        >
+          {mobileTabs.map((tab) => {
+            const isActive = mobileTab === tab;
+
+            return (
+              <button
+                key={tab}
+                type="button"
+                role="tab"
+                aria-selected={isActive}
+                className={
+                  isActive
+                    ? "rounded-xl bg-white px-3 py-2 text-xs font-semibold text-amber-800 shadow-sm"
+                    : "rounded-xl px-3 py-2 text-xs font-semibold text-stone-600 hover:text-stone-900"
+                }
+                onClick={() => setMobileTab(tab)}
+              >
+                {t(tab)}
+              </button>
+            );
+          })}
+        </div>
+      )}
+      <div
+        role={isMobile ? "tabpanel" : undefined}
+        className={
+          isMobile && mobileTab !== "baseMap"
+            ? "hidden"
+            : "flex flex-col items-start gap-4 overflow-auto"
+        }
+      >
         <h2 className="text-lg font-bold text-stone-900">{t("baseMap")}</h2>
         <div className={`flex  gap-5 ${isMobile ? "flex-col" : ""}`}>
           <div className="flex flex-col items-start gap-4">
@@ -131,7 +180,7 @@ const LayerMenu = ({ layers, setLayers, globeView, pointLayers, setPointLayers }
                       "hybrid",
                       "outdoor",
                       "transport",
-                    ].includes(l.type) && !l.type.startsWith("overlay")
+                    ].includes(l.type) && !l.type.startsWith("overlay"),
                 )
                 .map((l) => (
                   <LayerButton
@@ -146,8 +195,15 @@ const LayerMenu = ({ layers, setLayers, globeView, pointLayers, setPointLayers }
           </div>
         </div>
       </div>
-      <div className="w-px shrink-0 bg-stone-200"></div>
-      <div className="flex flex-col gap-4 overflow-auto">
+      {!isMobile && <div className="w-px shrink-0 bg-stone-200"></div>}
+      <div
+        role={isMobile ? "tabpanel" : undefined}
+        className={
+          isMobile && mobileTab !== "layers"
+            ? "hidden"
+            : "flex flex-col gap-4 overflow-auto"
+        }
+      >
         <div
           className={`flex items-center justify-between gap-4 ${
             isMobile ? "flex-col items-start" : ""
@@ -220,8 +276,15 @@ const LayerMenu = ({ layers, setLayers, globeView, pointLayers, setPointLayers }
             ))}
         </div>
       </div>
-      <div className="w-px shrink-0 bg-stone-200"></div>
-      <div className="flex min-w-40 flex-col gap-4 overflow-auto">
+      {!isMobile && <div className="w-px shrink-0 bg-stone-200"></div>}
+      <div
+        role={isMobile ? "tabpanel" : undefined}
+        className={
+          isMobile && mobileTab !== "points"
+            ? "hidden"
+            : "flex min-w-40 flex-col gap-4 overflow-auto"
+        }
+      >
         <div className="flex items-center justify-between gap-4">
           <h2 className="text-lg font-bold text-stone-900">{t("points")}</h2>
           {pointLayers.length > 0 && (
@@ -233,41 +296,55 @@ const LayerMenu = ({ layers, setLayers, globeView, pointLayers, setPointLayers }
             </button>
           )}
         </div>
-        <div className="flex flex-col gap-1">
-          <h3 className={sectionTitle}>{t("shops")}</h3>
-          {pointSources.map((source) => {
-            const isSelected = pointLayers.includes(source.name);
+        {(["shops", "services", "outdoorSites", "sportSites"] as const).map(
+          (category) => (
+            <div key={category} className="flex flex-col gap-1">
+              <h3 className={sectionTitle}>{t(category)}</h3>
+              {pointSources
+                .filter((source) => (source.category ?? "shops") === category)
+                .map((source) => {
+                  const isSelected = pointLayers.includes(source.name);
 
-            return (
-              <button
-                key={source.name}
-                type="button"
-                aria-pressed={isSelected}
-                className={`flex items-center gap-2 rounded-xl px-3 py-2 text-left transition-colors ${isSelected ? "bg-amber-50 text-amber-800 ring-1 ring-amber-300" : "text-stone-700 hover:bg-stone-100"}`}
-                onClick={() =>
-                  setPointLayers((prev) =>
-                    prev.includes(source.name)
-                      ? prev.filter((name) => name !== source.name)
-                      : [...prev, source.name],
-                  )
-                }
-              >
-                <LuMapPin
-                  className="h-6 w-6 shrink-0"
-                  style={{ color: source.color }}
-                />
-                {isSelected ? (
-                  <LuEye className="h-4 w-4 shrink-0 text-amber-600" />
-                ) : (
-                  <LuEyeClosed className="h-4 w-4 shrink-0 text-stone-400" />
-                )}
-                <span className="text-xs font-semibold">
-                  {source.name} ({source.points.length})
-                </span>
-              </button>
-            );
-          })}
-        </div>
+                  return (
+                    <button
+                      key={source.name}
+                      type="button"
+                      aria-pressed={isSelected}
+                      className={`flex items-center gap-2 rounded-xl px-3 py-2 text-left transition-colors ${isSelected ? "bg-amber-50 text-amber-800 ring-1 ring-amber-300" : "text-stone-700 hover:bg-stone-100"}`}
+                      onClick={() =>
+                        setPointLayers((prev) =>
+                          prev.includes(source.name)
+                            ? prev.filter((name) => name !== source.name)
+                            : [...prev, source.name],
+                        )
+                      }
+                    >
+                      <LuMapPin
+                        className="h-6 w-6 shrink-0"
+                        style={{ color: source.color }}
+                      />
+                      {isSelected ? (
+                        <LuEye className="h-4 w-4 shrink-0 text-amber-600" />
+                      ) : (
+                        <LuEyeClosed className="h-4 w-4 shrink-0 text-stone-400" />
+                      )}
+                      <span className="text-xs font-semibold">
+                        {source.name} ({source.points.length})
+                      </span>
+                    </button>
+                  );
+                })}
+            </div>
+          ),
+        )}
+        <a
+          className="text-xs text-stone-500 underline hover:text-stone-700"
+          href="https://www.openstreetmap.org/copyright"
+          target="_blank"
+          rel="noreferrer"
+        >
+          Data © OpenStreetMap contributors
+        </a>
       </div>
     </Float>
   );

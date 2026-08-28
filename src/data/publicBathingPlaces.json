@@ -1,0 +1,4022 @@
+[
+  {
+    "id": "osm-node-10065933529",
+    "name": "Public bathing place",
+    "lat": 58.9849519,
+    "lon": 5.6035343,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/10065933529"
+  },
+  {
+    "id": "osm-node-10102768747",
+    "name": "Sjøenden",
+    "lat": 61.2473722,
+    "lon": 12.0148751,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/10102768747"
+  },
+  {
+    "id": "osm-node-10119103580",
+    "name": "Storsandtjønna badeplass",
+    "lat": 62.6178278,
+    "lon": 11.164539,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/10119103580"
+  },
+  {
+    "id": "osm-node-10123618433",
+    "name": "Public bathing place",
+    "lat": 58.3641221,
+    "lon": 6.9640192,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/10123618433"
+  },
+  {
+    "id": "osm-node-10126471583",
+    "name": "Boligvika",
+    "lat": 60.9377195,
+    "lon": 10.6815417,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/10126471583"
+  },
+  {
+    "id": "osm-node-10126471703",
+    "name": "Nerkvernstranda",
+    "lat": 60.8747473,
+    "lon": 10.9393333,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/10126471703"
+  },
+  {
+    "id": "osm-node-10126471972",
+    "name": "Mattisvollen",
+    "lat": 61.0964445,
+    "lon": 10.7020444,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/10126471972"
+  },
+  {
+    "id": "osm-node-10126472223",
+    "name": "Sanda badeplass",
+    "lat": 60.9166334,
+    "lon": 10.6967389,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/10126472223"
+  },
+  {
+    "id": "osm-node-10126472912",
+    "name": "Møkkvika badeplass",
+    "lat": 60.9201945,
+    "lon": 10.6900638,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/10126472912"
+  },
+  {
+    "id": "osm-node-10181983874",
+    "name": "Røyneholm",
+    "lat": 60.0036826,
+    "lon": 5.984981,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/10181983874"
+  },
+  {
+    "id": "osm-node-10218053596",
+    "name": "Hengebrua badeplass",
+    "lat": 63.2636639,
+    "lon": 10.4595972,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/10218053596"
+  },
+  {
+    "id": "osm-node-10218077784",
+    "name": "Svean Moodden friluftsområde",
+    "lat": 63.2825,
+    "lon": 10.4665305,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/10218077784"
+  },
+  {
+    "id": "osm-node-10218078335",
+    "name": "Bjørsjøen badeplass",
+    "lat": 63.2502361,
+    "lon": 10.507914,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/10218078335"
+  },
+  {
+    "id": "osm-node-10218078533",
+    "name": "Svean bad",
+    "lat": 63.281559,
+    "lon": 10.4734953,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/10218078533"
+  },
+  {
+    "id": "osm-node-10225952612",
+    "name": "Gryta",
+    "lat": 59.5677972,
+    "lon": 10.4303001,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/10225952612"
+  },
+  {
+    "id": "osm-node-10225952621",
+    "name": "Roligheta",
+    "lat": 59.6032028,
+    "lon": 10.5171582,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/10225952621"
+  },
+  {
+    "id": "osm-node-10229028219",
+    "name": "Ingierstrand bad",
+    "lat": 59.8183056,
+    "lon": 10.7483417,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/10229028219"
+  },
+  {
+    "id": "osm-node-10229028405",
+    "name": "Julekvelden",
+    "lat": 59.7695765,
+    "lon": 10.7872956,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/10229028405"
+  },
+  {
+    "id": "osm-node-10536577379",
+    "name": "Public bathing place",
+    "lat": 58.7264755,
+    "lon": 9.2584537,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/10536577379"
+  },
+  {
+    "id": "osm-node-10536613841",
+    "name": "Public bathing place",
+    "lat": 58.7116516,
+    "lon": 9.2280175,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/10536613841"
+  },
+  {
+    "id": "osm-node-11046906742",
+    "name": "Hefte",
+    "lat": 58.3105386,
+    "lon": 8.2828519,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/11046906742"
+  },
+  {
+    "id": "osm-node-11051520282",
+    "name": "Public bathing place",
+    "lat": 61.5925421,
+    "lon": 5.0688618,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/11051520282"
+  },
+  {
+    "id": "osm-node-11054214064",
+    "name": "Fløksand och Leirvik Gard Friluftområde",
+    "lat": 60.5399033,
+    "lon": 5.0926078,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/11054214064"
+  },
+  {
+    "id": "osm-node-11081803903",
+    "name": "Flakkeholmen",
+    "lat": 58.3323869,
+    "lon": 8.2136589,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/11081803903"
+  },
+  {
+    "id": "osm-node-11081810406",
+    "name": "Bjorhus",
+    "lat": 58.3057046,
+    "lon": 8.1845503,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/11081810406"
+  },
+  {
+    "id": "osm-node-11081810407",
+    "name": "Mollestad",
+    "lat": 58.3172814,
+    "lon": 8.1920752,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/11081810407"
+  },
+  {
+    "id": "osm-node-11089330136",
+    "name": "Public bathing place",
+    "lat": 58.5027462,
+    "lon": 8.5093027,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/11089330136"
+  },
+  {
+    "id": "osm-node-11125893146",
+    "name": "Public bathing place",
+    "lat": 63.6085485,
+    "lon": 8.9308709,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/11125893146"
+  },
+  {
+    "id": "osm-node-11287895954",
+    "name": "Public bathing place",
+    "lat": 58.7983784,
+    "lon": 5.7364002,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/11287895954"
+  },
+  {
+    "id": "osm-node-11465305564",
+    "name": "Public bathing place",
+    "lat": 60.4043923,
+    "lon": 4.9880237,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/11465305564"
+  },
+  {
+    "id": "osm-node-11595858997",
+    "name": "Røssåauren badeplass",
+    "lat": 66.1635994,
+    "lon": 13.7981294,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/11595858997"
+  },
+  {
+    "id": "osm-node-12053632675",
+    "name": "Public bathing place",
+    "lat": 60.9808512,
+    "lon": 9.2361224,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/12053632675"
+  },
+  {
+    "id": "osm-node-12056707322",
+    "name": "Public bathing place",
+    "lat": 60.9802591,
+    "lon": 9.2375439,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/12056707322"
+  },
+  {
+    "id": "osm-node-12107390145",
+    "name": "Public bathing place",
+    "lat": 58.8190441,
+    "lon": 5.7271252,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/12107390145"
+  },
+  {
+    "id": "osm-node-12114233142",
+    "name": "Public bathing place",
+    "lat": 60.3662743,
+    "lon": 6.1776129,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/12114233142"
+  },
+  {
+    "id": "osm-node-12117433911",
+    "name": "Public bathing place",
+    "lat": 59.2064594,
+    "lon": 8.4930808,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/12117433911"
+  },
+  {
+    "id": "osm-node-12118747856",
+    "name": "Public bathing place",
+    "lat": 58.6032738,
+    "lon": 8.4034229,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/12118747856"
+  },
+  {
+    "id": "osm-node-12208811133",
+    "name": "Public bathing place",
+    "lat": 63.0851947,
+    "lon": 9.7546967,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/12208811133"
+  },
+  {
+    "id": "osm-node-12211614012",
+    "name": "Public bathing place",
+    "lat": 61.0416362,
+    "lon": 9.5275256,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/12211614012"
+  },
+  {
+    "id": "osm-node-12478760290",
+    "name": "Public bathing place",
+    "lat": 60.1675671,
+    "lon": 11.9643643,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/12478760290"
+  },
+  {
+    "id": "osm-node-12657263119",
+    "name": "Public bathing place",
+    "lat": 58.7047968,
+    "lon": 9.2013356,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/12657263119"
+  },
+  {
+    "id": "osm-node-12752110661",
+    "name": "Public bathing place",
+    "lat": 58.9315856,
+    "lon": 5.838929,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/12752110661"
+  },
+  {
+    "id": "osm-node-12752110662",
+    "name": "Public bathing place",
+    "lat": 58.9301638,
+    "lon": 5.8403304,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/12752110662"
+  },
+  {
+    "id": "osm-node-12816114892",
+    "name": "Public bathing place",
+    "lat": 58.6413286,
+    "lon": 6.0996705,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/12816114892"
+  },
+  {
+    "id": "osm-node-12816185474",
+    "name": "Public bathing place",
+    "lat": 58.8109855,
+    "lon": 5.7770612,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/12816185474"
+  },
+  {
+    "id": "osm-node-12816185475",
+    "name": "Public bathing place",
+    "lat": 58.8873843,
+    "lon": 5.7758425,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/12816185475"
+  },
+  {
+    "id": "osm-node-12816225029",
+    "name": "Public bathing place",
+    "lat": 58.9064119,
+    "lon": 5.779734,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/12816225029"
+  },
+  {
+    "id": "osm-node-12860388284",
+    "name": "Vaulen Badeplass",
+    "lat": 58.9241814,
+    "lon": 5.748961,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/12860388284"
+  },
+  {
+    "id": "osm-node-12881462943",
+    "name": "Public bathing place",
+    "lat": 59.9296647,
+    "lon": 11.9931069,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/12881462943"
+  },
+  {
+    "id": "osm-node-12973193491",
+    "name": "Public bathing place",
+    "lat": 60.47296,
+    "lon": 7.076292,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/12973193491"
+  },
+  {
+    "id": "osm-node-12983976392",
+    "name": "Public bathing place",
+    "lat": 62.4144387,
+    "lon": 6.265712,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/12983976392"
+  },
+  {
+    "id": "osm-node-12997782962",
+    "name": "Public bathing place",
+    "lat": 60.9865597,
+    "lon": 11.7679101,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/12997782962"
+  },
+  {
+    "id": "osm-node-12997893098",
+    "name": "Public bathing place",
+    "lat": 60.2063989,
+    "lon": 5.6267329,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/12997893098"
+  },
+  {
+    "id": "osm-node-13013331119",
+    "name": "Public bathing place",
+    "lat": 59.3172426,
+    "lon": 9.4159379,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/13013331119"
+  },
+  {
+    "id": "osm-node-13013388046",
+    "name": "Public bathing place",
+    "lat": 59.3765036,
+    "lon": 8.9870779,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/13013388046"
+  },
+  {
+    "id": "osm-node-13013410658",
+    "name": "Public bathing place",
+    "lat": 59.3687124,
+    "lon": 8.0157005,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/13013410658"
+  },
+  {
+    "id": "osm-node-13062128773",
+    "name": "Public bathing place",
+    "lat": 65.4623896,
+    "lon": 12.2107288,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/13062128773"
+  },
+  {
+    "id": "osm-node-13076108276",
+    "name": "Public bathing place",
+    "lat": 59.863438,
+    "lon": 9.3194041,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/13076108276"
+  },
+  {
+    "id": "osm-node-13078284435",
+    "name": "Public bathing place",
+    "lat": 58.0808279,
+    "lon": 7.8919026,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/13078284435"
+  },
+  {
+    "id": "osm-node-13078288644",
+    "name": "Public bathing place",
+    "lat": 58.076342,
+    "lon": 7.9123244,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/13078288644"
+  },
+  {
+    "id": "osm-node-13078292402",
+    "name": "Public bathing place",
+    "lat": 58.0793254,
+    "lon": 7.8979932,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/13078292402"
+  },
+  {
+    "id": "osm-node-13078292626",
+    "name": "Public bathing place",
+    "lat": 58.0832874,
+    "lon": 7.8937882,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/13078292626"
+  },
+  {
+    "id": "osm-node-13081976266",
+    "name": "Public bathing place",
+    "lat": 58.6172096,
+    "lon": 7.4102883,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/13081976266"
+  },
+  {
+    "id": "osm-node-13084317374",
+    "name": "Public bathing place",
+    "lat": 61.2234564,
+    "lon": 7.1055143,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/13084317374"
+  },
+  {
+    "id": "osm-node-13332361185",
+    "name": "Public bathing place",
+    "lat": 58.7111465,
+    "lon": 9.2267747,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/13332361185"
+  },
+  {
+    "id": "osm-node-13404021596",
+    "name": "Public bathing place",
+    "lat": 61.5933929,
+    "lon": 5.0722108,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/13404021596"
+  },
+  {
+    "id": "osm-node-13406792095",
+    "name": "Public bathing place",
+    "lat": 59.675816,
+    "lon": 9.6180059,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/13406792095"
+  },
+  {
+    "id": "osm-node-13406792096",
+    "name": "Public bathing place",
+    "lat": 59.6763788,
+    "lon": 9.6161921,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/13406792096"
+  },
+  {
+    "id": "osm-node-13406792097",
+    "name": "Public bathing place",
+    "lat": 59.6751253,
+    "lon": 9.6160136,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/13406792097"
+  },
+  {
+    "id": "osm-node-13670493450",
+    "name": "Public bathing place",
+    "lat": 59.2174736,
+    "lon": 10.3458306,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/13670493450"
+  },
+  {
+    "id": "osm-node-13809802719",
+    "name": "Public bathing place",
+    "lat": 59.4615086,
+    "lon": 10.7671026,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/13809802719"
+  },
+  {
+    "id": "osm-node-13972600148",
+    "name": "Notabuneset/Saganeset",
+    "lat": 60.2568932,
+    "lon": 5.3300854,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/13972600148"
+  },
+  {
+    "id": "osm-node-13980265453",
+    "name": "Public bathing place",
+    "lat": 58.9911437,
+    "lon": 10.0414403,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/13980265453"
+  },
+  {
+    "id": "osm-node-13980265454",
+    "name": "Public bathing place",
+    "lat": 58.9912171,
+    "lon": 10.0385614,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/13980265454"
+  },
+  {
+    "id": "osm-node-13990805499",
+    "name": "Public bathing place",
+    "lat": 59.4364226,
+    "lon": 10.6568006,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/13990805499"
+  },
+  {
+    "id": "osm-node-14006185877",
+    "name": "Public bathing place",
+    "lat": 60.3123354,
+    "lon": 5.3289644,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/14006185877"
+  },
+  {
+    "id": "osm-node-14006215475",
+    "name": "Solvik badeplass",
+    "lat": 59.8647746,
+    "lon": 10.7496878,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/14006215475"
+  },
+  {
+    "id": "osm-node-14007862644",
+    "name": "Public bathing place",
+    "lat": 59.8237082,
+    "lon": 7.192557,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/14007862644"
+  },
+  {
+    "id": "osm-node-14017625272",
+    "name": "Public bathing place",
+    "lat": 59.7696912,
+    "lon": 5.4653669,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/14017625272"
+  },
+  {
+    "id": "osm-node-14019875479",
+    "name": "Public bathing place",
+    "lat": 59.7778409,
+    "lon": 5.468718,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/14019875479"
+  },
+  {
+    "id": "osm-node-14022554039",
+    "name": "Public bathing place",
+    "lat": 58.3008082,
+    "lon": 7.7468632,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/14022554039"
+  },
+  {
+    "id": "osm-node-14022558720",
+    "name": "Public bathing place",
+    "lat": 58.2934776,
+    "lon": 7.8150028,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/14022558720"
+  },
+  {
+    "id": "osm-node-14027369651",
+    "name": "Public bathing place",
+    "lat": 60.6755507,
+    "lon": 6.5243589,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/14027369651"
+  },
+  {
+    "id": "osm-node-14049665234",
+    "name": "Badetrappen",
+    "lat": 63.4340981,
+    "lon": 10.3863106,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/14049665234"
+  },
+  {
+    "id": "osm-node-14065978169",
+    "name": "Saggrendadammen",
+    "lat": 59.6278182,
+    "lon": 9.599,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.kongsberg.kommune.no/artikkel/badeplasser"
+  },
+  {
+    "id": "osm-node-14066691185",
+    "name": "Møllebukta",
+    "lat": 58.9421191,
+    "lon": 5.6707643,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/14066691185"
+  },
+  {
+    "id": "osm-node-14066839414",
+    "name": "Public bathing place",
+    "lat": 58.8857196,
+    "lon": 5.8519378,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/14066839414"
+  },
+  {
+    "id": "osm-node-14066839415",
+    "name": "Public bathing place",
+    "lat": 58.8865007,
+    "lon": 5.8568365,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/14066839415"
+  },
+  {
+    "id": "osm-node-14077098826",
+    "name": "Public bathing place",
+    "lat": 68.6970518,
+    "lon": 15.4194855,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/14077098826"
+  },
+  {
+    "id": "osm-node-14087815453",
+    "name": "Public bathing place",
+    "lat": 69.7943081,
+    "lon": 21.0266243,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/14087815453"
+  },
+  {
+    "id": "osm-node-1822939795",
+    "name": "Public bathing place",
+    "lat": 58.0766067,
+    "lon": 6.7173038,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/1822939795"
+  },
+  {
+    "id": "osm-node-2115106125",
+    "name": "Public bathing place",
+    "lat": 62.970201,
+    "lon": 7.7448863,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/2115106125"
+  },
+  {
+    "id": "osm-node-24552122",
+    "name": "Kalkstranda",
+    "lat": 62.9894639,
+    "lon": 8.6179283,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/24552122"
+  },
+  {
+    "id": "osm-node-2868263437",
+    "name": "Estenstaddammen",
+    "lat": 63.391819,
+    "lon": 10.486189,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/2868263437"
+  },
+  {
+    "id": "osm-node-2868325301",
+    "name": "Haukvatnet",
+    "lat": 63.3948315,
+    "lon": 10.3224925,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/2868325301"
+  },
+  {
+    "id": "osm-node-2868325302",
+    "name": "Lianvatnet",
+    "lat": 63.4016812,
+    "lon": 10.3145844,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/2868325302"
+  },
+  {
+    "id": "osm-node-293400190",
+    "name": "Public bathing place",
+    "lat": 59.8686083,
+    "lon": 10.6624249,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/293400190"
+  },
+  {
+    "id": "osm-node-293400195",
+    "name": "Public bathing place",
+    "lat": 59.8623072,
+    "lon": 10.6718202,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/293400195"
+  },
+  {
+    "id": "osm-node-293400197",
+    "name": "Hellviktangen",
+    "lat": 59.8513408,
+    "lon": 10.6872839,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/293400197"
+  },
+  {
+    "id": "osm-node-293400220",
+    "name": "Badeodden",
+    "lat": 59.8706074,
+    "lon": 10.6596563,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/293400220"
+  },
+  {
+    "id": "osm-node-2957111932",
+    "name": "Leirsjøen",
+    "lat": 63.3854411,
+    "lon": 10.2887982,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/2957111932"
+  },
+  {
+    "id": "osm-node-2993499069",
+    "name": "Public bathing place",
+    "lat": 59.1309978,
+    "lon": 11.4886197,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/2993499069"
+  },
+  {
+    "id": "osm-node-3079184267",
+    "name": "Public bathing place",
+    "lat": 62.7810163,
+    "lon": 9.5512904,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/3079184267"
+  },
+  {
+    "id": "osm-node-3452672529",
+    "name": "Public bathing place",
+    "lat": 60.4941756,
+    "lon": 4.9207842,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/3452672529"
+  },
+  {
+    "id": "osm-node-3660796471",
+    "name": "Badeplassen i Espevika",
+    "lat": 58.8088354,
+    "lon": 9.1078056,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/3660796471"
+  },
+  {
+    "id": "osm-node-3679909444",
+    "name": "Public bathing place",
+    "lat": 60.305042,
+    "lon": 5.360053,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/3679909444"
+  },
+  {
+    "id": "osm-node-3679909445",
+    "name": "Public bathing place",
+    "lat": 60.303992,
+    "lon": 5.3573913,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/3679909445"
+  },
+  {
+    "id": "osm-node-3718759195",
+    "name": "Public bathing place",
+    "lat": 61.7335501,
+    "lon": 11.2075449,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/3718759195"
+  },
+  {
+    "id": "osm-node-3719190759",
+    "name": "Public bathing place",
+    "lat": 62.465687,
+    "lon": 11.041258,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/3719190759"
+  },
+  {
+    "id": "osm-node-4042704523",
+    "name": "Public bathing place",
+    "lat": 60.208508,
+    "lon": 5.3659668,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/4042704523"
+  },
+  {
+    "id": "osm-node-4042707550",
+    "name": "Public bathing place",
+    "lat": 60.2147364,
+    "lon": 5.3597828,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/4042707550"
+  },
+  {
+    "id": "osm-node-4042707594",
+    "name": "Public bathing place",
+    "lat": 60.2155317,
+    "lon": 5.3544413,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/4042707594"
+  },
+  {
+    "id": "osm-node-4232217312",
+    "name": "Nordbukta",
+    "lat": 59.0972151,
+    "lon": 11.2016414,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/4232217312"
+  },
+  {
+    "id": "osm-node-4278605381",
+    "name": "Public bathing place",
+    "lat": 58.9319954,
+    "lon": 9.558446,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/4278605381"
+  },
+  {
+    "id": "osm-node-4421935050",
+    "name": "Furevika",
+    "lat": 60.2609475,
+    "lon": 5.2929155,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/4421935050"
+  },
+  {
+    "id": "osm-node-4423353035",
+    "name": "Public bathing place",
+    "lat": 60.2699707,
+    "lon": 5.32379,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/4423353035"
+  },
+  {
+    "id": "osm-node-4423694655",
+    "name": "Omlandstjenn",
+    "lat": 58.7031024,
+    "lon": 9.1604864,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/4423694655"
+  },
+  {
+    "id": "osm-node-4441699445",
+    "name": "Public bathing place",
+    "lat": 58.7254691,
+    "lon": 9.2375087,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/4441699445"
+  },
+  {
+    "id": "osm-node-4568162570",
+    "name": "Public bathing place",
+    "lat": 58.7249196,
+    "lon": 9.2373763,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/4568162570"
+  },
+  {
+    "id": "osm-node-4834427627",
+    "name": "Public bathing place",
+    "lat": 60.4348331,
+    "lon": 5.2793507,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/4834427627"
+  },
+  {
+    "id": "osm-node-4907829222",
+    "name": "Public bathing place",
+    "lat": 58.1459135,
+    "lon": 6.7002492,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/4907829222"
+  },
+  {
+    "id": "osm-node-4922692495",
+    "name": "Storbadern",
+    "lat": 59.1667087,
+    "lon": 10.423797,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/4922692495"
+  },
+  {
+    "id": "osm-node-4935933335",
+    "name": "Public bathing place",
+    "lat": 60.5116423,
+    "lon": 5.3546038,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/4935933335"
+  },
+  {
+    "id": "osm-node-5057097280",
+    "name": "Public bathing place",
+    "lat": 65.9898186,
+    "lon": 12.6237725,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/5057097280"
+  },
+  {
+    "id": "osm-node-5626149011",
+    "name": "Haråssanden",
+    "lat": 59.347198,
+    "lon": 8.1130307,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/5626149011"
+  },
+  {
+    "id": "osm-node-5658700322",
+    "name": "Public bathing place",
+    "lat": 60.3201812,
+    "lon": 5.292645,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/5658700322"
+  },
+  {
+    "id": "osm-node-5658700323",
+    "name": "Public bathing place",
+    "lat": 60.3202165,
+    "lon": 5.2905927,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/5658700323"
+  },
+  {
+    "id": "osm-node-5660393855",
+    "name": "Tjønnebotten",
+    "lat": 59.3401951,
+    "lon": 9.098959,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/5660393855"
+  },
+  {
+    "id": "osm-node-5679141365",
+    "name": "Olavsberget",
+    "lat": 59.108265,
+    "lon": 9.7138452,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/5679141365"
+  },
+  {
+    "id": "osm-node-5679141445",
+    "name": "Vadberget",
+    "lat": 59.02924,
+    "lon": 9.7723759,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/5679141445"
+  },
+  {
+    "id": "osm-node-5679141482",
+    "name": "Dikkon",
+    "lat": 59.0594253,
+    "lon": 9.7239224,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/5679141482"
+  },
+  {
+    "id": "osm-node-5683157258",
+    "name": "Bliva",
+    "lat": 59.2827972,
+    "lon": 9.5269132,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/5683157258"
+  },
+  {
+    "id": "osm-node-5683157610",
+    "name": "Dilsdalstranda",
+    "lat": 59.2532948,
+    "lon": 9.4314343,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/5683157610"
+  },
+  {
+    "id": "osm-node-5787345760",
+    "name": "Public bathing place",
+    "lat": 61.1860008,
+    "lon": 6.8345208,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/5787345760"
+  },
+  {
+    "id": "osm-node-5789577414",
+    "name": "Public bathing place",
+    "lat": 59.9780534,
+    "lon": 9.0783476,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/5789577414"
+  },
+  {
+    "id": "osm-node-6255727446",
+    "name": "Homborsund badebrygge",
+    "lat": 58.2638318,
+    "lon": 8.5089554,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/6255727446"
+  },
+  {
+    "id": "osm-node-6358251052",
+    "name": "Public bathing place",
+    "lat": 60.4079101,
+    "lon": 5.3209602,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/6358251052"
+  },
+  {
+    "id": "osm-node-6610948243",
+    "name": "Public bathing place",
+    "lat": 58.1448406,
+    "lon": 8.0339614,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/6610948243"
+  },
+  {
+    "id": "osm-node-6647225721",
+    "name": "Public bathing place",
+    "lat": 60.6880453,
+    "lon": 6.7357543,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/6647225721"
+  },
+  {
+    "id": "osm-node-7246114268",
+    "name": "Public bathing place",
+    "lat": 61.4518809,
+    "lon": 8.462143,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/7246114268"
+  },
+  {
+    "id": "osm-node-736619510",
+    "name": "Mærrapanna",
+    "lat": 59.1901404,
+    "lon": 10.7918931,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/736619510"
+  },
+  {
+    "id": "osm-node-7393356008",
+    "name": "Tøgevågen",
+    "lat": 59.0925796,
+    "lon": 5.9188642,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/7393356008"
+  },
+  {
+    "id": "osm-node-7503758702",
+    "name": "Skogvannet",
+    "lat": 69.9654974,
+    "lon": 23.4521091,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/7503758702"
+  },
+  {
+    "id": "osm-node-7632107873",
+    "name": "Public bathing place",
+    "lat": 60.4302617,
+    "lon": 5.4651693,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/7632107873"
+  },
+  {
+    "id": "osm-node-7663706955",
+    "name": "Øverlandsvannet badested",
+    "lat": 62.7579912,
+    "lon": 7.2030551,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/7663706955"
+  },
+  {
+    "id": "osm-node-7741879994",
+    "name": "Public bathing place",
+    "lat": 68.204742,
+    "lon": 14.233067,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/7741879994"
+  },
+  {
+    "id": "osm-node-7741880007",
+    "name": "Public bathing place",
+    "lat": 63.8697808,
+    "lon": 10.8003652,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/7741880007"
+  },
+  {
+    "id": "osm-node-7780693485",
+    "name": "Public bathing place",
+    "lat": 59.0243839,
+    "lon": 6.9469505,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/7780693485"
+  },
+  {
+    "id": "osm-node-8345062156",
+    "name": "Tussetjern",
+    "lat": 59.762093,
+    "lon": 10.8308754,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/8345062156"
+  },
+  {
+    "id": "osm-node-8355838070",
+    "name": "Sæterstrand bad",
+    "lat": 59.8619176,
+    "lon": 10.7835236,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/8355838070"
+  },
+  {
+    "id": "osm-node-8887274668",
+    "name": "Public bathing place",
+    "lat": 59.2811091,
+    "lon": 9.7361451,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/8887274668"
+  },
+  {
+    "id": "osm-node-8945118689",
+    "name": "Public bathing place",
+    "lat": 59.4748379,
+    "lon": 5.5409853,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/8945118689"
+  },
+  {
+    "id": "osm-node-9051244478",
+    "name": "Public bathing place",
+    "lat": 59.9296645,
+    "lon": 11.9929796,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/9051244478"
+  },
+  {
+    "id": "osm-node-9307290432",
+    "name": "Public bathing place",
+    "lat": 58.4691221,
+    "lon": 8.8030656,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/9307290432"
+  },
+  {
+    "id": "osm-node-944575665",
+    "name": "Public bathing place",
+    "lat": 58.8692727,
+    "lon": 5.9917398,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/944575665"
+  },
+  {
+    "id": "osm-node-9628209836",
+    "name": "Kolsjøen badeplass",
+    "lat": 62.5894417,
+    "lon": 9.6773694,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/9628209836"
+  },
+  {
+    "id": "osm-node-9628209845",
+    "name": "Ångardsvatnet badestrand",
+    "lat": 62.6628695,
+    "lon": 9.2075694,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/9628209845"
+  },
+  {
+    "id": "osm-node-9628210091",
+    "name": "Rauøra badeplass",
+    "lat": 62.6985003,
+    "lon": 9.398106,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/9628210091"
+  },
+  {
+    "id": "osm-node-9669679590",
+    "name": "Enderud bad",
+    "lat": 60.0653722,
+    "lon": 12.2682167,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/9669679590"
+  },
+  {
+    "id": "osm-node-9684602189",
+    "name": "Vikerauren",
+    "lat": 60.2991028,
+    "lon": 11.7114167,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/9684602189"
+  },
+  {
+    "id": "osm-node-9684602215",
+    "name": "Sagalandet",
+    "lat": 60.3197723,
+    "lon": 11.7269195,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/9684602215"
+  },
+  {
+    "id": "osm-node-9684602523",
+    "name": "Sandhella",
+    "lat": 60.2817584,
+    "lon": 11.781375,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/9684602523"
+  },
+  {
+    "id": "osm-node-9689176672",
+    "name": "Fløyta",
+    "lat": 60.3362688,
+    "lon": 11.3280951,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/9689176672"
+  },
+  {
+    "id": "osm-node-9691325296",
+    "name": "Badeberget",
+    "lat": 60.4923555,
+    "lon": 11.4297139,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/9691325296"
+  },
+  {
+    "id": "osm-node-9691325493",
+    "name": "Lauvarhella",
+    "lat": 60.3981417,
+    "lon": 11.5123139,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/9691325493"
+  },
+  {
+    "id": "osm-node-9738189824",
+    "name": "Osmund sand",
+    "lat": 61.3003472,
+    "lon": 11.7804055,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/9738189824"
+  },
+  {
+    "id": "osm-node-9848106662",
+    "name": "Public bathing place",
+    "lat": 58.504163,
+    "lon": 8.400861,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/9848106662"
+  },
+  {
+    "id": "osm-node-9848106664",
+    "name": "Public bathing place",
+    "lat": 58.4979323,
+    "lon": 8.4353086,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/9848106664"
+  },
+  {
+    "id": "osm-node-9875809934",
+    "name": "Public bathing place",
+    "lat": 61.0323094,
+    "lon": 5.3530154,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/9875809934"
+  },
+  {
+    "id": "osm-node-9899665122",
+    "name": "Public bathing place",
+    "lat": 58.2588223,
+    "lon": 8.4001087,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/9899665122"
+  },
+  {
+    "id": "osm-node-9902815584",
+    "name": "Public bathing place",
+    "lat": 58.6662472,
+    "lon": 7.8140051,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/9902815584"
+  },
+  {
+    "id": "osm-node-9903700393",
+    "name": "Grandfjæra friområde",
+    "lat": 63.6639723,
+    "lon": 10.6091806,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/9903700393"
+  },
+  {
+    "id": "osm-node-9935350874",
+    "name": "Leirvika",
+    "lat": 62.6711083,
+    "lon": 6.6685501,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/9935350874"
+  },
+  {
+    "id": "osm-node-9936189525",
+    "name": "Langeøyene naturisstrand",
+    "lat": 59.8689254,
+    "lon": 10.7215675,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/9936189525"
+  },
+  {
+    "id": "osm-node-9942104278",
+    "name": "Eidsand Badeplass",
+    "lat": 60.4890882,
+    "lon": 10.4396161,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/9942104278"
+  },
+  {
+    "id": "osm-node-9947981643",
+    "name": "Prinsen friluftsbad",
+    "lat": 62.4635194,
+    "lon": 6.2536142,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/9947981643"
+  },
+  {
+    "id": "osm-node-9952584872",
+    "name": "Public bathing place",
+    "lat": 60.6933705,
+    "lon": 8.9244374,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/9952584872"
+  },
+  {
+    "id": "osm-relation-10616509",
+    "name": "Abbortjern",
+    "lat": 61.1342996,
+    "lon": 10.518444,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/10616509"
+  },
+  {
+    "id": "osm-relation-10715370",
+    "name": "Public bathing place",
+    "lat": 61.1208617,
+    "lon": 10.5085784,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/10715370"
+  },
+  {
+    "id": "osm-relation-11277332",
+    "name": "Haverbekkvika",
+    "lat": 60.789998,
+    "lon": 11.4670607,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/11277332"
+  },
+  {
+    "id": "osm-relation-13014071",
+    "name": "Public bathing place",
+    "lat": 60.2808761,
+    "lon": 6.249049,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/13014071"
+  },
+  {
+    "id": "osm-relation-13656224",
+    "name": "Public bathing place",
+    "lat": 60.4986057,
+    "lon": 5.453218,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/13656224"
+  },
+  {
+    "id": "osm-relation-13683823",
+    "name": "Public bathing place",
+    "lat": 60.4979496,
+    "lon": 5.4241041,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/13683823"
+  },
+  {
+    "id": "osm-relation-14377920",
+    "name": "Public bathing place",
+    "lat": 60.3657482,
+    "lon": 5.3049631,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/14377920"
+  },
+  {
+    "id": "osm-relation-14379176",
+    "name": "Public bathing place",
+    "lat": 60.3989633,
+    "lon": 5.3022474,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/14379176"
+  },
+  {
+    "id": "osm-relation-15747972",
+    "name": "Hallestranda",
+    "lat": 59.0172212,
+    "lon": 9.9097953,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/15747972"
+  },
+  {
+    "id": "osm-relation-15747973",
+    "name": "Hallestranda",
+    "lat": 59.0174188,
+    "lon": 9.9089315,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/15747973"
+  },
+  {
+    "id": "osm-relation-16117144",
+    "name": "Public bathing place",
+    "lat": 59.1046729,
+    "lon": 11.2151464,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/16117144"
+  },
+  {
+    "id": "osm-relation-17885481",
+    "name": "Pina",
+    "lat": 59.0955034,
+    "lon": 11.2145726,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17885481"
+  },
+  {
+    "id": "osm-relation-18988346",
+    "name": "Dørvika",
+    "lat": 58.9487807,
+    "lon": 6.1441795,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/18988346"
+  },
+  {
+    "id": "osm-relation-19233097",
+    "name": "Public bathing place",
+    "lat": 58.8150562,
+    "lon": 6.0052925,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/19233097"
+  },
+  {
+    "id": "osm-relation-19233098",
+    "name": "Public bathing place",
+    "lat": 58.8164246,
+    "lon": 6.0086974,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/19233098"
+  },
+  {
+    "id": "osm-relation-20004216",
+    "name": "Helleskilen",
+    "lat": 59.1728471,
+    "lon": 10.8282261,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/20004216"
+  },
+  {
+    "id": "osm-relation-6445882",
+    "name": "Einarsvika",
+    "lat": 58.6466471,
+    "lon": 9.1299072,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/6445882"
+  },
+  {
+    "id": "osm-relation-7301098",
+    "name": "Linepollen",
+    "lat": 58.3481728,
+    "lon": 6.3339809,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/7301098"
+  },
+  {
+    "id": "osm-relation-8519969",
+    "name": "Storvannet",
+    "lat": 70.6819739,
+    "lon": 23.7032368,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/8519969"
+  },
+  {
+    "id": "osm-way-1019023122",
+    "name": "Public bathing place",
+    "lat": 60.5526618,
+    "lon": 5.4088893,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1019023122"
+  },
+  {
+    "id": "osm-way-1026523236",
+    "name": "Sandvikastranda Badeplass",
+    "lat": 60.7801368,
+    "lon": 11.0960457,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1026523236"
+  },
+  {
+    "id": "osm-way-1026523240",
+    "name": "Domkirkeodden Badeplass",
+    "lat": 60.7922402,
+    "lon": 11.0347203,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1026523240"
+  },
+  {
+    "id": "osm-way-1026540667",
+    "name": "Korgerstuguvika Badeplass",
+    "lat": 60.9121148,
+    "lon": 10.7021219,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1026540667"
+  },
+  {
+    "id": "osm-way-1026540668",
+    "name": "Ringstrand Badeplass",
+    "lat": 60.8987277,
+    "lon": 10.7235454,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1026540668"
+  },
+  {
+    "id": "osm-way-1026540673",
+    "name": "Fristranda Badeplass",
+    "lat": 60.8225816,
+    "lon": 10.6792795,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1026540673"
+  },
+  {
+    "id": "osm-way-1026540675",
+    "name": "Tallodden Badeplass",
+    "lat": 60.7167899,
+    "lon": 10.8753316,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1026540675"
+  },
+  {
+    "id": "osm-way-1026540678",
+    "name": "Tangenodden Badeplass",
+    "lat": 60.6132283,
+    "lon": 11.2604238,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1026540678"
+  },
+  {
+    "id": "osm-way-1026543845",
+    "name": "Verven Badeplass",
+    "lat": 60.8730223,
+    "lon": 10.9415271,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1026543845"
+  },
+  {
+    "id": "osm-way-1056601463",
+    "name": "Sætre bystrand",
+    "lat": 59.683051,
+    "lon": 10.5295347,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1056601463"
+  },
+  {
+    "id": "osm-way-1130649290",
+    "name": "Public bathing place",
+    "lat": 58.7162713,
+    "lon": 9.238366,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1130649290"
+  },
+  {
+    "id": "osm-way-1130651285",
+    "name": "Public bathing place",
+    "lat": 58.7212529,
+    "lon": 9.2409463,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1130651285"
+  },
+  {
+    "id": "osm-way-1131168241",
+    "name": "Public bathing place",
+    "lat": 58.710144,
+    "lon": 9.2234269,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1131168241"
+  },
+  {
+    "id": "osm-way-1131168242",
+    "name": "Public bathing place",
+    "lat": 58.7071201,
+    "lon": 9.2128658,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1131168242"
+  },
+  {
+    "id": "osm-way-1131168243",
+    "name": "Public bathing place",
+    "lat": 58.7087449,
+    "lon": 9.2434354,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1131168243"
+  },
+  {
+    "id": "osm-way-1131168244",
+    "name": "Public bathing place",
+    "lat": 58.712796,
+    "lon": 9.2462419,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1131168244"
+  },
+  {
+    "id": "osm-way-1131168245",
+    "name": "Public bathing place",
+    "lat": 58.7145299,
+    "lon": 9.2504732,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1131168245"
+  },
+  {
+    "id": "osm-way-1131168246",
+    "name": "Public bathing place",
+    "lat": 58.7145052,
+    "lon": 9.2564105,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1131168246"
+  },
+  {
+    "id": "osm-way-1131168247",
+    "name": "Public bathing place",
+    "lat": 58.7196029,
+    "lon": 9.2515605,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1131168247"
+  },
+  {
+    "id": "osm-way-1131168248",
+    "name": "Public bathing place",
+    "lat": 58.7204666,
+    "lon": 9.2552786,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1131168248"
+  },
+  {
+    "id": "osm-way-1131168249",
+    "name": "Public bathing place",
+    "lat": 58.719836,
+    "lon": 9.2620766,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1131168249"
+  },
+  {
+    "id": "osm-way-1131168250",
+    "name": "Public bathing place",
+    "lat": 58.7195146,
+    "lon": 9.2634472,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1131168250"
+  },
+  {
+    "id": "osm-way-1131168251",
+    "name": "Public bathing place",
+    "lat": 58.7196168,
+    "lon": 9.264933,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1131168251"
+  },
+  {
+    "id": "osm-way-1131168252",
+    "name": "Public bathing place",
+    "lat": 58.7299943,
+    "lon": 9.2621985,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1131168252"
+  },
+  {
+    "id": "osm-way-1131168253",
+    "name": "Public bathing place",
+    "lat": 58.7301635,
+    "lon": 9.2642734,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1131168253"
+  },
+  {
+    "id": "osm-way-1131168254",
+    "name": "Public bathing place",
+    "lat": 58.7309326,
+    "lon": 9.2680673,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1131168254"
+  },
+  {
+    "id": "osm-way-1131168255",
+    "name": "Public bathing place",
+    "lat": 58.729932,
+    "lon": 9.2698146,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1131168255"
+  },
+  {
+    "id": "osm-way-1131168256",
+    "name": "Public bathing place",
+    "lat": 58.7295252,
+    "lon": 9.271377,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1131168256"
+  },
+  {
+    "id": "osm-way-1131168257",
+    "name": "Public bathing place",
+    "lat": 58.7271349,
+    "lon": 9.2879215,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1131168257"
+  },
+  {
+    "id": "osm-way-1131168258",
+    "name": "Public bathing place",
+    "lat": 58.7337787,
+    "lon": 9.2887652,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1131168258"
+  },
+  {
+    "id": "osm-way-1131168259",
+    "name": "Public bathing place",
+    "lat": 58.7347455,
+    "lon": 9.2924911,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1131168259"
+  },
+  {
+    "id": "osm-way-1131168260",
+    "name": "Public bathing place",
+    "lat": 58.7340202,
+    "lon": 9.295503,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1131168260"
+  },
+  {
+    "id": "osm-way-1131169545",
+    "name": "Public bathing place",
+    "lat": 58.728229,
+    "lon": 9.2310495,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1131169545"
+  },
+  {
+    "id": "osm-way-1131169546",
+    "name": "Mindalen",
+    "lat": 58.722613,
+    "lon": 9.1987387,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1131169546"
+  },
+  {
+    "id": "osm-way-1131169547",
+    "name": "Sandtaket",
+    "lat": 58.7251863,
+    "lon": 9.1596316,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1131169547"
+  },
+  {
+    "id": "osm-way-1131169548",
+    "name": "Public bathing place",
+    "lat": 58.7286448,
+    "lon": 9.156383,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1131169548"
+  },
+  {
+    "id": "osm-way-1162480002",
+    "name": "Ulefoss",
+    "lat": 59.2847731,
+    "lon": 9.2689597,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1162480002"
+  },
+  {
+    "id": "osm-way-1163341360",
+    "name": "Public bathing place",
+    "lat": 59.3805858,
+    "lon": 8.5206734,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1163341360"
+  },
+  {
+    "id": "osm-way-1163614102",
+    "name": "Public bathing place",
+    "lat": 59.4231964,
+    "lon": 8.1839122,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1163614102"
+  },
+  {
+    "id": "osm-way-1178762224",
+    "name": "Public bathing place",
+    "lat": 63.438699,
+    "lon": 10.4952695,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1178762224"
+  },
+  {
+    "id": "osm-way-1187652040",
+    "name": "Public bathing place",
+    "lat": 60.0463418,
+    "lon": 9.149576,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1187652040"
+  },
+  {
+    "id": "osm-way-119385302",
+    "name": "Sollerudstranda",
+    "lat": 59.9124635,
+    "lon": 10.646312,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/119385302"
+  },
+  {
+    "id": "osm-way-119385331",
+    "name": "Public bathing place",
+    "lat": 59.9121332,
+    "lon": 10.6488486,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/119385331"
+  },
+  {
+    "id": "osm-way-1194296589",
+    "name": "Public bathing place",
+    "lat": 59.5394382,
+    "lon": 10.554324,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1194296589"
+  },
+  {
+    "id": "osm-way-1199761831",
+    "name": "Public bathing place",
+    "lat": 58.2979073,
+    "lon": 6.6472349,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1199761831"
+  },
+  {
+    "id": "osm-way-1200334356",
+    "name": "Smikilen",
+    "lat": 58.0475783,
+    "lon": 7.5269399,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1200334356"
+  },
+  {
+    "id": "osm-way-1204485488",
+    "name": "Gardsvågen",
+    "lat": 59.1028935,
+    "lon": 5.8423779,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1204485488"
+  },
+  {
+    "id": "osm-way-1248303127",
+    "name": "Sandnessjøen havsbad",
+    "lat": 65.9890911,
+    "lon": 12.626134,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1248303127"
+  },
+  {
+    "id": "osm-way-125516198",
+    "name": "Public bathing place",
+    "lat": 59.485187,
+    "lon": 6.2463676,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/125516198"
+  },
+  {
+    "id": "osm-way-126446941",
+    "name": "Public bathing place",
+    "lat": 59.8297903,
+    "lon": 10.6958016,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/126446941"
+  },
+  {
+    "id": "osm-way-1299494117",
+    "name": "Public bathing place",
+    "lat": 67.8948359,
+    "lon": 13.0165391,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1299494117"
+  },
+  {
+    "id": "osm-way-1307390334",
+    "name": "Public bathing place",
+    "lat": 58.8209529,
+    "lon": 5.7186063,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1307390334"
+  },
+  {
+    "id": "osm-way-1352200794",
+    "name": "Public bathing place",
+    "lat": 59.1766641,
+    "lon": 10.8189667,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1352200794"
+  },
+  {
+    "id": "osm-way-1352204376",
+    "name": "Lyngholmen Naturhavn",
+    "lat": 59.1725614,
+    "lon": 10.8032168,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1352204376"
+  },
+  {
+    "id": "osm-way-1352207701",
+    "name": "Public bathing place",
+    "lat": 59.168797,
+    "lon": 10.8049717,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1352207701"
+  },
+  {
+    "id": "osm-way-1408629818",
+    "name": "Public bathing place",
+    "lat": 59.8936856,
+    "lon": 10.8849788,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1408629818"
+  },
+  {
+    "id": "osm-way-1414488545",
+    "name": "Public bathing place",
+    "lat": 60.2064953,
+    "lon": 5.6263808,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1414488545"
+  },
+  {
+    "id": "osm-way-1418696258",
+    "name": "Boligvika Badeplass",
+    "lat": 60.9378259,
+    "lon": 10.6804862,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1418696258"
+  },
+  {
+    "id": "osm-way-1421210352",
+    "name": "Sandbukta badeplass",
+    "lat": 59.8216149,
+    "lon": 10.7531859,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1421210352"
+  },
+  {
+    "id": "osm-way-1422860330",
+    "name": "Public bathing place",
+    "lat": 59.8701006,
+    "lon": 9.3062685,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1422860330"
+  },
+  {
+    "id": "osm-way-1424618778",
+    "name": "Public bathing place",
+    "lat": 58.4562068,
+    "lon": 7.916349,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1424618778"
+  },
+  {
+    "id": "osm-way-1425539300",
+    "name": "Public bathing place",
+    "lat": 59.6143219,
+    "lon": 10.280318,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1425539300"
+  },
+  {
+    "id": "osm-way-1425539668",
+    "name": "Public bathing place",
+    "lat": 59.5608524,
+    "lon": 10.2591215,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1425539668"
+  },
+  {
+    "id": "osm-way-1425569355",
+    "name": "Public bathing place",
+    "lat": 59.5623624,
+    "lon": 10.2661534,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1425569355"
+  },
+  {
+    "id": "osm-way-1425569475",
+    "name": "Public bathing place",
+    "lat": 59.5603679,
+    "lon": 10.2686882,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1425569475"
+  },
+  {
+    "id": "osm-way-1425593956",
+    "name": "Public bathing place",
+    "lat": 59.5487014,
+    "lon": 10.393004,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1425593956"
+  },
+  {
+    "id": "osm-way-1425594134",
+    "name": "Public bathing place",
+    "lat": 59.5698748,
+    "lon": 10.4043523,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1425594134"
+  },
+  {
+    "id": "osm-way-1425634089",
+    "name": "Public bathing place",
+    "lat": 59.8705492,
+    "lon": 10.6551153,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1425634089"
+  },
+  {
+    "id": "osm-way-1425746599",
+    "name": "Public bathing place",
+    "lat": 59.5609258,
+    "lon": 10.2583257,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1425746599"
+  },
+  {
+    "id": "osm-way-1427321135",
+    "name": "Oppsjø vasspark",
+    "lat": 60.6337214,
+    "lon": 8.5765415,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1427321135"
+  },
+  {
+    "id": "osm-way-1445750282",
+    "name": "Public bathing place",
+    "lat": 58.717179,
+    "lon": 9.2405038,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1445750282"
+  },
+  {
+    "id": "osm-way-1447361087",
+    "name": "Public bathing place",
+    "lat": 58.7025931,
+    "lon": 9.1417466,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1447361087"
+  },
+  {
+    "id": "osm-way-1448725243",
+    "name": "Public bathing place",
+    "lat": 59.2989433,
+    "lon": 8.4142008,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1448725243"
+  },
+  {
+    "id": "osm-way-1457781711",
+    "name": "Public bathing place",
+    "lat": 58.1352212,
+    "lon": 7.998714,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1457781711"
+  },
+  {
+    "id": "osm-way-1461516263",
+    "name": "Østernvann",
+    "lat": 59.9708017,
+    "lon": 10.5930822,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1461516263"
+  },
+  {
+    "id": "osm-way-1461531337",
+    "name": "Dypeklo Standen",
+    "lat": 59.1764079,
+    "lon": 10.820385,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.fredrikstad.kommune.no/tjenester/idrett-aktivitet-og-friluftsliv/friluftsliv/badeplasser/djupeklo/"
+  },
+  {
+    "id": "osm-way-1461578010",
+    "name": "Foten badeplass;Foten",
+    "lat": 59.1695787,
+    "lon": 10.8276969,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1461578010"
+  },
+  {
+    "id": "osm-way-1463655966",
+    "name": "Høvikodden badestrand",
+    "lat": 59.888018,
+    "lon": 10.5517224,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.baerum.kommune.no/tjenester/natur-friluftsliv-og-naturmangfold/friluftsliv/badeplasser-i-barum/badeplasser/hovikodden/"
+  },
+  {
+    "id": "osm-way-1476258504",
+    "name": "Pølsesund",
+    "lat": 59.1978181,
+    "lon": 10.7643229,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://hankohotell.no/opplevelser/badeplasser/"
+  },
+  {
+    "id": "osm-way-1488666104",
+    "name": "Tangen",
+    "lat": 59.1365183,
+    "lon": 10.9303639,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1488666104"
+  },
+  {
+    "id": "osm-way-1491758018",
+    "name": "Public bathing place",
+    "lat": 68.5469034,
+    "lon": 17.5368088,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1491758018"
+  },
+  {
+    "id": "osm-way-1500653186",
+    "name": "Homolulu",
+    "lat": 59.9037586,
+    "lon": 10.6641912,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1500653186"
+  },
+  {
+    "id": "osm-way-1500653645",
+    "name": "Public bathing place",
+    "lat": 59.9120729,
+    "lon": 10.6488665,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1500653645"
+  },
+  {
+    "id": "osm-way-1500653646",
+    "name": "Storøyspissen badeplass",
+    "lat": 59.8883412,
+    "lon": 10.5939596,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1500653646"
+  },
+  {
+    "id": "osm-way-1530978063",
+    "name": "Public bathing place",
+    "lat": 59.8843215,
+    "lon": 9.501047,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1530978063"
+  },
+  {
+    "id": "osm-way-1531487017",
+    "name": "Sarbuvollen badeplass",
+    "lat": 59.8935256,
+    "lon": 10.5844375,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.baerum.kommune.no/tjenester/natur-friluftsliv-og-naturmangfold/friluftsliv/badeplasser-i-barum/badeplasser/sarbuvollen/"
+  },
+  {
+    "id": "osm-way-1535049590",
+    "name": "Public bathing place",
+    "lat": 59.7662962,
+    "lon": 10.5849079,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1535049590"
+  },
+  {
+    "id": "osm-way-1535049593",
+    "name": "Public bathing place",
+    "lat": 59.7640143,
+    "lon": 10.5845605,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1535049593"
+  },
+  {
+    "id": "osm-way-1535049600",
+    "name": "Public bathing place",
+    "lat": 59.7672711,
+    "lon": 10.5858589,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1535049600"
+  },
+  {
+    "id": "osm-way-1535270902",
+    "name": "Koksabukta Badeplass",
+    "lat": 59.8891276,
+    "lon": 10.6132077,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1535270902"
+  },
+  {
+    "id": "osm-way-1535679508",
+    "name": "Pelvikodden Badeplass",
+    "lat": 59.8878831,
+    "lon": 10.6334092,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1535679508"
+  },
+  {
+    "id": "osm-way-1535681655",
+    "name": "Kyststi og badeplass Teistveien",
+    "lat": 59.8841234,
+    "lon": 10.6216827,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1535681655"
+  },
+  {
+    "id": "osm-way-1535681657",
+    "name": "Smedtangen Badeplass",
+    "lat": 59.9011125,
+    "lon": 10.6350261,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.baerum.kommune.no/tjenester/natur-friluftsliv-og-naturmangfold/friluftsliv/badeplasser-i-barum/badeplasser/smedtangen/"
+  },
+  {
+    "id": "osm-way-1535987413",
+    "name": "Bygdøy sjøbad",
+    "lat": 59.9102801,
+    "lon": 10.6655231,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.norskfolkemuseum.no/no/Tilknyttede-Enheter/Bygdo-Kongsgard/Folkeparken/Bygdoy-Sjobad/"
+  },
+  {
+    "id": "osm-way-1536136735",
+    "name": "Strømsdammen Badeplass",
+    "lat": 59.9811781,
+    "lon": 10.6463461,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1536136735"
+  },
+  {
+    "id": "osm-way-1536137510",
+    "name": "Bestumkilen badeplass",
+    "lat": 59.9173221,
+    "lon": 10.6740071,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1536137510"
+  },
+  {
+    "id": "osm-way-1536629929",
+    "name": "Svømmebanen",
+    "lat": 59.9003692,
+    "lon": 10.7517331,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1536629929"
+  },
+  {
+    "id": "osm-way-1536629930",
+    "name": "Public bathing place",
+    "lat": 59.900589,
+    "lon": 10.7508453,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1536629930"
+  },
+  {
+    "id": "osm-way-1539178811",
+    "name": "Public bathing place",
+    "lat": 59.9111539,
+    "lon": 10.6455969,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1539178811"
+  },
+  {
+    "id": "osm-way-1539628354",
+    "name": "Fürst Brygge Badeplass",
+    "lat": 59.8743767,
+    "lon": 10.606553,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1539628354"
+  },
+  {
+    "id": "osm-way-1539882234",
+    "name": "Public bathing place",
+    "lat": 59.9056697,
+    "lon": 10.7572702,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1539882234"
+  },
+  {
+    "id": "osm-way-1548711516",
+    "name": "Public bathing place",
+    "lat": 59.5536437,
+    "lon": 10.2395102,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1548711516"
+  },
+  {
+    "id": "osm-way-1550212355",
+    "name": "Rolfstangen",
+    "lat": 59.890966,
+    "lon": 10.6341987,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.baerum.kommune.no/tjenester/natur-friluftsliv-og-naturmangfold/friluftsliv/badeplasser-i-barum/badeplasser/rolfstangen/"
+  },
+  {
+    "id": "osm-way-1551584348",
+    "name": "Pust.",
+    "lat": 69.6508899,
+    "lon": 18.9625416,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1551584348"
+  },
+  {
+    "id": "osm-way-1552566191",
+    "name": "Sørenga Sjøbad",
+    "lat": 59.9008074,
+    "lon": 10.7509947,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.oslo.kommune.no/natur-kultur-og-fritid/tur-og-friluftsliv/badeplasser/sorenga-sjobad/"
+  },
+  {
+    "id": "osm-way-1552906764",
+    "name": "Huk",
+    "lat": 59.8950715,
+    "lon": 10.6752831,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.oslo.kommune.no/natur-kultur-og-fritid/tur-og-friluftsliv/badeplasser/huk/"
+  },
+  {
+    "id": "osm-way-1552906765",
+    "name": "Huk naturiststrand",
+    "lat": 59.8958214,
+    "lon": 10.671979,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.naturist.no/steder/huk-oslo/"
+  },
+  {
+    "id": "osm-way-228450852",
+    "name": "Sjøbadet",
+    "lat": 63.4357625,
+    "lon": 10.3909543,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/228450852"
+  },
+  {
+    "id": "osm-way-228665636",
+    "name": "Luravika",
+    "lat": 58.8739976,
+    "lon": 5.7416808,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/228665636"
+  },
+  {
+    "id": "osm-way-282889780",
+    "name": "Hansbakkfjæra",
+    "lat": 63.4309964,
+    "lon": 10.5445919,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/282889780"
+  },
+  {
+    "id": "osm-way-28447738",
+    "name": "Paradisbukta",
+    "lat": 59.9019275,
+    "lon": 10.6653873,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/28447738"
+  },
+  {
+    "id": "osm-way-357267749",
+    "name": "Public bathing place",
+    "lat": 62.649383,
+    "lon": 9.8862108,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/357267749"
+  },
+  {
+    "id": "osm-way-391094588",
+    "name": "Overasanden",
+    "lat": 62.3599915,
+    "lon": 6.0757347,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/391094588"
+  },
+  {
+    "id": "osm-way-394753928",
+    "name": "Flømolostrand",
+    "lat": 62.402171,
+    "lon": 5.8492369,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/394753928"
+  },
+  {
+    "id": "osm-way-479772408",
+    "name": "Public bathing place",
+    "lat": 58.7235265,
+    "lon": 9.2326524,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/479772408"
+  },
+  {
+    "id": "osm-way-49982449",
+    "name": "Svartekulpen",
+    "lat": 59.711393,
+    "lon": 10.0995994,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/49982449"
+  },
+  {
+    "id": "osm-way-556757791",
+    "name": "Bjelland støa",
+    "lat": 58.4473609,
+    "lon": 8.5292436,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/556757791"
+  },
+  {
+    "id": "osm-way-578819293",
+    "name": "Rambekkvika",
+    "lat": 60.7818288,
+    "lon": 10.7031017,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/578819293"
+  },
+  {
+    "id": "osm-way-591446037",
+    "name": "Vingromdammen Badeplass",
+    "lat": 61.0448023,
+    "lon": 10.4377202,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/591446037"
+  },
+  {
+    "id": "osm-way-598620092",
+    "name": "Trouville bad",
+    "lat": 59.2092521,
+    "lon": 10.7680056,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/598620092"
+  },
+  {
+    "id": "osm-way-631350719",
+    "name": "Public bathing place",
+    "lat": 61.1186652,
+    "lon": 10.475796,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/631350719"
+  },
+  {
+    "id": "osm-way-631353066",
+    "name": "Vingnesvika Badeplass",
+    "lat": 61.1030001,
+    "lon": 10.4417822,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/631353066"
+  },
+  {
+    "id": "osm-way-639404677",
+    "name": "Public bathing place",
+    "lat": 60.3801967,
+    "lon": 5.3303805,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/639404677"
+  },
+  {
+    "id": "osm-way-663491813",
+    "name": "Mosodden Badeplass",
+    "lat": 61.1265377,
+    "lon": 10.4360376,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/663491813"
+  },
+  {
+    "id": "osm-way-663901203",
+    "name": "Public bathing place",
+    "lat": 58.8244483,
+    "lon": 5.7326392,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/663901203"
+  },
+  {
+    "id": "osm-way-688312055",
+    "name": "Holvik",
+    "lat": 59.5451997,
+    "lon": 10.6568784,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/688312055"
+  },
+  {
+    "id": "osm-way-689114092",
+    "name": "Julekvelden",
+    "lat": 59.7695765,
+    "lon": 10.7872587,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/689114092"
+  },
+  {
+    "id": "osm-way-697609152",
+    "name": "Holmen",
+    "lat": 60.4346156,
+    "lon": 5.4565194,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/697609152"
+  },
+  {
+    "id": "osm-way-701534508",
+    "name": "Public bathing place",
+    "lat": 61.1580507,
+    "lon": 10.3928849,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/701534508"
+  },
+  {
+    "id": "osm-way-708601533",
+    "name": "Public bathing place",
+    "lat": 58.4278129,
+    "lon": 8.7283423,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/708601533"
+  },
+  {
+    "id": "osm-way-709242470",
+    "name": "Public bathing place",
+    "lat": 69.9419061,
+    "lon": 23.2111824,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/709242470"
+  },
+  {
+    "id": "osm-way-713277862",
+    "name": "Public bathing place",
+    "lat": 58.5534265,
+    "lon": 7.7809623,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/713277862"
+  },
+  {
+    "id": "osm-way-720848640",
+    "name": "Kvellandshølen",
+    "lat": 58.1845261,
+    "lon": 7.1000089,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/720848640"
+  },
+  {
+    "id": "osm-way-720853680",
+    "name": "Hundsfossen",
+    "lat": 58.1962369,
+    "lon": 7.0278878,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/720853680"
+  },
+  {
+    "id": "osm-way-766882547",
+    "name": "Public bathing place",
+    "lat": 58.7814257,
+    "lon": 5.8259927,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/766882547"
+  },
+  {
+    "id": "osm-way-857610338",
+    "name": "Stranda på Drevsjø",
+    "lat": 61.8879384,
+    "lon": 12.0268574,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/857610338"
+  },
+  {
+    "id": "osm-way-967220658",
+    "name": "Lundebyvannet badeplass",
+    "lat": 59.5466697,
+    "lon": 11.4831652,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/967220658"
+  },
+  {
+    "id": "osm-way-969873225",
+    "name": "Finsandsviken Badeplass",
+    "lat": 61.0130142,
+    "lon": 10.5162751,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/969873225"
+  },
+  {
+    "id": "osm-way-972419347",
+    "name": "Skumsrudvollene Badeplass",
+    "lat": 60.9618559,
+    "lon": 10.6257125,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/972419347"
+  },
+  {
+    "id": "osm-way-972419443",
+    "name": "Strandengen Badeplass",
+    "lat": 61.0005405,
+    "lon": 10.5037246,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/972419443"
+  },
+  {
+    "id": "osm-way-972419480",
+    "name": "Bjørnstadvika Badeplass",
+    "lat": 61.0217546,
+    "lon": 10.4594853,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/972419480"
+  },
+  {
+    "id": "osm-way-972419511",
+    "name": "Public bathing place",
+    "lat": 61.0265993,
+    "lon": 10.4528796,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/972419511"
+  },
+  {
+    "id": "osm-way-972419521",
+    "name": "Vingromdammen Badeplass",
+    "lat": 61.0463611,
+    "lon": 10.4382328,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/972419521"
+  },
+  {
+    "id": "osm-way-972729332",
+    "name": "Sustad Badeplass",
+    "lat": 61.1009144,
+    "lon": 10.4614654,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/972729332"
+  },
+  {
+    "id": "osm-way-972729373",
+    "name": "Bekkodden Badeplass",
+    "lat": 61.0251727,
+    "lon": 10.4885115,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/972729373"
+  },
+  {
+    "id": "osm-way-973179102",
+    "name": "Koigen Badeplass",
+    "lat": 60.7928217,
+    "lon": 11.0601088,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/973179102"
+  },
+  {
+    "id": "osm-way-974989993",
+    "name": "Public bathing place",
+    "lat": 60.9089393,
+    "lon": 7.1885432,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/974989993"
+  },
+  {
+    "id": "osm-way-980388809",
+    "name": "Sveastranda Badeplass",
+    "lat": 60.8914258,
+    "lon": 10.6738448,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/980388809"
+  },
+  {
+    "id": "osm-way-980388810",
+    "name": "Sveastranda Badeplass",
+    "lat": 60.8906647,
+    "lon": 10.6765276,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/980388810"
+  },
+  {
+    "id": "osm-way-980388849",
+    "name": "Sveastranda Badeplass",
+    "lat": 60.8886363,
+    "lon": 10.6770882,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/980388849"
+  },
+  {
+    "id": "osm-way-983731462",
+    "name": "Public bathing place",
+    "lat": 60.8771001,
+    "lon": 10.923588,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/983731462"
+  },
+  {
+    "id": "osm-way-983731464",
+    "name": "Fiskerly Badeplass",
+    "lat": 60.8546777,
+    "lon": 10.9485586,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/983731464"
+  },
+  {
+    "id": "osm-way-983731469",
+    "name": "Furuberget Badeplass",
+    "lat": 60.8192833,
+    "lon": 11.0063116,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/983731469"
+  },
+  {
+    "id": "osm-way-983731470",
+    "name": "Martodden Badeplass",
+    "lat": 60.8042024,
+    "lon": 11.0228861,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/983731470"
+  },
+  {
+    "id": "osm-way-983731471",
+    "name": "Rosenlundvika Badeplass",
+    "lat": 60.7949736,
+    "lon": 11.036494,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/983731471"
+  },
+  {
+    "id": "osm-way-983731473",
+    "name": "Ridehusstranda Badeplass",
+    "lat": 60.792163,
+    "lon": 11.0508343,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/983731473"
+  },
+  {
+    "id": "osm-way-983731476",
+    "name": "HIAS-Stranda Badeplass",
+    "lat": 60.7680302,
+    "lon": 11.074507,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/983731476"
+  },
+  {
+    "id": "osm-way-984091888",
+    "name": "Gillundstranda Badeplass",
+    "lat": 60.7118739,
+    "lon": 11.10378,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/984091888"
+  },
+  {
+    "id": "osm-way-987332576",
+    "name": "Hekshus Badeplass",
+    "lat": 60.7232434,
+    "lon": 10.851091,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/987332576"
+  },
+  {
+    "id": "osm-way-987332590",
+    "name": "Saustadvika Badeplass",
+    "lat": 60.8741188,
+    "lon": 10.7440046,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/987332590"
+  },
+  {
+    "id": "osm-way-987637178",
+    "name": "Stranden Badeplass",
+    "lat": 60.7591645,
+    "lon": 10.9201185,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/987637178"
+  },
+  {
+    "id": "osm-way-987637179",
+    "name": "Hagelund Badeplass",
+    "lat": 60.7688434,
+    "lon": 10.8589309,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/987637179"
+  },
+  {
+    "id": "osm-way-987637181",
+    "name": "Kise Badeplass",
+    "lat": 60.7725241,
+    "lon": 10.8012462,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/987637181"
+  },
+  {
+    "id": "osm-way-987637182",
+    "name": "Smedstua Badeplass",
+    "lat": 60.7946903,
+    "lon": 10.7461571,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/987637182"
+  },
+  {
+    "id": "osm-way-987637184",
+    "name": "Tangnesodden Badeplass",
+    "lat": 60.8179736,
+    "lon": 10.7203982,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/987637184"
+  },
+  {
+    "id": "osm-way-987637186",
+    "name": "Korgerstuguvika Badeplass",
+    "lat": 60.9141249,
+    "lon": 10.7068909,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/987637186"
+  },
+  {
+    "id": "osm-way-987637187",
+    "name": "Steinvik Badeplass",
+    "lat": 60.9148215,
+    "lon": 10.7028374,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/987637187"
+  },
+  {
+    "id": "osm-way-987637188",
+    "name": "Sanda Badeplass",
+    "lat": 60.9171395,
+    "lon": 10.694154,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/987637188"
+  },
+  {
+    "id": "osm-way-987637189",
+    "name": "Møkkvika Badeplass",
+    "lat": 60.9202854,
+    "lon": 10.6893017,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/987637189"
+  },
+  {
+    "id": "osm-way-987637190",
+    "name": "Moelv Brygge Badeplass",
+    "lat": 60.9254349,
+    "lon": 10.6845844,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/987637190"
+  },
+  {
+    "id": "osm-way-987637191",
+    "name": "Skinkvika Badeplass",
+    "lat": 60.9296019,
+    "lon": 10.6827976,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/987637191"
+  },
+  {
+    "id": "osm-way-987637192",
+    "name": "Boligvika Badeplass",
+    "lat": 60.9380362,
+    "lon": 10.6795149,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/987637192"
+  },
+  {
+    "id": "osm-way-987637193",
+    "name": "Smestadvika Badeplass",
+    "lat": 60.9442531,
+    "lon": 10.6813771,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/987637193"
+  },
+  {
+    "id": "osm-way-987637194",
+    "name": "Samuelstuen Badeplass",
+    "lat": 60.9937885,
+    "lon": 10.5979041,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/987637194"
+  },
+  {
+    "id": "osm-way-987637195",
+    "name": "Dælimoen Badeplass",
+    "lat": 61.0069928,
+    "lon": 10.5425003,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/987637195"
+  },
+  {
+    "id": "osm-way-987637199",
+    "name": "Kvitsandvika Badeplass",
+    "lat": 61.0330921,
+    "lon": 10.4918307,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/987637199"
+  },
+  {
+    "id": "osm-way-987637200",
+    "name": "Strandpromenaden Badeplass",
+    "lat": 61.1103861,
+    "lon": 10.4564868,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/987637200"
+  },
+  {
+    "id": "osm-way-987637201",
+    "name": "Mosodden Badeplass",
+    "lat": 61.1226851,
+    "lon": 10.4418372,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/987637201"
+  },
+  {
+    "id": "osm-way-987637203",
+    "name": "Bjørnstadvika Badeplass",
+    "lat": 61.0261682,
+    "lon": 10.4532653,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/987637203"
+  },
+  {
+    "id": "osm-way-987637204",
+    "name": "Bjørnstadvika Badeplass",
+    "lat": 61.0243171,
+    "lon": 10.4548103,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/987637204"
+  },
+  {
+    "id": "osm-way-987637205",
+    "name": "Flutua Badeplass",
+    "lat": 61.0016976,
+    "lon": 10.5004741,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/987637205"
+  },
+  {
+    "id": "osm-way-987637206",
+    "name": "Kremmerodden Badeplass",
+    "lat": 60.9475144,
+    "lon": 10.6422111,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/987637206"
+  },
+  {
+    "id": "osm-way-987637207",
+    "name": "Kremmerodden Badeplass",
+    "lat": 60.9489747,
+    "lon": 10.6430141,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/987637207"
+  },
+  {
+    "id": "osm-way-987637209",
+    "name": "Bråstad Badeplass",
+    "lat": 60.8209739,
+    "lon": 10.6788046,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/987637209"
+  },
+  {
+    "id": "osm-way-987637210",
+    "name": "Public bathing place",
+    "lat": 60.8071006,
+    "lon": 10.6872833,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/987637210"
+  },
+  {
+    "id": "osm-way-987637211",
+    "name": "Fredvika Badeplass",
+    "lat": 60.7892541,
+    "lon": 10.7020371,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/987637211"
+  },
+  {
+    "id": "osm-way-987637212",
+    "name": "Rambekkvika Badeplass",
+    "lat": 60.7812217,
+    "lon": 10.7024849,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/987637212"
+  },
+  {
+    "id": "osm-way-987637213",
+    "name": "Vindingstad Badeplass",
+    "lat": 60.7731585,
+    "lon": 10.7141972,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/987637213"
+  },
+  {
+    "id": "osm-way-987637217",
+    "name": "Panegenstranda Badeplass",
+    "lat": 60.6518519,
+    "lon": 11.0078056,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/987637217"
+  },
+  {
+    "id": "osm-way-987637218",
+    "name": "Evjua Badeplass",
+    "lat": 60.6439412,
+    "lon": 11.0447567,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/987637218"
+  },
+  {
+    "id": "osm-way-987637223",
+    "name": "Årnesstranda Badeplass",
+    "lat": 60.4787165,
+    "lon": 11.1703158,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/987637223"
+  },
+  {
+    "id": "osm-way-987637228",
+    "name": "Støjordet Badeplass",
+    "lat": 60.4252008,
+    "lon": 11.2373326,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/987637228"
+  },
+  {
+    "id": "osm-way-987637229",
+    "name": "Morskogen Badeplass",
+    "lat": 60.4705096,
+    "lon": 11.2381637,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/987637229"
+  },
+  {
+    "id": "osm-way-987637233",
+    "name": "Narviktangen Badeplass",
+    "lat": 60.48414,
+    "lon": 11.2345008,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/987637233"
+  },
+  {
+    "id": "osm-way-987637234",
+    "name": "Pellervikstranda Badeplass",
+    "lat": 60.8815178,
+    "lon": 10.913268,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/987637234"
+  },
+  {
+    "id": "osm-way-987637235",
+    "name": "Harpvika Badeplass",
+    "lat": 60.8877506,
+    "lon": 10.8856229,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/987637235"
+  },
+  {
+    "id": "osm-way-987637236",
+    "name": "Bystranda Badeplass",
+    "lat": 60.8785503,
+    "lon": 10.9198375,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/987637236"
+  },
+  {
+    "id": "osm-way-987637237",
+    "name": "Jessnesstranda Badeplass",
+    "lat": 60.8273456,
+    "lon": 10.9857521,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/987637237"
+  },
+  {
+    "id": "osm-way-987637241",
+    "name": "Kvarbergvika Badeplass",
+    "lat": 60.8741774,
+    "lon": 10.8976684,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/987637241"
+  },
+  {
+    "id": "osm-way-987637242",
+    "name": "Strandheim Badeplass",
+    "lat": 60.8314364,
+    "lon": 10.9266235,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/987637242"
+  },
+  {
+    "id": "osm-way-987637243",
+    "name": "Public bathing place",
+    "lat": 60.8300886,
+    "lon": 10.9263886,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/987637243"
+  },
+  {
+    "id": "osm-way-987637244",
+    "name": "Skurven Badeplass",
+    "lat": 60.7488461,
+    "lon": 10.9358013,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/987637244"
+  },
+  {
+    "id": "osm-way-987637246",
+    "name": "Velstranda Badeplass",
+    "lat": 60.7613807,
+    "lon": 10.9384703,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/987637246"
+  },
+  {
+    "id": "osm-way-989720927",
+    "name": "Båssenden badeplass",
+    "lat": 60.880894,
+    "lon": 10.8892413,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/989720927"
+  },
+  {
+    "id": "osm-way-989721568",
+    "name": "Sand Badeplass",
+    "lat": 60.8680289,
+    "lon": 10.9119284,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/989721568"
+  },
+  {
+    "id": "osm-way-991789958",
+    "name": "Melkefabrikken Badeplass",
+    "lat": 60.7184695,
+    "lon": 10.8587607,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/991789958"
+  }
+]

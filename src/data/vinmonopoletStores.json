@@ -1,0 +1,3542 @@
+[
+  {
+    "id": "osm-node-10168254776",
+    "name": "Vinmonopolet Tasta",
+    "lat": 58.9844142,
+    "lon": 5.6898422,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/450"
+  },
+  {
+    "id": "osm-node-10168254777",
+    "name": "Vinmonopolet Gråtenmoen",
+    "lat": 59.1860146,
+    "lon": 9.6145794,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/181"
+  },
+  {
+    "id": "osm-node-10168254778",
+    "name": "Vinmonopolet Sirkus Shopping",
+    "lat": 63.4362712,
+    "lon": 10.456238,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/146"
+  },
+  {
+    "id": "osm-node-10899291139",
+    "name": "Vinmonopolet Ølen",
+    "lat": 59.603837,
+    "lon": 5.8074889,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/400"
+  },
+  {
+    "id": "osm-node-11062823960",
+    "name": "Vinmonopolet Bryn",
+    "lat": 59.9031528,
+    "lon": 10.822169,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/475"
+  },
+  {
+    "id": "osm-node-11062823961",
+    "name": "Vinmonopolet Mo i Nord-Odal",
+    "lat": 60.4251331,
+    "lon": 11.6401606,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/101"
+  },
+  {
+    "id": "osm-node-12136159251",
+    "name": "Vinmonopolet Strømsø",
+    "lat": 59.7428142,
+    "lon": 10.1942548,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/207"
+  },
+  {
+    "id": "osm-node-1262634973",
+    "name": "Vinmonopolet Bragernes",
+    "lat": 59.745651,
+    "lon": 10.202726,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/205"
+  },
+  {
+    "id": "osm-node-13072182742",
+    "name": "Vinmonopolet Sande",
+    "lat": 59.5878194,
+    "lon": 10.2068518,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/407"
+  },
+  {
+    "id": "osm-node-13153337558",
+    "name": "Vinmonopolet Melhus",
+    "lat": 63.2854326,
+    "lon": 10.2792761,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/342"
+  },
+  {
+    "id": "osm-node-13461121980",
+    "name": "Vinmonopolet Aurland",
+    "lat": 60.9059578,
+    "lon": 7.1863059,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/482"
+  },
+  {
+    "id": "osm-node-13461121981",
+    "name": "Vinmonopolet Overhalla",
+    "lat": 64.4941128,
+    "lon": 11.9490335,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/139"
+  },
+  {
+    "id": "osm-node-13461121982",
+    "name": "Vinmonopolet Buvika",
+    "lat": 63.30823,
+    "lon": 10.175239,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/479"
+  },
+  {
+    "id": "osm-node-13461121983",
+    "name": "Vinmonopolet Sola, Tananger",
+    "lat": 58.934643,
+    "lon": 5.587674,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/480"
+  },
+  {
+    "id": "osm-node-13461121984",
+    "name": "Vinmonopolet Samnanger",
+    "lat": 60.401232,
+    "lon": 5.730157,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/153"
+  },
+  {
+    "id": "osm-node-13461121985",
+    "name": "Vinmonopolet Fjerdingby",
+    "lat": 59.92363,
+    "lon": 11.064413,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/477"
+  },
+  {
+    "id": "osm-node-13461121986",
+    "name": "Vinmonopolet Sveio",
+    "lat": 59.543472,
+    "lon": 5.354623,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/476"
+  },
+  {
+    "id": "osm-node-13461121987",
+    "name": "Vinmonopolet Herøy",
+    "lat": 65.9606702,
+    "lon": 12.2736711,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/443"
+  },
+  {
+    "id": "osm-node-13461121988",
+    "name": "Vinmonopolet Andenes",
+    "lat": 69.3146004,
+    "lon": 16.1198559,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/316"
+  },
+  {
+    "id": "osm-node-1349676030",
+    "name": "Vinmonopolet Mandal",
+    "lat": 58.029337,
+    "lon": 7.461753,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/266"
+  },
+  {
+    "id": "osm-node-13534166978",
+    "name": "Vinmonopolet Båtsfjord",
+    "lat": 70.6373035,
+    "lon": 29.7269943,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/318"
+  },
+  {
+    "id": "osm-node-13591839365",
+    "name": "Vinmonopolet Værstetorvet",
+    "lat": 59.2105056,
+    "lon": 10.9299211,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/219"
+  },
+  {
+    "id": "osm-node-1363069725",
+    "name": "Vinmonopolet Farsund",
+    "lat": 58.096749,
+    "lon": 6.804863,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/307"
+  },
+  {
+    "id": "osm-node-1376727137",
+    "name": "Vinmonopolet Vinderen",
+    "lat": 59.942311,
+    "lon": 10.704081,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/454"
+  },
+  {
+    "id": "osm-node-1384216370",
+    "name": "Vinmonopolet Sletten",
+    "lat": 60.356342,
+    "lon": 5.359726,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/130"
+  },
+  {
+    "id": "osm-node-14020091750",
+    "name": "Vinmonopolet Hvaler",
+    "lat": 59.0275102,
+    "lon": 11.034197,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/321"
+  },
+  {
+    "id": "osm-node-1460417118",
+    "name": "Vinmonopolet Knarvik",
+    "lat": 60.546922,
+    "lon": 5.286213,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/156"
+  },
+  {
+    "id": "osm-node-1497194867",
+    "name": "Vinmonopolet Halden",
+    "lat": 59.1213068,
+    "lon": 11.3830335,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/229"
+  },
+  {
+    "id": "osm-node-1579350204",
+    "name": "Vinmonopolet Notodden",
+    "lat": 59.556974,
+    "lon": 9.25566,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/273"
+  },
+  {
+    "id": "osm-node-1600944338",
+    "name": "Vinmonopolet Ålgård",
+    "lat": 58.770334,
+    "lon": 5.846536,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/405"
+  },
+  {
+    "id": "osm-node-1657477790",
+    "name": "Vinmonopolet Leknes",
+    "lat": 68.1486167,
+    "lon": 13.6166015,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/214"
+  },
+  {
+    "id": "osm-node-1657480112",
+    "name": "Vinmonopolet Svolvær",
+    "lat": 68.2331021,
+    "lon": 14.558189,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/284"
+  },
+  {
+    "id": "osm-node-1657481404",
+    "name": "Vinmonopolet Sortland",
+    "lat": 68.694327,
+    "lon": 15.416328,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/272"
+  },
+  {
+    "id": "osm-node-1657481405",
+    "name": "Vinmonopolet Stokmarknes",
+    "lat": 68.567158,
+    "lon": 14.912157,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/341"
+  },
+  {
+    "id": "osm-node-1660450903",
+    "name": "Vinmonopolet City Nord",
+    "lat": 67.277037,
+    "lon": 14.422742,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/339"
+  },
+  {
+    "id": "osm-node-1660844140",
+    "name": "Vinmonopolet Langnes",
+    "lat": 69.674937,
+    "lon": 18.921647,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/282"
+  },
+  {
+    "id": "osm-node-1660857390",
+    "name": "Vinmonopolet Harstad",
+    "lat": 68.798669,
+    "lon": 16.54549,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/224"
+  },
+  {
+    "id": "osm-node-1660857391",
+    "name": "Vinmonopolet Lødingen",
+    "lat": 68.414004,
+    "lon": 15.997826,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/369"
+  },
+  {
+    "id": "osm-node-1663410648",
+    "name": "Vinmonopolet Narvik",
+    "lat": 68.441037,
+    "lon": 17.4357,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/256"
+  },
+  {
+    "id": "osm-node-1702778033",
+    "name": "Vinmonopolet Rissa",
+    "lat": 63.5841129,
+    "lon": 9.9600146,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/340"
+  },
+  {
+    "id": "osm-node-1810728116",
+    "name": "Vinmonopolet Voss",
+    "lat": 60.629208,
+    "lon": 6.424207,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/298"
+  },
+  {
+    "id": "osm-node-1817486601",
+    "name": "Vinmonopolet Bekkestua",
+    "lat": 59.916556,
+    "lon": 10.588748,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/190"
+  },
+  {
+    "id": "osm-node-1817518951",
+    "name": "Vinmonopolet Østerås",
+    "lat": 59.94368,
+    "lon": 10.607054,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/198"
+  },
+  {
+    "id": "osm-node-1919866634",
+    "name": "Vinmonopolet Nittedal",
+    "lat": 60.046753,
+    "lon": 10.881368,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/105"
+  },
+  {
+    "id": "osm-node-1933033324",
+    "name": "Vinmonopolet Randaberg",
+    "lat": 58.998371,
+    "lon": 5.617509,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/399"
+  },
+  {
+    "id": "osm-node-1937387667",
+    "name": "Vinmonopolet Triaden",
+    "lat": 59.919686,
+    "lon": 10.953513,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/287"
+  },
+  {
+    "id": "osm-node-2011515807",
+    "name": "Vinmonopolet Nesodden",
+    "lat": 59.8561284,
+    "lon": 10.6608132,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/134"
+  },
+  {
+    "id": "osm-node-2029912990",
+    "name": "Vinmonopolet Ås",
+    "lat": 59.664694,
+    "lon": 10.790419,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/418"
+  },
+  {
+    "id": "osm-node-2036352185",
+    "name": "Vinmonopolet Rygge",
+    "lat": 59.4155089,
+    "lon": 10.6833034,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/350"
+  },
+  {
+    "id": "osm-node-2106440084",
+    "name": "Vinmonopolet Raufoss",
+    "lat": 60.729019,
+    "lon": 10.614341,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/352"
+  },
+  {
+    "id": "osm-node-2110547968",
+    "name": "Vinmonopolet Skøyen",
+    "lat": 59.921088,
+    "lon": 10.677053,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/393"
+  },
+  {
+    "id": "osm-node-2114957852",
+    "name": "Vinmonopolet Kolbotn",
+    "lat": 59.8111677,
+    "lon": 10.799933,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/234"
+  },
+  {
+    "id": "osm-node-2136397427",
+    "name": "Vinmonopolet Levanger",
+    "lat": 63.74411,
+    "lon": 11.297911,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/236"
+  },
+  {
+    "id": "osm-node-2296716183",
+    "name": "Vinmonopolet Valentinlyst",
+    "lat": 63.424984,
+    "lon": 10.442737,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/180"
+  },
+  {
+    "id": "osm-node-2300206381",
+    "name": "Vinmonopolet Rødberg",
+    "lat": 60.2674565,
+    "lon": 8.9459103,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/412"
+  },
+  {
+    "id": "osm-node-2316693105",
+    "name": "Vinmonopolet Kiellands plass",
+    "lat": 59.928306,
+    "lon": 10.750235,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/178"
+  },
+  {
+    "id": "osm-node-2321462022",
+    "name": "Vinmonopolet Øyer",
+    "lat": 61.243919,
+    "lon": 10.438873,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/408"
+  },
+  {
+    "id": "osm-node-2375296037",
+    "name": "Vinmonopolet Ørnes",
+    "lat": 66.8725845,
+    "lon": 13.7056618,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/185"
+  },
+  {
+    "id": "osm-node-2411052275",
+    "name": "Vinmonopolet Hitra",
+    "lat": 63.6017584,
+    "lon": 8.9774959,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/314"
+  },
+  {
+    "id": "osm-node-2420996382",
+    "name": "Vinmonopolet Hemsedal",
+    "lat": 60.8624235,
+    "lon": 8.5549612,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/419"
+  },
+  {
+    "id": "osm-node-2519999477",
+    "name": "Vinmonopolet Gol",
+    "lat": 60.701988,
+    "lon": 8.93669,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/225"
+  },
+  {
+    "id": "osm-node-2586616731",
+    "name": "Vinmonopolet Nedre Elvehavn",
+    "lat": 63.435362,
+    "lon": 10.412651,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/322"
+  },
+  {
+    "id": "osm-node-2879930963",
+    "name": "Vinmonopolet Gausdal",
+    "lat": 61.226519,
+    "lon": 10.221943,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/395"
+  },
+  {
+    "id": "osm-node-2880466969",
+    "name": "Vinmonopolet Lillehammer",
+    "lat": 61.115132,
+    "lon": 10.465699,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/263"
+  },
+  {
+    "id": "osm-node-2905989692",
+    "name": "Vinmonopolet Askim",
+    "lat": 59.5814198,
+    "lon": 11.1688699,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/203"
+  },
+  {
+    "id": "osm-node-2949740850",
+    "name": "Vinmonopolet Lillemarkens",
+    "lat": 58.145208,
+    "lon": 7.991622,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/254"
+  },
+  {
+    "id": "osm-node-2953805951",
+    "name": "Vinmonopolet Ytre Enebakk",
+    "lat": 59.72366,
+    "lon": 11.050313,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/415"
+  },
+  {
+    "id": "osm-node-2959952025",
+    "name": "Vinmonopolet Nøtterøy",
+    "lat": 59.252546,
+    "lon": 10.418251,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/142"
+  },
+  {
+    "id": "osm-node-2960409379",
+    "name": "Vinmonopolet Ullevaal stadion",
+    "lat": 59.9499333,
+    "lon": 10.7349474,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/334"
+  },
+  {
+    "id": "osm-node-2980970297",
+    "name": "Vinmonopolet Bryne",
+    "lat": 58.736164,
+    "lon": 5.640545,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/326"
+  },
+  {
+    "id": "osm-node-2982747597",
+    "name": "Vinmonopolet Lom",
+    "lat": 61.83709,
+    "lon": 8.5684117,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/364"
+  },
+  {
+    "id": "osm-node-3032835297",
+    "name": "Vinmonopolet Gjerdrum",
+    "lat": 60.07074,
+    "lon": 11.034789,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/426"
+  },
+  {
+    "id": "osm-node-3048726033",
+    "name": "Vinmonopolet Kvinesdal",
+    "lat": 58.317819,
+    "lon": 6.958908,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/430"
+  },
+  {
+    "id": "osm-node-308002152",
+    "name": "Vinmonopolet Sandnes sentrum",
+    "lat": 58.8485139,
+    "lon": 5.7411032,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/241"
+  },
+  {
+    "id": "osm-node-3117216481",
+    "name": "Vinmonopolet Kyrksæterøra",
+    "lat": 63.2920307,
+    "lon": 9.0860962,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/313"
+  },
+  {
+    "id": "osm-node-3132098799",
+    "name": "Vinmonopolet Oslo S",
+    "lat": 59.911417,
+    "lon": 10.751685,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/118"
+  },
+  {
+    "id": "osm-node-3166459088",
+    "name": "Vinmonopolet Bøler",
+    "lat": 59.88314,
+    "lon": 10.845648,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/440"
+  },
+  {
+    "id": "osm-node-3240235707",
+    "name": "Vinmonopolet Trondheim torg",
+    "lat": 63.430214,
+    "lon": 10.393286,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/160"
+  },
+  {
+    "id": "osm-node-324715246",
+    "name": "Vinmonopolet Moss",
+    "lat": 59.4367945,
+    "lon": 10.6627632,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/270"
+  },
+  {
+    "id": "osm-node-3344655995",
+    "name": "Vinmonopolet Vadsø",
+    "lat": 70.071905,
+    "lon": 29.749646,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/296"
+  },
+  {
+    "id": "osm-node-3402573902",
+    "name": "Vinmonopolet Grønland basar",
+    "lat": 59.912889,
+    "lon": 10.763802,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/361"
+  },
+  {
+    "id": "osm-node-3402573903",
+    "name": "Vinmonopolet Elverum",
+    "lat": 60.883144,
+    "lon": 11.561485,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/215"
+  },
+  {
+    "id": "osm-node-3473464414",
+    "name": "Vinmonopolet Kolsås",
+    "lat": 59.9165847,
+    "lon": 10.501143,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/124"
+  },
+  {
+    "id": "osm-node-3520798479",
+    "name": "Vinmonopolet Byhaven",
+    "lat": 63.4337661,
+    "lon": 10.3963814,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/140"
+  },
+  {
+    "id": "osm-node-354480872",
+    "name": "Vinmonopolet Oslo City",
+    "lat": 59.9124657,
+    "lon": 10.7530079,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/143"
+  },
+  {
+    "id": "osm-node-354480874",
+    "name": "Vinmonopolet CC Vest",
+    "lat": 59.91796,
+    "lon": 10.635344,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/127"
+  },
+  {
+    "id": "osm-node-354480879",
+    "name": "Vinmonopolet Frogner",
+    "lat": 59.918827,
+    "lon": 10.707316,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/111"
+  },
+  {
+    "id": "osm-node-354480885",
+    "name": "Vinmonopolet Majorstuen",
+    "lat": 59.930657,
+    "lon": 10.710229,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/136"
+  },
+  {
+    "id": "osm-node-3575013101",
+    "name": "Vinmonopolet Åsane Horisont",
+    "lat": 60.469826,
+    "lon": 5.323086,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/434"
+  },
+  {
+    "id": "osm-node-3646211279",
+    "name": "Vinmonopolet Hvaler",
+    "lat": 59.025586,
+    "lon": 11.039315,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/321"
+  },
+  {
+    "id": "osm-node-3731934297",
+    "name": "Vinmonopolet Kongsberg",
+    "lat": 59.66364,
+    "lon": 9.647168,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/247"
+  },
+  {
+    "id": "osm-node-3824297280",
+    "name": "Vinmonopolet Lena",
+    "lat": 60.677543,
+    "lon": 10.817928,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/332"
+  },
+  {
+    "id": "osm-node-3843535823",
+    "name": "Vinmonopolet Sotra",
+    "lat": 60.35896,
+    "lon": 5.124525,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/325"
+  },
+  {
+    "id": "osm-node-3964605284",
+    "name": "Vinmonopolet Ringebu",
+    "lat": 61.5304864,
+    "lon": 10.1409704,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/380"
+  },
+  {
+    "id": "osm-node-3966718399",
+    "name": "Vinmonopolet Valkendorfsgaten",
+    "lat": 60.394118,
+    "lon": 5.320574,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/150"
+  },
+  {
+    "id": "osm-node-3975976576",
+    "name": "Vinmonopolet Bergen storsenter",
+    "lat": 60.389305,
+    "lon": 5.333024,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/121"
+  },
+  {
+    "id": "osm-node-398968489",
+    "name": "Vinmonopolet Verksgata",
+    "lat": 58.9713,
+    "lon": 5.737096,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/231"
+  },
+  {
+    "id": "osm-node-4230430764",
+    "name": "Vinmonopolet Høyanger",
+    "lat": 61.218657,
+    "lon": 6.072767,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/356"
+  },
+  {
+    "id": "osm-node-4235821500",
+    "name": "Vinmonopolet Fyllingsdalen",
+    "lat": 60.348884,
+    "lon": 5.292831,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/149"
+  },
+  {
+    "id": "osm-node-4241784705",
+    "name": "Vinmonopolet Vestkanten",
+    "lat": 60.361905,
+    "lon": 5.234134,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/170"
+  },
+  {
+    "id": "osm-node-4346445290",
+    "name": "Vinmonopolet Jørpeland",
+    "lat": 59.021622,
+    "lon": 6.041181,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/308"
+  },
+  {
+    "id": "osm-node-4392633230",
+    "name": "Vinmonopolet Bømlo",
+    "lat": 59.793297,
+    "lon": 5.171684,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/309"
+  },
+  {
+    "id": "osm-node-441010251",
+    "name": "Vinmonopolet Hamar",
+    "lat": 60.795663,
+    "lon": 11.088958,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/230"
+  },
+  {
+    "id": "osm-node-4417586005",
+    "name": "Vinmonopolet Risør",
+    "lat": 58.72101,
+    "lon": 9.233755,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/169"
+  },
+  {
+    "id": "osm-node-4439754697",
+    "name": "Vinmonopolet Tønsberg",
+    "lat": 59.2694403,
+    "lon": 10.410397,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/295"
+  },
+  {
+    "id": "osm-node-448157795",
+    "name": "Vinmonopolet Sandaker",
+    "lat": 59.938228,
+    "lon": 10.768417,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/152"
+  },
+  {
+    "id": "osm-node-448159872",
+    "name": "Vinmonopolet Haugesund",
+    "lat": 59.411199,
+    "lon": 5.273265,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/218"
+  },
+  {
+    "id": "osm-node-448171155",
+    "name": "Vinmonopolet Husnes",
+    "lat": 59.861202,
+    "lon": 5.756643,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/179"
+  },
+  {
+    "id": "osm-node-4485246490",
+    "name": "Vinmonopolet Røros",
+    "lat": 62.5757474,
+    "lon": 11.3812096,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/264"
+  },
+  {
+    "id": "osm-node-4505820407",
+    "name": "Vinmonopolet Stovner",
+    "lat": 59.961268,
+    "lon": 10.925847,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/162"
+  },
+  {
+    "id": "osm-node-4518820347",
+    "name": "Vinmonopolet Byåsen",
+    "lat": 63.417209,
+    "lon": 10.354167,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/401"
+  },
+  {
+    "id": "osm-node-4564629385",
+    "name": "Vinmonopolet Stranda",
+    "lat": 62.3072,
+    "lon": 6.945775,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/329"
+  },
+  {
+    "id": "osm-node-4695257869",
+    "name": "Vinmonopolet Sandefjord",
+    "lat": 59.129302,
+    "lon": 10.225277,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/283"
+  },
+  {
+    "id": "osm-node-4698048812",
+    "name": "Vinmonopolet Lade",
+    "lat": 63.443521,
+    "lon": 10.446616,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/336"
+  },
+  {
+    "id": "osm-node-498220322",
+    "name": "Vinmonopolet Oppdal",
+    "lat": 62.595073,
+    "lon": 9.690698,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/260"
+  },
+  {
+    "id": "osm-node-4992437712",
+    "name": "Vinmonopolet Luster",
+    "lat": 61.403304,
+    "lon": 7.29538,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/366"
+  },
+  {
+    "id": "osm-node-5015756621",
+    "name": "Vinmonopolet Sandvika",
+    "lat": 59.893232,
+    "lon": 10.523639,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/194"
+  },
+  {
+    "id": "osm-node-5293252522",
+    "name": "Vinmonopolet Ålesund sentrum",
+    "lat": 62.471861,
+    "lon": 6.154806,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/245"
+  },
+  {
+    "id": "osm-node-5293283621",
+    "name": "Vinmonopolet Langevåg",
+    "lat": 62.440245,
+    "lon": 6.189786,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/432"
+  },
+  {
+    "id": "osm-node-534908666",
+    "name": "Vinmonopolet Os",
+    "lat": 60.183802,
+    "lon": 5.472196,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/275"
+  },
+  {
+    "id": "osm-node-5412188040",
+    "name": "Vinmonopolet Heimdal",
+    "lat": 63.351556,
+    "lon": 10.354718,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/460"
+  },
+  {
+    "id": "osm-node-5448690077",
+    "name": "Vinmonopolet Bardufoss",
+    "lat": 69.065005,
+    "lon": 18.512086,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/278"
+  },
+  {
+    "id": "osm-node-5466306293",
+    "name": "Vinmonopolet Lyngdal",
+    "lat": 58.138714,
+    "lon": 7.071135,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/345"
+  },
+  {
+    "id": "osm-node-5487222025",
+    "name": "Vinmonopolet Horten",
+    "lat": 59.4147418,
+    "lon": 10.486096,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/237"
+  },
+  {
+    "id": "osm-node-5528581001",
+    "name": "Vinmonopolet Nesttun",
+    "lat": 60.317131,
+    "lon": 5.354208,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/163"
+  },
+  {
+    "id": "osm-node-5690556990",
+    "name": "Vinmonopolet Metro",
+    "lat": 59.927487,
+    "lon": 10.95838,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/473"
+  },
+  {
+    "id": "osm-node-5690556991",
+    "name": "Vinmonopolet Skedsmokorset",
+    "lat": 60.000991,
+    "lon": 11.03975,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/472"
+  },
+  {
+    "id": "osm-node-5690556992",
+    "name": "Vinmonopolet Råholt",
+    "lat": 60.281106,
+    "lon": 11.173902,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/470"
+  },
+  {
+    "id": "osm-node-5690556994",
+    "name": "Vinmonopolet Vik i Hole",
+    "lat": 60.077882,
+    "lon": 10.281397,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/467"
+  },
+  {
+    "id": "osm-node-5690556995",
+    "name": "Vinmonopolet Sund",
+    "lat": 60.270074,
+    "lon": 5.072463,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/466"
+  },
+  {
+    "id": "osm-node-5690556996",
+    "name": "Vinmonopolet Frosta",
+    "lat": 63.5881531,
+    "lon": 10.7399519,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/465"
+  },
+  {
+    "id": "osm-node-5690556997",
+    "name": "Vinmonopolet Vik i Sogn",
+    "lat": 61.08564,
+    "lon": 6.581513,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/464"
+  },
+  {
+    "id": "osm-node-5690556998",
+    "name": "Vinmonopolet Åsgårdstrand",
+    "lat": 59.349684,
+    "lon": 10.460057,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/463"
+  },
+  {
+    "id": "osm-node-5690556999",
+    "name": "Vinmonopolet Son",
+    "lat": 59.525829,
+    "lon": 10.689094,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/462"
+  },
+  {
+    "id": "osm-node-5690557000",
+    "name": "Vinmonopolet Borg",
+    "lat": 59.2742329,
+    "lon": 11.081961,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/461"
+  },
+  {
+    "id": "osm-node-5690557001",
+    "name": "Vinmonopolet Tysnes",
+    "lat": 60.0438343,
+    "lon": 5.5221096,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/458"
+  },
+  {
+    "id": "osm-node-5690557002",
+    "name": "Vinmonopolet Smøla",
+    "lat": 63.4611474,
+    "lon": 8.0116789,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/457"
+  },
+  {
+    "id": "osm-node-5690557003",
+    "name": "Vinmonopolet Steigen",
+    "lat": 67.776075,
+    "lon": 15.014456,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/456"
+  },
+  {
+    "id": "osm-node-5690557004",
+    "name": "Vinmonopolet Kløfta",
+    "lat": 60.076125,
+    "lon": 11.136121,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/455"
+  },
+  {
+    "id": "osm-node-5690557005",
+    "name": "Vinmonopolet Bærums verk",
+    "lat": 59.940947,
+    "lon": 10.50165,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/453"
+  },
+  {
+    "id": "osm-node-5690557006",
+    "name": "Vinmonopolet Flå",
+    "lat": 60.430552,
+    "lon": 9.4584634,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/452"
+  },
+  {
+    "id": "osm-node-5690557007",
+    "name": "Vinmonopolet Oasen",
+    "lat": 59.377167,
+    "lon": 5.30601,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/449"
+  },
+  {
+    "id": "osm-node-5690557008",
+    "name": "Vinmonopolet Eikelandsosen",
+    "lat": 60.240068,
+    "lon": 5.747474,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/448"
+  },
+  {
+    "id": "osm-node-5690557009",
+    "name": "Vinmonopolet Kjøllefjord",
+    "lat": 70.945417,
+    "lon": 27.351514,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/447"
+  },
+  {
+    "id": "osm-node-5690557010",
+    "name": "Vinmonopolet Inderøy",
+    "lat": 63.873542,
+    "lon": 11.29721,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/446"
+  },
+  {
+    "id": "osm-node-5690557011",
+    "name": "Vinmonopolet Bø i Vesterålen",
+    "lat": 68.6208984,
+    "lon": 14.4454049,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/445"
+  },
+  {
+    "id": "osm-node-5690557012",
+    "name": "Vinmonopolet Lyngen",
+    "lat": 69.574782,
+    "lon": 20.20688,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/444"
+  },
+  {
+    "id": "osm-node-5690557014",
+    "name": "Vinmonopolet Fornebu",
+    "lat": 59.893517,
+    "lon": 10.620756,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/442"
+  },
+  {
+    "id": "osm-node-5690557015",
+    "name": "Vinmonopolet Fetsund",
+    "lat": 59.928127,
+    "lon": 11.162448,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/441"
+  },
+  {
+    "id": "osm-node-5690557016",
+    "name": "Vinmonopolet Moelv",
+    "lat": 60.928535,
+    "lon": 10.701778,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/439"
+  },
+  {
+    "id": "osm-node-5690557017",
+    "name": "Vinmonopolet Hov",
+    "lat": 60.696449,
+    "lon": 10.35323,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/438"
+  },
+  {
+    "id": "osm-node-5690557018",
+    "name": "Vinmonopolet Froland",
+    "lat": 58.5084156,
+    "lon": 8.6294715,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/437"
+  },
+  {
+    "id": "osm-node-5690557019",
+    "name": "Vinmonopolet Hinna",
+    "lat": 58.9150941,
+    "lon": 5.7303413,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/436"
+  },
+  {
+    "id": "osm-node-5690557020",
+    "name": "Vinmonopolet Radøy",
+    "lat": 60.640813,
+    "lon": 5.042049,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/433"
+  },
+  {
+    "id": "osm-node-5690558021",
+    "name": "Vinmonopolet Nærbø",
+    "lat": 58.668152,
+    "lon": 5.641,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/431"
+  },
+  {
+    "id": "osm-node-5690558022",
+    "name": "Vinmonopolet Etne",
+    "lat": 59.664007,
+    "lon": 5.940272,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/429"
+  },
+  {
+    "id": "osm-node-5690558023",
+    "name": "Vinmonopolet Bjugn",
+    "lat": 63.765171,
+    "lon": 9.81187,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/428"
+  },
+  {
+    "id": "osm-node-5690558024",
+    "name": "Vinmonopolet Bagn",
+    "lat": 60.822969,
+    "lon": 9.55373,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/427"
+  },
+  {
+    "id": "osm-node-5690558025",
+    "name": "Vinmonopolet Andebu",
+    "lat": 59.3046,
+    "lon": 10.1767,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/425"
+  },
+  {
+    "id": "osm-node-5690558026",
+    "name": "Vinmonopolet Korgen",
+    "lat": 66.080257,
+    "lon": 13.824871,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/424"
+  },
+  {
+    "id": "osm-node-5690558027",
+    "name": "Vinmonopolet Selbu",
+    "lat": 63.219249,
+    "lon": 11.040292,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/423"
+  },
+  {
+    "id": "osm-node-5690558028",
+    "name": "Vinmonopolet Svelvik",
+    "lat": 59.6177118,
+    "lon": 10.4099003,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/422"
+  },
+  {
+    "id": "osm-node-5690558029",
+    "name": "Vinmonopolet Lonevåg",
+    "lat": 60.52513,
+    "lon": 5.496503,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/421"
+  },
+  {
+    "id": "osm-node-5690558030",
+    "name": "Vinmonopolet Bruhagen",
+    "lat": 63.0521,
+    "lon": 7.6312,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/420"
+  },
+  {
+    "id": "osm-node-5690558031",
+    "name": "Vinmonopolet Nydalen",
+    "lat": 59.9492124,
+    "lon": 10.7656919,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/417"
+  },
+  {
+    "id": "osm-node-5690558032",
+    "name": "Vinmonopolet Madla",
+    "lat": 58.952202,
+    "lon": 5.67819,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/416"
+  },
+  {
+    "id": "osm-node-5690558033",
+    "name": "Vinmonopolet Askvoll",
+    "lat": 61.345915,
+    "lon": 5.062675,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/414"
+  },
+  {
+    "id": "osm-node-5690558034",
+    "name": "Vinmonopolet Evenskjer",
+    "lat": 68.583747,
+    "lon": 16.571954,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/413"
+  },
+  {
+    "id": "osm-node-5690558035",
+    "name": "Vinmonopolet Koppang",
+    "lat": 61.5705262,
+    "lon": 11.0508036,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/411"
+  },
+  {
+    "id": "osm-node-5690558036",
+    "name": "Vinmonopolet Austevoll",
+    "lat": 60.007193,
+    "lon": 5.205058,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/410"
+  },
+  {
+    "id": "osm-node-5690558037",
+    "name": "Vinmonopolet Brokelandsheia",
+    "lat": 58.8243002,
+    "lon": 9.0741204,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/409"
+  },
+  {
+    "id": "osm-node-5690558039",
+    "name": "Vinmonopolet Ål",
+    "lat": 60.6306543,
+    "lon": 8.5636338,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/406"
+  },
+  {
+    "id": "osm-node-5690558040",
+    "name": "Vinmonopolet Stavern",
+    "lat": 59.000063,
+    "lon": 10.034292,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/404"
+  },
+  {
+    "id": "osm-node-5690558041",
+    "name": "Vinmonopolet Mortensrud",
+    "lat": 59.848394,
+    "lon": 10.829671,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/403"
+  },
+  {
+    "id": "osm-node-5690558042",
+    "name": "Vinmonopolet Åfjord",
+    "lat": 63.9598059,
+    "lon": 10.2255029,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/402"
+  },
+  {
+    "id": "osm-node-5690558044",
+    "name": "Vinmonopolet Stokke",
+    "lat": 59.2223913,
+    "lon": 10.3035851,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/398"
+  },
+  {
+    "id": "osm-node-5690558045",
+    "name": "Vinmonopolet Tofte",
+    "lat": 59.541753,
+    "lon": 10.558827,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/397"
+  },
+  {
+    "id": "osm-node-5690558046",
+    "name": "Vinmonopolet Beitostølen",
+    "lat": 61.246543,
+    "lon": 8.910348,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/396"
+  },
+  {
+    "id": "osm-node-5690558047",
+    "name": "Vinmonopolet Brumunddal",
+    "lat": 60.884682,
+    "lon": 10.943316,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/394"
+  },
+  {
+    "id": "osm-node-5690558048",
+    "name": "Vinmonopolet Nannestad",
+    "lat": 60.220174,
+    "lon": 11.014985,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/392"
+  },
+  {
+    "id": "osm-node-5690558049",
+    "name": "Vinmonopolet Grorud",
+    "lat": 59.960229,
+    "lon": 10.881303,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/389"
+  },
+  {
+    "id": "osm-node-5690558050",
+    "name": "Vinmonopolet Skarnes",
+    "lat": 60.2550005,
+    "lon": 11.680174,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/388"
+  },
+  {
+    "id": "osm-node-5690558051",
+    "name": "Vinmonopolet Nesbyen",
+    "lat": 60.568871,
+    "lon": 9.102393,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/387"
+  },
+  {
+    "id": "osm-node-5690558052",
+    "name": "Vinmonopolet Vågsbygd",
+    "lat": 58.1251843,
+    "lon": 7.9535327,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/386"
+  },
+  {
+    "id": "osm-node-5690558053",
+    "name": "Vinmonopolet Klepp",
+    "lat": 58.779075,
+    "lon": 5.626191,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/385"
+  },
+  {
+    "id": "osm-node-5690558054",
+    "name": "Vinmonopolet Vestnes",
+    "lat": 62.622006,
+    "lon": 7.092607,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/384"
+  },
+  {
+    "id": "osm-node-5690558055",
+    "name": "Vinmonopolet Malvik",
+    "lat": 63.420778,
+    "lon": 10.754741,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/383"
+  },
+  {
+    "id": "osm-node-5690558056",
+    "name": "Vinmonopolet Rørvik",
+    "lat": 64.861034,
+    "lon": 11.238912,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/382"
+  },
+  {
+    "id": "osm-node-5690558057",
+    "name": "Vinmonopolet Re",
+    "lat": 59.371664,
+    "lon": 10.264391,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/381"
+  },
+  {
+    "id": "osm-node-5690558058",
+    "name": "Vinmonopolet Brattvåg",
+    "lat": 62.597472,
+    "lon": 6.446259,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/379"
+  },
+  {
+    "id": "osm-node-5690558059",
+    "name": "Vinmonopolet Sørumsand",
+    "lat": 59.9872339,
+    "lon": 11.2443208,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/378"
+  },
+  {
+    "id": "osm-node-5690558060",
+    "name": "Vinmonopolet Jevnaker",
+    "lat": 60.240797,
+    "lon": 10.385145,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/377"
+  },
+  {
+    "id": "osm-node-5690558061",
+    "name": "Vinmonopolet Tjøme",
+    "lat": 59.115951,
+    "lon": 10.393402,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/376"
+  },
+  {
+    "id": "osm-node-5690558062",
+    "name": "Vinmonopolet Hokksund",
+    "lat": 59.7691061,
+    "lon": 9.9091793,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/375"
+  },
+  {
+    "id": "osm-node-5690558063",
+    "name": "Vinmonopolet Lambertseter",
+    "lat": 59.87456,
+    "lon": 10.8099922,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/374"
+  },
+  {
+    "id": "osm-node-5690558064",
+    "name": "Vinmonopolet Laksevåg",
+    "lat": 60.389595,
+    "lon": 5.2869723,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/373"
+  },
+  {
+    "id": "osm-node-5690558065",
+    "name": "Vinmonopolet Vardø",
+    "lat": 70.3711422,
+    "lon": 31.1195992,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/370"
+  },
+  {
+    "id": "osm-node-5690558066",
+    "name": "Vinmonopolet Sjøvegan",
+    "lat": 68.874808,
+    "lon": 17.834532,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/368"
+  },
+  {
+    "id": "osm-node-5690558067",
+    "name": "Vinmonopolet Vanylven",
+    "lat": 62.10004,
+    "lon": 5.556882,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/367"
+  },
+  {
+    "id": "osm-node-5690558068",
+    "name": "Vinmonopolet Drangedal",
+    "lat": 59.090103,
+    "lon": 9.064711,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/365"
+  },
+  {
+    "id": "osm-node-5690558069",
+    "name": "Vinmonopolet Løten",
+    "lat": 60.820133,
+    "lon": 11.342075,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/363"
+  },
+  {
+    "id": "osm-node-5690558071",
+    "name": "Vinmonopolet Setermoen",
+    "lat": 68.861348,
+    "lon": 18.345196,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/360"
+  },
+  {
+    "id": "osm-node-5690558072",
+    "name": "Vinmonopolet Frøya",
+    "lat": 63.729607,
+    "lon": 8.827364,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/358"
+  },
+  {
+    "id": "osm-node-5690558073",
+    "name": "Vinmonopolet Volda",
+    "lat": 62.1442,
+    "lon": 6.0723,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/357"
+  },
+  {
+    "id": "osm-node-5690558074",
+    "name": "Vinmonopolet Søgne",
+    "lat": 58.098614,
+    "lon": 7.815495,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/354"
+  },
+  {
+    "id": "osm-node-5690558075",
+    "name": "Vinmonopolet Ulefoss",
+    "lat": 59.280916,
+    "lon": 9.268556,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/353"
+  },
+  {
+    "id": "osm-node-5690558076",
+    "name": "Vinmonopolet Vestby",
+    "lat": 59.604002,
+    "lon": 10.743055,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/351"
+  },
+  {
+    "id": "osm-node-5690558077",
+    "name": "Vinmonopolet Vågå",
+    "lat": 61.876852,
+    "lon": 9.096366,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/349"
+  },
+  {
+    "id": "osm-node-5690558078",
+    "name": "Vinmonopolet Fosnavåg",
+    "lat": 62.342751,
+    "lon": 5.630318,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/347"
+  },
+  {
+    "id": "osm-node-5690558079",
+    "name": "Vinmonopolet Sandane",
+    "lat": 61.7756909,
+    "lon": 6.21382,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/346"
+  },
+  {
+    "id": "osm-node-5690558080",
+    "name": "Vinmonopolet Vennesla",
+    "lat": 58.269574,
+    "lon": 7.971326,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/344"
+  },
+  {
+    "id": "osm-node-5690558081",
+    "name": "Vinmonopolet Mysen",
+    "lat": 59.552889,
+    "lon": 11.335182,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/343"
+  },
+  {
+    "id": "osm-node-5690558083",
+    "name": "Vinmonopolet Vinterbro",
+    "lat": 59.739175,
+    "lon": 10.769837,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/338"
+  },
+  {
+    "id": "osm-node-5690558084",
+    "name": "Vinmonopolet Verdal",
+    "lat": 63.791878,
+    "lon": 11.485245,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/337"
+  },
+  {
+    "id": "osm-node-5690558085",
+    "name": "Vinmonopolet Røa",
+    "lat": 59.9458721,
+    "lon": 10.6433933,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/335"
+  },
+  {
+    "id": "osm-node-5690558086",
+    "name": "Vinmonopolet Elnesvågen",
+    "lat": 62.8540907,
+    "lon": 7.1611165,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/333"
+  },
+  {
+    "id": "osm-node-5690558087",
+    "name": "Vinmonopolet Lagunen",
+    "lat": 60.29765,
+    "lon": 5.331014,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/331"
+  },
+  {
+    "id": "osm-node-5690558088",
+    "name": "Vinmonopolet Rena",
+    "lat": 61.1325579,
+    "lon": 11.3714662,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/330"
+  },
+  {
+    "id": "osm-node-5690558089",
+    "name": "Vinmonopolet Rognan",
+    "lat": 67.102071,
+    "lon": 15.397327,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/328"
+  },
+  {
+    "id": "osm-node-5690558090",
+    "name": "Vinmonopolet Skjervøy",
+    "lat": 70.03241,
+    "lon": 20.974161,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/327"
+  },
+  {
+    "id": "osm-node-5690558091",
+    "name": "Vinmonopolet Tvedestrand",
+    "lat": 58.624035,
+    "lon": 8.927841,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/323"
+  },
+  {
+    "id": "osm-node-5690558092",
+    "name": "Vinmonopolet Seljord",
+    "lat": 59.481529,
+    "lon": 8.628524,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/320"
+  },
+  {
+    "id": "osm-node-5690558093",
+    "name": "Vinmonopolet Kautokeino",
+    "lat": 69.011464,
+    "lon": 23.041618,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/319"
+  },
+  {
+    "id": "osm-node-5690558095",
+    "name": "Vinmonopolet Storsteinnes",
+    "lat": 69.239708,
+    "lon": 19.227115,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/317"
+  },
+  {
+    "id": "osm-node-5690558096",
+    "name": "Vinmonopolet Grong",
+    "lat": 64.4642967,
+    "lon": 12.3148685,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/315"
+  },
+  {
+    "id": "osm-node-5690558098",
+    "name": "Vinmonopolet Surnadal",
+    "lat": 62.974141,
+    "lon": 8.727418,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/312"
+  },
+  {
+    "id": "osm-node-5690558099",
+    "name": "Vinmonopolet Årdal",
+    "lat": 61.310194,
+    "lon": 7.807955,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/311"
+  },
+  {
+    "id": "osm-node-5690558100",
+    "name": "Vinmonopolet Stryn",
+    "lat": 61.903437,
+    "lon": 6.718964,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/310"
+  },
+  {
+    "id": "osm-node-5690558101",
+    "name": "Vinmonopolet Lillesand",
+    "lat": 58.250774,
+    "lon": 8.377014,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/306"
+  },
+  {
+    "id": "osm-node-5690558102",
+    "name": "Vinmonopolet Vinje",
+    "lat": 59.568203,
+    "lon": 7.990459,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/305"
+  },
+  {
+    "id": "osm-node-5690558103",
+    "name": "Vinmonopolet Geilo",
+    "lat": 60.53421,
+    "lon": 8.209136,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/304"
+  },
+  {
+    "id": "osm-node-5690558104",
+    "name": "Vinmonopolet Dombås",
+    "lat": 62.073401,
+    "lon": 9.126532,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/303"
+  },
+  {
+    "id": "osm-node-5690558105",
+    "name": "Vinmonopolet Flisa",
+    "lat": 60.612674,
+    "lon": 12.009999,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/302"
+  },
+  {
+    "id": "osm-node-5690558106",
+    "name": "Vinmonopolet Bjørkelangen",
+    "lat": 59.8832283,
+    "lon": 11.5676089,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/301"
+  },
+  {
+    "id": "osm-node-5690558107",
+    "name": "Vinmonopolet Rakkestad",
+    "lat": 59.427579,
+    "lon": 11.34007,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/300"
+  },
+  {
+    "id": "osm-node-5690558108",
+    "name": "Vinmonopolet Ørsta",
+    "lat": 62.199407,
+    "lon": 6.124449,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/299"
+  },
+  {
+    "id": "osm-node-5690558110",
+    "name": "Vinmonopolet Trysil",
+    "lat": 61.315403,
+    "lon": 12.261427,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/294"
+  },
+  {
+    "id": "osm-node-5690558111",
+    "name": "Vinmonopolet Tynset",
+    "lat": 62.278712,
+    "lon": 10.773174,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/293"
+  },
+  {
+    "id": "osm-node-5690558112",
+    "name": "Vinmonopolet Strømmen",
+    "lat": 59.947831,
+    "lon": 11.005192,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/291"
+  },
+  {
+    "id": "osm-node-5690558113",
+    "name": "Vinmonopolet Lietorvet",
+    "lat": 59.2106684,
+    "lon": 9.6053097,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/290"
+  },
+  {
+    "id": "osm-node-5690558114",
+    "name": "Vinmonopolet Ski",
+    "lat": 59.716425,
+    "lon": 10.836101,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/289"
+  },
+  {
+    "id": "osm-node-5690558115",
+    "name": "Vinmonopolet Tromsdalen",
+    "lat": 69.639932,
+    "lon": 18.970931,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/288"
+  },
+  {
+    "id": "osm-node-5690558116",
+    "name": "Vinmonopolet Steen & Strøm",
+    "lat": 59.9118814,
+    "lon": 10.742764,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/286"
+  },
+  {
+    "id": "osm-node-5690558117",
+    "name": "Vinmonopolet Storbyen",
+    "lat": 59.284121,
+    "lon": 11.108187,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/285"
+  },
+  {
+    "id": "osm-node-5690558118",
+    "name": "Vinmonopolet Rjukan",
+    "lat": 59.879346,
+    "lon": 8.591418,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/281"
+  },
+  {
+    "id": "osm-node-5690558119",
+    "name": "Vinmonopolet Stjørdal",
+    "lat": 63.468946,
+    "lon": 10.924262,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/280"
+  },
+  {
+    "id": "osm-node-5690558120",
+    "name": "Vinmonopolet Jernbanegata",
+    "lat": 59.1395125,
+    "lon": 9.6552412,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/277"
+  },
+  {
+    "id": "osm-node-5690558521",
+    "name": "Vinmonopolet Steinkjer",
+    "lat": 64.0102986,
+    "lon": 11.4918338,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/276"
+  },
+  {
+    "id": "osm-node-5690558522",
+    "name": "Vinmonopolet Otta",
+    "lat": 61.771086,
+    "lon": 9.541021,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/274"
+  },
+  {
+    "id": "osm-node-5690558523",
+    "name": "Vinmonopolet Storslett",
+    "lat": 69.768599,
+    "lon": 21.003649,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/269"
+  },
+  {
+    "id": "osm-node-5690558524",
+    "name": "Vinmonopolet Sandnessjøen",
+    "lat": 66.022021,
+    "lon": 12.633935,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/268"
+  },
+  {
+    "id": "osm-node-5690558525",
+    "name": "Vinmonopolet Rudshøgda",
+    "lat": 60.909282,
+    "lon": 10.814273,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/267"
+  },
+  {
+    "id": "osm-node-5690558526",
+    "name": "Vinmonopolet Orkanger",
+    "lat": 63.297136,
+    "lon": 9.84453,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/262"
+  },
+  {
+    "id": "osm-node-5690558527",
+    "name": "Vinmonopolet Sunndalsøra",
+    "lat": 62.672457,
+    "lon": 8.567642,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/259"
+  },
+  {
+    "id": "osm-node-5690558528",
+    "name": "Vinmonopolet Larvik",
+    "lat": 59.0537,
+    "lon": 10.0292,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/258"
+  },
+  {
+    "id": "osm-node-5690558529",
+    "name": "Vinmonopolet Nordfjordeid",
+    "lat": 61.908603,
+    "lon": 5.984137,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/255"
+  },
+  {
+    "id": "osm-node-5690558530",
+    "name": "Vinmonopolet Sørlandssenteret",
+    "lat": 58.179886,
+    "lon": 8.133187,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/253"
+  },
+  {
+    "id": "osm-node-5690558531",
+    "name": "Vinmonopolet Namsos",
+    "lat": 64.467993,
+    "lon": 11.491206,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/252"
+  },
+  {
+    "id": "osm-node-5690558532",
+    "name": "Vinmonopolet Førde",
+    "lat": 61.4526,
+    "lon": 5.8506,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/251"
+  },
+  {
+    "id": "osm-node-5690558533",
+    "name": "Vinmonopolet Kongsvinger",
+    "lat": 60.186461,
+    "lon": 12.004675,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/250"
+  },
+  {
+    "id": "osm-node-5690558534",
+    "name": "Vinmonopolet Mosjøen",
+    "lat": 65.839782,
+    "lon": 13.190847,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/248"
+  },
+  {
+    "id": "osm-node-5690558535",
+    "name": "Vinmonopolet Jessheim",
+    "lat": 60.1424195,
+    "lon": 11.1747078,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/246"
+  },
+  {
+    "id": "osm-node-5690558536",
+    "name": "Vinmonopolet Molde",
+    "lat": 62.737849,
+    "lon": 7.182389,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/244"
+  },
+  {
+    "id": "osm-node-5690558537",
+    "name": "Vinmonopolet Kolvereid",
+    "lat": 64.8646508,
+    "lon": 11.6045246,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/243"
+  },
+  {
+    "id": "osm-node-5690558538",
+    "name": "Vinmonopolet Hønefoss",
+    "lat": 60.167536,
+    "lon": 10.256748,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/242"
+  },
+  {
+    "id": "osm-node-5690558539",
+    "name": "Vinmonopolet Mo i Rana",
+    "lat": 66.306166,
+    "lon": 14.134203,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/240"
+  },
+  {
+    "id": "osm-node-5690558540",
+    "name": "Vinmonopolet Odda",
+    "lat": 60.070255,
+    "lon": 6.542234,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/235"
+  },
+  {
+    "id": "osm-node-5690558541",
+    "name": "Vinmonopolet Holmestrand",
+    "lat": 59.487059,
+    "lon": 10.318702,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/233"
+  },
+  {
+    "id": "osm-node-5690558542",
+    "name": "Vinmonopolet Kristiansund sentrum",
+    "lat": 63.1107032,
+    "lon": 7.7327899,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/232"
+  },
+  {
+    "id": "osm-node-5690558543",
+    "name": "Vinmonopolet Kirkenes",
+    "lat": 69.728012,
+    "lon": 30.037601,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/228"
+  },
+  {
+    "id": "osm-node-5690558544",
+    "name": "Vinmonopolet Gran",
+    "lat": 60.3566,
+    "lon": 10.5709,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/226"
+  },
+  {
+    "id": "osm-node-5690558545",
+    "name": "Vinmonopolet Gjøvik",
+    "lat": 60.800404,
+    "lon": 10.692792,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/223"
+  },
+  {
+    "id": "osm-node-5690558546",
+    "name": "Vinmonopolet Østsiden",
+    "lat": 59.206297,
+    "lon": 10.971696,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/222"
+  },
+  {
+    "id": "osm-node-5690558547",
+    "name": "Vinmonopolet Hammerfest",
+    "lat": 70.663641,
+    "lon": 23.682554,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/220"
+  },
+  {
+    "id": "osm-node-5690558548",
+    "name": "Vinmonopolet Fagernes",
+    "lat": 60.986342,
+    "lon": 9.234507,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/217"
+  },
+  {
+    "id": "osm-node-5690558549",
+    "name": "Vinmonopolet Finnsnes",
+    "lat": 69.2278529,
+    "lon": 17.9775741,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/216"
+  },
+  {
+    "id": "osm-node-5690558550",
+    "name": "Vinmonopolet Eidsvoll",
+    "lat": 60.32951,
+    "lon": 11.258929,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/213"
+  },
+  {
+    "id": "osm-node-5690558551",
+    "name": "Vinmonopolet Fauske",
+    "lat": 67.258322,
+    "lon": 15.395789,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/212"
+  },
+  {
+    "id": "osm-node-5690558552",
+    "name": "Vinmonopolet Drøbak",
+    "lat": 59.664122,
+    "lon": 10.627902,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/210"
+  },
+  {
+    "id": "osm-node-5690558553",
+    "name": "Vinmonopolet Egersund",
+    "lat": 58.451992,
+    "lon": 6.003554,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/209"
+  },
+  {
+    "id": "osm-node-5690558554",
+    "name": "Vinmonopolet Brønnøysund",
+    "lat": 65.4729808,
+    "lon": 12.2083256,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/208"
+  },
+  {
+    "id": "osm-node-5690558555",
+    "name": "Vinmonopolet Brekstad",
+    "lat": 63.692835,
+    "lon": 9.660875,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/206"
+  },
+  {
+    "id": "osm-node-5690558556",
+    "name": "Vinmonopolet Bodø sentrum",
+    "lat": 67.284111,
+    "lon": 14.379355,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/204"
+  },
+  {
+    "id": "osm-node-5690558557",
+    "name": "Vinmonopolet Asker",
+    "lat": 59.836699,
+    "lon": 10.433785,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/202"
+  },
+  {
+    "id": "osm-node-5690558558",
+    "name": "Vinmonopolet Arendal",
+    "lat": 58.459356,
+    "lon": 8.762915,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/201"
+  },
+  {
+    "id": "osm-node-5690558559",
+    "name": "Vinmonopolet Alta",
+    "lat": 69.9654403,
+    "lon": 23.2726276,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/200"
+  },
+  {
+    "id": "osm-node-5690558560",
+    "name": "Vinmonopolet Åsane",
+    "lat": 60.465277,
+    "lon": 5.322077,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/197"
+  },
+  {
+    "id": "osm-node-5690558561",
+    "name": "Vinmonopolet Støren",
+    "lat": 63.047989,
+    "lon": 10.283278,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/189"
+  },
+  {
+    "id": "osm-node-5690558562",
+    "name": "Vinmonopolet Ulsteinvik",
+    "lat": 62.342861,
+    "lon": 5.848748,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/183"
+  },
+  {
+    "id": "osm-node-5690558563",
+    "name": "Vinmonopolet Hasle torg",
+    "lat": 59.923605,
+    "lon": 10.792917,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/182"
+  },
+  {
+    "id": "osm-node-5690558564",
+    "name": "Vinmonopolet Norheimsund",
+    "lat": 60.372312,
+    "lon": 6.146147,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/177"
+  },
+  {
+    "id": "osm-node-5690558565",
+    "name": "Vinmonopolet Årnes",
+    "lat": 60.122627,
+    "lon": 11.468039,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/176"
+  },
+  {
+    "id": "osm-node-5690558566",
+    "name": "Vinmonopolet Åndalsnes",
+    "lat": 62.569204,
+    "lon": 7.686143,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/175"
+  },
+  {
+    "id": "osm-node-5690558567",
+    "name": "Vinmonopolet Moa",
+    "lat": 62.465433,
+    "lon": 6.351683,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/174"
+  },
+  {
+    "id": "osm-node-5690558568",
+    "name": "Vinmonopolet Slemmestad",
+    "lat": 59.77762,
+    "lon": 10.485872,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/173"
+  },
+  {
+    "id": "osm-node-5690558569",
+    "name": "Vinmonopolet Evje",
+    "lat": 58.586901,
+    "lon": 7.805743,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/172"
+  },
+  {
+    "id": "osm-node-5690558570",
+    "name": "Vinmonopolet Vikersund",
+    "lat": 59.965031,
+    "lon": 9.99387,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/171"
+  },
+  {
+    "id": "osm-node-5690558571",
+    "name": "Vinmonopolet Kopervik",
+    "lat": 59.280423,
+    "lon": 5.304195,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/168"
+  },
+  {
+    "id": "osm-node-5690558572",
+    "name": "Vinmonopolet Flekkefjord",
+    "lat": 58.296515,
+    "lon": 6.661946,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/167"
+  },
+  {
+    "id": "osm-node-5690558573",
+    "name": "Vinmonopolet Bø i Telemark",
+    "lat": 59.4111607,
+    "lon": 9.0717661,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/166"
+  },
+  {
+    "id": "osm-node-5690558574",
+    "name": "Vinmonopolet Arna",
+    "lat": 60.421294,
+    "lon": 5.465193,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/165"
+  },
+  {
+    "id": "osm-node-5690558575",
+    "name": "Vinmonopolet Florø",
+    "lat": 61.600837,
+    "lon": 5.03707,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/164"
+  },
+  {
+    "id": "osm-node-5690558576",
+    "name": "Vinmonopolet Storo",
+    "lat": 59.9474762,
+    "lon": 10.7743226,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/161"
+  },
+  {
+    "id": "osm-node-5690558577",
+    "name": "Vinmonopolet Måløy",
+    "lat": 61.933022,
+    "lon": 5.11138,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/151"
+  },
+  {
+    "id": "osm-node-5690558578",
+    "name": "Vinmonopolet Askøy",
+    "lat": 60.4096735,
+    "lon": 5.2274192,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/148"
+  },
+  {
+    "id": "osm-node-5690558579",
+    "name": "Vinmonopolet Tveita",
+    "lat": 59.914179,
+    "lon": 10.841413,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/145"
+  },
+  {
+    "id": "osm-node-5690558580",
+    "name": "Vinmonopolet Holmen senter",
+    "lat": 59.854326,
+    "lon": 10.488342,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/135"
+  },
+  {
+    "id": "osm-node-5690558581",
+    "name": "Vinmonopolet Lakselv",
+    "lat": 70.052914,
+    "lon": 24.960587,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/133"
+  },
+  {
+    "id": "osm-node-5690558582",
+    "name": "Vinmonopolet Linderud",
+    "lat": 59.943187,
+    "lon": 10.835482,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/132"
+  },
+  {
+    "id": "osm-node-5690558583",
+    "name": "Vinmonopolet Stathelle",
+    "lat": 59.046417,
+    "lon": 9.69417,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/128"
+  },
+  {
+    "id": "osm-node-5690558584",
+    "name": "Vinmonopolet Krokstadelva",
+    "lat": 59.75614,
+    "lon": 9.999297,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/126"
+  },
+  {
+    "id": "osm-node-5690558586",
+    "name": "Vinmonopolet Dokka",
+    "lat": 60.834494,
+    "lon": 10.074475,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/123"
+  },
+  {
+    "id": "osm-node-5690558587",
+    "name": "Vinmonopolet City Syd",
+    "lat": 63.3621237,
+    "lon": 10.3771422,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/120"
+  },
+  {
+    "id": "osm-node-5690558588",
+    "name": "Vinmonopolet Kvadrat",
+    "lat": 58.876707,
+    "lon": 5.721903,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/116"
+  },
+  {
+    "id": "osm-node-5690558589",
+    "name": "Vinmonopolet Aker brygge",
+    "lat": 59.910679,
+    "lon": 10.726017,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/114"
+  },
+  {
+    "id": "osm-node-5690558590",
+    "name": "Vinmonopolet Digerneset",
+    "lat": 62.492221,
+    "lon": 6.605983,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/109"
+  },
+  {
+    "id": "osm-node-590979064",
+    "name": "Vinmonopolet Sola",
+    "lat": 58.882193,
+    "lon": 5.652573,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/355"
+  },
+  {
+    "id": "osm-node-590979070",
+    "name": "Vinmonopolet Hillevåg",
+    "lat": 58.947951,
+    "lon": 5.739366,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/221"
+  },
+  {
+    "id": "osm-node-590979072",
+    "name": "Vinmonopolet Herbarium",
+    "lat": 58.969842,
+    "lon": 5.727912,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/227"
+  },
+  {
+    "id": "osm-node-607012310",
+    "name": "Vinmonopolet Stord",
+    "lat": 59.778195,
+    "lon": 5.498688,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/297"
+  },
+  {
+    "id": "osm-node-6109141186",
+    "name": "Vinmonopolet Briskeby",
+    "lat": 59.920528,
+    "lon": 10.716999,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/104"
+  },
+  {
+    "id": "osm-node-615209010",
+    "name": "Vinmonopolet Grünerløkka",
+    "lat": 59.9211894,
+    "lon": 10.7572667,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/115"
+  },
+  {
+    "id": "osm-node-6164005257",
+    "name": "Vinmonopolet Hovden",
+    "lat": 59.5601214,
+    "lon": 7.3524984,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/107"
+  },
+  {
+    "id": "osm-node-619245300",
+    "name": "Vinmonopolet Stange",
+    "lat": 60.7169492,
+    "lon": 11.1915666,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/324"
+  },
+  {
+    "id": "osm-node-6204245478",
+    "name": "Vinmonopolet Paleet",
+    "lat": 59.91458,
+    "lon": 10.737454,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/141"
+  },
+  {
+    "id": "osm-node-6276840889",
+    "name": "Vinmonopolet Hunstad",
+    "lat": 67.280687,
+    "lon": 14.543771,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/469"
+  },
+  {
+    "id": "osm-node-6276840890",
+    "name": "Vinmonopolet Carl Berner",
+    "lat": 59.9276195,
+    "lon": 10.7787691,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/459"
+  },
+  {
+    "id": "osm-node-6276840891",
+    "name": "Vinmonopolet Down Town",
+    "lat": 59.137397,
+    "lon": 9.640573,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/113"
+  },
+  {
+    "id": "osm-node-6276840892",
+    "name": "Vinmonopolet Nesna",
+    "lat": 66.199759,
+    "lon": 13.022533,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/108"
+  },
+  {
+    "id": "osm-node-6564636398",
+    "name": "Vinmonopolet CC Drammen",
+    "lat": 59.7413745,
+    "lon": 10.222607,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/468"
+  },
+  {
+    "id": "osm-node-6564636399",
+    "name": "Vinmonopolet Rosendal",
+    "lat": 59.986107,
+    "lon": 6.010053,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/102"
+  },
+  {
+    "id": "osm-node-670640532",
+    "name": "Vinmonopolet Grimstad",
+    "lat": 58.3415059,
+    "lon": 8.593882,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/211"
+  },
+  {
+    "id": "osm-node-7060013995",
+    "name": "Vinmonopolet Myre",
+    "lat": 68.915035,
+    "lon": 15.101639,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/359"
+  },
+  {
+    "id": "osm-node-710534985",
+    "name": "Vinmonopolet Lillestrøm",
+    "lat": 59.957847,
+    "lon": 11.0484,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/265"
+  },
+  {
+    "id": "osm-node-7141311894",
+    "name": "Vinmonopolet Sætre",
+    "lat": 59.681568,
+    "lon": 10.525464,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/112"
+  },
+  {
+    "id": "osm-node-771309588",
+    "name": "Vinmonopolet Sogndal",
+    "lat": 61.232091,
+    "lon": 7.10214,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/261"
+  },
+  {
+    "id": "osm-node-827330816",
+    "name": "Vinmonopolet Manglerud",
+    "lat": 59.897066,
+    "lon": 10.814044,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/138"
+  },
+  {
+    "id": "osm-node-830673179",
+    "name": "Vinmonopolet Alna",
+    "lat": 59.925511,
+    "lon": 10.847847,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/117"
+  },
+  {
+    "id": "osm-node-8365604445",
+    "name": "Vinmonopolet Valkyrien",
+    "lat": 59.928158,
+    "lon": 10.718795,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/471"
+  },
+  {
+    "id": "osm-node-8365604446",
+    "name": "Vinmonopolet Vinstra",
+    "lat": 61.5946455,
+    "lon": 9.7254543,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/125"
+  },
+  {
+    "id": "osm-node-8365604447",
+    "name": "Vinmonopolet Eggedal",
+    "lat": 60.246169,
+    "lon": 9.356022,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/119"
+  },
+  {
+    "id": "osm-node-8365604448",
+    "name": "Vinmonopolet Suldal",
+    "lat": 59.483667,
+    "lon": 6.250471,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/106"
+  },
+  {
+    "id": "osm-node-8532834261",
+    "name": "Vinmonopolet Kragerø",
+    "lat": 58.8695835,
+    "lon": 9.4153033,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/257"
+  },
+  {
+    "id": "osm-node-875597237",
+    "name": "Vinmonopol",
+    "lat": 59.000718,
+    "lon": 10.0341262,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/875597237"
+  },
+  {
+    "id": "osm-node-884734169",
+    "name": "Vinmonopolet Sauda",
+    "lat": 59.650155,
+    "lon": 6.354961,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/147"
+  },
+  {
+    "id": "osm-node-8883504895",
+    "name": "Vinmonopolet Aksdal",
+    "lat": 59.4221693,
+    "lon": 5.4442776,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/103"
+  },
+  {
+    "id": "osm-node-899287337",
+    "name": "Vinmonopolet Honningsvåg",
+    "lat": 70.9818387,
+    "lon": 25.971731,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/239"
+  },
+  {
+    "id": "osm-node-9615091882",
+    "name": "Vinmonopolet Futura",
+    "lat": 63.110669,
+    "lon": 7.780337,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/137"
+  },
+  {
+    "id": "osm-node-9615091883",
+    "name": "Vinmonopolet Noresund",
+    "lat": 60.179925,
+    "lon": 9.6256037,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/131"
+  },
+  {
+    "id": "osm-node-9615091884",
+    "name": "Vinmonopolet Fitjar",
+    "lat": 59.918156,
+    "lon": 5.315838,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/129"
+  },
+  {
+    "id": "osm-way-1486530658",
+    "name": "Vinmonopolet Liertoppen",
+    "lat": 59.8096207,
+    "lon": 10.3006442,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/362"
+  },
+  {
+    "id": "osm-way-368744431",
+    "name": "Vinmonopolet Tromsø sentrum",
+    "lat": 69.6464194,
+    "lon": 18.9550302,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/292"
+  },
+  {
+    "id": "osm-way-395551847",
+    "name": "Vinmonopolet Sykkylven",
+    "lat": 62.391894,
+    "lon": 6.5804731,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/348"
+  },
+  {
+    "id": "osm-way-717947826",
+    "name": "Vinmonopolet Holmlia",
+    "lat": 59.8343472,
+    "lon": 10.7959461,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vinmonopolet.no/butikk/122"
+  }
+]

@@ -1,5 +1,18 @@
-import { Layer, Map, Marker, Source, type MapRef } from "@vis.gl/react-maplibre";
-import { forwardRef, useEffect, useImperativeHandle, useRef, useState } from "react";
+import {
+  Layer,
+  Map,
+  Marker,
+  Source,
+  type MapRef,
+} from "@vis.gl/react-maplibre";
+import {
+  forwardRef,
+  useEffect,
+  useImperativeHandle,
+  useMemo,
+  useRef,
+  useState,
+} from "react";
 import "maplibre-gl/dist/maplibre-gl.css";
 import { sources } from "../../utils/sources";
 import type { Source as MapSource } from "../../types/types";
@@ -53,9 +66,6 @@ const MapLibre = forwardRef<
   const mapRef = useRef<MapRef>(null);
   const [width, setWidth] = useState(window.innerWidth);
   const [height, setHeight] = useState(window.innerHeight);
-  const [showPointLabels, setShowPointLabels] = useState(
-    zoom >= POINT_LABEL_MIN_ZOOM,
-  );
 
   useImperativeHandle(ref, () => ({
     triggerReset() {
@@ -75,7 +85,9 @@ const MapLibre = forwardRef<
   // texture load outright, so there's nothing to gracefully retry.
   const layerTiles: string[][] = layers
     .map((layerName) => sources.find((source) => source.name === layerName))
-    .filter((source): source is MapSource => !!source && !source.unsupportedIn3D)
+    .filter(
+      (source): source is MapSource => !!source && !source.unsupportedIn3D,
+    )
     .map((source) => expandSubdomainTemplate(source.url));
 
   useEffect(() => {
@@ -87,6 +99,24 @@ const MapLibre = forwardRef<
 
     return () => window.removeEventListener("resize", resize);
   }, []);
+
+  const pointGeoJson = useMemo(
+    () => ({
+      type: "FeatureCollection" as const,
+      features: points.map((point) => ({
+        type: "Feature" as const,
+        geometry: {
+          type: "Point" as const,
+          coordinates: [point.lon, point.lat],
+        },
+        properties: {
+          name: point.name,
+          color: point.color,
+        },
+      })),
+    }),
+    [points],
+  );
 
   return (
     <Map
@@ -103,9 +133,6 @@ const MapLibre = forwardRef<
           [event.viewState.longitude, event.viewState.latitude],
           event.viewState.zoom,
         )
-      }
-      onZoomEnd={(event) =>
-        setShowPointLabels(event.viewState.zoom >= POINT_LABEL_MIN_ZOOM)
       }
       style={{ width, height }}
       mapStyle="https://demotiles.maplibre.org/globe.json"
@@ -127,26 +154,35 @@ const MapLibre = forwardRef<
           />
         </Source>
       ))}
-      {points.map((point) => (
-        <Marker
-          key={`${point.source}-${point.id}`}
-          longitude={point.lon}
-          latitude={point.lat}
-          anchor="center"
-        >
-          <div
-            className="relative h-3 w-3 rounded-full border-2 border-white shadow"
-            style={{ backgroundColor: point.color }}
-            title={`${point.name} — ${point.address}, ${point.city}`}
-          >
-            {showPointLabels && (
-              <span className="pointer-events-none absolute bottom-4 left-1/2 w-max max-w-48 -translate-x-1/2 rounded bg-white/90 px-1.5 py-0.5 text-center text-[11px] font-semibold leading-tight text-stone-900 shadow">
-                {point.name}
-              </span>
-            )}
-          </div>
-        </Marker>
-      ))}
+      <Source id="map-points" type="geojson" data={pointGeoJson}>
+        <Layer
+          id="map-point-dots"
+          type="circle"
+          paint={{
+            "circle-radius": 6,
+            "circle-color": ["get", "color"],
+            "circle-stroke-color": "#ffffff",
+            "circle-stroke-width": 2,
+          }}
+        />
+        <Layer
+          id="map-point-labels"
+          type="symbol"
+          minzoom={POINT_LABEL_MIN_ZOOM}
+          layout={{
+            "text-field": ["get", "name"],
+            "text-size": 11,
+            "text-offset": [0, -1.5],
+            "text-anchor": "bottom",
+            "text-allow-overlap": false,
+          }}
+          paint={{
+            "text-color": "#1c1917",
+            "text-halo-color": "rgba(255,255,255,0.95)",
+            "text-halo-width": 2,
+          }}
+        />
+      </Source>
       {userLocation && (
         <Marker longitude={userLocation.lon} latitude={userLocation.lat}>
           <UserLocationDot />

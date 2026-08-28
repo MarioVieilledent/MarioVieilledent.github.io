@@ -1,0 +1,7152 @@
+[
+  {
+    "id": "osm-node-10159982574",
+    "name": "Norsk jernbanemuseums bibliotek",
+    "lat": 60.8006388,
+    "lon": 11.0274266,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://jernbanemuseet.no/norsk-jernbanemuseums-bibliotek/"
+  },
+  {
+    "id": "osm-node-10218219817",
+    "name": "Pasientbiblioteket",
+    "lat": 60.3743305,
+    "lon": 5.3585165,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/10218219817"
+  },
+  {
+    "id": "osm-node-10247015381",
+    "name": "Rælingen bibliotek",
+    "lat": 59.9239914,
+    "lon": 11.0636923,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/10247015381"
+  },
+  {
+    "id": "osm-node-1027159910",
+    "name": "Grong folkebibliotek",
+    "lat": 64.4644231,
+    "lon": 12.3128534,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/1027159910"
+  },
+  {
+    "id": "osm-node-1064725212",
+    "name": "Løten folkebibliotek",
+    "lat": 60.8207024,
+    "lon": 11.3390176,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.loten.kommune.no/biblioteket/"
+  },
+  {
+    "id": "osm-node-1074648735",
+    "name": "Riska bibliotek",
+    "lat": 58.926764,
+    "lon": 5.845672,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/1074648735"
+  },
+  {
+    "id": "osm-node-1076993016",
+    "name": "Gjesdal folkebibliotek",
+    "lat": 58.765553,
+    "lon": 5.855242,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.gjesdal.folkebibl.no/"
+  },
+  {
+    "id": "osm-node-10774437105",
+    "name": "Holtålen Folkebibliotek",
+    "lat": 62.842525,
+    "lon": 11.3003307,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://biblioteket.holtalen.kommune.no/"
+  },
+  {
+    "id": "osm-node-1091798764",
+    "name": "Biblioteket,  Universitetet i Innlandet, Hamar",
+    "lat": 60.796329,
+    "lon": 11.0742868,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.inn.no/bibliotek/"
+  },
+  {
+    "id": "osm-node-10975512341",
+    "name": "Skiptvet Bibliotek",
+    "lat": 59.4749557,
+    "lon": 11.1606533,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/10975512341"
+  },
+  {
+    "id": "osm-node-11068575400",
+    "name": "Statsarkivet i Kongsberg",
+    "lat": 59.6840097,
+    "lon": 9.651531,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.arkivverket.no/om-oss/besok-oss/statsarkivet-i-kongsberg"
+  },
+  {
+    "id": "osm-node-11068575401",
+    "name": "Interkommunalt arkiv for Buskerud, Vestfold og Telemark IKS",
+    "lat": 59.6842787,
+    "lon": 9.6510065,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.ikakongsberg.no/"
+  },
+  {
+    "id": "osm-node-11071800632",
+    "name": "Senjahoppen Bibliothek",
+    "lat": 69.4965113,
+    "lon": 17.4830514,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "senjabibliothek.no"
+  },
+  {
+    "id": "osm-node-11361011774",
+    "name": "Halden Bibliotek",
+    "lat": 59.1252796,
+    "lon": 11.3886912,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/11361011774"
+  },
+  {
+    "id": "osm-node-1140748184",
+    "name": "Sola bibliotek, Tananger filial",
+    "lat": 58.934636,
+    "lon": 5.5967308,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://jaerbiblioteka.no/"
+  },
+  {
+    "id": "osm-node-11616933002",
+    "name": "Kjøpsvik Folkebibliotek og Kulturhus",
+    "lat": 68.0978235,
+    "lon": 16.3770397,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.narvik.kommune.no/tjenester/samfunn-kultur-fritid-og-idrett/bibliotek/avdeling-kjopsvik/"
+  },
+  {
+    "id": "osm-node-11694509556",
+    "name": "Lesesalen",
+    "lat": 60.381268,
+    "lon": 5.3315172,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/11694509556"
+  },
+  {
+    "id": "osm-node-11876093807",
+    "name": "Sande bibliotek",
+    "lat": 62.2063818,
+    "lon": 5.571226,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/11876093807"
+  },
+  {
+    "id": "osm-node-11889572692",
+    "name": "Nesbyen bibliotek",
+    "lat": 60.5683394,
+    "lon": 9.1012777,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.hallingdalsbiblioteka.no/-/filialbibilioteket#/"
+  },
+  {
+    "id": "osm-node-11944972259",
+    "name": "Sykkylven kommunale bibliotek",
+    "lat": 62.3920845,
+    "lon": 6.5820483,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/11944972259"
+  },
+  {
+    "id": "osm-node-12297243933",
+    "name": "Buran bibliotek",
+    "lat": 63.4356907,
+    "lon": 10.424314,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://biblioteket.trondheim.kommune.no/innhold/om-biblioteket/avdelinger/buranbibliotek/"
+  },
+  {
+    "id": "osm-node-1259182944",
+    "name": "Ringerike bibliotek",
+    "lat": 60.1669128,
+    "lon": 10.2568789,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.ringerike.kommune.no/bibliotek"
+  },
+  {
+    "id": "osm-node-1261375962",
+    "name": "Bærum bibliotek, Høvik",
+    "lat": 59.898951,
+    "lon": 10.577445,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.barum.folkebibl.no"
+  },
+  {
+    "id": "osm-node-12620170602",
+    "name": "Natur- og Helsefagbiblioteket",
+    "lat": 69.6824072,
+    "lon": 18.9782827,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/12620170602"
+  },
+  {
+    "id": "osm-node-1278185423",
+    "name": "Nord-Aurdal folkebibliotek",
+    "lat": 60.9853311,
+    "lon": 9.2372829,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.valdresbiblioteka.no/"
+  },
+  {
+    "id": "osm-node-12803035446",
+    "name": "NTNU Biblioteket i Gjøvik",
+    "lat": 60.7896668,
+    "lon": 10.682363,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/12803035446"
+  },
+  {
+    "id": "osm-node-1280413012",
+    "name": "Vinje folkebibliotek, Rauland avdeling",
+    "lat": 59.6946548,
+    "lon": 8.0649694,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.vinje.kommune.no/Tenester/Tenestekatalog/Kultur_og_fritid/Temaside/Bibliotek/Avdeling%20Rauland.aspx"
+  },
+  {
+    "id": "osm-node-1288290941",
+    "name": "Førde bibliotek",
+    "lat": 61.453433,
+    "lon": 5.8679833,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.fordehuset.no/bibliotek"
+  },
+  {
+    "id": "osm-node-1291612263",
+    "name": "Marker folkebibliotek",
+    "lat": 59.479517,
+    "lon": 11.659585,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.marker.kommune.no/bibliotek.241185.no.html"
+  },
+  {
+    "id": "osm-node-13017888160",
+    "name": "Båtsfjord bibliotek",
+    "lat": 70.6317271,
+    "lon": 29.7054411,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/13017888160"
+  },
+  {
+    "id": "osm-node-1332805698",
+    "name": "Haram folkebibliotek, Longva filial",
+    "lat": 62.676138,
+    "lon": 6.2644505,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://mrbiblioteket.no/haram"
+  },
+  {
+    "id": "osm-node-1342473027",
+    "name": "Porsgrunn bibliotek",
+    "lat": 59.1411905,
+    "lon": 9.6568517,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://porsgrunnbib.no/"
+  },
+  {
+    "id": "osm-node-1346023498",
+    "name": "Alta bibliotek",
+    "lat": 69.966651,
+    "lon": 23.2751665,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.alta.folkebibl.no/"
+  },
+  {
+    "id": "osm-node-13461379072",
+    "name": "Fredrikstad Bibliotek Gressvik",
+    "lat": 59.2165575,
+    "lon": 10.9056806,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://fredrikstadbibliotek.no/nb/bibliotek/gressvik"
+  },
+  {
+    "id": "osm-node-13645276080",
+    "name": "Tvedestrand folkebibliotek",
+    "lat": 58.6261999,
+    "lon": 8.9265279,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/13645276080"
+  },
+  {
+    "id": "osm-node-13790843749",
+    "name": "Kviteseid bibliotek",
+    "lat": 59.402105,
+    "lon": 8.4885582,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/13790843749"
+  },
+  {
+    "id": "osm-node-13903959054",
+    "name": "Universitetsbiblioteket P48",
+    "lat": 59.9214836,
+    "lon": 10.7329208,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/13903959054"
+  },
+  {
+    "id": "osm-node-1393721693",
+    "name": "Lillesand folkebibliotek",
+    "lat": 58.248375,
+    "lon": 8.377965,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://lillesandfolkebibliotek.no/"
+  },
+  {
+    "id": "osm-node-14123434665",
+    "name": "Biblo Holmlia",
+    "lat": 59.8346262,
+    "lon": 10.7942847,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://deichman.no/bibliotekene/biblo-holmlia"
+  },
+  {
+    "id": "osm-node-1445142518",
+    "name": "Kragerø bibliotek",
+    "lat": 58.8696173,
+    "lon": 9.4123918,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.tm.fylkesbibl.no/pages/bibliotekene-i-krager%C3%B8"
+  },
+  {
+    "id": "osm-node-1483762508",
+    "name": "Ås bibliotek",
+    "lat": 59.6642029,
+    "lon": 10.7906301,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.as.kommune.no/bibliotek.545208.no.html"
+  },
+  {
+    "id": "osm-node-1484522509",
+    "name": "Sør-Varanger bibliotek",
+    "lat": 69.7273989,
+    "lon": 30.045036,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://sor-varangerbibliotek.no"
+  },
+  {
+    "id": "osm-node-1486321968",
+    "name": "Deichman Nordtvet",
+    "lat": 59.9512723,
+    "lon": 10.8739488,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.deichman.no/nordtvet"
+  },
+  {
+    "id": "osm-node-1489410774",
+    "name": "Ringebu bibliotek",
+    "lat": 61.5299343,
+    "lon": 10.1387491,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.ringebu.folkebibl.no/"
+  },
+  {
+    "id": "osm-node-1546193040",
+    "name": "Røyken bibliotek, Midtbygda",
+    "lat": 59.7455454,
+    "lon": 10.4128442,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.royken.kommune.no/Tjenester/Kultur-og-fritid/Royken-bibliotek/Midtbygda-bibliotek-stengt/"
+  },
+  {
+    "id": "osm-node-1552239310",
+    "name": "Røyken bibliotek, Slemmestad",
+    "lat": 59.7826518,
+    "lon": 10.4934322,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://roykenbibliotek.no/"
+  },
+  {
+    "id": "osm-node-1599912453",
+    "name": "Gjerdrum bibliotek",
+    "lat": 60.0728252,
+    "lon": 11.035495,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.gjerdrum.kommune.no/Virksomheter/Gjerdrum-bibliotek/"
+  },
+  {
+    "id": "osm-node-1600975623",
+    "name": "Lindesnes folkebibliotek",
+    "lat": 58.0840932,
+    "lon": 7.302033,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.lib.no/"
+  },
+  {
+    "id": "osm-node-1606681869",
+    "name": "Ryfylkebiblioteket Strand",
+    "lat": 59.0236402,
+    "lon": 6.0409093,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.strand.kommune.no/artikkel.aspx?AId=301&tid=2992&mid1=695"
+  },
+  {
+    "id": "osm-node-1607601696",
+    "name": "Brønnøy bibliotek Brønnøysund",
+    "lat": 65.46796,
+    "lon": 12.2106908,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://websok.mikromarc.no/Mikromarc3/web/open.aspx?Unit=6465&db=bronnoy-fb"
+  },
+  {
+    "id": "osm-node-1626349729",
+    "name": "Tomter innbyggertorg og bibliotek",
+    "lat": 59.6613202,
+    "lon": 10.999516,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.io.kommune.no/tjenester/innbyggertorg-og-bibliotek/"
+  },
+  {
+    "id": "osm-node-1632810145",
+    "name": "Sør-Aurdal folkebibliotek",
+    "lat": 60.823513,
+    "lon": 9.552216,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.sor-aurdal.kommune.no/artikkel.aspx?AId=92&back=1&MId1=311"
+  },
+  {
+    "id": "osm-node-1634438192",
+    "name": "Deichman Holmlia",
+    "lat": 59.8351195,
+    "lon": 10.7945217,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://deichman.no/bibliotekene/holmlia"
+  },
+  {
+    "id": "osm-node-1693367524",
+    "name": "Selje folkeboksamling",
+    "lat": 62.041299,
+    "lon": 5.3558069,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://selje.kommune.no/artikkel.aspx?MId1=565&AId=1963"
+  },
+  {
+    "id": "osm-node-170898221",
+    "name": "Trondheim folkebibliotek",
+    "lat": 63.4308036,
+    "lon": 10.4011067,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://tfb.no"
+  },
+  {
+    "id": "osm-node-1709882276",
+    "name": "Grue folkebibliotek, filial Svullrya",
+    "lat": 60.4215263,
+    "lon": 12.3984472,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/1709882276"
+  },
+  {
+    "id": "osm-node-171527683",
+    "name": "Bergen offentlige bibliotek, Loddefjord filial",
+    "lat": 60.3630032,
+    "lon": 5.2351799,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://bergenbibliotek.no/om-biblioteket/kontakt_oss"
+  },
+  {
+    "id": "osm-node-1747408190",
+    "name": "Sarpsborg bibliotek, Skjeberg områdebibliotek",
+    "lat": 59.2666845,
+    "lon": 11.1693953,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.sarpsborg.com/pub/Ece2PortalUrl?sectionId=1261"
+  },
+  {
+    "id": "osm-node-1774205488",
+    "name": "Nesodden bibliotek",
+    "lat": 59.8554774,
+    "lon": 10.662449,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.nesodden.kommune.no/bibliotek/"
+  },
+  {
+    "id": "osm-node-1810748707",
+    "name": "Voss bibliotek",
+    "lat": 60.6281384,
+    "lon": 6.4108214,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vossbibliotek.no"
+  },
+  {
+    "id": "osm-node-184047712",
+    "name": "Storfjord folkebibliotek",
+    "lat": 69.2685946,
+    "lon": 19.9608765,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.storfjord.kommune.no/storfjord-folkebibliotek.108726.no.html"
+  },
+  {
+    "id": "osm-node-1846789218",
+    "name": "Stord folkebibliotek, Litlabø filial",
+    "lat": 59.7838203,
+    "lon": 5.411815,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.stord.kommune.no/Stord-Folkebibliotek/om-oss/Litlabo-filial/"
+  },
+  {
+    "id": "osm-node-1855645420",
+    "name": "Aurland folkebibliotek",
+    "lat": 60.9040055,
+    "lon": 7.1969629,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://aurland.custompublish.com/framsida.191288.nn.html"
+  },
+  {
+    "id": "osm-node-1871649087",
+    "name": "Flakstad folkebibliotek",
+    "lat": 68.0917391,
+    "lon": 13.2295469,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.flakstad.folkebibl.no"
+  },
+  {
+    "id": "osm-node-189041449",
+    "name": "Målselv bibliotek",
+    "lat": 69.0460565,
+    "lon": 18.5125656,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.malselvbibliotek.no/"
+  },
+  {
+    "id": "osm-node-1937385610",
+    "name": "Lørenskog bibliotek",
+    "lat": 59.9280232,
+    "lon": 10.9613805,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://bibliotekrom.no/lorenskog/"
+  },
+  {
+    "id": "osm-node-1982607131",
+    "name": "Deanu girjerádju - Tana bibliotek",
+    "lat": 70.1995257,
+    "lon": 28.184464,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://websok.mikromarc.no/Mikromarc3/web/default.aspx?db=tana-fb&unit=6465"
+  },
+  {
+    "id": "osm-node-1982632729",
+    "name": "Ål bibliotek",
+    "lat": 60.629687,
+    "lon": 8.5622127,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://hallingdalsbiblioteka.no/al-bibliotek/"
+  },
+  {
+    "id": "osm-node-2005090084",
+    "name": "Realfagsbiblioteket",
+    "lat": 59.940141,
+    "lon": 10.723388,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.ub.uio.no/om/organisasjon/ureal/ureal/"
+  },
+  {
+    "id": "osm-node-2011391856",
+    "name": "Frøya folkebibliotek",
+    "lat": 63.7304267,
+    "lon": 8.8283183,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.froya.kommune.no/tjenester/kultur-idrett-og-fritid/kultur/froya-folkebibliotek/"
+  },
+  {
+    "id": "osm-node-2015914081",
+    "name": "Deichman Oppsal",
+    "lat": 59.894278,
+    "lon": 10.841913,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.deichman.no/oppsal"
+  },
+  {
+    "id": "osm-node-2048372541",
+    "name": "Bibliotek for Samfunnsvitenskap",
+    "lat": 60.388224,
+    "lon": 5.325308,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/2048372541"
+  },
+  {
+    "id": "osm-node-2083995271",
+    "name": "Ryfylkebiblioteket Suldal, Suldalsosen filial",
+    "lat": 59.4888515,
+    "lon": 6.4965824,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.ryfylkebiblioteket.no/"
+  },
+  {
+    "id": "osm-node-2113102113",
+    "name": "Giske folkebibliotek",
+    "lat": 62.5006579,
+    "lon": 6.134823,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.mrbiblioteket.no/giske"
+  },
+  {
+    "id": "osm-node-2165958232",
+    "name": "Vega folkebibliotek",
+    "lat": 65.6754016,
+    "lon": 11.9529533,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vega.kommune.no/bibliotek/"
+  },
+  {
+    "id": "osm-node-2166697146",
+    "name": "Hustadvika bibliotek Elnesvågen",
+    "lat": 62.8540914,
+    "lon": 7.163483,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://hustadvika.kommune.no/bibliotek/"
+  },
+  {
+    "id": "osm-node-2192191954",
+    "name": "Indre Fosen bibliotek, Rissa",
+    "lat": 63.5869397,
+    "lon": 9.9618882,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.indrefosen.kommune.no/tjenester/kultur-og-fritid/bibliotek-2/"
+  },
+  {
+    "id": "osm-node-2229475716",
+    "name": "Øyer folkebibliotek",
+    "lat": 61.2398425,
+    "lon": 10.4402968,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.oyer.folkebibl.no"
+  },
+  {
+    "id": "osm-node-2296987670",
+    "name": "Hemne bibliotek",
+    "lat": 63.289471,
+    "lon": 9.083951,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.hemne.kommune.no/899/206/241-4580.html"
+  },
+  {
+    "id": "osm-node-2298699253",
+    "name": "Ballangen folkebibliotek",
+    "lat": 68.3426059,
+    "lon": 16.8294817,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.narvik.kommune.no/tjenester/samfunn-kultur-fritid-og-idrett/bibliotek/avdeling-ballangen/"
+  },
+  {
+    "id": "osm-node-2370507394",
+    "name": "Øvre Eiker bibliotek, Skotselv filial",
+    "lat": 59.8503473,
+    "lon": 9.8796893,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.ovre-eiker.folkebibl.no"
+  },
+  {
+    "id": "osm-node-2382256313",
+    "name": "Rjukan bibliotek",
+    "lat": 59.878699,
+    "lon": 8.5935941,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.tinnbib.no/"
+  },
+  {
+    "id": "osm-node-2411841288",
+    "name": "Træna folkebibliotek",
+    "lat": 66.5025127,
+    "lon": 12.094103,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.nordbib.no/index.php?option=com_content&view=category&layout=blog&id=204&Itemid=209"
+  },
+  {
+    "id": "osm-node-2435118334",
+    "name": "Nærøysund bibliotek avdeling Rørvik",
+    "lat": 64.8619098,
+    "lon": 11.2325651,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/2435118334"
+  },
+  {
+    "id": "osm-node-247931987",
+    "name": "Dovre folkebibliotek, Dombås",
+    "lat": 62.0743609,
+    "lon": 9.1273312,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.dovre.kommune.no/Modules/service.aspx?&Service.ID=297&Category.ID=837"
+  },
+  {
+    "id": "osm-node-249162240",
+    "name": "Meieriet bibliotek",
+    "lat": 68.1487818,
+    "lon": 13.6153902,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vestvagoy.kommune.no/tema/kultur-idrett-og-fritid/bibliotek/item/bibliotektjenester/"
+  },
+  {
+    "id": "osm-node-2495105706",
+    "name": "Mandal bibliotek",
+    "lat": 58.0255267,
+    "lon": 7.4561412,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.mandalbibliotek.no"
+  },
+  {
+    "id": "osm-node-2524113482",
+    "name": "Askøy folkebibliotek",
+    "lat": 60.4092175,
+    "lon": 5.2271908,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/2524113482"
+  },
+  {
+    "id": "osm-node-2550670630",
+    "name": "Nord-Odal bibliotek",
+    "lat": 60.391546,
+    "lon": 11.540634,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.nord-odal.kommune.no/no/bibliotek"
+  },
+  {
+    "id": "osm-node-255523975",
+    "name": "Skaun folkebibliotek",
+    "lat": 63.3247467,
+    "lon": 10.0653733,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/255523975"
+  },
+  {
+    "id": "osm-node-2610628570",
+    "name": "Indre Fosen bibliotek, avd. Leksvik",
+    "lat": 63.6736782,
+    "lon": 10.6274037,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.indrefosen.kommune.no/"
+  },
+  {
+    "id": "osm-node-261099544",
+    "name": "Deichman Lambertseter",
+    "lat": 59.873518,
+    "lon": 10.81184,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.deichman.no/lambertseter"
+  },
+  {
+    "id": "osm-node-26385914",
+    "name": "Time bibliotek (Jærbiblioteka)",
+    "lat": 58.7338123,
+    "lon": 5.6508802,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://jaerbiblioteka.no/"
+  },
+  {
+    "id": "osm-node-2658036256",
+    "name": "Lyngen folkebibliotek",
+    "lat": 69.5750428,
+    "lon": 20.2175649,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.lyngen.kommune.no/index.php?cat=5970b"
+  },
+  {
+    "id": "osm-node-266388670",
+    "name": "Deichman Majorstuen",
+    "lat": 59.9307549,
+    "lon": 10.7163562,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.deichman.no/majorstuen"
+  },
+  {
+    "id": "osm-node-266534979",
+    "name": "Vennesla bibliotek",
+    "lat": 58.270419,
+    "lon": 7.97079,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://websok.mikromarc.no/vennesla-fb"
+  },
+  {
+    "id": "osm-node-269783605",
+    "name": "Steinkjer bibliotek",
+    "lat": 64.0153824,
+    "lon": 11.4941079,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://steinkjer.folkebibl.no/"
+  },
+  {
+    "id": "osm-node-2698604940",
+    "name": "Ryfylkebiblioteket Sauda",
+    "lat": 59.650502,
+    "lon": 6.3526078,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.sauda.kommune.no/artikkel.aspx?aid=80&tid=42&mid1=846"
+  },
+  {
+    "id": "osm-node-2718925551",
+    "name": "Vanylven folkebibliotek",
+    "lat": 62.0892314,
+    "lon": 5.7407157,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://mrbiblioteket.no/vanylven"
+  },
+  {
+    "id": "osm-node-278320289",
+    "name": "Orkdal folkebibliotek",
+    "lat": 63.3058827,
+    "lon": 9.8499842,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/278320289"
+  },
+  {
+    "id": "osm-node-2816986911",
+    "name": "Karmøy folkebibliotek, Skudesneshavn filial",
+    "lat": 59.150053,
+    "lon": 5.26168,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://karmoy.kommune.no/no/tema/kultur-idrett-og-fritid/bibliotek/skudeneshavn-filial"
+  },
+  {
+    "id": "osm-node-2860066346",
+    "name": "Ibestad folkebibliotek",
+    "lat": 68.7852647,
+    "lon": 17.1569887,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.ibestadbibliotek.no/"
+  },
+  {
+    "id": "osm-node-286302093",
+    "name": "Skien bibliotek",
+    "lat": 59.2075564,
+    "lon": 9.6058441,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/286302093"
+  },
+  {
+    "id": "osm-node-287776644",
+    "name": "Nesttun folkebibliotek",
+    "lat": 60.317694,
+    "lon": 5.353614,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://bergenbibliotek.no/om-biblioteket/filialer/fana"
+  },
+  {
+    "id": "osm-node-288239523",
+    "name": "Deichman Torshov",
+    "lat": 59.9381578,
+    "lon": 10.7683582,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.deichman.no/torshov"
+  },
+  {
+    "id": "osm-node-2908988053",
+    "name": "Ålesund bibliotek",
+    "lat": 62.4714315,
+    "lon": 6.1549854,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.alesund.folkebibl.no"
+  },
+  {
+    "id": "osm-node-293027340",
+    "name": "Bærum bibliotek, Sandvika",
+    "lat": 59.8922768,
+    "lon": 10.5253831,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.barum.folkebibl.no"
+  },
+  {
+    "id": "osm-node-2977709979",
+    "name": "Molde bibliotek",
+    "lat": 62.7361918,
+    "lon": 7.1556256,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.molde-bibliotek.no/"
+  },
+  {
+    "id": "osm-node-2977709980",
+    "name": "Stjørdal bibliotek",
+    "lat": 63.4698187,
+    "lon": 10.9275679,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://stjordalbibliotek.no/"
+  },
+  {
+    "id": "osm-node-2977709981",
+    "name": "Namsos Folkebibliotek",
+    "lat": 64.4680744,
+    "lon": 11.5023936,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://namsos.kommune.no/index.php?cat=105081"
+  },
+  {
+    "id": "osm-node-2982636591",
+    "name": "Sortland bibliotek",
+    "lat": 68.6968413,
+    "lon": 15.4167534,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/2982636591"
+  },
+  {
+    "id": "osm-node-2985325244",
+    "name": "Froland bibliotek",
+    "lat": 58.508764,
+    "lon": 8.6300346,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.froland.kommune.no/tjenester/bibliotek/"
+  },
+  {
+    "id": "osm-node-299612776",
+    "name": "Bergen offentlige bibliotek, Landås filial",
+    "lat": 60.3614688,
+    "lon": 5.3682153,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://bergenbibliotek.no/om-biblioteket/filialer/landaas"
+  },
+  {
+    "id": "osm-node-30239462",
+    "name": "Strilabiblioteket Knarvik",
+    "lat": 60.5478874,
+    "lon": 5.2858485,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.nordhordlandsbiblioteka.no/strilabiblioteket"
+  },
+  {
+    "id": "osm-node-3027752426",
+    "name": "Hamar bibliotek",
+    "lat": 60.795036,
+    "lon": 11.066864,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://hamar-bibliotek.no/"
+  },
+  {
+    "id": "osm-node-303238047",
+    "name": "Universitetsbiblioteket i Oslo - Bibliotek for medisin og helsefag",
+    "lat": 59.9479701,
+    "lon": 10.7155471,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/303238047"
+  },
+  {
+    "id": "osm-node-3034693122",
+    "name": "Furuset bibliotek og aktivitetshus - FUBIAK",
+    "lat": 59.941072,
+    "lon": 10.89738,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://deichman.no/bibliotekene/furuset"
+  },
+  {
+    "id": "osm-node-3048729009",
+    "name": "Kvinesdal bibliotek",
+    "lat": 58.3193325,
+    "lon": 6.9582883,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://kvinesdalbibliotek.no/"
+  },
+  {
+    "id": "osm-node-307904811",
+    "name": "Sandnes bibliotek",
+    "lat": 58.8512142,
+    "lon": 5.7396144,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://sandnesbibliotek.no/nb/bibliotek/sandnes-bibliotek"
+  },
+  {
+    "id": "osm-node-308128377",
+    "name": "Asker bibliotek",
+    "lat": 59.83614,
+    "lon": 10.4329029,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.askerbibliotek.no/"
+  },
+  {
+    "id": "osm-node-308705044",
+    "name": "Levanger bibliotek",
+    "lat": 63.7455648,
+    "lon": 11.3009429,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.levangerbibliotek.no"
+  },
+  {
+    "id": "osm-node-3114838063",
+    "name": "Fitjar folkebibliotek",
+    "lat": 59.9202566,
+    "lon": 5.3232342,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.fitjar.kommune.no/kultur/fitjar-folkebibliotek/"
+  },
+  {
+    "id": "osm-node-3123054183",
+    "name": "Eidsvoll bibliotek",
+    "lat": 60.3291499,
+    "lon": 11.2598952,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.eidsvoll.kommune.no/lokasjoner/eidsvoll-bibliotek/"
+  },
+  {
+    "id": "osm-node-3125221852",
+    "name": "Kristiansund bibliotek",
+    "lat": 63.110957,
+    "lon": 7.7282227,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/3125221852"
+  },
+  {
+    "id": "osm-node-3126953441",
+    "name": "Søgne bibliotek",
+    "lat": 58.096633,
+    "lon": 7.814976,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://sognebibliotek.no/"
+  },
+  {
+    "id": "osm-node-31876813",
+    "name": "Library",
+    "lat": 59.1286533,
+    "lon": 11.3537765,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/31876813"
+  },
+  {
+    "id": "osm-node-322592721",
+    "name": "Svelvik bibliotek",
+    "lat": 59.6068754,
+    "lon": 10.4029047,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.drammensbiblioteket.no/-/svelvik-bibliotek#/"
+  },
+  {
+    "id": "osm-node-337638209",
+    "name": "Ullensaker bibliotek, Jessheim",
+    "lat": 60.1433101,
+    "lon": 11.1750373,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.ullensaker.kommune.no/bibliotek"
+  },
+  {
+    "id": "osm-node-354927694",
+    "name": "Sølvberget Bibliotek",
+    "lat": 58.9714955,
+    "lon": 5.7338187,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://sølvberget.no"
+  },
+  {
+    "id": "osm-node-355545417",
+    "name": "Deichman Romsås",
+    "lat": 59.9636711,
+    "lon": 10.8925123,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.deichman.no/romsas"
+  },
+  {
+    "id": "osm-node-3647983113",
+    "name": "Sarpsborg bibliotek, Tune områdebibliotek",
+    "lat": 59.294347,
+    "lon": 11.0644242,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.sarpsborg.com/bibliotek"
+  },
+  {
+    "id": "osm-node-36486785",
+    "name": "Nes bibliotek",
+    "lat": 60.1226647,
+    "lon": 11.4692429,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.nes-ak.kommune.no/Virksomhet/Nes-bibliotek/"
+  },
+  {
+    "id": "osm-node-3652679719",
+    "name": "Tyrielden Eidskog bibliotek",
+    "lat": 59.9856271,
+    "lon": 12.1234575,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.eidskog.kommune.no/tjenester/kultur-og-fritid/biblioteket"
+  },
+  {
+    "id": "osm-node-3660807625",
+    "name": "Flora folkebibliotek",
+    "lat": 61.5999295,
+    "lon": 5.0375061,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.florasamfunnshus.no/"
+  },
+  {
+    "id": "osm-node-3682189250",
+    "name": "Gáivuona girjerádju - Kåfjord bibliotek, Valdogirjerájus",
+    "lat": 69.6052602,
+    "lon": 20.5342929,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.kafjord.kommune.no/bibliotek.433642.no.html"
+  },
+  {
+    "id": "osm-node-3685744840",
+    "name": "Kongsberg bibliotek",
+    "lat": 59.6646911,
+    "lon": 9.6443437,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.kongsberg.kommune.no/Tjenester/Kultur/Bibliotek/"
+  },
+  {
+    "id": "osm-node-370518747",
+    "name": "Trondheim folkebibliotek, Byåsen",
+    "lat": 63.394903,
+    "lon": 10.364812,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://tfb.no"
+  },
+  {
+    "id": "osm-node-370518749",
+    "name": "Trondheim folkebibliotek, Heimdal",
+    "lat": 63.3525929,
+    "lon": 10.3595727,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.tfb.no"
+  },
+  {
+    "id": "osm-node-3716011675",
+    "name": "Nordreisa bibliotek",
+    "lat": 69.7672879,
+    "lon": 21.015971,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.nordreisabibliotek.no/"
+  },
+  {
+    "id": "osm-node-3813270741",
+    "name": "Eide bibliotek",
+    "lat": 62.916869,
+    "lon": 7.447096,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.eide.kommune.no/artikkel.aspx?AId=336&MId1=9&MId2=215&back=1"
+  },
+  {
+    "id": "osm-node-3824297291",
+    "name": "Østre Toten folkebibliotek",
+    "lat": 60.677093,
+    "lon": 10.817416,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.ostre-toten.folkebibl.no/"
+  },
+  {
+    "id": "osm-node-3837011476",
+    "name": "Tolga bibliotek",
+    "lat": 62.4098995,
+    "lon": 10.9978509,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.tolga.kommune.no/2566.1178.Tolga-bibliotek.html"
+  },
+  {
+    "id": "osm-node-3843533952",
+    "name": "Fjell folkeboksamling",
+    "lat": 60.3577269,
+    "lon": 5.1255891,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/3843533952"
+  },
+  {
+    "id": "osm-node-3938248119",
+    "name": "Kronstad bibliotek",
+    "lat": 60.369074,
+    "lon": 5.351037,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.hvl.no/bibliotek/"
+  },
+  {
+    "id": "osm-node-3981233157",
+    "name": "Informatikkbiblioteket",
+    "lat": 59.943615,
+    "lon": 10.718416,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/3981233157"
+  },
+  {
+    "id": "osm-node-4036602949",
+    "name": "Lier bibliotek, Tranby avdeling",
+    "lat": 59.8111551,
+    "lon": 10.2679507,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://lierbib.no"
+  },
+  {
+    "id": "osm-node-4063122386",
+    "name": "Lierne folkebibliotek",
+    "lat": 64.4639303,
+    "lon": 13.5930785,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.lierne.kommune.no/"
+  },
+  {
+    "id": "osm-node-4101636303",
+    "name": "Ringsaker bibliotek, avd. Moelv",
+    "lat": 60.9304389,
+    "lon": 10.7022244,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.ringsaker.kommune.no/bibliotek.192879.no.html?signonOK"
+  },
+  {
+    "id": "osm-node-4235821508",
+    "name": "Fyllingsdalen bibliotek",
+    "lat": 60.348332,
+    "lon": 5.2915204,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://bergenbibliotek.no/bibliotekene/#fyllingsdalen-bibliotek"
+  },
+  {
+    "id": "osm-node-423867093",
+    "name": "Bø folkebibliotek",
+    "lat": 68.6190164,
+    "lon": 14.4550325,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.boe.kommune.no/side.asp?S=17&M=B%F8%20Folkebibliotek"
+  },
+  {
+    "id": "osm-node-4258830912",
+    "name": "Hadsel folkebibliotek",
+    "lat": 68.569372,
+    "lon": 14.9121796,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.hadsel.kommune.no/tjenestebeskrivelser/kultur-idrett-og-fritid/bibliotek/item/bibliotektjenester"
+  },
+  {
+    "id": "osm-node-4284825406",
+    "name": "Longyearbyen Folkebibliotek",
+    "lat": 78.2191487,
+    "lon": 15.6416572,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/4284825406"
+  },
+  {
+    "id": "osm-node-4311625795",
+    "name": "Vestre Slidre folkebibliotek",
+    "lat": 61.0887754,
+    "lon": 8.9822004,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.valdresbiblioteka.no/"
+  },
+  {
+    "id": "osm-node-4314501338",
+    "name": "Notodden bibliotek",
+    "lat": 59.5561179,
+    "lon": 9.2538502,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.notodden.kommune.no/bibliotek"
+  },
+  {
+    "id": "osm-node-4316754445",
+    "name": "Bygland folkebibliotek",
+    "lat": 58.8309076,
+    "lon": 7.7978826,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://setesdalsbiblioteka.no/"
+  },
+  {
+    "id": "osm-node-4321086848",
+    "name": "Bindal folkebibliotek",
+    "lat": 65.0877495,
+    "lon": 12.3775801,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.bindal.kommune.no/artikler/bindal-folkebibliotek/"
+  },
+  {
+    "id": "osm-node-4333072710",
+    "name": "Trondheim folkebibliotek, Risvollan",
+    "lat": 63.3911125,
+    "lon": 10.4297856,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.tfb.no"
+  },
+  {
+    "id": "osm-node-4347753900",
+    "name": "Austevoll folkebibliotek",
+    "lat": 60.0074468,
+    "lon": 5.2048808,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.austevollbibliotek.no/"
+  },
+  {
+    "id": "osm-node-4348503332",
+    "name": "Ski bibliotek og Ski lokalhistoriske arkiv",
+    "lat": 59.7184343,
+    "lon": 10.8378819,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.ski.kommune.no/biblioteket"
+  },
+  {
+    "id": "osm-node-440469471",
+    "name": "Realfagsbiblioteket",
+    "lat": 63.415975,
+    "lon": 10.406444,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.ntnu.no/ub/omubit/bibliotekene/real-1"
+  },
+  {
+    "id": "osm-node-440470961",
+    "name": "Teknologibiblioteket",
+    "lat": 63.419132,
+    "lon": 10.402356,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.ntnu.no/ub/omubit/bibliotekene/tekhb-1"
+  },
+  {
+    "id": "osm-node-440471450",
+    "name": "Arkitektur, bygg og design bibliotek",
+    "lat": 63.417087,
+    "lon": 10.404664,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/440471450"
+  },
+  {
+    "id": "osm-node-442026919",
+    "name": "Dragvoll bibliotek",
+    "lat": 63.408036,
+    "lon": 10.470264,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.ntnu.no/ub/omubit/bibliotekene/dragvoll-1"
+  },
+  {
+    "id": "osm-node-442027474",
+    "name": "Bibliotek for medisin og helse",
+    "lat": 63.420776,
+    "lon": 10.387775,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.ntnu.no/ub/fagside/medisin"
+  },
+  {
+    "id": "osm-node-442027884",
+    "name": "Kunstakademiets bibliotek",
+    "lat": 63.43393,
+    "lon": 10.414098,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/442027884"
+  },
+  {
+    "id": "osm-node-442029094",
+    "name": "Musikkbiblioteket",
+    "lat": 63.433358,
+    "lon": 10.403568,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/442029094"
+  },
+  {
+    "id": "osm-node-442029415",
+    "name": "Valgrinda bibliotek",
+    "lat": 63.408969,
+    "lon": 10.406698,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/442029415"
+  },
+  {
+    "id": "osm-node-442030018",
+    "name": "Psykiatrisk fagbibliotek",
+    "lat": 63.452872,
+    "lon": 10.45498,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/442030018"
+  },
+  {
+    "id": "osm-node-442032729",
+    "name": "Dorabiblioteket",
+    "lat": 63.439295,
+    "lon": 10.421209,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/442032729"
+  },
+  {
+    "id": "osm-node-4428272356",
+    "name": "Risør bibliotek",
+    "lat": 58.7194765,
+    "lon": 9.2288918,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://risorbibliotek.no/"
+  },
+  {
+    "id": "osm-node-443729213",
+    "name": "Kongsvinger bibliotek",
+    "lat": 60.1908742,
+    "lon": 12.0015573,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.kongsvingerbibliotek.no"
+  },
+  {
+    "id": "osm-node-451010729",
+    "name": "Sola bibliotek",
+    "lat": 58.888923,
+    "lon": 5.6502834,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://jaerbiblioteka.no/"
+  },
+  {
+    "id": "osm-node-454303467",
+    "name": "Deichman Bjerke",
+    "lat": 59.942466,
+    "lon": 10.811559,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.deichman.no/bjerke"
+  },
+  {
+    "id": "osm-node-454644188",
+    "name": "Trondheim folkebibliotek, Saupstad",
+    "lat": 63.3660714,
+    "lon": 10.348964,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.tfb.no"
+  },
+  {
+    "id": "osm-node-4547846809",
+    "name": "Larvik bibliotek avdeling Lardal",
+    "lat": 59.400917,
+    "lon": 9.964089,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://larvik.vestfoldbibliotekene.no/"
+  },
+  {
+    "id": "osm-node-4564629382",
+    "name": "Stranda folkebibliotek",
+    "lat": 62.3079642,
+    "lon": 6.9460265,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.stranda.kommune.no/artikkel.aspx?MId1=265&AId=23"
+  },
+  {
+    "id": "osm-node-4574039805",
+    "name": "Bykle folkebibliotek, Hovden filial",
+    "lat": 59.56348,
+    "lon": 7.3550195,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://setesdalsbiblioteka.no/"
+  },
+  {
+    "id": "osm-node-4579673698",
+    "name": "Våler bibliotek",
+    "lat": 59.489409,
+    "lon": 10.8573495,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.valer.kommune.no/kultur-idrett-og-fritid/biblioteket"
+  },
+  {
+    "id": "osm-node-459432534",
+    "name": "Universitetsbibliotek",
+    "lat": 58.9382424,
+    "lon": 5.6949131,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/459432534"
+  },
+  {
+    "id": "osm-node-4642670903",
+    "name": "Skien bibliotek, Gulset avdeling",
+    "lat": 59.21563,
+    "lon": 9.565169,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://skienbibliotek.no/?page_id=6090"
+  },
+  {
+    "id": "osm-node-4755942114",
+    "name": "Karmøy folkebibliotek, Norheim filial",
+    "lat": 59.3793402,
+    "lon": 5.320896,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://karmoy.kommune.no/no/tema/kultur-idrett-og-fritid/bibliotek/norheim-filial"
+  },
+  {
+    "id": "osm-node-4795712603",
+    "name": "Ryfylkebiblioteket Suldal",
+    "lat": 59.4835793,
+    "lon": 6.2528334,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.suldal.kommune.no/artikkel.aspx?MId1=701&AId=124&eid=91"
+  },
+  {
+    "id": "osm-node-4797132137",
+    "name": "Øygarden bibliotek",
+    "lat": 60.5132214,
+    "lon": 4.9088153,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.biblioteka.ivest.no/"
+  },
+  {
+    "id": "osm-node-481358769",
+    "name": "Tysvær bibliotek",
+    "lat": 59.4236568,
+    "lon": 5.4441037,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://tysverbibliotek.no/"
+  },
+  {
+    "id": "osm-node-482737291",
+    "name": "Kristiansand folkebibliotek, Vågsbygd bibliotek",
+    "lat": 58.1255315,
+    "lon": 7.953128,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://krsbib.no/"
+  },
+  {
+    "id": "osm-node-482992242",
+    "name": "Råde bibliotek",
+    "lat": 59.3521157,
+    "lon": 10.8708985,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://radebibliotek.no/"
+  },
+  {
+    "id": "osm-node-497709193",
+    "name": "Farsund bibliotek",
+    "lat": 58.0936416,
+    "lon": 6.8044037,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.farsund.kommune.no/farsund-bibliotek.504048.no.html"
+  },
+  {
+    "id": "osm-node-4992437708",
+    "name": "Luster bibliotek",
+    "lat": 61.4034273,
+    "lon": 7.2956204,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.luster.kommune.no/framside.175817.nn.html"
+  },
+  {
+    "id": "osm-node-508454864",
+    "name": "Library",
+    "lat": 62.9200668,
+    "lon": 8.4603101,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/508454864"
+  },
+  {
+    "id": "osm-node-516438828",
+    "name": "Kristiansand folkebibliotek, Hellemyr bibliotek",
+    "lat": 58.147047,
+    "lon": 7.934881,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://krsbib.no/"
+  },
+  {
+    "id": "osm-node-5167118148",
+    "name": "Deichman Nydalen",
+    "lat": 59.9502876,
+    "lon": 10.7625645,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.deichman.no/nydalen"
+  },
+  {
+    "id": "osm-node-5200396125",
+    "name": "Sørum bibliotek, Sørumsand",
+    "lat": 59.9866602,
+    "lon": 11.2466284,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://bibliotekrom.no/sorum/"
+  },
+  {
+    "id": "osm-node-5238589921",
+    "name": "Frogn bibliotek",
+    "lat": 59.6634678,
+    "lon": 10.6289165,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.frogn.kommune.no/frognbibliotek"
+  },
+  {
+    "id": "osm-node-5336414419",
+    "name": "Deichman Stovner",
+    "lat": 59.961621,
+    "lon": 10.9259,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.deichman.no/stovner"
+  },
+  {
+    "id": "osm-node-543380970",
+    "name": "Universitetsbibliotek",
+    "lat": 63.4140031,
+    "lon": 10.4339507,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/543380970"
+  },
+  {
+    "id": "osm-node-5442663422",
+    "name": "Gjemnes folkebibliotek",
+    "lat": 62.8925833,
+    "lon": 7.6789813,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/5442663422"
+  },
+  {
+    "id": "osm-node-5569777140",
+    "name": "Library",
+    "lat": 60.3408532,
+    "lon": 5.2251396,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/5569777140"
+  },
+  {
+    "id": "osm-node-5605011348",
+    "name": "Sokndal folkebibliotek",
+    "lat": 58.3438633,
+    "lon": 6.2958726,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://sokndalfolkebibliotek.no/"
+  },
+  {
+    "id": "osm-node-5648161228",
+    "name": "Oppegård bibliotek",
+    "lat": 59.8101017,
+    "lon": 10.8007249,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.oppegard.folkebibl.no/"
+  },
+  {
+    "id": "osm-node-565183435",
+    "name": "Finnøy Bibliotek",
+    "lat": 59.1727064,
+    "lon": 5.875932,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/565183435"
+  },
+  {
+    "id": "osm-node-5687966824",
+    "name": "Eidsberg bibliotek",
+    "lat": 59.552916,
+    "lon": 11.3309348,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.eidsberg.folkebibl.no/"
+  },
+  {
+    "id": "osm-node-5701963667",
+    "name": "Nittedal bibliotek",
+    "lat": 60.0439155,
+    "lon": 10.8810943,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.bibliotekrom.no/nittedal/"
+  },
+  {
+    "id": "osm-node-571732525",
+    "name": "Stavanger bibliotek og kulturhus, Madla bibliotekfilial",
+    "lat": 58.9526077,
+    "lon": 5.6807031,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.stavanger-kulturhus.no/"
+  },
+  {
+    "id": "osm-node-5720750599",
+    "name": "Selbu folkebibliotek",
+    "lat": 63.2181316,
+    "lon": 11.039217,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.selbu.kommune.no/enheter/bibliotek/"
+  },
+  {
+    "id": "osm-node-5984223568",
+    "name": "Vestby bibliotek, Son",
+    "lat": 59.523519,
+    "lon": 10.686018,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.vestby.kommune.no/biblioteket.80639.no.html"
+  },
+  {
+    "id": "osm-node-601142327",
+    "name": "Stord folkebibliotek",
+    "lat": 59.7783142,
+    "lon": 5.4973605,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.stord.kommune.no/Stord-Folkebibliotek/"
+  },
+  {
+    "id": "osm-node-6027183014",
+    "name": "Stryn bibliotek",
+    "lat": 61.9034571,
+    "lon": 6.7150502,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://strynbibliotek.no"
+  },
+  {
+    "id": "osm-node-6039022210",
+    "name": "Lillehammer bibliotek",
+    "lat": 61.1161144,
+    "lon": 10.4632585,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.lillehammerbibliotek.no/"
+  },
+  {
+    "id": "osm-node-6039044533",
+    "name": "Deichman Bjørnholt",
+    "lat": 59.8344276,
+    "lon": 10.8354109,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.deichman.no/bjornholt"
+  },
+  {
+    "id": "osm-node-6039044535",
+    "name": "Deichman Smestad",
+    "lat": 59.9325072,
+    "lon": 10.6827315,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.deichman.no/smestad"
+  },
+  {
+    "id": "osm-node-6039044536",
+    "name": "Deichman Røa",
+    "lat": 59.946444,
+    "lon": 10.6436558,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.deichman.no/roa"
+  },
+  {
+    "id": "osm-node-6039044537",
+    "name": "Deichman Rommen",
+    "lat": 59.9673978,
+    "lon": 10.9142652,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.deichman.no/bibliotekene/rommen"
+  },
+  {
+    "id": "osm-node-6039049485",
+    "name": "Sel bibliotek, Otta",
+    "lat": 61.7721923,
+    "lon": 9.5395043,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://sel.folkebibl.no"
+  },
+  {
+    "id": "osm-node-6039286506",
+    "name": "Kulturbadet bibliotek",
+    "lat": 66.0234238,
+    "lon": 12.639057,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://kulturbadet.no/bibliotek/"
+  },
+  {
+    "id": "osm-node-6149209898",
+    "name": "NAV Fjaler;Fjaler folkebibliotek",
+    "lat": 61.3639301,
+    "lon": 5.3981651,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.fjaler.kommune.no/innbyggjar/kultur-idrett-og-fritid/fjaler-folkebibliotek/"
+  },
+  {
+    "id": "osm-node-6152562897",
+    "name": "Trondheim folkebibliotek, Moholt",
+    "lat": 63.411225,
+    "lon": 10.432756,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://biblioteket.trondheim.kommune.no/innhold/om-biblioteket/avdelinger/moholtbibliotek/"
+  },
+  {
+    "id": "osm-node-619245239",
+    "name": "Stange bibliotek",
+    "lat": 60.717084,
+    "lon": 11.1937202,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.stange.kommune.no/stange/www/site/kultur_og_fritid/biblioteket/"
+  },
+  {
+    "id": "osm-node-6244921032",
+    "name": "Porsanggu girjerájus - Porsanger bibliotek - Porsangin biblioteekki",
+    "lat": 70.0523759,
+    "lon": 24.9559144,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://porsanger.arena.axiell.com/"
+  },
+  {
+    "id": "osm-node-6244921033",
+    "name": "Akkarfjord bibliotek i butikk",
+    "lat": 70.7948839,
+    "lon": 23.4094766,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/6244921033"
+  },
+  {
+    "id": "osm-node-6244921034",
+    "name": "Lebesby filial",
+    "lat": 70.5736622,
+    "lon": 26.9981943,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.lebesby.kommune.no/folkebiblioteket.86726.no.html"
+  },
+  {
+    "id": "osm-node-6244921035",
+    "name": "Måsøy folkebibliotek",
+    "lat": 70.9960696,
+    "lon": 24.6662586,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.masoy.kommune.no/folkebiblioteket.15442.no.html"
+  },
+  {
+    "id": "osm-node-6244921036",
+    "name": "Kokelv bibliotek",
+    "lat": 70.6121697,
+    "lon": 24.64025,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.kvalsund.kommune.no/cparticle208933-27600.html"
+  },
+  {
+    "id": "osm-node-6244921037",
+    "name": "Unjárgga girjerájus - Nesseby bibliotek, Valdogirjerajus",
+    "lat": 70.1638375,
+    "lon": 28.5708727,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.nesseby.kommune.no/index.php?id=249663"
+  },
+  {
+    "id": "osm-node-6244921038",
+    "name": "Kårhamn bibliotek i butikk",
+    "lat": 70.5465148,
+    "lon": 23.1570542,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/6244921038"
+  },
+  {
+    "id": "osm-node-6244921039",
+    "name": "Veidnes utlånsstasjon",
+    "lat": 70.6567293,
+    "lon": 26.5893227,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.lebesby.kommune.no/folkebiblioteket.86726.no.html"
+  },
+  {
+    "id": "osm-node-6244921040",
+    "name": "Berlevåg folkebibliotek",
+    "lat": 70.8608262,
+    "lon": 29.0908187,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.berlevag.kommune.no/berlevaag-folkebibliotek.4888626-31665.html"
+  },
+  {
+    "id": "osm-node-6244921041",
+    "name": "Mehamn bibliotek",
+    "lat": 71.0353249,
+    "lon": 27.8503779,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/6244921041"
+  },
+  {
+    "id": "osm-node-6244921043",
+    "name": "Lebesby bibliotek",
+    "lat": 70.9452444,
+    "lon": 27.3503064,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.lebesby.kommune.no/folkebiblioteket.86726.no.html"
+  },
+  {
+    "id": "osm-node-6244921044",
+    "name": "Nordkapp bibliotek",
+    "lat": 70.9783212,
+    "lon": 25.9773877,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://websok.mikromarc.no/Mikromarc3/web/default.aspx?Unit=6465&db=nordkapp-fb"
+  },
+  {
+    "id": "osm-node-6244921045",
+    "name": "Kvalsund folkebibliotek",
+    "lat": 70.4988414,
+    "lon": 23.9735018,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.kvalsund.kommune.no/cparticle208933-27600.html"
+  },
+  {
+    "id": "osm-node-6244921046",
+    "name": "Hasvik folkebibliotek",
+    "lat": 70.5916476,
+    "lon": 22.3027318,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/6244921046"
+  },
+  {
+    "id": "osm-node-6244921047",
+    "name": "Loppa folkebibliotek",
+    "lat": 70.2471445,
+    "lon": 22.3480531,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.loppa.kommune.no/loppa-folkebibliotek.111709.no.html"
+  },
+  {
+    "id": "osm-node-6244921048",
+    "name": "Båtsfjord bibliotek",
+    "lat": 70.63439,
+    "lon": 29.7197516,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.fm.fylkesbibl.no/web/index.php/folkebibliotek/57-folkebibliotek/12-batsfjord-bibliotek"
+  },
+  {
+    "id": "osm-node-6244921049",
+    "name": "Guovdageainnu álbmotgirjerájus - Kautokeino folkebibliotek",
+    "lat": 69.018754,
+    "lon": 23.0572535,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.fm.fylkesbibl.no/web/index.php/folkebibliotek/57-folkebibliotek/19-kautokeino-bibliotek"
+  },
+  {
+    "id": "osm-node-6244984942",
+    "name": "Torsken folkebibliotek, Medby filial",
+    "lat": 69.2814341,
+    "lon": 17.0479297,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.torsken.kommune.no/torsken-folkebibliotek.242314-36676.html"
+  },
+  {
+    "id": "osm-node-6244984943",
+    "name": "Karlsøy folkebibliotek",
+    "lat": 69.9681068,
+    "lon": 19.6264985,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.karlsoybibliotek.no/"
+  },
+  {
+    "id": "osm-node-6244984944",
+    "name": "Torsken folkebibliotek",
+    "lat": 69.3618161,
+    "lon": 17.054002,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.torskenbibliotek.no/"
+  },
+  {
+    "id": "osm-node-6244984945",
+    "name": "Balsfjord folkebibliotek",
+    "lat": 69.2393734,
+    "lon": 19.2288706,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.balsfjord.kommune.no/index.php?cat=58544"
+  },
+  {
+    "id": "osm-node-6244984946",
+    "name": "Skånland folkebibliotek, Grov filial",
+    "lat": 68.6783914,
+    "lon": 17.1217626,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.skanland.kommune.no/index.php?option=com_content&view=article&id=2064&Itemid=1213"
+  },
+  {
+    "id": "osm-node-6244984947",
+    "name": "Lenvik bibliotek, Rossfjord filial",
+    "lat": 69.3657174,
+    "lon": 18.3272514,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://websok.mikromarc.no/Mikromarc3/web/page.aspx?id=about&Unit=6471&db=troms-felles"
+  },
+  {
+    "id": "osm-node-6244984948",
+    "name": "Lenvik bibliotek, Gibostad filial",
+    "lat": 69.5440766,
+    "lon": 17.6595485,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.lenvik.kommune.no/bibliotek"
+  },
+  {
+    "id": "osm-node-6244984949",
+    "name": "Skånland folkebibliotek",
+    "lat": 68.5834203,
+    "lon": 16.5729869,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.skanlandbibliotek.no/"
+  },
+  {
+    "id": "osm-node-6244984950",
+    "name": "Sørreisa folkebibliotek",
+    "lat": 69.1457359,
+    "lon": 18.1553229,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.sorreisa.kommune.no/biblioteket.182681.no.html"
+  },
+  {
+    "id": "osm-node-6244984951",
+    "name": "Kvæfjord bibliotek, Flesnes filial",
+    "lat": 68.67513,
+    "lon": 15.9160845,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.kvafjord.kommune.no/"
+  },
+  {
+    "id": "osm-node-6244984952",
+    "name": "Kvænangen folkebibliotek",
+    "lat": 69.9385508,
+    "lon": 22.0489001,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.kvanangenbibliotek.no/"
+  },
+  {
+    "id": "osm-node-6244984953",
+    "name": "Målselv folkebibliotek, Øverbygd bibliotek",
+    "lat": 69.0172573,
+    "lon": 19.4128883,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/6244984953"
+  },
+  {
+    "id": "osm-node-6244984954",
+    "name": "Kvæfjord bibliotek",
+    "lat": 68.7704833,
+    "lon": 16.1871197,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.kvafjordbibliotek.no/"
+  },
+  {
+    "id": "osm-node-6244984955",
+    "name": "Målselv folkebibliotek, Høgtun bibliotek",
+    "lat": 69.1458128,
+    "lon": 18.6075728,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.hogtun.vgs.no"
+  },
+  {
+    "id": "osm-node-6244984956",
+    "name": "Tromsø bibliotek, Lakselvbukt filial",
+    "lat": 69.377289,
+    "lon": 19.367516,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.tromso.kommune.no/distriktsfilialer.4550806-122942.html"
+  },
+  {
+    "id": "osm-node-6244984957",
+    "name": "Tromsø bibliotek, Brensholmen filial",
+    "lat": 69.5988407,
+    "lon": 18.0481235,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/6244984957"
+  },
+  {
+    "id": "osm-node-6244984958",
+    "name": "Skjervøy folkebibliotek",
+    "lat": 70.0362773,
+    "lon": 20.9803666,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.skjervoy.com/index.php?cat=5817a.no.html"
+  },
+  {
+    "id": "osm-node-6244984959",
+    "name": "Salangen bibliotek",
+    "lat": 68.8743013,
+    "lon": 17.8405263,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.salangenbibliotek.no/"
+  },
+  {
+    "id": "osm-node-6244984960",
+    "name": "Tromsø bibliotek, Kroken filial",
+    "lat": 69.682227,
+    "lon": 19.0696581,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.tromso.kommune.no/kroken-bibliotek.4545851-121396.html"
+  },
+  {
+    "id": "osm-node-6244984961",
+    "name": "Gáivuona girjerádju, Olmmáivákki ossodat - Kåfjord bibliotek, Manndalen filial",
+    "lat": 69.5259228,
+    "lon": 20.5255963,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.kafjord.kommune.no/bibliotek.433642.no.html"
+  },
+  {
+    "id": "osm-node-6244984962",
+    "name": "Bardu folkebibliotek",
+    "lat": 68.860644,
+    "lon": 18.3504657,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.bardubibliotek.no/"
+  },
+  {
+    "id": "osm-node-6244984963",
+    "name": "Storfjord folkebibliotek, Skibotn filial",
+    "lat": 69.3865139,
+    "lon": 20.277477,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.storfjord.kommune.no/storfjord-folkebibliotek.108726.no.html"
+  },
+  {
+    "id": "osm-node-6244984964",
+    "name": "Loabága girjerádju - Lavangen bibliotek",
+    "lat": 68.7471754,
+    "lon": 17.8131572,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.lavangenbibliotek.no/"
+  },
+  {
+    "id": "osm-node-6244984965",
+    "name": "Harstad bibliotek",
+    "lat": 68.8043818,
+    "lon": 16.5489594,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.harstadbibliotek.no/"
+  },
+  {
+    "id": "osm-node-6244984966",
+    "name": "Gratangen bibliotek",
+    "lat": 68.6725857,
+    "lon": 17.6946846,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.gratangenbibliotek.no/"
+  },
+  {
+    "id": "osm-node-6244984967",
+    "name": "Sámi girjerádjubálvalus Romssas - Samisk bibliotektjeneste i Troms",
+    "lat": 69.525335,
+    "lon": 20.5291887,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://samiskbibliotektjeneste.wordpress.com/"
+  },
+  {
+    "id": "osm-node-6245527892",
+    "name": "Rødøy folkebibliotek, Rødøy filial",
+    "lat": 66.6612672,
+    "lon": 13.0759138,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://rodoy.nordbib.no"
+  },
+  {
+    "id": "osm-node-6245527893",
+    "name": "Rødøy folkebibliotek",
+    "lat": 66.6979359,
+    "lon": 13.4179921,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.rodoy.kommune.no/artikkel.aspx?AId=279&MId1=15&MId2=33&MId3=63"
+  },
+  {
+    "id": "osm-node-6245527894",
+    "name": "Lurøy bibliotek, Sleneset filial",
+    "lat": 66.3633331,
+    "lon": 12.5944767,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/6245527894"
+  },
+  {
+    "id": "osm-node-6245527895",
+    "name": "Lurøy bibliotek, Kvarøy filial",
+    "lat": 66.4858328,
+    "lon": 12.9603776,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/6245527895"
+  },
+  {
+    "id": "osm-node-6245527896",
+    "name": "Lurøy bibliotek, Lovund filial",
+    "lat": 66.3665407,
+    "lon": 12.3582455,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/6245527896"
+  },
+  {
+    "id": "osm-node-6245527897",
+    "name": "Vågan bibliotek",
+    "lat": 68.236404,
+    "lon": 14.565172,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/6245527897"
+  },
+  {
+    "id": "osm-node-6245527898",
+    "name": "Lurøy bibliotek",
+    "lat": 66.3927157,
+    "lon": 12.8295072,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.luroy.folkebibl.no/"
+  },
+  {
+    "id": "osm-node-6245527899",
+    "name": "Træna folkebibliotek, Selvær bibliotek",
+    "lat": 66.5877763,
+    "lon": 12.237949,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/6245527899"
+  },
+  {
+    "id": "osm-node-6245527900",
+    "name": "Værøy folkebibliotek",
+    "lat": 67.663805,
+    "lon": 12.6934253,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://varoy.nordbib.no"
+  },
+  {
+    "id": "osm-node-6245527901",
+    "name": "Rana bibliotek",
+    "lat": 66.3113493,
+    "lon": 14.1385585,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.rana.kommune.no/Kultur_idrett_fritid/bibliotek/Sider/side.aspx"
+  },
+  {
+    "id": "osm-node-6245527902",
+    "name": "Hemnes folkebibliotek, avd. Hemnesberget",
+    "lat": 66.2259653,
+    "lon": 13.6031398,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://hemnes.nordbib.no/"
+  },
+  {
+    "id": "osm-node-6245527903",
+    "name": "Røst folkebibliotek",
+    "lat": 67.5172522,
+    "lon": 12.115606,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/6245527903"
+  },
+  {
+    "id": "osm-node-6245527904",
+    "name": "Hemnes folkebibliotek, avd. Korgen",
+    "lat": 66.0761387,
+    "lon": 13.8216974,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://hemnes.nordbib.no/"
+  },
+  {
+    "id": "osm-node-6245527905",
+    "name": "Nesna folkebibliotek",
+    "lat": 66.19819,
+    "lon": 13.0225428,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.nesna.folkebibl.no"
+  },
+  {
+    "id": "osm-node-6245527906",
+    "name": "Dønna bibliotek, avdeling Løkta",
+    "lat": 66.1491973,
+    "lon": 12.7292647,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/6245527906"
+  },
+  {
+    "id": "osm-node-6245527907",
+    "name": "Dønna bibliotek",
+    "lat": 66.1080295,
+    "lon": 12.4913373,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/6245527907"
+  },
+  {
+    "id": "osm-node-6245527908",
+    "name": "Tjeldsund folkebibliotek, Hinnøy filial",
+    "lat": 68.5652664,
+    "lon": 16.2757132,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://tjeldsund.norbib.no"
+  },
+  {
+    "id": "osm-node-6245527909",
+    "name": "Tjeldsund folkebibliotek",
+    "lat": 68.4917179,
+    "lon": 16.5173966,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://tjeldsund.nordbib.no"
+  },
+  {
+    "id": "osm-node-6245527910",
+    "name": "Hattfjelldal bibliotek",
+    "lat": 65.598054,
+    "lon": 14.0009607,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://hattfjelldal.kommune.no/bibliotek/"
+  },
+  {
+    "id": "osm-node-6245527911",
+    "name": "Lødingen folkebibliotek, Vestbygd filial",
+    "lat": 68.3476218,
+    "lon": 15.5080163,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://lodingen.nordbib.no/"
+  },
+  {
+    "id": "osm-node-6245527912",
+    "name": "Grane folkebibliotek",
+    "lat": 65.5382096,
+    "lon": 13.3851166,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://biblioteket.grane.kommune.no"
+  },
+  {
+    "id": "osm-node-6245527913",
+    "name": "Lødingen folkebibliotek",
+    "lat": 68.40952,
+    "lon": 15.986121,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.lodingen.kommune.no/bibliotek/"
+  },
+  {
+    "id": "osm-node-6245527914",
+    "name": "Vefsn bibliotek",
+    "lat": 65.8398176,
+    "lon": 13.1894725,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vefsn.kommune.no/"
+  },
+  {
+    "id": "osm-node-6245527915",
+    "name": "Divtasvuon almmukgirjjevuorkká - Tysfjord folkebibliotek, Ájluokta åssudahka - Drag filial",
+    "lat": 68.039987,
+    "lon": 16.0777077,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.tysfjord.kommune.no/drag-filial.96522.no.html"
+  },
+  {
+    "id": "osm-node-6245527916",
+    "name": "Leirfjord bibliotek",
+    "lat": 66.0641104,
+    "lon": 12.9379436,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.leirfjord.kommune.no/"
+  },
+  {
+    "id": "osm-node-6245527917",
+    "name": "Tysfjord folkebibliotek - Divtasvuona álmmukgirjjevuorkká, - Oajvvegirjjevuorkká",
+    "lat": 68.0968318,
+    "lon": 16.3747312,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.tysfjord.kommune.no/folkebiblioteket.96517.no.html"
+  },
+  {
+    "id": "osm-node-6245527918",
+    "name": "Hamarøy bibliotek",
+    "lat": 68.0838811,
+    "lon": 15.6238066,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.hamaroy.kommune.no/bibliotek"
+  },
+  {
+    "id": "osm-node-6245527919",
+    "name": "Steigen folkebibliotek",
+    "lat": 67.7745217,
+    "lon": 15.014737,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.steigen.kommune.no/index.php?cat=111184"
+  },
+  {
+    "id": "osm-node-6245527920",
+    "name": "Herøy bibliotek",
+    "lat": 65.9769513,
+    "lon": 12.2753838,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.heroy-no.kommune.no/bibliotek"
+  },
+  {
+    "id": "osm-node-6245527921",
+    "name": "Sørfold folkebibliotek, Røsvik filial",
+    "lat": 67.4770751,
+    "lon": 15.4598222,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/6245527921"
+  },
+  {
+    "id": "osm-node-6245527922",
+    "name": "Vevelstad folkebibliotek",
+    "lat": 65.6998233,
+    "lon": 12.4388917,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://vevelstadbibliotek.no/"
+  },
+  {
+    "id": "osm-node-6245527923",
+    "name": "Sørfold folkebibliotek, Leirfjorden filial",
+    "lat": 67.5844826,
+    "lon": 15.7329503,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/6245527923"
+  },
+  {
+    "id": "osm-node-6245527924",
+    "name": "Sørfold folkebibliotek",
+    "lat": 67.3483188,
+    "lon": 15.5949046,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://sorfold.nordbib.no"
+  },
+  {
+    "id": "osm-node-6245527925",
+    "name": "Brønnøy bibliotek Velfjord",
+    "lat": 65.4099499,
+    "lon": 12.5437132,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://websok.mikromarc.no/Mikromarc3/web/open.aspx?Unit=6465&db=bronnoy-fb"
+  },
+  {
+    "id": "osm-node-6245527926",
+    "name": "Fauske bibliotek, avd. Valnesfjord",
+    "lat": 67.3003192,
+    "lon": 15.1861957,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.fauske.kommune.no/informasjon-om-fauske-bibliotek.4614379-130917.html"
+  },
+  {
+    "id": "osm-node-6245527927",
+    "name": "Fauske bibliotek, avd. Sulitjelma",
+    "lat": 67.1342432,
+    "lon": 16.069332,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.fauske.kommune.no/informasjon-om-fauske-bibliotek.4614379-130917.html"
+  },
+  {
+    "id": "osm-node-6245527928",
+    "name": "Sømna folkebibliotek",
+    "lat": 65.3104457,
+    "lon": 12.1651259,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.somna.kommune.no/soemna-folkebibiliotek/"
+  },
+  {
+    "id": "osm-node-6245527929",
+    "name": "Fauske bibliotek",
+    "lat": 67.2607105,
+    "lon": 15.3926787,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.fauske.kommune.no/informasjon-om-fauske-bibliotek.4614379-130917.html"
+  },
+  {
+    "id": "osm-node-6245527930",
+    "name": "Saltdal bibliotek",
+    "lat": 67.1029715,
+    "lon": 15.3929548,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.saltdal.kommune.no/bibliotek.html"
+  },
+  {
+    "id": "osm-node-6245527931",
+    "name": "Vefsn bibliotek, Drevja filial",
+    "lat": 65.9769617,
+    "lon": 13.2161258,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vefsn.kommune.no/"
+  },
+  {
+    "id": "osm-node-6245527932",
+    "name": "Gildeskål folkebibliotek",
+    "lat": 67.0363986,
+    "lon": 14.0338662,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://gildeskal.nordbib.no"
+  },
+  {
+    "id": "osm-node-6245527933",
+    "name": "Moskenes folkebibliotek",
+    "lat": 67.8903763,
+    "lon": 13.0169275,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/6245527933"
+  },
+  {
+    "id": "osm-node-6245527934",
+    "name": "Meløy bibliotek",
+    "lat": 66.8745739,
+    "lon": 13.7048673,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.meloy.kommune.no/no/Virksomheter1/Enhet-Kultur/Vare-virksomheter/Meloy-Bibliotek/"
+  },
+  {
+    "id": "osm-node-6245527935",
+    "name": "Andøy folkebibliotek",
+    "lat": 69.3170133,
+    "lon": 16.1291552,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.andoy.kommune.no/"
+  },
+  {
+    "id": "osm-node-6247231961",
+    "name": "Leka folkebibliotek",
+    "lat": 65.0946045,
+    "lon": 11.706302,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/6247231961"
+  },
+  {
+    "id": "osm-node-6247231962",
+    "name": "Trondheim folkebibliotek, Kulturtribunen på Ranheim",
+    "lat": 63.4282754,
+    "lon": 10.5252445,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://biblioteket.trondheim.kommune.no/"
+  },
+  {
+    "id": "osm-node-6247231963",
+    "name": "Nærøy folkebibliotek",
+    "lat": 64.8647917,
+    "lon": 11.6009319,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/6247231963"
+  },
+  {
+    "id": "osm-node-6247231964",
+    "name": "Vikna folkebibliotek, Austafjord filial",
+    "lat": 64.9176418,
+    "lon": 10.9424813,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.vikna.kommune.no/"
+  },
+  {
+    "id": "osm-node-6247231965",
+    "name": "Flatanger folkebibliotek",
+    "lat": 64.4979371,
+    "lon": 10.9057986,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.flatanger.kommune.no/folkebibliotek/"
+  },
+  {
+    "id": "osm-node-6247231966",
+    "name": "Melhus bibliotek",
+    "lat": 63.2875716,
+    "lon": 10.276536,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/6247231966"
+  },
+  {
+    "id": "osm-node-6247231967",
+    "name": "Fosnes folkebibliotek, Salsnes avd.",
+    "lat": 64.6972083,
+    "lon": 11.4549034,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://fosbib.tripod.com/"
+  },
+  {
+    "id": "osm-node-6247231968",
+    "name": "Fosnes folkebibliotek",
+    "lat": 64.6514252,
+    "lon": 11.2660541,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.fosnes.kommune.no/bibliotek/"
+  },
+  {
+    "id": "osm-node-6247231969",
+    "name": "Horisonten bibliotek & kultursenter",
+    "lat": 64.4989376,
+    "lon": 11.9616314,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/6247231969"
+  },
+  {
+    "id": "osm-node-6247231970",
+    "name": "Høylandet folkebibliotek",
+    "lat": 64.6253661,
+    "lon": 12.2910112,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.hoylandet.kommune.no/"
+  },
+  {
+    "id": "osm-node-6247231971",
+    "name": "Midtre Gauldal folkebibliotek",
+    "lat": 63.0360581,
+    "lon": 10.2877574,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.mgk.no/Modules/Default.aspx"
+  },
+  {
+    "id": "osm-node-6247231972",
+    "name": "Grong folkebibliotek, Harran bok i butikk",
+    "lat": 64.5610789,
+    "lon": 12.4931951,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/6247231972"
+  },
+  {
+    "id": "osm-node-6247231973",
+    "name": "Holtålen folkebibliotek",
+    "lat": 62.8431493,
+    "lon": 11.2928323,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.holtalen.kommune.no/Tjenester/Bibliotek/"
+  },
+  {
+    "id": "osm-node-6247231974",
+    "name": "Røros folkebibliotek, avd. Brekken",
+    "lat": 62.6493164,
+    "lon": 11.8646196,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.roros.kommune.no/Tjenester/Kultur-og-fritid/Bibliotek/"
+  },
+  {
+    "id": "osm-node-6247231975",
+    "name": "Namsskogan folkebibliotek",
+    "lat": 64.9284391,
+    "lon": 13.1587247,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.namsskogan.kommune.no/"
+  },
+  {
+    "id": "osm-node-6247231976",
+    "name": "Røros bibliotek",
+    "lat": 62.5767402,
+    "lon": 11.3856803,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.roros.kommune.no/Tjenester/Kultur-og-fritid/Bibliotek/"
+  },
+  {
+    "id": "osm-node-6247231977",
+    "name": "Røyrvik bibliotek",
+    "lat": 64.8836699,
+    "lon": 13.5631689,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.royrvik.kommune.no/"
+  },
+  {
+    "id": "osm-node-6247231978",
+    "name": "Orkdal folkebibliotek, Svorkmo filial",
+    "lat": 63.1713346,
+    "lon": 9.7438136,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.orkdal.kommune.no/SitePageView.aspx?sitePageID=1031"
+  },
+  {
+    "id": "osm-node-6247231979",
+    "name": "Lierne folkebibliotek, Sørli avd.",
+    "lat": 64.2231412,
+    "lon": 13.8345421,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.lierne.kommune.no/kultur-og-fritid/bibliotek/"
+  },
+  {
+    "id": "osm-node-6247231980",
+    "name": "Meldal folkebibliotek",
+    "lat": 63.1261092,
+    "lon": 9.7051048,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/6247231980"
+  },
+  {
+    "id": "osm-node-6247231981",
+    "name": "Rennebu folkebibliotek",
+    "lat": 62.8286643,
+    "lon": 10.0076363,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.rennebu.kommune.no/nor/Selvbetjening/Lokale-tema/Kultur-og-fritid/Bibliotek"
+  },
+  {
+    "id": "osm-node-6247231982",
+    "name": "Snåsa bibliotek",
+    "lat": 64.2466804,
+    "lon": 12.3832972,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://fylkesbiblioteket.ntfk.no/wshow.aspx?a=951"
+  },
+  {
+    "id": "osm-node-6247231983",
+    "name": "Oppdal bibliotek",
+    "lat": 62.5957812,
+    "lon": 9.6874111,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://biblioteket.oppdal.kommune.no/"
+  },
+  {
+    "id": "osm-node-6247231984",
+    "name": "Inderøy bibliotek",
+    "lat": 63.8776517,
+    "lon": 11.2865367,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.inderoy.kommune.no/biblioteket.108092.no.html"
+  },
+  {
+    "id": "osm-node-6247232585",
+    "name": "Roan folkebibliotek",
+    "lat": 64.1729863,
+    "lon": 10.2245417,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.roan.kommune.no/sitepageview.aspx?sitePageID=2047"
+  },
+  {
+    "id": "osm-node-6247232586",
+    "name": "Namdalseid folkebibliotek",
+    "lat": 64.2246896,
+    "lon": 11.2200509,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.namdalseid.kommune.no/bibliotek.122404.no.html"
+  },
+  {
+    "id": "osm-node-6247232587",
+    "name": "Åfjord folkebibliotek, avd. Stoksund",
+    "lat": 64.027565,
+    "lon": 10.0793789,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.afjord.kommune.no/sitepageview.aspx?sitePageID=1479"
+  },
+  {
+    "id": "osm-node-6247232588",
+    "name": "Verran folkebibliotek",
+    "lat": 64.0709552,
+    "lon": 11.2179645,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.verran.kommune.no/bibliotek.109529.no.html"
+  },
+  {
+    "id": "osm-node-6247232589",
+    "name": "Åfjord folkebibliotek",
+    "lat": 63.961961,
+    "lon": 10.2242698,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.afjord.kommune.no/sitepageview.aspx?sitePageID=1479"
+  },
+  {
+    "id": "osm-node-6247232590",
+    "name": "Verdal bibliotek",
+    "lat": 63.79369,
+    "lon": 11.4811174,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.verdal.kommune.no/Bibliotek/"
+  },
+  {
+    "id": "osm-node-6247232591",
+    "name": "Bjugn folkebibliotek",
+    "lat": 63.7658473,
+    "lon": 9.8193376,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/6247232591"
+  },
+  {
+    "id": "osm-node-6247232592",
+    "name": "Indre Fosen bibliotek, avd. Stjørna",
+    "lat": 63.7530641,
+    "lon": 10.132081,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.rissa.kommune.no/sitepageview.aspx?sitepageid=1005"
+  },
+  {
+    "id": "osm-node-6247232593",
+    "name": "Indre Fosen bibliotek, avd. Stadsbygd",
+    "lat": 63.512028,
+    "lon": 10.0009666,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.rissa.kommune.no/sitepageview.aspx?sitepageid=1005"
+  },
+  {
+    "id": "osm-node-6247232594",
+    "name": "Indre Fosen bibliotek avd. Vanvikan",
+    "lat": 63.5558161,
+    "lon": 10.2212624,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.indrefosen.kommune.no/"
+  },
+  {
+    "id": "osm-node-6247232596",
+    "name": "Agdenes folkebibliotek",
+    "lat": 63.5051102,
+    "lon": 9.8230139,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.agdenes.kommune.no/bibliotek.147664.no.html"
+  },
+  {
+    "id": "osm-node-6247232597",
+    "name": "Ørland folkebibliotek",
+    "lat": 63.6926927,
+    "lon": 9.6610494,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.orlandkultursenter.no/bibliotek"
+  },
+  {
+    "id": "osm-node-6247232598",
+    "name": "Frosta bibliotek",
+    "lat": 63.5860613,
+    "lon": 10.7375297,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.frosta.kommune.no/skole-og-utdanning/grunnskoleopplaering/Sider/bibliotektjenester.aspx"
+  },
+  {
+    "id": "osm-node-6247232599",
+    "name": "Hitra bibliotek",
+    "lat": 63.6006351,
+    "lon": 8.9756801,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.hitra.kommune.no/tjenester/kirkekulturfritid/bibliotek/Sider/bibliotek.aspx"
+  },
+  {
+    "id": "osm-node-6247232600",
+    "name": "Snillfjord folkebibliotek",
+    "lat": 63.3998989,
+    "lon": 9.5019162,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.snillfjord.kommune.no/"
+  },
+  {
+    "id": "osm-node-6247232601",
+    "name": "Meråker bibliotek",
+    "lat": 63.4137481,
+    "lon": 11.730878,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/6247232601"
+  },
+  {
+    "id": "osm-node-6247232602",
+    "name": "Tydal folkebibliotek",
+    "lat": 63.0417489,
+    "lon": 11.6699587,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.tydal.kommune.no/kultur-idrett-og-fritid/kultur/Sider/bibliotektjenester.aspx"
+  },
+  {
+    "id": "osm-node-6247232603",
+    "name": "Malvik folkebibliotek, Vikhammer filial",
+    "lat": 63.4369524,
+    "lon": 10.6285385,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.malvik.kommune.no/bibliotek"
+  },
+  {
+    "id": "osm-node-6247232604",
+    "name": "Malvik folkebibliotek",
+    "lat": 63.408886,
+    "lon": 10.8013686,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.malvik.kommune.no/bibliotek"
+  },
+  {
+    "id": "osm-node-6247232605",
+    "name": "Klæbu folkebibliotek",
+    "lat": 63.2996394,
+    "lon": 10.4857245,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/6247232605"
+  },
+  {
+    "id": "osm-node-6247596641",
+    "name": "Averøy folkebibliotek",
+    "lat": 63.0531221,
+    "lon": 7.6315962,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://mrbiblioteket.no/averoy"
+  },
+  {
+    "id": "osm-node-6247596643",
+    "name": "Aukra folkebibliotek",
+    "lat": 62.8059106,
+    "lon": 6.8880883,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://mrbiblioteket.no/aukra"
+  },
+  {
+    "id": "osm-node-6247596644",
+    "name": "Sandøy folkebibliotek",
+    "lat": 62.7714466,
+    "lon": 6.4586514,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://mrbiblioteket.no/sandoy"
+  },
+  {
+    "id": "osm-node-6247596645",
+    "name": "Midsund bibliotek",
+    "lat": 62.6760324,
+    "lon": 6.6778402,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://mrbiblioteket.no/midsund"
+  },
+  {
+    "id": "osm-node-6247596646",
+    "name": "Nesset folkebibliotek",
+    "lat": 62.7760086,
+    "lon": 8.0663351,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://mrbiblioteket.no/nesset"
+  },
+  {
+    "id": "osm-node-6247596647",
+    "name": "Rauma folkebibliotek",
+    "lat": 62.5652854,
+    "lon": 7.6892001,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://mrbiblioteket.no/rauma"
+  },
+  {
+    "id": "osm-node-6247596648",
+    "name": "Vestnes folkebibliotek",
+    "lat": 62.6211409,
+    "lon": 7.0908357,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://mrbiblioteket.no/vestnes"
+  },
+  {
+    "id": "osm-node-6247596649",
+    "name": "Haram folkebibliotek, Lepsøy filial",
+    "lat": 62.607811,
+    "lon": 6.1993198,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.haram.folkebibl.no"
+  },
+  {
+    "id": "osm-node-6247596650",
+    "name": "Haram folkebibliotek, Haramsøy filial",
+    "lat": 62.6436463,
+    "lon": 6.2612453,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://mrbiblioteket.no/haram"
+  },
+  {
+    "id": "osm-node-6247596651",
+    "name": "Haram folkebibliotek, Vatne filial",
+    "lat": 62.5586349,
+    "lon": 6.6195409,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://mrbiblioteket.no/haram"
+  },
+  {
+    "id": "osm-node-6247596652",
+    "name": "Haram folkebibliotek",
+    "lat": 62.5976134,
+    "lon": 6.4464474,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://mrbiblioteket.no/haram"
+  },
+  {
+    "id": "osm-node-6247596653",
+    "name": "Sula bibliotek",
+    "lat": 62.4422393,
+    "lon": 6.1905498,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://mrbiblioteket.no/sula"
+  },
+  {
+    "id": "osm-node-6247596654",
+    "name": "Skodje bibliotek",
+    "lat": 62.5041124,
+    "lon": 6.6768535,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://mrbiblioteket.no/skodje"
+  },
+  {
+    "id": "osm-node-6247596655",
+    "name": "Sykkylven bibliotek",
+    "lat": 62.3917424,
+    "lon": 6.5809982,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://mrbiblioteket.no/sykkylven"
+  },
+  {
+    "id": "osm-node-6247596656",
+    "name": "Stordal bibliotek",
+    "lat": 62.3824428,
+    "lon": 7.0083823,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.stordal.kommune.no/artikkel.aspx?AId=278&MId1=13&MId2=32"
+  },
+  {
+    "id": "osm-node-6247596657",
+    "name": "Norddal folkebibliotek, Eidsdal filial",
+    "lat": 62.2618542,
+    "lon": 7.1733814,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.norddal.kommune.no/artikkel.aspx?MId1=111&AId=77"
+  },
+  {
+    "id": "osm-node-6247596658",
+    "name": "Norddal folkebibliotek, Valldal",
+    "lat": 62.299254,
+    "lon": 7.2613658,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.norddal.kommune.no/artikkel.aspx?AId=77"
+  },
+  {
+    "id": "osm-node-6247596659",
+    "name": "Ørskog folkebibliotek",
+    "lat": 62.4811288,
+    "lon": 6.815548,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.orskog.kommune.no/artikkel.aspx?AId=53&tid=42&mid1=7"
+  },
+  {
+    "id": "osm-node-6247596660",
+    "name": "Ørsta folkebibliotek",
+    "lat": 62.1976773,
+    "lon": 6.1294904,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.folkebiblioteket.no"
+  },
+  {
+    "id": "osm-node-6247596661",
+    "name": "Volda folkebibliotek",
+    "lat": 62.1466159,
+    "lon": 6.067968,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://mrbiblioteket.no/volda"
+  },
+  {
+    "id": "osm-node-6247596662",
+    "name": "Tingvoll bibliotek, Meisingset filial",
+    "lat": 62.8626452,
+    "lon": 8.2939183,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://mrbiblioteket.no/tingvoll"
+  },
+  {
+    "id": "osm-node-6247596663",
+    "name": "Hareid folkebibliotek",
+    "lat": 62.3689531,
+    "lon": 6.0298873,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://mrbiblioteket.no/hareid"
+  },
+  {
+    "id": "osm-node-6247596664",
+    "name": "Ulstein bibliotek",
+    "lat": 62.3436394,
+    "lon": 5.8493704,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://websok.mikromarc.no/ulstein-fb"
+  },
+  {
+    "id": "osm-node-6247596665",
+    "name": "Tingvoll bibliotek, Straumsnes filial",
+    "lat": 63.036049,
+    "lon": 8.039546,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://mrbiblioteket.no/tingvoll"
+  },
+  {
+    "id": "osm-node-6247596666",
+    "name": "Herøy folkebibliotek",
+    "lat": 62.3340391,
+    "lon": 5.6424388,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://mrbiblioteket.no/heroy"
+  },
+  {
+    "id": "osm-node-6247596667",
+    "name": "Vanylven folkebibliotek, Åram filial",
+    "lat": 62.1982111,
+    "lon": 5.4928784,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://mrbiblioteket.no/vanylven"
+  },
+  {
+    "id": "osm-node-6247596668",
+    "name": "Sande bibliotek",
+    "lat": 62.2078559,
+    "lon": 5.5679814,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://mrbiblioteket.no/sande"
+  },
+  {
+    "id": "osm-node-6247596669",
+    "name": "Moa bibliotek",
+    "lat": 62.465235,
+    "lon": 6.353089,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.alesund.folkebibl.no"
+  },
+  {
+    "id": "osm-node-6247596670",
+    "name": "Surnadal folkebibliotek, Todalen filial",
+    "lat": 62.8059926,
+    "lon": 8.7258806,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.surnadal-folkebibliotek.no/"
+  },
+  {
+    "id": "osm-node-6247596671",
+    "name": "Sula bibliotek, Mauseidvåg filial",
+    "lat": 62.4216356,
+    "lon": 6.2697209,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://mrbiblioteket.no/sula"
+  },
+  {
+    "id": "osm-node-6247596672",
+    "name": "Sunnylven bibliotek",
+    "lat": 62.0851976,
+    "lon": 6.8677158,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.stranda.kommune.no/artikkel.aspx?MId1=265&AId=23"
+  },
+  {
+    "id": "osm-node-6247596673",
+    "name": "Stranda folkebibliotek, Geiranger filial",
+    "lat": 62.0992257,
+    "lon": 7.2046115,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.stranda.kommune.no/artikkel.aspx?MId1=265&AId=23"
+  },
+  {
+    "id": "osm-node-6247596674",
+    "name": "Smøla bibliotek",
+    "lat": 63.4600423,
+    "lon": 8.0099256,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://mrbiblioteket.no/smola"
+  },
+  {
+    "id": "osm-node-6247596675",
+    "name": "Aure folkebibliotek, Gullstein",
+    "lat": 63.2067923,
+    "lon": 8.1556393,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.aure.kommune.no/artikkel.aspx?MId1=709&AId=110&back=1"
+  },
+  {
+    "id": "osm-node-6247596676",
+    "name": "Halsa folkebibliotek",
+    "lat": 63.118463,
+    "lon": 8.3114165,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.halsa.kommune.no/kultur-idrett-og-fritid/"
+  },
+  {
+    "id": "osm-node-6247596677",
+    "name": "Aure folkebibliotek, avd. Aure",
+    "lat": 63.2682185,
+    "lon": 8.5327084,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.mr.fylkesbibl.no/default.asp?itemID=1045"
+  },
+  {
+    "id": "osm-node-6247596678",
+    "name": "Rindal folkebibliotek",
+    "lat": 63.0586712,
+    "lon": 9.2122497,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.mrbiblioteket.no//rindal"
+  },
+  {
+    "id": "osm-node-6247596679",
+    "name": "Surnadal folkebibliotek",
+    "lat": 62.9734552,
+    "lon": 8.7252486,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://mrbiblioteket.no/surnadal"
+  },
+  {
+    "id": "osm-node-6247596680",
+    "name": "Vanylven folkebibliotek, Rovde filial",
+    "lat": 62.1781542,
+    "lon": 5.754326,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://mrbiblioteket.no/vanylven/Vanylven-folkebibliotek/Om-biblioteket/Opningstider"
+  },
+  {
+    "id": "osm-node-6250217102",
+    "name": "Luster bibliotek, Veitastrond skule",
+    "lat": 61.4834818,
+    "lon": 7.030729,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.luster.kommune.no/framside.175817.nn.html"
+  },
+  {
+    "id": "osm-node-6250217103",
+    "name": "Balestrand folkebibliotek",
+    "lat": 61.2057335,
+    "lon": 6.5255192,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.balestrand.kommune.no/bibliotek.164701.nn.html"
+  },
+  {
+    "id": "osm-node-6250217104",
+    "name": "Vik folkebibliotek, Arnafjord filial",
+    "lat": 61.0041919,
+    "lon": 6.4121519,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.vik.kommune.no/bibliotek.4827734-162923.html"
+  },
+  {
+    "id": "osm-node-6250217105",
+    "name": "Vik folkebibliotek, Vangsnes filial",
+    "lat": 61.1618678,
+    "lon": 6.6386178,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.vik.kommune.no/bibliotek.4827734-162923.html"
+  },
+  {
+    "id": "osm-node-6250217106",
+    "name": "Vik folkebibliotek, Fresvik filial",
+    "lat": 61.0661622,
+    "lon": 6.9314053,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.vik.kommune.no/bibliotek.4827734-162923.html"
+  },
+  {
+    "id": "osm-node-6250217107",
+    "name": "Vik folkebibliotek, Feios filial",
+    "lat": 61.1492192,
+    "lon": 6.7659064,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.vik.kommune.no/bibliotektenester.189512.1600o6.los.html"
+  },
+  {
+    "id": "osm-node-6250217108",
+    "name": "Vik folkebibliotek",
+    "lat": 61.0814115,
+    "lon": 6.5786359,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.vik.kommune.no/vik-folkebibliotek.4823239-161274.html"
+  },
+  {
+    "id": "osm-node-6250217109",
+    "name": "Høyanger bibliotek, Vadheim kombinasjonsbibliotek",
+    "lat": 61.2124613,
+    "lon": 5.8337989,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.hoyanger.folkebibl.no"
+  },
+  {
+    "id": "osm-node-6250217110",
+    "name": "Høyanger bibliotek, Ortnevik bibliotekfilial",
+    "lat": 61.1080298,
+    "lon": 6.1315713,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.hoyanger.folkebibl.no"
+  },
+  {
+    "id": "osm-node-6250217111",
+    "name": "Høyanger bibliotek, Lavik kombinasjonsbibliotek",
+    "lat": 61.1047714,
+    "lon": 5.5149379,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.hoyanger.folkebibl.no"
+  },
+  {
+    "id": "osm-node-6250217112",
+    "name": "Høyanger bibliotek, Kyrkjebø kombinasjonsbibliotek",
+    "lat": 61.1645426,
+    "lon": 5.9367065,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.hoyanger.folkebibl.no"
+  },
+  {
+    "id": "osm-node-6250217113",
+    "name": "Høyanger bibliotek, Ikefjord filial",
+    "lat": 61.0578764,
+    "lon": 5.6562446,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.hoyanger.folkebibl.no"
+  },
+  {
+    "id": "osm-node-6250217114",
+    "name": "Høyanger bibliotek, Bjordal filial",
+    "lat": 61.0677629,
+    "lon": 5.7995477,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.hoyanger.folkebibl.no"
+  },
+  {
+    "id": "osm-node-6250217115",
+    "name": "Høyanger bibliotek",
+    "lat": 61.2192429,
+    "lon": 6.0722153,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.hoyanger.folkebibl.no"
+  },
+  {
+    "id": "osm-node-6250217116",
+    "name": "Hyllestad folkebibliotek",
+    "lat": 61.1709333,
+    "lon": 5.2930338,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.hyllestad.kommune.no/artikkel.aspx?AId=384&tid=42&mid1=5"
+  },
+  {
+    "id": "osm-node-6250217117",
+    "name": "Solund folkebibliotek",
+    "lat": 61.0741309,
+    "lon": 4.8388124,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.solund.kommune.no/artikkel.aspx?AId=157&tid=38&back=1&mid1=104"
+  },
+  {
+    "id": "osm-node-6250217118",
+    "name": "Gulen folkebibliotek, Dalsøyra filial",
+    "lat": 60.9317069,
+    "lon": 5.1454695,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.gulen.kommune.no/bibliotek.4555996-110230.html"
+  },
+  {
+    "id": "osm-node-6250217119",
+    "name": "Jølster bibliotek, avd. Vassenden",
+    "lat": 61.490365,
+    "lon": 6.1194,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.jolster.kommune.no/artikkel.aspx?MId1=112&AId=214&back=1"
+  },
+  {
+    "id": "osm-node-6250217120",
+    "name": "Gulen folkebibliotek, Byrknes filial",
+    "lat": 60.9015195,
+    "lon": 4.8371996,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.gulen.kommune.no/bibliotek.4555996-110230.html"
+  },
+  {
+    "id": "osm-node-6250217121",
+    "name": "Gulen folkebibliotek, Brekke filial",
+    "lat": 61.0142547,
+    "lon": 5.4545202,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.gulen.kommune.no/bibliotek.4555996-110230.html"
+  },
+  {
+    "id": "osm-node-6250217122",
+    "name": "Gulen folkebibliotek",
+    "lat": 60.981171,
+    "lon": 5.0746904,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.gulen.kommune.no/bibliotek.4555996-110230.html"
+  },
+  {
+    "id": "osm-node-6250217123",
+    "name": "Gloppen folkebibliotek, Byrkjelo filial",
+    "lat": 61.7333694,
+    "lon": 6.5048187,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.trivselshagen.no/"
+  },
+  {
+    "id": "osm-node-6250217124",
+    "name": "Gloppen folkebibliotek, Sandane",
+    "lat": 61.7741447,
+    "lon": 6.2205958,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.trivselshagen.no/"
+  },
+  {
+    "id": "osm-node-6250217125",
+    "name": "Hornindal bibliotek",
+    "lat": 61.9691654,
+    "lon": 6.5227427,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://hornindal.kommune.no/artikkel.aspx?AId=27&MId1=1&MId2=64"
+  },
+  {
+    "id": "osm-node-6250217126",
+    "name": "Eid bibliotek",
+    "lat": 61.9132778,
+    "lon": 5.983543,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://eid.kommune.no/artikkel.aspx?MId1=712&AId=2052&eid=91"
+  },
+  {
+    "id": "osm-node-6250217127",
+    "name": "Fjaler folkebibliotek, Straumsnes filial",
+    "lat": 61.3392411,
+    "lon": 5.2034526,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.fjaler.kommune.no/innbyggjar/kultur-idrett-og-fritid/fjaler-folkebibliotek/"
+  },
+  {
+    "id": "osm-node-6250217128",
+    "name": "Selje folkeboksamling, Stadlandet filial, Leikanger",
+    "lat": 62.1118319,
+    "lon": 5.3322745,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://selje.kommune.no/artikkel.aspx?MId1=565&AId=1963"
+  },
+  {
+    "id": "osm-node-6250217129",
+    "name": "Fjaler folkebibliotek, Guddal filial",
+    "lat": 61.2454893,
+    "lon": 5.534513,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.fjaler.kommune.no/artikkel.aspx?MId1=159&AId=777"
+  },
+  {
+    "id": "osm-node-6250217130",
+    "name": "Selje folkeboksamling, Flatraket filial",
+    "lat": 61.9747162,
+    "lon": 5.224799,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://selje.kommune.no/artikkel.aspx?MId1=565&AId=1963"
+  },
+  {
+    "id": "osm-node-6250217131",
+    "name": "Vågsøy folkebibliotek",
+    "lat": 61.9332056,
+    "lon": 5.112003,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://vagsoy.kommune.no/artikkel.aspx?AId=1875&tid=42&mid1=857&eid=91"
+  },
+  {
+    "id": "osm-node-6250217132",
+    "name": "Bremanger folkebibliotek, Hauge filial",
+    "lat": 61.841232,
+    "lon": 4.9589435,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://bibliotek.bremanger.kommune.no/artikkel.aspx?MId1=279&AId=383"
+  },
+  {
+    "id": "osm-node-6250217133",
+    "name": "Bremanger folkebibliotek",
+    "lat": 61.7687417,
+    "lon": 5.2891933,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://bibliotek.bremanger.kommune.no/artikkel.aspx?MId1=277&AId=385"
+  },
+  {
+    "id": "osm-node-6250217134",
+    "name": "Naustdal bibliotek",
+    "lat": 61.5124654,
+    "lon": 5.7165576,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.naustdal.kommune.no/artikkel.aspx?MId1=97&AId=13&back=1"
+  },
+  {
+    "id": "osm-node-6250217135",
+    "name": "Jølster bibliotek",
+    "lat": 61.5689774,
+    "lon": 6.4833377,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.jolster.kommune.no/tenester/kultur-og-fritid/bibliotek/"
+  },
+  {
+    "id": "osm-node-6250217136",
+    "name": "Sunnfjord bibliotek, Viksdalen bibliotek",
+    "lat": 61.3491401,
+    "lon": 6.1186641,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.sunnfjordbibliotek.no"
+  },
+  {
+    "id": "osm-node-6250217137",
+    "name": "Gaular folkebibliotek",
+    "lat": 61.3255826,
+    "lon": 5.7950856,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.gaular.kommune.no/tenester/kultur-og-fritid/bibliotek/"
+  },
+  {
+    "id": "osm-node-6250217139",
+    "name": "Askvoll bibliotek",
+    "lat": 61.3469854,
+    "lon": 5.092049,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://websok.mikromarc.no/askvoll-fb"
+  },
+  {
+    "id": "osm-node-6250217140",
+    "name": "Årdal bibliotek",
+    "lat": 61.3101127,
+    "lon": 7.8071193,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://ardal.custompublish.com/index.php?cat=186818"
+  },
+  {
+    "id": "osm-node-6250217141",
+    "name": "Lærdal folkebibliotek",
+    "lat": 61.1011201,
+    "lon": 7.4939071,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://laerdal.kommune.no/bibliotek.164577.no.html"
+  },
+  {
+    "id": "osm-node-6250217142",
+    "name": "Sogndal bibliotek",
+    "lat": 61.232584,
+    "lon": 7.1058104,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://sogndalsbiblioteka.no/"
+  },
+  {
+    "id": "osm-node-6250217143",
+    "name": "Leikanger folkebibliotek",
+    "lat": 61.1831289,
+    "lon": 6.853184,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.leikanger.kommune.no/bibliotek.391385.nn.html"
+  },
+  {
+    "id": "osm-node-6250385355",
+    "name": "Eidfjord folkebibliotek",
+    "lat": 60.4674205,
+    "lon": 7.0699752,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.eidfjord.kommune.no/tenester/kultur/bibliotek/"
+  },
+  {
+    "id": "osm-node-6250385356",
+    "name": "Bergen offentlige bibliotek - Fjernlånet",
+    "lat": 60.3898002,
+    "lon": 5.3317026,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://bergenbibliotek.no/"
+  },
+  {
+    "id": "osm-node-6250385360",
+    "name": "Kvam bibliotek, Ålvik filial",
+    "lat": 60.4311416,
+    "lon": 6.4315342,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.kvam.no/tenester/kultur-idrett-og-fritid/kvam-bibliotek/alvik-filial/"
+  },
+  {
+    "id": "osm-node-6250385364",
+    "name": "Fedje folkebibliotek",
+    "lat": 60.7787254,
+    "lon": 4.7197213,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.fedje.no/artikkel.aspx?AId=58&back=1&MId1=14&MId2=60"
+  },
+  {
+    "id": "osm-node-6250385369",
+    "name": "Samnanger bibliotek",
+    "lat": 60.3774492,
+    "lon": 5.7622867,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.samnanger.kommune.no/artikkel.aspx?MId1=120&AId=452"
+  },
+  {
+    "id": "osm-node-6250387400",
+    "name": "Sund folkebibliotek",
+    "lat": 60.2703158,
+    "lon": 5.0726782,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.biblioteka.ivest.no/"
+  },
+  {
+    "id": "osm-node-6250387407",
+    "name": "Fusa folkebibliotek",
+    "lat": 60.239581,
+    "lon": 5.74811,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.fusa.kommune.no/artikkel.aspx?MId1=54&AId=661"
+  },
+  {
+    "id": "osm-node-6250387408",
+    "name": "Ullensvang bibliotek, Nå bibliotek",
+    "lat": 60.255205,
+    "lon": 6.5728392,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://hardangerbiblioteka.no/"
+  },
+  {
+    "id": "osm-node-6250387416",
+    "name": "Os folkebibliotek",
+    "lat": 60.1883146,
+    "lon": 5.4648767,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.osfolkebibliotek.no/"
+  },
+  {
+    "id": "osm-node-6250387423",
+    "name": "Bergen offentlige bibliotek, Musikkavdelingen",
+    "lat": 60.3898593,
+    "lon": 5.3320305,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://bergenbibliotek.no/om-biblioteket/kontakt_oss"
+  },
+  {
+    "id": "osm-node-6250387431",
+    "name": "Bømlo folkebibliotek, Bømlo filial",
+    "lat": 59.60045,
+    "lon": 5.2103087,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.bomlobibliotek.no/"
+  },
+  {
+    "id": "osm-node-6250387434",
+    "name": "Meland bibliotek, Rossland avdeling",
+    "lat": 60.5609418,
+    "lon": 5.0529064,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.meland.kommune.no/artikkel.aspx?AId=27"
+  },
+  {
+    "id": "osm-node-6250387435",
+    "name": "Vaksdal folkebibliotek, på Dale",
+    "lat": 60.5904973,
+    "lon": 5.8219582,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vaksdal.kommune.no/bibliotek.5621049-317491.html"
+  },
+  {
+    "id": "osm-node-6250387441",
+    "name": "Bergen Offentlige bibliotek, Hovedutlånet",
+    "lat": 60.3899273,
+    "lon": 5.3318556,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://bergenbibliotek.no/"
+  },
+  {
+    "id": "osm-node-6250387445",
+    "name": "Odda bibliotek",
+    "lat": 60.0669532,
+    "lon": 6.5457405,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.hardangerbiblioteka.no/"
+  },
+  {
+    "id": "osm-node-6250387449",
+    "name": "Granvin folkebibliotek",
+    "lat": 60.525014,
+    "lon": 6.7208793,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vossbibliotek.no/nn/bibliotek/kulturbanken-granvin"
+  },
+  {
+    "id": "osm-node-6250387450",
+    "name": "Bømlo folkebibliotek, Svortland",
+    "lat": 59.7942791,
+    "lon": 5.1731227,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.bomlobibliotek.no/mkat.aspx?MId1=798&mk=7"
+  },
+  {
+    "id": "osm-node-6250387465",
+    "name": "Radøy bibliotek",
+    "lat": 60.637876,
+    "lon": 5.045058,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.radoy.kommune.no/Tjenester-for-deg/Kultur-idrett-og-fritid/Radoy-bibliotek/"
+  },
+  {
+    "id": "osm-node-6250387466",
+    "name": "Bergen offentlige bibliotek, Ytre Arna filial",
+    "lat": 60.4605348,
+    "lon": 5.4367923,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://bergenbibliotek.no/om-biblioteket/kontakt_oss"
+  },
+  {
+    "id": "osm-node-6250387514",
+    "name": "Modalen folkebibliotek",
+    "lat": 60.8136682,
+    "lon": 5.8031238,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.modalen.kommune.no/artikkel.aspx?MId1=36&AId=66&back=1&MId2=66"
+  },
+  {
+    "id": "osm-node-6250387518",
+    "name": "Askøy folkebibliotek",
+    "lat": 60.4099979,
+    "lon": 5.2271406,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.biblioteka.ivest.no/"
+  },
+  {
+    "id": "osm-node-6250387526",
+    "name": "Odda bibliotek, Røldal filial",
+    "lat": 59.8320414,
+    "lon": 6.8141487,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.hardangerbiblioteka.no/bibliotek/odda-bibliotek"
+  },
+  {
+    "id": "osm-node-6250387533",
+    "name": "Kvam bibliotek, Strandebarm filial",
+    "lat": 60.255829,
+    "lon": 6.0120232,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.kvam.no/mikromarc/default.asp"
+  },
+  {
+    "id": "osm-node-6250387536",
+    "name": "Osterøy bibliotek",
+    "lat": 60.525247,
+    "lon": 5.4962985,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.nordhordlandsbiblioteka.no"
+  },
+  {
+    "id": "osm-node-6250387537",
+    "name": "Vaksdal folkebibliotek, Vaksdal filial",
+    "lat": 60.4774079,
+    "lon": 5.7435563,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vaksdal.kommune.no/artikkel.aspx?AId=158&back=1&MId1=7&MId2=34"
+  },
+  {
+    "id": "osm-node-6250387541",
+    "name": "Tysnes folkebibliotek",
+    "lat": 60.0400709,
+    "lon": 5.5387444,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.tysnesbibliotek.no/"
+  },
+  {
+    "id": "osm-node-6250387545",
+    "name": "Austrheim folkebibliotek",
+    "lat": 60.7831884,
+    "lon": 4.932145,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.austrheim.kommune.no/artikkel.aspx?AId=203&back=1&MId1=85"
+  },
+  {
+    "id": "osm-node-6250387552",
+    "name": "Austrheim folkebibliotek, Fonnes filial",
+    "lat": 60.8014812,
+    "lon": 5.0002662,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.austrheim.kommune.no/artikkel.aspx?MId1=132&AId=445&back=1"
+  },
+  {
+    "id": "osm-node-6250387555",
+    "name": "Lindås filial",
+    "lat": 60.7356369,
+    "lon": 5.1647986,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.mittnordhordland.no/Lindasfilial"
+  },
+  {
+    "id": "osm-node-6250387556",
+    "name": "Fjell folkeboksamling",
+    "lat": 60.358643,
+    "lon": 5.124757,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.biblioteka.ivest.no"
+  },
+  {
+    "id": "osm-node-6250387591",
+    "name": "Kvam bibliotek",
+    "lat": 60.369742,
+    "lon": 6.146888,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.hardangerbiblioteka.no/bibliotek/kvam-bibliotek"
+  },
+  {
+    "id": "osm-node-6250387598",
+    "name": "Jondal bibliotek",
+    "lat": 60.2784159,
+    "lon": 6.2531819,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://ullensvangbibliotek.no/"
+  },
+  {
+    "id": "osm-node-6250387612",
+    "name": "Etne bibliotek, avd. Skånevik",
+    "lat": 59.7318673,
+    "lon": 5.9326506,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.etnebibliotek.no/"
+  },
+  {
+    "id": "osm-node-6250387613",
+    "name": "Bømlo folkebibliotek, Finnås filial",
+    "lat": 59.7216311,
+    "lon": 5.2280089,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.bomlobibliotek.no/mkat.aspx?MId1=798&mk=7"
+  },
+  {
+    "id": "osm-node-6250387617",
+    "name": "Bergen offentlige bibliotek, Åsane filial",
+    "lat": 60.4659173,
+    "lon": 5.3224449,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://bergenbibliotek.no/om-biblioteket/kontakt_oss"
+  },
+  {
+    "id": "osm-node-6250387621",
+    "name": "Masfjorden folkebibliotek, Matre filial",
+    "lat": 60.8726001,
+    "lon": 5.5827098,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.masfjorden.kommune.no/organisasjon/bibliotek.html"
+  },
+  {
+    "id": "osm-node-6250387623",
+    "name": "Ullensvang bibliotek, Utne bibliotek",
+    "lat": 60.4241579,
+    "lon": 6.620761,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://hardangerbiblioteka.no/"
+  },
+  {
+    "id": "osm-node-6250387628",
+    "name": "Sveio folkebibliotek",
+    "lat": 59.5437255,
+    "lon": 5.3550259,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.sveio.kommune.no/artikkel.aspx?AId=25&back=1&MId1=25&MId2=48"
+  },
+  {
+    "id": "osm-node-6250387637",
+    "name": "Ulvik folkebibliotek",
+    "lat": 60.56718,
+    "lon": 6.914589,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.ulvikbibliotek.no/"
+  },
+  {
+    "id": "osm-node-6250387638",
+    "name": "Masfjorden folkebibliotek, Sandnes filial",
+    "lat": 60.7919293,
+    "lon": 5.2966427,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.masfjorden.kommune.no/organisasjon/bibliotek.html"
+  },
+  {
+    "id": "osm-node-6250387640",
+    "name": "Masfjorden folkebibliotek",
+    "lat": 60.8307196,
+    "lon": 5.2831046,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.masfjorden.kommune.no/organisasjon/bibliotek.html"
+  },
+  {
+    "id": "osm-node-6250387641",
+    "name": "Etne bibliotek",
+    "lat": 59.6671891,
+    "lon": 5.9408377,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.etnebibliotek.no/"
+  },
+  {
+    "id": "osm-node-6250387644",
+    "name": "Ullensvang bibliotek, Kinsarvik",
+    "lat": 60.3750078,
+    "lon": 6.7209951,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.hardangerbiblioteka.no/bibliotek/ullensvang-bibliotek"
+  },
+  {
+    "id": "osm-node-6252183016",
+    "name": "Audnedal folkebibliotek",
+    "lat": 58.4207221,
+    "lon": 7.4010244,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.maaha-bibliotekene.no/"
+  },
+  {
+    "id": "osm-node-6252183017",
+    "name": "Åseral bibliotek",
+    "lat": 58.6193914,
+    "lon": 7.4201674,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.maaha-bibliotekene.no/"
+  },
+  {
+    "id": "osm-node-6252183018",
+    "name": "Marnardal folkebibliotek",
+    "lat": 58.1714989,
+    "lon": 7.5544901,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.marnardal.kommune.no/organisasjon/oppvekst-og-kultur/2011-05-12-12-41-02/bibliotek"
+  },
+  {
+    "id": "osm-node-6252183019",
+    "name": "Songdalen bibliotek, Finsland filial",
+    "lat": 58.2727155,
+    "lon": 7.584984,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.songdalen.kommune.no/ORGANISASJON1/Kultur/Bibliotek1/"
+  },
+  {
+    "id": "osm-node-6252183020",
+    "name": "Songdalen bibliotek",
+    "lat": 58.1534673,
+    "lon": 7.836579,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.songdalen.kommune.no/ORGANISASJON1/Kultur/Bibliotek1/"
+  },
+  {
+    "id": "osm-node-6252183021",
+    "name": "Lindesnes folkebibliotek, Vigmostad filial",
+    "lat": 58.2020393,
+    "lon": 7.3375428,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.lindesnes.kommune.no/tjenestebeskrivelser/kultur-idrett-og-fritid/bibliotek/"
+  },
+  {
+    "id": "osm-node-6252183022",
+    "name": "Flekkefjord bibliotek, Hidra filial",
+    "lat": 58.2329777,
+    "lon": 6.5543037,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.flekkefjord.kommune.no/organisasjon/oppvekst-og-kultur/kultur-og-fritid/bibliotek/"
+  },
+  {
+    "id": "osm-node-6252183023",
+    "name": "Flekkefjord bibliotek, Gyland filial",
+    "lat": 58.3765053,
+    "lon": 6.8342926,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.flekkefjord.kommune.no/organisasjon/oppvekst-og-kultur/kultur-og-fritid/bibliotek/"
+  },
+  {
+    "id": "osm-node-6252183024",
+    "name": "Flekkefjord bibliotek, Bakke filial",
+    "lat": 58.2981839,
+    "lon": 6.662881,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.flekkefjord.kommune.no/"
+  },
+  {
+    "id": "osm-node-6252183025",
+    "name": "Flekkefjord bibliotek",
+    "lat": 58.2949059,
+    "lon": 6.6608927,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.flekkefjordkultursenter.no/"
+  },
+  {
+    "id": "osm-node-6252183026",
+    "name": "Farsund bibliotek, avd. Borhaug",
+    "lat": 58.0999586,
+    "lon": 6.5865329,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.farsund.kommune.no/borhaug-filial/"
+  },
+  {
+    "id": "osm-node-6252183027",
+    "name": "Bykle folkebibliotek",
+    "lat": 59.3569109,
+    "lon": 7.3581388,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://setesdalsbiblioteka.no/"
+  },
+  {
+    "id": "osm-node-6252183028",
+    "name": "Valle folkebibliotek",
+    "lat": 59.212497,
+    "lon": 7.535188,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://setesdalsbiblioteka.no/"
+  },
+  {
+    "id": "osm-node-6252183029",
+    "name": "Evje og Hornnes bibliotek",
+    "lat": 58.5841205,
+    "lon": 7.7995126,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://e-h.kommune.no/vare-tjenester/kultur-og-fritid/bibliotek/"
+  },
+  {
+    "id": "osm-node-6252183030",
+    "name": "Iveland folkebibliotek",
+    "lat": 58.4572943,
+    "lon": 7.9183981,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://iveland.kommune.no/bibliotek.294720.no.html"
+  },
+  {
+    "id": "osm-node-6252183031",
+    "name": "Åmli bibliotek",
+    "lat": 58.7653329,
+    "lon": 8.4832422,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://amlibibliotek.no/"
+  },
+  {
+    "id": "osm-node-6252183032",
+    "name": "Birkenes folkebibliotek",
+    "lat": 58.3292334,
+    "lon": 8.2320584,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://birkenesbibliotek.no/"
+  },
+  {
+    "id": "osm-node-6252183033",
+    "name": "Vennesla bibliotek, Hægeland filial",
+    "lat": 58.3834031,
+    "lon": 7.7407128,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/6252183033"
+  },
+  {
+    "id": "osm-node-6252183034",
+    "name": "Tvedestrand folkebibliotek",
+    "lat": 58.6260487,
+    "lon": 8.9265098,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.tvedestrand.kommune.no/biblioteket/"
+  },
+  {
+    "id": "osm-node-6252183035",
+    "name": "Vegårshei folkebibliotek",
+    "lat": 58.7501756,
+    "lon": 8.8635551,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://vegarsheibibliotek.no/"
+  },
+  {
+    "id": "osm-node-6252183036",
+    "name": "Gjerstad folkebibliotek",
+    "lat": 58.8813971,
+    "lon": 9.0190353,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://gjerstadfolkebibliotek.no/"
+  },
+  {
+    "id": "osm-node-6252183037",
+    "name": "Arendal bibliotek",
+    "lat": 58.461948,
+    "lon": 8.766639,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://arendalbibliotek.no/"
+  },
+  {
+    "id": "osm-node-6252183038",
+    "name": "Grimstad bibliotek, Fevik filial",
+    "lat": 58.3815817,
+    "lon": 8.6791997,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://grimstadbibliotek.no/"
+  },
+  {
+    "id": "osm-node-6252183040",
+    "name": "Risør bibliotek, Søndeled filial",
+    "lat": 58.7633802,
+    "lon": 9.0813489,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.sondeled.gs.aa.no"
+  },
+  {
+    "id": "osm-node-6252183041",
+    "name": "Sirdal folkebibliotek",
+    "lat": 58.6653503,
+    "lon": 6.7157177,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.sirdal.kommune.no/bibliotek.413589.no.html"
+  },
+  {
+    "id": "osm-node-6252183042",
+    "name": "Kvinesdal bibliotek, Feda filial",
+    "lat": 58.2705558,
+    "lon": 6.8171456,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.kvinesdal.kommune.no/organisasjon/kulturenheten/235-bibliotek/73-bibliotek/"
+  },
+  {
+    "id": "osm-node-6252183043",
+    "name": "Sirdal folkebibliotek, Sinnes filial",
+    "lat": 58.9135591,
+    "lon": 6.8840647,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.sirdal.kommune.no/tjenestebeskrivelser/kultur-idrett-og-fritid/bibliotek"
+  },
+  {
+    "id": "osm-node-6252183044",
+    "name": "Kristiansand folkebibliotek, Flekkerøy bibliotek",
+    "lat": 58.0786599,
+    "lon": 7.9959992,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.kristiansand.kommune.no/no/Administrasjon/Kultursektoren/Biblioteket/Flekkeroy-filial-og-skolebibliotek/"
+  },
+  {
+    "id": "osm-node-6252183045",
+    "name": "Kvinesdal bibliotek, Fjotland filial",
+    "lat": 58.5211039,
+    "lon": 6.9321808,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.kvinesdal.kommune.no/organisasjon/kulturenheten/235-bibliotek/73-bibliotek/"
+  },
+  {
+    "id": "osm-node-6252183046",
+    "name": "Hægebostad og Eiken folkebibliotek, Birkeland filial",
+    "lat": 58.3758066,
+    "lon": 7.2197492,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.maaha-bibliotekene.no/"
+  },
+  {
+    "id": "osm-node-6252183047",
+    "name": "Hægebostad og Eiken folkebibliotek",
+    "lat": 58.4872168,
+    "lon": 7.1974674,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.maaha-bibliotekene.no/"
+  },
+  {
+    "id": "osm-node-6252183048",
+    "name": "Marnardal folkebibliotek, Bjelland bok i butikk",
+    "lat": 58.3852369,
+    "lon": 7.5277855,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://joker.no/Butikkene/VEST-AGDER/JOKER-BJELLAND/"
+  },
+  {
+    "id": "osm-node-6253239581",
+    "name": "Nome bibliotek, Lunde avdeling",
+    "lat": 59.2994205,
+    "lon": 9.1028048,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://nomebib.no/"
+  },
+  {
+    "id": "osm-node-6253239582",
+    "name": "Nome bibliotek, Ulefoss",
+    "lat": 59.2800892,
+    "lon": 9.2693985,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://nomebib.no/"
+  },
+  {
+    "id": "osm-node-6253239583",
+    "name": "Drangedal bibliotek",
+    "lat": 59.0970418,
+    "lon": 9.0629175,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.drangedal.kommune.no/hovedmeny/organisasjon/Eiendom-og-drift/Avdeling-for-kultur/Drangedal-bibliotek/"
+  },
+  {
+    "id": "osm-node-6253239584",
+    "name": "Rjukan bibliotek, Atrå filial",
+    "lat": 59.9877857,
+    "lon": 8.7359944,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.tm.fylkesbibl.no/pages/bibliotekene-i-tinn"
+  },
+  {
+    "id": "osm-node-6253239585",
+    "name": "Bamble bibliotek og litteraturhus",
+    "lat": 59.04657,
+    "lon": 9.691652,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.bamble.kommune.no/kultur/bamble-bibliotek/"
+  },
+  {
+    "id": "osm-node-6253239586",
+    "name": "Vinje folkebibliotek, Edland avdeling",
+    "lat": 59.7382588,
+    "lon": 7.5964465,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.vinje.kommune.no/Tenester/Tenestekatalog/Kultur_og_fritid/Temaside/Bibliotek.aspx"
+  },
+  {
+    "id": "osm-node-6253239587",
+    "name": "Vinje folkebibliotek, Åmot",
+    "lat": 59.5683452,
+    "lon": 7.9886245,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.vinje.kommune.no/Tenester/Tenestekatalog/Kultur_og_fritid/Temaside/Bibliotek.aspx"
+  },
+  {
+    "id": "osm-node-6253239588",
+    "name": "Siljan bibliotek",
+    "lat": 59.2850093,
+    "lon": 9.7293368,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://siljanbibliotek.no/"
+  },
+  {
+    "id": "osm-node-6253239589",
+    "name": "Tokke folkebibliotek, Høydalsmo avdeling",
+    "lat": 59.498212,
+    "lon": 8.1938414,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.tokke.kommune.no/tenester/kultur%20og%20fritid/bibliotek.aspx"
+  },
+  {
+    "id": "osm-node-6253239590",
+    "name": "Tokke bibliotek, Dalen",
+    "lat": 59.4465265,
+    "lon": 7.9865518,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.tokke.kommune.no/Tenester/Kultur%20og%20fritid/Bibliotek.aspx"
+  },
+  {
+    "id": "osm-node-6253239591",
+    "name": "Fyresdal folkebibliotek",
+    "lat": 59.1855663,
+    "lon": 8.0887207,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.tm.fylkesbibl.no/pages/biblioteket-i-fyresdal"
+  },
+  {
+    "id": "osm-node-6253239592",
+    "name": "Nissedal folkebibliotek",
+    "lat": 59.0238777,
+    "lon": 8.5201034,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.tm.fylkesbibl.no/pages/biblioteket-i-nissedal"
+  },
+  {
+    "id": "osm-node-6253239593",
+    "name": "Kviteseid folkebibliotek",
+    "lat": 59.4021947,
+    "lon": 8.4936569,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://vest-telemarkbiblioteka.no/"
+  },
+  {
+    "id": "osm-node-6253239594",
+    "name": "Seljord bibliotek, avdeling Flatdal",
+    "lat": 59.567355,
+    "lon": 8.5700843,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.seljord.kommune.no/nb-no/Tenester/Tenestekatalog/Kultur_idrett_og_fritid/Bibliotek.aspx"
+  },
+  {
+    "id": "osm-node-6253239595",
+    "name": "Skien bibliotek, Klyve filial",
+    "lat": 59.1488266,
+    "lon": 9.619413,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://skienbibliotek.no/?page_id=6099"
+  },
+  {
+    "id": "osm-node-6253239596",
+    "name": "Seljord bibliotek",
+    "lat": 59.4806942,
+    "lon": 8.624665,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.seljord.kommune.no/Tenester/Tenestekatalog/Kultur_idrett_og_fritid/Bibliotek.aspx"
+  },
+  {
+    "id": "osm-node-6253239597",
+    "name": "Hjartdal folkebibliotek",
+    "lat": 59.6134128,
+    "lon": 8.9458579,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.hjartdal.kommune.no/nb-NO/Tenester.aspx?service=13282852"
+  },
+  {
+    "id": "osm-node-6253239598",
+    "name": "Rjukan bibliotek, Hovin filial",
+    "lat": 59.8521682,
+    "lon": 9.0298846,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.tm.fylkesbibl.no/pages/bibliotekene-i-tinn"
+  },
+  {
+    "id": "osm-node-6253239600",
+    "name": "Bø bibliotek",
+    "lat": 59.4127746,
+    "lon": 9.0671194,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.bo.kommune.no/artikkel.aspx?MId1=848&AId=937&back=1"
+  },
+  {
+    "id": "osm-node-6253265838",
+    "name": "Hof bibliotek",
+    "lat": 59.528625,
+    "lon": 10.0893836,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.hof.vestfoldbibliotekene.no/"
+  },
+  {
+    "id": "osm-node-6253265839",
+    "name": "Sande bibliotek",
+    "lat": 59.5861296,
+    "lon": 10.2077418,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://holmestrandbibliotekene.no/nb/bibliotek/sande-bibliotek"
+  },
+  {
+    "id": "osm-node-6253265840",
+    "name": "Tjøme bibliotek",
+    "lat": 59.1107999,
+    "lon": 10.3934143,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://tjome.vestfoldbibliotekene.no/"
+  },
+  {
+    "id": "osm-node-6253265841",
+    "name": "Stokke bibliotek",
+    "lat": 59.2221507,
+    "lon": 10.300946,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://sandefjordbibliotekene.no/nb/bibliotek/stokke-bibliotek"
+  },
+  {
+    "id": "osm-node-6253265842",
+    "name": "Andebu bibliotek",
+    "lat": 59.3043394,
+    "lon": 10.1761938,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.sandefjord.kommune.no/Kultur-og-fritid/Kultur-og-kino/bibliotek/#heading-h3-4"
+  },
+  {
+    "id": "osm-node-6253265843",
+    "name": "Revetal bibliotek",
+    "lat": 59.3700513,
+    "lon": 10.2646293,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://re.vestfoldbibliotekene.no/"
+  },
+  {
+    "id": "osm-node-6253265844",
+    "name": "Horten bibliotek, Åsgårdstrand",
+    "lat": 59.3488601,
+    "lon": 10.4704055,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.horten.folkebibl.no"
+  },
+  {
+    "id": "osm-node-6253310579",
+    "name": "Rakkestad bibliotek",
+    "lat": 59.4282948,
+    "lon": 11.3433633,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.rakkestad.kommune.no/velkommen-til-rakkestad-bibliotek.4886487-177723.html"
+  },
+  {
+    "id": "osm-node-6253310580",
+    "name": "Aremark folkebibliotek",
+    "lat": 59.2257519,
+    "lon": 11.699749,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.aremark.kommune.no/aremark-folkebibliotek.236688.no.html"
+  },
+  {
+    "id": "osm-node-6253310581",
+    "name": "Fredrikstad bibliotek, Østsiden",
+    "lat": 59.2277239,
+    "lon": 10.9950674,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.fredrikstadbibliotek.no/"
+  },
+  {
+    "id": "osm-node-6253310582",
+    "name": "Skiptvet bibliotek",
+    "lat": 59.4705925,
+    "lon": 11.1711965,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.skiptvet.folkebibl.no"
+  },
+  {
+    "id": "osm-node-6253310583",
+    "name": "Spydeberg bibliotek",
+    "lat": 59.6204071,
+    "lon": 11.0807602,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.spydeberg.kommune.no/bibliotek"
+  },
+  {
+    "id": "osm-node-6253310584",
+    "name": "Trøgstad bibliotek",
+    "lat": 59.6385963,
+    "lon": 11.3223474,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.trogstad.kommune.no/bibliotek.243858.no.html"
+  },
+  {
+    "id": "osm-node-6253311886",
+    "name": "Rømskog bibliotek",
+    "lat": 59.7492817,
+    "lon": 11.8104155,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://aurskogholand.arena.axiell.com/-/filialbiblioteket#/"
+  },
+  {
+    "id": "osm-node-6253386339",
+    "name": "Kløfta bibliotek",
+    "lat": 60.0762036,
+    "lon": 11.1373849,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.ullensaker.kommune.no/bibliotek"
+  },
+  {
+    "id": "osm-node-6253386340",
+    "name": "Sørum bibliotek, Frogner avdeling",
+    "lat": 60.0250104,
+    "lon": 11.103571,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://bibliotekrom.no/sorum/frogner/"
+  },
+  {
+    "id": "osm-node-6253386341",
+    "name": "Bærum bibliotek, Rykkinn",
+    "lat": 59.9237471,
+    "lon": 10.4844619,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.barum.folkebibl.no"
+  },
+  {
+    "id": "osm-node-6253386342",
+    "name": "Rælingen videregående skole, biblioteket",
+    "lat": 59.9265159,
+    "lon": 11.0649011,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.raelingen.vgs.no/for-elever/elevtjenester/bibliotek/"
+  },
+  {
+    "id": "osm-node-6253386343",
+    "name": "Skedsmo bibliotek, Skedsmokorset bibliotekfilial",
+    "lat": 60.0011068,
+    "lon": 11.0396462,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.bibliotekrom.no/skedsmo/skedsmokorset"
+  },
+  {
+    "id": "osm-node-6253386344",
+    "name": "Skedsmo bibliotek",
+    "lat": 59.948262,
+    "lon": 11.009859,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.bibliotekrom.no/skedsmo"
+  },
+  {
+    "id": "osm-node-6253386345",
+    "name": "Ås bibliotek, Nordby",
+    "lat": 59.7392171,
+    "lon": 10.7686618,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://as.folkebibl.no/kontakt-oss.147995.no.html"
+  },
+  {
+    "id": "osm-node-6253386346",
+    "name": "Enebakk bibliotek",
+    "lat": 59.7644528,
+    "lon": 11.1445513,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://bibliotekrom.no/enebakk/"
+  },
+  {
+    "id": "osm-node-6253386348",
+    "name": "Vestby bibliotek",
+    "lat": 59.6014409,
+    "lon": 10.7482007,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.vestby.kommune.no/nytt-fra-biblioteket.81441.no.html"
+  },
+  {
+    "id": "osm-node-6253386349",
+    "name": "Dalen skole, biblioteket",
+    "lat": 59.8768808,
+    "lon": 11.2181639,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://wiki.fetskolene.no/index.php/Dalen_skole"
+  },
+  {
+    "id": "osm-node-6253386350",
+    "name": "Aurskog-Høland bibliotek",
+    "lat": 59.8840604,
+    "lon": 11.5678068,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://aurskogholand.arena.axiell.com/"
+  },
+  {
+    "id": "osm-node-6253386351",
+    "name": "Hurdal bibliotek",
+    "lat": 60.4331253,
+    "lon": 11.068893,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.hurdal.kommune.no/virksomheter/bibliotek/"
+  },
+  {
+    "id": "osm-node-6253386352",
+    "name": "Asker bibliotek, Heggedal",
+    "lat": 59.7864281,
+    "lon": 10.4361618,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.askerbibliotek.no/heggedal/"
+  },
+  {
+    "id": "osm-node-6253386353",
+    "name": "Nannestad bibliotek",
+    "lat": 60.2166151,
+    "lon": 11.0113165,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.nannestad.kommune.no/biblioteket/"
+  },
+  {
+    "id": "osm-node-6253386355",
+    "name": "Eidsvoll bibliotek, Råholt filial",
+    "lat": 60.2833185,
+    "lon": 11.1729938,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.eidsvoll.kommune.no/lokasjoner/eidsvoll-bibliotek/"
+  },
+  {
+    "id": "osm-node-6253428058",
+    "name": "NLB - Norsk lyd- og blindeskriftbibliotek",
+    "lat": 59.9139292,
+    "lon": 10.7179995,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.nlb.no/"
+  },
+  {
+    "id": "osm-node-6253608600",
+    "name": "Vang folkebibliotek",
+    "lat": 61.1257636,
+    "lon": 8.5728901,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://sok.bibliotekportalenoppland.no/bibnett/bibliotek/2054500.html"
+  },
+  {
+    "id": "osm-node-6253608601",
+    "name": "Hemsedal folkebibliotek",
+    "lat": 60.8623288,
+    "lon": 8.5612794,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://hemsedalbibliotek.no/"
+  },
+  {
+    "id": "osm-node-6253608602",
+    "name": "Øvre Eiker bibliotek",
+    "lat": 59.7707347,
+    "lon": 9.9084812,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://ovre-eiker.folkebibl.no"
+  },
+  {
+    "id": "osm-node-6253608604",
+    "name": "Gol bibliotek",
+    "lat": 60.7033011,
+    "lon": 8.9430284,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://golbibliotek.no/"
+  },
+  {
+    "id": "osm-node-6253608605",
+    "name": "Krødsherad bibliotek",
+    "lat": 60.124572,
+    "lon": 9.7865443,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://midtfylkebiblioteket.no/"
+  },
+  {
+    "id": "osm-node-6253608606",
+    "name": "Nes folkebibliotek",
+    "lat": 60.5693715,
+    "lon": 9.1020589,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/6253608606"
+  },
+  {
+    "id": "osm-node-6253608607",
+    "name": "Midt-Buskerud bibliotek Eggedal",
+    "lat": 60.2406608,
+    "lon": 9.3587451,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.sigdal.kommune.no/default.asp?Uid=132&cid=24"
+  },
+  {
+    "id": "osm-node-6253608608",
+    "name": "Flå folkebibliotek",
+    "lat": 60.4296137,
+    "lon": 9.4627145,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.hallingdalsbiblioteka.no/-/te-1#/"
+  },
+  {
+    "id": "osm-node-6253608609",
+    "name": "Midt-Buskerud bibliotek Prestfoss",
+    "lat": 60.0425135,
+    "lon": 9.6396464,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.sigdal.kommune.no/default.asp?uid=132&cid=24"
+  },
+  {
+    "id": "osm-node-6253608610",
+    "name": "Hole bibliotek",
+    "lat": 60.0802821,
+    "lon": 10.2812402,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.bibliotek.hole.kommune.no/"
+  },
+  {
+    "id": "osm-node-6253608611",
+    "name": "Nore og Uvdal bibliotek, Rødberg",
+    "lat": 60.2693522,
+    "lon": 8.9453639,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://noreoguvdalbibliotek.no/"
+  },
+  {
+    "id": "osm-node-6253608612",
+    "name": "Øvre Eiker bibliotek, Fiskum filial",
+    "lat": 59.7008665,
+    "lon": 9.8012417,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://oeikbib.no/tjenester/filialer/"
+  },
+  {
+    "id": "osm-node-6253608613",
+    "name": "Hol folkebibliotek, Holet bibliotekavdeling",
+    "lat": 60.615162,
+    "lon": 8.2985328,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.hol.kommune.no/Tjenester/Kultur-og-fritid/Hol-folkebibliotek/"
+  },
+  {
+    "id": "osm-node-6253608614",
+    "name": "Ringerike bibliotek, avdeling Nes",
+    "lat": 60.5654,
+    "lon": 9.9873284,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.ringerike.kommune.no/Tjenester/Biblioteket/Om-oss/Filialer/"
+  },
+  {
+    "id": "osm-node-6253608615",
+    "name": "Rollag folkebibliotek, Rollag avdeling",
+    "lat": 59.9840344,
+    "lon": 9.2952502,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.rollag.kommune.no/Organisasjon/Biblioteket.aspx"
+  },
+  {
+    "id": "osm-node-6253608616",
+    "name": "Ringerike bibliotek, avdeling Sokna",
+    "lat": 60.2426717,
+    "lon": 9.932082,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.ringerike.kommune.no/Tjenester/Biblioteket/Om-oss/Filialer/"
+  },
+  {
+    "id": "osm-node-6253608617",
+    "name": "Hol folkebibliotek, Hovet bibliotekfilial",
+    "lat": 60.6237044,
+    "lon": 8.1642133,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://holbib.no/"
+  },
+  {
+    "id": "osm-node-6253608618",
+    "name": "Rollag folkebibliotek, Veggli",
+    "lat": 60.0398404,
+    "lon": 9.157331,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.rollag.kommune.no/nb-NO/Tjenester.aspx?service=120718"
+  },
+  {
+    "id": "osm-node-6253608619",
+    "name": "Midt-Buskerud bibliotek Åmot",
+    "lat": 59.8950765,
+    "lon": 9.9294676,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.modumbibliotek.no/"
+  },
+  {
+    "id": "osm-node-6253608620",
+    "name": "Hol folkebibliotek, Geilo",
+    "lat": 60.5359031,
+    "lon": 8.2213867,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://holbib.no/"
+  },
+  {
+    "id": "osm-node-6253608621",
+    "name": "Kongsberg bibliotek, Filial Hvittingfoss",
+    "lat": 59.4841797,
+    "lon": 10.0107666,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.kongsberg.kommune.no/Tjenester/Kultur/Bibliotek/"
+  },
+  {
+    "id": "osm-node-6253608622",
+    "name": "Flesberg bibliotek",
+    "lat": 59.8370328,
+    "lon": 9.5796023,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.flesberg.kommune.no/Organisasjonen/Oppvekst_og_kulturetaten/Bibliotek.aspx"
+  },
+  {
+    "id": "osm-node-6253608623",
+    "name": "Drammen bibliotek, Fjell filial",
+    "lat": 59.719183,
+    "lon": 10.222599,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.drammensbiblioteket.no/"
+  },
+  {
+    "id": "osm-node-6253608624",
+    "name": "Hurum folkebibliotek",
+    "lat": 59.5410828,
+    "lon": 10.5563933,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.hurum.kommune.no/bibliotek.html"
+  },
+  {
+    "id": "osm-node-6253608625",
+    "name": "Lier bibliotek",
+    "lat": 59.78709,
+    "lon": 10.2442568,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://lierbib.no"
+  },
+  {
+    "id": "osm-node-6253799363",
+    "name": "Gjøvik bibliotek, Biri filial",
+    "lat": 60.9528444,
+    "lon": 10.6069574,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.gjovik.folkebibl.no"
+  },
+  {
+    "id": "osm-node-6253799364",
+    "name": "Sør-Aurdal folkebibliotek, Hedalen filial",
+    "lat": 60.6048616,
+    "lon": 9.7429023,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.sor-aurdal.kommune.no/artikkel.aspx?MId1=307&AId=463&back=1&MId2=315"
+  },
+  {
+    "id": "osm-node-6253799365",
+    "name": "Øystre Slidre folkebibliotek",
+    "lat": 61.132323,
+    "lon": 9.0830229,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://osfbibl.blogspot.no/"
+  },
+  {
+    "id": "osm-node-6253799366",
+    "name": "Gausdal folkebibliotek",
+    "lat": 61.2251714,
+    "lon": 10.2133901,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.gausdal.kommune.no/index.php?cat=415793"
+  },
+  {
+    "id": "osm-node-6253799367",
+    "name": "Sør-Aurdal folkebibliotek, Begnadalen filial",
+    "lat": 60.6484284,
+    "lon": 9.7832467,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.sor-aurdal.kommune.no/artikkel.aspx?MId1=307&AId=462&back=1&MId2=314"
+  },
+  {
+    "id": "osm-node-6253799368",
+    "name": "Etnedal folkebibliotek",
+    "lat": 60.8885377,
+    "lon": 9.6411597,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://sok.bibliotekportalenoppland.no/bibnett/bibliotek/2054100.html"
+  },
+  {
+    "id": "osm-node-6253799369",
+    "name": "Øyer folkebibliotek, avdeling Tretten",
+    "lat": 61.3139108,
+    "lon": 10.3017846,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.oyer.kommune.no/aapningstider-og-kontaktinformasjon.555156.no.html"
+  },
+  {
+    "id": "osm-node-6253799370",
+    "name": "Sør-Fron bibliotek",
+    "lat": 61.5565823,
+    "lon": 9.9395266,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.sor-fron.kommune.no/tjenester/kultur-og-fritid/bibliotek/"
+  },
+  {
+    "id": "osm-node-6253799371",
+    "name": "Nordre Land folkebibliotek, avd. Torpa",
+    "lat": 60.9662656,
+    "lon": 10.1082975,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.nordre-land.kommune.no/index.php?cat=87534"
+  },
+  {
+    "id": "osm-node-6253799372",
+    "name": "Sel bibliotek, Sel filial",
+    "lat": 61.8446981,
+    "lon": 9.4136738,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://sel.folkebibl.no/"
+  },
+  {
+    "id": "osm-node-6253799373",
+    "name": "Nordre Land folkebibliotek, Dokka",
+    "lat": 60.8347014,
+    "lon": 10.075406,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.nordre-land.kommune.no/index.php?cat=87534"
+  },
+  {
+    "id": "osm-node-6253799374",
+    "name": "Sel bibliotek, Heidal filial",
+    "lat": 61.7512081,
+    "lon": 9.3218679,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://sel.folkebibl.no/"
+  },
+  {
+    "id": "osm-node-6253799375",
+    "name": "Søndre Land folkebibliotek",
+    "lat": 60.6989712,
+    "lon": 10.3507494,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.sondre-land.kommune.no/enheter/biblioteket/"
+  },
+  {
+    "id": "osm-node-6253799376",
+    "name": "Gran bibliotek, Filial Brandbu",
+    "lat": 60.4202352,
+    "lon": 10.5093705,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.gran.kommune.no/bibliotek"
+  },
+  {
+    "id": "osm-node-6253799377",
+    "name": "Nord-Fron bibliotek",
+    "lat": 61.5954934,
+    "lon": 9.7481966,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://tjenester.bibliotekportalenoppland.no/bibliotek/vis.html?tid=26974"
+  },
+  {
+    "id": "osm-node-6253799378",
+    "name": "Vågå bibliotek",
+    "lat": 61.8755697,
+    "lon": 9.0957534,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://tjenester.bibliotekportalenoppland.no/bibliotek/vis.html?tid=26985"
+  },
+  {
+    "id": "osm-node-6253799379",
+    "name": "Gran bibliotek",
+    "lat": 60.3552502,
+    "lon": 10.5760917,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.gran.kommune.no/bibliotek"
+  },
+  {
+    "id": "osm-node-6253799380",
+    "name": "Lom folkebibliotek",
+    "lat": 61.8388095,
+    "lon": 8.5658221,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.lom.kommune.no/kultur-idrett-og-fritid/kultur/lom-folkebibliotek/"
+  },
+  {
+    "id": "osm-node-6253799381",
+    "name": "Lunner bibliotek, Harestua filial",
+    "lat": 60.2112215,
+    "lon": 10.7128142,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.lunner.kommune.no/bibliotek.297389.no.html"
+  },
+  {
+    "id": "osm-node-6253799382",
+    "name": "Skjåk folkebibliotek",
+    "lat": 61.8834743,
+    "lon": 8.2644483,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.skjaak.kommune.no/fokusartiklar-snarvegar/bibliotek/"
+  },
+  {
+    "id": "osm-node-6253799383",
+    "name": "Lunner bibliotek",
+    "lat": 60.2917568,
+    "lon": 10.6163519,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.lunner.kommune.no/bibliotek.297389.no.html"
+  },
+  {
+    "id": "osm-node-6253799384",
+    "name": "Lesja bibliotek, avdeling Lesjaskog",
+    "lat": 62.2311634,
+    "lon": 8.3808782,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.lesja.kommune.no/tenester/kultur-idrett-og-fritid/bibliotek/"
+  },
+  {
+    "id": "osm-node-6253801185",
+    "name": "Jevnaker folkebibliotek",
+    "lat": 60.2413547,
+    "lon": 10.384505,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.jevnaker.folkebibl.no"
+  },
+  {
+    "id": "osm-node-6253801186",
+    "name": "Lesja bibliotek",
+    "lat": 62.1177561,
+    "lon": 8.8572886,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.lesja.kommune.no/tenester/kultur-idrett-og-fritid/bibliotek/"
+  },
+  {
+    "id": "osm-node-6253801187",
+    "name": "Fyrverkeriet bibliotek, Vestre Toten",
+    "lat": 60.7256639,
+    "lon": 10.6076847,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.vestre-toten.folkebibl.no"
+  },
+  {
+    "id": "osm-node-6253892902",
+    "name": "Grue folkebibliotek, Kirkenær",
+    "lat": 60.4516982,
+    "lon": 12.0551583,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.grue.kommune.no/kultur-og-fritid/bibliotek/"
+  },
+  {
+    "id": "osm-node-6253892903",
+    "name": "Sør-Odal bibliotek",
+    "lat": 60.2535847,
+    "lon": 11.6830758,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.sor-odal.kommune.no/bibliotek/"
+  },
+  {
+    "id": "osm-node-6253892904",
+    "name": "Os bibliotek Bjørnsons Minde",
+    "lat": 62.49618,
+    "lon": 11.237603,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://websok.mikromarc.no/Mikromarc3/web/default.aspx?db=osroros-felles&unit=12111"
+  },
+  {
+    "id": "osm-node-6253892905",
+    "name": "Folldal bibliotek",
+    "lat": 62.1325692,
+    "lon": 9.9857833,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.folldal.kommune.no/tjenester/kultur-idrett-og-fritid/bibliotek/"
+  },
+  {
+    "id": "osm-node-6253892906",
+    "name": "Alvdal bibliotek",
+    "lat": 62.1087798,
+    "lon": 10.6322792,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.alvdal.kommune.no/tjenester/kultur-idrett-og-fritid/bibliotek/"
+  },
+  {
+    "id": "osm-node-6253892907",
+    "name": "Ringsaker bibliotek, avd. Brøttum",
+    "lat": 61.027991,
+    "lon": 10.5571522,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.ringsaker.kommune.no/biblioteket/"
+  },
+  {
+    "id": "osm-node-6253892908",
+    "name": "Tynset bibliotek",
+    "lat": 62.2739814,
+    "lon": 10.7761159,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.tynset.kommune.no/3432.4054.Bibliotek.html"
+  },
+  {
+    "id": "osm-node-6253892909",
+    "name": "Hamar bibliotek, avdeling Vang",
+    "lat": 60.8059717,
+    "lon": 11.1276674,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.hamar.kommune.no/category2363.html"
+  },
+  {
+    "id": "osm-node-6253892910",
+    "name": "Engerdal folkebibliotek",
+    "lat": 61.8863653,
+    "lon": 12.0303408,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.engerdal.kommune.no/Modules/Theme.aspx?ObjectType=Article&ElementID=6492&Category.ID=2921"
+  },
+  {
+    "id": "osm-node-6253892911",
+    "name": "Rendalen bibliotek",
+    "lat": 61.8901802,
+    "lon": 11.076949,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.rendalen.kommune.no/6735.9000.Rendalen-bibliotek.html"
+  },
+  {
+    "id": "osm-node-6253892912",
+    "name": "Stor-Elvdal bibliotek",
+    "lat": 61.5710324,
+    "lon": 11.0484574,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.stor-elvdal.kommune.no/Tema/Kultur%20og%20fritid/bibliotek/Sider/side.aspx"
+  },
+  {
+    "id": "osm-node-6253892913",
+    "name": "Åmot folkebibliotek",
+    "lat": 61.1317882,
+    "lon": 11.3730944,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.amot.kommune.no/tjenester/kultur-idrett-og-fritid/biblioteket/"
+  },
+  {
+    "id": "osm-node-6253892915",
+    "name": "Elverum bibliotek",
+    "lat": 60.881738,
+    "lon": 11.5631161,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.elverum.kommune.no/kultur-idrett-og-fritid/biblioteket"
+  },
+  {
+    "id": "osm-node-6253892916",
+    "name": "Tynset bibliotek, Kvikne bygdebibliotek",
+    "lat": 62.5612843,
+    "lon": 10.3243099,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.tynset.kommune.no/3432.4054.Bibliotek.html"
+  },
+  {
+    "id": "osm-node-6253892917",
+    "name": "Våler folkebibliotek",
+    "lat": 60.6735549,
+    "lon": 11.8302262,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vaaler-he.kommune.no/tjenester/kultur-idrett-og-fritid/bibliotek/"
+  },
+  {
+    "id": "osm-node-6253892918",
+    "name": "Åsnes folkebibliotek",
+    "lat": 60.6137023,
+    "lon": 12.0120428,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.asnes.kommune.no/artikkel.aspx?MId1=15&AId=240&back=1"
+  },
+  {
+    "id": "osm-node-6253892919",
+    "name": "Tolga folkebibliotek, Øversjødalen avdeling",
+    "lat": 62.2053382,
+    "lon": 11.4574484,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://websok.mikromarc.no/mikromarc3/nord-osterdal/default.aspx?db=nord-osterdal&unit=6465"
+  },
+  {
+    "id": "osm-node-6253986200",
+    "name": "Karmøy folkebibliotek, Åkrehamn filial",
+    "lat": 59.2610936,
+    "lon": 5.1897074,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://karmoy.kommune.no/no/tema/kultur-idrett-og-fritid/bibliotek/akrehamn-filial"
+  },
+  {
+    "id": "osm-node-6253986201",
+    "name": "Ryfylkebiblioteket Suldal, Jelsa filial",
+    "lat": 59.3432459,
+    "lon": 6.0424958,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.suldal.kommune.no/artikkel.aspx?MId1=701&AId=127&eid=91"
+  },
+  {
+    "id": "osm-node-6253986202",
+    "name": "Ryfylkebiblioteket Suldal, Erfjord filial",
+    "lat": 59.3547485,
+    "lon": 6.218712,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.ryfylkebiblioteket.no"
+  },
+  {
+    "id": "osm-node-6253986203",
+    "name": "Ryfylkebiblioteket Hjelmeland",
+    "lat": 59.2370255,
+    "lon": 6.1797006,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://ryfylkebiblioteket.no/"
+  },
+  {
+    "id": "osm-node-6253986204",
+    "name": "Ryfylkebiblioteket Forsand",
+    "lat": 58.8967988,
+    "lon": 6.1333638,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.forsand.kommune.no/forsand-bibliotek.4862436-173655.html"
+  },
+  {
+    "id": "osm-node-6253986205",
+    "name": "Ryfylkebiblioteket Suldal, Sand skule",
+    "lat": 59.4918377,
+    "lon": 6.2541309,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.minskule.no/sand"
+  },
+  {
+    "id": "osm-node-6253986207",
+    "name": "Randaberg folkebibliotek",
+    "lat": 58.9999614,
+    "lon": 5.6181516,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.randaberg.kommune.no/no/Organisasjonen/Kultur/Randaberg-folkebibliotek/"
+  },
+  {
+    "id": "osm-node-6253986208",
+    "name": "Vindafjord bibliotek",
+    "lat": 59.6049576,
+    "lon": 5.8150611,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.vindafjord.kommune.no/artikkel.aspx?MId1=482&AId=42"
+  },
+  {
+    "id": "osm-node-6253986209",
+    "name": "Klepp bibliotek",
+    "lat": 58.7765063,
+    "lon": 5.6299585,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.jærbiblioteka.no"
+  },
+  {
+    "id": "osm-node-6253986210",
+    "name": "Hå folkebibliotek, Varhaug avdeling",
+    "lat": 58.6163618,
+    "lon": 5.6510487,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.ha.no/artikkel.aspx?MId1=5316&AId=5101"
+  },
+  {
+    "id": "osm-node-6253986211",
+    "name": "Hå folkebibliotek, avd. Ogna",
+    "lat": 58.5179416,
+    "lon": 5.8094308,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.ha.no/artikkel.aspx?MId1=5315&AId=5100"
+  },
+  {
+    "id": "osm-node-6253986212",
+    "name": "Hå folkebibliotek",
+    "lat": 58.664016,
+    "lon": 5.6341776,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.ha.no/bibliotek"
+  },
+  {
+    "id": "osm-node-6253986213",
+    "name": "Ryfylkebiblioteket Strand, Tau filial",
+    "lat": 59.0626352,
+    "lon": 5.9244662,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://asp.bibits.no/strand%5Ffb/"
+  },
+  {
+    "id": "osm-node-6253986214",
+    "name": "Ryfylkebiblioteket Finnøy, avd. Sjernarøy",
+    "lat": 59.260785,
+    "lon": 5.8837113,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.finnoy.kommune.no/artikkel.aspx?AId=28"
+  },
+  {
+    "id": "osm-node-6253986215",
+    "name": "Lund folkebibliotek",
+    "lat": 58.4567531,
+    "lon": 6.5513548,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.lund.kommune.no/bibliotek.184821.no.html"
+  },
+  {
+    "id": "osm-node-6253986216",
+    "name": "Ryfylkebiblioteket Hjelmeland, Årdal filial",
+    "lat": 59.155932,
+    "lon": 6.1930862,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://ryfylkebiblioteket.no/"
+  },
+  {
+    "id": "osm-node-6253986217",
+    "name": "Utsira folkebibliotek",
+    "lat": 59.305623,
+    "lon": 4.8866049,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.utsira.folkebibl.no/"
+  },
+  {
+    "id": "osm-node-6253986218",
+    "name": "Eigersund folkebibliotek",
+    "lat": 58.4529997,
+    "lon": 6.0042666,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.eigersund.kommune.no/eigersund-folkebibliotek.4662136-148640.html"
+  },
+  {
+    "id": "osm-node-6253986219",
+    "name": "Karmøy folkebibliotek",
+    "lat": 59.2828189,
+    "lon": 5.3094012,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://karmoy.kommune.no/no/tema/kultur-idrett-og-fritid/bibliotek"
+  },
+  {
+    "id": "osm-node-6253986220",
+    "name": "Tysvær bibliotek, Nedstrand filial",
+    "lat": 59.3488893,
+    "lon": 5.7988777,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://tysverbibliotek.no/"
+  },
+  {
+    "id": "osm-node-6253986221",
+    "name": "Kvitsøy folkebibliotek",
+    "lat": 59.0620665,
+    "lon": 5.4023837,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.kvitsoy.kommune.no/Tjenester/Kultur1/Biblioteket1/"
+  },
+  {
+    "id": "osm-node-6253986222",
+    "name": "Rennesøy folkebibliotek",
+    "lat": 59.097189,
+    "lon": 5.6974236,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.rennesoy.kommune.no/ORGANISASJON1/Kultur-og-samfunn/Kultur1/Rennesoy-Folkebibliotek/"
+  },
+  {
+    "id": "osm-node-6253986223",
+    "name": "Finnøy folkebibliotek",
+    "lat": 59.174486,
+    "lon": 5.8729041,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.finnoy.kommune.no/artikkel.aspx?AId=28&back=1&MId1=124&MId2=23"
+  },
+  {
+    "id": "osm-node-6253986224",
+    "name": "Ryfylkebiblioteket Suldal, Nesflaten filial",
+    "lat": 59.6460512,
+    "lon": 6.8070032,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.suldal.kommune.no/artikkel.aspx?MId1=701&AId=128&eid=91"
+  },
+  {
+    "id": "osm-node-6253986225",
+    "name": "Ryfylkebiblioteket Suldal, Ropeidhalvøya filial",
+    "lat": 59.4116579,
+    "lon": 6.0848738,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.suldal.kommune.no/artikkel.aspx?MId1=701&AId=129&eid=91"
+  },
+  {
+    "id": "osm-node-631605816",
+    "name": "Deichman Tøyen",
+    "lat": 59.914156,
+    "lon": 10.7755428,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://deichman.no/bibliotekene/tøyen"
+  },
+  {
+    "id": "osm-node-6835586921",
+    "name": "Tjuvåskampen Mikrobibliotek",
+    "lat": 60.5668181,
+    "lon": 10.8989805,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/6835586921"
+  },
+  {
+    "id": "osm-node-685481029",
+    "name": "Narvik bibliotek",
+    "lat": 68.4378699,
+    "lon": 17.4256397,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.narvik.kommune.no/tjenester/samfunn-kultur-fritid-og-idrett/bibliotek/"
+  },
+  {
+    "id": "osm-node-6887742918",
+    "name": "Askim bibliotek",
+    "lat": 59.584463,
+    "lon": 11.161337,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.askim.kommune.no/bibliotek.215587.no.html"
+  },
+  {
+    "id": "osm-node-689444858",
+    "name": "Kristiansand folkebibliotek",
+    "lat": 58.145798,
+    "lon": 7.993869,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://krsbib.no/"
+  },
+  {
+    "id": "osm-node-703519079",
+    "name": "Dyrøy folkebibliotek",
+    "lat": 69.0922501,
+    "lon": 17.6933876,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.dyroybibliotek.no/"
+  },
+  {
+    "id": "osm-node-7059935357",
+    "name": "Øksnes folkebibliotek",
+    "lat": 68.914828,
+    "lon": 15.0778,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/7059935357"
+  },
+  {
+    "id": "osm-node-7111568526",
+    "name": "THVS bibliotek",
+    "lat": 59.0494793,
+    "lon": 10.0548303,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://nyweb.vfk.no/skoler/thor-heyerdahl-vgs/meny/elev-ved-thvs/bibliotek/"
+  },
+  {
+    "id": "osm-node-737249245",
+    "name": "Bærum bibliotek, Eiksmarka",
+    "lat": 59.9466882,
+    "lon": 10.6189095,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.barum.folkebibl.no"
+  },
+  {
+    "id": "osm-node-7387117397",
+    "name": "Hvaler folkebibliotek",
+    "lat": 59.0249962,
+    "lon": 11.0365336,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.hvaler.kommune.no/Tjenester/Skolene-pa-Hvaler/Hvaler-oppvekst-og-kultursenter/Hvaler-Folkebibliotek/"
+  },
+  {
+    "id": "osm-node-791775998",
+    "name": "Drammensbiblioteket",
+    "lat": 59.743737,
+    "lon": 10.194074,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.drammensbiblioteket.no/"
+  },
+  {
+    "id": "osm-node-7959754714",
+    "name": "Deichman Biblo Tøyen Ungdomsbibliotek",
+    "lat": 59.9144529,
+    "lon": 10.7746517,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://deichman.no/bibliotekene/biblo-t%C3%B8yen"
+  },
+  {
+    "id": "osm-node-8011827554",
+    "name": "Universitetsbiblioteket",
+    "lat": 59.9389959,
+    "lon": 10.7215302,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/8011827554"
+  },
+  {
+    "id": "osm-node-812667529",
+    "name": "Tromsø bibliotek avd. Tromsdalen",
+    "lat": 69.645368,
+    "lon": 18.9929512,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.tromso.kommune.no/tromsdalen-bibliotek.4548387-122942.html"
+  },
+  {
+    "id": "osm-node-8221871906",
+    "name": "Larvik bibliotek",
+    "lat": 59.0543078,
+    "lon": 10.0297118,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://larvik.vestfoldbibliotekene.no/"
+  },
+  {
+    "id": "osm-node-831362496",
+    "name": "Sandefjord bibliotek",
+    "lat": 59.1283038,
+    "lon": 10.2200274,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.sandefjord.folkebibl.no/"
+  },
+  {
+    "id": "osm-node-8408229251",
+    "name": "Universitetsbiblioteket - Psykologi og jus",
+    "lat": 69.6816186,
+    "lon": 18.9708235,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/8408229251"
+  },
+  {
+    "id": "osm-node-8427981700",
+    "name": "Nærøysund bibliotek avdeling Kolvereid",
+    "lat": 64.86312,
+    "lon": 11.598402,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/8427981700"
+  },
+  {
+    "id": "osm-node-8635549028",
+    "name": "Bjerkreim folkebibliotek",
+    "lat": 58.6384413,
+    "lon": 6.0935605,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.bjerkreim.kommune.no/tenester/kultur-idrett-og-fritid/bibliotek/"
+  },
+  {
+    "id": "osm-node-8712953517",
+    "name": "Vardø folkebibliotek",
+    "lat": 70.3703982,
+    "lon": 31.1079866,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/8712953517"
+  },
+  {
+    "id": "osm-node-8926545877",
+    "name": "Bømlo folkebibliotek",
+    "lat": 59.6005039,
+    "lon": 5.2105601,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/8926545877"
+  },
+  {
+    "id": "osm-node-8974204923",
+    "name": "Rygge bibliotek",
+    "lat": 59.406267,
+    "lon": 10.691542,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.mossebibliotekene.no/bibliotek/rygge"
+  },
+  {
+    "id": "osm-node-907062530",
+    "name": "Lyngdal bibliotek",
+    "lat": 58.1384413,
+    "lon": 7.0689817,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.lyngdalkulturhus.no/bibliotek/"
+  },
+  {
+    "id": "osm-node-932590983",
+    "name": "Moss bibliotek",
+    "lat": 59.438437,
+    "lon": 10.667735,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.mossebibliotekene.no/"
+  },
+  {
+    "id": "osm-node-9949416673",
+    "name": "Lillestrøm Bibliotek",
+    "lat": 59.954561,
+    "lon": 11.042614,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://lillestrombibliotekene.no/bibliotekene/lillestrom-bibliotek/"
+  },
+  {
+    "id": "osm-way-1069415209",
+    "name": "Library",
+    "lat": 60.0461578,
+    "lon": 5.5239937,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1069415209"
+  },
+  {
+    "id": "osm-way-123620849",
+    "name": "Statsarkivet i Kongsberg",
+    "lat": 59.6840265,
+    "lon": 9.651813,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/123620849"
+  },
+  {
+    "id": "osm-way-129296266",
+    "name": "Deichman Grünerløkka",
+    "lat": 59.9208605,
+    "lon": 10.760244,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://deichman.no/bibliotekene/gr%C3%BCnerl%C3%B8kka"
+  },
+  {
+    "id": "osm-way-1315904956",
+    "name": "Library",
+    "lat": 66.36376,
+    "lon": 12.5942463,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1315904956"
+  },
+  {
+    "id": "osm-way-143310989",
+    "name": "Sarpsborg hovedbibliotek",
+    "lat": 59.2819404,
+    "lon": 11.1080208,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://websok.mikromarc.no/sarpsborg-fb"
+  },
+  {
+    "id": "osm-way-1450090870",
+    "name": "Bibliotek for realfag",
+    "lat": 60.3846203,
+    "lon": 5.3291416,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.uib.no/ub/realfag"
+  },
+  {
+    "id": "osm-way-1462654851",
+    "name": "Bærum Bibliotek Fornebu",
+    "lat": 59.9006036,
+    "lon": 10.6225498,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://barum.folkebibl.no/avdelinger/fornebu/"
+  },
+  {
+    "id": "osm-way-1508905710",
+    "name": "Library",
+    "lat": 58.182069,
+    "lon": 8.3177018,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1508905710"
+  },
+  {
+    "id": "osm-way-157081944",
+    "name": "Gunnerusbiblioteket",
+    "lat": 63.4287926,
+    "lon": 10.385674,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.ntnu.no/ub/bibliotek/gunnerus"
+  },
+  {
+    "id": "osm-way-158461775",
+    "name": "Skien bibliotek",
+    "lat": 59.2081267,
+    "lon": 9.6057075,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.skienbibliotek.no/"
+  },
+  {
+    "id": "osm-way-186894043",
+    "name": "Bibliotek for humaniora",
+    "lat": 60.3878307,
+    "lon": 5.3195103,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.uib.no/ub/svh"
+  },
+  {
+    "id": "osm-way-189042469",
+    "name": "Vadsø bibliotek",
+    "lat": 70.0727261,
+    "lon": 29.7557132,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.vadso.folkebibl.no/"
+  },
+  {
+    "id": "osm-way-201630624",
+    "name": "Fet folkebibliotek",
+    "lat": 59.9244915,
+    "lon": 11.1560496,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://bibliotekrom.no/fet/"
+  },
+  {
+    "id": "osm-way-219678885",
+    "name": "Deichman Bøler",
+    "lat": 59.8826403,
+    "lon": 10.844131,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.deichman.no/boler"
+  },
+  {
+    "id": "osm-way-220585128",
+    "name": "Gjøvik bibliotek og litteraturhus",
+    "lat": 60.7948055,
+    "lon": 10.6919295,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.gjovik.kommune.no/gbiblit/"
+  },
+  {
+    "id": "osm-way-231025022",
+    "name": "Library",
+    "lat": 61.2016609,
+    "lon": 6.5330383,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/231025022"
+  },
+  {
+    "id": "osm-way-231862625",
+    "name": "Øksnes folkebibliotek",
+    "lat": 68.9148388,
+    "lon": 15.0778022,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.oksnes.kommune.no/index.php?option=com_zoo&view=category&layout=category&Itemid=325"
+  },
+  {
+    "id": "osm-way-25409857",
+    "name": "Nasjonalbiblioteket",
+    "lat": 59.914055,
+    "lon": 10.7175765,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://nb.no"
+  },
+  {
+    "id": "osm-way-254337713",
+    "name": "Hammerfest bibliotek",
+    "lat": 70.6639792,
+    "lon": 23.6824183,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.hammerfest.folkebibl.no/"
+  },
+  {
+    "id": "osm-way-288341643",
+    "name": "Horten bibliotek",
+    "lat": 59.4154155,
+    "lon": 10.4854235,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://htnbib.no/"
+  },
+  {
+    "id": "osm-way-309267467",
+    "name": "Evenes folkebibliotek",
+    "lat": 68.526626,
+    "lon": 16.9969545,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.evenes.kommune.no/organisasjon/biblioteket"
+  },
+  {
+    "id": "osm-way-318627514",
+    "name": "Kárásjoga bibliotehka - Karasjok bibliotek",
+    "lat": 69.4723275,
+    "lon": 25.515606,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.karasjok.kommune.no/Modules/theme.aspx?ObjectType=Article&ElementID=676&Category.ID=1207"
+  },
+  {
+    "id": "osm-way-368661140",
+    "name": "Library",
+    "lat": 59.2174135,
+    "lon": 10.9045047,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/368661140"
+  },
+  {
+    "id": "osm-way-39269383",
+    "name": "Universitetsbiblioteket - Kultur- og samfunnsfag",
+    "lat": 69.6810344,
+    "lon": 18.973301,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/39269383"
+  },
+  {
+    "id": "osm-way-399244513",
+    "name": "Beiarn folkebibliotek",
+    "lat": 67.0080245,
+    "lon": 14.5725693,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.beiarn.kommune.no/nordland/beiarn/beiarnk.nsf/id/920FA771057FA661C1256BCF00589E32?OpenDocument"
+  },
+  {
+    "id": "osm-way-45355123",
+    "name": "Kvinnherad bibliotek",
+    "lat": 59.8606065,
+    "lon": 5.755296,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.kvinnheradbibliotek.no/"
+  },
+  {
+    "id": "osm-way-485460048",
+    "name": "Mjøndalen bibliotek",
+    "lat": 59.7500165,
+    "lon": 10.015609,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.drammensbiblioteket.no/-/mj-ndalen-bibliotek#/?location=Mj%C3%B8ndalen"
+  },
+  {
+    "id": "osm-way-50118042",
+    "name": "Bærum bibliotek, Bekkestua",
+    "lat": 59.9179022,
+    "lon": 10.5846279,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.barum.folkebibl.no"
+  },
+  {
+    "id": "osm-way-505011288",
+    "name": "Sunndal folkebibliotek",
+    "lat": 62.673865,
+    "lon": 8.563568,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.sunndal.kommune.no/bibliotek/"
+  },
+  {
+    "id": "osm-way-540271947",
+    "name": "Grimstad bibliotek",
+    "lat": 58.3398462,
+    "lon": 8.593344,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://grimstadbibliotek.no/"
+  },
+  {
+    "id": "osm-way-543361761",
+    "name": "Stormen bibliotek - Stoarmmo girjjevuorkka",
+    "lat": 67.2826585,
+    "lon": 14.373854,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.stormen.no/biblioteket"
+  },
+  {
+    "id": "osm-way-568381695",
+    "name": "Holmestrand bibliotek",
+    "lat": 59.487552,
+    "lon": 10.3182035,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://holmestrand.vestfoldbibliotekene.no/"
+  },
+  {
+    "id": "osm-way-594291754",
+    "name": "Larvik bibliotek, avdeling Stavern",
+    "lat": 58.9988826,
+    "lon": 10.0376082,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://larvik.vestfoldbibliotekene.no/avdelinger/stavern/"
+  },
+  {
+    "id": "osm-way-621094378",
+    "name": "Deichman Bjørvika",
+    "lat": 59.9086914,
+    "lon": 10.7525854,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://deichman.no/bibliotekene/bjørvika"
+  },
+  {
+    "id": "osm-way-636058690",
+    "name": "Lenvik bibliotek",
+    "lat": 69.2286959,
+    "lon": 17.9754331,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.lenvikbibliotek.no"
+  },
+  {
+    "id": "osm-way-649324892",
+    "name": "Tønsberg og Færder bibliotek",
+    "lat": 59.2658559,
+    "lon": 10.4097761,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.tnb.no/"
+  },
+  {
+    "id": "osm-way-669605653",
+    "name": "Book booth",
+    "lat": 59.7164414,
+    "lon": 10.3671853,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/669605653"
+  },
+  {
+    "id": "osm-way-681317967",
+    "name": "Midt-Buskerud bibliotek Modum",
+    "lat": 59.973211,
+    "lon": 10.0039635,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.modumbibliotek.no/"
+  },
+  {
+    "id": "osm-way-685450654",
+    "name": "Trysil folkebibliotek",
+    "lat": 61.3163295,
+    "lon": 12.2629285,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.trysil.kommune.no/Modules/Theme.aspx?ObjectType=Article&ElementID=6365&Category.ID=3273"
+  },
+  {
+    "id": "osm-way-76780295",
+    "name": "Riksarkivet",
+    "lat": 59.9667125,
+    "lon": 10.735549,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/76780295"
+  },
+  {
+    "id": "osm-way-803108313",
+    "name": "Utne bibliotek",
+    "lat": 60.4241559,
+    "lon": 6.6207615,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/803108313"
+  },
+  {
+    "id": "osm-way-87207946",
+    "name": "Haugesund folkebibliotek",
+    "lat": 59.414494,
+    "lon": 5.2712085,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.haugesundbibliotek.no/"
+  },
+  {
+    "id": "osm-way-87439259",
+    "name": "Ringsaker bibliotek, Brumunddal",
+    "lat": 60.8842061,
+    "lon": 10.946817,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.ringsaker.kommune.no/biblioteket/"
+  },
+  {
+    "id": "osm-way-893067398",
+    "name": "Bygland folkebibliotek, Byglandsfjord filial",
+    "lat": 58.6671231,
+    "lon": 7.8025143,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://setesdalsbiblioteka.no/"
+  },
+  {
+    "id": "osm-way-89360938",
+    "name": "Fredrikstad bibliotek",
+    "lat": 59.2062025,
+    "lon": 10.9420015,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.fredrikstad.kommune.no/biblioteket"
+  },
+  {
+    "id": "osm-way-97776238",
+    "name": "Tromsø bibliotek og byarkiv",
+    "lat": 69.650722,
+    "lon": 18.9546926,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.tromso.kommune.no/biblioteket"
+  }
+]

@@ -1,0 +1,6132 @@
+[
+  {
+    "id": "osm-relation-10274444",
+    "name": "Seiersten stadion",
+    "lat": 59.668255,
+    "lon": 10.6353862,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/10274444"
+  },
+  {
+    "id": "osm-relation-10279187",
+    "name": "Fyllingsdalen stadion",
+    "lat": 60.348031,
+    "lon": 5.2876636,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/10279187"
+  },
+  {
+    "id": "osm-relation-10353699",
+    "name": "Sand stadion",
+    "lat": 59.4931608,
+    "lon": 6.2534245,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/10353699"
+  },
+  {
+    "id": "osm-relation-10510291",
+    "name": "Eventyrøy idrettsplass",
+    "lat": 59.4888512,
+    "lon": 8.6417552,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/10510291"
+  },
+  {
+    "id": "osm-relation-10825546",
+    "name": "Hauesund friidrettsstadion",
+    "lat": 59.4239439,
+    "lon": 5.2843214,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/10825546"
+  },
+  {
+    "id": "osm-relation-11618259",
+    "name": "Sagbakken Idrettspark",
+    "lat": 66.3202769,
+    "lon": 14.1605095,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/11618259"
+  },
+  {
+    "id": "osm-relation-11746046",
+    "name": "Palmafossen stadion",
+    "lat": 60.6367975,
+    "lon": 6.47176,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/11746046"
+  },
+  {
+    "id": "osm-relation-11976171",
+    "name": "Måndalen stadion",
+    "lat": 62.5234229,
+    "lon": 7.4268439,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/11976171"
+  },
+  {
+    "id": "osm-relation-12176419",
+    "name": "Skjold idrettsanlegg",
+    "lat": 59.5067982,
+    "lon": 5.5951746,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/12176419"
+  },
+  {
+    "id": "osm-relation-12276202",
+    "name": "Leknes idrettspark",
+    "lat": 68.154156,
+    "lon": 13.6338796,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/12276202"
+  },
+  {
+    "id": "osm-relation-12731310",
+    "name": "Aksla stadion",
+    "lat": 62.4758565,
+    "lon": 6.1840512,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/12731310"
+  },
+  {
+    "id": "osm-relation-12747850",
+    "name": "Molde idrettspark",
+    "lat": 62.7404686,
+    "lon": 7.15567,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/12747850"
+  },
+  {
+    "id": "osm-relation-13043545",
+    "name": "Kuventræ idrettsanlegg",
+    "lat": 60.1937731,
+    "lon": 5.4497452,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/13043545"
+  },
+  {
+    "id": "osm-relation-13081437",
+    "name": "Melløs stadion",
+    "lat": 59.4207528,
+    "lon": 10.6710971,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/13081437"
+  },
+  {
+    "id": "osm-relation-13288709",
+    "name": "Åsane stadion",
+    "lat": 60.4572271,
+    "lon": 5.3091987,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/13288709"
+  },
+  {
+    "id": "osm-relation-13376577",
+    "name": "Modig stadion",
+    "lat": 61.0706515,
+    "lon": 6.9305249,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/13376577"
+  },
+  {
+    "id": "osm-relation-13380180",
+    "name": "Hagabotnane idrettsanlegg",
+    "lat": 60.3871951,
+    "lon": 5.7765782,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/13380180"
+  },
+  {
+    "id": "osm-relation-13469610",
+    "name": "Vikahaugane idrettspark",
+    "lat": 59.7740768,
+    "lon": 5.4904589,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/13469610"
+  },
+  {
+    "id": "osm-relation-13529941",
+    "name": "Mjåvann friidrettssanlegg",
+    "lat": 58.6156941,
+    "lon": 8.9224538,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/13529941"
+  },
+  {
+    "id": "osm-relation-13774257",
+    "name": "Øya stadion",
+    "lat": 63.4106476,
+    "lon": 10.8035993,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/13774257"
+  },
+  {
+    "id": "osm-relation-13806941",
+    "name": "Luster idrettspark",
+    "lat": 61.4038321,
+    "lon": 7.2890805,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/13806941"
+  },
+  {
+    "id": "osm-relation-13823823",
+    "name": "Kvåle stadion",
+    "lat": 61.2309793,
+    "lon": 7.0790336,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/13823823"
+  },
+  {
+    "id": "osm-relation-13848154",
+    "name": "Kreklingen stadion",
+    "lat": 61.2066288,
+    "lon": 6.5277451,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/13848154"
+  },
+  {
+    "id": "osm-relation-13850967",
+    "name": "Marienlyst friidrettsbane",
+    "lat": 59.7362083,
+    "lon": 10.202158,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/13850967"
+  },
+  {
+    "id": "osm-relation-13925820",
+    "name": "Sandnes stadion",
+    "lat": 58.8594318,
+    "lon": 5.7259176,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/13925820"
+  },
+  {
+    "id": "osm-relation-14249532",
+    "name": "Fana stadion",
+    "lat": 60.2904615,
+    "lon": 5.3193535,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/14249532"
+  },
+  {
+    "id": "osm-relation-14364759",
+    "name": "Valhall stadion",
+    "lat": 69.6601973,
+    "lon": 18.9561396,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/14364759"
+  },
+  {
+    "id": "osm-relation-14373898",
+    "name": "Athletics track",
+    "lat": 63.1238695,
+    "lon": 7.7357765,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/14373898"
+  },
+  {
+    "id": "osm-relation-15006405",
+    "name": "Husnes idrettspark",
+    "lat": 59.8515669,
+    "lon": 5.7440806,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/15006405"
+  },
+  {
+    "id": "osm-relation-15008526",
+    "name": "Vadsø idrettspark",
+    "lat": 70.0786174,
+    "lon": 29.7431962,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/15008526"
+  },
+  {
+    "id": "osm-relation-15050598",
+    "name": "Athletics track",
+    "lat": 63.4752005,
+    "lon": 10.9307085,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/15050598"
+  },
+  {
+    "id": "osm-relation-15050599",
+    "name": "Athletics track",
+    "lat": 63.4751916,
+    "lon": 10.9311727,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/15050599"
+  },
+  {
+    "id": "osm-relation-15050600",
+    "name": "Athletics track",
+    "lat": 63.4752061,
+    "lon": 10.9309056,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/15050600"
+  },
+  {
+    "id": "osm-relation-15050601",
+    "name": "Øverlands Minde friidrettsanlegg",
+    "lat": 63.4745255,
+    "lon": 10.9309136,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/15050601"
+  },
+  {
+    "id": "osm-relation-15445353",
+    "name": "Narvik stadion",
+    "lat": 68.4414747,
+    "lon": 17.4060575,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/15445353"
+  },
+  {
+    "id": "osm-relation-15509476",
+    "name": "Sortland idrettspark",
+    "lat": 68.6921644,
+    "lon": 15.4030697,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/15509476"
+  },
+  {
+    "id": "osm-relation-15577888",
+    "name": "Ammerud skole",
+    "lat": 59.9651005,
+    "lon": 10.8752576,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/15577888"
+  },
+  {
+    "id": "osm-relation-15750867",
+    "name": "Lunderød stadion",
+    "lat": 58.4369688,
+    "lon": 8.6939219,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/15750867"
+  },
+  {
+    "id": "osm-relation-15813445",
+    "name": "Levermyr stadion",
+    "lat": 58.345746,
+    "lon": 8.5921999,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/15813445"
+  },
+  {
+    "id": "osm-relation-15892852",
+    "name": "Skrim idrettspark",
+    "lat": 59.6291109,
+    "lon": 9.6469272,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/15892852"
+  },
+  {
+    "id": "osm-relation-15910370",
+    "name": "Borre idrettspark",
+    "lat": 59.4053169,
+    "lon": 10.4608484,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/15910370"
+  },
+  {
+    "id": "osm-relation-1603790",
+    "name": "Athletics track",
+    "lat": 59.9250129,
+    "lon": 10.7334114,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/1603790"
+  },
+  {
+    "id": "osm-relation-16397876",
+    "name": "Raufoss stadion",
+    "lat": 60.7211533,
+    "lon": 10.602829,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/16397876"
+  },
+  {
+    "id": "osm-relation-16400749",
+    "name": "Athletics track",
+    "lat": 60.3547303,
+    "lon": 10.5807085,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/16400749"
+  },
+  {
+    "id": "osm-relation-16400754",
+    "name": "Brandbu stadion",
+    "lat": 60.4186308,
+    "lon": 10.5162047,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/16400754"
+  },
+  {
+    "id": "osm-relation-16406321",
+    "name": "Gjøvik stadion",
+    "lat": 60.7995289,
+    "lon": 10.6818562,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/16406321"
+  },
+  {
+    "id": "osm-relation-16439963",
+    "name": "Harestua stadion",
+    "lat": 60.2110082,
+    "lon": 10.7115011,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/16439963"
+  },
+  {
+    "id": "osm-relation-16481709",
+    "name": "Hønefoss idrettspark",
+    "lat": 60.1587045,
+    "lon": 10.2637306,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/16481709"
+  },
+  {
+    "id": "osm-relation-16487455",
+    "name": "Furumo friidrettsstadion",
+    "lat": 59.9361297,
+    "lon": 9.9632067,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/16487455"
+  },
+  {
+    "id": "osm-relation-16503396",
+    "name": "Athletics track",
+    "lat": 59.759107,
+    "lon": 9.9016131,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/16503396"
+  },
+  {
+    "id": "osm-relation-16503445",
+    "name": "Røren idrettspark",
+    "lat": 59.7678607,
+    "lon": 9.8726364,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/16503445"
+  },
+  {
+    "id": "osm-relation-16509040",
+    "name": "Kjølnes stadion",
+    "lat": 59.1424975,
+    "lon": 9.6667158,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/16509040"
+  },
+  {
+    "id": "osm-relation-16518630",
+    "name": "Sande stadion",
+    "lat": 62.670899,
+    "lon": 8.590448,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/16518630"
+  },
+  {
+    "id": "osm-relation-16518631",
+    "name": "Leikvoll stadion",
+    "lat": 62.7678642,
+    "lon": 8.5344283,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/16518631"
+  },
+  {
+    "id": "osm-relation-16523759",
+    "name": "Sætre idrettsanlegg",
+    "lat": 59.5731732,
+    "lon": 9.2696295,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/16523759"
+  },
+  {
+    "id": "osm-relation-16565639",
+    "name": "Torvastad idrettssenter friidrett",
+    "lat": 59.3881813,
+    "lon": 5.2496152,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/16565639"
+  },
+  {
+    "id": "osm-relation-16616590",
+    "name": "Frøyland stadion",
+    "lat": 58.7831519,
+    "lon": 5.7175398,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/16616590"
+  },
+  {
+    "id": "osm-relation-16616592",
+    "name": "Lye friidrettsanlegg",
+    "lat": 58.7344809,
+    "lon": 5.7378481,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/16616592"
+  },
+  {
+    "id": "osm-relation-16642504",
+    "name": "Tananger stadion",
+    "lat": 58.9362043,
+    "lon": 5.6007542,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/16642504"
+  },
+  {
+    "id": "osm-relation-16642527",
+    "name": "Sola friidrettsstadion",
+    "lat": 58.8947049,
+    "lon": 5.6627992,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/16642527"
+  },
+  {
+    "id": "osm-relation-16712822",
+    "name": "Friplassen Kløfta",
+    "lat": 60.0720219,
+    "lon": 11.1301615,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/16712822"
+  },
+  {
+    "id": "osm-relation-16791249",
+    "name": "Mjær stadion",
+    "lat": 59.7262828,
+    "lon": 11.0613149,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/16791249"
+  },
+  {
+    "id": "osm-relation-16876694",
+    "name": "Aurland stadion",
+    "lat": 60.9039493,
+    "lon": 7.1956526,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/16876694"
+  },
+  {
+    "id": "osm-relation-17120252",
+    "name": "Alta idrettspark",
+    "lat": 69.963893,
+    "lon": 23.307935,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17120252"
+  },
+  {
+    "id": "osm-relation-17271999",
+    "name": "Romedal friidrettsanlegg",
+    "lat": 60.7321808,
+    "lon": 11.262035,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17271999"
+  },
+  {
+    "id": "osm-relation-17371530",
+    "name": "Hammerfest stadion",
+    "lat": 70.6581587,
+    "lon": 23.7071251,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17371530"
+  },
+  {
+    "id": "osm-relation-17373288",
+    "name": "Kippermoen friidrettsstadion",
+    "lat": 65.8312717,
+    "lon": 13.2237724,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17373288"
+  },
+  {
+    "id": "osm-relation-17373290",
+    "name": "Radåsmyra stadion",
+    "lat": 66.0068554,
+    "lon": 12.6104384,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17373290"
+  },
+  {
+    "id": "osm-relation-17373291",
+    "name": "Andenes stadion friidrett",
+    "lat": 69.313124,
+    "lon": 16.1139995,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17373291"
+  },
+  {
+    "id": "osm-relation-17377171",
+    "name": "Kjempesteinsmyra stadion",
+    "lat": 58.7155867,
+    "lon": 9.2172349,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17377171"
+  },
+  {
+    "id": "osm-relation-17377173",
+    "name": "Moseidmoen stadion",
+    "lat": 58.2590582,
+    "lon": 7.9557291,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17377173"
+  },
+  {
+    "id": "osm-relation-17377174",
+    "name": "Søgne friidrettsstadion",
+    "lat": 58.0957458,
+    "lon": 7.8067844,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17377174"
+  },
+  {
+    "id": "osm-relation-17377175",
+    "name": "Øyslebø friidrettsanlegg",
+    "lat": 58.1713785,
+    "lon": 7.556485,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17377175"
+  },
+  {
+    "id": "osm-relation-17377176",
+    "name": "Kyrkjebygd friidrettsanlegg",
+    "lat": 58.6199815,
+    "lon": 7.4226527,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17377176"
+  },
+  {
+    "id": "osm-relation-17377177",
+    "name": "Holum friidrettsanlegg",
+    "lat": 58.0973416,
+    "lon": 7.5243301,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17377177"
+  },
+  {
+    "id": "osm-relation-17377178",
+    "name": "Hornnes stadion",
+    "lat": 58.5674808,
+    "lon": 7.7667528,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17377178"
+  },
+  {
+    "id": "osm-relation-17377179",
+    "name": "Uenes friidrettstadion",
+    "lat": 58.2999952,
+    "lon": 6.6694525,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17377179"
+  },
+  {
+    "id": "osm-relation-17377180",
+    "name": "Valle stadion",
+    "lat": 59.1976001,
+    "lon": 7.5296179,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17377180"
+  },
+  {
+    "id": "osm-relation-17382099",
+    "name": "Orkanger idrettspark",
+    "lat": 63.3047205,
+    "lon": 9.8449389,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17382099"
+  },
+  {
+    "id": "osm-relation-17382100",
+    "name": "Vardetun friidrettsanlegg",
+    "lat": 63.4124327,
+    "lon": 11.7259048,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17382100"
+  },
+  {
+    "id": "osm-relation-17382101",
+    "name": "Vinnatrøa friidrettsbane",
+    "lat": 63.580485,
+    "lon": 10.7427519,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17382101"
+  },
+  {
+    "id": "osm-relation-17382102",
+    "name": "Røra idrettsbane",
+    "lat": 63.8639548,
+    "lon": 11.3914006,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17382102"
+  },
+  {
+    "id": "osm-relation-17382103",
+    "name": "Selbu sentralbane",
+    "lat": 63.2260299,
+    "lon": 11.02379,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17382103"
+  },
+  {
+    "id": "osm-relation-17382105",
+    "name": "Viosen friidrettsanlegg",
+    "lat": 64.2494003,
+    "lon": 12.3691003,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17382105"
+  },
+  {
+    "id": "osm-relation-17382107",
+    "name": "Lundamo friidrettsanlegg",
+    "lat": 63.1500221,
+    "lon": 10.2896113,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17382107"
+  },
+  {
+    "id": "osm-relation-17382108",
+    "name": "Kleppen friidrettsanlegg",
+    "lat": 64.4748385,
+    "lon": 11.531345,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17382108"
+  },
+  {
+    "id": "osm-relation-17382109",
+    "name": "Ørland stadion",
+    "lat": 63.6915748,
+    "lon": 9.6578709,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17382109"
+  },
+  {
+    "id": "osm-relation-17382110",
+    "name": "Støren idrettspark friidrett",
+    "lat": 63.0331508,
+    "lon": 10.2816839,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17382110"
+  },
+  {
+    "id": "osm-relation-17382111",
+    "name": "Moan idrettspark",
+    "lat": 63.3241553,
+    "lon": 10.059278,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17382111"
+  },
+  {
+    "id": "osm-relation-17382113",
+    "name": "Oppdal stadion",
+    "lat": 62.5939627,
+    "lon": 9.6830662,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17382113"
+  },
+  {
+    "id": "osm-relation-17382114",
+    "name": "Inderøy Idrettspark",
+    "lat": 63.8773693,
+    "lon": 11.2827098,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17382114"
+  },
+  {
+    "id": "osm-relation-17382115",
+    "name": "Guldbergaunet friidrettsanlegg",
+    "lat": 64.020616,
+    "lon": 11.506808,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17382115"
+  },
+  {
+    "id": "osm-relation-17382117",
+    "name": "Moan stadion",
+    "lat": 63.7413502,
+    "lon": 11.2806742,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17382117"
+  },
+  {
+    "id": "osm-relation-17388350",
+    "name": "Elnesvågen friidrettstadion",
+    "lat": 62.8559697,
+    "lon": 7.1714249,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17388350"
+  },
+  {
+    "id": "osm-relation-17388351",
+    "name": "Ikornnes stadion",
+    "lat": 62.3807624,
+    "lon": 6.5455549,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17388351"
+  },
+  {
+    "id": "osm-relation-17388353",
+    "name": "Athletics track",
+    "lat": 63.0501599,
+    "lon": 7.6392598,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17388353"
+  },
+  {
+    "id": "osm-relation-17388354",
+    "name": "Bergsøy stadion",
+    "lat": 62.3339756,
+    "lon": 5.6447215,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17388354"
+  },
+  {
+    "id": "osm-relation-17388357",
+    "name": "Harøy stadion",
+    "lat": 62.7731428,
+    "lon": 6.4580062,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17388357"
+  },
+  {
+    "id": "osm-relation-17388358",
+    "name": "Hornindal idrettspark",
+    "lat": 61.9778753,
+    "lon": 6.5186423,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17388358"
+  },
+  {
+    "id": "osm-relation-17388359",
+    "name": "Midsund stadion",
+    "lat": 62.6828213,
+    "lon": 6.6683578,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17388359"
+  },
+  {
+    "id": "osm-relation-17388360",
+    "name": "Øye stadion",
+    "lat": 62.9822472,
+    "lon": 8.7152749,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17388360"
+  },
+  {
+    "id": "osm-relation-17388361",
+    "name": "Straumsnes stadion",
+    "lat": 63.0359079,
+    "lon": 8.0432355,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17388361"
+  },
+  {
+    "id": "osm-relation-17388362",
+    "name": "Stranda stadion",
+    "lat": 62.3112934,
+    "lon": 6.9390612,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17388362"
+  },
+  {
+    "id": "osm-relation-17388363",
+    "name": "Øran Stadion",
+    "lat": 62.5590596,
+    "lon": 7.6925422,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17388363"
+  },
+  {
+    "id": "osm-relation-17388365",
+    "name": "Høddvoll stadion friidrett",
+    "lat": 62.3402984,
+    "lon": 5.8769414,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17388365"
+  },
+  {
+    "id": "osm-relation-17391774",
+    "name": "Athletics track",
+    "lat": 60.5790332,
+    "lon": 5.809135,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17391774"
+  },
+  {
+    "id": "osm-relation-17391776",
+    "name": "Sandane idrettsplass",
+    "lat": 61.7747729,
+    "lon": 6.2190655,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17391776"
+  },
+  {
+    "id": "osm-relation-17391777",
+    "name": "Sveio sentralidrettsanlegg",
+    "lat": 59.5432769,
+    "lon": 5.3618181,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17391777"
+  },
+  {
+    "id": "osm-relation-17391778",
+    "name": "Svelgen stadion",
+    "lat": 61.7678321,
+    "lon": 5.28756,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17391778"
+  },
+  {
+    "id": "osm-relation-17391779",
+    "name": "Knarvik stadion",
+    "lat": 60.5513524,
+    "lon": 5.2872807,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17391779"
+  },
+  {
+    "id": "osm-relation-17391780",
+    "name": "Halsnøy idrettsplass",
+    "lat": 59.7942475,
+    "lon": 5.7063608,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17391780"
+  },
+  {
+    "id": "osm-relation-17391781",
+    "name": "Måløy stadion",
+    "lat": 61.9331789,
+    "lon": 5.102835,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17391781"
+  },
+  {
+    "id": "osm-relation-17391783",
+    "name": "Naustdal stadion",
+    "lat": 61.5135305,
+    "lon": 5.7149349,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17391783"
+  },
+  {
+    "id": "osm-relation-17391784",
+    "name": "Athletics track",
+    "lat": 60.1113264,
+    "lon": 5.7476297,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17391784"
+  },
+  {
+    "id": "osm-relation-17391785",
+    "name": "Bremnes Arena",
+    "lat": 59.7909943,
+    "lon": 5.1872923,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17391785"
+  },
+  {
+    "id": "osm-relation-17391786",
+    "name": "Alvøen idrettspark",
+    "lat": 60.3657501,
+    "lon": 5.1977913,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17391786"
+  },
+  {
+    "id": "osm-relation-17391787",
+    "name": "Arna idrettspark",
+    "lat": 60.4256695,
+    "lon": 5.4717224,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17391787"
+  },
+  {
+    "id": "osm-relation-17391789",
+    "name": "Ågotnes idrettsanlegg",
+    "lat": 60.4085504,
+    "lon": 4.9959609,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17391789"
+  },
+  {
+    "id": "osm-relation-17391790",
+    "name": "Toftøy idrettsbane",
+    "lat": 60.4834015,
+    "lon": 4.947087,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17391790"
+  },
+  {
+    "id": "osm-relation-17391791",
+    "name": "Athletics track",
+    "lat": 61.3256728,
+    "lon": 5.0228142,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17391791"
+  },
+  {
+    "id": "osm-relation-17391792",
+    "name": "Austevoll idrettsanlegg",
+    "lat": 60.0808802,
+    "lon": 5.2469221,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17391792"
+  },
+  {
+    "id": "osm-relation-17391793",
+    "name": "Austrheim idrettspark",
+    "lat": 60.778971,
+    "lon": 4.9403165,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17391793"
+  },
+  {
+    "id": "osm-relation-17391794",
+    "name": "Nygårdsmyren",
+    "lat": 60.3914147,
+    "lon": 5.2768278,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17391794"
+  },
+  {
+    "id": "osm-relation-17391795",
+    "name": "Skogsvåg idrettsbane",
+    "lat": 60.2598771,
+    "lon": 5.095275,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17391795"
+  },
+  {
+    "id": "osm-relation-17391797",
+    "name": "Holmen idrettsanlegg",
+    "lat": 60.5673232,
+    "lon": 6.9426195,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17391797"
+  },
+  {
+    "id": "osm-relation-17391798",
+    "name": "Flora stadion",
+    "lat": 61.5978741,
+    "lon": 5.0233954,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17391798"
+  },
+  {
+    "id": "osm-relation-17391799",
+    "name": "Leikanger idrettspark",
+    "lat": 61.1912065,
+    "lon": 6.8543677,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17391799"
+  },
+  {
+    "id": "osm-relation-17391800",
+    "name": "Leikvang stadion",
+    "lat": 60.4913723,
+    "lon": 5.3888554,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17391800"
+  },
+  {
+    "id": "osm-relation-17391802",
+    "name": "Osterøy stadion",
+    "lat": 60.523288,
+    "lon": 5.5071304,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17391802"
+  },
+  {
+    "id": "osm-relation-17391804",
+    "name": "Ravnanger idrettspark",
+    "lat": 60.4654164,
+    "lon": 5.15054,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17391804"
+  },
+  {
+    "id": "osm-relation-17391805",
+    "name": "Athletics track",
+    "lat": 61.8400543,
+    "lon": 4.9827791,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17391805"
+  },
+  {
+    "id": "osm-relation-17391806",
+    "name": "Rosendal idrettsanlegg",
+    "lat": 59.9841873,
+    "lon": 6.0094146,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17391806"
+  },
+  {
+    "id": "osm-relation-17391807",
+    "name": "Byrkjelo stadion",
+    "lat": 61.7315593,
+    "lon": 6.5024302,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17391807"
+  },
+  {
+    "id": "osm-relation-17391808",
+    "name": "Matre idrettsanlegg",
+    "lat": 60.8729018,
+    "lon": 5.5843095,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17391808"
+  },
+  {
+    "id": "osm-relation-17391809",
+    "name": "Strandebarm idrettspark",
+    "lat": 60.2569334,
+    "lon": 6.0150821,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17391809"
+  },
+  {
+    "id": "osm-relation-17394997",
+    "name": "Hestmyr idrettsplass",
+    "lat": 59.3815592,
+    "lon": 5.3195755,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17394997"
+  },
+  {
+    "id": "osm-relation-17394998",
+    "name": "Tau idrettsanlegg",
+    "lat": 59.0639549,
+    "lon": 5.9252274,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17394998"
+  },
+  {
+    "id": "osm-relation-17394999",
+    "name": "Stavanger stadion",
+    "lat": 58.9650116,
+    "lon": 5.7115601,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17394999"
+  },
+  {
+    "id": "osm-relation-17395000",
+    "name": "Athletics track",
+    "lat": 59.6608646,
+    "lon": 5.6783073,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17395000"
+  },
+  {
+    "id": "osm-relation-17395001",
+    "name": "Gjesdal idrettspark",
+    "lat": 58.7751673,
+    "lon": 5.8647336,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17395001"
+  },
+  {
+    "id": "osm-relation-17395002",
+    "name": "Vikeså stadion",
+    "lat": 58.6384398,
+    "lon": 6.0989531,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17395002"
+  },
+  {
+    "id": "osm-relation-17395003",
+    "name": "Frakkagjerd stadion",
+    "lat": 59.4121873,
+    "lon": 5.404668,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17395003"
+  },
+  {
+    "id": "osm-relation-17399374",
+    "name": "Gullbring stadion",
+    "lat": 59.4078607,
+    "lon": 9.0567768,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17399374"
+  },
+  {
+    "id": "osm-relation-17399375",
+    "name": "Sparebanken Arena",
+    "lat": 59.0951197,
+    "lon": 9.0503262,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17399375"
+  },
+  {
+    "id": "osm-relation-17399376",
+    "name": "Kragerø stadion",
+    "lat": 58.871265,
+    "lon": 9.4083296,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17399376"
+  },
+  {
+    "id": "osm-relation-17402998",
+    "name": "Sofiemyr stadion",
+    "lat": 59.8005343,
+    "lon": 10.8187364,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17402998"
+  },
+  {
+    "id": "osm-relation-17402999",
+    "name": "Bjørkelangen sportssenter",
+    "lat": 59.8821585,
+    "lon": 11.5603772,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17402999"
+  },
+  {
+    "id": "osm-relation-17403000",
+    "name": "Føyka",
+    "lat": 59.8348834,
+    "lon": 10.4279305,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17403000"
+  },
+  {
+    "id": "osm-relation-17403001",
+    "name": "Nittedal sentralidrettsanlegg",
+    "lat": 60.0521231,
+    "lon": 10.8802026,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17403001"
+  },
+  {
+    "id": "osm-relation-17403002",
+    "name": "Kråkstad idrettspark",
+    "lat": 59.6837747,
+    "lon": 10.8782986,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17403002"
+  },
+  {
+    "id": "osm-relation-17403003",
+    "name": "Berger stadion",
+    "lat": 59.8350569,
+    "lon": 10.6741661,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17403003"
+  },
+  {
+    "id": "osm-relation-17406916",
+    "name": "Skjåk stadion",
+    "lat": 61.8825752,
+    "lon": 8.2640717,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17406916"
+  },
+  {
+    "id": "osm-relation-17406917",
+    "name": "Dokka stadion",
+    "lat": 60.838038,
+    "lon": 10.0785223,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17406917"
+  },
+  {
+    "id": "osm-relation-17406919",
+    "name": "Lalm idrettsplass",
+    "lat": 61.8128411,
+    "lon": 9.2885991,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17406919"
+  },
+  {
+    "id": "osm-relation-17406920",
+    "name": "Åkrestrømmen friidrettsanlegg",
+    "lat": 61.6932626,
+    "lon": 11.2078084,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17406920"
+  },
+  {
+    "id": "osm-relation-17406921",
+    "name": "Sveum idrettspark",
+    "lat": 60.8925505,
+    "lon": 10.9481291,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17406921"
+  },
+  {
+    "id": "osm-relation-17406922",
+    "name": "Trysil friidrettsanlegg",
+    "lat": 61.3043007,
+    "lon": 12.2652946,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17406922"
+  },
+  {
+    "id": "osm-relation-17406923",
+    "name": "Stampesletta friidrettsanlegg",
+    "lat": 61.1214334,
+    "lon": 10.4729802,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17406923"
+  },
+  {
+    "id": "osm-relation-17406925",
+    "name": "Moelv idrettspark",
+    "lat": 60.9244809,
+    "lon": 10.6967142,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17406925"
+  },
+  {
+    "id": "osm-relation-17406927",
+    "name": "Børstad idrettspark",
+    "lat": 60.8058626,
+    "lon": 11.0878265,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17406927"
+  },
+  {
+    "id": "osm-relation-17406928",
+    "name": "Linflåa stadion",
+    "lat": 61.2244192,
+    "lon": 10.210121,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17406928"
+  },
+  {
+    "id": "osm-relation-17406930",
+    "name": "Blåbærmyra idrettspark",
+    "lat": 60.9900163,
+    "lon": 9.2290551,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17406930"
+  },
+  {
+    "id": "osm-relation-17406931",
+    "name": "Rena stadion",
+    "lat": 61.1467905,
+    "lon": 11.3937755,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17406931"
+  },
+  {
+    "id": "osm-relation-17406932",
+    "name": "Oppstad friidrettsanlegg",
+    "lat": 60.3005851,
+    "lon": 11.6462546,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17406932"
+  },
+  {
+    "id": "osm-relation-17406933",
+    "name": "Kåja friidrettsanlegg",
+    "lat": 61.5908328,
+    "lon": 9.7567096,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17406933"
+  },
+  {
+    "id": "osm-relation-1740835",
+    "name": "Storebrand stadion",
+    "lat": 59.6635069,
+    "lon": 10.7781589,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/1740835"
+  },
+  {
+    "id": "osm-relation-17408528",
+    "name": "Norges idrettshøgskole",
+    "lat": 59.9679298,
+    "lon": 10.7299663,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17408528"
+  },
+  {
+    "id": "osm-relation-17408529",
+    "name": "Trasop friidrettsanlegg",
+    "lat": 59.9049366,
+    "lon": 10.8459633,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17408529"
+  },
+  {
+    "id": "osm-relation-17408530",
+    "name": "Lambertseter stadion",
+    "lat": 59.8714316,
+    "lon": 10.8191014,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17408530"
+  },
+  {
+    "id": "osm-relation-17408710",
+    "name": "Storstadion",
+    "lat": 59.132804,
+    "lon": 10.1904312,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17408710"
+  },
+  {
+    "id": "osm-relation-1740985",
+    "name": "Ås stadion",
+    "lat": 59.6681124,
+    "lon": 10.7988907,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/1740985"
+  },
+  {
+    "id": "osm-relation-17450405",
+    "name": "Greveskogen Idrettspark",
+    "lat": 59.2871396,
+    "lon": 10.4104574,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17450405"
+  },
+  {
+    "id": "osm-relation-17450406",
+    "name": "Lersbrygga idrettsanlegg",
+    "lat": 59.566064,
+    "lon": 10.2558277,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17450406"
+  },
+  {
+    "id": "osm-relation-17450408",
+    "name": "Lovisenlund stadion",
+    "lat": 59.0598741,
+    "lon": 10.0294561,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17450408"
+  },
+  {
+    "id": "osm-relation-17450409",
+    "name": "Nesskogen idrettspark",
+    "lat": 59.2165588,
+    "lon": 10.4506694,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17450409"
+  },
+  {
+    "id": "osm-relation-17456894",
+    "name": "Nesbyen idrettssenter",
+    "lat": 60.5647469,
+    "lon": 9.1028112,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17456894"
+  },
+  {
+    "id": "osm-relation-17456895",
+    "name": "Flå stadion",
+    "lat": 60.4240472,
+    "lon": 9.4645643,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17456895"
+  },
+  {
+    "id": "osm-relation-17464505",
+    "name": "Frøya idrettspark",
+    "lat": 63.6986824,
+    "lon": 8.7928283,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17464505"
+  },
+  {
+    "id": "osm-relation-17636190",
+    "name": "Athletics track",
+    "lat": 63.4268078,
+    "lon": 10.3789345,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17636190"
+  },
+  {
+    "id": "osm-relation-17636191",
+    "name": "Athletics track",
+    "lat": 63.4268117,
+    "lon": 10.3788428,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17636191"
+  },
+  {
+    "id": "osm-relation-17636198",
+    "name": "Athletics track",
+    "lat": 63.4265163,
+    "lon": 10.3801668,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17636198"
+  },
+  {
+    "id": "osm-relation-17645568",
+    "name": "Bærum idrettspark",
+    "lat": 59.9113547,
+    "lon": 10.4999183,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17645568"
+  },
+  {
+    "id": "osm-relation-17726436",
+    "name": "Lakselv sentralidrettsanlegg",
+    "lat": 70.0473478,
+    "lon": 24.9607392,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17726436"
+  },
+  {
+    "id": "osm-relation-17727964",
+    "name": "Bardu friidrettsbane",
+    "lat": 68.8744715,
+    "lon": 18.3649148,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17727964"
+  },
+  {
+    "id": "osm-relation-17727965",
+    "name": "Pioner friidrettsbanen",
+    "lat": 69.2338133,
+    "lon": 18.1134738,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17727965"
+  },
+  {
+    "id": "osm-relation-17727966",
+    "name": "Moen friidrettsstadion",
+    "lat": 69.1218835,
+    "lon": 18.6130647,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17727966"
+  },
+  {
+    "id": "osm-relation-17727967",
+    "name": "Stangnes idrettspark",
+    "lat": 68.781114,
+    "lon": 16.574517,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17727967"
+  },
+  {
+    "id": "osm-relation-17727968",
+    "name": "Borkenes friidrettsbane",
+    "lat": 68.7739811,
+    "lon": 16.1771048,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17727968"
+  },
+  {
+    "id": "osm-relation-17730967",
+    "name": "Nordhus stadion",
+    "lat": 65.4640794,
+    "lon": 12.1510667,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17730967"
+  },
+  {
+    "id": "osm-relation-17733031",
+    "name": "Namdalseid idrettspark",
+    "lat": 64.2394778,
+    "lon": 11.2087503,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17733031"
+  },
+  {
+    "id": "osm-relation-17733032",
+    "name": "Harran stadion",
+    "lat": 64.5649616,
+    "lon": 12.4988955,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17733032"
+  },
+  {
+    "id": "osm-relation-17734222",
+    "name": "Lensvik stadion friidrettsanlegg",
+    "lat": 63.5061082,
+    "lon": 9.822584,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17734222"
+  },
+  {
+    "id": "osm-relation-17738461",
+    "name": "Eidsdal stadion",
+    "lat": 62.2535238,
+    "lon": 7.1599055,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17738461"
+  },
+  {
+    "id": "osm-relation-17738462",
+    "name": "Valldal stadion",
+    "lat": 62.3337775,
+    "lon": 7.3447895,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17738462"
+  },
+  {
+    "id": "osm-relation-17750774",
+    "name": "Undheim idrettsanlegg",
+    "lat": 58.6855274,
+    "lon": 5.7677585,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17750774"
+  },
+  {
+    "id": "osm-relation-17750775",
+    "name": "Varhaug idrettspark",
+    "lat": 58.6214024,
+    "lon": 5.6632756,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17750775"
+  },
+  {
+    "id": "osm-relation-17750776",
+    "name": "Sauda stadion",
+    "lat": 59.6500741,
+    "lon": 6.3619528,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17750776"
+  },
+  {
+    "id": "osm-relation-17752324",
+    "name": "Fevik stadion",
+    "lat": 58.3760216,
+    "lon": 8.6793734,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17752324"
+  },
+  {
+    "id": "osm-relation-17752325",
+    "name": "Kristiansand friidrettsstadion",
+    "lat": 58.1476294,
+    "lon": 8.0216094,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17752325"
+  },
+  {
+    "id": "osm-relation-17752326",
+    "name": "Lillesand stadion",
+    "lat": 58.2568051,
+    "lon": 8.3589159,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17752326"
+  },
+  {
+    "id": "osm-relation-17752327",
+    "name": "Vanse friidrettsstadion",
+    "lat": 58.0948704,
+    "lon": 6.6888214,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17752327"
+  },
+  {
+    "id": "osm-relation-17752328",
+    "name": "Kollemo idrettsanlegg",
+    "lat": 58.3829285,
+    "lon": 7.2172736,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17752328"
+  },
+  {
+    "id": "osm-relation-17752329",
+    "name": "Hortemo stadion",
+    "lat": 58.1746076,
+    "lon": 7.8288807,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17752329"
+  },
+  {
+    "id": "osm-relation-17752330",
+    "name": "Helle friidrettstadion",
+    "lat": 58.3030914,
+    "lon": 7.3642061,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17752330"
+  },
+  {
+    "id": "osm-relation-17752331",
+    "name": "Birkenesparken friidrettsbane",
+    "lat": 58.3354144,
+    "lon": 8.2295025,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17752331"
+  },
+  {
+    "id": "osm-relation-17752332",
+    "name": "Vassmyra",
+    "lat": 58.028357,
+    "lon": 7.4974052,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17752332"
+  },
+  {
+    "id": "osm-relation-17752333",
+    "name": "Nyplass friidrettsanlegg",
+    "lat": 58.080275,
+    "lon": 7.3111296,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17752333"
+  },
+  {
+    "id": "osm-relation-17757558",
+    "name": "Høydalsmo stadion",
+    "lat": 59.4973839,
+    "lon": 8.192714,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17757558"
+  },
+  {
+    "id": "osm-relation-17757559",
+    "name": "Herkules idrettspark",
+    "lat": 59.1828895,
+    "lon": 9.596271,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17757559"
+  },
+  {
+    "id": "osm-relation-17760774",
+    "name": "Sem idrettspark",
+    "lat": 59.2833739,
+    "lon": 10.3236059,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17760774"
+  },
+  {
+    "id": "osm-relation-17760775",
+    "name": "Flint friirdrettsanlegg",
+    "lat": 59.2696058,
+    "lon": 10.4744746,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17760775"
+  },
+  {
+    "id": "osm-relation-17760971",
+    "name": "Askim stadion",
+    "lat": 59.5860244,
+    "lon": 11.1568063,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17760971"
+  },
+  {
+    "id": "osm-relation-17760972",
+    "name": "Lisleby stadion",
+    "lat": 59.2304852,
+    "lon": 10.9725843,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17760972"
+  },
+  {
+    "id": "osm-relation-17760973",
+    "name": "Marker idrettspark",
+    "lat": 59.4741527,
+    "lon": 11.6537923,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17760973"
+  },
+  {
+    "id": "osm-relation-17760974",
+    "name": "Trøgstad stadion",
+    "lat": 59.6385545,
+    "lon": 11.3194812,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17760974"
+  },
+  {
+    "id": "osm-relation-17760975",
+    "name": "Kalnes friidrettsanlegg",
+    "lat": 59.3179286,
+    "lon": 11.0493654,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17760975"
+  },
+  {
+    "id": "osm-relation-17775950",
+    "name": "Hallingmo idrettspark",
+    "lat": 60.7046002,
+    "lon": 8.9424269,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17775950"
+  },
+  {
+    "id": "osm-relation-17780595",
+    "name": "Jessheim friidrettstadion",
+    "lat": 60.149665,
+    "lon": 11.1918053,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17780595"
+  },
+  {
+    "id": "osm-relation-17784222",
+    "name": "Atna friidrettsanlegg",
+    "lat": 61.727272,
+    "lon": 10.8320588,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17784222"
+  },
+  {
+    "id": "osm-relation-17784223",
+    "name": "Terningen Arena",
+    "lat": 60.880688,
+    "lon": 11.5346857,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17784223"
+  },
+  {
+    "id": "osm-relation-17784225",
+    "name": "Løten stadion",
+    "lat": 60.820476,
+    "lon": 11.3354867,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/17784225"
+  },
+  {
+    "id": "osm-relation-1833472",
+    "name": "Lillestrøm stadion",
+    "lat": 59.9603886,
+    "lon": 11.067322,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/1833472"
+  },
+  {
+    "id": "osm-relation-19371781",
+    "name": "Athletics track",
+    "lat": 60.3921782,
+    "lon": 5.3422696,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/19371781"
+  },
+  {
+    "id": "osm-relation-20417928",
+    "name": "Athletics track",
+    "lat": 59.5961142,
+    "lon": 10.7530281,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/20417928"
+  },
+  {
+    "id": "osm-relation-2436687",
+    "name": "Ski stadion",
+    "lat": 59.7186054,
+    "lon": 10.8507609,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/2436687"
+  },
+  {
+    "id": "osm-relation-2564583",
+    "name": "Madla idrettspark",
+    "lat": 58.9487675,
+    "lon": 5.6570294,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/2564583"
+  },
+  {
+    "id": "osm-relation-2752430",
+    "name": "Lyngdal stadion",
+    "lat": 58.134899,
+    "lon": 7.0647408,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/2752430"
+  },
+  {
+    "id": "osm-relation-2923492",
+    "name": "Stovner stadion",
+    "lat": 59.9553293,
+    "lon": 10.9198179,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/2923492"
+  },
+  {
+    "id": "osm-relation-3414444",
+    "name": "Førde stadion",
+    "lat": 61.4527023,
+    "lon": 5.8639925,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/3414444"
+  },
+  {
+    "id": "osm-relation-3460231",
+    "name": "Athletics track",
+    "lat": 66.8811492,
+    "lon": 13.7200046,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/3460231"
+  },
+  {
+    "id": "osm-relation-3751823",
+    "name": "Vik stadion",
+    "lat": 65.3126957,
+    "lon": 12.1695315,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/3751823"
+  },
+  {
+    "id": "osm-relation-3987467",
+    "name": "Nadderud stadion",
+    "lat": 59.9212804,
+    "lon": 10.5812013,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/3987467"
+  },
+  {
+    "id": "osm-relation-4076175",
+    "name": "Fitjar idrettspark",
+    "lat": 59.9248151,
+    "lon": 5.3279313,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/4076175"
+  },
+  {
+    "id": "osm-relation-5201880",
+    "name": "Stadsbygd stadion",
+    "lat": 63.5113221,
+    "lon": 10.0043452,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/5201880"
+  },
+  {
+    "id": "osm-relation-5248923",
+    "name": "Skånevik idrettsanlegg",
+    "lat": 59.7306364,
+    "lon": 5.92111,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/5248923"
+  },
+  {
+    "id": "osm-relation-5286286",
+    "name": "Odda stadion",
+    "lat": 60.0552557,
+    "lon": 6.5440721,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/5286286"
+  },
+  {
+    "id": "osm-relation-5294654",
+    "name": "Herøy stadion",
+    "lat": 65.9828369,
+    "lon": 12.2994897,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/5294654"
+  },
+  {
+    "id": "osm-relation-5595065",
+    "name": "Idrettsparken",
+    "lat": 58.0292459,
+    "lon": 7.4323539,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/5595065"
+  },
+  {
+    "id": "osm-relation-5705706",
+    "name": "Jotun stadion",
+    "lat": 61.3079514,
+    "lon": 7.8066478,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/5705706"
+  },
+  {
+    "id": "osm-relation-5818026",
+    "name": "Aure friidrettsstadion",
+    "lat": 63.2671159,
+    "lon": 8.5331607,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/5818026"
+  },
+  {
+    "id": "osm-relation-5867659",
+    "name": "Kirkebø stadion",
+    "lat": 62.3806882,
+    "lon": 7.009484,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/5867659"
+  },
+  {
+    "id": "osm-relation-5931474",
+    "name": "Nordkjosbotn stadion",
+    "lat": 69.2170933,
+    "lon": 19.5670017,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/5931474"
+  },
+  {
+    "id": "osm-relation-6165590",
+    "name": "Hareid fridrettsanlegg",
+    "lat": 62.3668198,
+    "lon": 6.021118,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/6165590"
+  },
+  {
+    "id": "osm-relation-6717314",
+    "name": "Prestegardsmoen sentralidrettsanlegg",
+    "lat": 60.6257711,
+    "lon": 6.4257345,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/6717314"
+  },
+  {
+    "id": "osm-relation-7287874",
+    "name": "Idrettsparken",
+    "lat": 58.4460189,
+    "lon": 5.9995362,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/7287874"
+  },
+  {
+    "id": "osm-relation-7690006",
+    "name": "Sportsplassen",
+    "lat": 59.8864243,
+    "lon": 10.7760195,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/7690006"
+  },
+  {
+    "id": "osm-relation-7997760",
+    "name": "Mysen stadion",
+    "lat": 59.554138,
+    "lon": 11.3363281,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/7997760"
+  },
+  {
+    "id": "osm-relation-8045972",
+    "name": "Prestfoss stadion",
+    "lat": 60.042559,
+    "lon": 9.6412883,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/8045972"
+  },
+  {
+    "id": "osm-relation-8190697",
+    "name": "Rjukan stadion",
+    "lat": 59.877449,
+    "lon": 8.6050956,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/8190697"
+  },
+  {
+    "id": "osm-relation-8316374",
+    "name": "Vik stadion",
+    "lat": 61.0827767,
+    "lon": 6.5739589,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/8316374"
+  },
+  {
+    "id": "osm-relation-8501088",
+    "name": "Otta idrettspark",
+    "lat": 61.7769052,
+    "lon": 9.5422834,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/8501088"
+  },
+  {
+    "id": "osm-relation-8590972",
+    "name": "Ørsta stadion",
+    "lat": 62.1946182,
+    "lon": 6.1307296,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/8590972"
+  },
+  {
+    "id": "osm-relation-8697638",
+    "name": "Skei stadion",
+    "lat": 61.5802542,
+    "lon": 6.4884483,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/8697638"
+  },
+  {
+    "id": "osm-relation-8997049",
+    "name": "Finnøy skule",
+    "lat": 59.1750157,
+    "lon": 5.8722883,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/8997049"
+  },
+  {
+    "id": "osm-relation-9079933",
+    "name": "Halden stadion",
+    "lat": 59.1225774,
+    "lon": 11.3743586,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/9079933"
+  },
+  {
+    "id": "osm-relation-9155131",
+    "name": "Bibomyra idrettsplass",
+    "lat": 59.4167601,
+    "lon": 10.2747184,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/9155131"
+  },
+  {
+    "id": "osm-relation-9196489",
+    "name": "Friidrettsarena",
+    "lat": 59.4838983,
+    "lon": 10.2991857,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/9196489"
+  },
+  {
+    "id": "osm-relation-9201101",
+    "name": "Athletics track",
+    "lat": 59.6189187,
+    "lon": 10.4010109,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/9201101"
+  },
+  {
+    "id": "osm-relation-9391988",
+    "name": "Skansesletta Idrettsplass",
+    "lat": 60.1916728,
+    "lon": 12.017839,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/9391988"
+  },
+  {
+    "id": "osm-relation-9558416",
+    "name": "Svenningmoen friidrettsanlegg",
+    "lat": 64.499849,
+    "lon": 11.9608674,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/9558416"
+  },
+  {
+    "id": "osm-relation-9676141",
+    "name": "Mørkvedlia friidrettsbane",
+    "lat": 67.2872181,
+    "lon": 14.5666414,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/9676141"
+  },
+  {
+    "id": "osm-relation-9828458",
+    "name": "Hyen idrettsplass",
+    "lat": 61.7371254,
+    "lon": 5.9158572,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/9828458"
+  },
+  {
+    "id": "osm-way-1000824256",
+    "name": "Fjaler ungdomsskule -løpebane og lengdegrop",
+    "lat": 61.3604737,
+    "lon": 5.3955393,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1000824256"
+  },
+  {
+    "id": "osm-way-1013307005",
+    "name": "Øyer løpebane",
+    "lat": 61.2353906,
+    "lon": 10.4427954,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1013307005"
+  },
+  {
+    "id": "osm-way-1018559792",
+    "name": "Raumyr stadion",
+    "lat": 59.6751284,
+    "lon": 9.6557476,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1018559792"
+  },
+  {
+    "id": "osm-way-1031677436",
+    "name": "Hafslo stadion",
+    "lat": 61.3102192,
+    "lon": 7.1466917,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1031677436"
+  },
+  {
+    "id": "osm-way-103699378",
+    "name": "Athletics track",
+    "lat": 60.0779646,
+    "lon": 11.1433063,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/103699378"
+  },
+  {
+    "id": "osm-way-1055308557",
+    "name": "Knudamyrå sprintstripe",
+    "lat": 58.896419,
+    "lon": 5.7325881,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1055308557"
+  },
+  {
+    "id": "osm-way-1055549194",
+    "name": "Nesna stadion friidrett",
+    "lat": 66.1982266,
+    "lon": 13.0201334,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1055549194"
+  },
+  {
+    "id": "osm-way-1069395296",
+    "name": "Athletics track",
+    "lat": 60.2906905,
+    "lon": 5.319025,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1069395296"
+  },
+  {
+    "id": "osm-way-1069395297",
+    "name": "Athletics track",
+    "lat": 60.2907221,
+    "lon": 5.3191791,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1069395297"
+  },
+  {
+    "id": "osm-way-1079490152",
+    "name": "Athletics track",
+    "lat": 69.6603119,
+    "lon": 18.9549727,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1079490152"
+  },
+  {
+    "id": "osm-way-1079490153",
+    "name": "Athletics track",
+    "lat": 69.6603085,
+    "lon": 18.9550049,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1079490153"
+  },
+  {
+    "id": "osm-way-1125067150",
+    "name": "Furulund idrettspark",
+    "lat": 59.0568858,
+    "lon": 9.6943518,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1125067150"
+  },
+  {
+    "id": "osm-way-1128095253",
+    "name": "Athletics track",
+    "lat": 59.4296245,
+    "lon": 10.6288112,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1128095253"
+  },
+  {
+    "id": "osm-way-1162875281",
+    "name": "Frei stadion",
+    "lat": 63.0341896,
+    "lon": 7.7417632,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1162875281"
+  },
+  {
+    "id": "osm-way-118064085",
+    "name": "Vatneleiren",
+    "lat": 58.8589122,
+    "lon": 5.802862,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/118064085"
+  },
+  {
+    "id": "osm-way-1186104648",
+    "name": "Mosby skole",
+    "lat": 58.2205825,
+    "lon": 7.92269,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1186104648"
+  },
+  {
+    "id": "osm-way-1187655793",
+    "name": "Numedal folkehøgskole",
+    "lat": 60.0068672,
+    "lon": 9.2688233,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1187655793"
+  },
+  {
+    "id": "osm-way-1197063211",
+    "name": "Nesøya idrettsanlegg",
+    "lat": 59.8620423,
+    "lon": 10.5215622,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1197063211"
+  },
+  {
+    "id": "osm-way-1198042515",
+    "name": "Athletics track",
+    "lat": 59.7926762,
+    "lon": 10.4497385,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1198042515"
+  },
+  {
+    "id": "osm-way-1202431360",
+    "name": "Athletics track",
+    "lat": 59.894182,
+    "lon": 10.6134242,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1202431360"
+  },
+  {
+    "id": "osm-way-1203528368",
+    "name": "Sundenga idrettspark",
+    "lat": 60.5564208,
+    "lon": 12.0270257,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1203528368"
+  },
+  {
+    "id": "osm-way-1211826641",
+    "name": "Lena stadion",
+    "lat": 60.6672572,
+    "lon": 10.8182141,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1211826641"
+  },
+  {
+    "id": "osm-way-1213301006",
+    "name": "Ål stadion",
+    "lat": 60.6311396,
+    "lon": 8.5725754,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1213301006"
+  },
+  {
+    "id": "osm-way-1213823449",
+    "name": "Svendsrudmoen stadion",
+    "lat": 60.0895057,
+    "lon": 10.2373635,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1213823449"
+  },
+  {
+    "id": "osm-way-1216059892",
+    "name": "Athletics track",
+    "lat": 63.1238893,
+    "lon": 7.7372784,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1216059892"
+  },
+  {
+    "id": "osm-way-1216059893",
+    "name": "Athletics track",
+    "lat": 63.1239848,
+    "lon": 7.7372562,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1216059893"
+  },
+  {
+    "id": "osm-way-1216059894",
+    "name": "Athletics track",
+    "lat": 63.1237768,
+    "lon": 7.7372571,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1216059894"
+  },
+  {
+    "id": "osm-way-1216117803",
+    "name": "Strandajordet idrettspark",
+    "lat": 59.7341057,
+    "lon": 9.8751719,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1216117803"
+  },
+  {
+    "id": "osm-way-1216848730",
+    "name": "Lerkelunden friidrettsanlegg",
+    "lat": 59.6928385,
+    "lon": 9.0283324,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1216848730"
+  },
+  {
+    "id": "osm-way-1217206317",
+    "name": "Stryn stadion, fleirbruksanlegg",
+    "lat": 61.9038611,
+    "lon": 6.7078838,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1217206317"
+  },
+  {
+    "id": "osm-way-1218199874",
+    "name": "Orre idrettsanlegg",
+    "lat": 58.7189621,
+    "lon": 5.5723478,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1218199874"
+  },
+  {
+    "id": "osm-way-1218574716",
+    "name": "Åsebøen friidrettsanlegg",
+    "lat": 59.2780224,
+    "lon": 5.3095944,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1218574716"
+  },
+  {
+    "id": "osm-way-1218693304",
+    "name": "Athletics track",
+    "lat": 59.0027544,
+    "lon": 5.6329576,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1218693304"
+  },
+  {
+    "id": "osm-way-1218885279",
+    "name": "Mosterøy idrettsanlegg",
+    "lat": 59.0796394,
+    "lon": 5.669319,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1218885279"
+  },
+  {
+    "id": "osm-way-1222083185",
+    "name": "Sundmoen stadion",
+    "lat": 62.4971134,
+    "lon": 11.2415537,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1222083185"
+  },
+  {
+    "id": "osm-way-1223503401",
+    "name": "Råholt skole",
+    "lat": 60.2740614,
+    "lon": 11.19099,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1223503401"
+  },
+  {
+    "id": "osm-way-1223503404",
+    "name": "Minnesund idrettspark",
+    "lat": 60.4053632,
+    "lon": 11.239522,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1223503404"
+  },
+  {
+    "id": "osm-way-1224857302",
+    "name": "Fedrelandet idrettsplass",
+    "lat": 59.9182233,
+    "lon": 11.1430906,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1224857302"
+  },
+  {
+    "id": "osm-way-1224857309",
+    "name": "Bruvollen friidrettsbane",
+    "lat": 59.9858641,
+    "lon": 11.3508054,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1224857309"
+  },
+  {
+    "id": "osm-way-1229159291",
+    "name": "Athletics track",
+    "lat": 59.9159359,
+    "lon": 10.7777588,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1229159291"
+  },
+  {
+    "id": "osm-way-1237207929",
+    "name": "Kollmyr stadion",
+    "lat": 59.2147013,
+    "lon": 9.5540335,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1237207929"
+  },
+  {
+    "id": "osm-way-1248627571",
+    "name": "Athletics track",
+    "lat": 60.3763118,
+    "lon": 5.3469723,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1248627571"
+  },
+  {
+    "id": "osm-way-1265870127",
+    "name": "Kvam stadion",
+    "lat": 64.1391085,
+    "lon": 11.736896,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1265870127"
+  },
+  {
+    "id": "osm-way-1265870179",
+    "name": "Vik sentralidrettsanlegg",
+    "lat": 64.4522614,
+    "lon": 10.7559371,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1265870179"
+  },
+  {
+    "id": "osm-way-1265870194",
+    "name": "Lånke stadion",
+    "lat": 63.4418953,
+    "lon": 10.9417967,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1265870194"
+  },
+  {
+    "id": "osm-way-1266294422",
+    "name": "Tresfjord stadion",
+    "lat": 62.5203465,
+    "lon": 7.1284599,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1266294422"
+  },
+  {
+    "id": "osm-way-1266294423",
+    "name": "Gjermundnes stadion",
+    "lat": 62.6219981,
+    "lon": 7.1680668,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1266294423"
+  },
+  {
+    "id": "osm-way-1266294450",
+    "name": "Frode stadion",
+    "lat": 62.8987845,
+    "lon": 7.4143271,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1266294450"
+  },
+  {
+    "id": "osm-way-1266294467",
+    "name": "Fjørtoft stadion",
+    "lat": 62.7076851,
+    "lon": 6.3890347,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1266294467"
+  },
+  {
+    "id": "osm-way-1266294494",
+    "name": "Isfjorden stadion",
+    "lat": 62.5723537,
+    "lon": 7.8014755,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1266294494"
+  },
+  {
+    "id": "osm-way-1266553100",
+    "name": "Selje Idrettspark",
+    "lat": 62.0431839,
+    "lon": 5.3476167,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1266553100"
+  },
+  {
+    "id": "osm-way-1266553108",
+    "name": "Arna stadion",
+    "lat": 60.4544666,
+    "lon": 5.4220412,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1266553108"
+  },
+  {
+    "id": "osm-way-1266553150",
+    "name": "Fotlandsvåg friidrettsanlegg",
+    "lat": 60.5880758,
+    "lon": 5.5230975,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1266553150"
+  },
+  {
+    "id": "osm-way-1266553155",
+    "name": "Høyanger stadion",
+    "lat": 61.2226344,
+    "lon": 6.0779881,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1266553155"
+  },
+  {
+    "id": "osm-way-1266553170",
+    "name": "Reiso friidrettsbane",
+    "lat": 60.0112683,
+    "lon": 5.5100515,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1266553170"
+  },
+  {
+    "id": "osm-way-1266771410",
+    "name": "Vikebygd friidrettsanlegg",
+    "lat": 59.6015672,
+    "lon": 5.593877,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1266771410"
+  },
+  {
+    "id": "osm-way-1267722226",
+    "name": "Nytrømoen friidrettsanlegg",
+    "lat": 62.2745275,
+    "lon": 10.797564,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1267722226"
+  },
+  {
+    "id": "osm-way-1267722310",
+    "name": "Jordet friidrettsanlegg",
+    "lat": 61.428983,
+    "lon": 12.1443797,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1267722310"
+  },
+  {
+    "id": "osm-way-1267722334",
+    "name": "Sjårdalen friidrettsanlegg",
+    "lat": 61.8544574,
+    "lon": 9.1992852,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1267722334"
+  },
+  {
+    "id": "osm-way-1271256573",
+    "name": "Hallebanen",
+    "lat": 59.0225809,
+    "lon": 9.921911,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1271256573"
+  },
+  {
+    "id": "osm-way-1271549199",
+    "name": "Jondalen stadion",
+    "lat": 59.7081982,
+    "lon": 9.5228322,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1271549199"
+  },
+  {
+    "id": "osm-way-1271549235",
+    "name": "Sylling idrettspark",
+    "lat": 59.8911169,
+    "lon": 10.2892734,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1271549235"
+  },
+  {
+    "id": "osm-way-1274286334",
+    "name": "Athletics track",
+    "lat": 66.007083,
+    "lon": 12.6099938,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1274286334"
+  },
+  {
+    "id": "osm-way-1274286339",
+    "name": "Athletics track",
+    "lat": 66.0062894,
+    "lon": 12.6094813,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1274286339"
+  },
+  {
+    "id": "osm-way-1274286342",
+    "name": "Athletics track",
+    "lat": 66.0072251,
+    "lon": 12.6117397,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1274286342"
+  },
+  {
+    "id": "osm-way-1274286343",
+    "name": "Athletics track",
+    "lat": 66.007288,
+    "lon": 12.6113415,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1274286343"
+  },
+  {
+    "id": "osm-way-1280868520",
+    "name": "Askvoll skule løpebane",
+    "lat": 61.3476472,
+    "lon": 5.0904087,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1280868520"
+  },
+  {
+    "id": "osm-way-1286570354",
+    "name": "Athletics track",
+    "lat": 63.426299,
+    "lon": 10.3798603,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1286570354"
+  },
+  {
+    "id": "osm-way-1286570374",
+    "name": "Athletics track",
+    "lat": 63.426268,
+    "lon": 10.381145,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1286570374"
+  },
+  {
+    "id": "osm-way-1286570378",
+    "name": "Athletics track",
+    "lat": 63.4267487,
+    "lon": 10.380654,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1286570378"
+  },
+  {
+    "id": "osm-way-1286570381",
+    "name": "Athletics track",
+    "lat": 63.426867,
+    "lon": 10.3791363,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1286570381"
+  },
+  {
+    "id": "osm-way-1286570383",
+    "name": "Athletics track",
+    "lat": 63.4262864,
+    "lon": 10.3796844,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1286570383"
+  },
+  {
+    "id": "osm-way-1286570384",
+    "name": "Athletics track",
+    "lat": 63.4262447,
+    "lon": 10.3813166,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1286570384"
+  },
+  {
+    "id": "osm-way-1292240205",
+    "name": "Athletics track",
+    "lat": 59.871622,
+    "lon": 10.8204396,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1292240205"
+  },
+  {
+    "id": "osm-way-1292240210",
+    "name": "Athletics track",
+    "lat": 59.8710837,
+    "lon": 10.8192164,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1292240210"
+  },
+  {
+    "id": "osm-way-1292240211",
+    "name": "Athletics track",
+    "lat": 59.8715281,
+    "lon": 10.8178345,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1292240211"
+  },
+  {
+    "id": "osm-way-1292240213",
+    "name": "Athletics track",
+    "lat": 59.871453,
+    "lon": 10.8178778,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1292240213"
+  },
+  {
+    "id": "osm-way-1292240214",
+    "name": "Athletics track",
+    "lat": 59.8714561,
+    "lon": 10.8180149,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1292240214"
+  },
+  {
+    "id": "osm-way-1292996546",
+    "name": "Gibostad mini friidrettsanlegg",
+    "lat": 69.3547937,
+    "lon": 18.0618872,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1292996546"
+  },
+  {
+    "id": "osm-way-1292996547",
+    "name": "Lenangen skole friidrettsanlegg",
+    "lat": 69.8130623,
+    "lon": 20.026004,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1292996547"
+  },
+  {
+    "id": "osm-way-1292996550",
+    "name": "Olderdalen idrettspark",
+    "lat": 69.6062281,
+    "lon": 20.5350432,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1292996550"
+  },
+  {
+    "id": "osm-way-1292996552",
+    "name": "Hamre stadion",
+    "lat": 70.1407031,
+    "lon": 19.6787283,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1292996552"
+  },
+  {
+    "id": "osm-way-1293349608",
+    "name": "Ballangen skole friidrett",
+    "lat": 68.3384474,
+    "lon": 16.8209763,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1293349608"
+  },
+  {
+    "id": "osm-way-1293349609",
+    "name": "Ballangen stadion",
+    "lat": 68.3329186,
+    "lon": 16.8072972,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1293349609"
+  },
+  {
+    "id": "osm-way-1293349610",
+    "name": "Holmen friidrettsanlegg",
+    "lat": 68.7312845,
+    "lon": 15.5293566,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1293349610"
+  },
+  {
+    "id": "osm-way-1293349611",
+    "name": "Bjerka skole friidrett",
+    "lat": 66.1477238,
+    "lon": 13.8403957,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1293349611"
+  },
+  {
+    "id": "osm-way-1293349612",
+    "name": "Gladstad sentralidrettsanlegg",
+    "lat": 65.6744956,
+    "lon": 11.9485634,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1293349612"
+  },
+  {
+    "id": "osm-way-1293349613",
+    "name": "Mattiasmoen",
+    "lat": 65.088249,
+    "lon": 12.3898363,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1293349613"
+  },
+  {
+    "id": "osm-way-1293349614",
+    "name": "Straume sprint",
+    "lat": 68.6875528,
+    "lon": 14.4787412,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1293349614"
+  },
+  {
+    "id": "osm-way-1293349615",
+    "name": "Fauske friidrettsbane",
+    "lat": 67.2632289,
+    "lon": 15.3780055,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1293349615"
+  },
+  {
+    "id": "osm-way-1293349626",
+    "name": "Saursfjord friidrettsbane",
+    "lat": 67.7966555,
+    "lon": 15.0636202,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1293349626"
+  },
+  {
+    "id": "osm-way-1293349627",
+    "name": "Straumen friidrettsanlegg",
+    "lat": 67.3430427,
+    "lon": 15.5907203,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1293349627"
+  },
+  {
+    "id": "osm-way-1293349628",
+    "name": "Halsa skole friidrettsbane",
+    "lat": 66.7419476,
+    "lon": 13.5776448,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1293349628"
+  },
+  {
+    "id": "osm-way-1293349630",
+    "name": "Dverberg",
+    "lat": 69.1117323,
+    "lon": 15.9188617,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1293349630"
+  },
+  {
+    "id": "osm-way-1293471848",
+    "name": "Vinne løpebane",
+    "lat": 63.7731323,
+    "lon": 11.4909562,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1293471848"
+  },
+  {
+    "id": "osm-way-1293471855",
+    "name": "Høylandet stadion",
+    "lat": 64.6239663,
+    "lon": 12.2930849,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1293471855"
+  },
+  {
+    "id": "osm-way-1293471857",
+    "name": "Sør-Beitstad stadion",
+    "lat": 64.0375152,
+    "lon": 11.3708133,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1293471857"
+  },
+  {
+    "id": "osm-way-1293471858",
+    "name": "Follafoss stadion",
+    "lat": 63.9848004,
+    "lon": 11.1068665,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1293471858"
+  },
+  {
+    "id": "osm-way-1293471863",
+    "name": "Furuly stadion",
+    "lat": 64.3002374,
+    "lon": 10.5019668,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1293471863"
+  },
+  {
+    "id": "osm-way-1293471864",
+    "name": "Sørli friidrettsanlegg",
+    "lat": 64.2227114,
+    "lon": 13.8344251,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1293471864"
+  },
+  {
+    "id": "osm-way-1293471865",
+    "name": "Rørvik friidrettsfelt",
+    "lat": 64.867544,
+    "lon": 11.2314472,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1293471865"
+  },
+  {
+    "id": "osm-way-1293471866",
+    "name": "Lund stadion",
+    "lat": 64.7644716,
+    "lon": 11.5890178,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1293471866"
+  },
+  {
+    "id": "osm-way-1293567123",
+    "name": "Midtkiløra stadion",
+    "lat": 63.4415619,
+    "lon": 11.2392481,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1293567123"
+  },
+  {
+    "id": "osm-way-1293567124",
+    "name": "Lade idrettsanlegg",
+    "lat": 63.4454307,
+    "lon": 10.4510007,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1293567124"
+  },
+  {
+    "id": "osm-way-1293567127",
+    "name": "Fossdalen friidrettsanlegg",
+    "lat": 63.097238,
+    "lon": 8.6325455,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1293567127"
+  },
+  {
+    "id": "osm-way-1293567128",
+    "name": "Brekkåsen løpebane",
+    "lat": 63.2683214,
+    "lon": 10.2320078,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1293567128"
+  },
+  {
+    "id": "osm-way-1293567129",
+    "name": "Vårtun stadion",
+    "lat": 63.5178387,
+    "lon": 11.0877921,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1293567129"
+  },
+  {
+    "id": "osm-way-1293567131",
+    "name": "Utleira sprintstripe",
+    "lat": 63.3871116,
+    "lon": 10.4311618,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1293567131"
+  },
+  {
+    "id": "osm-way-1293567132",
+    "name": "Hellandsjø friidrettsanlegg",
+    "lat": 63.3947814,
+    "lon": 8.9849073,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1293567132"
+  },
+  {
+    "id": "osm-way-1293567134",
+    "name": "Glåmos stadion",
+    "lat": 62.6703003,
+    "lon": 11.4349568,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1293567134"
+  },
+  {
+    "id": "osm-way-1293567136",
+    "name": "Hegra stadion friidrett",
+    "lat": 63.4603227,
+    "lon": 11.0946062,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1293567136"
+  },
+  {
+    "id": "osm-way-1293567137",
+    "name": "Trøa friidrettsanlegg",
+    "lat": 63.679474,
+    "lon": 10.6182288,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1293567137"
+  },
+  {
+    "id": "osm-way-1293567141",
+    "name": "Fannremsmoen friidrettsanlegg",
+    "lat": 63.2771243,
+    "lon": 9.8269745,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1293567141"
+  },
+  {
+    "id": "osm-way-1293704091",
+    "name": "Åfarnes løpebane",
+    "lat": 62.6587085,
+    "lon": 7.5046666,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1293704091"
+  },
+  {
+    "id": "osm-way-1293704092",
+    "name": "Eidsvåg stadion",
+    "lat": 62.7802347,
+    "lon": 8.0743396,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1293704092"
+  },
+  {
+    "id": "osm-way-1293704093",
+    "name": "Erstadengan stadion",
+    "lat": 62.7157531,
+    "lon": 8.4218211,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1293704093"
+  },
+  {
+    "id": "osm-way-1293704094",
+    "name": "Eide stadion",
+    "lat": 62.9169871,
+    "lon": 7.4381107,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1293704094"
+  },
+  {
+    "id": "osm-way-1293704096",
+    "name": "Øra stadion",
+    "lat": 62.9446863,
+    "lon": 7.8608429,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1293704096"
+  },
+  {
+    "id": "osm-way-1293790964",
+    "name": "Brattvåg stadion",
+    "lat": 62.5942518,
+    "lon": 6.4379615,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1293790964"
+  },
+  {
+    "id": "osm-way-1293790967",
+    "name": "Vasset friidrett",
+    "lat": 62.4337788,
+    "lon": 6.2016003,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1293790967"
+  },
+  {
+    "id": "osm-way-1293790968",
+    "name": "Valdervoll friidrettsanlegg",
+    "lat": 62.5137824,
+    "lon": 6.1049847,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1293790968"
+  },
+  {
+    "id": "osm-way-1293790969",
+    "name": "Eidsåvoll stadion",
+    "lat": 62.1129844,
+    "lon": 5.6742977,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1293790969"
+  },
+  {
+    "id": "osm-way-1293790971",
+    "name": "Gursken stadion",
+    "lat": 62.22113,
+    "lon": 5.6911204,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1293790971"
+  },
+  {
+    "id": "osm-way-1293790973",
+    "name": "Ørskog friidrettsanlegg",
+    "lat": 62.4774419,
+    "lon": 6.8176941,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1293790973"
+  },
+  {
+    "id": "osm-way-1293790974",
+    "name": "Larsnes stadion",
+    "lat": 62.2113577,
+    "lon": 5.5740367,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1293790974"
+  },
+  {
+    "id": "osm-way-1293790978",
+    "name": "Stokke skule",
+    "lat": 62.5028365,
+    "lon": 6.3931277,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1293790978"
+  },
+  {
+    "id": "osm-way-1293984239",
+    "name": "Loggane stadion",
+    "lat": 61.7676606,
+    "lon": 6.133744,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1293984239"
+  },
+  {
+    "id": "osm-way-1293984244",
+    "name": "Eid stadion friidrett grus",
+    "lat": 61.9048496,
+    "lon": 5.9995836,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1293984244"
+  },
+  {
+    "id": "osm-way-1293984247",
+    "name": "Eikefjord stadion",
+    "lat": 61.5939912,
+    "lon": 5.439387,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1293984247"
+  },
+  {
+    "id": "osm-way-1293984248",
+    "name": "Innvik stadion",
+    "lat": 61.8478723,
+    "lon": 6.6219911,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1293984248"
+  },
+  {
+    "id": "osm-way-1294643492",
+    "name": "Nordbygda idrettsanlegg",
+    "lat": 60.8293695,
+    "lon": 5.2824036,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1294643492"
+  },
+  {
+    "id": "osm-way-1294643493",
+    "name": "Eivindvik skule løpebane",
+    "lat": 60.9839489,
+    "lon": 5.089101,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1294643493"
+  },
+  {
+    "id": "osm-way-1294643494",
+    "name": "Eivindvik stadion",
+    "lat": 60.9752862,
+    "lon": 5.0928068,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1294643494"
+  },
+  {
+    "id": "osm-way-1294643497",
+    "name": "Solund løpebane",
+    "lat": 61.0694609,
+    "lon": 4.8454629,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1294643497"
+  },
+  {
+    "id": "osm-way-1294651780",
+    "name": "Breimyra idrettsplass",
+    "lat": 60.4623136,
+    "lon": 5.3659368,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1294651780"
+  },
+  {
+    "id": "osm-way-1294651781",
+    "name": "Åsane idrettspark",
+    "lat": 60.4698947,
+    "lon": 5.3167371,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1294651781"
+  },
+  {
+    "id": "osm-way-1294896882",
+    "name": "Heio idrettsanlegg",
+    "lat": 59.9233943,
+    "lon": 5.8949164,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1294896882"
+  },
+  {
+    "id": "osm-way-1294896885",
+    "name": "Nysæter løpebane",
+    "lat": 59.7869998,
+    "lon": 5.3994082,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1294896885"
+  },
+  {
+    "id": "osm-way-1294896886",
+    "name": "Langevåg idrettsplass",
+    "lat": 59.5976972,
+    "lon": 5.2136302,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1294896886"
+  },
+  {
+    "id": "osm-way-1294896887",
+    "name": "Etne idrettsanlegg",
+    "lat": 59.6669816,
+    "lon": 5.9379454,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1294896887"
+  },
+  {
+    "id": "osm-way-1294896889",
+    "name": "Herøysund idrettsplass",
+    "lat": 59.9215845,
+    "lon": 5.7933863,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1294896889"
+  },
+  {
+    "id": "osm-way-1295013319",
+    "name": "Nedstrand idrettsanlegg",
+    "lat": 59.3490708,
+    "lon": 5.7944365,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1295013319"
+  },
+  {
+    "id": "osm-way-1295013320",
+    "name": "Tastaveden sprintstripe",
+    "lat": 58.9789751,
+    "lon": 5.701915,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1295013320"
+  },
+  {
+    "id": "osm-way-1295013321",
+    "name": "Athletics track",
+    "lat": 58.8609311,
+    "lon": 5.7269343,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1295013321"
+  },
+  {
+    "id": "osm-way-1295013322",
+    "name": "Sokndal sprintbane",
+    "lat": 58.3460062,
+    "lon": 6.2906827,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1295013322"
+  },
+  {
+    "id": "osm-way-1295013323",
+    "name": "Førre skule løpebaner",
+    "lat": 59.42815,
+    "lon": 5.3826463,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1295013323"
+  },
+  {
+    "id": "osm-way-1295013324",
+    "name": "Kvernevik sprintstripe",
+    "lat": 58.9670225,
+    "lon": 5.6051088,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1295013324"
+  },
+  {
+    "id": "osm-way-1295013327",
+    "name": "Tjelta idrettsanlegg",
+    "lat": 58.8453579,
+    "lon": 5.5982852,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1295013327"
+  },
+  {
+    "id": "osm-way-1295013328",
+    "name": "Bokn stadion",
+    "lat": 59.229163,
+    "lon": 5.4382955,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1295013328"
+  },
+  {
+    "id": "osm-way-1295013330",
+    "name": "Bryne skule delanlegg friidrett 2",
+    "lat": 58.7326391,
+    "lon": 5.6431425,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1295013330"
+  },
+  {
+    "id": "osm-way-1295013331",
+    "name": "Bryne skule delanlegg friidrett 1",
+    "lat": 58.733032,
+    "lon": 5.6424263,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1295013331"
+  },
+  {
+    "id": "osm-way-1295013332",
+    "name": "Revheim",
+    "lat": 58.95184,
+    "lon": 5.6415674,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1295013332"
+  },
+  {
+    "id": "osm-way-1295167448",
+    "name": "Vardås sprintbane",
+    "lat": 58.1478461,
+    "lon": 8.0634526,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1295167448"
+  },
+  {
+    "id": "osm-way-1295167450",
+    "name": "Byremo sprintbane",
+    "lat": 58.4224088,
+    "lon": 7.4042147,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1295167450"
+  },
+  {
+    "id": "osm-way-1295167452",
+    "name": "Herefoss sprintbane",
+    "lat": 58.5197859,
+    "lon": 8.3536235,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1295167452"
+  },
+  {
+    "id": "osm-way-1295167453",
+    "name": "Frøyså friidrettsanlegg",
+    "lat": 58.4136637,
+    "lon": 7.9119602,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1295167453"
+  },
+  {
+    "id": "osm-way-1295167454",
+    "name": "Stuenes stadion",
+    "lat": 58.4906572,
+    "lon": 8.8516915,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1295167454"
+  },
+  {
+    "id": "osm-way-1295167455",
+    "name": "Kvinesdal stadion",
+    "lat": 58.3073646,
+    "lon": 6.9582321,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1295167455"
+  },
+  {
+    "id": "osm-way-1295167460",
+    "name": "Eiken friidrettsanlegg",
+    "lat": 58.4868297,
+    "lon": 7.1978454,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1295167460"
+  },
+  {
+    "id": "osm-way-1295167461",
+    "name": "Kringsjå løpebane",
+    "lat": 58.1277904,
+    "lon": 8.1141259,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1295167461"
+  },
+  {
+    "id": "osm-way-1295167462",
+    "name": "Vågsbygd idrettsplass",
+    "lat": 58.1163357,
+    "lon": 7.9535551,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1295167462"
+  },
+  {
+    "id": "osm-way-1295167463",
+    "name": "Athletics track",
+    "lat": 58.1467217,
+    "lon": 7.9708765,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1295167463"
+  },
+  {
+    "id": "osm-way-1295167464",
+    "name": "Idda friidrett",
+    "lat": 58.1471059,
+    "lon": 7.9712963,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1295167464"
+  },
+  {
+    "id": "osm-way-1295588683",
+    "name": "Gvarv stadion",
+    "lat": 59.3872253,
+    "lon": 9.1931413,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1295588683"
+  },
+  {
+    "id": "osm-way-1295588685",
+    "name": "Siljan ungdomsskole løpebane",
+    "lat": 59.2826546,
+    "lon": 9.735386,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1295588685"
+  },
+  {
+    "id": "osm-way-1295588687",
+    "name": "Atrå idrettsplass",
+    "lat": 59.9878729,
+    "lon": 8.7383795,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1295588687"
+  },
+  {
+    "id": "osm-way-1295588688",
+    "name": "Bratsberg sprintbane",
+    "lat": 59.2051809,
+    "lon": 9.6246236,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1295588688"
+  },
+  {
+    "id": "osm-way-1295588689",
+    "name": "Kjapp stadion",
+    "lat": 59.4220923,
+    "lon": 9.3256411,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1295588689"
+  },
+  {
+    "id": "osm-way-1295788099",
+    "name": "Haukerød friidrett",
+    "lat": 59.1470571,
+    "lon": 10.1851764,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1295788099"
+  },
+  {
+    "id": "osm-way-1295788100",
+    "name": "Østerøya løpebane",
+    "lat": 59.1328984,
+    "lon": 10.2752577,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1295788100"
+  },
+  {
+    "id": "osm-way-1295788102",
+    "name": "Stokke løpebane",
+    "lat": 59.2197551,
+    "lon": 10.2782799,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1295788102"
+  },
+  {
+    "id": "osm-way-1295788103",
+    "name": "Bergsåsen løpebane",
+    "lat": 59.3597896,
+    "lon": 10.2471153,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1295788103"
+  },
+  {
+    "id": "osm-way-1295800171",
+    "name": "Athletics track",
+    "lat": 59.2773136,
+    "lon": 11.1032027,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1295800171"
+  },
+  {
+    "id": "osm-way-1295800178",
+    "name": "Athletics track",
+    "lat": 59.2310545,
+    "lon": 11.6980094,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1295800178"
+  },
+  {
+    "id": "osm-way-1295800179",
+    "name": "Spydeberg stadion",
+    "lat": 59.6185312,
+    "lon": 11.0820058,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1295800179"
+  },
+  {
+    "id": "osm-way-1295800180",
+    "name": "Stranda nærmiljøpark",
+    "lat": 59.1239997,
+    "lon": 11.3950868,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1295800180"
+  },
+  {
+    "id": "osm-way-1296793688",
+    "name": "Gamlegrendåsen skole",
+    "lat": 59.6503019,
+    "lon": 9.6635096,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1296793688"
+  },
+  {
+    "id": "osm-way-1296793689",
+    "name": "Vestre Spone idrettsplass",
+    "lat": 59.9396456,
+    "lon": 9.9296276,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1296793689"
+  },
+  {
+    "id": "osm-way-1296793690",
+    "name": "Sletta løpebane",
+    "lat": 59.7112827,
+    "lon": 10.1474961,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1296793690"
+  },
+  {
+    "id": "osm-way-1296799280",
+    "name": "Tokerud skole",
+    "lat": 59.9654442,
+    "lon": 10.9309405,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1296799280"
+  },
+  {
+    "id": "osm-way-1296799281",
+    "name": "Rommen skole",
+    "lat": 59.9673233,
+    "lon": 10.9154561,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1296799281"
+  },
+  {
+    "id": "osm-way-1296799282",
+    "name": "Bjørndal",
+    "lat": 59.8237192,
+    "lon": 10.8325994,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1296799282"
+  },
+  {
+    "id": "osm-way-1296799286",
+    "name": "Haugenstua skole løpebane",
+    "lat": 59.9536471,
+    "lon": 10.9202103,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1296799286"
+  },
+  {
+    "id": "osm-way-1296799287",
+    "name": "Furuset Trimmen",
+    "lat": 59.9397592,
+    "lon": 10.8923797,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1296799287"
+  },
+  {
+    "id": "osm-way-1297291627",
+    "name": "Toso skole",
+    "lat": 60.2378953,
+    "lon": 10.4259221,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1297291627"
+  },
+  {
+    "id": "osm-way-1297291634",
+    "name": "Athletics track",
+    "lat": 60.1262981,
+    "lon": 11.3355397,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1297291634"
+  },
+  {
+    "id": "osm-way-1297291641",
+    "name": "Bjerkelunden idrettspark",
+    "lat": 59.5508964,
+    "lon": 10.5659395,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1297291641"
+  },
+  {
+    "id": "osm-way-1297291642",
+    "name": "Slemmestad idrettspark",
+    "lat": 59.7766615,
+    "lon": 10.4799898,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1297291642"
+  },
+  {
+    "id": "osm-way-1297291646",
+    "name": "Vilberg skole løpebane",
+    "lat": 60.6490467,
+    "lon": 10.8303752,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1297291646"
+  },
+  {
+    "id": "osm-way-1297291647",
+    "name": "Arnestad stadion",
+    "lat": 59.8023041,
+    "lon": 10.4874849,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1297291647"
+  },
+  {
+    "id": "osm-way-1297291648",
+    "name": "Enebakk stadion",
+    "lat": 59.7642311,
+    "lon": 11.1516917,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1297291648"
+  },
+  {
+    "id": "osm-way-1297291649",
+    "name": "Slattum skole",
+    "lat": 60.0093418,
+    "lon": 10.9156358,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1297291649"
+  },
+  {
+    "id": "osm-way-1297291650",
+    "name": "Ås skole",
+    "lat": 60.3290244,
+    "lon": 11.2143025,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1297291650"
+  },
+  {
+    "id": "osm-way-1297600200",
+    "name": "Elverum videregående skole",
+    "lat": 60.8759376,
+    "lon": 11.5612637,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1297600200"
+  },
+  {
+    "id": "osm-way-1297600201",
+    "name": "Ottestad stadion",
+    "lat": 60.7792565,
+    "lon": 11.1226843,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1297600201"
+  },
+  {
+    "id": "osm-way-1297600202",
+    "name": "Totenviken skole løpebane",
+    "lat": 60.6447765,
+    "lon": 11.0051901,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1297600202"
+  },
+  {
+    "id": "osm-way-1297600205",
+    "name": "Kvikne friidrettsanlegg",
+    "lat": 62.5883364,
+    "lon": 10.2804405,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1297600205"
+  },
+  {
+    "id": "osm-way-1297600206",
+    "name": "Rudsbygd friidrettsanlegg",
+    "lat": 61.1902411,
+    "lon": 10.3101586,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1297600206"
+  },
+  {
+    "id": "osm-way-1297600207",
+    "name": "Garmo idrettsplass",
+    "lat": 61.8545331,
+    "lon": 8.7983256,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1297600207"
+  },
+  {
+    "id": "osm-way-1297600210",
+    "name": "Åsbygda sprintbane",
+    "lat": 60.7411103,
+    "lon": 11.3691655,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1297600210"
+  },
+  {
+    "id": "osm-way-1297600211",
+    "name": "Snertingdal friidrettsanlegg",
+    "lat": 60.8742553,
+    "lon": 10.4036898,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1297600211"
+  },
+  {
+    "id": "osm-way-1297600213",
+    "name": "Løpebane",
+    "lat": 60.2582302,
+    "lon": 11.668552,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1297600213"
+  },
+  {
+    "id": "osm-way-1297600214",
+    "name": "Fossvang idrettspark",
+    "lat": 60.8247178,
+    "lon": 9.5504759,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1297600214"
+  },
+  {
+    "id": "osm-way-1297600217",
+    "name": "Grindegga friidrettsanlegg",
+    "lat": 62.1043885,
+    "lon": 10.6363106,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1297600217"
+  },
+  {
+    "id": "osm-way-1297600222",
+    "name": "Folldal fridrettsanlegg",
+    "lat": 62.1315038,
+    "lon": 9.9824516,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1297600222"
+  },
+  {
+    "id": "osm-way-1297600223",
+    "name": "Stange skole løpebane",
+    "lat": 60.6362241,
+    "lon": 10.9107891,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1297600223"
+  },
+  {
+    "id": "osm-way-1297600224",
+    "name": "Rogne løpebane",
+    "lat": 61.079279,
+    "lon": 9.1271603,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1297600224"
+  },
+  {
+    "id": "osm-way-1299497774",
+    "name": "Athletics track",
+    "lat": 60.1497943,
+    "lon": 9.7408337,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1299497774"
+  },
+  {
+    "id": "osm-way-1300976250",
+    "name": "Athletics track",
+    "lat": 59.3491809,
+    "lon": 10.8666399,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1300976250"
+  },
+  {
+    "id": "osm-way-132197548",
+    "name": "Hydro idrettsanlegg",
+    "lat": 59.1131253,
+    "lon": 9.6450831,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/132197548"
+  },
+  {
+    "id": "osm-way-1327111155",
+    "name": "Athletics track",
+    "lat": 63.3943712,
+    "lon": 10.3486627,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1327111155"
+  },
+  {
+    "id": "osm-way-1327111157",
+    "name": "Athletics track",
+    "lat": 63.3942897,
+    "lon": 10.3488074,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1327111157"
+  },
+  {
+    "id": "osm-way-1327111160",
+    "name": "Athletics track",
+    "lat": 63.393635,
+    "lon": 10.3490978,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1327111160"
+  },
+  {
+    "id": "osm-way-1327111161",
+    "name": "Athletics track",
+    "lat": 63.3942894,
+    "lon": 10.3488621,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1327111161"
+  },
+  {
+    "id": "osm-way-133083195",
+    "name": "Nesøya idrettsanlegg",
+    "lat": 59.8625555,
+    "lon": 10.5216446,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/133083195"
+  },
+  {
+    "id": "osm-way-1335036583",
+    "name": "Athletics track",
+    "lat": 59.777124,
+    "lon": 10.481114,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1335036583"
+  },
+  {
+    "id": "osm-way-1335036619",
+    "name": "Athletics track",
+    "lat": 59.8028669,
+    "lon": 10.4882576,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1335036619"
+  },
+  {
+    "id": "osm-way-1341061083",
+    "name": "Athletics track",
+    "lat": 59.7925719,
+    "lon": 10.4491401,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1341061083"
+  },
+  {
+    "id": "osm-way-1341061086",
+    "name": "Athletics track",
+    "lat": 59.7928924,
+    "lon": 10.4492161,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1341061086"
+  },
+  {
+    "id": "osm-way-1341061087",
+    "name": "Athletics track",
+    "lat": 59.7926639,
+    "lon": 10.4492717,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1341061087"
+  },
+  {
+    "id": "osm-way-1341061088",
+    "name": "Athletics track",
+    "lat": 59.7925769,
+    "lon": 10.4496189,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1341061088"
+  },
+  {
+    "id": "osm-way-134394218",
+    "name": "Klokkarstua idrettspark",
+    "lat": 59.6086054,
+    "lon": 10.4500106,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/134394218"
+  },
+  {
+    "id": "osm-way-1356365506",
+    "name": "Numedal folkehøgskole",
+    "lat": 60.0071436,
+    "lon": 9.2688512,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1356365506"
+  },
+  {
+    "id": "osm-way-137025555",
+    "name": "Hundvåg idrettspark",
+    "lat": 58.996635,
+    "lon": 5.7371042,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/137025555"
+  },
+  {
+    "id": "osm-way-1376170444",
+    "name": "Athletics track",
+    "lat": 63.3943851,
+    "lon": 10.3489597,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1376170444"
+  },
+  {
+    "id": "osm-way-1376170445",
+    "name": "Athletics track",
+    "lat": 63.3944507,
+    "lon": 10.3490534,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1376170445"
+  },
+  {
+    "id": "osm-way-138770474",
+    "name": "Bevergrenda stadion",
+    "lat": 59.7035575,
+    "lon": 9.6270951,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/138770474"
+  },
+  {
+    "id": "osm-way-1395987710",
+    "name": "Athletics track",
+    "lat": 59.924526,
+    "lon": 10.7338095,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1395987710"
+  },
+  {
+    "id": "osm-way-1395987714",
+    "name": "Athletics track",
+    "lat": 59.924382,
+    "lon": 10.733731,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1395987714"
+  },
+  {
+    "id": "osm-way-1395987715",
+    "name": "Athletics track",
+    "lat": 59.9255666,
+    "lon": 10.7326738,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1395987715"
+  },
+  {
+    "id": "osm-way-1395987717",
+    "name": "Athletics track",
+    "lat": 59.9251024,
+    "lon": 10.7339823,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1395987717"
+  },
+  {
+    "id": "osm-way-1416058133",
+    "name": "Athletics track",
+    "lat": 60.2902228,
+    "lon": 5.3197723,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1416058133"
+  },
+  {
+    "id": "osm-way-1416058134",
+    "name": "Athletics track",
+    "lat": 60.2899611,
+    "lon": 5.3186574,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1416058134"
+  },
+  {
+    "id": "osm-way-1416082335",
+    "name": "Athletics track",
+    "lat": 60.3923736,
+    "lon": 5.3426389,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1416082335"
+  },
+  {
+    "id": "osm-way-1416082336",
+    "name": "Athletics track",
+    "lat": 60.3922778,
+    "lon": 5.3427827,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1416082336"
+  },
+  {
+    "id": "osm-way-1416082339",
+    "name": "Athletics track",
+    "lat": 60.3925413,
+    "lon": 5.3416541,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1416082339"
+  },
+  {
+    "id": "osm-way-1468095571",
+    "name": "Athletics track",
+    "lat": 59.9108674,
+    "lon": 10.499493,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1468095571"
+  },
+  {
+    "id": "osm-way-1468095573",
+    "name": "Athletics track",
+    "lat": 59.9107718,
+    "lon": 10.4996457,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1468095573"
+  },
+  {
+    "id": "osm-way-1468095575",
+    "name": "Athletics track",
+    "lat": 59.9108519,
+    "lon": 10.4994001,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1468095575"
+  },
+  {
+    "id": "osm-way-1468095576",
+    "name": "Athletics track",
+    "lat": 59.9107421,
+    "lon": 10.4995077,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1468095576"
+  },
+  {
+    "id": "osm-way-1468095578",
+    "name": "Athletics track",
+    "lat": 59.9111863,
+    "lon": 10.5004312,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1468095578"
+  },
+  {
+    "id": "osm-way-1468095579",
+    "name": "Athletics track",
+    "lat": 59.9111798,
+    "lon": 10.5004677,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1468095579"
+  },
+  {
+    "id": "osm-way-1468095581",
+    "name": "Athletics track",
+    "lat": 59.9115314,
+    "lon": 10.4994071,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1468095581"
+  },
+  {
+    "id": "osm-way-1468095583",
+    "name": "Athletics track",
+    "lat": 59.911525,
+    "lon": 10.4994435,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1468095583"
+  },
+  {
+    "id": "osm-way-1468095586",
+    "name": "Athletics track",
+    "lat": 59.9119446,
+    "lon": 10.5001674,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1468095586"
+  },
+  {
+    "id": "osm-way-1497144413",
+    "name": "Athletics track",
+    "lat": 59.7817719,
+    "lon": 10.24716,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1497144413"
+  },
+  {
+    "id": "osm-way-152056174",
+    "name": "Sandstad stadion",
+    "lat": 63.5158384,
+    "lon": 9.0517271,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/152056174"
+  },
+  {
+    "id": "osm-way-1532606421",
+    "name": "Athletics track",
+    "lat": 63.1239469,
+    "lon": 7.737053,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1532606421"
+  },
+  {
+    "id": "osm-way-1532606422",
+    "name": "Athletics track",
+    "lat": 63.1237721,
+    "lon": 7.734467,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1532606422"
+  },
+  {
+    "id": "osm-way-1532606423",
+    "name": "Athletics track",
+    "lat": 63.1238549,
+    "lon": 7.7345211,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1532606423"
+  },
+  {
+    "id": "osm-way-1533171358",
+    "name": "Athletics track",
+    "lat": 63.1241707,
+    "lon": 7.7358962,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1533171358"
+  },
+  {
+    "id": "osm-way-158087811",
+    "name": "Skavelmyra friidrettsanlegg",
+    "lat": 63.5538212,
+    "lon": 10.1853104,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/158087811"
+  },
+  {
+    "id": "osm-way-175778568",
+    "name": "Nordbygdo løpebane",
+    "lat": 59.7998561,
+    "lon": 5.5095413,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/175778568"
+  },
+  {
+    "id": "osm-way-192501699",
+    "name": "Malm stadion",
+    "lat": 64.0679729,
+    "lon": 11.2161472,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/192501699"
+  },
+  {
+    "id": "osm-way-230604165",
+    "name": "Borholmen stadion",
+    "lat": 62.8166689,
+    "lon": 8.7002209,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/230604165"
+  },
+  {
+    "id": "osm-way-232549889",
+    "name": "Snipen friidrettsanlegg",
+    "lat": 61.9885299,
+    "lon": 9.2436806,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/232549889"
+  },
+  {
+    "id": "osm-way-233555639",
+    "name": "Eidfjord idrettsanlegg",
+    "lat": 60.4627311,
+    "lon": 7.0740156,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/233555639"
+  },
+  {
+    "id": "osm-way-240100713",
+    "name": "Øyra stadion",
+    "lat": 62.8041171,
+    "lon": 7.1726916,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/240100713"
+  },
+  {
+    "id": "osm-way-256692317",
+    "name": "Noresund stadion",
+    "lat": 60.1792042,
+    "lon": 9.6188947,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/256692317"
+  },
+  {
+    "id": "osm-way-281318902",
+    "name": "Munkvoll",
+    "lat": 62.2957587,
+    "lon": 5.6769878,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/281318902"
+  },
+  {
+    "id": "osm-way-283807186",
+    "name": "Bryne skule friidrettsanlegg",
+    "lat": 58.7324957,
+    "lon": 5.6420975,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/283807186"
+  },
+  {
+    "id": "osm-way-294896052",
+    "name": "Kringla stadion",
+    "lat": 58.512001,
+    "lon": 8.6285467,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/294896052"
+  },
+  {
+    "id": "osm-way-30139200",
+    "name": "Hurdal stadion",
+    "lat": 60.431051,
+    "lon": 11.0709085,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/30139200"
+  },
+  {
+    "id": "osm-way-316392120",
+    "name": "Gratangen stadion",
+    "lat": 68.6681938,
+    "lon": 17.6787302,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/316392120"
+  },
+  {
+    "id": "osm-way-331292018",
+    "name": "Athletics track",
+    "lat": 58.9650011,
+    "lon": 5.7117514,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/331292018"
+  },
+  {
+    "id": "osm-way-342620307",
+    "name": "Nesseby idrettsplass",
+    "lat": 70.1542056,
+    "lon": 28.8608596,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/342620307"
+  },
+  {
+    "id": "osm-way-345123460",
+    "name": "Sandvann stadion",
+    "lat": 58.9335933,
+    "lon": 9.1283809,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/345123460"
+  },
+  {
+    "id": "osm-way-346197074",
+    "name": "Mosvik stadion",
+    "lat": 63.8204459,
+    "lon": 10.9970003,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/346197074"
+  },
+  {
+    "id": "osm-way-346524434",
+    "name": "Kølmoen idrettsplass",
+    "lat": 63.0411307,
+    "lon": 9.7050519,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/346524434"
+  },
+  {
+    "id": "osm-way-346641676",
+    "name": "Flormoøra stadion",
+    "lat": 63.4599673,
+    "lon": 11.3693154,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/346641676"
+  },
+  {
+    "id": "osm-way-347889083",
+    "name": "Dingemoen stadion",
+    "lat": 61.3549031,
+    "lon": 5.398205,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/347889083"
+  },
+  {
+    "id": "osm-way-34882324",
+    "name": "Gneist Arena",
+    "lat": 60.2908657,
+    "lon": 5.3168567,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/34882324"
+  },
+  {
+    "id": "osm-way-351104203",
+    "name": "Beitstad stadion",
+    "lat": 64.1081506,
+    "lon": 11.3868436,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/351104203"
+  },
+  {
+    "id": "osm-way-355982813",
+    "name": "Langenes stadion",
+    "lat": 58.0783521,
+    "lon": 7.8534837,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/355982813"
+  },
+  {
+    "id": "osm-way-365049668",
+    "name": "Nordahl Grieg vgs.",
+    "lat": 60.2995677,
+    "lon": 5.3238773,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/365049668"
+  },
+  {
+    "id": "osm-way-390207000",
+    "name": "Kyrkjebø friidrettsanlegg",
+    "lat": 61.1629014,
+    "lon": 5.9345308,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/390207000"
+  },
+  {
+    "id": "osm-way-390502578",
+    "name": "Austertana stadion",
+    "lat": 70.4448039,
+    "lon": 28.5019131,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/390502578"
+  },
+  {
+    "id": "osm-way-391683852",
+    "name": "Hellesylt stadion",
+    "lat": 62.080447,
+    "lon": 6.8764554,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/391683852"
+  },
+  {
+    "id": "osm-way-395237941",
+    "name": "Eresfjord stadion",
+    "lat": 62.6616693,
+    "lon": 8.1162652,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/395237941"
+  },
+  {
+    "id": "osm-way-395702498",
+    "name": "Kulestøt",
+    "lat": 62.3264844,
+    "lon": 5.8002807,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/395702498"
+  },
+  {
+    "id": "osm-way-396301396",
+    "name": "Volda ungdomsskule løpebane",
+    "lat": 62.1465364,
+    "lon": 6.0777805,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/396301396"
+  },
+  {
+    "id": "osm-way-410348585",
+    "name": "Årnes stadion",
+    "lat": 60.1220225,
+    "lon": 11.4748442,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/410348585"
+  },
+  {
+    "id": "osm-way-414325473",
+    "name": "Haus idrettsplass",
+    "lat": 60.4557207,
+    "lon": 5.4913416,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/414325473"
+  },
+  {
+    "id": "osm-way-418409866",
+    "name": "Åset stadion",
+    "lat": 63.963532,
+    "lon": 10.2242743,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/418409866"
+  },
+  {
+    "id": "osm-way-42097576",
+    "name": "Kjevik stadion",
+    "lat": 58.2087446,
+    "lon": 8.0857345,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/42097576"
+  },
+  {
+    "id": "osm-way-43160738",
+    "name": "Andebubanen",
+    "lat": 59.3062956,
+    "lon": 10.171153,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/43160738"
+  },
+  {
+    "id": "osm-way-454052626",
+    "name": "Athletics track",
+    "lat": 61.5904257,
+    "lon": 9.7573678,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/454052626"
+  },
+  {
+    "id": "osm-way-460273946",
+    "name": "Hallingby stadion",
+    "lat": 60.2681449,
+    "lon": 10.1810187,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/460273946"
+  },
+  {
+    "id": "osm-way-47482699",
+    "name": "Kodal idrettspark",
+    "lat": 59.2157117,
+    "lon": 10.1409978,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/47482699"
+  },
+  {
+    "id": "osm-way-475652719",
+    "name": "Tysværvåg idrettsanlegg",
+    "lat": 59.3212825,
+    "lon": 5.4771024,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/475652719"
+  },
+  {
+    "id": "osm-way-482219104",
+    "name": "Kalandseid idrettspark",
+    "lat": 60.2786521,
+    "lon": 5.4042492,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/482219104"
+  },
+  {
+    "id": "osm-way-482729051",
+    "name": "Lørenfallet friidrettsbane",
+    "lat": 60.0218816,
+    "lon": 11.2265836,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/482729051"
+  },
+  {
+    "id": "osm-way-498018228",
+    "name": "Hokksund gymnas løpebane",
+    "lat": 59.7731716,
+    "lon": 9.9052415,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/498018228"
+  },
+  {
+    "id": "osm-way-5011543",
+    "name": "Høybråten friplass",
+    "lat": 59.9455272,
+    "lon": 10.9085209,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/5011543"
+  },
+  {
+    "id": "osm-way-504707792",
+    "name": "Varteig idrettsplass",
+    "lat": 59.3538062,
+    "lon": 11.1746487,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/504707792"
+  },
+  {
+    "id": "osm-way-511580778",
+    "name": "Åmdals verk idrettsplass",
+    "lat": 59.3777338,
+    "lon": 8.0367277,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/511580778"
+  },
+  {
+    "id": "osm-way-512208945",
+    "name": "Dalen idrettsplass",
+    "lat": 59.4468604,
+    "lon": 7.9853546,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/512208945"
+  },
+  {
+    "id": "osm-way-512788543",
+    "name": "Kviteseid stadion",
+    "lat": 59.4102654,
+    "lon": 8.4722931,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/512788543"
+  },
+  {
+    "id": "osm-way-521754781",
+    "name": "Fossum idrettsanlegg - delanlegg friidrett",
+    "lat": 59.9598694,
+    "lon": 10.613864,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/521754781"
+  },
+  {
+    "id": "osm-way-531037408",
+    "name": "Tørn friidrettsbane",
+    "lat": 59.1543389,
+    "lon": 8.815658,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/531037408"
+  },
+  {
+    "id": "osm-way-557371949",
+    "name": "Haugarbanen",
+    "lat": 59.3620124,
+    "lon": 10.1170219,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/557371949"
+  },
+  {
+    "id": "osm-way-557630452",
+    "name": "Sand friidrett",
+    "lat": 69.3909054,
+    "lon": 18.6168742,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/557630452"
+  },
+  {
+    "id": "osm-way-601389866",
+    "name": "Lærdalsøyri løpebane",
+    "lat": 61.1032159,
+    "lon": 7.4978644,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/601389866"
+  },
+  {
+    "id": "osm-way-612008773",
+    "name": "Lierne idrettspark",
+    "lat": 64.4599683,
+    "lon": 13.5988478,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/612008773"
+  },
+  {
+    "id": "osm-way-633764327",
+    "name": "Jessheim vgs - løpebane",
+    "lat": 60.1467757,
+    "lon": 11.1651218,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/633764327"
+  },
+  {
+    "id": "osm-way-634882301",
+    "name": "Halland stadion",
+    "lat": 61.8741327,
+    "lon": 9.1015025,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/634882301"
+  },
+  {
+    "id": "osm-way-644363547",
+    "name": "Røgelstad friidrettsanlegg",
+    "lat": 59.2295017,
+    "lon": 6.1720708,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/644363547"
+  },
+  {
+    "id": "osm-way-650209225",
+    "name": "Sportsplassen",
+    "lat": 61.1088563,
+    "lon": 10.4666227,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/650209225"
+  },
+  {
+    "id": "osm-way-659776928",
+    "name": "Heming friidrettsanlegg",
+    "lat": 59.9555147,
+    "lon": 10.7004653,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/659776928"
+  },
+  {
+    "id": "osm-way-664305981",
+    "name": "Stamsund/Svarholt",
+    "lat": 68.1378629,
+    "lon": 13.8320716,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/664305981"
+  },
+  {
+    "id": "osm-way-673947710",
+    "name": "Verdalsøra barneskole friidrettsanlegg",
+    "lat": 63.7985988,
+    "lon": 11.4844201,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/673947710"
+  },
+  {
+    "id": "osm-way-678612631",
+    "name": "Leirdalen idrettsanlegg",
+    "lat": 60.5581863,
+    "lon": 5.0483769,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/678612631"
+  },
+  {
+    "id": "osm-way-685355560",
+    "name": "Drevsjø friidrettsanlegg",
+    "lat": 61.8927281,
+    "lon": 12.0338904,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/685355560"
+  },
+  {
+    "id": "osm-way-686417868",
+    "name": "Våler stadion",
+    "lat": 60.6711567,
+    "lon": 11.8329805,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/686417868"
+  },
+  {
+    "id": "osm-way-692307262",
+    "name": "Bindalseidet stadion",
+    "lat": 65.1281373,
+    "lon": 12.2298934,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/692307262"
+  },
+  {
+    "id": "osm-way-708671991",
+    "name": "Storslett sentralidrettsanlegg",
+    "lat": 69.7676321,
+    "lon": 21.0038168,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/708671991"
+  },
+  {
+    "id": "osm-way-736364625",
+    "name": "Wennersborg skole",
+    "lat": 59.654442,
+    "lon": 9.6398846,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/736364625"
+  },
+  {
+    "id": "osm-way-752717470",
+    "name": "Moi idrettsanlegg",
+    "lat": 58.4515636,
+    "lon": 6.5518647,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/752717470"
+  },
+  {
+    "id": "osm-way-757957158",
+    "name": "Åmøy aktivitetsanlegg",
+    "lat": 66.7833241,
+    "lon": 13.3595944,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/757957158"
+  },
+  {
+    "id": "osm-way-759003438",
+    "name": "Bykle skole",
+    "lat": 59.3562508,
+    "lon": 7.359991,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/759003438"
+  },
+  {
+    "id": "osm-way-76242499",
+    "name": "Friplassen Gommerud",
+    "lat": 59.9325681,
+    "lon": 10.4811466,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/76242499"
+  },
+  {
+    "id": "osm-way-779381487",
+    "name": "Børselv stadion",
+    "lat": 70.322458,
+    "lon": 25.542238,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/779381487"
+  },
+  {
+    "id": "osm-way-783575827",
+    "name": "Norefjord stadion",
+    "lat": 60.1681432,
+    "lon": 9.0081457,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/783575827"
+  },
+  {
+    "id": "osm-way-783619978",
+    "name": "Rødberg Idrettspark",
+    "lat": 60.2690318,
+    "lon": 8.9471008,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/783619978"
+  },
+  {
+    "id": "osm-way-802127240",
+    "name": "Sokna idrettsplass",
+    "lat": 60.243322,
+    "lon": 9.9309173,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/802127240"
+  },
+  {
+    "id": "osm-way-813436157",
+    "name": "Olden friidrettsanlegg",
+    "lat": 61.833486,
+    "lon": 6.8069506,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/813436157"
+  },
+  {
+    "id": "osm-way-832980098",
+    "name": "Lindås idrettspark",
+    "lat": 60.7341391,
+    "lon": 5.1648144,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/832980098"
+  },
+  {
+    "id": "osm-way-836526265",
+    "name": "Krohnsminde idrettsplass",
+    "lat": 60.3756513,
+    "lon": 5.3407216,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/836526265"
+  },
+  {
+    "id": "osm-way-845784482",
+    "name": "Flatås friidrettsanlegg",
+    "lat": 63.3762792,
+    "lon": 10.3473016,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/845784482"
+  },
+  {
+    "id": "osm-way-852188458",
+    "name": "Haga stadion",
+    "lat": 60.0536761,
+    "lon": 11.3911659,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/852188458"
+  },
+  {
+    "id": "osm-way-880653542",
+    "name": "Hov stadion",
+    "lat": 60.7120676,
+    "lon": 10.3432233,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/880653542"
+  },
+  {
+    "id": "osm-way-880671487",
+    "name": "Athletics track",
+    "lat": 62.5232082,
+    "lon": 7.4255379,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/880671487"
+  },
+  {
+    "id": "osm-way-880671488",
+    "name": "Athletics track",
+    "lat": 62.5230811,
+    "lon": 7.4256395,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/880671488"
+  },
+  {
+    "id": "osm-way-880671490",
+    "name": "Athletics track",
+    "lat": 62.5230198,
+    "lon": 7.4257533,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/880671490"
+  },
+  {
+    "id": "osm-way-88600470",
+    "name": "Madlamoen",
+    "lat": 58.9482943,
+    "lon": 5.6664917,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/88600470"
+  },
+  {
+    "id": "osm-way-888669672",
+    "name": "Athletics track",
+    "lat": 70.3672206,
+    "lon": 31.1180297,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/888669672"
+  },
+  {
+    "id": "osm-way-893771357",
+    "name": "Tonstad stadion",
+    "lat": 58.6710721,
+    "lon": 6.7192865,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/893771357"
+  },
+  {
+    "id": "osm-way-894726533",
+    "name": "Gyland friidrettsanlegg",
+    "lat": 58.3735134,
+    "lon": 6.8343525,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/894726533"
+  },
+  {
+    "id": "osm-way-907061644",
+    "name": "Hinna idrettspark",
+    "lat": 58.9173531,
+    "lon": 5.7203692,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/907061644"
+  },
+  {
+    "id": "osm-way-907982074",
+    "name": "Grov friidrettsanlegg",
+    "lat": 61.841526,
+    "lon": 8.5649989,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/907982074"
+  },
+  {
+    "id": "osm-way-914257096",
+    "name": "Årdal stadion",
+    "lat": 59.1567772,
+    "lon": 6.1901773,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/914257096"
+  },
+  {
+    "id": "osm-way-92630610",
+    "name": "Svanvik folkehøgskole",
+    "lat": 69.4578025,
+    "lon": 30.0497384,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/92630610"
+  },
+  {
+    "id": "osm-way-95137898",
+    "name": "Athletics track",
+    "lat": 58.9647011,
+    "lon": 5.7092793,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/95137898"
+  },
+  {
+    "id": "osm-way-965577261",
+    "name": "Hyllestad idrettsanlegg",
+    "lat": 61.1692722,
+    "lon": 5.2962255,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/965577261"
+  },
+  {
+    "id": "osm-way-972531858",
+    "name": "Athletics track",
+    "lat": 59.4212285,
+    "lon": 10.672016,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/972531858"
+  },
+  {
+    "id": "osm-way-972531859",
+    "name": "Athletics track",
+    "lat": 59.4213012,
+    "lon": 10.6718716,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/972531859"
+  },
+  {
+    "id": "osm-way-972531860",
+    "name": "Athletics track",
+    "lat": 59.4213379,
+    "lon": 10.6717106,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/972531860"
+  },
+  {
+    "id": "osm-way-972531864",
+    "name": "Athletics track",
+    "lat": 59.4203169,
+    "lon": 10.6703887,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/972531864"
+  },
+  {
+    "id": "osm-way-972531866",
+    "name": "Athletics track",
+    "lat": 59.4212183,
+    "lon": 10.6719684,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/972531866"
+  },
+  {
+    "id": "osm-way-972531869",
+    "name": "Athletics track",
+    "lat": 59.4204916,
+    "lon": 10.6717267,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/972531869"
+  },
+  {
+    "id": "osm-way-972531871",
+    "name": "Athletics track",
+    "lat": 59.4201834,
+    "lon": 10.6705301,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/972531871"
+  }
+]

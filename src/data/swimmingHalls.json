@@ -1,0 +1,1142 @@
+[
+  {
+    "id": "osm-node-6255727448",
+    "name": "Abel svømmehall",
+    "lat": 58.8396875,
+    "lon": 9.0965585,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/6255727448"
+  },
+  {
+    "id": "osm-way-331306326",
+    "name": "AdO arena",
+    "lat": 60.3852174,
+    "lon": 5.3383659,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://adoarena.no/"
+  },
+  {
+    "id": "osm-way-87557474",
+    "name": "Ankerskogen svømmehall",
+    "lat": 60.8039996,
+    "lon": 11.066581,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/87557474"
+  },
+  {
+    "id": "osm-relation-10088591",
+    "name": "Aquarama",
+    "lat": 58.1468247,
+    "lon": 8.0067084,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/relation/10088591"
+  },
+  {
+    "id": "osm-node-6255727458",
+    "name": "Asdal skole svømmebasseng",
+    "lat": 58.4345433,
+    "lon": 8.6942529,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/6255727458"
+  },
+  {
+    "id": "osm-way-760167217",
+    "name": "Austrått svømmehall",
+    "lat": 58.8424352,
+    "lon": 5.754644,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.sandnes.kommune.no/kultur-fritid/idrett/svommehaller-i-sandnes/#heading-h2-3"
+  },
+  {
+    "id": "osm-node-10034004886",
+    "name": "Ballangen svømmehall",
+    "lat": 68.3376812,
+    "lon": 16.8129069,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/10034004886"
+  },
+  {
+    "id": "osm-node-6255727464",
+    "name": "Birkenlund svømmehall",
+    "lat": 58.4708049,
+    "lon": 8.7924575,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/6255727464"
+  },
+  {
+    "id": "osm-way-288802514",
+    "name": "Brønnøy samfunnshus",
+    "lat": 65.4680485,
+    "lon": 12.2107926,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/288802514"
+  },
+  {
+    "id": "osm-node-10933883684",
+    "name": "Bybadet",
+    "lat": 62.4727973,
+    "lon": 6.1646578,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://bybadet.no/"
+  },
+  {
+    "id": "osm-node-6255727454",
+    "name": "Bygland skole svømmebasseng",
+    "lat": 58.8327966,
+    "lon": 7.7985711,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/6255727454"
+  },
+  {
+    "id": "osm-node-6255727462",
+    "name": "Bykle symjehall",
+    "lat": 59.3564789,
+    "lon": 7.358776,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/6255727462"
+  },
+  {
+    "id": "osm-way-39597844",
+    "name": "Bøhallen",
+    "lat": 68.6185706,
+    "lon": 14.4645711,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/39597844"
+  },
+  {
+    "id": "osm-way-219678883",
+    "name": "Bøler bad",
+    "lat": 59.8824434,
+    "lon": 10.8434424,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/219678883"
+  },
+  {
+    "id": "osm-way-697276754",
+    "name": "Bømlo symjehall",
+    "lat": 59.7920783,
+    "lon": 5.1870395,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/697276754"
+  },
+  {
+    "id": "osm-way-60039156",
+    "name": "Drammensbadet",
+    "lat": 59.7356751,
+    "lon": 10.1988157,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.drammensbadet.no/"
+  },
+  {
+    "id": "osm-node-11707838264",
+    "name": "Eid svømmehall",
+    "lat": 61.9121688,
+    "lon": 5.9880757,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/11707838264"
+  },
+  {
+    "id": "osm-way-333159178",
+    "name": "Elverum svømmehall",
+    "lat": 60.8848748,
+    "lon": 11.5584845,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/333159178"
+  },
+  {
+    "id": "osm-node-8956376393",
+    "name": "Eventyrbadet - Vestlia Hotel",
+    "lat": 60.5218297,
+    "lon": 8.1968988,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/8956376393"
+  },
+  {
+    "id": "osm-node-6255727457",
+    "name": "Evje svømmehall",
+    "lat": 58.5913521,
+    "lon": 7.8214646,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/6255727457"
+  },
+  {
+    "id": "osm-way-54510100",
+    "name": "Farrishallen",
+    "lat": 59.0489445,
+    "lon": 10.0404605,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/54510100"
+  },
+  {
+    "id": "osm-node-6255727463",
+    "name": "Flosta skole svømmebasseng",
+    "lat": 58.552671,
+    "lon": 8.9726792,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/6255727463"
+  },
+  {
+    "id": "osm-node-1291457162",
+    "name": "Folkebadet",
+    "lat": 59.764149,
+    "lon": 11.1493796,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/1291457162"
+  },
+  {
+    "id": "osm-node-9458109653",
+    "name": "Forsand svømmehall",
+    "lat": 58.8967038,
+    "lon": 6.1331391,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/9458109653"
+  },
+  {
+    "id": "osm-way-208197624",
+    "name": "Frolandia",
+    "lat": 58.5118074,
+    "lon": 8.6311696,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/208197624"
+  },
+  {
+    "id": "osm-node-10995800485",
+    "name": "Fron Badeland",
+    "lat": 61.5763338,
+    "lon": 9.8614232,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://fronbadeland.no/"
+  },
+  {
+    "id": "osm-way-1517501325",
+    "name": "Furumo idrettspark",
+    "lat": 59.9376199,
+    "lon": 9.9638906,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1517501325"
+  },
+  {
+    "id": "osm-way-934364315",
+    "name": "Furumo svømmehall",
+    "lat": 59.9385117,
+    "lon": 9.9633675,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.furumo-svommehall.no"
+  },
+  {
+    "id": "osm-node-14000681901",
+    "name": "Gimle Forsamlingshus",
+    "lat": 65.4094788,
+    "lon": 12.5462229,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/14000681901"
+  },
+  {
+    "id": "osm-way-1000986870",
+    "name": "Gimlehallen",
+    "lat": 69.0280234,
+    "lon": 19.2936082,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1000986870"
+  },
+  {
+    "id": "osm-way-104510517",
+    "name": "Giske svømmehall",
+    "lat": 58.8583298,
+    "lon": 5.7256247,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/104510517"
+  },
+  {
+    "id": "osm-node-12147445206",
+    "name": "Gressvik Svømmehall",
+    "lat": 59.2181556,
+    "lon": 10.9035951,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/12147445206"
+  },
+  {
+    "id": "osm-node-11717029929",
+    "name": "Grevlingen svømmehall",
+    "lat": 59.5169071,
+    "lon": 10.701712,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/11717029929"
+  },
+  {
+    "id": "osm-node-670640531",
+    "name": "Grimstad svømmehall",
+    "lat": 58.3460818,
+    "lon": 8.5899797,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/670640531"
+  },
+  {
+    "id": "osm-node-11710881937",
+    "name": "Haraldshallen svømmehall",
+    "lat": 59.423644,
+    "lon": 5.2796204,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/11710881937"
+  },
+  {
+    "id": "osm-way-883864076",
+    "name": "Hardangerbadet",
+    "lat": 60.386265,
+    "lon": 6.202088,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.hardangerbadet.no/"
+  },
+  {
+    "id": "osm-node-11966342560",
+    "name": "Havgløtt bad",
+    "lat": 58.6918195,
+    "lon": 9.1656979,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/11966342560"
+  },
+  {
+    "id": "osm-node-11715720826",
+    "name": "Heistadhallen svømmebasseng",
+    "lat": 59.087259,
+    "lon": 9.6803583,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/11715720826"
+  },
+  {
+    "id": "osm-way-1147338206",
+    "name": "Herøy svømmebasseng",
+    "lat": 65.9765118,
+    "lon": 12.2760635,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1147338206"
+  },
+  {
+    "id": "osm-way-839591337",
+    "name": "Hjeltefjorden Arena Symjehall",
+    "lat": 60.517347,
+    "lon": 4.9082017,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.oyanesvomming.no/offentlig-bading/"
+  },
+  {
+    "id": "osm-node-8686080217",
+    "name": "Hokksund Svømmehall",
+    "lat": 59.7672272,
+    "lon": 9.9266333,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://ovre-eiker.kommune.no/tjenester/kultur-og-fritid/idrett-og-aktivitet/svommehaller/"
+  },
+  {
+    "id": "osm-way-27281919",
+    "name": "Holmen svømmehall",
+    "lat": 59.853861,
+    "lon": 10.492703,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/27281919"
+  },
+  {
+    "id": "osm-way-1475083958",
+    "name": "Holmlia bad",
+    "lat": 59.8342434,
+    "lon": 10.7913968,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.oslo.kommune.no/natur-kultur-og-fritid/svommehaller-i-oslo/holmlia-bad/"
+  },
+  {
+    "id": "osm-node-6255727450",
+    "name": "Hovden Fjellbad",
+    "lat": 59.5634354,
+    "lon": 7.3534654,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/6255727450"
+  },
+  {
+    "id": "osm-node-11717010241",
+    "name": "Hundsund bad",
+    "lat": 59.8896774,
+    "lon": 10.6202972,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/11717010241"
+  },
+  {
+    "id": "osm-node-5825922091",
+    "name": "Isbjørnhallen Basseng",
+    "lat": 70.6713675,
+    "lon": 23.666244,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/5825922091"
+  },
+  {
+    "id": "osm-node-5252291423",
+    "name": "Karasjok svømmehall",
+    "lat": 69.4697694,
+    "lon": 25.5194173,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/5252291423"
+  },
+  {
+    "id": "osm-way-33104430",
+    "name": "Klepp svømmehall",
+    "lat": 58.7759904,
+    "lon": 5.641509,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/33104430"
+  },
+  {
+    "id": "osm-way-546975604",
+    "name": "Kongsbadet",
+    "lat": 60.1915085,
+    "lon": 12.003129,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.kongsvinger.kommune.no/kongsbadet/"
+  },
+  {
+    "id": "osm-node-443729214",
+    "name": "Kongsvinger svømmmeanlegg",
+    "lat": 60.1913958,
+    "lon": 12.0032378,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/443729214"
+  },
+  {
+    "id": "osm-way-430077822",
+    "name": "Kulpan",
+    "lat": 63.0068818,
+    "lon": 9.1498777,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/430077822"
+  },
+  {
+    "id": "osm-node-8040645840",
+    "name": "Kulturbadet Sandnessjøen",
+    "lat": 66.0235081,
+    "lon": 12.6394993,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.kulturbadet.no/basseng/"
+  },
+  {
+    "id": "osm-node-6720666348",
+    "name": "Kvinabadet",
+    "lat": 58.3152824,
+    "lon": 6.9593453,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://kvinabadet.no/"
+  },
+  {
+    "id": "osm-way-297818930",
+    "name": "Kvæfjordhallen",
+    "lat": 68.7729062,
+    "lon": 16.178974,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/297818930"
+  },
+  {
+    "id": "osm-way-443065790",
+    "name": "Lardal svømmehall",
+    "lat": 59.4018272,
+    "lon": 9.9627856,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/443065790"
+  },
+  {
+    "id": "osm-node-11717010240",
+    "name": "Libadet",
+    "lat": 60.0076185,
+    "lon": 10.9257707,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/11717010240"
+  },
+  {
+    "id": "osm-way-1354249634",
+    "name": "Lofotbadet (Folkebadet)",
+    "lat": 68.1456731,
+    "lon": 13.6206403,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1354249634"
+  },
+  {
+    "id": "osm-way-123971000",
+    "name": "Lofoten Arena",
+    "lat": 68.145957,
+    "lon": 13.6204439,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/123971000"
+  },
+  {
+    "id": "osm-way-678847686",
+    "name": "Lundbadet",
+    "lat": 58.4501444,
+    "lon": 6.5514383,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/678847686"
+  },
+  {
+    "id": "osm-way-510228862",
+    "name": "Lustrabadet",
+    "lat": 61.403909,
+    "lon": 7.2936656,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.lustrabadet.no/"
+  },
+  {
+    "id": "osm-node-6255727449",
+    "name": "Lyngmyr svømmehall",
+    "lat": 58.6286763,
+    "lon": 8.9353033,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/6255727449"
+  },
+  {
+    "id": "osm-way-1118008577",
+    "name": "Manglerud bad og aktivitetshus",
+    "lat": 59.8950214,
+    "lon": 10.8213604,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1118008577"
+  },
+  {
+    "id": "osm-node-13017888161",
+    "name": "Melkarn Svømmehall",
+    "lat": 70.6325233,
+    "lon": 29.7061618,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/13017888161"
+  },
+  {
+    "id": "osm-way-697425659",
+    "name": "Melvold Svømmehall",
+    "lat": 60.0261485,
+    "lon": 11.1044545,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/697425659"
+  },
+  {
+    "id": "osm-way-743685671",
+    "name": "Mjøsbadet",
+    "lat": 60.877246,
+    "lon": 10.9308499,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/743685671"
+  },
+  {
+    "id": "osm-node-10933883685",
+    "name": "Moa svømmehall",
+    "lat": 62.4675767,
+    "lon": 6.3501781,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://moasvommehall.no/"
+  },
+  {
+    "id": "osm-way-88452659",
+    "name": "Moldebadet",
+    "lat": 62.7337975,
+    "lon": 7.144277,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/88452659"
+  },
+  {
+    "id": "osm-node-6255727459",
+    "name": "Moltemyr skole svømmebasseng",
+    "lat": 58.4762934,
+    "lon": 8.7637486,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/6255727459"
+  },
+  {
+    "id": "osm-node-3247099931",
+    "name": "Møglestu svømmehall",
+    "lat": 58.2612915,
+    "lon": 8.3647832,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/3247099931"
+  },
+  {
+    "id": "osm-node-2386828757",
+    "name": "Mørvedbadet",
+    "lat": 67.287947,
+    "lon": 14.5677929,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/2386828757"
+  },
+  {
+    "id": "osm-node-10059028602",
+    "name": "Namdalseid skole svømmebasseng",
+    "lat": 64.2393763,
+    "lon": 11.2102041,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/10059028602"
+  },
+  {
+    "id": "osm-way-691697886",
+    "name": "Nes svømmehall",
+    "lat": 60.1237555,
+    "lon": 11.4812369,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.nes-ak.kommune.no/virksomheter/nessvommehall/"
+  },
+  {
+    "id": "osm-way-80255582",
+    "name": "Nordtvet bad",
+    "lat": 59.9508529,
+    "lon": 10.8726711,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/80255582"
+  },
+  {
+    "id": "osm-node-3119969498",
+    "name": "Oasen, Namsos svømme - og miljøsenter",
+    "lat": 64.4741332,
+    "lon": 11.5219156,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/3119969498"
+  },
+  {
+    "id": "osm-node-13815017966",
+    "name": "Orklandbadet",
+    "lat": 63.3075311,
+    "lon": 9.8398521,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.orklandbadet.no/"
+  },
+  {
+    "id": "osm-node-10920087747",
+    "name": "Ortun svømmehall",
+    "lat": 60.344903,
+    "lon": 5.2872321,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.bergen.kommune.no/innbyggerhjelpen/kultur-idrett-og-fritid/idrett/idrettsanlegg/apningstider-svommehaller/"
+  },
+  {
+    "id": "osm-node-6238170743",
+    "name": "Osbadet",
+    "lat": 60.1944377,
+    "lon": 5.4514389,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/6238170743"
+  },
+  {
+    "id": "osm-node-1291410914",
+    "name": "Pirbadet",
+    "lat": 63.4407674,
+    "lon": 10.4008443,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.pirbadet.no/"
+  },
+  {
+    "id": "osm-node-11710881960",
+    "name": "Randaberg svømmehall",
+    "lat": 59.001698,
+    "lon": 5.631184,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/11710881960"
+  },
+  {
+    "id": "osm-way-678573519",
+    "name": "Rennesøyhallen svømmebasseng",
+    "lat": 59.10563,
+    "lon": 5.6989315,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/678573519"
+  },
+  {
+    "id": "osm-node-13249468006",
+    "name": "Ringeriksbadet",
+    "lat": 60.1095864,
+    "lon": 10.2291553,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://ringeriksbadet.no/"
+  },
+  {
+    "id": "osm-way-190488572",
+    "name": "Risenga svømmehall",
+    "lat": 59.824596,
+    "lon": 10.441981,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/190488572"
+  },
+  {
+    "id": "osm-node-6255727447",
+    "name": "Risør svømmehall",
+    "lat": 58.7155336,
+    "lon": 9.218724,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/6255727447"
+  },
+  {
+    "id": "osm-node-6255727453",
+    "name": "Risøya folkehøgskole svømmebasseng",
+    "lat": 58.6526988,
+    "lon": 9.1425232,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/6255727453"
+  },
+  {
+    "id": "osm-node-373172550",
+    "name": "Rjukanbadet",
+    "lat": 59.8774161,
+    "lon": 8.6071714,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/373172550"
+  },
+  {
+    "id": "osm-node-2337691542",
+    "name": "Romsås bad",
+    "lat": 59.9630809,
+    "lon": 10.8923679,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/2337691542"
+  },
+  {
+    "id": "osm-way-456455646",
+    "name": "Råholt Bad",
+    "lat": 60.283893,
+    "lon": 11.1690555,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.eidsvoll.kommune.no/raholtbad"
+  },
+  {
+    "id": "osm-node-13514953074",
+    "name": "Salangen Svømmehall",
+    "lat": 68.8742483,
+    "lon": 17.8400498,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/13514953074"
+  },
+  {
+    "id": "osm-node-3125199172",
+    "name": "Sjølyst svømmehall",
+    "lat": 59.238755,
+    "lon": 10.426932,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/3125199172"
+  },
+  {
+    "id": "osm-node-287399750",
+    "name": "Skien fritidspark",
+    "lat": 59.1864635,
+    "lon": 9.5963398,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/287399750"
+  },
+  {
+    "id": "osm-way-245430716",
+    "name": "Skjetten svømmehall",
+    "lat": 59.9608245,
+    "lon": 10.9961715,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/245430716"
+  },
+  {
+    "id": "osm-node-6799115183",
+    "name": "Sogn Bad",
+    "lat": 59.949938,
+    "lon": 10.72684,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.oslo.kommune.no/natur-kultur-og-fritid/svommehaller-i-oslo/sogn-bad/"
+  },
+  {
+    "id": "osm-node-11707838221",
+    "name": "Sogndal symjehall",
+    "lat": 61.2322185,
+    "lon": 7.0832902,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/11707838221"
+  },
+  {
+    "id": "osm-node-6255727456",
+    "name": "Stinta svømmehall",
+    "lat": 58.4616837,
+    "lon": 8.7570537,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/6255727456"
+  },
+  {
+    "id": "osm-node-939949396",
+    "name": "Sunndalsøra svømmehall",
+    "lat": 62.6699431,
+    "lon": 8.5926591,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/939949396"
+  },
+  {
+    "id": "osm-node-2039809520",
+    "name": "Sunnmørsbadet",
+    "lat": 62.3335372,
+    "lon": 5.6421672,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.sunnmorsbadet.no"
+  },
+  {
+    "id": "osm-way-113921645",
+    "name": "Svømmehall (Sten-Tærud skole)",
+    "lat": 59.9957715,
+    "lon": 11.0402374,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/113921645"
+  },
+  {
+    "id": "osm-node-7577377753",
+    "name": "Svømmehallen",
+    "lat": 58.9267227,
+    "lon": 5.8451083,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/7577377753"
+  },
+  {
+    "id": "osm-node-11717300723",
+    "name": "Svømmehallen i Lier",
+    "lat": 59.759769,
+    "lon": 10.237638,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/11717300723"
+  },
+  {
+    "id": "osm-node-2296508158",
+    "name": "Svømmehallen Sokndal",
+    "lat": 58.3440392,
+    "lon": 6.2968147,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/2296508158"
+  },
+  {
+    "id": "osm-node-6255727461",
+    "name": "Sørlandet folkehøgskole svømmehall",
+    "lat": 58.3298456,
+    "lon": 8.2296394,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/6255727461"
+  },
+  {
+    "id": "osm-way-204835584",
+    "name": "Sørlandsbadet",
+    "lat": 58.122473,
+    "lon": 7.0529035,
+    "address": "Agnefestveien 200",
+    "postalCode": "4580",
+    "city": "",
+    "url": "https://sorlandsbadet.no/"
+  },
+  {
+    "id": "osm-node-11710891374",
+    "name": "Tasta svømmehall",
+    "lat": 58.9790677,
+    "lon": 5.7031193,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/11710891374"
+  },
+  {
+    "id": "osm-node-10814325485",
+    "name": "Triton - Avdeling Sagdalen Skole",
+    "lat": 59.9511976,
+    "lon": 11.0132682,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.tritonlillestrom.no/"
+  },
+  {
+    "id": "osm-way-473141040",
+    "name": "Tromsøbadet",
+    "lat": 69.6745545,
+    "lon": 18.9541026,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.tromsobadet.no/"
+  },
+  {
+    "id": "osm-way-70213257",
+    "name": "Trønderhallen",
+    "lat": 63.753718,
+    "lon": 11.308606,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/70213257"
+  },
+  {
+    "id": "osm-node-481356855",
+    "name": "Tysværtunet badeanlegg",
+    "lat": 59.4234748,
+    "lon": 5.446059,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/481356855"
+  },
+  {
+    "id": "osm-way-199812930",
+    "name": "Tønsberg svømmehall",
+    "lat": 59.2640265,
+    "lon": 10.4180285,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.tonsberg.kommune.no/tjenester/kultur-idrett-og-fritid/svommehall/"
+  },
+  {
+    "id": "osm-way-1347930048",
+    "name": "Tøyenbadet",
+    "lat": 59.9194425,
+    "lon": 10.7788968,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.oslo.kommune.no/natur-kultur-og-fritid/svommehaller-i-oslo/toyenbadet/"
+  },
+  {
+    "id": "osm-node-6255727460",
+    "name": "Valle symjehall",
+    "lat": 59.1990952,
+    "lon": 7.53113,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/6255727460"
+  },
+  {
+    "id": "osm-node-6832135182",
+    "name": "Vardø svømmehall",
+    "lat": 70.3701541,
+    "lon": 31.108706,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/6832135182"
+  },
+  {
+    "id": "osm-way-453960662",
+    "name": "Vossabadet",
+    "lat": 60.6260467,
+    "lon": 6.4239007,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://vossabadet.no/"
+  },
+  {
+    "id": "osm-node-6255727445",
+    "name": "Åmli sentralskule svømmebasseng",
+    "lat": 58.7715216,
+    "lon": 8.4975186,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/6255727445"
+  },
+  {
+    "id": "osm-way-1006297196",
+    "name": "Økern bad",
+    "lat": 59.9307356,
+    "lon": 10.804036,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.oslo.kommune.no/natur-kultur-og-fritid/svommehaller-i-oslo/okern-bad/"
+  }
+]

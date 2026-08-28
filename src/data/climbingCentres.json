@@ -1,0 +1,802 @@
+[
+  {
+    "id": "osm-node-10030283677",
+    "name": "Climbing centre",
+    "lat": 59.9582026,
+    "lon": 10.8796718,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/10030283677"
+  },
+  {
+    "id": "osm-node-10132980427",
+    "name": "Buldrehallen",
+    "lat": 62.4704,
+    "lon": 6.345967,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.buldrehallen.no/"
+  },
+  {
+    "id": "osm-node-10151574004",
+    "name": "Buldreterminalen",
+    "lat": 69.669042,
+    "lon": 18.921372,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.buldreterminalen.no/"
+  },
+  {
+    "id": "osm-node-10163771482",
+    "name": "Climbing centre",
+    "lat": 60.4168438,
+    "lon": 8.5019776,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.dagaliopplevelser.no/sommeraktiviteter/"
+  },
+  {
+    "id": "osm-node-10243206321",
+    "name": "Kraft Klatrehall Narvik",
+    "lat": 68.4366123,
+    "lon": 17.4346061,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/10243206321"
+  },
+  {
+    "id": "osm-node-10588900438",
+    "name": "Molde Klatresenter",
+    "lat": 62.7361931,
+    "lon": 7.1817393,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://moldeklatresenter.no"
+  },
+  {
+    "id": "osm-node-10642734365",
+    "name": "68° Nord Buldrehall",
+    "lat": 68.446635,
+    "lon": 17.450332,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://narvikbuldrehall.no"
+  },
+  {
+    "id": "osm-node-10767253585",
+    "name": "Klatreklubben Ålesund",
+    "lat": 62.4700401,
+    "lon": 6.1838977,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.klatreklubben.no/"
+  },
+  {
+    "id": "osm-node-11468883669",
+    "name": "Gneis Lilleaker",
+    "lat": 59.9174817,
+    "lon": 10.6318121,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://gneislilleaker.no/"
+  },
+  {
+    "id": "osm-node-11749920030",
+    "name": "Gneis Buldring Bergen",
+    "lat": 60.3841538,
+    "lon": 5.3114161,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://gneisbuldring.no/"
+  },
+  {
+    "id": "osm-node-12062599155",
+    "name": "Bulder og Brak",
+    "lat": 59.0131333,
+    "lon": 10.0340187,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://stavernklatreklubb.no/bulder-og-brak/"
+  },
+  {
+    "id": "osm-node-12090820257",
+    "name": "Klatreverket Åssiden",
+    "lat": 59.7535049,
+    "lon": 10.1297282,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://klatreverketdrammen.no/"
+  },
+  {
+    "id": "osm-node-12120612177",
+    "name": "Alta Sport Hall",
+    "lat": 69.9730235,
+    "lon": 23.2930511,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://oppialta.no/"
+  },
+  {
+    "id": "osm-node-12409395038",
+    "name": "Geilo Sommerpark",
+    "lat": 60.5225108,
+    "lon": 8.1985743,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.skigeilo.no/sommer/geilo-sommerpark"
+  },
+  {
+    "id": "osm-node-12581640855",
+    "name": "Klatrekontoret",
+    "lat": 60.380081,
+    "lon": 5.3232027,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.klatrekontoret.no/"
+  },
+  {
+    "id": "osm-node-12595193609",
+    "name": "Kristiansund klatresenter",
+    "lat": 63.109463,
+    "lon": 7.7883928,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/12595193609"
+  },
+  {
+    "id": "osm-node-12893054901",
+    "name": "Studio Vertikal Klatresenter",
+    "lat": 60.2932904,
+    "lon": 5.2524645,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.studiovertikal.no/"
+  },
+  {
+    "id": "osm-node-12985735319",
+    "name": "Carls Hall",
+    "lat": 62.5679764,
+    "lon": 7.6899388,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/12985735319"
+  },
+  {
+    "id": "osm-node-13203709701",
+    "name": "Høyt Under Taket Tønsberg",
+    "lat": 59.2799293,
+    "lon": 10.316411,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://hoytundertaket.no/tonsberg/"
+  },
+  {
+    "id": "osm-node-13307891995",
+    "name": "Klatreverket Løkka",
+    "lat": 59.9293595,
+    "lon": 10.7579196,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://klatreverket.no/lokka-klatresenter/"
+  },
+  {
+    "id": "osm-node-13716230001",
+    "name": "Hemsedal Klatresenter",
+    "lat": 60.8625091,
+    "lon": 8.5192647,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/13716230001"
+  },
+  {
+    "id": "osm-node-13996442385",
+    "name": "Klatreverket Strømsø",
+    "lat": 59.7306607,
+    "lon": 10.2234431,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://klatreverketdrammen.no/"
+  },
+  {
+    "id": "osm-node-13996442386",
+    "name": "Klatreverket Løren",
+    "lat": 59.93152,
+    "lon": 10.7926714,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://klatreverket.no/loren-klatresenter/"
+  },
+  {
+    "id": "osm-node-14053843901",
+    "name": "Brak Buldring",
+    "lat": 59.910779,
+    "lon": 10.789211,
+    "address": "Østerdalsgata 7a",
+    "postalCode": "",
+    "city": "",
+    "url": "https://brakbuldring.no/"
+  },
+  {
+    "id": "osm-node-14058247756",
+    "name": "Tromso Klatre Senter",
+    "lat": 69.6744312,
+    "lon": 18.9547792,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/14058247756"
+  },
+  {
+    "id": "osm-node-1465714083",
+    "name": "Klatreverket Torshov",
+    "lat": 59.934862,
+    "lon": 10.759447,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://klatreverket.no/"
+  },
+  {
+    "id": "osm-node-2207456459",
+    "name": "Grip Leangen",
+    "lat": 63.4326574,
+    "lon": 10.4662988,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://gripklatring.no"
+  },
+  {
+    "id": "osm-node-2611971242",
+    "name": "Bergen klatreklubb - Bryggeriet",
+    "lat": 60.3859161,
+    "lon": 5.3501334,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.bergen-klatreklubb.no/"
+  },
+  {
+    "id": "osm-node-4022512507",
+    "name": "Gekko Klatring Sarpsborg",
+    "lat": 59.278265,
+    "lon": 11.092009,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.gekkoklatringsarpsborg.no/"
+  },
+  {
+    "id": "osm-node-4069242216",
+    "name": "Vulkan klatresenter",
+    "lat": 59.9229349,
+    "lon": 10.7521397,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.vulkanklatresenter.no/vulkan/default.asp"
+  },
+  {
+    "id": "osm-node-447884593",
+    "name": "Klatretårnet",
+    "lat": 61.839667,
+    "lon": 8.574704,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/447884593"
+  },
+  {
+    "id": "osm-node-4499176529",
+    "name": "Klatreverket Bryn",
+    "lat": 59.910069,
+    "lon": 10.8112958,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://klatreverket.no/bryn/"
+  },
+  {
+    "id": "osm-node-4788654926",
+    "name": "Climbing centre",
+    "lat": 58.0741187,
+    "lon": 7.823572,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/4788654926"
+  },
+  {
+    "id": "osm-node-4798923966",
+    "name": "Oslo Klatresenter",
+    "lat": 59.8676378,
+    "lon": 10.8415319,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.osloklatresenter.no/"
+  },
+  {
+    "id": "osm-node-5046134868",
+    "name": "Climbing centre",
+    "lat": 58.0426186,
+    "lon": 6.9876038,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/5046134868"
+  },
+  {
+    "id": "osm-node-5584157988",
+    "name": "Climbing centre",
+    "lat": 58.1343323,
+    "lon": 7.0639944,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/5584157988"
+  },
+  {
+    "id": "osm-node-6341354188",
+    "name": "Klatreverket Drammen",
+    "lat": 59.7306049,
+    "lon": 10.2234672,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://klatreverket.no/drammen/"
+  },
+  {
+    "id": "osm-node-6548832330",
+    "name": "Mørkvedhallen klatresenter",
+    "lat": 67.2863232,
+    "lon": 14.5692944,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/6548832330"
+  },
+  {
+    "id": "osm-node-6617661800",
+    "name": "Trollveggen",
+    "lat": 58.2891577,
+    "lon": 6.716646,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/6617661800"
+  },
+  {
+    "id": "osm-node-7003919257",
+    "name": "Tyrili klatresenter",
+    "lat": 61.1186238,
+    "lon": 10.4572839,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://tyriliklatring.no"
+  },
+  {
+    "id": "osm-node-7022866242",
+    "name": "Trondheim Buldresenter",
+    "lat": 63.4414237,
+    "lon": 10.4300632,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/7022866242"
+  },
+  {
+    "id": "osm-node-714264574",
+    "name": "Kraft Narvik",
+    "lat": 68.4364461,
+    "lon": 17.4345279,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://narvik.kraftsportssenter.no/"
+  },
+  {
+    "id": "osm-node-7265666685",
+    "name": "Bergen klatresenter Laksevåg",
+    "lat": 60.391971,
+    "lon": 5.282697,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.bergenklatresenter.no"
+  },
+  {
+    "id": "osm-node-7490649694",
+    "name": "Furuset parkourpark",
+    "lat": 59.9449309,
+    "lon": 10.8963277,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/7490649694"
+  },
+  {
+    "id": "osm-node-7959240209",
+    "name": "Grip Sluppen",
+    "lat": 63.3975963,
+    "lon": 10.3953651,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://gripklatring.no"
+  },
+  {
+    "id": "osm-node-7993278978",
+    "name": "Climbing centre",
+    "lat": 59.921779,
+    "lon": 10.7488549,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/7993278978"
+  },
+  {
+    "id": "osm-node-8092464805",
+    "name": "Climbing centre",
+    "lat": 59.9603892,
+    "lon": 10.8751905,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/8092464805"
+  },
+  {
+    "id": "osm-node-8956376399",
+    "name": "Geilolia Høydepark",
+    "lat": 60.5215316,
+    "lon": 8.2011562,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/8956376399"
+  },
+  {
+    "id": "osm-node-9150717106",
+    "name": "Playground",
+    "lat": 58.8961846,
+    "lon": 5.701787,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://playground.no/"
+  },
+  {
+    "id": "osm-node-9407387075",
+    "name": "Vestveggen",
+    "lat": 60.4700954,
+    "lon": 5.3140112,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/9407387075"
+  },
+  {
+    "id": "osm-node-947391912",
+    "name": "Tastarustå",
+    "lat": 58.9855184,
+    "lon": 5.6926206,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/947391912"
+  },
+  {
+    "id": "osm-node-9645363857",
+    "name": "Klatretårn",
+    "lat": 60.6400445,
+    "lon": 6.5023019,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/9645363857"
+  },
+  {
+    "id": "osm-node-9925520756",
+    "name": "Road Haus",
+    "lat": 61.9228442,
+    "lon": 5.5698756,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/9925520756"
+  },
+  {
+    "id": "osm-node-9982311905",
+    "name": "Climbing centre",
+    "lat": 60.0324561,
+    "lon": 11.0461226,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/9982311905"
+  },
+  {
+    "id": "osm-node-9982428329",
+    "name": "Climbing centre",
+    "lat": 59.6070832,
+    "lon": 10.7567937,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/node/9982428329"
+  },
+  {
+    "id": "osm-way-1149724347",
+    "name": "Høyt Under Taket",
+    "lat": 59.1985593,
+    "lon": 9.6122278,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://hoytundertaket.no/skien/"
+  },
+  {
+    "id": "osm-way-1208098101",
+    "name": "Hammerfest Arena",
+    "lat": 70.6845545,
+    "lon": 23.709308,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://hammerfest.kommune.no/tjenester/kultur-fritid-og-friluftsliv/idrett/idrettshaller/hammerfesthallen/"
+  },
+  {
+    "id": "osm-way-123943017",
+    "name": "Lofothallen",
+    "lat": 68.153797,
+    "lon": 13.636153,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/123943017"
+  },
+  {
+    "id": "osm-way-1248863540",
+    "name": "Over",
+    "lat": 58.2409617,
+    "lon": 8.2983168,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.overagder.no/"
+  },
+  {
+    "id": "osm-way-132957822",
+    "name": "Mandal og Lindesnes klatreklubb",
+    "lat": 58.0258711,
+    "lon": 7.4446748,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/132957822"
+  },
+  {
+    "id": "osm-way-1413843902",
+    "name": "Førde klatresenter",
+    "lat": 61.4495457,
+    "lon": 5.9056319,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1413843902"
+  },
+  {
+    "id": "osm-way-1469070766",
+    "name": "Høyt under taket Moss",
+    "lat": 59.4165251,
+    "lon": 10.6734812,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://hoytundertaket.no/moss/"
+  },
+  {
+    "id": "osm-way-183259536",
+    "name": "Ute-hallen",
+    "lat": 63.445424,
+    "lon": 10.4215922,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/183259536"
+  },
+  {
+    "id": "osm-way-222807519",
+    "name": "Eika sportssenter",
+    "lat": 59.6639165,
+    "lon": 10.7748678,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.sias.no/idrett/"
+  },
+  {
+    "id": "osm-way-32897992",
+    "name": "Vår Energi Arena Sørmarka",
+    "lat": 58.9394025,
+    "lon": 5.7217805,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/32897992"
+  },
+  {
+    "id": "osm-way-506267721",
+    "name": "TrollAktiv",
+    "lat": 58.6355383,
+    "lon": 7.8074679,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://trollaktiv.no/"
+  },
+  {
+    "id": "osm-way-609155617",
+    "name": "Climbing centre",
+    "lat": 58.335109,
+    "lon": 8.5727614,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/609155617"
+  },
+  {
+    "id": "osm-way-670670921",
+    "name": "Salangen idrettshall",
+    "lat": 68.8738122,
+    "lon": 17.8417807,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/670670921"
+  },
+  {
+    "id": "osm-way-70213257",
+    "name": "Trønderhallen",
+    "lat": 63.753718,
+    "lon": 11.308606,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/70213257"
+  },
+  {
+    "id": "osm-way-72152555",
+    "name": "Kong Øysteins hall",
+    "lat": 68.208109,
+    "lon": 14.4658995,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/72152555"
+  },
+  {
+    "id": "osm-way-722704114",
+    "name": "Climbing centre",
+    "lat": 58.3356149,
+    "lon": 8.5728438,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.klatringsor.no/"
+  },
+  {
+    "id": "osm-way-725424990",
+    "name": "Solåsen",
+    "lat": 59.0564824,
+    "lon": 10.2183811,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/725424990"
+  },
+  {
+    "id": "osm-way-727855861",
+    "name": "Climbing centre",
+    "lat": 68.5864141,
+    "lon": 16.5713593,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/727855861"
+  },
+  {
+    "id": "osm-way-765411789",
+    "name": "Øksnevadhallen",
+    "lat": 58.8005105,
+    "lon": 5.6723655,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.oksnevad.vgs.no/"
+  },
+  {
+    "id": "osm-way-817516216",
+    "name": "Sørlandet Klatresenter",
+    "lat": 58.1376305,
+    "lon": 7.9998905,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/817516216"
+  },
+  {
+    "id": "osm-way-86124791",
+    "name": "Fantofthallen",
+    "lat": 60.3465884,
+    "lon": 5.3535632,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "http://www.sib.no/en/training/-1/trainingcenters-of-sib/fantofthallen"
+  },
+  {
+    "id": "osm-way-87551621",
+    "name": "Tromsø tennishall",
+    "lat": 69.6771922,
+    "lon": 18.961253,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/87551621"
+  },
+  {
+    "id": "osm-way-883284480",
+    "name": "Mikkelparken",
+    "lat": 60.3780028,
+    "lon": 6.7270611,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/883284480"
+  },
+  {
+    "id": "osm-way-936943716",
+    "name": "Climbing centre",
+    "lat": 60.151442,
+    "lon": 11.1913924,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/936943716"
+  },
+  {
+    "id": "osm-way-951761653",
+    "name": "Lyngenhallen",
+    "lat": 69.575988,
+    "lon": 20.19486,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.lyngen.kommune.no/lyngenhallen.6087921-460076.html"
+  }
+]

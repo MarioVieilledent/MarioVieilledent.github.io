@@ -1,0 +1,5222 @@
+[
+  {
+    "id": "osm-way-1060885884",
+    "name": "Hyllibakken",
+    "lat": 59.6252901,
+    "lon": 11.0759935,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1060885884"
+  },
+  {
+    "id": "osm-way-1093553623",
+    "name": "Brygghaugen",
+    "lat": 69.2440246,
+    "lon": 17.6047406,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1093553623"
+  },
+  {
+    "id": "osm-way-1112677326",
+    "name": "Ski jump",
+    "lat": 62.7658976,
+    "lon": 8.5243593,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1112677326"
+  },
+  {
+    "id": "osm-way-1121160507",
+    "name": "Gullfjellsbakken",
+    "lat": 60.4037895,
+    "lon": 5.6406695,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1121160507"
+  },
+  {
+    "id": "osm-way-1125786244",
+    "name": "Ski jump",
+    "lat": 58.7533555,
+    "lon": 8.8609034,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1125786244"
+  },
+  {
+    "id": "osm-way-1133368190",
+    "name": "Skolebakken K20",
+    "lat": 59.5405694,
+    "lon": 10.0707574,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1133368190"
+  },
+  {
+    "id": "osm-way-1133368191",
+    "name": "Skolebakken K12",
+    "lat": 59.5403879,
+    "lon": 10.0709579,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1133368191"
+  },
+  {
+    "id": "osm-way-1183973815",
+    "name": "Grønnåsen K30",
+    "lat": 69.6861667,
+    "lon": 18.9645245,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1183973815"
+  },
+  {
+    "id": "osm-way-1183973816",
+    "name": "Grønnåsen K74",
+    "lat": 69.6866858,
+    "lon": 18.96458,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1183973816"
+  },
+  {
+    "id": "osm-way-1191540963",
+    "name": "Jordalen hoppanlegg",
+    "lat": 61.5607038,
+    "lon": 9.7829873,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1191540963"
+  },
+  {
+    "id": "osm-way-1191540964",
+    "name": "Jordalen hoppanlegg",
+    "lat": 61.5607689,
+    "lon": 9.7833131,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1191540964"
+  },
+  {
+    "id": "osm-way-1191540965",
+    "name": "Jordalen hoppanlegg",
+    "lat": 61.560714,
+    "lon": 9.7844209,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1191540965"
+  },
+  {
+    "id": "osm-way-1191540966",
+    "name": "Jordalen hoppanlegg",
+    "lat": 61.5607405,
+    "lon": 9.7849868,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1191540966"
+  },
+  {
+    "id": "osm-way-1200593950",
+    "name": "Ski jump",
+    "lat": 60.6923988,
+    "lon": 11.8035677,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1200593950"
+  },
+  {
+    "id": "osm-way-1200593951",
+    "name": "Ski jump",
+    "lat": 60.6923206,
+    "lon": 11.8035637,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1200593951"
+  },
+  {
+    "id": "osm-way-1214257534",
+    "name": "Granåsen K120",
+    "lat": 63.3765617,
+    "lon": 10.3072283,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1214257534"
+  },
+  {
+    "id": "osm-way-1214257535",
+    "name": "Granåsen K90",
+    "lat": 63.3768391,
+    "lon": 10.3071351,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1214257535"
+  },
+  {
+    "id": "osm-way-1214257685",
+    "name": "Ski jump",
+    "lat": 63.3770074,
+    "lon": 10.3080612,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1214257685"
+  },
+  {
+    "id": "osm-way-121655340",
+    "name": "Grønnåsen K45",
+    "lat": 69.6864344,
+    "lon": 18.9645968,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/121655340"
+  },
+  {
+    "id": "osm-way-122763392",
+    "name": "Ski jump",
+    "lat": 61.1256778,
+    "lon": 10.4884273,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/122763392"
+  },
+  {
+    "id": "osm-way-1270734956",
+    "name": "Ski jump",
+    "lat": 61.5300344,
+    "lon": 10.149778,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1270734956"
+  },
+  {
+    "id": "osm-way-1271966743",
+    "name": "Ski jump",
+    "lat": 68.9980092,
+    "lon": 23.0276549,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1271966743"
+  },
+  {
+    "id": "osm-way-1271966746",
+    "name": "Ski jump",
+    "lat": 69.6862506,
+    "lon": 18.9654856,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1271966746"
+  },
+  {
+    "id": "osm-way-1271966747",
+    "name": "Ski jump",
+    "lat": 69.6858395,
+    "lon": 18.9633975,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1271966747"
+  },
+  {
+    "id": "osm-way-1299791607",
+    "name": "Ski jump",
+    "lat": 60.6856883,
+    "lon": 11.3473568,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1299791607"
+  },
+  {
+    "id": "osm-way-1299837670",
+    "name": "Lønnbergbakken K-15",
+    "lat": 60.7173218,
+    "lon": 10.5892552,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1299837670"
+  },
+  {
+    "id": "osm-way-1299839109",
+    "name": "Ski jump",
+    "lat": 59.9656522,
+    "lon": 10.7413004,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1299839109"
+  },
+  {
+    "id": "osm-way-131609958",
+    "name": "Kroer hoppbakke",
+    "lat": 59.6393556,
+    "lon": 10.8452406,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/131609958"
+  },
+  {
+    "id": "osm-way-1373339713",
+    "name": "Kvambakken",
+    "lat": 63.6142194,
+    "lon": 10.8182636,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1373339713"
+  },
+  {
+    "id": "osm-way-1425996557",
+    "name": "Ski jump",
+    "lat": 60.6495752,
+    "lon": 8.0196608,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1425996557"
+  },
+  {
+    "id": "osm-way-146941126",
+    "name": "Ringkollen K27",
+    "lat": 60.1707113,
+    "lon": 10.3834342,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/146941126"
+  },
+  {
+    "id": "osm-way-146941128",
+    "name": "Ringkollen K40",
+    "lat": 60.1705881,
+    "lon": 10.3835566,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/146941128"
+  },
+  {
+    "id": "osm-way-1471881955",
+    "name": "Hoppbakken i Folkeparken K20",
+    "lat": 63.1233566,
+    "lon": 7.7413394,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1471881955"
+  },
+  {
+    "id": "osm-way-148388435",
+    "name": "Trollbakken K23",
+    "lat": 59.9658211,
+    "lon": 10.7415301,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/148388435"
+  },
+  {
+    "id": "osm-way-1501036654",
+    "name": "Kleiva K18",
+    "lat": 61.3944549,
+    "lon": 5.8172144,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1501036654"
+  },
+  {
+    "id": "osm-way-1501036655",
+    "name": "Kleiva K30",
+    "lat": 61.3944023,
+    "lon": 5.8173519,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1501036655"
+  },
+  {
+    "id": "osm-way-1501036656",
+    "name": "Kleiva K52",
+    "lat": 61.3951702,
+    "lon": 5.8166237,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1501036656"
+  },
+  {
+    "id": "osm-way-1510397676",
+    "name": "Ski jump",
+    "lat": 63.3786412,
+    "lon": 10.304954,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1510397676"
+  },
+  {
+    "id": "osm-way-1510397677",
+    "name": "Ski jump",
+    "lat": 63.3777628,
+    "lon": 10.3049997,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1510397677"
+  },
+  {
+    "id": "osm-way-1510397678",
+    "name": "Ski jump",
+    "lat": 63.3778428,
+    "lon": 10.3055319,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1510397678"
+  },
+  {
+    "id": "osm-way-1510397679",
+    "name": "Ski jump",
+    "lat": 63.3777169,
+    "lon": 10.3096269,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1510397679"
+  },
+  {
+    "id": "osm-way-154289105",
+    "name": "Knyken hoppbakke K20",
+    "lat": 63.2621515,
+    "lon": 9.7432506,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/154289105"
+  },
+  {
+    "id": "osm-way-154289106",
+    "name": "Knyken hoppbakke K68",
+    "lat": 63.2627754,
+    "lon": 9.7423129,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/154289106"
+  },
+  {
+    "id": "osm-way-154289109",
+    "name": "Knyken hoppbakke K30",
+    "lat": 63.2623532,
+    "lon": 9.7427234,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/154289109"
+  },
+  {
+    "id": "osm-way-154289110",
+    "name": "Knyken hoppbakke K50",
+    "lat": 63.2625794,
+    "lon": 9.7425376,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/154289110"
+  },
+  {
+    "id": "osm-way-1546917166",
+    "name": "Ski jump",
+    "lat": 63.123446,
+    "lon": 7.7415586,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/1546917166"
+  },
+  {
+    "id": "osm-way-167864065",
+    "name": "Furukollen hoppbakke",
+    "lat": 59.9445438,
+    "lon": 11.0311471,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/167864065"
+  },
+  {
+    "id": "osm-way-167864066",
+    "name": "Furukollen hoppbakke",
+    "lat": 59.9446825,
+    "lon": 11.0315429,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/167864066"
+  },
+  {
+    "id": "osm-way-167869405",
+    "name": "Ski jump",
+    "lat": 59.9449256,
+    "lon": 11.0314472,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/167869405"
+  },
+  {
+    "id": "osm-way-167869409",
+    "name": "Ski jump",
+    "lat": 59.9448046,
+    "lon": 11.0311188,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/167869409"
+  },
+  {
+    "id": "osm-way-169547291",
+    "name": "Schrøderbakken",
+    "lat": 59.9861339,
+    "lon": 10.6746481,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/169547291"
+  },
+  {
+    "id": "osm-way-169906571",
+    "name": "Ski jump",
+    "lat": 59.964523,
+    "lon": 10.6791708,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/169906571"
+  },
+  {
+    "id": "osm-way-173215868",
+    "name": "Ski jump",
+    "lat": 59.9641568,
+    "lon": 10.6785135,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/173215868"
+  },
+  {
+    "id": "osm-way-173215869",
+    "name": "Ski jump",
+    "lat": 59.964613,
+    "lon": 10.6793097,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/173215869"
+  },
+  {
+    "id": "osm-way-181923994",
+    "name": "Melsombakken",
+    "lat": 59.224992,
+    "lon": 10.3286805,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/181923994"
+  },
+  {
+    "id": "osm-way-193003194",
+    "name": "Ski jump",
+    "lat": 61.1254155,
+    "lon": 10.4882964,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/193003194"
+  },
+  {
+    "id": "osm-way-210550065",
+    "name": "Trollbakken K15",
+    "lat": 59.9656777,
+    "lon": 10.7413976,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/210550065"
+  },
+  {
+    "id": "osm-way-210550070",
+    "name": "Trollbakken K10",
+    "lat": 59.9655638,
+    "lon": 10.7413196,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/210550070"
+  },
+  {
+    "id": "osm-way-250569192",
+    "name": "Ski jump",
+    "lat": 59.9390675,
+    "lon": 10.0038213,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/250569192"
+  },
+  {
+    "id": "osm-way-250569193",
+    "name": "Ski jump",
+    "lat": 59.9388622,
+    "lon": 10.0043415,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/250569193"
+  },
+  {
+    "id": "osm-way-250569194",
+    "name": "Ski jump",
+    "lat": 59.9391808,
+    "lon": 10.0036399,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/250569194"
+  },
+  {
+    "id": "osm-way-250569195",
+    "name": "Ski jump",
+    "lat": 59.9371715,
+    "lon": 10.003533,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/250569195"
+  },
+  {
+    "id": "osm-way-250569196",
+    "name": "Ski jump",
+    "lat": 59.9383001,
+    "lon": 10.0045081,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/250569196"
+  },
+  {
+    "id": "osm-way-294895551",
+    "name": "Osedalsbakken K-30",
+    "lat": 58.5052074,
+    "lon": 8.6268278,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/294895551"
+  },
+  {
+    "id": "osm-way-29571978",
+    "name": "Hyttebakken",
+    "lat": 59.4636259,
+    "lon": 10.7255309,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/29571978"
+  },
+  {
+    "id": "osm-way-315397018",
+    "name": "Ski jump",
+    "lat": 60.6543987,
+    "lon": 6.4154781,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/315397018"
+  },
+  {
+    "id": "osm-way-315397020",
+    "name": "Bavallsbakken K95",
+    "lat": 60.6541607,
+    "lon": 6.4146177,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/315397020"
+  },
+  {
+    "id": "osm-way-319848455",
+    "name": "Skøyenhagan K23",
+    "lat": 60.8174327,
+    "lon": 11.3332721,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/319848455"
+  },
+  {
+    "id": "osm-way-329579526",
+    "name": "Gjerpenkollen hoppbakke",
+    "lat": 59.7078051,
+    "lon": 10.2244784,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/329579526"
+  },
+  {
+    "id": "osm-way-329620127",
+    "name": "Ringkollen",
+    "lat": 60.1710898,
+    "lon": 10.3834514,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/329620127"
+  },
+  {
+    "id": "osm-way-329620128",
+    "name": "Ringkollen K10",
+    "lat": 60.1710375,
+    "lon": 10.3834238,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/329620128"
+  },
+  {
+    "id": "osm-way-329620129",
+    "name": "Ringkollen K17",
+    "lat": 60.1709862,
+    "lon": 10.3834496,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/329620129"
+  },
+  {
+    "id": "osm-way-338529858",
+    "name": "Kirkebybakken",
+    "lat": 59.9664381,
+    "lon": 10.4807412,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/338529858"
+  },
+  {
+    "id": "osm-way-340403509",
+    "name": "Undheim hoppbakke K8",
+    "lat": 58.6866741,
+    "lon": 5.7702058,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/340403509"
+  },
+  {
+    "id": "osm-way-418136747",
+    "name": "Ski jump",
+    "lat": 59.6811174,
+    "lon": 9.6229608,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/418136747"
+  },
+  {
+    "id": "osm-way-418136748",
+    "name": "Ski jump",
+    "lat": 59.6810466,
+    "lon": 9.6223746,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/418136748"
+  },
+  {
+    "id": "osm-way-418136749",
+    "name": "Ski jump",
+    "lat": 59.6811121,
+    "lon": 9.6235561,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/418136749"
+  },
+  {
+    "id": "osm-way-418136750",
+    "name": "Ski jump",
+    "lat": 59.680969,
+    "lon": 9.6236845,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/418136750"
+  },
+  {
+    "id": "osm-way-418136751",
+    "name": "Ski jump",
+    "lat": 59.6810357,
+    "lon": 9.6239079,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/418136751"
+  },
+  {
+    "id": "osm-way-418136752",
+    "name": "Ski jump",
+    "lat": 59.6808528,
+    "lon": 9.6233898,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/418136752"
+  },
+  {
+    "id": "osm-way-418136753",
+    "name": "Ski jump",
+    "lat": 59.6810559,
+    "lon": 9.6236597,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/418136753"
+  },
+  {
+    "id": "osm-way-420575977",
+    "name": "Baker'n K15",
+    "lat": 59.785973,
+    "lon": 10.4392554,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/420575977"
+  },
+  {
+    "id": "osm-way-422839659",
+    "name": "Ski jump",
+    "lat": 59.2147276,
+    "lon": 9.5446035,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/422839659"
+  },
+  {
+    "id": "osm-way-422839660",
+    "name": "Ski jump",
+    "lat": 59.2147832,
+    "lon": 9.5450722,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/422839660"
+  },
+  {
+    "id": "osm-way-422839662",
+    "name": "Ski jump",
+    "lat": 59.2147472,
+    "lon": 9.5453809,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/422839662"
+  },
+  {
+    "id": "osm-way-422839664",
+    "name": "Ski jump",
+    "lat": 59.2148122,
+    "lon": 9.5457475,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/422839664"
+  },
+  {
+    "id": "osm-way-455716099",
+    "name": "Ski jump",
+    "lat": 60.9373924,
+    "lon": 10.0446805,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/455716099"
+  },
+  {
+    "id": "osm-way-457384961",
+    "name": "Ski jump",
+    "lat": 60.2621982,
+    "lon": 11.3780207,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/457384961"
+  },
+  {
+    "id": "osm-way-457759208",
+    "name": "Lysgårdsbakken HS100",
+    "lat": 61.125465,
+    "lon": 10.4884577,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/457759208"
+  },
+  {
+    "id": "osm-way-457759211",
+    "name": "Lysgårdsbakken HS138",
+    "lat": 61.1257499,
+    "lon": 10.4886112,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/457759211"
+  },
+  {
+    "id": "osm-way-460196016",
+    "name": "Ski jump",
+    "lat": 60.1837916,
+    "lon": 10.265668,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/460196016"
+  },
+  {
+    "id": "osm-way-474193180",
+    "name": "Selåsvatn hoppbakke",
+    "lat": 58.6857508,
+    "lon": 8.6691816,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/474193180"
+  },
+  {
+    "id": "osm-way-511909717",
+    "name": "Huka hoppbakke K90",
+    "lat": 59.5319292,
+    "lon": 8.1517026,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/511909717"
+  },
+  {
+    "id": "osm-way-512317029",
+    "name": "Brattåsen K15",
+    "lat": 58.4499103,
+    "lon": 8.7154734,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/512317029"
+  },
+  {
+    "id": "osm-way-512317030",
+    "name": "Brattåsen K40",
+    "lat": 58.4500472,
+    "lon": 8.7155699,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/512317030"
+  },
+  {
+    "id": "osm-way-527000473",
+    "name": "Sandrip hoppbakke K40",
+    "lat": 58.3150837,
+    "lon": 7.8326994,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/527000473"
+  },
+  {
+    "id": "osm-way-527000474",
+    "name": "Sandrip hoppbakke K60",
+    "lat": 58.3150823,
+    "lon": 7.8331836,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/527000474"
+  },
+  {
+    "id": "osm-way-561990081",
+    "name": "Molandsbakken",
+    "lat": 58.7556744,
+    "lon": 8.8534878,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/561990081"
+  },
+  {
+    "id": "osm-way-561990084",
+    "name": "Molandsbakken",
+    "lat": 58.7559168,
+    "lon": 8.8527073,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/561990084"
+  },
+  {
+    "id": "osm-way-595213125",
+    "name": "Ydalir hoppbakke K38",
+    "lat": 60.8887006,
+    "lon": 11.5731367,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/595213125"
+  },
+  {
+    "id": "osm-way-595213127",
+    "name": "Ski jump",
+    "lat": 60.8887107,
+    "lon": 11.5727553,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/595213127"
+  },
+  {
+    "id": "osm-way-596646500",
+    "name": "Haslebakken K7",
+    "lat": 59.2147506,
+    "lon": 9.5456815,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/596646500"
+  },
+  {
+    "id": "osm-way-596646501",
+    "name": "Haslebakken K19",
+    "lat": 59.2146588,
+    "lon": 9.5452731,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/596646501"
+  },
+  {
+    "id": "osm-way-596646502",
+    "name": "Haslebakken K38",
+    "lat": 59.2146261,
+    "lon": 9.5449086,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/596646502"
+  },
+  {
+    "id": "osm-way-596646503",
+    "name": "Haslebakken K67",
+    "lat": 59.2144128,
+    "lon": 9.5443444,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/596646503"
+  },
+  {
+    "id": "osm-way-596646505",
+    "name": "Rugtvedtkollen K16",
+    "lat": 59.1447178,
+    "lon": 9.6054571,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/596646505"
+  },
+  {
+    "id": "osm-way-596646506",
+    "name": "Rugtvedtkollen K30",
+    "lat": 59.1449258,
+    "lon": 9.6048664,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/596646506"
+  },
+  {
+    "id": "osm-way-596646507",
+    "name": "Rugtvedtkollen K40",
+    "lat": 59.1456835,
+    "lon": 9.6040517,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/596646507"
+  },
+  {
+    "id": "osm-way-596646509",
+    "name": "Tjernlibakken",
+    "lat": 59.1748171,
+    "lon": 9.7237547,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/596646509"
+  },
+  {
+    "id": "osm-way-642668241",
+    "name": "Engsvea hoppbakke K-17.5",
+    "lat": 61.0935666,
+    "lon": 10.4852817,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/642668241"
+  },
+  {
+    "id": "osm-way-642668244",
+    "name": "Engsvea hoppbakke K-40",
+    "lat": 61.0932124,
+    "lon": 10.4856348,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/642668244"
+  },
+  {
+    "id": "osm-way-642986313",
+    "name": "Bjørnstadbakken",
+    "lat": 60.6532614,
+    "lon": 11.351115,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/642986313"
+  },
+  {
+    "id": "osm-way-64845761",
+    "name": "Linderudkollen K39",
+    "lat": 59.9713541,
+    "lon": 10.8161451,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/64845761"
+  },
+  {
+    "id": "osm-way-65475112",
+    "name": "Linderudkollen",
+    "lat": 59.9716274,
+    "lon": 10.8171589,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/65475112"
+  },
+  {
+    "id": "osm-way-65475115",
+    "name": "Linderudkollen K70",
+    "lat": 59.9709618,
+    "lon": 10.816454,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/65475115"
+  },
+  {
+    "id": "osm-way-65475116",
+    "name": "Linderudkollen K54",
+    "lat": 59.9711681,
+    "lon": 10.8163198,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/65475116"
+  },
+  {
+    "id": "osm-way-676837916",
+    "name": "Ski jump",
+    "lat": 58.4277555,
+    "lon": 8.6907903,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/676837916"
+  },
+  {
+    "id": "osm-way-676837917",
+    "name": "Rannekleiv hoppbakke K95",
+    "lat": 58.4277508,
+    "lon": 8.6904722,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/676837917"
+  },
+  {
+    "id": "osm-way-683540714",
+    "name": "Breimyrbakken K4.5",
+    "lat": 59.5042829,
+    "lon": 10.2299083,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/683540714"
+  },
+  {
+    "id": "osm-way-683540719",
+    "name": "Breimyrbakken K10",
+    "lat": 59.5042443,
+    "lon": 10.2299049,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/683540719"
+  },
+  {
+    "id": "osm-way-683540720",
+    "name": "Breimyrbakken K20",
+    "lat": 59.5044469,
+    "lon": 10.2296314,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/683540720"
+  },
+  {
+    "id": "osm-way-683540721",
+    "name": "Breimyrbakken K40",
+    "lat": 59.5045011,
+    "lon": 10.2292186,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/683540721"
+  },
+  {
+    "id": "osm-way-683540722",
+    "name": "Breimybakken K61",
+    "lat": 59.5046433,
+    "lon": 10.2287905,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/683540722"
+  },
+  {
+    "id": "osm-way-683540724",
+    "name": "Ski jump",
+    "lat": 59.5045674,
+    "lon": 10.229871,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/683540724"
+  },
+  {
+    "id": "osm-way-689720777",
+    "name": "Grønnåsen K12",
+    "lat": 69.6859761,
+    "lon": 18.9632759,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/689720777"
+  },
+  {
+    "id": "osm-way-689720779",
+    "name": "Grønnåsen K6",
+    "lat": 69.6859685,
+    "lon": 18.9634376,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/689720779"
+  },
+  {
+    "id": "osm-way-694955271",
+    "name": "K40",
+    "lat": 59.9644224,
+    "lon": 10.678268,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/694955271"
+  },
+  {
+    "id": "osm-way-694955272",
+    "name": "Ski jump",
+    "lat": 59.9643818,
+    "lon": 10.6788194,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/694955272"
+  },
+  {
+    "id": "osm-way-760899994",
+    "name": "Stormoegga hoppbakke K-74",
+    "lat": 62.1322227,
+    "lon": 10.1832197,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/760899994"
+  },
+  {
+    "id": "osm-way-760899995",
+    "name": "Stormoegga hoppbakke K-47",
+    "lat": 62.1320654,
+    "lon": 10.1829482,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/760899995"
+  },
+  {
+    "id": "osm-way-760899996",
+    "name": "Stormoegga hoppbakke K-31",
+    "lat": 62.1320475,
+    "lon": 10.1825867,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/760899996"
+  },
+  {
+    "id": "osm-way-771738910",
+    "name": "Nonsåsen hoppbakke",
+    "lat": 62.5317611,
+    "lon": 11.065287,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/771738910"
+  },
+  {
+    "id": "osm-way-771738911",
+    "name": "Borgbakken K6",
+    "lat": 61.3157077,
+    "lon": 12.2691831,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/771738911"
+  },
+  {
+    "id": "osm-way-771738912",
+    "name": "Borgbakken K13",
+    "lat": 61.3157231,
+    "lon": 12.2693655,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/771738912"
+  },
+  {
+    "id": "osm-way-771738913",
+    "name": "Borgbakken K17",
+    "lat": 61.3157224,
+    "lon": 12.269572,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/771738913"
+  },
+  {
+    "id": "osm-way-771738914",
+    "name": "Borgbakken K27",
+    "lat": 61.3156883,
+    "lon": 12.269957,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/771738914"
+  },
+  {
+    "id": "osm-way-771738915",
+    "name": "Borgbakken K37",
+    "lat": 61.3157669,
+    "lon": 12.2700119,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/771738915"
+  },
+  {
+    "id": "osm-way-771738916",
+    "name": "Åsenkollen K30",
+    "lat": 62.531677,
+    "lon": 11.1327634,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/771738916"
+  },
+  {
+    "id": "osm-way-771738917",
+    "name": "Åsenkollen K46",
+    "lat": 62.5316268,
+    "lon": 11.132719,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/771738917"
+  },
+  {
+    "id": "osm-way-771738918",
+    "name": "Lerberget K70",
+    "lat": 61.3355469,
+    "lon": 12.2153887,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/771738918"
+  },
+  {
+    "id": "osm-way-771738919",
+    "name": "Lierberget hoppbakke K 40",
+    "lat": 60.8747496,
+    "lon": 11.1188279,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/771738919"
+  },
+  {
+    "id": "osm-way-771738920",
+    "name": "Lierberget hoppbakke K 60",
+    "lat": 60.8749651,
+    "lon": 11.1194757,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/771738920"
+  },
+  {
+    "id": "osm-way-771738921",
+    "name": "Lierberget hoppbakke K 25",
+    "lat": 60.8753854,
+    "lon": 11.120582,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/771738921"
+  },
+  {
+    "id": "osm-way-771738922",
+    "name": "Lierberget hoppbakke K 15",
+    "lat": 60.8752487,
+    "lon": 11.1208711,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/771738922"
+  },
+  {
+    "id": "osm-way-771738923",
+    "name": "Trysil-knut hoppbakke K-30",
+    "lat": 61.1012432,
+    "lon": 11.9890183,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/771738923"
+  },
+  {
+    "id": "osm-way-771738924",
+    "name": "Ivaregga hoppbakke K-20",
+    "lat": 62.4098045,
+    "lon": 10.98722,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/771738924"
+  },
+  {
+    "id": "osm-way-771738925",
+    "name": "Ivaregga hoppbakke K-10",
+    "lat": 62.4097232,
+    "lon": 10.9874345,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/771738925"
+  },
+  {
+    "id": "osm-way-771738926",
+    "name": "Ivaregga hoppbakke K-40",
+    "lat": 62.4092405,
+    "lon": 10.9862879,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/771738926"
+  },
+  {
+    "id": "osm-way-771738927",
+    "name": "Ivaregga hoppbakke K-60",
+    "lat": 62.4090642,
+    "lon": 10.9861256,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/771738927"
+  },
+  {
+    "id": "osm-way-771738928",
+    "name": "Renabakken K-90",
+    "lat": 61.1383643,
+    "lon": 11.3977494,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/771738928"
+  },
+  {
+    "id": "osm-way-771738929",
+    "name": "Renabakken K-120",
+    "lat": 61.1381481,
+    "lon": 11.3979198,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/771738929"
+  },
+  {
+    "id": "osm-way-771738930",
+    "name": "Gjerdrumsbakken K65",
+    "lat": 60.6929925,
+    "lon": 11.8015105,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/771738930"
+  },
+  {
+    "id": "osm-way-771738931",
+    "name": "Gjerdrumsbakken K90",
+    "lat": 60.6928403,
+    "lon": 11.8010947,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/771738931"
+  },
+  {
+    "id": "osm-way-771738932",
+    "name": "Hermanshulua hoppbakke K15",
+    "lat": 60.8903177,
+    "lon": 11.5777928,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/771738932"
+  },
+  {
+    "id": "osm-way-771738933",
+    "name": "Hermanshulua hoppbakke K20",
+    "lat": 60.8903754,
+    "lon": 11.5776594,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/771738933"
+  },
+  {
+    "id": "osm-way-771738934",
+    "name": "Sandeggbakken K35",
+    "lat": 62.1038655,
+    "lon": 10.6122776,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/771738934"
+  },
+  {
+    "id": "osm-way-771738935",
+    "name": "Sandeggbakken K52",
+    "lat": 62.1039045,
+    "lon": 10.6120428,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/771738935"
+  },
+  {
+    "id": "osm-way-771758104",
+    "name": "Husebybakken",
+    "lat": 59.9373001,
+    "lon": 10.6726771,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/771758104"
+  },
+  {
+    "id": "osm-way-771924927",
+    "name": "Solhaugen hoppbakke",
+    "lat": 60.2958997,
+    "lon": 10.481303,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/771924927"
+  },
+  {
+    "id": "osm-way-771924928",
+    "name": "Nordigard Forberg hoppbakke",
+    "lat": 61.8831939,
+    "lon": 8.2810521,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/771924928"
+  },
+  {
+    "id": "osm-way-771924929",
+    "name": "Ski jump",
+    "lat": 61.9879878,
+    "lon": 9.239341,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/771924929"
+  },
+  {
+    "id": "osm-way-771924930",
+    "name": "Klokkarhaugen hoppbakke",
+    "lat": 61.9878719,
+    "lon": 9.2394603,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/771924930"
+  },
+  {
+    "id": "osm-way-771924931",
+    "name": "Lobakken K-20",
+    "lat": 61.5907514,
+    "lon": 9.7123017,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/771924931"
+  },
+  {
+    "id": "osm-way-771924932",
+    "name": "Lobakken K-36",
+    "lat": 61.5906481,
+    "lon": 9.7120214,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/771924932"
+  },
+  {
+    "id": "osm-way-771924933",
+    "name": "Kremmerlibakken K-15",
+    "lat": 61.2471274,
+    "lon": 10.1469148,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/771924933"
+  },
+  {
+    "id": "osm-way-771924934",
+    "name": "Kremmerlibakken K-10",
+    "lat": 61.24719,
+    "lon": 10.1467792,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/771924934"
+  },
+  {
+    "id": "osm-way-771924935",
+    "name": "Kremmerlibakken K-62",
+    "lat": 61.247063,
+    "lon": 10.1459089,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/771924935"
+  },
+  {
+    "id": "osm-way-771924936",
+    "name": "Kremmerlibakken K-48",
+    "lat": 61.2468507,
+    "lon": 10.1469751,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/771924936"
+  },
+  {
+    "id": "osm-way-771924937",
+    "name": "Kremmerlibakken K-25",
+    "lat": 61.2470352,
+    "lon": 10.1469778,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/771924937"
+  },
+  {
+    "id": "osm-way-771924938",
+    "name": "Haugakollen hoppbakke K-15",
+    "lat": 60.827158,
+    "lon": 9.5638776,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/771924938"
+  },
+  {
+    "id": "osm-way-771924939",
+    "name": "Haugakollen hoppbakke K-20",
+    "lat": 60.8270952,
+    "lon": 9.5641002,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/771924939"
+  },
+  {
+    "id": "osm-way-771924940",
+    "name": "Haugakollen hoppbakke K-43",
+    "lat": 60.8271292,
+    "lon": 9.5650578,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/771924940"
+  },
+  {
+    "id": "osm-way-771924941",
+    "name": "Kolbjørnsrud hoppbakke K-15",
+    "lat": 60.7445394,
+    "lon": 10.742518,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/771924941"
+  },
+  {
+    "id": "osm-way-771924942",
+    "name": "Kolbjørnsrud hoppbakke K-30",
+    "lat": 60.7442367,
+    "lon": 10.7421237,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/771924942"
+  },
+  {
+    "id": "osm-way-771924943",
+    "name": "Kolbjørnsrud hoppbakke K-47",
+    "lat": 60.7442472,
+    "lon": 10.741997,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/771924943"
+  },
+  {
+    "id": "osm-way-771924944",
+    "name": "Lønnbergbakken K-40",
+    "lat": 60.7174946,
+    "lon": 10.5866951,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/771924944"
+  },
+  {
+    "id": "osm-way-771924945",
+    "name": "Lønnbergbakken K-60",
+    "lat": 60.7175491,
+    "lon": 10.5863987,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/771924945"
+  },
+  {
+    "id": "osm-way-771924946",
+    "name": "Lønnbergbakken K-90",
+    "lat": 60.7179164,
+    "lon": 10.5860024,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/771924946"
+  },
+  {
+    "id": "osm-way-771924947",
+    "name": "Jønndalsbakken K-67",
+    "lat": 61.9431278,
+    "lon": 9.20913,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/771924947"
+  },
+  {
+    "id": "osm-way-771924948",
+    "name": "Jønndalsbakken K-45",
+    "lat": 61.9432173,
+    "lon": 9.2088013,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/771924948"
+  },
+  {
+    "id": "osm-way-771924949",
+    "name": "Engsvea hoppbakke K-8",
+    "lat": 61.0937333,
+    "lon": 10.4852499,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/771924949"
+  },
+  {
+    "id": "osm-way-771924950",
+    "name": "Engsvea hoppbakke K-12.5",
+    "lat": 61.0936189,
+    "lon": 10.4852446,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/771924950"
+  },
+  {
+    "id": "osm-way-771924951",
+    "name": "Engsvea hoppbakke K-25",
+    "lat": 61.0931963,
+    "lon": 10.4852311,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/771924951"
+  },
+  {
+    "id": "osm-way-771924952",
+    "name": "Hedalen skole hoppbakke K-10",
+    "lat": 60.6038565,
+    "lon": 9.7420728,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/771924952"
+  },
+  {
+    "id": "osm-way-771924953",
+    "name": "Hedalen skole hoppbakke K-20",
+    "lat": 60.6037374,
+    "lon": 9.742223,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/771924953"
+  },
+  {
+    "id": "osm-way-771924954",
+    "name": "Storefoss hoppbakke K-32",
+    "lat": 61.1286715,
+    "lon": 9.0779632,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/771924954"
+  },
+  {
+    "id": "osm-way-771924955",
+    "name": "Storefoss hoppbakke K-57",
+    "lat": 61.128893,
+    "lon": 9.077528,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/771924955"
+  },
+  {
+    "id": "osm-way-771924956",
+    "name": "Smebybakken K12",
+    "lat": 60.8412712,
+    "lon": 10.0818256,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/771924956"
+  },
+  {
+    "id": "osm-way-771924957",
+    "name": "Smebybakken K20",
+    "lat": 60.8413522,
+    "lon": 10.0817223,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/771924957"
+  },
+  {
+    "id": "osm-way-771924958",
+    "name": "Smebybakken K30",
+    "lat": 60.8414104,
+    "lon": 10.0816337,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/771924958"
+  },
+  {
+    "id": "osm-way-771924959",
+    "name": "Furukollen hoppbakke K20",
+    "lat": 61.0347515,
+    "lon": 9.0586527,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/771924959"
+  },
+  {
+    "id": "osm-way-771924960",
+    "name": "Furukollen hoppbakke K35",
+    "lat": 61.0344118,
+    "lon": 9.058261,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/771924960"
+  },
+  {
+    "id": "osm-way-772772652",
+    "name": "Rugtvedtkollen K10",
+    "lat": 59.144616,
+    "lon": 9.6056316,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772772652"
+  },
+  {
+    "id": "osm-way-772772653",
+    "name": "Furukollen hoppbakke K13",
+    "lat": 59.6365453,
+    "lon": 11.3568163,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772772653"
+  },
+  {
+    "id": "osm-way-772772654",
+    "name": "Furukollen hoppbakke K6",
+    "lat": 59.6365311,
+    "lon": 11.3568881,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772772654"
+  },
+  {
+    "id": "osm-way-772772655",
+    "name": "Furukollen hoppbakke K22",
+    "lat": 59.6365935,
+    "lon": 11.3566453,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772772655"
+  },
+  {
+    "id": "osm-way-772772656",
+    "name": "Furukollen hoppbakke K35",
+    "lat": 59.6363284,
+    "lon": 11.3568626,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772772656"
+  },
+  {
+    "id": "osm-way-772772657",
+    "name": "Furukollen hoppbakke K52",
+    "lat": 59.6363311,
+    "lon": 11.3565709,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772772657"
+  },
+  {
+    "id": "osm-way-772772658",
+    "name": "Knyken hoppbakke K10",
+    "lat": 63.261967,
+    "lon": 9.7433723,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772772658"
+  },
+  {
+    "id": "osm-way-772772659",
+    "name": "Skøyenhagan K17",
+    "lat": 60.8173573,
+    "lon": 11.3332745,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772772659"
+  },
+  {
+    "id": "osm-way-772772660",
+    "name": "Grautegrov",
+    "lat": 59.4206982,
+    "lon": 9.3266681,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772772660"
+  },
+  {
+    "id": "osm-way-772772661",
+    "name": "Lysakerbakken K7",
+    "lat": 60.2791149,
+    "lon": 11.1483443,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772772661"
+  },
+  {
+    "id": "osm-way-772772662",
+    "name": "Lysakerbakken K13",
+    "lat": 60.2790843,
+    "lon": 11.1483255,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772772662"
+  },
+  {
+    "id": "osm-way-772772663",
+    "name": "Lysakerbakken K27",
+    "lat": 60.2789099,
+    "lon": 11.1485287,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772772663"
+  },
+  {
+    "id": "osm-way-772772665",
+    "name": "Byåsbakken K12",
+    "lat": 63.4160184,
+    "lon": 10.3405245,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772772665"
+  },
+  {
+    "id": "osm-way-772772666",
+    "name": "Byåsbakken K5",
+    "lat": 63.4159171,
+    "lon": 10.3405159,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772772666"
+  },
+  {
+    "id": "osm-way-772772667",
+    "name": "Byåsbakken K25",
+    "lat": 63.4154301,
+    "lon": 10.3407533,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772772667"
+  },
+  {
+    "id": "osm-way-772772668",
+    "name": "Byåsbakken K48",
+    "lat": 63.4152375,
+    "lon": 10.3407841,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772772668"
+  },
+  {
+    "id": "osm-way-772772669",
+    "name": "Gjerpenkollen K8",
+    "lat": 59.7075584,
+    "lon": 10.224631,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772772669"
+  },
+  {
+    "id": "osm-way-772772670",
+    "name": "Gjerpenkollen K35",
+    "lat": 59.7079303,
+    "lon": 10.223866,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772772670"
+  },
+  {
+    "id": "osm-way-772772671",
+    "name": "Gjerpenkollen K18",
+    "lat": 59.7075788,
+    "lon": 10.2244,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772772671"
+  },
+  {
+    "id": "osm-way-772772672",
+    "name": "Gjerpenkollen K74",
+    "lat": 59.7075188,
+    "lon": 10.2233201,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772772672"
+  },
+  {
+    "id": "osm-way-772772673",
+    "name": "Ellingsrudkollen K8",
+    "lat": 59.7095657,
+    "lon": 10.8483238,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772772673"
+  },
+  {
+    "id": "osm-way-772772674",
+    "name": "Ellingsrudkollen K15",
+    "lat": 59.7096127,
+    "lon": 10.8482078,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772772674"
+  },
+  {
+    "id": "osm-way-772772675",
+    "name": "Ellingsrudkollen K28",
+    "lat": 59.7096844,
+    "lon": 10.847957,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772772675"
+  },
+  {
+    "id": "osm-way-772772676",
+    "name": "Ski jump",
+    "lat": 58.1536627,
+    "lon": 7.9666017,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772772676"
+  },
+  {
+    "id": "osm-way-772772677",
+    "name": "Ski jump",
+    "lat": 58.1537172,
+    "lon": 7.9665101,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772772677"
+  },
+  {
+    "id": "osm-way-772772678",
+    "name": "Ski jump",
+    "lat": 58.153564,
+    "lon": 7.9666221,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772772678"
+  },
+  {
+    "id": "osm-way-772772679",
+    "name": "Klappane hoppbakke K6",
+    "lat": 58.1536328,
+    "lon": 7.9665269,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772772679"
+  },
+  {
+    "id": "osm-way-772772680",
+    "name": "Klappane hoppbakke K16",
+    "lat": 58.1536545,
+    "lon": 7.9662553,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772772680"
+  },
+  {
+    "id": "osm-way-772772681",
+    "name": "Klappane hoppbakke K36",
+    "lat": 58.1534133,
+    "lon": 7.9662613,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772772681"
+  },
+  {
+    "id": "osm-way-772772682",
+    "name": "Granåsen K5",
+    "lat": 63.3788739,
+    "lon": 10.3055143,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772772682"
+  },
+  {
+    "id": "osm-way-772772683",
+    "name": "Granåsen K10",
+    "lat": 63.3788464,
+    "lon": 10.3056619,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772772683"
+  },
+  {
+    "id": "osm-way-772772684",
+    "name": "Ski jump",
+    "lat": 63.3780969,
+    "lon": 10.3043768,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772772684"
+  },
+  {
+    "id": "osm-way-772772685",
+    "name": "Ski jump",
+    "lat": 63.3784245,
+    "lon": 10.3056243,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772772685"
+  },
+  {
+    "id": "osm-way-772772686",
+    "name": "Ski jump",
+    "lat": 63.3784045,
+    "lon": 10.3059171,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772772686"
+  },
+  {
+    "id": "osm-way-772772687",
+    "name": "Granåsen K40",
+    "lat": 63.3779752,
+    "lon": 10.3042115,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772772687"
+  },
+  {
+    "id": "osm-way-772772688",
+    "name": "Granåsen K60",
+    "lat": 63.3775249,
+    "lon": 10.3047224,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772772688"
+  },
+  {
+    "id": "osm-way-772772689",
+    "name": "Granåsen K28",
+    "lat": 63.3778181,
+    "lon": 10.3054052,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772772689"
+  },
+  {
+    "id": "osm-way-772772690",
+    "name": "Granåsen K16",
+    "lat": 63.3779478,
+    "lon": 10.3057481,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772772690"
+  },
+  {
+    "id": "osm-way-772772693",
+    "name": "Ski jump",
+    "lat": 58.3148041,
+    "lon": 7.8325384,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772772693"
+  },
+  {
+    "id": "osm-way-772772694",
+    "name": "Ski jump",
+    "lat": 58.3153325,
+    "lon": 7.832422,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772772694"
+  },
+  {
+    "id": "osm-way-772772695",
+    "name": "Kirkebybakken",
+    "lat": 59.966348,
+    "lon": 10.4809235,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772772695"
+  },
+  {
+    "id": "osm-way-772772696",
+    "name": "Brattåsen K24",
+    "lat": 58.4501054,
+    "lon": 8.7155593,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772772696"
+  },
+  {
+    "id": "osm-way-772772697",
+    "name": "Brattåsen K3",
+    "lat": 58.4496668,
+    "lon": 8.7155542,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772772697"
+  },
+  {
+    "id": "osm-way-772772698",
+    "name": "Brattåsen K10",
+    "lat": 58.449388,
+    "lon": 8.7160129,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772772698"
+  },
+  {
+    "id": "osm-way-772772699",
+    "name": "Ski jump",
+    "lat": 58.6857807,
+    "lon": 8.6694804,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772772699"
+  },
+  {
+    "id": "osm-way-772772700",
+    "name": "Ski jump",
+    "lat": 59.5312869,
+    "lon": 8.1523913,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772772700"
+  },
+  {
+    "id": "osm-way-772772701",
+    "name": "K10",
+    "lat": 59.681085,
+    "lon": 9.6237049,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772772701"
+  },
+  {
+    "id": "osm-way-772772702",
+    "name": "K5",
+    "lat": 59.6810335,
+    "lon": 9.6237894,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772772702"
+  },
+  {
+    "id": "osm-way-772772703",
+    "name": "K25",
+    "lat": 59.6810532,
+    "lon": 9.623312,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772772703"
+  },
+  {
+    "id": "osm-way-772772704",
+    "name": "K41",
+    "lat": 59.6809658,
+    "lon": 9.6228369,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772772704"
+  },
+  {
+    "id": "osm-way-772772705",
+    "name": "Vikersundbakken K45",
+    "lat": 59.9388277,
+    "lon": 10.0043613,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772772705"
+  },
+  {
+    "id": "osm-way-772772706",
+    "name": "Vikersundbakken K25",
+    "lat": 59.9390808,
+    "lon": 10.0038497,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772772706"
+  },
+  {
+    "id": "osm-way-772772707",
+    "name": "Vikersundbakken K15",
+    "lat": 59.939193,
+    "lon": 10.0036556,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772772707"
+  },
+  {
+    "id": "osm-way-772772708",
+    "name": "Vikersundbakken Storbakke K105",
+    "lat": 59.9370602,
+    "lon": 10.0044719,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772772708"
+  },
+  {
+    "id": "osm-way-772772709",
+    "name": "Vikersundbakken HS240",
+    "lat": 59.9381197,
+    "lon": 10.0060491,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772772709"
+  },
+  {
+    "id": "osm-way-772845425",
+    "name": "Ski jump",
+    "lat": 60.5662049,
+    "lon": 9.9784264,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772845425"
+  },
+  {
+    "id": "osm-way-772845426",
+    "name": "Brøtobakken",
+    "lat": 60.4697255,
+    "lon": 9.2095939,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772845426"
+  },
+  {
+    "id": "osm-way-772845427",
+    "name": "Leveld skule hoppbakke",
+    "lat": 60.7004221,
+    "lon": 8.4862907,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772845427"
+  },
+  {
+    "id": "osm-way-772845428",
+    "name": "Høvikbakken mellomstor",
+    "lat": 59.726741,
+    "lon": 10.5033917,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772845428"
+  },
+  {
+    "id": "osm-way-772845429",
+    "name": "Høvikbakken liten",
+    "lat": 59.7268603,
+    "lon": 10.5039958,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772845429"
+  },
+  {
+    "id": "osm-way-772845430",
+    "name": "Høvikbakken stor",
+    "lat": 59.7267163,
+    "lon": 10.5034668,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772845430"
+  },
+  {
+    "id": "osm-way-772845431",
+    "name": "Gaarderbakken K17",
+    "lat": 60.0499298,
+    "lon": 9.1384497,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772845431"
+  },
+  {
+    "id": "osm-way-772845432",
+    "name": "Gaarderbakken K30",
+    "lat": 60.0498059,
+    "lon": 9.1382606,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772845432"
+  },
+  {
+    "id": "osm-way-772845433",
+    "name": "Gaarderbakken K60",
+    "lat": 60.050587,
+    "lon": 9.1376564,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772845433"
+  },
+  {
+    "id": "osm-way-772845434",
+    "name": "Uvdal barneskole",
+    "lat": 60.2711014,
+    "lon": 8.7436687,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772845434"
+  },
+  {
+    "id": "osm-way-772845435",
+    "name": "Pipern hoppbakke",
+    "lat": 60.6582742,
+    "lon": 8.7126189,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772845435"
+  },
+  {
+    "id": "osm-way-772845436",
+    "name": "Eggedal skole hoppbakke",
+    "lat": 60.2390683,
+    "lon": 9.3581562,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772845436"
+  },
+  {
+    "id": "osm-way-772845437",
+    "name": "Hovet skole",
+    "lat": 60.6241414,
+    "lon": 8.1625025,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772845437"
+  },
+  {
+    "id": "osm-way-772845438",
+    "name": "Vikersundbakken K10",
+    "lat": 59.9391492,
+    "lon": 10.0035943,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772845438"
+  },
+  {
+    "id": "osm-way-772845439",
+    "name": "Vikersundbakken K65",
+    "lat": 59.9376067,
+    "lon": 10.0037652,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772845439"
+  },
+  {
+    "id": "osm-way-772929242",
+    "name": "Brønnerud skole hoppbakke",
+    "lat": 59.6651133,
+    "lon": 10.7515678,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772929242"
+  },
+  {
+    "id": "osm-way-772929243",
+    "name": "Østgård skole hoppbakke",
+    "lat": 60.1192013,
+    "lon": 11.5330387,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772929243"
+  },
+  {
+    "id": "osm-way-772929244",
+    "name": "Askeladden hoppbakke K5",
+    "lat": 59.8348811,
+    "lon": 10.4239843,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772929244"
+  },
+  {
+    "id": "osm-way-772929245",
+    "name": "Askeladden hoppbakke K10",
+    "lat": 59.8348565,
+    "lon": 10.4241425,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772929245"
+  },
+  {
+    "id": "osm-way-772929246",
+    "name": "Kværnlia hoppbake K5",
+    "lat": 60.1501187,
+    "lon": 11.1595586,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772929246"
+  },
+  {
+    "id": "osm-way-772929247",
+    "name": "Kværnlia hoppbakke K10",
+    "lat": 60.150086,
+    "lon": 11.1594654,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772929247"
+  },
+  {
+    "id": "osm-way-772929248",
+    "name": "Kværnlia hoppbakke K20",
+    "lat": 60.1499982,
+    "lon": 11.1593453,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772929248"
+  },
+  {
+    "id": "osm-way-772929249",
+    "name": "Lundbybakken K40",
+    "lat": 60.4085349,
+    "lon": 11.030551,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772929249"
+  },
+  {
+    "id": "osm-way-772929250",
+    "name": "Lundbybakken K15",
+    "lat": 60.4089389,
+    "lon": 11.0302841,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772929250"
+  },
+  {
+    "id": "osm-way-772929251",
+    "name": "Lundbybakkene K25",
+    "lat": 60.4089574,
+    "lon": 11.0301205,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772929251"
+  },
+  {
+    "id": "osm-way-772929252",
+    "name": "Lundbybakken K63",
+    "lat": 60.4084594,
+    "lon": 11.0298295,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772929252"
+  },
+  {
+    "id": "osm-way-772929253",
+    "name": "Lundbybakken K90",
+    "lat": 60.4080038,
+    "lon": 11.0300642,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772929253"
+  },
+  {
+    "id": "osm-way-772929254",
+    "name": "Ski jump",
+    "lat": 59.9346916,
+    "lon": 10.5880707,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772929254"
+  },
+  {
+    "id": "osm-way-772929255",
+    "name": "Hosle hoppbakke K8",
+    "lat": 59.9346365,
+    "lon": 10.5881451,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772929255"
+  },
+  {
+    "id": "osm-way-772929256",
+    "name": "Dalbakken K27",
+    "lat": 60.2461136,
+    "lon": 11.2051783,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772929256"
+  },
+  {
+    "id": "osm-way-772929257",
+    "name": "Dalbakken K18",
+    "lat": 60.2460707,
+    "lon": 11.2053761,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772929257"
+  },
+  {
+    "id": "osm-way-772929259",
+    "name": "Jardarkollen K10",
+    "lat": 59.8816466,
+    "lon": 10.4978355,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772929259"
+  },
+  {
+    "id": "osm-way-772929260",
+    "name": "Jardarkollen K17",
+    "lat": 59.8816399,
+    "lon": 10.4978905,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772929260"
+  },
+  {
+    "id": "osm-way-772929261",
+    "name": "Jardarkollen K25",
+    "lat": 59.8815854,
+    "lon": 10.4980165,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772929261"
+  },
+  {
+    "id": "osm-way-772929262",
+    "name": "Drognesbakken K15",
+    "lat": 60.1125884,
+    "lon": 11.4773514,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772929262"
+  },
+  {
+    "id": "osm-way-772929263",
+    "name": "Drognesbakken K25",
+    "lat": 60.1124437,
+    "lon": 11.4773528,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772929263"
+  },
+  {
+    "id": "osm-way-772929266",
+    "name": "Fossum hoppbakke K15",
+    "lat": 59.960017,
+    "lon": 10.6121875,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772929266"
+  },
+  {
+    "id": "osm-way-772929267",
+    "name": "Fossum hoppbakke K25",
+    "lat": 59.9600801,
+    "lon": 10.6118535,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772929267"
+  },
+  {
+    "id": "osm-way-772929268",
+    "name": "Ski jump",
+    "lat": 60.4320182,
+    "lon": 11.071219,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772929268"
+  },
+  {
+    "id": "osm-way-772929269",
+    "name": "Hurdal stadion K8",
+    "lat": 60.4320933,
+    "lon": 11.0712321,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772929269"
+  },
+  {
+    "id": "osm-way-772929271",
+    "name": "Dalhauglia hoppbakke K-20",
+    "lat": 59.8860148,
+    "lon": 11.5446722,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772929271"
+  },
+  {
+    "id": "osm-way-772929272",
+    "name": "Dalhauglia hoppbakke K-6",
+    "lat": 59.8858716,
+    "lon": 11.5450061,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772929272"
+  },
+  {
+    "id": "osm-way-772929273",
+    "name": "Dalhauglia hoppbakke K35",
+    "lat": 59.8857941,
+    "lon": 11.544469,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772929273"
+  },
+  {
+    "id": "osm-way-772929274",
+    "name": "Dalhauglia hoppbakke K-50",
+    "lat": 59.8856033,
+    "lon": 11.5442209,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772929274"
+  },
+  {
+    "id": "osm-way-772943818",
+    "name": "Sundflaten hoppbakke K-65",
+    "lat": 59.7277852,
+    "lon": 7.6120729,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772943818"
+  },
+  {
+    "id": "osm-way-772943819",
+    "name": "Bjødrebakken K15",
+    "lat": 59.6011592,
+    "lon": 8.6329017,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772943819"
+  },
+  {
+    "id": "osm-way-772943820",
+    "name": "Bjødrebakken K30",
+    "lat": 59.6011277,
+    "lon": 8.6331008,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772943820"
+  },
+  {
+    "id": "osm-way-772943822",
+    "name": "Studsdalen hoppbakke",
+    "lat": 58.8736268,
+    "lon": 9.4065432,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772943822"
+  },
+  {
+    "id": "osm-way-772943823",
+    "name": "Studsdalen hoppbakke",
+    "lat": 58.8739512,
+    "lon": 9.4066532,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772943823"
+  },
+  {
+    "id": "osm-way-772943824",
+    "name": "Ski jump",
+    "lat": 59.5486888,
+    "lon": 9.2008607,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772943824"
+  },
+  {
+    "id": "osm-way-772943825",
+    "name": "Ski jump",
+    "lat": 59.5480296,
+    "lon": 9.2002063,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772943825"
+  },
+  {
+    "id": "osm-way-772943826",
+    "name": "Tveitanbakken K-8",
+    "lat": 59.5485556,
+    "lon": 9.2000963,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772943826"
+  },
+  {
+    "id": "osm-way-772943827",
+    "name": "Tveitanbakken K-40",
+    "lat": 59.5477841,
+    "lon": 9.1991917,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772943827"
+  },
+  {
+    "id": "osm-way-772943830",
+    "name": "Barfodkollen K12",
+    "lat": 59.0113724,
+    "lon": 9.737381,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772943830"
+  },
+  {
+    "id": "osm-way-772943831",
+    "name": "Barfodkollen K20",
+    "lat": 59.0112726,
+    "lon": 9.7372059,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772943831"
+  },
+  {
+    "id": "osm-way-772943832",
+    "name": "Brekkabakken K12",
+    "lat": 59.5833306,
+    "lon": 8.5531769,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772943832"
+  },
+  {
+    "id": "osm-way-772943833",
+    "name": "Brekkabakken K28",
+    "lat": 59.5832267,
+    "lon": 8.5534855,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772943833"
+  },
+  {
+    "id": "osm-way-772943834",
+    "name": "Brekkabakken K6",
+    "lat": 59.5832984,
+    "lon": 8.553252,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772943834"
+  },
+  {
+    "id": "osm-way-772943835",
+    "name": "Brekkabakken K42",
+    "lat": 59.583116,
+    "lon": 8.5536551,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772943835"
+  },
+  {
+    "id": "osm-way-772995336",
+    "name": "Valskråbakken",
+    "lat": 64.4669312,
+    "lon": 12.1489048,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772995336"
+  },
+  {
+    "id": "osm-way-772995339",
+    "name": "Ski jump",
+    "lat": 63.2623935,
+    "lon": 9.7435997,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772995339"
+  },
+  {
+    "id": "osm-way-772995344",
+    "name": "Damkollen hoppbakke K11",
+    "lat": 63.5438905,
+    "lon": 10.023336,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772995344"
+  },
+  {
+    "id": "osm-way-772995345",
+    "name": "Damkollen hoppbakke K38",
+    "lat": 63.5440918,
+    "lon": 10.0222872,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772995345"
+  },
+  {
+    "id": "osm-way-772995346",
+    "name": "Damkollen hoppbakke K25",
+    "lat": 63.5439018,
+    "lon": 10.0230825,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772995346"
+  },
+  {
+    "id": "osm-way-772995347",
+    "name": "Ski jump",
+    "lat": 64.0330411,
+    "lon": 11.4938222,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772995347"
+  },
+  {
+    "id": "osm-way-772995348",
+    "name": "Steinkjerbakken",
+    "lat": 64.0328916,
+    "lon": 11.4948743,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772995348"
+  },
+  {
+    "id": "osm-way-772995349",
+    "name": "Skolebakkene",
+    "lat": 64.2386186,
+    "lon": 11.2073221,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772995349"
+  },
+  {
+    "id": "osm-way-772995350",
+    "name": "Skolebakkene",
+    "lat": 64.238558,
+    "lon": 11.2070766,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772995350"
+  },
+  {
+    "id": "osm-way-772995351",
+    "name": "Skolebakkene",
+    "lat": 64.2385612,
+    "lon": 11.2068345,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772995351"
+  },
+  {
+    "id": "osm-way-772995355",
+    "name": "Ski jump",
+    "lat": 63.4778621,
+    "lon": 11.0440433,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772995355"
+  },
+  {
+    "id": "osm-way-772995356",
+    "name": "Bjørkbakken",
+    "lat": 63.4777627,
+    "lon": 11.0431373,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772995356"
+  },
+  {
+    "id": "osm-way-772995357",
+    "name": "Ski jump",
+    "lat": 63.5140135,
+    "lon": 10.845899,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772995357"
+  },
+  {
+    "id": "osm-way-772995358",
+    "name": "Klempen hoppbakke K10",
+    "lat": 63.5139584,
+    "lon": 10.8457086,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772995358"
+  },
+  {
+    "id": "osm-way-772995359",
+    "name": "Ski jump",
+    "lat": 63.5141541,
+    "lon": 10.8443441,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772995359"
+  },
+  {
+    "id": "osm-way-772995360",
+    "name": "Ski jump",
+    "lat": 63.5140464,
+    "lon": 10.8443447,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772995360"
+  },
+  {
+    "id": "osm-way-772995361",
+    "name": "Klempen hoppbakke K20",
+    "lat": 63.5140452,
+    "lon": 10.8439551,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772995361"
+  },
+  {
+    "id": "osm-way-772995362",
+    "name": "Klempen hoppbakke K35",
+    "lat": 63.5139166,
+    "lon": 10.8438867,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772995362"
+  },
+  {
+    "id": "osm-way-772995363",
+    "name": "Ski jump",
+    "lat": 64.1283868,
+    "lon": 11.2879814,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772995363"
+  },
+  {
+    "id": "osm-way-772995364",
+    "name": "Steinfjellbakken K90",
+    "lat": 64.1278385,
+    "lon": 11.2881437,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772995364"
+  },
+  {
+    "id": "osm-way-772995365",
+    "name": "Bjørnlibakken K50",
+    "lat": 63.1278717,
+    "lon": 9.6726519,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772995365"
+  },
+  {
+    "id": "osm-way-772995366",
+    "name": "Ski jump",
+    "lat": 64.0342152,
+    "lon": 11.4973184,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772995366"
+  },
+  {
+    "id": "osm-way-772995367",
+    "name": "Ski jump",
+    "lat": 64.0341991,
+    "lon": 11.4970683,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772995367"
+  },
+  {
+    "id": "osm-way-772995368",
+    "name": "Ski jump",
+    "lat": 64.0339911,
+    "lon": 11.4965211,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772995368"
+  },
+  {
+    "id": "osm-way-772995369",
+    "name": "Yrken hoppbakke K20",
+    "lat": 64.0340552,
+    "lon": 11.49758,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772995369"
+  },
+  {
+    "id": "osm-way-772995370",
+    "name": "Yrken hoppbakke K10",
+    "lat": 64.0340745,
+    "lon": 11.4972622,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772995370"
+  },
+  {
+    "id": "osm-way-772995371",
+    "name": "Yrken hoppbakke K34",
+    "lat": 64.0337565,
+    "lon": 11.4970348,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772995371"
+  },
+  {
+    "id": "osm-way-772995372",
+    "name": "Yrken hoppbakke K45",
+    "lat": 64.0336931,
+    "lon": 11.4969141,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772995372"
+  },
+  {
+    "id": "osm-way-772995373",
+    "name": "Spillumsbakken K20",
+    "lat": 64.4382827,
+    "lon": 11.5118097,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772995373"
+  },
+  {
+    "id": "osm-way-772995378",
+    "name": "Lundabakken K22",
+    "lat": 62.900571,
+    "lon": 9.8058906,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772995378"
+  },
+  {
+    "id": "osm-way-772995379",
+    "name": "Lundabakken K41",
+    "lat": 62.9003785,
+    "lon": 9.8060327,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772995379"
+  },
+  {
+    "id": "osm-way-772995380",
+    "name": "Lundabakken K61",
+    "lat": 62.9002034,
+    "lon": 9.806185,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772995380"
+  },
+  {
+    "id": "osm-way-772995381",
+    "name": "Pikhaugen hoppbakke K20",
+    "lat": 62.6413426,
+    "lon": 11.8689559,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772995381"
+  },
+  {
+    "id": "osm-way-772995382",
+    "name": "Pikhaugen hoppbakke K10",
+    "lat": 62.6414696,
+    "lon": 11.8692603,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772995382"
+  },
+  {
+    "id": "osm-way-772995383",
+    "name": "Pikhaugen hoppbakke K40",
+    "lat": 62.6412471,
+    "lon": 11.8685362,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772995383"
+  },
+  {
+    "id": "osm-way-772995384",
+    "name": "Ski jump",
+    "lat": 63.6863801,
+    "lon": 11.3126644,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772995384"
+  },
+  {
+    "id": "osm-way-772995385",
+    "name": "Bjørkbakken K63",
+    "lat": 63.6859668,
+    "lon": 11.3128334,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772995385"
+  },
+  {
+    "id": "osm-way-772995386",
+    "name": "Bjørkbakken K45",
+    "lat": 63.6858521,
+    "lon": 11.3125176,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772995386"
+  },
+  {
+    "id": "osm-way-772995387",
+    "name": "Bjørkbakken",
+    "lat": 63.6860923,
+    "lon": 11.3109947,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772995387"
+  },
+  {
+    "id": "osm-way-772995388",
+    "name": "Bjørkbakken K13",
+    "lat": 63.6859989,
+    "lon": 11.3116747,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772995388"
+  },
+  {
+    "id": "osm-way-772995389",
+    "name": "Bjørkbakken K25",
+    "lat": 63.6859008,
+    "lon": 11.3116224,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772995389"
+  },
+  {
+    "id": "osm-way-772995390",
+    "name": "Kløvsteinbakken K-7",
+    "lat": 63.0445213,
+    "lon": 9.6873584,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772995390"
+  },
+  {
+    "id": "osm-way-772995391",
+    "name": "Kløvsteinbakken K15",
+    "lat": 63.0444925,
+    "lon": 9.6875905,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772995391"
+  },
+  {
+    "id": "osm-way-772995392",
+    "name": "Kløvsteinbakken K20",
+    "lat": 63.0445001,
+    "lon": 9.6884427,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772995392"
+  },
+  {
+    "id": "osm-way-772995393",
+    "name": "Kløvsteinbakken K40",
+    "lat": 63.0443827,
+    "lon": 9.6881671,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772995393"
+  },
+  {
+    "id": "osm-way-772995394",
+    "name": "Kløvsteinbakken K105",
+    "lat": 63.0437219,
+    "lon": 9.6862534,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772995394"
+  },
+  {
+    "id": "osm-way-772995395",
+    "name": "Namsos skisenter K5",
+    "lat": 64.4830029,
+    "lon": 11.5128417,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772995395"
+  },
+  {
+    "id": "osm-way-772995396",
+    "name": "Namsos skisenter K15",
+    "lat": 64.4828393,
+    "lon": 11.5132146,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772995396"
+  },
+  {
+    "id": "osm-way-772995397",
+    "name": "Namsos skisenter K25",
+    "lat": 64.4828209,
+    "lon": 11.5134023,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772995397"
+  },
+  {
+    "id": "osm-way-772995398",
+    "name": "Namsos skisenter K65",
+    "lat": 64.4825939,
+    "lon": 11.5147447,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772995398"
+  },
+  {
+    "id": "osm-way-772995399",
+    "name": "Namsos skisenter K45",
+    "lat": 64.4826973,
+    "lon": 11.5139133,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772995399"
+  },
+  {
+    "id": "osm-way-772995400",
+    "name": "Fagåsen",
+    "lat": 64.1317863,
+    "lon": 11.6335518,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772995400"
+  },
+  {
+    "id": "osm-way-772995401",
+    "name": "Granåsen hoppbakke K20",
+    "lat": 63.1152113,
+    "lon": 9.9891901,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772995401"
+  },
+  {
+    "id": "osm-way-772995402",
+    "name": "Granåsen hoppbakke K45",
+    "lat": 63.1152793,
+    "lon": 9.9890479,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/772995402"
+  },
+  {
+    "id": "osm-way-773068795",
+    "name": "Prestenga hoppbakke",
+    "lat": 59.5906044,
+    "lon": 11.1641478,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773068795"
+  },
+  {
+    "id": "osm-way-773068799",
+    "name": "Rambergkollen hoppbakke K18",
+    "lat": 59.4099949,
+    "lon": 10.2667504,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773068799"
+  },
+  {
+    "id": "osm-way-773068800",
+    "name": "Rambergkollen hoppbakke K45",
+    "lat": 59.4102358,
+    "lon": 10.2673137,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773068800"
+  },
+  {
+    "id": "osm-way-773068801",
+    "name": "Granskollen hoppbakke K8",
+    "lat": 59.6664138,
+    "lon": 10.998152,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773068801"
+  },
+  {
+    "id": "osm-way-773068802",
+    "name": "Granskollen hoppbakke K10",
+    "lat": 59.6668018,
+    "lon": 10.9978939,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773068802"
+  },
+  {
+    "id": "osm-way-773068803",
+    "name": "Granskollen hoppbakke K28",
+    "lat": 59.6666119,
+    "lon": 10.9973614,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773068803"
+  },
+  {
+    "id": "osm-way-773068804",
+    "name": "Granskollen hoppbakke K16",
+    "lat": 59.6666058,
+    "lon": 10.997421,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773068804"
+  },
+  {
+    "id": "osm-way-773068805",
+    "name": "Granskollen hoppbakke K40",
+    "lat": 59.6666508,
+    "lon": 10.9972219,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773068805"
+  },
+  {
+    "id": "osm-way-773068806",
+    "name": "Kjølenkollen hoppbakke",
+    "lat": 59.4859419,
+    "lon": 11.7491222,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773068806"
+  },
+  {
+    "id": "osm-way-773068808",
+    "name": "Kvernmoen hoppbakke",
+    "lat": 59.1378327,
+    "lon": 11.7442594,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773068808"
+  },
+  {
+    "id": "osm-way-773068809",
+    "name": "Fjøshoppet",
+    "lat": 59.1671332,
+    "lon": 9.9659448,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773068809"
+  },
+  {
+    "id": "osm-way-773081214",
+    "name": "Hasåsenbakken K25",
+    "lat": 58.761017,
+    "lon": 9.0839633,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773081214"
+  },
+  {
+    "id": "osm-way-773081215",
+    "name": "Hasåsenbakken K46",
+    "lat": 58.7609384,
+    "lon": 9.083333,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773081215"
+  },
+  {
+    "id": "osm-way-773081216",
+    "name": "Lindalsbakken",
+    "lat": 58.5263824,
+    "lon": 8.1165576,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773081216"
+  },
+  {
+    "id": "osm-way-773081217",
+    "name": "Trollbakken K50",
+    "lat": 58.581112,
+    "lon": 7.8092817,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773081217"
+  },
+  {
+    "id": "osm-way-773081218",
+    "name": "Trollbakken K10",
+    "lat": 58.5811295,
+    "lon": 7.8095197,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773081218"
+  },
+  {
+    "id": "osm-way-773081219",
+    "name": "Trollbakken K20",
+    "lat": 58.5812483,
+    "lon": 7.8099355,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773081219"
+  },
+  {
+    "id": "osm-way-773081220",
+    "name": "Trollbakken K35",
+    "lat": 58.5813266,
+    "lon": 7.8101742,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773081220"
+  },
+  {
+    "id": "osm-way-773081221",
+    "name": "Trollbakken K50",
+    "lat": 58.5813406,
+    "lon": 7.8105953,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773081221"
+  },
+  {
+    "id": "osm-way-773081226",
+    "name": "Tjenna hoppbakke",
+    "lat": 58.4484872,
+    "lon": 8.7920357,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773081226"
+  },
+  {
+    "id": "osm-way-773081227",
+    "name": "Likollen hoppbakke K25",
+    "lat": 58.6239128,
+    "lon": 8.8508663,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773081227"
+  },
+  {
+    "id": "osm-way-773081228",
+    "name": "Likollen hoppbakke K48",
+    "lat": 58.6237838,
+    "lon": 8.8508251,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773081228"
+  },
+  {
+    "id": "osm-way-773081229",
+    "name": "Osedalen hoppbakke K-15",
+    "lat": 58.5054066,
+    "lon": 8.6266963,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773081229"
+  },
+  {
+    "id": "osm-way-773081230",
+    "name": "Songebakken K7",
+    "lat": 58.6870612,
+    "lon": 9.0166875,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773081230"
+  },
+  {
+    "id": "osm-way-773081231",
+    "name": "Songebakken",
+    "lat": 58.6871354,
+    "lon": 9.0174459,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773081231"
+  },
+  {
+    "id": "osm-way-773081232",
+    "name": "Songebakken K15",
+    "lat": 58.6870423,
+    "lon": 9.0168746,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773081232"
+  },
+  {
+    "id": "osm-way-773081233",
+    "name": "Songebakken K35",
+    "lat": 58.6868879,
+    "lon": 9.0172756,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773081233"
+  },
+  {
+    "id": "osm-way-773081234",
+    "name": "Songebakken K67",
+    "lat": 58.6871883,
+    "lon": 9.018044,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773081234"
+  },
+  {
+    "id": "osm-way-773081235",
+    "name": "Holmen hoppbakke",
+    "lat": 58.8990426,
+    "lon": 8.9557001,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773081235"
+  },
+  {
+    "id": "osm-way-773081236",
+    "name": "Hylestad skule hoppbakke",
+    "lat": 59.112389,
+    "lon": 7.5058361,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773081236"
+  },
+  {
+    "id": "osm-way-773156528",
+    "name": "Byremo skole hoppbakke",
+    "lat": 58.4224671,
+    "lon": 7.4046906,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773156528"
+  },
+  {
+    "id": "osm-way-773156529",
+    "name": "Slåttebakken K12",
+    "lat": 58.2528379,
+    "lon": 7.1937087,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773156529"
+  },
+  {
+    "id": "osm-way-773156530",
+    "name": "Slåttebakken K26",
+    "lat": 58.2529911,
+    "lon": 7.1941955,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773156530"
+  },
+  {
+    "id": "osm-way-773156531",
+    "name": "Slåttebakken K53",
+    "lat": 58.252684,
+    "lon": 7.1943873,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773156531"
+  },
+  {
+    "id": "osm-way-773156532",
+    "name": "Stubrokka hoppbakke K-32",
+    "lat": 58.2716188,
+    "lon": 7.5799575,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773156532"
+  },
+  {
+    "id": "osm-way-773156534",
+    "name": "Fagerholt skole hoppbakke",
+    "lat": 58.1795347,
+    "lon": 8.0325427,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773156534"
+  },
+  {
+    "id": "osm-way-773156538",
+    "name": "Rismyrbakken K-15",
+    "lat": 58.1491432,
+    "lon": 7.8324869,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773156538"
+  },
+  {
+    "id": "osm-way-773566460",
+    "name": "Tillungsbakken K-16",
+    "lat": 60.5799846,
+    "lon": 6.4488525,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773566460"
+  },
+  {
+    "id": "osm-way-773566461",
+    "name": "Tillungsbakken K-40",
+    "lat": 60.5800274,
+    "lon": 6.448115,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773566461"
+  },
+  {
+    "id": "osm-way-773566463",
+    "name": "Reisæter hoppbakke",
+    "lat": 60.2434689,
+    "lon": 6.545856,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773566463"
+  },
+  {
+    "id": "osm-way-773566465",
+    "name": "Tunåsen hoppbakke K8",
+    "lat": 60.6193091,
+    "lon": 6.2201795,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773566465"
+  },
+  {
+    "id": "osm-way-773566466",
+    "name": "Tunåsen hoppbakke",
+    "lat": 60.6193058,
+    "lon": 6.2200079,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773566466"
+  },
+  {
+    "id": "osm-way-773566468",
+    "name": "Tunåsen hoppbakke K40",
+    "lat": 60.6188972,
+    "lon": 6.2202452,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773566468"
+  },
+  {
+    "id": "osm-way-773566469",
+    "name": "Tunåsen hoppbakke K25",
+    "lat": 60.6189765,
+    "lon": 6.2205737,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773566469"
+  },
+  {
+    "id": "osm-way-773566470",
+    "name": "Tunåsen hoppbakke K69",
+    "lat": 60.6183129,
+    "lon": 6.2210284,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773566470"
+  },
+  {
+    "id": "osm-way-773566471",
+    "name": "Myrane hoppbakke K15",
+    "lat": 60.3976986,
+    "lon": 6.2126988,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773566471"
+  },
+  {
+    "id": "osm-way-773566472",
+    "name": "Myrane hoppbakke K35",
+    "lat": 60.3972614,
+    "lon": 6.2123435,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773566472"
+  },
+  {
+    "id": "osm-way-773566473",
+    "name": "Myrane hoppbakke K68",
+    "lat": 60.3971991,
+    "lon": 6.2132031,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773566473"
+  },
+  {
+    "id": "osm-way-773566474",
+    "name": "Fitjo hoppbakke",
+    "lat": 60.5779272,
+    "lon": 6.8856463,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773566474"
+  },
+  {
+    "id": "osm-way-773566476",
+    "name": "Brattebakken hoppbakke",
+    "lat": 59.6467614,
+    "lon": 6.3895905,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773566476"
+  },
+  {
+    "id": "osm-way-773566477",
+    "name": "Framnesbakken K-15",
+    "lat": 60.7850663,
+    "lon": 6.5604834,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773566477"
+  },
+  {
+    "id": "osm-way-773566480",
+    "name": "Framnesbakken K-25",
+    "lat": 60.7850359,
+    "lon": 6.5604687,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773566480"
+  },
+  {
+    "id": "osm-way-773566481",
+    "name": "Framnesbakken K-52",
+    "lat": 60.7848391,
+    "lon": 6.5598075,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773566481"
+  },
+  {
+    "id": "osm-way-773582116",
+    "name": "Vangsnes skule hoppbakke",
+    "lat": 61.1609583,
+    "lon": 6.6384787,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773582116"
+  },
+  {
+    "id": "osm-way-773582118",
+    "name": "Kålsetlii hoppbakke K-25",
+    "lat": 61.034165,
+    "lon": 6.5310932,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773582118"
+  },
+  {
+    "id": "osm-way-773582119",
+    "name": "Kålsetlii hoppbakke K-40",
+    "lat": 61.0342675,
+    "lon": 6.5315281,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773582119"
+  },
+  {
+    "id": "osm-way-773582120",
+    "name": "Kålsetlii hoppbakke K-60",
+    "lat": 61.0342708,
+    "lon": 6.532011,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773582120"
+  },
+  {
+    "id": "osm-way-773582121",
+    "name": "Kvamsbakken - 20m",
+    "lat": 61.3148097,
+    "lon": 7.1569866,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773582121"
+  },
+  {
+    "id": "osm-way-773582122",
+    "name": "Kvamsbakken K45",
+    "lat": 61.3151206,
+    "lon": 7.1558614,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773582122"
+  },
+  {
+    "id": "osm-way-773582123",
+    "name": "Kvamsbakken K56",
+    "lat": 61.3152061,
+    "lon": 7.1558614,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773582123"
+  },
+  {
+    "id": "osm-way-773582124",
+    "name": "Bjørkelibakken K-20",
+    "lat": 61.8550956,
+    "lon": 6.4678078,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773582124"
+  },
+  {
+    "id": "osm-way-773582125",
+    "name": "Bjørkelibakken K-40",
+    "lat": 61.8552961,
+    "lon": 6.4692709,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773582125"
+  },
+  {
+    "id": "osm-way-773582126",
+    "name": "Bjørkelibakken K-15",
+    "lat": 61.8548058,
+    "lon": 6.4678225,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773582126"
+  },
+  {
+    "id": "osm-way-773582127",
+    "name": "Bjørkelibakken K -70",
+    "lat": 61.8558755,
+    "lon": 6.4682825,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773582127"
+  },
+  {
+    "id": "osm-way-773582128",
+    "name": "Bjørkelibakken K-90",
+    "lat": 61.8559919,
+    "lon": 6.4686888,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773582128"
+  },
+  {
+    "id": "osm-way-773619553",
+    "name": "Skarbakken K-15",
+    "lat": 62.795941,
+    "lon": 7.3151578,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773619553"
+  },
+  {
+    "id": "osm-way-773619554",
+    "name": "Skarbakken K-25",
+    "lat": 62.7955223,
+    "lon": 7.3152932,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773619554"
+  },
+  {
+    "id": "osm-way-773619555",
+    "name": "Skarbakken K-35",
+    "lat": 62.7956534,
+    "lon": 7.3148694,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773619555"
+  },
+  {
+    "id": "osm-way-773619556",
+    "name": "Skarbakken K-50",
+    "lat": 62.7957669,
+    "lon": 7.3145154,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773619556"
+  },
+  {
+    "id": "osm-way-773619557",
+    "name": "Skarbakken K-90",
+    "lat": 62.7960667,
+    "lon": 7.3137912,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773619557"
+  },
+  {
+    "id": "osm-way-773619558",
+    "name": "Fjellbakken K10",
+    "lat": 62.3287202,
+    "lon": 7.0738515,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773619558"
+  },
+  {
+    "id": "osm-way-773619559",
+    "name": "Fjellbakken K18",
+    "lat": 62.3287476,
+    "lon": 7.0739535,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773619559"
+  },
+  {
+    "id": "osm-way-773619560",
+    "name": "Fjellbakken K30",
+    "lat": 62.3287537,
+    "lon": 7.0742673,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773619560"
+  },
+  {
+    "id": "osm-way-773619561",
+    "name": "Fjellbakken K50",
+    "lat": 62.3281023,
+    "lon": 7.0739267,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773619561"
+  },
+  {
+    "id": "osm-way-773619562",
+    "name": "Fjellbakken K67",
+    "lat": 62.3279323,
+    "lon": 7.0737442,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773619562"
+  },
+  {
+    "id": "osm-way-773619567",
+    "name": "Ski jump",
+    "lat": 62.460794,
+    "lon": 6.3859199,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773619567"
+  },
+  {
+    "id": "osm-way-773619568",
+    "name": "Ski jump",
+    "lat": 62.4606988,
+    "lon": 6.3854988,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773619568"
+  },
+  {
+    "id": "osm-way-773619569",
+    "name": "Vikabakken K10",
+    "lat": 62.460655,
+    "lon": 6.3860017,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773619569"
+  },
+  {
+    "id": "osm-way-773619570",
+    "name": "Vikabakken K20",
+    "lat": 62.4605651,
+    "lon": 6.3857817,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773619570"
+  },
+  {
+    "id": "osm-way-773619571",
+    "name": "Vikabakken K40",
+    "lat": 62.4604163,
+    "lon": 6.3854747,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773619571"
+  },
+  {
+    "id": "osm-way-773619574",
+    "name": "Ski jump",
+    "lat": 62.7458555,
+    "lon": 7.1739928,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773619574"
+  },
+  {
+    "id": "osm-way-773619575",
+    "name": "Ski jump",
+    "lat": 62.7458516,
+    "lon": 7.1741205,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773619575"
+  },
+  {
+    "id": "osm-way-773619576",
+    "name": "Ski jump",
+    "lat": 62.7459318,
+    "lon": 7.1737189,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773619576"
+  },
+  {
+    "id": "osm-way-773619578",
+    "name": "Mølleråsen hoppbakke K36",
+    "lat": 62.746168,
+    "lon": 7.1735392,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773619578"
+  },
+  {
+    "id": "osm-way-773619579",
+    "name": "Mølleråsen hoppbakke",
+    "lat": 62.7459032,
+    "lon": 7.1739737,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773619579"
+  },
+  {
+    "id": "osm-way-773619580",
+    "name": "Mølleråsen hoppbakke K15",
+    "lat": 62.7459708,
+    "lon": 7.1741735,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773619580"
+  },
+  {
+    "id": "osm-way-773619582",
+    "name": "Nesbakken",
+    "lat": 62.7958852,
+    "lon": 7.6196569,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773619582"
+  },
+  {
+    "id": "osm-way-773619583",
+    "name": "Nesbakken",
+    "lat": 62.7960329,
+    "lon": 7.6197012,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773619583"
+  },
+  {
+    "id": "osm-way-773619584",
+    "name": "Sæterbakkane",
+    "lat": 62.9976946,
+    "lon": 8.9932256,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773619584"
+  },
+  {
+    "id": "osm-way-773619585",
+    "name": "Sæterbakkane",
+    "lat": 62.9975673,
+    "lon": 8.9932617,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773619585"
+  },
+  {
+    "id": "osm-way-773619586",
+    "name": "Sæterbakkane",
+    "lat": 62.9973275,
+    "lon": 8.9934268,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773619586"
+  },
+  {
+    "id": "osm-way-773619587",
+    "name": "Oppdølsbakken K12",
+    "lat": 62.7878776,
+    "lon": 7.5266366,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773619587"
+  },
+  {
+    "id": "osm-way-773619588",
+    "name": "Oppdølsbakken K25",
+    "lat": 62.7876801,
+    "lon": 7.526473,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773619588"
+  },
+  {
+    "id": "osm-way-773619589",
+    "name": "Oppdølsbakken K35",
+    "lat": 62.7876391,
+    "lon": 7.5264113,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773619589"
+  },
+  {
+    "id": "osm-way-773721807",
+    "name": "Storhaugbakken K-10",
+    "lat": 65.8417902,
+    "lon": 13.3793575,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773721807"
+  },
+  {
+    "id": "osm-way-773721808",
+    "name": "Storhaugbakken K-25",
+    "lat": 65.8416749,
+    "lon": 13.3794862,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773721808"
+  },
+  {
+    "id": "osm-way-773721809",
+    "name": "Storhaugbakken K-50",
+    "lat": 65.8414221,
+    "lon": 13.3789746,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773721809"
+  },
+  {
+    "id": "osm-way-773721810",
+    "name": "Storhaugbakken K-70",
+    "lat": 65.8412771,
+    "lon": 13.3787446,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773721810"
+  },
+  {
+    "id": "osm-way-773721811",
+    "name": "Heibakken hoppbakke",
+    "lat": 66.3638149,
+    "lon": 14.3193537,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773721811"
+  },
+  {
+    "id": "osm-way-773721812",
+    "name": "Klokkeråsen hoppbakke",
+    "lat": 65.4120358,
+    "lon": 12.5386258,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773721812"
+  },
+  {
+    "id": "osm-way-773721814",
+    "name": "Steine skole hoppbakke",
+    "lat": 68.6193725,
+    "lon": 14.4627621,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773721814"
+  },
+  {
+    "id": "osm-way-773721815",
+    "name": "Lilleskigutten hoppbakke",
+    "lat": 68.440842,
+    "lon": 17.4015337,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773721815"
+  },
+  {
+    "id": "osm-way-773721816",
+    "name": "Ski jump",
+    "lat": 66.3008962,
+    "lon": 14.1272981,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773721816"
+  },
+  {
+    "id": "osm-way-773721817",
+    "name": "Fageråsbakken",
+    "lat": 66.3003221,
+    "lon": 14.1277675,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773721817"
+  },
+  {
+    "id": "osm-way-773721819",
+    "name": "Munklia hoppbakke K-45",
+    "lat": 66.3332245,
+    "lon": 14.0921036,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773721819"
+  },
+  {
+    "id": "osm-way-773721820",
+    "name": "Munklia hoppbakke K-36",
+    "lat": 66.3335453,
+    "lon": 14.0930933,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773721820"
+  },
+  {
+    "id": "osm-way-773721821",
+    "name": "Munklia hoppbakke K-25",
+    "lat": 66.3337305,
+    "lon": 14.0933937,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773721821"
+  },
+  {
+    "id": "osm-way-773721822",
+    "name": "Munklia hoppbakke K-10",
+    "lat": 66.3338064,
+    "lon": 14.0938939,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773721822"
+  },
+  {
+    "id": "osm-way-773721823",
+    "name": "Munklia hoppbakke K-15",
+    "lat": 66.3338134,
+    "lon": 14.0936377,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773721823"
+  },
+  {
+    "id": "osm-way-773721824",
+    "name": "Munklia hoppbakke K-5",
+    "lat": 66.3338215,
+    "lon": 14.0940562,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773721824"
+  },
+  {
+    "id": "osm-way-773721825",
+    "name": "Munklia hoppbakke K-60",
+    "lat": 66.3333774,
+    "lon": 14.0921518,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773721825"
+  },
+  {
+    "id": "osm-way-773721827",
+    "name": "Fløybakken K9",
+    "lat": 67.0788904,
+    "lon": 15.344655,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773721827"
+  },
+  {
+    "id": "osm-way-773721828",
+    "name": "Fløybakken K25",
+    "lat": 67.0789567,
+    "lon": 15.3443827,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773721828"
+  },
+  {
+    "id": "osm-way-773721829",
+    "name": "Fløybakken K-43",
+    "lat": 67.079094,
+    "lon": 15.3436008,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773721829"
+  },
+  {
+    "id": "osm-way-773721830",
+    "name": "Fløybakken K-67",
+    "lat": 67.0793197,
+    "lon": 15.3431824,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773721830"
+  },
+  {
+    "id": "osm-way-773721831",
+    "name": "Fløybakken K-90",
+    "lat": 67.0800269,
+    "lon": 15.3432441,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773721831"
+  },
+  {
+    "id": "osm-way-773721833",
+    "name": "Kippermoen hoppbakke K18",
+    "lat": 65.8291486,
+    "lon": 13.230401,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773721833"
+  },
+  {
+    "id": "osm-way-773721834",
+    "name": "Kippermoen hoppbakke K25",
+    "lat": 65.8289377,
+    "lon": 13.230759,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773721834"
+  },
+  {
+    "id": "osm-way-773814127",
+    "name": "Gibostad hoppbakke",
+    "lat": 69.3564074,
+    "lon": 18.0286355,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773814127"
+  },
+  {
+    "id": "osm-way-773814128",
+    "name": "Klubbhalsbakken",
+    "lat": 69.4413647,
+    "lon": 17.9486694,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773814128"
+  },
+  {
+    "id": "osm-way-773814129",
+    "name": "Klubbhalsbakken",
+    "lat": 69.4412121,
+    "lon": 17.9485354,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773814129"
+  },
+  {
+    "id": "osm-way-773814130",
+    "name": "Kveldteigen K-35",
+    "lat": 68.7939772,
+    "lon": 16.5139049,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773814130"
+  },
+  {
+    "id": "osm-way-773814131",
+    "name": "Kveldteigen K-8",
+    "lat": 68.7941765,
+    "lon": 16.5128937,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773814131"
+  },
+  {
+    "id": "osm-way-773814132",
+    "name": "Kveldteigen K-10",
+    "lat": 68.7941469,
+    "lon": 16.5130908,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773814132"
+  },
+  {
+    "id": "osm-way-773814133",
+    "name": "Kveldteigen K-18",
+    "lat": 68.7940499,
+    "lon": 16.5135656,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773814133"
+  },
+  {
+    "id": "osm-way-773814134",
+    "name": "Kveldteigen K-45",
+    "lat": 68.7940004,
+    "lon": 16.513984,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773814134"
+  },
+  {
+    "id": "osm-way-773814136",
+    "name": "Store Kveldteigen",
+    "lat": 68.7935587,
+    "lon": 16.511792,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773814136"
+  },
+  {
+    "id": "osm-way-773814140",
+    "name": "Skjærhaug hoppbakke K-10",
+    "lat": 69.0116046,
+    "lon": 19.3038328,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773814140"
+  },
+  {
+    "id": "osm-way-773814141",
+    "name": "Skjærhaug hoppbakke K-45",
+    "lat": 69.0111866,
+    "lon": 19.3036839,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773814141"
+  },
+  {
+    "id": "osm-way-773814142",
+    "name": "Skjærhaugen hoppbakke K-15",
+    "lat": 69.0116185,
+    "lon": 19.3037242,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773814142"
+  },
+  {
+    "id": "osm-way-773814143",
+    "name": "Skjærhaugen hoppbakke K-5",
+    "lat": 69.0116747,
+    "lon": 19.3039146,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773814143"
+  },
+  {
+    "id": "osm-way-773814144",
+    "name": "Skjærhaug hoppbakke K-25",
+    "lat": 69.0115028,
+    "lon": 19.3028551,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773814144"
+  },
+  {
+    "id": "osm-way-773814145",
+    "name": "Skjærhaugen hoppbakke K-65",
+    "lat": 69.0111529,
+    "lon": 19.3035364,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773814145"
+  },
+  {
+    "id": "osm-way-773841272",
+    "name": "Komsabakken hoppbakke",
+    "lat": 69.9748106,
+    "lon": 23.2747547,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773841272"
+  },
+  {
+    "id": "osm-way-773841273",
+    "name": "Sandlia hoppbakke",
+    "lat": 68.9979617,
+    "lon": 23.0269872,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773841273"
+  },
+  {
+    "id": "osm-way-773841275",
+    "name": "Altabakken K-10",
+    "lat": 69.9709072,
+    "lon": 23.3360258,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773841275"
+  },
+  {
+    "id": "osm-way-773841276",
+    "name": "Altabakken K-25",
+    "lat": 69.9710987,
+    "lon": 23.3359882,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773841276"
+  },
+  {
+    "id": "osm-way-773841277",
+    "name": "Altabakken K-42",
+    "lat": 69.9711837,
+    "lon": 23.3358246,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773841277"
+  },
+  {
+    "id": "osm-way-773841278",
+    "name": "Altabakken K-60",
+    "lat": 69.9713416,
+    "lon": 23.3356583,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773841278"
+  },
+  {
+    "id": "osm-way-773841279",
+    "name": "Altabakken K-75",
+    "lat": 69.971385,
+    "lon": 23.3352181,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773841279"
+  },
+  {
+    "id": "osm-way-773841280",
+    "name": "Oalgejok hoppbakke",
+    "lat": 69.4729954,
+    "lon": 25.5365489,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773841280"
+  },
+  {
+    "id": "osm-way-773841281",
+    "name": "Oalgejok hoppbakke",
+    "lat": 69.4729126,
+    "lon": 25.5365879,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/773841281"
+  },
+  {
+    "id": "osm-way-781194107",
+    "name": "Sandnesbakken",
+    "lat": 69.6750589,
+    "lon": 29.9402815,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/781194107"
+  },
+  {
+    "id": "osm-way-781194108",
+    "name": "Sandnesbakken",
+    "lat": 69.6751828,
+    "lon": 29.9396458,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/781194108"
+  },
+  {
+    "id": "osm-way-786337843",
+    "name": "Lønnbergbakken K-12",
+    "lat": 60.7173908,
+    "lon": 10.5892947,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/786337843"
+  },
+  {
+    "id": "osm-way-799048554",
+    "name": "Ski jump",
+    "lat": 59.5587855,
+    "lon": 11.3309073,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/799048554"
+  },
+  {
+    "id": "osm-way-799048555",
+    "name": "Ski jump",
+    "lat": 59.5586706,
+    "lon": 11.3310045,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/799048555"
+  },
+  {
+    "id": "osm-way-81176909",
+    "name": "Midtstubakken",
+    "lat": 59.9665424,
+    "lon": 10.6767198,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/81176909"
+  },
+  {
+    "id": "osm-way-81176911",
+    "name": "Ski jump",
+    "lat": 59.9638308,
+    "lon": 10.6682531,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/81176911"
+  },
+  {
+    "id": "osm-way-81176913",
+    "name": "Holmenkollbakken",
+    "lat": 59.9641105,
+    "lon": 10.6673989,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/81176913"
+  },
+  {
+    "id": "osm-way-81176917",
+    "name": "Ski jump",
+    "lat": 59.9663998,
+    "lon": 10.6776176,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/81176917"
+  },
+  {
+    "id": "osm-way-81238805",
+    "name": "K40",
+    "lat": 59.9644832,
+    "lon": 10.677215,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/81238805"
+  },
+  {
+    "id": "osm-way-81238808",
+    "name": "K20",
+    "lat": 59.9645429,
+    "lon": 10.6788583,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/81238808"
+  },
+  {
+    "id": "osm-way-81238809",
+    "name": "K60",
+    "lat": 59.9642116,
+    "lon": 10.6778528,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/81238809"
+  },
+  {
+    "id": "osm-way-81238821",
+    "name": "K10",
+    "lat": 59.9646314,
+    "lon": 10.6790458,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/81238821"
+  },
+  {
+    "id": "osm-way-830802948",
+    "name": "Ski jump",
+    "lat": 58.7797999,
+    "lon": 8.4956561,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/830802948"
+  },
+  {
+    "id": "osm-way-844376406",
+    "name": "Hyllibakken",
+    "lat": 59.6252047,
+    "lon": 11.0759029,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/844376406"
+  },
+  {
+    "id": "osm-way-855219730",
+    "name": "Ski jump",
+    "lat": 59.7150608,
+    "lon": 11.4556571,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/855219730"
+  },
+  {
+    "id": "osm-way-895275192",
+    "name": "Furukollen hoppbakke",
+    "lat": 59.5687395,
+    "lon": 10.5881327,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/895275192"
+  },
+  {
+    "id": "osm-way-975988989",
+    "name": "Ski jump",
+    "lat": 60.5616087,
+    "lon": 9.0886799,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/975988989"
+  },
+  {
+    "id": "osm-way-975988990",
+    "name": "Ski jump",
+    "lat": 60.5617373,
+    "lon": 9.0889527,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/975988990"
+  },
+  {
+    "id": "osm-way-981698473",
+    "name": "Ski jump",
+    "lat": 67.3130504,
+    "lon": 14.6478494,
+    "address": "",
+    "postalCode": "",
+    "city": "",
+    "url": "https://www.openstreetmap.org/way/981698473"
+  }
+]
