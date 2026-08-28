@@ -18,6 +18,7 @@ import { sources } from "../../utils/sources";
 import type { Source as MapSource } from "../../types/types";
 import UserLocationDot from "./UserLocationDot";
 import type { MapPoint } from "../../types/types";
+import { useIsMobile } from "../../utils/isMobileHook";
 
 const FLY_DURATION = 500;
 const POINT_LABEL_MIN_ZOOM = 10;
@@ -64,6 +65,7 @@ const MapLibre = forwardRef<
   MapLibreProps
 >(({ layers, center, zoom, onPositionChange, userLocation, points }, ref) => {
   const mapRef = useRef<MapRef>(null);
+  const isMobile = useIsMobile();
   const [width, setWidth] = useState(window.innerWidth);
   const [height, setHeight] = useState(window.innerHeight);
 
@@ -136,6 +138,8 @@ const MapLibre = forwardRef<
       }
       style={{ width, height }}
       mapStyle="https://demotiles.maplibre.org/globe.json"
+      touchZoomRotate={true}
+      doubleClickZoom={!isMobile}
     >
       {layerTiles.map((tiles, index) => (
         <Source

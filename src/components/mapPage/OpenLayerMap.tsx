@@ -3,6 +3,8 @@ import View from "ol/View";
 import TileLayer from "ol/layer/Tile";
 import XYZ from "ol/source/XYZ";
 import Overlay from "ol/Overlay";
+import DblClickDragZoom from "ol/interaction/DblClickDragZoom";
+import { defaults as defaultInteractions } from "ol/interaction/defaults";
 
 import { forwardRef, useEffect, useImperativeHandle, useRef } from "react";
 import { fromLonLat, toLonLat } from "ol/proj";
@@ -138,6 +140,9 @@ const OpenLayerMap = forwardRef<
       if (map.current === null) {
         map.current = new Map({
           controls: [],
+          interactions: defaultInteractions().extend([
+            new DblClickDragZoom({ delta: -0.01 }),
+          ]),
           target: container.current,
           layers: mapLayers,
           view: view.current,
