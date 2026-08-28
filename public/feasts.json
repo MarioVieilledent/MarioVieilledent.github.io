@@ -1009,6 +1009,33 @@
           ]
         }
       ]
+    },
+    "fr": {
+      "name": "Raviolis, saumon Wellington et Torta Paradiso",
+      "country": "Repas italien",
+      "idea": [
+        "Écrire des idées sur les plats, le processus de sélection des recettes, l'adaptation aux contraintes, l'organisation de l'événement, etc.",
+        "J'ai imposé aux Italiens de ne pas utiliser de fromage dans leur repas, ce qui représente un véritable défi pour préparer un bon repas italien."
+      ],
+      "menu": [
+        "Raviolis aux pommes de terre et au thon",
+        "Saumon Wellington aux champignons et à l'aubergine",
+        "Torta Paradiso servie avec de la glace"
+      ],
+      "notes": [
+        {
+          "title": "Titre ici",
+          "description": ["Notes pour chaque plat"]
+        },
+        {
+          "title": "Notes de Mario",
+          "description": [
+            "Raviolis : grâce à cette version sans fromage, j'ai pu manger pour la première fois de véritables raviolis faits maison. Non seulement ce fut une découverte, mais ce plat était aussi particulièrement bon.",
+            "Saumon Wellington : très bon plat, aux saveurs bien équilibrées et visuellement réussi. Seul petit bémol : la pâte feuilletée achetée dans le commerce, mais à part cela, c'était parfait.",
+            "Torta Paradiso con gelato : une douceur simple, délicieuse et efficace. Je ne suis pas amateur de pâtisseries, et ce dessert n'en fait pas trop en matière de saveurs, de complexité ou de technique. À l'image de la cuisine italienne, simple et réconfortante, il conclut parfaitement le repas."
+          ]
+        }
+      ]
     }
   },
   {

@@ -9,7 +9,6 @@ import {
   forwardRef,
   useEffect,
   useImperativeHandle,
-  useMemo,
   useRef,
   useState,
 } from "react";
@@ -102,24 +101,6 @@ const MapLibre = forwardRef<
     return () => window.removeEventListener("resize", resize);
   }, []);
 
-  const pointGeoJson = useMemo(
-    () => ({
-      type: "FeatureCollection" as const,
-      features: points.map((point) => ({
-        type: "Feature" as const,
-        geometry: {
-          type: "Point" as const,
-          coordinates: [point.lon, point.lat],
-        },
-        properties: {
-          name: point.name,
-          color: point.color,
-        },
-      })),
-    }),
-    [points],
-  );
-
   return (
     <Map
       ref={mapRef}
@@ -158,35 +139,26 @@ const MapLibre = forwardRef<
           />
         </Source>
       ))}
-      <Source id="map-points" type="geojson" data={pointGeoJson}>
-        <Layer
-          id="map-point-dots"
-          type="circle"
-          paint={{
-            "circle-radius": 6,
-            "circle-color": ["get", "color"],
-            "circle-stroke-color": "#ffffff",
-            "circle-stroke-width": 2,
-          }}
-        />
-        <Layer
-          id="map-point-labels"
-          type="symbol"
-          minzoom={POINT_LABEL_MIN_ZOOM}
-          layout={{
-            "text-field": ["get", "name"],
-            "text-size": 11,
-            "text-offset": [0, -1.5],
-            "text-anchor": "bottom",
-            "text-allow-overlap": false,
-          }}
-          paint={{
-            "text-color": "#1c1917",
-            "text-halo-color": "rgba(255,255,255,0.95)",
-            "text-halo-width": 2,
-          }}
-        />
-      </Source>
+      {points.map((point) => (
+        <Marker
+          key={`${point.source}-${point.id}`}
+          longitude={point.lon}
+          latitude={point.lat}
+          anchor="center"
+        >
+          <div
+            className="relative h-3 w-3 rounded-full border-2 border-white shadow"
+            style={{ backgroundColor: point.color }}
+            title={point.name}
+          >
+            {zoom >= POINT_LABEL_MIN_ZOOM && (
+              <span className="pointer-events-none absolute bottom-4 left-1/2 w-max max-w-48 -translate-x-1/2 rounded bg-white/90 px-1.5 py-0.5 text-center text-[11px] font-semibold leading-tight text-stone-900 shadow">
+                {point.name}
+              </span>
+            )}
+          </div>
+        </Marker>
+      ))}
       {userLocation && (
         <Marker longitude={userLocation.lon} latitude={userLocation.lat}>
           <UserLocationDot />
