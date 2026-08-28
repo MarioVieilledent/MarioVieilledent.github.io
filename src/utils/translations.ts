@@ -10,6 +10,7 @@ export const translations = {
     "旅するネズミ",
     "旅行的老鼠",
     "Potujoča podgana",
+    "الجرذ المسافر",
   ],
   websiteDescription: [
     "Mario Vieilledent - My personal website: open source maps, dev, recipes and learning Norwegian",
@@ -22,6 +23,7 @@ export const translations = {
     "マリオ・ヴィエイユダン - 私の個人ウェブサイト：オープンソースの地図、開発、レシピ、そしてノルウェー語の学習",
     "Mario Vieilledent - 我的个人网站：开源地图、开发、食谱和挪威语学习",
     "Mario Vieilledent - Moja osebna spletna stran: odprtokodni zemljevidi, razvoj, recepti in učenje norveščine",
+    "Mario Vieilledent - موقعي الشخصي: خرائط مفتوحة المصدر، وتطوير البرمجيات، ووصفات، وتعلّم اللغة النرويجية",
   ],
   language: [
     "Language",
@@ -34,6 +36,7 @@ export const translations = {
     "言語",
     "语言",
     "Jezik",
+    "اللغة",
   ],
   dragAndDropFilesHere: [
     "Drag and drop files here",
@@ -46,6 +49,7 @@ export const translations = {
     "ここにファイルをドラッグ＆ドロップ",
     "将文件拖放到此处",
     "Datoteke povlecite in spustite sem",
+    "اسحب الملفات وأفلتها هنا",
   ],
   baseMap: [
     "Base map",
@@ -58,6 +62,7 @@ export const translations = {
     "ベースマップ",
     "底图",
     "Osnovni zemljevid",
+    "الخريطة الأساسية",
   ],
   layers: [
     "Layers",
@@ -70,6 +75,7 @@ export const translations = {
     "レイヤー",
     "图层",
     "Plasti",
+    "الطبقات",
   ],
   points: [
     "Points",
@@ -82,6 +88,7 @@ export const translations = {
     "ポイント",
     "地点",
     "Točke",
+    "النقاط",
   ],
   shops: [
     "Shops",
@@ -94,6 +101,7 @@ export const translations = {
     "店舗",
     "商店",
     "Trgovine",
+    "المتاجر",
   ],
   services: [
     "Services",
@@ -106,6 +114,7 @@ export const translations = {
     "サービス",
     "服务",
     "Storitve",
+    "الخدمات",
   ],
   outdoorSites: [
     "Outdoor",
@@ -118,6 +127,7 @@ export const translations = {
     "アウトドア",
     "户外",
     "Na prostem",
+    "أماكن خارجية",
   ],
   sportSites: [
     "Sports sites",
@@ -130,6 +140,7 @@ export const translations = {
     "スポーツ施設",
     "体育设施",
     "Športni objekti",
+    "المرافق الرياضية",
   ],
   clearLayers: [
     "Clear layers",
@@ -142,6 +153,7 @@ export const translations = {
     "レイヤーをクリア",
     "清除图层",
     "Počisti plasti",
+    "مسح الطبقات",
   ],
   notAvailableIn3D: [
     "Not available in 3D view",
@@ -154,6 +166,7 @@ export const translations = {
     "3Dビューでは利用できません",
     "3D视图中不可用",
     "Ni na voljo v 3D-pogledu",
+    "غير متاح في العرض ثلاثي الأبعاد",
   ],
   general: [
     "General",
@@ -166,6 +179,7 @@ export const translations = {
     "一般",
     "常规",
     "Splošno",
+    "عام",
   ],
   topographic: [
     "Topographic",
@@ -178,6 +192,7 @@ export const translations = {
     "地形",
     "地形",
     "Topografsko",
+    "طبوغرافية",
   ],
   imagery: [
     "Satellite imagery",
@@ -190,6 +205,7 @@ export const translations = {
     "衛星画像",
     "影像卫星图像",
     "Satelitski posnetki",
+    "صور الأقمار الصناعية",
   ],
   hybrid: [
     "Hybrid",
@@ -202,6 +218,7 @@ export const translations = {
     "ハイブリッド",
     "混合",
     "Hibridno",
+    "هجينة",
   ],
   transport: [
     "Transport",
@@ -214,6 +231,7 @@ export const translations = {
     "交通",
     "交通",
     "Prevoz",
+    "النقل",
   ],
   other: [
     "Other",
@@ -226,6 +244,7 @@ export const translations = {
     "その他",
     "其他",
     "Drugo",
+    "أخرى",
   ],
   "2dMercator": [
     "2D Mercator",
@@ -238,6 +257,7 @@ export const translations = {
     "2D メルカトル",
     "2D 墨卡托",
     "2D Mercator",
+    "مركاتور ثنائي الأبعاد",
   ],
   "3dGlobe": [
     "3D Globe",
@@ -250,6 +270,7 @@ export const translations = {
     "3D グローブ",
     "3D 地球",
     "3D globus",
+    "كرة أرضية ثلاثية الأبعاد",
   ],
   sport: [
     "Sport",
@@ -262,6 +283,7 @@ export const translations = {
     "スポーツ",
     "运动",
     "Šport",
+    "الرياضة",
   ],
   train: [
     "Train",
@@ -274,6 +296,7 @@ export const translations = {
     "電車",
     "火车",
     "Vlak",
+    "قطار",
   ],
   loading: [
     "Loading",
@@ -286,6 +309,7 @@ export const translations = {
     "読み込み中",
     "加载中",
     "Nalaganje",
+    "جارٍ التحميل",
   ],
   translateThisWord: [
     "Translate this word",
@@ -298,6 +322,7 @@ export const translations = {
     "この単語を翻訳",
     "翻译这个词",
     "Prevedi to besedo",
+    "ترجم هذه الكلمة",
   ],
   english: [
     "English",
@@ -310,6 +335,7 @@ export const translations = {
     "英語",
     "英语",
     "Angleščina",
+    "الإنجليزية",
   ],
   norwegian: [
     "Norwegian",
@@ -322,6 +348,7 @@ export const translations = {
     "ノルウェー語",
     "挪威语",
     "Norveščina",
+    "النرويجية",
   ],
   learnNorwegian: [
     "Learn Norwegian",
@@ -334,6 +361,7 @@ export const translations = {
     "ノルウェー語を学ぶ",
     "学习挪威语",
     "Uči se norveščino",
+    "تعلّم النرويجية",
   ],
   turkishFlashcards: [
     "Turkish Flashcards",
@@ -346,6 +374,7 @@ export const translations = {
     "トルコ語の単語カード",
     "土耳其语闪卡",
     "Turške flash kartice",
+    "بطاقات تعليمية تركية",
   ],
   typeYourTranslation: [
     "Type your translation",
@@ -358,6 +387,7 @@ export const translations = {
     "翻訳を入力",
     "输入您的翻译",
     "Vpišite svoj prevod",
+    "اكتب ترجمتك",
   ],
   next: [
     "Next",
@@ -370,6 +400,7 @@ export const translations = {
     "次へ",
     "下一个",
     "Naprej",
+    "التالي",
   ],
   submit: [
     "Submit",
@@ -382,6 +413,7 @@ export const translations = {
     "送信",
     "提交",
     "Potrdi",
+    "إرسال",
   ],
   iDontKnow: [
     "I don't know",
@@ -394,6 +426,7 @@ export const translations = {
     "わかりません",
     "我不知道",
     "Ne vem",
+    "لا أعرف",
   ],
   home: [
     "Home",
@@ -406,6 +439,7 @@ export const translations = {
     "ホーム",
     "首页",
     "Domov",
+    "الرئيسية",
   ],
   back: [
     "Back",
@@ -418,6 +452,7 @@ export const translations = {
     "戻る",
     "返回",
     "Nazaj",
+    "رجوع",
   ],
   pageNotFound: [
     "404 - Wrong address :D Nothing here ",
@@ -430,6 +465,7 @@ export const translations = {
     "404 - ページが見つかりません",
     "404 - 页面未找到",
     "404 - Napačen naslov :D Tu ni ničesar",
+    "404 - عنوان خاطئ :D لا يوجد شيء هنا ",
   ],
   words: [
     "words",
@@ -442,6 +478,7 @@ export const translations = {
     "単語数",
     "单词",
     "besede",
+    "كلمات",
   ],
   success: [
     "correct",
@@ -454,6 +491,7 @@ export const translations = {
     "正解",
     "正确",
     "pravilno",
+    "صحيح",
   ],
   failure: [
     "wrong",
@@ -466,6 +504,7 @@ export const translations = {
     "不正解",
     "错误",
     "napačno",
+    "خطأ",
   ],
   statistics: [
     "Statistics",
@@ -478,6 +517,7 @@ export const translations = {
     "統計",
     "统计",
     "Statistika",
+    "الإحصاءات",
   ],
   listOfWords: [
     "List of words",
@@ -490,6 +530,7 @@ export const translations = {
     "単語一覧",
     "单词列表",
     "Seznam besed",
+    "قائمة الكلمات",
   ],
   searchHere: [
     "Search a word (en, no)",
@@ -502,6 +543,7 @@ export const translations = {
     "単語を検索（英語・ノルウェー語）",
     "搜索单词（英、挪）",
     "Išči besedo (en, no)",
+    "ابحث عن كلمة (بالإنجليزية أو النرويجية)",
   ],
   note: [
     "Note",
@@ -514,6 +556,7 @@ export const translations = {
     "メモ",
     "备注",
     "Opomba",
+    "ملاحظة",
   ],
   recipes: [
     "Recipes",
@@ -526,6 +569,7 @@ export const translations = {
     "レシピ",
     "菜谱",
     "Recepti",
+    "الوصفات",
   ],
   feasts: [
     "Feasts",
@@ -538,6 +582,7 @@ export const translations = {
     "ごちそう",
     "盛宴",
     "Gozbe",
+    "الولائم",
   ],
   starters: [
     "Starters",
@@ -550,6 +595,7 @@ export const translations = {
     "前菜",
     "前菜",
     "Predjedi",
+    "المقبلات",
   ],
   mainCourses: [
     "Main Courses",
@@ -562,6 +608,7 @@ export const translations = {
     "主菜",
     "主菜",
     "Glavne jedi",
+    "الأطباق الرئيسية",
   ],
   desserts: [
     "Desserts",
@@ -574,6 +621,7 @@ export const translations = {
     "デザート",
     "甜点",
     "Sladice",
+    "الحلويات",
   ],
   breads: [
     "Breads",
@@ -586,6 +634,7 @@ export const translations = {
     "パン",
     "面包",
     "Kruhi",
+    "الخبز",
   ],
   dips: [
     "Dips",
@@ -598,6 +647,7 @@ export const translations = {
     "ディップ",
     "蘸酱",
     "Pomake",
+    "صلصات التغميس",
   ],
   recipesPageDescription1: [
     "This page brings together my recipes and the shared meals that I call feasts.",
@@ -610,6 +660,7 @@ export const translations = {
     "このページでは、私のレシピと「ごちそう」と呼んでいる共有の食事をまとめています。",
     "此页面汇集了我的食谱以及我称之为盛宴的共享餐食。",
     "Ta stran združuje moje recepte in skupne obroke, ki jih imenujem gozbe.",
+    "تجمع هذه الصفحة وصفاتي والوجبات المشتركة التي أسمّيها ولائم.",
   ],
   recipesPageDescription2: [
     "I love garlic, but I hate cheese.",
@@ -622,6 +673,7 @@ export const translations = {
     "私はニンニクが大好きですが、チーズが大嫌いです。",
     "我非常喜欢大蒜，但我讨厌奶酪。",
     "Obožujem česen, vendar sovražim sir.",
+    "أحب الثوم، لكنني أكره الجبن.",
   ],
   recipesPageDescription3: [
     "A great lover of Turkish cuisine 🇹🇷, I consider it to be among the top 5 greatest cuisines in the world.",
@@ -634,6 +686,7 @@ export const translations = {
     "トルコ料理 🇹🇷 の大ファンであり、世界で最も偉大な料理トップ5の一つだと考えています。",
     "作为土耳其菜 🇹🇷 的忠实爱好者，我认为它位列世界五大顶级菜系之一。",
     "Sem velik ljubitelj turške kuhinje 🇹🇷 in menim, da sodi med 5 najboljših kuhinj na svetu.",
+    "أنا من عشاق المطبخ التركي 🇹🇷، وأعتبره من بين أفضل خمسة مطابخ في العالم.",
   ],
   ingredients: [
     "Ingredients",
@@ -646,6 +699,7 @@ export const translations = {
     "材料",
     "食材",
     "Sestavine",
+    "المكونات",
   ],
   instructions: [
     "Instructions",
@@ -658,6 +712,7 @@ export const translations = {
     "手順",
     "步骤说明",
     "Navodila",
+    "التعليمات",
   ],
   notes: [
     "Notes",
@@ -670,6 +725,7 @@ export const translations = {
     "備考",
     "小贴士",
     "Opombe",
+    "ملاحظات",
   ],
   idea: [
     "Idea",
@@ -682,6 +738,7 @@ export const translations = {
     "アイデア",
     "创意",
     "Ideja",
+    "فكرة",
   ],
   menu: [
     "Menu",
@@ -694,6 +751,7 @@ export const translations = {
     "メニュー",
     "菜单",
     "Meni",
+    "القائمة",
   ],
   pictures: [
     "Pictures",
@@ -706,6 +764,7 @@ export const translations = {
     "写真",
     "照片",
     "Slike",
+    "الصور",
   ],
   flags: [
     "Flags",
@@ -718,6 +777,7 @@ export const translations = {
     "旗",
     "旗帜",
     "Zastave",
+    "الأعلام",
   ],
   browseCategories: [
     "Browse",
@@ -730,6 +790,7 @@ export const translations = {
     "閲覧する",
     "浏览",
     "Prebrskaj",
+    "تصفح",
   ],
   randomRecipe: [
     "Random recipe",
@@ -742,6 +803,7 @@ export const translations = {
     "ランダムレシピ",
     "随机食谱",
     "Naključni recept",
+    "وصفة عشوائية",
   ],
   recipesNumber: [
     "Number of recipes:",
@@ -754,6 +816,7 @@ export const translations = {
     "レシピの数：",
     "食谱数量：",
     "Število receptov:",
+    "عدد الوصفات:",
   ],
   recipesWithCheese: [
     "Number of recipes with cheese:",
@@ -766,6 +829,7 @@ export const translations = {
     "チーズを使ったレシピの数：",
     "含奶酪的食谱数量：",
     "Število receptov s sirom:",
+    "عدد الوصفات التي تحتوي على الجبن:",
   ],
   search: [
     "Search",
@@ -778,6 +842,7 @@ export const translations = {
     "検索",
     "搜索",
     "Iskanje",
+    "بحث",
   ],
   clearFilters: [
     "Clear filters",
@@ -790,6 +855,7 @@ export const translations = {
     "フィルターをクリア",
     "清除筛选",
     "Počisti filtre",
+    "مسح عوامل التصفية",
   ],
   restultsFound: [
     "results found",
@@ -802,6 +868,7 @@ export const translations = {
     "件の結果が見つかりました",
     "个结果",
     "najdenih rezultatov",
+    "نتيجة موجودة",
   ],
   allFeastsJSON: [
     "All feasts (JSON)",
@@ -814,6 +881,7 @@ export const translations = {
     "すべての祭り(まつり)（JSON）",
     "所有节日 (JSON)",
     "Vse gozbe (JSON)",
+    "جميع الولائم (JSON)",
   ],
   allRecipesJSON: [
     "All recipes (JSON)",
@@ -826,6 +894,7 @@ export const translations = {
     "すべての料理(りょうり)（JSON）",
     "所有食谱 (JSON)",
     "Vsi recepti (JSON)",
+    "جميع الوصفات (JSON)",
   ],
   export: [
     "Export",
@@ -838,6 +907,7 @@ export const translations = {
     "エクスポート",
     "导出",
     "Izvozi",
+    "تصدير",
   ],
   picturesOfMyDishes: [
     "Pictures of my dishes",
@@ -850,6 +920,7 @@ export const translations = {
     "自分の料理の写真",
     "我的菜肴照片",
     "Slike mojih jedi",
+    "صور أطباقي",
   ],
   noRanking: [
     "No ranking",
@@ -862,5 +933,6 @@ export const translations = {
     "ランキングなし",
     "无排名",
     "Brez uvrstitve",
+    "بلا تصنيف",
   ],
 };

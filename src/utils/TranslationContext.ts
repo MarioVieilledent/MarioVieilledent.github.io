@@ -11,7 +11,8 @@ export type LanguagesAvailable =
   | "el" // Greek
   | "ja" // Japanese
   | "zh" // Chinese
-  | "sl"; // Slovenian
+  | "sl" // Slovenian
+  | "ar"; // Arabic
 
 export type TermKeys = keyof typeof translations;
 
@@ -105,6 +106,12 @@ export const languages: {
     countryCode: "si",
     name: "Slovenščina",
     index: 9,
+  },
+  {
+    code: "ar",
+    countryCode: "sa",
+    name: "العربية",
+    index: 10,
   },
 ];
 
