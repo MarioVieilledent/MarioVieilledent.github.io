@@ -1,12 +1,13 @@
 import { useIsMobile } from "../../utils/isMobileHook";
-import { useTranslation } from "../../utils/TranslationContext";
+import { languages, useTranslation } from "../../utils/TranslationContext";
 import { RECIPES_PATH } from "../../utils/routes";
 import type { Recipe, RecipeDetails } from "../../utils/validator";
+import LanguageOptionButton from "../LanguageOptionButton";
 import BulletList from "./BulletList";
 import NavigateTo from "../NavigateTo";
 
 const RecipeDisplay = ({ recipe }: { recipe: Recipe }) => {
-  const { language, t } = useTranslation();
+  const { language, setLanguage, t } = useTranslation();
   const isMobile = useIsMobile();
 
   const details = recipe[language as keyof Recipe]
@@ -16,9 +17,9 @@ const RecipeDisplay = ({ recipe }: { recipe: Recipe }) => {
   const ingredients =
     typeof details.ingredients[0] === "string"
       ? (details.ingredients as string[])
-      : (
-          details.ingredients as { part: string; ingredients: string[] }[]
-        ).map((group) => ({ part: group.part, items: group.ingredients }));
+      : (details.ingredients as { part: string; ingredients: string[] }[]).map(
+          (group) => ({ part: group.part, items: group.ingredients }),
+        );
 
   const instructions =
     typeof details.instructions[0] === "string"
@@ -28,6 +29,9 @@ const RecipeDisplay = ({ recipe }: { recipe: Recipe }) => {
         ).map((group) => ({ part: group.part, items: group.instructions }));
 
   const [heroPicture, ...galleryPictures] = recipe.pictures;
+  const availableLanguages = languages.filter(({ code }) =>
+    Boolean(recipe[code as keyof Recipe]),
+  );
 
   return (
     <div className="flex flex-col gap-8">
@@ -49,7 +53,9 @@ const RecipeDisplay = ({ recipe }: { recipe: Recipe }) => {
 
       <div
         className={
-          isMobile ? "flex flex-col gap-8 px-4 pb-8" : "flex flex-col gap-8 pb-8"
+          isMobile
+            ? "flex flex-col gap-8 px-4 pb-8"
+            : "flex flex-col gap-8 pb-8"
         }
       >
         <NavigateTo location={`${RECIPES_PATH}/${recipe.category}`} />
@@ -62,6 +68,30 @@ const RecipeDisplay = ({ recipe }: { recipe: Recipe }) => {
             <p className="mt-3 text-stone-500">{details.notes}</p>
           )}
         </div>
+
+        <section
+          className="flex flex-col gap-3 rounded-2xl border border-stone-200 bg-white p-4 shadow-sm md:p-5"
+          aria-labelledby="recipe-languages-heading"
+        >
+          <p
+            id="recipe-languages-heading"
+            className="text-sm font-medium text-stone-600"
+          >
+            {t("recipeAvailableLanguages")}
+          </p>
+          <ul className="flex flex-wrap gap-1">
+            {availableLanguages.map((option) => (
+              <li key={option.code}>
+                <LanguageOptionButton
+                  option={option}
+                  active={option.code === language}
+                  aria-pressed={option.code === language}
+                  onClick={() => setLanguage(option.code)}
+                />
+              </li>
+            ))}
+          </ul>
+        </section>
 
         <section className="flex flex-col gap-3 rounded-2xl border border-stone-200 bg-white p-6 shadow-sm">
           <h2 className="text-xl font-semibold text-stone-900">

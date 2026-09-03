@@ -1,10 +1,7 @@
 import { useState } from "react";
-import {
-  languages,
-  useTranslation,
-  type LanguagesAvailable,
-} from "../utils/TranslationContext";
+import { languages, useTranslation } from "../utils/TranslationContext";
 import { LuChevronDown, LuLanguages } from "react-icons/lu";
+import LanguageOptionButton from "./LanguageOptionButton";
 
 const LanguageSelection = () => {
   const { t, language, setLanguage } = useTranslation();
@@ -32,29 +29,23 @@ const LanguageSelection = () => {
       {open && (
         <ul
           role="listbox"
-          className="absolute z-10 mt-1 max-h-120 origin-top-left animate-[float-in_150ms_ease-out] overflow-auto rounded-2xl border border-stone-200 bg-white p-1.5 shadow-lg"
+          className="absolute z-10 mt-1 min-w-44 max-h-120 origin-top-left animate-[float-in_150ms_ease-out] overflow-auto rounded-2xl border border-stone-200 bg-white p-1.5 shadow-lg"
         >
           {languages.map((lang) => (
             <li
               key={lang.code}
               role="option"
               aria-selected={lang.code === language}
-              onClick={() => {
-                setLanguage(lang.code as LanguagesAvailable);
-                setOpen(false);
-              }}
-              className={`flex cursor-pointer items-center gap-2 rounded-xl px-3 py-2 text-sm transition-colors ${
-                lang.code === language
-                  ? "bg-amber-50 font-semibold text-amber-700"
-                  : "text-stone-700 hover:bg-stone-100"
-              }`}
             >
-              <img
-                className="w-6 rounded-sm"
-                src={`/flags/${lang.countryCode}.svg`}
-                alt={`Language icon ${lang.code}`}
+              <LanguageOptionButton
+                option={lang}
+                active={lang.code === language}
+                className="w-full"
+                onClick={() => {
+                  setLanguage(lang.code);
+                  setOpen(false);
+                }}
               />
-              {lang.name}
             </li>
           ))}
         </ul>

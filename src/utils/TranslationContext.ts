@@ -8,9 +8,13 @@ export type LanguagesAvailable =
   | "en" // English
   | "es" // Spanish
   | "fr" // French
+  | "hi" // Hindi
   | "it" // Italian
   | "ja" // Japanese
+  | "ka" // Georgian
   | "nb" // Norwegian
+  | "pt" // Portuguese
+  | "ru" // Russian
   | "sl" // Slovenian
   | "tr" // Turkish
   | "zh"; // Chinese
@@ -75,6 +79,11 @@ export const languages: {
     name: "Français",
   },
   {
+    code: "hi",
+    countryCode: "in",
+    name: "हिन्दी",
+  },
+  {
     code: "it",
     countryCode: "it",
     name: "Italiano",
@@ -85,9 +94,24 @@ export const languages: {
     name: "日本語",
   },
   {
+    code: "ka",
+    countryCode: "ge",
+    name: "ქართული",
+  },
+  {
     code: "nb",
     countryCode: "no",
     name: "Norsk",
+  },
+  {
+    code: "pt",
+    countryCode: "pt",
+    name: "Português",
+  },
+  {
+    code: "ru",
+    countryCode: "ru",
+    name: "Русский",
   },
   {
     code: "sl",

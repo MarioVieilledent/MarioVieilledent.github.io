@@ -30,15 +30,6 @@ export const recipe = z.looseObject({
   en: recipeDetails,
   fr: recipeDetails,
   it: recipeDetails,
-  es: recipeDetails.optional(),
-  nb: recipeDetails.optional(),
-  tr: recipeDetails.optional(),
-  el: recipeDetails.optional(),
-  ja: recipeDetails.optional(),
-  zh: recipeDetails.optional(),
-  sl: recipeDetails.optional(),
-  ar: recipeDetails.optional(),
-  de: recipeDetails.optional(),
 });
 
 export const feastDetails = z.object({
@@ -62,17 +53,6 @@ export const feast = z.looseObject({
   ranking: z.number().optional(),
   pictures: z.array(z.string()),
   en: feastDetails,
-  fr: feastDetails.optional(),
-  it: feastDetails.optional(),
-  es: feastDetails.optional(),
-  nb: feastDetails.optional(),
-  tr: feastDetails.optional(),
-  el: feastDetails.optional(),
-  ja: feastDetails.optional(),
-  zh: feastDetails.optional(),
-  sl: feastDetails.optional(),
-  ar: feastDetails.optional(),
-  de: feastDetails.optional(),
 });
 
 export const countryType = z.object({
