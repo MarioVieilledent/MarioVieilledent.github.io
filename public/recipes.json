@@ -309,6 +309,28 @@
         "طريقة الدونغار: سخّن قطعة من الفحم حتى تتوهج، وضعها في وعاء صغير أو على ورق ألمنيوم في وسط الأرز، واسكب فوقها قليلًا من السمن أو الزيت المحايد، ثم غطِّ القدر واترك الدخان يتخلل الأرز لمدة 5 دقائق",
         "اضبط توازن النكهات وأضف رشة من عصير الليمون"
       ]
+    },
+    "de": {
+      "name": "Pilaw-Reis",
+      "ingredients": [
+        "1/2 Glas Basmatireis",
+        "1/2 Zwiebel",
+        "3 Knoblauchzehen",
+        "Ingwer",
+        "Gewürze (Kardamom, Sternanis, Nelken, Fenchel, Curry usw.)",
+        "Olivenöl",
+        "Zitronensaft"
+      ],
+      "instructions": [
+        "1/2 Glas Basmatireis mehrmals in kaltem Wasser abspülen",
+        "Die Gewürze im heißen Öl aufgießen lassen",
+        "Die Zwiebel, dann den Ingwer und schließlich den Knoblauch im Öl anschwitzen",
+        "Den abgetropften Reis und die 1,5-fache Menge Wasser hinzufügen und zum Kochen bringen",
+        "12 Minuten bei kleinster Hitze kochen",
+        "Die Hitze ausschalten und 5 Minuten ruhen lassen",
+        "Dhungar-Methode: ein Stück Holzkohle glühend erhitzen, in einem kleinen Gefäß oder auf Alufolie in die Mitte des Reises legen, etwas Ghee oder neutrales Öl darübergießen, abdecken und 5 Minuten räuchern lassen",
+        "Den Geschmack abschmecken und einen Spritzer Zitronensaft hinzufügen"
+      ]
     }
   },
   {
@@ -458,6 +480,22 @@
         "أضف التوابل حسب الرغبة، مثل الفلفل ورقائق الفلفل الحار وغيرها.",
         "بعد اكتمال ثلثي الطهي، انقل السباغيتي إلى المقلاة الساخنة، وأضف مغارف صغيرة من ماء سلق المعكرونة حسب الحاجة لإكمال الطهي ومنحها قوامًا أكثر كريمية بفضل النشا. حرّك بانتظام."
       ]
+    },
+    "de": {
+      "name": "Aglio e olio",
+      "notes": "Eine schlichte italienische Technik für schmackhaftere und cremigere Spaghetti. Ein echtes Upgrade für Spaghetti-Liebhaber, besonders für alle, die Knoblauch mögen. Die Methode lässt sich auch mit Brat- oder Fischsaft aus der heißen Pfanne anpassen.",
+      "ingredients": [
+        "Spaghetti",
+        "Olivenöl",
+        "4 Knoblauchzehen",
+        "Salz, Pfeffer, Chili nach Geschmack"
+      ],
+      "instructions": [
+        "Die Spaghetti in gesalzenem, kochendem Wasser etwa zwei Drittel der üblichen Kochzeit garen.",
+        "In der Zwischenzeit Olivenöl bei mittlerer bis hoher Hitze mit 3-5 ganzen Knoblauchzehen (geschält oder grob gehackt) erhitzen; der Knoblauch sollte brutzeln.",
+        "Nach Geschmack würzen — Pfeffer, Chiliflocken usw.",
+        "Wenn die Spaghetti zu 2/3 gar sind, in die heiße Pfanne geben und nach Bedarf kleine Kellen Nudelwasser hinzufügen, um sie fertig zu garen und dank der Stärke cremiger zu machen. Regelmäßig umrühren."
+      ]
     }
   },
   {
@@ -566,6 +604,17 @@
         "قسّم العجين إلى 4 أجزاء، ومرّر كل جزء عدة مرات عبر أوسع إعداد في الآلة، مع طيه على نفسه في كل مرة.",
         "قلّل السماكة تدريجيًا بتمرير كل جزء مرتين عبر كل إعداد حتى تصل إلى الإعداد 5 أو 6، ثم قطّعه إلى تالياتيلي أو سباغيتي.",
         "اطهه في قدر كبير من الماء المغلي شديد الملوحة لمدة دقيقتين إلى 3 دقائق."
+      ]
+    },
+    "de": {
+      "name": "Hausgemachte frische Pasta mit der Handkurbel",
+      "notes": "Schnell und macht Spaß in der Zubereitung — dank der Eier ist diese Pasta sehr gesund. Die Technik erfordert etwas Übung beim Kneten und Ausrollen des Teigs. Rechne mit 100 g Mehl und 1 Ei pro Person.",
+      "ingredients": ["200 g Mehl", "2 Eier", "Eine Prise Salz"],
+      "instructions": [
+        "Den Teig formen und etwa zehn Minuten kneten, ohne ihn dabei über sich selbst zu falten.",
+        "Den Teig in 4 Portionen teilen und jede Portion mehrmals durch die dickste Einstellung der Maschine drehen, wobei sie jedes Mal über sich selbst gefaltet wird.",
+        "Die Dicke schrittweise verringern, indem jede Portion zweimal durch jede Einstellung gedreht wird, bis Stufe 5 oder 6 erreicht ist, dann zu Tagliatelle oder Spaghetti schneiden.",
+        "In einem großen Topf mit stark gesalzenem, kochendem Wasser 2 bis 3 Minuten garen."
       ]
     }
   },
@@ -875,6 +924,27 @@
         "قسّم العجين إلى ثلاثة أجزاء من دون ضغط للحفاظ على الهواء داخله.",
         "شكّل ثلاثة أرغفة باغيت بمد كل جزء بيديك في حركة واحدة.",
         "اخبزه لمدة 25 دقيقة على حرارة 250 درجة مئوية بالتسخين الثابت."
+      ]
+    },
+    "de": {
+      "name": "Baguette",
+      "notes": "Unglaublich einfach, wirklich günstig und mit sehr wenig Arbeitszeit verbunden. Der Teig braucht etwa zehn Stunden Ruhezeit, daher am besten am Vortag zubereiten, um morgens frisches, köstliches Brot zu genießen. Die vier Zutaten stehen für die vier Elemente: Mehl für die Erde, Wasser, Hefe für die Luft und Salz für das Feuer. Originalrezept mit der Holzlöffel-Technik: https://www.youtube.com/watch?v=Z-husjZkxHw",
+      "ingredients": [
+        "600 g Mehl (200 g pro Baguette)",
+        "480 ml Wasser (80% des Mehlgewichts)",
+        "2 g Trockenhefe",
+        "2 TL Salz"
+      ],
+      "instructions": [
+        "Alle Zutaten in eine große Schüssel geben.",
+        "Etwa 1 Minute mit dem Stiel eines großen Holzlöffels mischen, bis sich eine Teigkugel bildet.",
+        "Tipp: den am Löffel klebenden Teig mit dem Rand eines kleinen Löffels abkratzen (siehe Video).",
+        "Abdecken und 8–12 Stunden bei Raumtemperatur ruhen lassen.",
+        "Ein Blatt Backpapier auf einem Blech großzügig bemehlen. Der Teig ist sehr feucht und klebrig und braucht viel Mehl, damit er nicht klebt.",
+        "Den Teig bemehlen und vorsichtig auf das Backpapier übertragen (ein Teigschaber eignet sich hervorragend).",
+        "Den Teig ohne zu drücken in drei Teile teilen, damit die Luft darin bleibt.",
+        "Drei Baguettes formen, indem jedes Teil in einer Bewegung mit den Händen gestreckt wird.",
+        "25 Minuten bei 250 °C Ober-/Unterhitze backen."
       ]
     }
   },
@@ -1328,6 +1398,56 @@
             "أذب 30 غرامًا من الزبدة في مقلاة على نار هادئة.",
             "أضف 3 فصوص ثوم مفرومة والملح، واتركها تتشرب النكهة من دقيقتين إلى 3 دقائق على نار هادئة جدًا من دون أن تحترق.",
             "ادهن الخبز بالخليط وانثر فوقه كزبرة أو بقدونسًا مفرومًا."
+          ]
+        }
+      ]
+    },
+    "de": {
+      "name": "Orientalisches Fladenbrot „Lavash“",
+      "notes": "Türkisch-armenisches Fladenbrot, in der Pfanne gebacken, ähnlich dem indischen Naan. Rezept von Hungry Man Kitchen (YouTube).",
+      "ingredients": [
+        "300 g Mehl",
+        "200 ml warmes Wasser",
+        "Trockenhefe, je nach Ruhezeit (1 Std. => 10 g, 10 Std. => 2 g)",
+        "2 EL Olivenöl (optional, ergibt eine weichere Textur)",
+        "1 EL Zucker",
+        "1 TL Salz"
+      ],
+      "instructions": [
+        {
+          "part": "Teigzubereitung – einfache Methode mit langer Ruhezeit",
+          "instructions": [
+            "Die trockenen Zutaten in einer Schüssel mischen, Wasser und Öl hinzufügen und 2–3 Minuten kräftig mit dem Stiel eines Holzlöffels mischen.",
+            "Mindestens 3–4 Stunden (5 g Hefe) oder 8–10 Stunden (2 g Hefe) ruhen lassen."
+          ]
+        },
+        {
+          "part": "Teigzubereitung – schwierigere, aber schnellere Methode",
+          "instructions": [
+            "In einer Schüssel warmes Wasser mit Zucker und Hefe mischen.",
+            "Etwa 5–10 Minuten ruhen lassen, bis es schäumt (Hefeaktivierung).",
+            "Mehl und Salz in eine große Schüssel geben.",
+            "Die Hefemischung (und das Olivenöl, falls verwendet) hineingießen.",
+            "Mischen, dann 8–10 Minuten kneten, bis der Teig glatt und elastisch ist.",
+            "Die Schüssel abdecken und den Teig etwa 1 Stunde gehen lassen (bis er sich verdoppelt hat)."
+          ]
+        },
+        {
+          "part": "Formen",
+          "instructions": [
+            "Teig und Arbeitsfläche bemehlen, flach drücken und in 8–10 gleich große Kugeln teilen.",
+            "Eine dicke oder gusseiserne Pfanne erhitzen (mittelhohe bis hohe Hitze).",
+            "Jede Teigkugel von Hand flach drücken oder durch die Schwerkraft ausziehen.",
+            "Jedes Fladenbrot 1–2 Minuten pro Seite backen, bis es aufgeht und goldene Stellen bekommt.",
+            "Wichtig: das Brot nach dem Backen abdecken, damit es nicht austrocknet."
+          ]
+        },
+        {
+          "part": "Optionale Knoblauchbutter",
+          "instructions": [
+            "30 g Butter bei schwacher Hitze in einer Pfanne schmelzen.",
+            "3 fein gehackte Knoblauchzehen und Salz hinzufügen, 2–3 Minuten bei sehr schwacher Hitze ziehen lassen, ohne dass es anbrennt.",
+            "Das Brot bestreichen und mit gehacktem Koriander oder Petersilie bestreuen."
           ]
         }
       ]
@@ -2015,6 +2135,52 @@
             "وزّع كرة من الموزاريلا (من دون تصفيتها إذا كانت أقصى حرارة للفرن 250 درجة مئوية)، ويفضل أن تكون قطعًا كبيرة كي تذوب ببطء من دون أن تتحمر.",
             "رش قليلًا من زيت الزيتون.",
             "اخبزها نحو 10 دقائق، ويفضل على الرف السفلي، مع استخدام المروحة إن أمكن."
+          ]
+        }
+      ]
+    },
+    "de": {
+      "name": "Pizza Margherita",
+      "notes": "Pizzateig: gleiche Methode wie Brotteig, aber mit 65-75 mL Wasser pro 100 g Mehl.",
+      "ingredients": [
+        {
+          "part": "Teig (für 1 Pizza)",
+          "ingredients": [
+            "200-250 g Mehl",
+            "65% des Mehlgewichts an Leitungswasser",
+            "Etwas mehr Hefe als für Baguette",
+            "Ein halber Teelöffel Salz"
+          ]
+        },
+        {
+          "part": "Pizzabelag",
+          "ingredients": [
+            "Tomatensauce",
+            "1 Kugel Mozzarella",
+            "Frisches Basilikum",
+            "Olivenöl",
+            "Salz, Pfeffer, Kräuter"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "part": "Teig",
+          "instructions": [
+            "Mit einem Holzlöffel mischen.",
+            "Mindestens 5 Stunden ruhen lassen."
+          ]
+        },
+        {
+          "part": "Backen",
+          "instructions": [
+            "Den Ofen auf Maximaltemperatur vorheizen (250 °C oder höher, idealerweise 450 °C).",
+            "Den Teig von Hand auf einem bemehlten Backblech ausziehen.",
+            "Tomatensauce hinzufügen — Menge nach Geschmack.",
+            "Mit Salz, Pfeffer, Pizza- oder Provence-Kräutern und frischen Basilikumblättern würzen.",
+            "Eine Kugel Mozzarella verteilen (nicht abgetropft, wenn der Ofen maximal 250 °C erreicht), vorzugsweise in großen Stücken, damit er langsam schmilzt, ohne zu bräunen.",
+            "Mit Olivenöl beträufeln.",
+            "Etwa 10 Minuten backen, vorzugsweise auf der unteren Schiene, mit Umluft, wenn möglich."
           ]
         }
       ]
@@ -2737,6 +2903,73 @@
           ]
         }
       ]
+    },
+    "de": {
+      "name": "Pizza mit Pommes frites",
+      "notes": "Margherita-Pizza mit Pommes — nicht die hübscheste, eine der am wenigsten raffinierten, aber definitiv eines der besten Comfort Foods!",
+      "ingredients": [
+        {
+          "part": "Teig (für 1 Pizza)",
+          "ingredients": [
+            "200 g Mehl",
+            "150 mL Wasser",
+            "3 g Trockenhefe",
+            "1/2 TL Salz"
+          ]
+        },
+        {
+          "part": "Pommes",
+          "ingredients": [
+            "300 g bis 400 g tiefgekühlte Pommes frites"
+          ]
+        },
+        {
+          "part": "Pizza",
+          "ingredients": [
+            "Tomatensauce",
+            "1 Kugel Mozzarella",
+            "Frisches Basilikum",
+            "Olivenöl",
+            "Salz, Pfeffer, Kräuter"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "part": "Teig",
+          "instructions": [
+            "Alles mit einem Holzlöffel mischen",
+            "Mindestens 3 Stunden ruhen lassen, über Nacht ist noch besser"
+          ]
+        },
+        {
+          "part": "Pommes",
+          "instructions": [
+            "Die Pommes im Ofen 2/3 der angegebenen Zeit bei 250 °C Ober-/Unterhitze backen",
+            "Bevor sie zu bräunen beginnen, herausnehmen und warten, bis der Ofen die Maximaltemperatur erreicht hat, bevor mit dem Backen der Pizza fortgefahren wird"
+          ]
+        },
+        {
+          "part": "Pizza",
+          "instructions": [
+            "Den Ofen auf Maximaltemperatur vorheizen, 250 °C oder höher, idealerweise 450 °C",
+            "Den Teig von Hand auf einem bemehlten Backblech ausbreiten und ausziehen",
+            "Tomatensauce hinzufügen, Menge: nach Geschmack",
+            "Mit Salz, Pfeffer, Pizza- oder Provence-Kräutern, frischen Basilikumblättern würzen",
+            "Den Mozzarella hinzufügen (nicht abgetropft, wenn der Ofen auf 250 °C begrenzt ist), in recht großen Stücken, damit er langsam schmilzt, ohne zu stark zu bräunen",
+            "Mit Olivenöl beträufeln",
+            "7 bis 9 Minuten backen, vorzugsweise unten im Ofen, mit Umluft"
+          ]
+        },
+        {
+          "part": "Fertig backen",
+          "instructions": [
+            "Die Pommes auf die Pizza legen",
+            "Etwas mehr Salz und noch etwas Olivenöl über die Pommes geben",
+            "Weitere 2 bis 3 Minuten backen, um das Garen abzuschließen"
+          ]
+        }
+      ]
     }
   },
   {
@@ -2951,6 +3184,25 @@
         "اترك الخليط يرتاح لمدة ساعتين على الأقل.",
         "الطهي: استخدم مقلاة غير لاصقة على نار عالية أو حتى بأقصى حرارة؛ اسكب مغرفة من الخليط، ثم أمل المقلاة وحرّكها لتوزيعه بالتساوي."
       ]
+    },
+    "de": {
+      "name": "Crêpes",
+      "notes": "Glatter Teig ohne Klümpchen, kein Mixer nötig, schnelles Rezept. Tipp: feste und flüssige Basiszutaten zu gleichen Teilen ausbalancieren: https://www.youtube.com/watch?v=p-XOehv3j20",
+      "ingredients": [
+        "250 g Mehl",
+        "500 ml Milch",
+        "3 Eier",
+        "30 g Butter / 30 ml neutrales Öl",
+        "Zucker zum Bräunen (optional)",
+        "Eine Prise Salz"
+      ],
+      "instructions": [
+        "Alle Zutaten in eine Schüssel geben, zunächst aber nur 1/3 der Milch.",
+        "Kräftig verquirlen — in 30 Sekunden erhältst du einen dicken, klümpchenfreien Teig.",
+        "Die restliche Milch hinzufügen und in wenigen Sekunden fertig mischen.",
+        "Mindestens 2 Stunden ruhen lassen.",
+        "Zubereitung: eine beschichtete Pfanne bei hoher bis maximaler Hitze verwenden; eine Kelle Teig hineingießen, die Pfanne kippen und schwenken, um ihn gleichmäßig zu verteilen."
+      ]
     }
   },
   {
@@ -3154,6 +3406,24 @@
         "اتركه يرتاح في الثلاجة بضع دقائق؛ ويصبح ألذ في اليوم التالي.",
         "قدّمه مع رشة من زيت الزيتون والتوابل على الوجه (فلفل، كمون، بابريكا، سماق)."
       ]
+    },
+    "de": {
+      "name": "Hummus",
+      "notes": "Ich habe viele Rezepte und Techniken ausprobiert. Eines Tages, in einem kleinen Falafel-Restaurant eines bekannten Jordaniers in Düsseldorf, habe ich den besten Hummus meines Lebens probiert. Schockiert kam ich mit dem Koch ins Gespräch und fiel fast vom Stuhl, als ich erfuhr, dass er weder Knoblauch, noch Kreuzkümmel, noch Olivenöl in seinem Hummus verwendet. Das Geheimnis ist, die getrockneten Kichererbsen selbst zu kochen und das Tahini selbst herzustellen. Weitere Inspirationen hier: https://www.youtube.com/watch?v=NbXC0B83S7k",
+      "ingredients": [
+        "500 g gekochte und abgetropfte Kichererbsen",
+        "100 g Tahini",
+        "Saft von 1 Zitrone (60 mL)",
+        "Eiskaltes Wasser",
+        "Salz"
+      ],
+      "instructions": [
+        "Die Kichererbsen häuten (für eine glattere Textur)",
+        "Das Tahini mit dem Zitronensaft und Salz vermischen",
+        "Alles zusammen mixen und nach und nach eiskaltes Wasser hinzufügen, bis die gewünschte Textur erreicht ist",
+        "Ein paar Minuten im Kühlschrank ruhen lassen; am nächsten Tag schmeckt es sogar noch besser",
+        "Mit einem Schuss Olivenöl und Gewürzen obenauf servieren (Pfeffer, Kreuzkümmel, Paprika, Sumach)"
+      ]
     }
   },
   {
@@ -3329,6 +3599,25 @@
         "ضع صفار البيضة والخردل والخل والملح والفلفل في وعاء.",
         "أضف 150 مل من الزيت ببطء مع الخفق المستمر.",
         "أضف الزيت الدافئ المنكّه بالثوم، وأكمل استحلاب المايونيز، وبذلك يصبح جاهزًا."
+      ]
+    },
+    "de": {
+      "name": "Knoblauchmayonnaise",
+      "notes": "Besser als klassische Mayonnaise und besser als Aioli — Knoblauchmayo ist ein Geschmacksorgasmus. Ein Eigelb ergibt auf einmal eine große Menge Mayo; sie hält sich 2 Tage im Kühlschrank. Klassisches Mayonnaise-Rezept von Etchebest: https://www.youtube.com/watch?v=DKXoha0_Mbk",
+      "ingredients": [
+        "1 frisches Eigelb",
+        "1 TL Dijon-Senf",
+        "1 TL weißer Essig (oder Zitronensaft)",
+        "Salz",
+        "Pfeffer (optional)",
+        "200 ml neutrales Öl",
+        "6 Knoblauchzehen, fein gehackt"
+      ],
+      "instructions": [
+        "In einer kleinen Pfanne bei schwacher Hitze den gehackten Knoblauch etwa 3 Minuten in 50 ml Öl anschwitzen, ohne ihn bräunen zu lassen (Ziel: die Bitterkeit entfernen und dabei das Aroma bewahren).",
+        "Eigelb, Senf, Essig, Salz und Pfeffer in eine Schüssel geben.",
+        "Langsam 150 ml Öl einrühren, dabei ständig weiterrühren.",
+        "Das warme, mit Knoblauch aromatisierte Öl hinzufügen, die Mayo fertig emulgieren — fertig ist sie."
       ]
     }
   },

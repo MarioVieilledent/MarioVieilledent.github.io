@@ -2,17 +2,18 @@ import { createContext, useContext } from "react";
 import { translations } from "./translations";
 
 export type LanguagesAvailable =
+  | "ar" // Arabic
+  | "de" // German
+  | "el" // Greek
   | "en" // English
+  | "es" // Spanish
   | "fr" // French
   | "it" // Italian
-  | "es" // Spanish
-  | "nb" // Norwegian
-  | "tr" // Turkish
-  | "el" // Greek
   | "ja" // Japanese
-  | "zh" // Chinese
+  | "nb" // Norwegian
   | "sl" // Slovenian
-  | "ar"; // Arabic
+  | "tr" // Turkish
+  | "zh"; // Chinese
 
 export type TermKeys = keyof typeof translations;
 
@@ -33,10 +34,7 @@ export const useTranslation = () => {
 
   const { language, setLanguage } = context;
 
-  const t = (key: TermKeys) =>
-    translations[key][
-      languages.find((ln) => ln.code === language)?.index ?? 0
-    ] ?? key;
+  const t = (key: TermKeys) => translations[key][language] ?? key;
 
   return { t, language, setLanguage };
 };
@@ -45,73 +43,66 @@ export const languages: {
   code: LanguagesAvailable;
   countryCode: string;
   name: string;
-  index: number;
 }[] = [
   {
-    code: "en",
-    countryCode: "gb",
-    name: "English",
-    index: 0,
+    code: "ar",
+    countryCode: "sa",
+    name: "العربية",
   },
   {
-    code: "fr",
-    countryCode: "fr",
-    name: "Français",
-    index: 1,
-  },
-  {
-    code: "it",
-    countryCode: "it",
-    name: "Italiano",
-    index: 2,
-  },
-  {
-    code: "es",
-    countryCode: "es",
-    name: "Español",
-    index: 3,
-  },
-  {
-    code: "nb",
-    countryCode: "no",
-    name: "Norsk",
-    index: 4,
-  },
-  {
-    code: "tr",
-    countryCode: "tr",
-    name: "Türk",
-    index: 5,
+    code: "de",
+    countryCode: "de",
+    name: "Deutsch",
   },
   {
     code: "el",
     countryCode: "gr",
     name: "Ελληνικά",
-    index: 6,
+  },
+  {
+    code: "en",
+    countryCode: "gb",
+    name: "English",
+  },
+  {
+    code: "es",
+    countryCode: "es",
+    name: "Español",
+  },
+  {
+    code: "fr",
+    countryCode: "fr",
+    name: "Français",
+  },
+  {
+    code: "it",
+    countryCode: "it",
+    name: "Italiano",
   },
   {
     code: "ja",
     countryCode: "jp",
     name: "日本語",
-    index: 7,
   },
   {
-    code: "zh",
-    countryCode: "cn",
-    name: "中文",
-    index: 8,
+    code: "nb",
+    countryCode: "no",
+    name: "Norsk",
   },
   {
     code: "sl",
     countryCode: "si",
     name: "Slovenščina",
-    index: 9,
   },
   {
-    code: "ar",
-    countryCode: "sa",
-    name: "العربية",
-    index: 10,
+    code: "tr",
+    countryCode: "tr",
+    name: "Türk",
+  },
+  {
+    code: "zh",
+    countryCode: "cn",
+    name: "中文",
   },
 ];
 

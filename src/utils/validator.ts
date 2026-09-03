@@ -38,6 +38,7 @@ export const recipe = z.looseObject({
   zh: recipeDetails.optional(),
   sl: recipeDetails.optional(),
   ar: recipeDetails.optional(),
+  de: recipeDetails.optional(),
 });
 
 export const feastDetails = z.object({
@@ -71,6 +72,7 @@ export const feast = z.looseObject({
   zh: feastDetails.optional(),
   sl: feastDetails.optional(),
   ar: feastDetails.optional(),
+  de: feastDetails.optional(),
 });
 
 export const countryType = z.object({
