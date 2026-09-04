@@ -17,7 +17,7 @@ const PlainList = ({
       {visible.map((item, index) => (
         <li
           key={index}
-          className="flex gap-3 text-sm leading-relaxed text-stone-600"
+          className="flex gap-3 text-base leading-relaxed text-stone-600"
         >
           {ordered ? (
             <span className="mt-0.5 flex h-5 w-5 shrink-0 items-center justify-center rounded-full bg-amber-100 text-[11px] font-semibold text-amber-700">
@@ -57,7 +57,7 @@ const BulletList = ({
     <div className="flex flex-col gap-4">
       {(items as BulletGroup[]).map((group) => (
         <div key={group.part}>
-          <div className="mb-1.5 text-xs font-semibold uppercase tracking-wide text-stone-500">
+          <div className="mb-1.5 text-sm font-semibold uppercase tracking-wide text-stone-500">
             {group.part}
           </div>
           <PlainList items={group.items} maxItems={maxItems} ordered={ordered} />

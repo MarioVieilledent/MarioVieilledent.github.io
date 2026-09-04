@@ -77,7 +77,7 @@ const TranslationCoverageTable = ({
     <section className="flex flex-col gap-4">
       <div>
         <h2 className="text-xl font-semibold text-stone-900">{t("translationCoverage")}</h2>
-        <p className="mt-1 text-sm text-stone-500">{t("translationCoverageDescription")}</p>
+        <p className="mt-1 text-base text-stone-500">{t("translationCoverageDescription")}</p>
       </div>
 
       <div className="rounded-2xl border border-stone-200 bg-white shadow-sm">

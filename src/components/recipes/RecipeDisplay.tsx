@@ -75,7 +75,7 @@ const RecipeDisplay = ({ recipe }: { recipe: Recipe }) => {
         >
           <p
             id="recipe-languages-heading"
-            className="text-sm font-medium text-stone-600"
+            className="text-base font-medium text-stone-600"
           >
             {t("recipeAvailableLanguages")}
           </p>

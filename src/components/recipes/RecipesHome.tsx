@@ -114,7 +114,7 @@ const RecipesHome = ({ feasts, recipes }: RecipesHomeProps) => {
               <span className="text-3xl font-bold text-amber-600">
                 {recipes.length}
               </span>
-              <span className="text-xs text-stone-500">
+              <span className="text-sm text-stone-500">
                 {t("recipesNumber")}
               </span>
             </div>
@@ -122,7 +122,7 @@ const RecipesHome = ({ feasts, recipes }: RecipesHomeProps) => {
               <span className="text-3xl font-bold text-amber-600">
                 {recipeWithCheese}
               </span>
-              <span className="text-xs text-stone-500">
+              <span className="text-sm text-stone-500">
                 {t("recipesWithCheese")}
               </span>
             </div>
@@ -130,7 +130,7 @@ const RecipesHome = ({ feasts, recipes }: RecipesHomeProps) => {
 
           <div className="flex flex-wrap gap-3 pt-2">
             <a
-              className="flex items-center gap-2 rounded-full border border-stone-200 bg-white px-4 py-2 text-sm text-stone-700 transition-colors hover:border-amber-300 hover:text-amber-700"
+              className="flex items-center gap-2 rounded-full border border-stone-200 bg-white px-4 py-2 text-base text-stone-700 transition-colors hover:border-amber-300 hover:text-amber-700"
               href="https://photos.app.goo.gl/yhvnvTkcjudMB88S8"
               target="_blank"
               rel="noopener noreferrer"
@@ -139,7 +139,7 @@ const RecipesHome = ({ feasts, recipes }: RecipesHomeProps) => {
               {t("picturesOfMyDishes")}
             </a>
             <a
-              className="flex items-center gap-2 rounded-full border border-stone-200 bg-white px-4 py-2 text-sm text-stone-700 transition-colors hover:border-amber-300 hover:text-amber-700"
+              className="flex items-center gap-2 rounded-full border border-stone-200 bg-white px-4 py-2 text-base text-stone-700 transition-colors hover:border-amber-300 hover:text-amber-700"
               href="feasts.json"
               target="_blank"
               rel="noopener noreferrer"
@@ -148,7 +148,7 @@ const RecipesHome = ({ feasts, recipes }: RecipesHomeProps) => {
               {t("allFeastsJSON")}
             </a>
             <a
-              className="flex items-center gap-2 rounded-full border border-stone-200 bg-white px-4 py-2 text-sm text-stone-700 transition-colors hover:border-amber-300 hover:text-amber-700"
+              className="flex items-center gap-2 rounded-full border border-stone-200 bg-white px-4 py-2 text-base text-stone-700 transition-colors hover:border-amber-300 hover:text-amber-700"
               href="recipes.json"
               target="_blank"
               rel="noopener noreferrer"

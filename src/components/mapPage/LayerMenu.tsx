@@ -17,7 +17,7 @@ interface LayerMenuProps {
 }
 
 const sectionTitle =
-  "text-xs font-semibold uppercase tracking-wide text-stone-500";
+  "text-sm font-semibold uppercase tracking-wide text-stone-500";
 
 const LayerMenu = ({
   layers,
@@ -60,8 +60,8 @@ const LayerMenu = ({
                 aria-selected={isActive}
                 className={
                   isActive
-                    ? "rounded-xl bg-white px-3 py-2 text-xs font-semibold text-amber-800 shadow-sm"
-                    : "rounded-xl px-3 py-2 text-xs font-semibold text-stone-600 hover:text-stone-900"
+                    ? "rounded-xl bg-white px-3 py-2 text-sm font-semibold text-amber-800 shadow-sm"
+                    : "rounded-xl px-3 py-2 text-sm font-semibold text-stone-600 hover:text-stone-900"
                 }
                 onClick={() => setMobileTab(tab)}
               >
@@ -212,7 +212,7 @@ const LayerMenu = ({
           <h2 className="text-lg font-bold text-stone-900">{t("layers")}</h2>
           {layers.length > 1 && (
             <button
-              className="rounded-full border border-stone-200 bg-white px-3 py-1 text-xs text-stone-600 transition-colors hover:border-amber-300 hover:text-amber-700"
+              className="rounded-full border border-stone-200 bg-white px-3 py-1 text-sm text-stone-600 transition-colors hover:border-amber-300 hover:text-amber-700"
               onClick={() => setLayers((prev) => [prev[0]])}
             >
               {`${t("clearLayers")} (${layers.length - 1})`}
@@ -289,7 +289,7 @@ const LayerMenu = ({
           <h2 className="text-lg font-bold text-stone-900">{t("points")}</h2>
           {pointLayers.length > 0 && (
             <button
-              className="rounded-full border border-stone-200 bg-white px-3 py-1 text-xs text-stone-600 transition-colors hover:border-amber-300 hover:text-amber-700"
+              className="rounded-full border border-stone-200 bg-white px-3 py-1 text-sm text-stone-600 transition-colors hover:border-amber-300 hover:text-amber-700"
               onClick={() => setPointLayers([])}
             >
               {`${t("clearLayers")} (${pointLayers.length})`}
@@ -328,7 +328,7 @@ const LayerMenu = ({
                       ) : (
                         <LuEyeClosed className="h-4 w-4 shrink-0 text-stone-400" />
                       )}
-                      <span className="text-xs font-semibold">
+                      <span className="text-sm font-semibold">
                         {source.name} ({source.points.length})
                       </span>
                     </button>

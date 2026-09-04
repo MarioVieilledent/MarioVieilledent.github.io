@@ -21,7 +21,7 @@ const LanguageOptionButton = ({
 }: LanguageOptionButtonProps) => (
   <button
     type="button"
-    className={`flex cursor-pointer items-center gap-2 rounded-xl px-3 py-2 text-sm whitespace-nowrap transition-colors ${
+    className={`flex cursor-pointer items-center gap-2 rounded-xl px-3 py-2 text-base whitespace-nowrap transition-colors ${
       active
         ? "bg-amber-50 font-semibold text-amber-700"
         : "text-stone-700 hover:bg-stone-100"

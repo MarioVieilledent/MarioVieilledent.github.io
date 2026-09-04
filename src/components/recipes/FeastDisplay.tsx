@@ -69,7 +69,7 @@ const FeastDisplay = ({ feast }: { feast: Feast }) => {
         >
           <p
             id="feast-languages-heading"
-            className="text-sm font-medium text-stone-600"
+            className="text-base font-medium text-stone-600"
           >
             {t("recipeAvailableLanguages")}
           </p>
@@ -104,7 +104,7 @@ const FeastDisplay = ({ feast }: { feast: Feast }) => {
             </h2>
             {details.notes.map((note, index) => (
               <div key={index} className="flex flex-col gap-2">
-                <div className="text-sm font-semibold text-stone-700">
+                <div className="text-base font-semibold text-stone-700">
                   {note.title}
                 </div>
                 <BulletList items={note.description} />

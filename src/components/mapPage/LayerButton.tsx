@@ -66,7 +66,7 @@ const LayerButton = ({
           <LuEyeClosed className="h-4 w-4 shrink-0 text-stone-400" />
         ))}
       <span
-        className={`text-xs ${isSelected ? "font-semibold text-amber-800" : "text-stone-700"}`}
+        className={`text-sm ${isSelected ? "font-semibold text-amber-800" : "text-stone-700"}`}
       >
         {l.name}
       </span>

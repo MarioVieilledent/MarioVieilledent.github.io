@@ -125,7 +125,7 @@ const Recipes = () => {
         <LanguageSelection />
 
         <div className="flex flex-col gap-1">
-          <div className="mb-1 text-xs font-semibold uppercase tracking-wide text-stone-400">
+          <div className="mb-1 text-sm font-semibold uppercase tracking-wide text-stone-400">
             {t("recipes")}
           </div>
           {["home", ...categories].map((tab) => (
@@ -244,7 +244,7 @@ const Recipes = () => {
                   {["home", ...categories].map((tab) => (
                     <Link
                       key={tab}
-                      className={`grow rounded-full px-4 py-2 text-center text-sm whitespace-nowrap transition-colors ${
+                      className={`grow rounded-full px-4 py-2 text-center text-base whitespace-nowrap transition-colors ${
                         isActiveTab(tab)
                           ? "bg-white font-semibold text-amber-700 shadow-sm"
                           : "text-stone-500 hover:text-stone-800"

@@ -53,7 +53,7 @@ const RecipeCard = ({ recipe, setSearch }: RecipeCardProps) => {
           {details.name}
         </div>
         {details.notes && (
-          <div className="text-sm text-stone-500">{details.notes}</div>
+          <div className="text-base text-stone-500">{details.notes}</div>
         )}
 
         <div className="mt-1">

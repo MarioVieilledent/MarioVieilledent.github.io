@@ -60,7 +60,7 @@ const SearchPage = ({
         </div>
         {!isMobile && (
           <button
-            className="shrink-0 rounded-full border border-stone-200 bg-white px-4 py-1.5 text-sm text-stone-600 transition-colors hover:border-amber-300 hover:text-amber-700"
+            className="shrink-0 rounded-full border border-stone-200 bg-white px-4 py-1.5 text-base text-stone-600 transition-colors hover:border-amber-300 hover:text-amber-700"
             onClick={() => setSearch("")}
           >
             {t("clearFilters")}
