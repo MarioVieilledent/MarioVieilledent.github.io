@@ -1,4 +1,4 @@
-import { useTranslation } from "../../utils/TranslationContext";
+import { languages, useTranslation } from "../../utils/TranslationContext";
 import { formatDate } from "../../utils/utils";
 import { RECIPES_PATH } from "../../utils/routes";
 import type { Feast, FeastDetails } from "../../utils/validator";
@@ -6,9 +6,10 @@ import { useIsMobile } from "../../utils/isMobileHook";
 import Ranking from "./Ranking";
 import BulletList from "./BulletList";
 import NavigateTo from "../NavigateTo";
+import LanguageOptionButton from "../LanguageOptionButton";
 
 const FeastDisplay = ({ feast }: { feast: Feast }) => {
-  const { language, t } = useTranslation();
+  const { language, setLanguage, t } = useTranslation();
   const isMobile = useIsMobile();
 
   const details = feast[language as keyof Feast]
@@ -16,6 +17,9 @@ const FeastDisplay = ({ feast }: { feast: Feast }) => {
     : feast.en;
 
   const [heroPicture, ...galleryPictures] = feast.pictures;
+  const availableLanguages = languages.filter(({ code }) =>
+    Boolean(feast[code as keyof Feast]),
+  );
 
   return (
     <div className="flex flex-col gap-8">
@@ -58,6 +62,30 @@ const FeastDisplay = ({ feast }: { feast: Feast }) => {
           </h1>
           <Ranking ranking={feast.ranking} />
         </div>
+
+        <section
+          className="flex flex-col gap-3 rounded-2xl border border-stone-200 bg-white p-4 shadow-sm md:p-5"
+          aria-labelledby="feast-languages-heading"
+        >
+          <p
+            id="feast-languages-heading"
+            className="text-sm font-medium text-stone-600"
+          >
+            {t("recipeAvailableLanguages")}
+          </p>
+          <ul className="flex flex-wrap gap-1">
+            {availableLanguages.map((option) => (
+              <li key={option.code}>
+                <LanguageOptionButton
+                  option={option}
+                  active={option.code === language}
+                  aria-pressed={option.code === language}
+                  onClick={() => setLanguage(option.code)}
+                />
+              </li>
+            ))}
+          </ul>
+        </section>
 
         <section className="flex flex-col gap-3 rounded-2xl border border-stone-200 bg-white p-6 shadow-sm">
           <h2 className="text-xl font-semibold text-stone-900">{t("idea")}</h2>
