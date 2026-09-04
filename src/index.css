@@ -36,18 +36,6 @@ html:lang(ka) body,
   height: 100dvh;
 }
 
-h1 {
-  font-size: 26px;
-}
-
-h2 {
-  font-size: 22px;
-}
-
-h3 {
-  font-size: 18px;
-}
-
 button {
   cursor: pointer;
 }

@@ -35,7 +35,9 @@ const Menu = () => {
           alt="Website logo"
         />
         <div className="flex flex-col gap-1">
-          <h1 className="font-bold text-stone-900">{t("title")}</h1>
+          <h1 className="text-2xl font-bold text-stone-900">
+            {t("title")}
+          </h1>
           <span className="text-sm text-stone-500">
             {t("websiteDescription")}
           </span>
