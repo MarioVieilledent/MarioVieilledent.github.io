@@ -57,7 +57,7 @@ const BulletList = ({
     <div className="flex flex-col gap-4">
       {(items as BulletGroup[]).map((group) => (
         <div key={group.part}>
-          <div className="mb-1.5 text-sm font-semibold uppercase tracking-wide text-stone-500">
+          <div className="script-label mb-1.5 text-sm font-semibold text-stone-500">
             {group.part}
           </div>
           <PlainList items={group.items} maxItems={maxItems} ordered={ordered} />

@@ -17,7 +17,7 @@ interface LayerMenuProps {
 }
 
 const sectionTitle =
-  "text-sm font-semibold uppercase tracking-wide text-stone-500";
+  "script-label text-sm font-semibold text-stone-500";
 
 const LayerMenu = ({
   layers,

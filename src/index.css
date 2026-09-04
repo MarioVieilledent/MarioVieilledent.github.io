@@ -36,6 +36,20 @@ html:lang(ka) body,
   height: 100dvh;
 }
 
+.script-label {
+  letter-spacing: 0.025em;
+  text-transform: uppercase;
+}
+
+.script-label:lang(ar),
+.script-label:lang(hi),
+.script-label:lang(ja),
+.script-label:lang(zh),
+.script-label:lang(ka) {
+  letter-spacing: normal;
+  text-transform: none;
+}
+
 button {
   cursor: pointer;
 }

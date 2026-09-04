@@ -125,7 +125,7 @@ const Recipes = () => {
         <LanguageSelection />
 
         <div className="flex flex-col gap-1">
-          <div className="mb-1 text-sm font-semibold uppercase tracking-wide text-stone-400">
+          <div className="script-label mb-1 text-sm font-semibold text-stone-400">
             {t("recipes")}
           </div>
           {["home", ...categories].map((tab) => (
