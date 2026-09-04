@@ -1,11 +1,18 @@
+import {
+  getLanguageDirection,
+  type LanguagesAvailable,
+} from "../../utils/TranslationContext";
+
 export type BulletGroup = { part: string; items: string[] };
 
 const PlainList = ({
   items,
+  language,
   maxItems,
   ordered,
 }: {
   items: string[];
+  language: LanguagesAvailable;
   maxItems?: number;
   ordered?: boolean;
 }) => {
@@ -13,7 +20,11 @@ const PlainList = ({
   const remaining = maxItems ? items.length - maxItems : 0;
 
   return (
-    <ul className="flex flex-col gap-2">
+    <ul
+      className="flex flex-col gap-2"
+      lang={language}
+      dir={getLanguageDirection(language)}
+    >
       {visible.map((item, index) => (
         <li
           key={index}
@@ -38,10 +49,12 @@ const PlainList = ({
 
 const BulletList = ({
   items,
+  language,
   maxItems,
   ordered,
 }: {
   items: string[] | BulletGroup[];
+  language: LanguagesAvailable;
   maxItems?: number;
   ordered?: boolean;
 }) => {
@@ -49,18 +62,32 @@ const BulletList = ({
 
   if (!isGrouped) {
     return (
-      <PlainList items={items as string[]} maxItems={maxItems} ordered={ordered} />
+      <PlainList
+        items={items as string[]}
+        language={language}
+        maxItems={maxItems}
+        ordered={ordered}
+      />
     );
   }
 
   return (
-    <div className="flex flex-col gap-4">
+    <div
+      className="flex flex-col gap-4"
+      lang={language}
+      dir={getLanguageDirection(language)}
+    >
       {(items as BulletGroup[]).map((group) => (
         <div key={group.part}>
           <div className="script-label mb-1.5 text-sm font-semibold text-stone-500">
             {group.part}
           </div>
-          <PlainList items={group.items} maxItems={maxItems} ordered={ordered} />
+          <PlainList
+            items={group.items}
+            language={language}
+            maxItems={maxItems}
+            ordered={ordered}
+          />
         </div>
       ))}
     </div>

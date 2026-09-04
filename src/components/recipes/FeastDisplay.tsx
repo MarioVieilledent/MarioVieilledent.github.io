@@ -1,4 +1,8 @@
-import { languages, useTranslation } from "../../utils/TranslationContext";
+import {
+  getLanguageDirection,
+  languages,
+  useTranslation,
+} from "../../utils/TranslationContext";
 import { formatDate } from "../../utils/utils";
 import { RECIPES_PATH } from "../../utils/routes";
 import type { Feast, FeastDetails } from "../../utils/validator";
@@ -12,9 +16,11 @@ const FeastDisplay = ({ feast }: { feast: Feast }) => {
   const { language, setLanguage, t } = useTranslation();
   const isMobile = useIsMobile();
 
-  const details = feast[language as keyof Feast]
-    ? (feast[language as keyof Feast] as FeastDetails)
-    : feast.en;
+  const localizedDetails = feast[language as keyof Feast] as
+    | FeastDetails
+    | undefined;
+  const details = localizedDetails ?? feast.en;
+  const detailsLanguage = localizedDetails ? language : "en";
 
   const [heroPicture, ...galleryPictures] = feast.pictures;
   const availableLanguages = languages.filter(({ code }) =>
@@ -57,7 +63,11 @@ const FeastDisplay = ({ feast }: { feast: Feast }) => {
             <span>·</span>
             <span>{formatDate(feast.date, language)}</span>
           </div>
-          <h1 className="text-3xl font-bold tracking-tight text-stone-900 md:text-5xl">
+          <h1
+            className="text-3xl leading-[1.25] font-bold tracking-tight text-stone-900 md:text-5xl"
+            lang={detailsLanguage}
+            dir={getLanguageDirection(detailsLanguage)}
+          >
             {details.name}
           </h1>
           <Ranking ranking={feast.ranking} />
@@ -89,12 +99,12 @@ const FeastDisplay = ({ feast }: { feast: Feast }) => {
 
         <section className="flex flex-col gap-3 rounded-2xl border border-stone-200 bg-white p-6 shadow-sm">
           <h2 className="text-xl font-semibold text-stone-900">{t("idea")}</h2>
-          <BulletList items={details.idea} />
+          <BulletList items={details.idea} language={detailsLanguage} />
         </section>
 
         <section className="flex flex-col gap-3 rounded-2xl border border-stone-200 bg-white p-6 shadow-sm">
           <h2 className="text-xl font-semibold text-stone-900">{t("menu")}</h2>
-          <BulletList items={details.menu} />
+          <BulletList items={details.menu} language={detailsLanguage} />
         </section>
 
         {details.notes.length > 0 && (
@@ -103,11 +113,19 @@ const FeastDisplay = ({ feast }: { feast: Feast }) => {
               {t("notes")}
             </h2>
             {details.notes.map((note, index) => (
-              <div key={index} className="flex flex-col gap-2">
+              <div
+                key={index}
+                className="flex flex-col gap-2"
+                lang={detailsLanguage}
+                dir={getLanguageDirection(detailsLanguage)}
+              >
                 <div className="text-base font-semibold text-stone-700">
                   {note.title}
                 </div>
-                <BulletList items={note.description} />
+                <BulletList
+                  items={note.description}
+                  language={detailsLanguage}
+                />
               </div>
             ))}
           </section>

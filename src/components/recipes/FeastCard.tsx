@@ -1,6 +1,9 @@
 import { useNavigate } from "react-router";
 import { RECIPES_PATH } from "../../utils/routes";
-import { useTranslation } from "../../utils/TranslationContext";
+import {
+  getLanguageDirection,
+  useTranslation,
+} from "../../utils/TranslationContext";
 import { formatDate } from "../../utils/utils";
 import type { Feast, FeastDetails } from "../../utils/validator";
 import type { Dispatch, SetStateAction } from "react";
@@ -16,9 +19,11 @@ const FeastCard = ({ feast, setSearch }: FeastCardProps) => {
   const { language } = useTranslation();
   const navigate = useNavigate();
 
-  const details = feast[language as keyof Feast]
-    ? (feast[language as keyof Feast] as FeastDetails)
-    : feast.en;
+  const localizedDetails = feast[language as keyof Feast] as
+    | FeastDetails
+    | undefined;
+  const details = localizedDetails ?? feast.en;
+  const detailsLanguage = localizedDetails ? language : "en";
 
   return (
     <div
@@ -51,7 +56,11 @@ const FeastCard = ({ feast, setSearch }: FeastCardProps) => {
               src={`/flags/${feast.countryCode}.svg`}
               alt="Feast flag icon"
             />
-            <div className="truncate text-lg font-semibold text-stone-900">
+            <div
+              className="truncate text-lg font-semibold text-stone-900"
+              lang={detailsLanguage}
+              dir={getLanguageDirection(detailsLanguage)}
+            >
               {details.name}
             </div>
           </div>
@@ -62,7 +71,11 @@ const FeastCard = ({ feast, setSearch }: FeastCardProps) => {
           <span>{formatDate(feast.date, language)}</span>
         </div>
 
-        <BulletList items={details.menu} maxItems={4} />
+        <BulletList
+          items={details.menu}
+          language={detailsLanguage}
+          maxItems={4}
+        />
       </div>
     </div>
   );

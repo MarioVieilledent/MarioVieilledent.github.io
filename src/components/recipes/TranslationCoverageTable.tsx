@@ -4,6 +4,7 @@ import { useNavigate } from "react-router";
 import { LANGUAGE_QUERY_PARAM } from "../../utils/constants";
 import {
   languages,
+  getLanguageDirection,
   useTranslation,
   type LanguagesAvailable,
 } from "../../utils/TranslationContext";
@@ -109,6 +110,9 @@ const TranslationCoverageTable = ({
           <tbody>
             {rows.map((row) => {
               const rowIsHovered = hoveredCell?.row === row.id;
+              const rowLanguage = hasTranslation(row.source, language)
+                ? language
+                : "en";
 
               return (
                 <tr
@@ -122,10 +126,18 @@ const TranslationCoverageTable = ({
                     }`}
                   >
                     <div className="flex min-w-0 flex-col items-start gap-1">
-                      <span className="w-full break-words whitespace-normal font-medium text-stone-800">
+                      <span
+                        className="w-full break-words whitespace-normal font-medium text-stone-800"
+                        lang={rowLanguage}
+                        dir={getLanguageDirection(rowLanguage)}
+                      >
                         {row.label}
                       </span>
-                      <span className="rounded-full bg-stone-100 px-2 py-0.5 text-[10px] font-semibold uppercase tracking-wide text-stone-500">
+                      <span
+                        className="rounded-full bg-stone-100 px-2 py-0.5 text-[10px] font-semibold uppercase tracking-wide text-stone-500"
+                        lang="en"
+                        dir="ltr"
+                      >
                         {row.kind}
                       </span>
                     </div>

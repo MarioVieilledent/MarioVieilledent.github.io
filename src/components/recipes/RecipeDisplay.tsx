@@ -1,5 +1,9 @@
 import { useIsMobile } from "../../utils/isMobileHook";
-import { languages, useTranslation } from "../../utils/TranslationContext";
+import {
+  getLanguageDirection,
+  languages,
+  useTranslation,
+} from "../../utils/TranslationContext";
 import { RECIPES_PATH } from "../../utils/routes";
 import type { Recipe, RecipeDetails } from "../../utils/validator";
 import LanguageOptionButton from "../LanguageOptionButton";
@@ -10,9 +14,11 @@ const RecipeDisplay = ({ recipe }: { recipe: Recipe }) => {
   const { language, setLanguage, t } = useTranslation();
   const isMobile = useIsMobile();
 
-  const details = recipe[language as keyof Recipe]
-    ? (recipe[language as keyof Recipe] as RecipeDetails)
-    : recipe.en;
+  const localizedDetails = recipe[language as keyof Recipe] as
+    | RecipeDetails
+    | undefined;
+  const details = localizedDetails ?? recipe.en;
+  const detailsLanguage = localizedDetails ? language : "en";
 
   const ingredients =
     typeof details.ingredients[0] === "string"
@@ -60,8 +66,12 @@ const RecipeDisplay = ({ recipe }: { recipe: Recipe }) => {
       >
         <NavigateTo location={`${RECIPES_PATH}/${recipe.category}`} />
 
-        <div className="text-center">
-          <h1 className="text-3xl font-bold tracking-tight text-stone-900 md:text-5xl">
+        <div
+          className="text-center"
+          lang={detailsLanguage}
+          dir={getLanguageDirection(detailsLanguage)}
+        >
+          <h1 className="text-3xl leading-[1.25] font-bold tracking-tight text-stone-900 md:text-5xl">
             {details.name}
           </h1>
           {details.notes && (
@@ -97,14 +107,14 @@ const RecipeDisplay = ({ recipe }: { recipe: Recipe }) => {
           <h2 className="text-xl font-semibold text-stone-900">
             {t("ingredients")}
           </h2>
-          <BulletList items={ingredients} />
+          <BulletList items={ingredients} language={detailsLanguage} />
         </section>
 
         <section className="flex flex-col gap-3 rounded-2xl border border-stone-200 bg-white p-6 shadow-sm">
           <h2 className="text-xl font-semibold text-stone-900">
             {t("instructions")}
           </h2>
-          <BulletList items={instructions} ordered />
+          <BulletList items={instructions} language={detailsLanguage} ordered />
         </section>
 
         {galleryPictures.length > 0 && (

@@ -1,5 +1,8 @@
 import { useNavigate } from "react-router";
-import { useTranslation } from "../../utils/TranslationContext";
+import {
+  getLanguageDirection,
+  useTranslation,
+} from "../../utils/TranslationContext";
 import { RECIPES_PATH } from "../../utils/routes";
 import type { Recipe, RecipeDetails } from "../../utils/validator";
 import type { Dispatch, SetStateAction } from "react";
@@ -14,9 +17,11 @@ const RecipeCard = ({ recipe, setSearch }: RecipeCardProps) => {
   const { language } = useTranslation();
   const navigate = useNavigate();
 
-  const details = recipe[language as keyof Recipe]
-    ? (recipe[language as keyof Recipe] as RecipeDetails)
-    : recipe.en;
+  const localizedDetails = recipe[language as keyof Recipe] as
+    | RecipeDetails
+    | undefined;
+  const details = localizedDetails ?? recipe.en;
+  const detailsLanguage = localizedDetails ? language : "en";
 
   const ingredients =
     typeof details.ingredients[0] === "string"
@@ -48,7 +53,11 @@ const RecipeCard = ({ recipe, setSearch }: RecipeCardProps) => {
           className="aspect-[4/3] w-full object-contain bg-stone-50 p-8"
         />
       )}
-      <div className="flex grow flex-col gap-2 p-5">
+      <div
+        className="flex grow flex-col gap-2 p-5"
+        lang={detailsLanguage}
+        dir={getLanguageDirection(detailsLanguage)}
+      >
         <div className="text-lg font-semibold text-stone-900">
           {details.name}
         </div>
@@ -57,7 +66,11 @@ const RecipeCard = ({ recipe, setSearch }: RecipeCardProps) => {
         )}
 
         <div className="mt-1">
-          <BulletList items={ingredients} maxItems={4} />
+          <BulletList
+            items={ingredients}
+            language={detailsLanguage}
+            maxItems={4}
+          />
         </div>
       </div>
     </div>
