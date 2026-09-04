@@ -5,6 +5,7 @@ import {
 } from "../utils/constants";
 import {
   TranslationContext,
+  getLanguageDirection,
   isLanguageAvailable,
   type LanguagesAvailable,
 } from "../utils/TranslationContext";
@@ -30,6 +31,8 @@ export const TranslationProvider = ({ children }: { children: ReactNode }) => {
   );
 
   useEffect(() => {
+    document.documentElement.lang = language;
+    document.documentElement.dir = getLanguageDirection(language);
     window.localStorage.setItem(LOCAL_STORAGE_LANGUAGE_KEY, language);
     setURLParam(LANGUAGE_QUERY_PARAM, language);
   }, [language]);

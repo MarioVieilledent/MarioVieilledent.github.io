@@ -134,3 +134,7 @@ export const isLanguageAvailable = (
   value: string,
 ): value is LanguagesAvailable =>
   languages.some((language) => language.code === value);
+
+export const getLanguageDirection = (
+  language: LanguagesAvailable,
+): "ltr" | "rtl" => (language === "ar" ? "rtl" : "ltr");
