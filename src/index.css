@@ -1,8 +1,34 @@
-@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100..900&family=Noto+Sans+SC:wght@100..900&family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+Arabic:wght@100..900&family=Noto+Sans+Devanagari:wght@100..900&family=Noto+Sans+Georgian:wght@100..900&family=Noto+Sans+JP:wght@100..900&family=Noto+Sans+SC:wght@100..900&family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap");
 @import "tailwindcss";
 
-body {
-  font-family: "Noto Sans", "Noto Sans JP", "Noto Sans SC";
+body,
+[lang] {
+  font-family: "Noto Sans", sans-serif;
+}
+
+html:lang(ar) body,
+[lang="ar"] {
+  font-family: "Noto Sans Arabic", "Noto Sans", sans-serif;
+}
+
+html:lang(hi) body,
+[lang="hi"] {
+  font-family: "Noto Sans Devanagari", "Noto Sans", sans-serif;
+}
+
+html:lang(ja) body,
+[lang="ja"] {
+  font-family: "Noto Sans JP", "Noto Sans", sans-serif;
+}
+
+html:lang(zh) body,
+[lang="zh"] {
+  font-family: "Noto Sans SC", "Noto Sans", sans-serif;
+}
+
+html:lang(ka) body,
+[lang="ka"] {
+  font-family: "Noto Sans Georgian", "Noto Sans", sans-serif;
 }
 
 #root {

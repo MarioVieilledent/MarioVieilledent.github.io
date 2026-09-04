@@ -33,7 +33,7 @@ const LanguageOptionButton = ({
       src={`/flags/${option.countryCode}.svg`}
       alt=""
     />
-    <span>{option.name}</span>
+    <span lang={option.code}>{option.name}</span>
   </button>
 );
 
