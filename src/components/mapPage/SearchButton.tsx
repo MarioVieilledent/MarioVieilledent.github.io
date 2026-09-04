@@ -49,7 +49,7 @@ const SearchButton = ({ flyTo }: SearchButtonProps) => {
   return (
     <form
       onSubmit={handleSearch}
-      className={`fixed top-4 left-20 z-50 ${
+      className={`fixed top-4 start-20 z-50 ${
         isFocused ? "w-84 max-w-[calc(100%-10rem)] gap-4" : "w-12"
       } flex h-12 items-center justify-center rounded-full border border-stone-200 bg-white p-4 shadow-lg transition-all duration-200 hover:shadow-xl focus-within:ring-2 focus-within:ring-amber-400`}
       onFocus={() => setIsFocused(true)}
@@ -61,6 +61,7 @@ const SearchButton = ({ flyTo }: SearchButtonProps) => {
       }}
     >
       <input
+        dir="auto"
         ref={inputRef}
         className={`${isFocused ? "w-full" : "w-0"} text-stone-800 focus:outline-none`}
         type="text"

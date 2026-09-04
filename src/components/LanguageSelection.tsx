@@ -11,7 +11,7 @@ const LanguageSelection = () => {
   return (
     <div className="relative">
       <button
-        className="flex cursor-pointer items-center gap-2 rounded-full py-1.5 pr-3 pl-1.5 text-stone-600 transition-colors hover:bg-stone-100 hover:text-stone-900"
+        className="flex cursor-pointer items-center gap-2 rounded-full py-1.5 pe-3 ps-1.5 text-stone-600 transition-colors hover:bg-stone-100 hover:text-stone-900"
         onClick={() => setOpen(!open)}
         aria-haspopup="listbox"
         aria-expanded={open}
@@ -29,7 +29,7 @@ const LanguageSelection = () => {
       {open && (
         <ul
           role="listbox"
-          className="absolute z-10 mt-1 min-w-44 max-h-120 origin-top-left animate-[float-in_150ms_ease-out] overflow-auto rounded-2xl border border-stone-200 bg-white p-1.5 shadow-lg"
+          className="absolute z-10 mt-1 min-w-44 max-h-120 origin-top-left animate-[float-in_150ms_ease-out] overflow-auto rounded-2xl border border-stone-200 bg-white p-1.5 shadow-lg rtl:origin-top-right"
         >
           {languages.map((lang) => (
             <li

@@ -1,5 +1,8 @@
 import type { ButtonHTMLAttributes } from "react";
-import type { LanguagesAvailable } from "../utils/TranslationContext";
+import {
+  getLanguageDirection,
+  type LanguagesAvailable,
+} from "../utils/TranslationContext";
 
 interface LanguageOption {
   code: LanguagesAvailable;
@@ -33,7 +36,12 @@ const LanguageOptionButton = ({
       src={`/flags/${option.countryCode}.svg`}
       alt=""
     />
-    <span lang={option.code}>{option.name}</span>
+    <span
+      lang={option.code}
+      dir={getLanguageDirection(option.code)}
+    >
+      {option.name}
+    </span>
   </button>
 );
 

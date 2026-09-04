@@ -36,11 +36,11 @@ const LayerMenu = ({
   return (
     <Float
       Icon={LuLayers2}
-      buttonClassName={`fixed top-4 right-4 z-50 ${FLOATING_BUTTON_BASE}`}
+      buttonClassName={`fixed top-4 end-4 z-50 ${FLOATING_BUTTON_BASE}`}
       containerClassName={`fixed z-40 max-w-[calc(100%-2rem)] rounded-3xl border border-stone-200 bg-white flex items-stretch shadow-xl transition-all max-h-[calc(100vh-8rem)] ${
         isMobile
-          ? "top-20 right-4 left-4 z-[60] max-w-none p-3 gap-3 flex-col items-stretch"
-          : "top-4 right-20 p-5 gap-5"
+          ? "top-20 end-4 start-4 z-[60] max-w-none p-3 gap-3 flex-col items-stretch"
+          : "top-4 end-20 p-5 gap-5"
       }`}
     >
       {isMobile && (
@@ -215,7 +215,7 @@ const LayerMenu = ({
               className="rounded-full border border-stone-200 bg-white px-3 py-1 text-sm text-stone-600 transition-colors hover:border-amber-300 hover:text-amber-700"
               onClick={() => setLayers((prev) => [prev[0]])}
             >
-              {`${t("clearLayers")} (${layers.length - 1})`}
+              {t("clearLayers")} <bdi>{`(${layers.length - 1})`}</bdi>
             </button>
           )}
         </div>
@@ -292,7 +292,7 @@ const LayerMenu = ({
               className="rounded-full border border-stone-200 bg-white px-3 py-1 text-sm text-stone-600 transition-colors hover:border-amber-300 hover:text-amber-700"
               onClick={() => setPointLayers([])}
             >
-              {`${t("clearLayers")} (${pointLayers.length})`}
+              {t("clearLayers")} <bdi>{`(${pointLayers.length})`}</bdi>
             </button>
           )}
         </div>
@@ -310,7 +310,7 @@ const LayerMenu = ({
                       key={source.name}
                       type="button"
                       aria-pressed={isSelected}
-                      className={`flex items-center gap-2 rounded-xl px-3 py-2 text-left transition-colors ${isSelected ? "bg-amber-50 text-amber-800 ring-1 ring-amber-300" : "text-stone-700 hover:bg-stone-100"}`}
+                      className={`flex items-center gap-2 rounded-xl px-3 py-2 text-start transition-colors ${isSelected ? "bg-amber-50 text-amber-800 ring-1 ring-amber-300" : "text-stone-700 hover:bg-stone-100"}`}
                       onClick={() =>
                         setPointLayers((prev) =>
                           prev.includes(source.name)
@@ -328,7 +328,11 @@ const LayerMenu = ({
                       ) : (
                         <LuEyeClosed className="h-4 w-4 shrink-0 text-stone-400" />
                       )}
-                      <span className="text-sm font-semibold">
+                      <span
+                        className="text-sm font-semibold"
+                        lang="en"
+                        dir="ltr"
+                      >
                         {source.name} ({source.points.length})
                       </span>
                     </button>
@@ -342,6 +346,8 @@ const LayerMenu = ({
           href="https://www.openstreetmap.org/copyright"
           target="_blank"
           rel="noreferrer"
+          lang="en"
+          dir="ltr"
         >
           Data © OpenStreetMap contributors
         </a>

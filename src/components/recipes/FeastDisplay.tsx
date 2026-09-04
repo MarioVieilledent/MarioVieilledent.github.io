@@ -59,9 +59,9 @@ const FeastDisplay = ({ feast }: { feast: Feast }) => {
               src={`/flags/${feast.countryCode}.svg`}
               alt="Feast flag icon"
             />
-            <span>{`#${feast.mealNumber}`}</span>
+            <bdi>{`#${feast.mealNumber}`}</bdi>
             <span>·</span>
-            <span>{formatDate(feast.date, language)}</span>
+            <bdi>{formatDate(feast.date, language)}</bdi>
           </div>
           <h1
             className="text-3xl leading-[1.25] font-bold tracking-tight text-stone-900 md:text-5xl"

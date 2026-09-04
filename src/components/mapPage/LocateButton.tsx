@@ -49,7 +49,7 @@ const LocateButton = ({ onLocate }: LocateButtonProps) => {
       onClick={handleClick}
       aria-label="Locate me"
       title="Locate me"
-      className={`fixed right-4 bottom-4 z-50 ${FLOATING_BUTTON_BASE} ${FLOATING_BUTTON_INTERACTIVE}`}
+      className={`fixed end-4 bottom-4 z-50 ${FLOATING_BUTTON_BASE} ${FLOATING_BUTTON_INTERACTIVE}`}
     >
       {status === "locating" && (
         <LuLoaderCircle className="h-6 w-6 animate-spin text-amber-500" />

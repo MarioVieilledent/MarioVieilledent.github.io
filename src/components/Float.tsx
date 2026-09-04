@@ -55,7 +55,7 @@ const Float = ({
       {open && (
         <div
           ref={divRef}
-          className={`${containerClassName} origin-top-left animate-[float-in_150ms_ease-out]`}
+          className={`${containerClassName} origin-top-left animate-[float-in_150ms_ease-out] rtl:origin-top-right`}
         >
           {children}
         </div>

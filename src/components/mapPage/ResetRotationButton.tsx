@@ -16,7 +16,7 @@ const ResetRotationButton = ({
   return (
     <button
       onClick={resetRotation}
-      className={`fixed top-36 right-4 z-50 ${FLOATING_BUTTON_BASE} ${FLOATING_BUTTON_INTERACTIVE}`}
+      className={`fixed top-36 end-4 z-50 ${FLOATING_BUTTON_BASE} ${FLOATING_BUTTON_INTERACTIVE}`}
     >
       <LuMoveUp
         className="h-6 w-6 text-stone-700"

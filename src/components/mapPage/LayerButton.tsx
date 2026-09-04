@@ -29,7 +29,7 @@ const LayerButton = ({
     <div
       key={l.name}
       title={isUnavailable ? t("notAvailableIn3D") : undefined}
-      className={`flex items-center gap-2 rounded-xl py-1 pr-3 transition-colors ${
+      className={`flex items-center gap-2 rounded-xl py-1 pe-3 transition-colors ${
         isUnavailable
           ? "cursor-not-allowed opacity-40"
           : "cursor-pointer"
@@ -67,6 +67,8 @@ const LayerButton = ({
         ))}
       <span
         className={`text-sm ${isSelected ? "font-semibold text-amber-800" : "text-stone-700"}`}
+        lang="en"
+        dir="ltr"
       >
         {l.name}
       </span>

@@ -14,7 +14,7 @@ const Ranking = ({ ranking }: { ranking: number | undefined }) => {
       <div
         className={`shrink-0 rounded-full px-3 py-1 text-sm font-semibold ${rankingColorClasses(ranking)}`}
       >
-        {`${ranking}/10`}
+        <bdi dir="ltr">{`${ranking}/10`}</bdi>
       </div>
     );
   }

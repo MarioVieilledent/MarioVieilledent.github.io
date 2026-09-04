@@ -108,8 +108,8 @@ const Recipes = () => {
         />
       )}
       <div
-        className={`fixed top-0 left-0 z-50 flex h-full w-4/5 max-w-xs flex-col gap-8 bg-white p-6 shadow-2xl transition-transform duration-200 ${
-          phoneDrawer ? "translate-x-0" : "-translate-x-full"
+        className={`fixed top-0 start-0 z-50 flex h-full w-4/5 max-w-xs flex-col gap-8 bg-white p-6 shadow-2xl transition-transform duration-200 ${
+          phoneDrawer ? "translate-x-0" : "-translate-x-full rtl:translate-x-full"
         }`}
       >
         <div className="flex items-center justify-between">
@@ -151,7 +151,7 @@ const Recipes = () => {
   );
 
   return (
-    <div className="min-h-screen bg-stone-50">
+    <div className="min-h-screen overflow-x-hidden bg-stone-50">
       <PhoneDrawer />
 
       <div className="sticky top-0 z-30 border-b border-stone-200 bg-white/90 backdrop-blur-sm">

@@ -54,9 +54,9 @@ const SearchPage = ({
         className={`flex items-center justify-between gap-4 ${isMobile ? "px-4" : ""}`}
       >
         <div className="text-stone-600">
-          {`"${search}" — ${
-            matchingRecipes.length + matchingFeasts.length
-          } ${t("restultsFound")}`}
+          &quot;<bdi dir="auto">{search}</bdi>&quot; —{" "}
+          <bdi>{matchingRecipes.length + matchingFeasts.length}</bdi>{" "}
+          {t("restultsFound")}
         </div>
         {!isMobile && (
           <button

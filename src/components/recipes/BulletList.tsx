@@ -41,7 +41,7 @@ const PlainList = ({
         </li>
       ))}
       {remaining > 0 && (
-        <li className="pl-3 text-xs text-stone-400">{`+${remaining} more`}</li>
+        <li className="ps-3 text-xs text-stone-400">{`+${remaining} more`}</li>
       )}
     </ul>
   );

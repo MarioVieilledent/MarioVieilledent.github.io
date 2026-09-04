@@ -67,8 +67,8 @@ const FeastCard = ({ feast, setSearch }: FeastCardProps) => {
           <Ranking ranking={feast.ranking} />
         </div>
         <div className="flex items-center justify-between text-xs text-stone-500">
-          <span className="font-medium text-stone-700">{`#${feast.mealNumber}`}</span>
-          <span>{formatDate(feast.date, language)}</span>
+          <bdi className="font-medium text-stone-700">{`#${feast.mealNumber}`}</bdi>
+          <bdi>{formatDate(feast.date, language)}</bdi>
         </div>
 
         <BulletList

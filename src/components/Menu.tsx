@@ -25,8 +25,8 @@ const Menu = () => {
   return (
     <Float
       Icon={LuMenu}
-      buttonClassName={`fixed top-4 left-4 z-50 ${FLOATING_BUTTON_BASE}`}
-      containerClassName="fixed top-20 left-4 z-40 w-[calc(100%-2rem)] max-w-128 rounded-3xl border border-stone-200 bg-white flex flex-col justify-start gap-6 shadow-xl p-6"
+      buttonClassName={`fixed top-4 start-4 z-50 ${FLOATING_BUTTON_BASE}`}
+      containerClassName="fixed top-20 start-4 z-40 w-[calc(100%-2rem)] max-w-128 rounded-3xl border border-stone-200 bg-white flex flex-col justify-start gap-6 shadow-xl p-6"
     >
       <div className="flex items-center gap-4">
         <img
@@ -66,6 +66,8 @@ const Menu = () => {
           href="https://github.com/MarioVieilledent/MarioVieilledent.github.io"
           target="_blank"
           rel="noopener noreferrer"
+          lang="en"
+          dir="ltr"
         >
           <LuGithub size="20" />
           GitHub
@@ -75,6 +77,8 @@ const Menu = () => {
           href="Industrial_Society_and_Its_Future.html"
           target="_blank"
           rel="noopener noreferrer"
+          lang="en"
+          dir="ltr"
         >
           <LuBook size="20" />
           Industrial Society and Its Future

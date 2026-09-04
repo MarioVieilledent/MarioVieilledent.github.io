@@ -81,11 +81,11 @@ const TranslationCoverageTable = ({
         <p className="mt-1 text-base text-stone-500">{t("translationCoverageDescription")}</p>
       </div>
 
-      <div className="rounded-2xl border border-stone-200 bg-white shadow-sm">
+      <div className="overflow-x-auto rounded-2xl border border-stone-200 bg-white shadow-sm">
         <table className="w-full border-collapse text-sm">
           <thead>
             <tr className="border-b border-stone-200">
-              <th className="sticky top-16 left-0 z-30 w-44 max-w-44 bg-stone-50 px-3 py-3 text-left font-semibold text-stone-700 md:top-28">
+              <th className="sticky top-16 start-0 z-30 w-44 max-w-44 bg-stone-50 px-3 py-3 text-start font-semibold text-stone-700 md:top-28">
                 {t("feastOrRecipe")}
               </th>
               {languages.map((item) => (
@@ -121,7 +121,7 @@ const TranslationCoverageTable = ({
                 >
                   <th
                     scope="row"
-                    className={`sticky left-0 z-10 w-44 max-w-44 px-3 py-2.5 text-left transition-colors ${
+                    className={`sticky start-0 z-10 w-44 max-w-44 px-3 py-2.5 text-start transition-colors ${
                       rowIsHovered ? "bg-amber-100" : "bg-white"
                     }`}
                   >
