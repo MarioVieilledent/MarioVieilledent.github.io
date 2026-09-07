@@ -1,6 +1,6 @@
 import { useEffect, useMemo, useState } from "react";
 import { turkishWords } from "../turkishWords";
-import Home from "../components/Home";
+import Navbar from "../components/Navbar";
 
 type WordStats = {
   correct: number;
@@ -97,68 +97,70 @@ export default function TurkishFlashcards() {
   };
 
   return (
-    <div className="mx-auto max-w-xl p-6">
-      <Home />
-      <div className="rounded-2xl border bg-white p-8 shadow">
-        <div className="mb-2 text-sm text-gray-500">
-          {current.direction === "tr-to-en"
-            ? "Translate to English"
-            : "Translate to Turkish"}
-        </div>
-
-        <div className="mb-6 text-center text-4xl font-bold">{prompt}</div>
-
-        <div className="mb-6 flex justify-center gap-4 text-sm">
-          <div className="rounded bg-green-100 px-3 py-1 text-green-800">
-            Correct: {currentStats.correct}
+    <div className="min-h-screen bg-stone-50">
+      <Navbar />
+      <main className="mx-auto max-w-xl p-6">
+        <div className="rounded-2xl border bg-white p-8 shadow">
+          <div className="mb-2 text-sm text-gray-500">
+            {current.direction === "tr-to-en"
+              ? "Translate to English"
+              : "Translate to Turkish"}
           </div>
 
-          <div className="rounded bg-red-100 px-3 py-1 text-red-800">
-            Wrong: {currentStats.wrong}
-          </div>
-        </div>
+          <div className="mb-6 text-center text-4xl font-bold">{prompt}</div>
 
-        <form onSubmit={submit} className="space-y-4">
-          <input
-            autoFocus
-            value={answer}
-            onChange={(e) => setAnswer(e.target.value)}
-            placeholder="Your translation..."
-            className="w-full rounded-lg border px-4 py-3 outline-none focus:ring-2"
-          />
+          <div className="mb-6 flex justify-center gap-4 text-sm">
+            <div className="rounded bg-green-100 px-3 py-1 text-green-800">
+              Correct: {currentStats.correct}
+            </div>
 
-          <button
-            type="submit"
-            className="w-full rounded-lg bg-blue-600 px-4 py-3 font-medium text-white hover:bg-blue-700"
-          >
-            Check answer
-          </button>
-        </form>
-
-        {feedback === "correct" && (
-          <div className="mt-6 rounded-lg bg-green-100 p-4 text-green-800">
-            Correct!
-          </div>
-        )}
-
-        {feedback === "wrong" && (
-          <div className="mt-6 rounded-lg bg-red-100 p-4 text-red-800">
-            Wrong.
-            <div className="mt-1">
-              Expected: <span className="font-semibold">{expected}</span>
+            <div className="rounded bg-red-100 px-3 py-1 text-red-800">
+              Wrong: {currentStats.wrong}
             </div>
           </div>
-        )}
 
-        {feedback && (
-          <button
-            onClick={nextCard}
-            className="mt-4 w-full rounded-lg bg-gray-900 px-4 py-3 text-white hover:bg-black"
-          >
-            Next card
-          </button>
-        )}
-      </div>
+          <form onSubmit={submit} className="space-y-4">
+            <input
+              autoFocus
+              value={answer}
+              onChange={(e) => setAnswer(e.target.value)}
+              placeholder="Your translation..."
+              className="w-full rounded-lg border px-4 py-3 outline-none focus:ring-2"
+            />
+
+            <button
+              type="submit"
+              className="w-full rounded-lg bg-blue-600 px-4 py-3 font-medium text-white hover:bg-blue-700"
+            >
+              Check answer
+            </button>
+          </form>
+
+          {feedback === "correct" && (
+            <div className="mt-6 rounded-lg bg-green-100 p-4 text-green-800">
+              Correct!
+            </div>
+          )}
+
+          {feedback === "wrong" && (
+            <div className="mt-6 rounded-lg bg-red-100 p-4 text-red-800">
+              Wrong.
+              <div className="mt-1">
+                Expected: <span className="font-semibold">{expected}</span>
+              </div>
+            </div>
+          )}
+
+          {feedback && (
+            <button
+              onClick={nextCard}
+              className="mt-4 w-full rounded-lg bg-gray-900 px-4 py-3 text-white hover:bg-black"
+            >
+              Next card
+            </button>
+          )}
+        </div>
+      </main>
     </div>
   );
 }

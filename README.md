@@ -9,6 +9,7 @@
 - `npm i` - Install packages
 - `npm run dev` - Serve locally
 - `npm run build` - Build app in `./dist`
+- `npm run generate:country-shapes` - Regenerate country outline paths from Natural Earth data
 - `npm run lint` - Check lint
 - `npm run precommit` - Chain linting and building
 - `npm run preview` - Serve the built app locally

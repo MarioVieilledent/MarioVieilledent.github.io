@@ -1,4 +1,4 @@
-import type { ButtonHTMLAttributes } from "react";
+import type { ButtonHTMLAttributes, ReactNode } from "react";
 import {
   getLanguageDirection,
   type LanguagesAvailable,
@@ -11,14 +11,16 @@ interface LanguageOption {
 }
 
 interface LanguageOptionButtonProps
-  extends Omit<ButtonHTMLAttributes<HTMLButtonElement>, "children"> {
+  extends ButtonHTMLAttributes<HTMLButtonElement> {
   active?: boolean;
+  children?: ReactNode;
   option: LanguageOption;
 }
 
 const LanguageOptionButton = ({
   active = false,
   className = "",
+  children,
   option,
   ...buttonProps
 }: LanguageOptionButtonProps) => (
@@ -42,6 +44,7 @@ const LanguageOptionButton = ({
     >
       {option.name}
     </span>
+    {children}
   </button>
 );
 

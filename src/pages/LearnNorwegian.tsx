@@ -2,8 +2,7 @@ import React, { useState, useEffect } from "react";
 import type { WordNorwegian } from "../types";
 import { wordsNorwegian } from "../wordsNorwegian";
 import { useTranslation } from "../utils/TranslationContext";
-import LanguageSelection from "../components/LanguageSelection";
-import Home from "../components/Home";
+import Navbar from "../components/Navbar";
 import { useIsMobile } from "../utils/isMobileHook";
 
 type Stats = {
@@ -87,10 +86,18 @@ const LearnNorwegian = () => {
     localStorage.setItem(STORAGE_KEY, JSON.stringify(updatedStats));
   };
 
-  if (!question) return <div>{`${t("loading")}...`}</div>;
+  if (!question) {
+    return (
+      <div className="min-h-screen bg-stone-50">
+        <Navbar />
+        <div className="p-6">{`${t("loading")}...`}</div>
+      </div>
+    );
+  }
 
   return (
-    <div className="w-full h-full flex flex-col gap-4">
+    <div className="flex min-h-screen w-full flex-col gap-4 bg-stone-50">
+      <Navbar />
       <div
         className={
           isMobile
@@ -99,10 +106,6 @@ const LearnNorwegian = () => {
         }
       >
         <div className="flex flex-col gap-4 max-w-md p-6 bg-white rounded-2xl shadow-lg">
-          <div className="flex gap-8">
-            <Home />
-            <LanguageSelection />
-          </div>
           <h2 className="text-2xl  text-center text-gray-500">
             {t("translateThisWord")}
           </h2>

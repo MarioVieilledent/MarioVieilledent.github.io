@@ -1,5 +1,5 @@
 import { lazy, Suspense } from "react";
-import { Routes, Route, HashRouter } from "react-router";
+import { Routes, Route, HashRouter, Navigate } from "react-router";
 import MapPage from "./pages/MapPage";
 import NotFound from "./pages/NotFound";
 
@@ -7,7 +7,7 @@ import NotFound from "./pages/NotFound";
 // bundled. Everything else is opt-in navigation, so it's worth the extra
 // network round trip to keep it out of the initial payload.
 const Recipes = lazy(() => import("./pages/Recipes"));
-const Flags = lazy(() => import("./pages/Flags"));
+const Countries = lazy(() => import("./pages/Countries"));
 const LearnNorwegian = lazy(() => import("./pages/LearnNorwegian"));
 const TurkishFlashcards = lazy(() => import("./pages/TurkishFlashcards"));
 
@@ -18,7 +18,8 @@ const App = () => {
         <Routes>
           <Route index element={<MapPage />} />
           <Route path="recipes/*" element={<Recipes />} />
-          <Route path="flags" element={<Flags />}></Route>
+          <Route path="countries" element={<Countries />} />
+          <Route path="flags" element={<Navigate to="/countries" replace />} />
           <Route path="learnNorwegian" element={<LearnNorwegian />}></Route>
           <Route
             path="turkishFlashcards"

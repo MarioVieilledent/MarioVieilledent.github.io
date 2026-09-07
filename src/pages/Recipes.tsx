@@ -1,6 +1,5 @@
 import { useEffect, useRef, useState } from "react";
-import Home from "../components/Home";
-import LanguageSelection from "../components/LanguageSelection";
+import Navbar from "../components/Navbar";
 import { useTranslation, type TermKeys } from "../utils/TranslationContext";
 import { Link, Route, Routes, useLocation, useNavigate } from "react-router";
 import { useIsMobile } from "../utils/isMobileHook";
@@ -16,7 +15,6 @@ import NotFoundRecipe from "../components/recipes/NotFoundRecipe";
 import RecipesHome from "../components/recipes/RecipesHome";
 import SearchPage from "../components/recipes/SearchRecipe";
 import { LuX, LuMenu, LuSearch } from "react-icons/lu";
-import websiteLogo from "/favicon.png";
 import { categories, categoryEmoji } from "../utils/recipeCategories";
 
 const REGEX_CATEGORY = /\/recipes\/(.*)/;
@@ -113,16 +111,18 @@ const Recipes = () => {
         }`}
       >
         <div className="flex items-center justify-between">
-          <Home />
-          <a
+          <div className="text-lg font-semibold text-stone-900">
+            {t("recipes")}
+          </div>
+          <button
+            type="button"
             className="flex h-9 w-9 cursor-pointer items-center justify-center rounded-full text-stone-500 hover:bg-stone-100"
             onClick={() => setPhoneDrawer(false)}
+            aria-label="Close recipe navigation"
           >
             <LuX size="20" />
-          </a>
+          </button>
         </div>
-
-        <LanguageSelection />
 
         <div className="flex flex-col gap-1">
           <div className="script-label mb-1 text-sm font-semibold text-stone-400">
@@ -152,9 +152,10 @@ const Recipes = () => {
 
   return (
     <div className="min-h-screen overflow-x-hidden bg-stone-50">
+      <Navbar />
       <PhoneDrawer />
 
-      <div className="sticky top-0 z-30 border-b border-stone-200 bg-white/90 backdrop-blur-sm">
+      <div className="sticky top-16 z-30 border-b border-stone-200 bg-white/90 backdrop-blur-sm">
         <div className={isMobile ? "" : "mx-auto max-w-6xl px-8"}>
           {isMobile ? (
             <div className="flex h-16 items-center justify-between gap-2 px-4">
@@ -183,7 +184,6 @@ const Recipes = () => {
                     className="flex items-center gap-3"
                     onClick={() => navigate(`${RECIPES_PATH}`)}
                   >
-                    <img className="w-10" src={websiteLogo} alt="Website logo" />
                     <div className="text-lg font-semibold text-stone-900">
                       {category ? tabNavDisplay(category) : tabNavDisplay("home")}
                     </div>
@@ -208,7 +208,6 @@ const Recipes = () => {
             <div className="flex flex-col gap-3 py-3">
               <div className="flex h-10 items-center justify-between gap-8">
                 <div className="flex items-center gap-8">
-                  <Home />
                   <span className="text-2xl font-bold tracking-tight text-stone-900">
                     {t("recipes")}
                   </span>
@@ -235,7 +234,6 @@ const Recipes = () => {
                     )}
                   </div>
 
-                  <LanguageSelection />
                 </div>
               </div>
 

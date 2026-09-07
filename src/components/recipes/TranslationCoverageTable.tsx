@@ -85,13 +85,13 @@ const TranslationCoverageTable = ({
         <table className="w-full border-collapse text-sm">
           <thead>
             <tr className="border-b border-stone-200">
-              <th className="sticky top-16 start-0 z-30 w-44 max-w-44 bg-stone-50 px-3 py-3 text-start font-semibold text-stone-700 md:top-28">
+              <th className="sticky top-0 start-0 z-30 w-44 max-w-44 bg-stone-50 px-3 py-3 text-start font-semibold text-stone-700">
                 {t("feastOrRecipe")}
               </th>
               {languages.map((item) => (
                 <th
                   key={item.code}
-                  className={`sticky top-16 z-20 min-w-10 px-1 py-3 text-center transition-colors md:top-28 ${
+                  className={`sticky top-0 z-20 min-w-10 px-1 py-3 text-center transition-colors ${
                     hoveredCell?.column === item.code
                       ? "bg-amber-100 text-amber-900"
                       : "bg-stone-50 text-stone-700"
