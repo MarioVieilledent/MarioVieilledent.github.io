@@ -5,13 +5,9 @@ import LanguageOptionButton from "./LanguageOptionButton";
 
 type LanguageSelectionProps = {
   className?: string;
-  dropUp?: boolean;
 };
 
-const LanguageSelection = ({
-  className = "",
-  dropUp = false,
-}: LanguageSelectionProps) => {
+const LanguageSelection = ({ className = "" }: LanguageSelectionProps) => {
   const { t, language, setLanguage } = useTranslation();
   const [open, setOpen] = useState(false);
   const containerRef = useRef<HTMLDivElement>(null);
@@ -74,11 +70,7 @@ const LanguageSelection = ({
         <ul
           role="listbox"
           aria-label={t("language")}
-          className={`absolute end-0 z-50 max-h-[min(60dvh,26rem)] w-64 origin-top-right animate-[float-in_150ms_ease-out] overflow-auto rounded-2xl border border-stone-200 bg-white p-1.5 shadow-xl rtl:origin-top-left ${
-            dropUp
-              ? "bottom-full mb-2 origin-bottom-right rtl:origin-bottom-left"
-              : "mt-2"
-          }`}
+          className="absolute end-0 z-50 mt-2 max-h-[min(60dvh,26rem)] w-64 origin-top-right animate-[float-in_150ms_ease-out] overflow-auto rounded-2xl border border-stone-200 bg-white p-1.5 shadow-xl rtl:origin-top-left"
         >
           {languages.map((lang) => (
             <li

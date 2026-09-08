@@ -11,6 +11,7 @@ import {
   LuChevronDown,
   LuEarth,
   LuEllipsis,
+  LuGauge,
   LuGithub,
   LuMap,
   LuMenu,
@@ -30,6 +31,7 @@ type NavbarProps = {
 type NavItem = {
   icon: ReactNode;
   label: TermKeys;
+  englishLabel?: string;
   to: string;
 };
 
@@ -57,6 +59,12 @@ const moreNavItems: NavItem[] = [
     icon: <LuBrain aria-hidden="true" />,
     label: "turkishFlashcards",
     to: "/turkishFlashcards",
+  },
+  {
+    icon: <LuGauge aria-hidden="true" />,
+    label: "more",
+    englishLabel: "Running pace converter",
+    to: "/pace-converter",
   },
 ];
 
@@ -87,7 +95,9 @@ const InternalNavLink = ({
       role={role}
     >
       <span className="text-lg">{item.icon}</span>
-      {t(item.label)}
+      <span lang={item.englishLabel ? "en" : undefined} dir="ltr">
+        {item.englishLabel ?? t(item.label)}
+      </span>
     </NavLink>
   );
 };
@@ -266,7 +276,7 @@ const Navbar = ({ compact = false }: NavbarProps) => {
         </div>
         <div className="flex items-center gap-2 border-t border-stone-200 pt-3">
           <div className="min-w-0 grow">
-            <LanguageSelection className="w-full" dropUp />
+            <LanguageSelection className="w-full" />
           </div>
           <GitHubLink />
         </div>
@@ -322,7 +332,7 @@ const Navbar = ({ compact = false }: NavbarProps) => {
               <MoreMenu inline onNavigate={() => setMobileMenuOpen(false)} />
             </div>
             <div className="mt-3 border-t border-stone-200 pt-3 sm:hidden">
-              <LanguageSelection className="w-full" dropUp />
+              <LanguageSelection className="w-full" />
             </div>
           </div>
         )}
