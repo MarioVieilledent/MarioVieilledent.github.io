@@ -36,8 +36,8 @@ const LayerMenu = ({
   return (
     <Float
       Icon={LuLayers2}
-      buttonClassName={`fixed top-4 end-4 z-50 ${FLOATING_BUTTON_BASE}`}
-      containerClassName={`fixed z-40 max-w-[calc(100%-2rem)] rounded-3xl border border-stone-200 bg-white flex items-stretch shadow-xl transition-all max-h-[calc(100vh-8rem)] ${
+      buttonClassName={`absolute top-4 end-4 z-50 ${FLOATING_BUTTON_BASE}`}
+      containerClassName={`absolute z-40 max-w-[calc(100%-2rem)] rounded-3xl border border-stone-200 bg-white flex items-stretch shadow-xl transition-all max-h-[calc(100vh-8rem)] ${
         isMobile
           ? "top-20 end-4 start-4 z-[60] max-w-none p-3 gap-3 flex-col items-stretch"
           : "top-4 end-20 p-5 gap-5"

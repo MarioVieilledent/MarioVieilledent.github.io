@@ -7,10 +7,8 @@ import {
 } from "@vis.gl/react-maplibre";
 import {
   forwardRef,
-  useEffect,
   useImperativeHandle,
   useRef,
-  useState,
 } from "react";
 import "maplibre-gl/dist/maplibre-gl.css";
 import { sources } from "../../utils/sources";
@@ -65,8 +63,6 @@ const MapLibre = forwardRef<
 >(({ layers, center, zoom, onPositionChange, userLocation, points }, ref) => {
   const mapRef = useRef<MapRef>(null);
   const isMobile = useIsMobile();
-  const [width, setWidth] = useState(window.innerWidth);
-  const [height, setHeight] = useState(window.innerHeight);
 
   useImperativeHandle(ref, () => ({
     triggerReset() {
@@ -91,16 +87,6 @@ const MapLibre = forwardRef<
     )
     .map((source) => expandSubdomainTemplate(source.url));
 
-  useEffect(() => {
-    const resize = () => {
-      setWidth(window.innerWidth);
-      setHeight(window.innerHeight);
-    };
-    window.addEventListener("resize", resize);
-
-    return () => window.removeEventListener("resize", resize);
-  }, []);
-
   return (
     <Map
       ref={mapRef}
@@ -117,7 +103,7 @@ const MapLibre = forwardRef<
           event.viewState.zoom,
         )
       }
-      style={{ width, height }}
+      style={{ width: "100%", height: "100%" }}
       mapStyle="https://demotiles.maplibre.org/globe.json"
       touchZoomRotate={true}
       doubleClickZoom={!isMobile}
