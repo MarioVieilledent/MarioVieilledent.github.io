@@ -2,6 +2,7 @@ import {
   FLOATING_BUTTON_BASE,
   FLOATING_BUTTON_INTERACTIVE,
 } from "../../utils/constants";
+import { useIsMobile } from "../../utils/isMobileHook";
 
 interface GlobeSwitchProps {
   globeView: boolean;
@@ -9,10 +10,12 @@ interface GlobeSwitchProps {
 }
 
 const GlobeSwitch = ({ globeView, setGlobeView }: GlobeSwitchProps) => {
+  const isMobile = useIsMobile();
+
   return (
     <button
       onClick={() => setGlobeView((prev) => !prev)}
-      className={`absolute top-20 end-4 z-50 ${FLOATING_BUTTON_BASE} ${FLOATING_BUTTON_INTERACTIVE}`}
+      className={`absolute ${isMobile ? "top-20" : "top-40"} end-4 z-50 ${FLOATING_BUTTON_BASE} ${FLOATING_BUTTON_INTERACTIVE}`}
     >
       <span className="text-sm font-semibold text-stone-700">
         {globeView ? "2D" : "3D"}

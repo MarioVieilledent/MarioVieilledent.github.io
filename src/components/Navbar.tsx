@@ -1,10 +1,4 @@
-import {
-  useEffect,
-  useId,
-  useRef,
-  useState,
-  type ReactNode,
-} from "react";
+import { useEffect, useId, useRef, useState, type ReactNode } from "react";
 import {
   LuBook,
   LuBrain,
@@ -17,6 +11,7 @@ import {
   LuMenu,
   LuNotebookText,
   LuSchool,
+  LuLanguages,
   LuX,
 } from "react-icons/lu";
 import { NavLink, useLocation } from "react-router";
@@ -26,6 +21,12 @@ import LanguageSelection from "./LanguageSelection";
 
 type NavbarProps = {
   compact?: boolean;
+  mapOverlay?: boolean;
+};
+
+type BrandProps = {
+  compact?: boolean;
+  rounded?: boolean;
 };
 
 type NavItem = {
@@ -50,6 +51,12 @@ const primaryNavItems: NavItem[] = [
 ];
 
 const moreNavItems: NavItem[] = [
+  {
+    icon: <LuLanguages aria-hidden="true" />,
+    label: "more",
+    englishLabel: "Arabic & Persian alphabet",
+    to: "/arabic-alphabet",
+  },
   {
     icon: <LuSchool aria-hidden="true" />,
     label: "learnNorwegian",
@@ -222,7 +229,7 @@ const GitHubLink = () => (
   </a>
 );
 
-const Brand = ({ compact = false }: NavbarProps) => {
+const Brand = ({ compact = false, rounded = false }: BrandProps) => {
   const { t } = useTranslation();
 
   return (
@@ -234,7 +241,9 @@ const Brand = ({ compact = false }: NavbarProps) => {
       }`}
     >
       <img
-        className={compact ? "h-10 w-10 shrink-0" : "h-11 w-11 shrink-0"}
+        className={`${compact ? "h-10 w-10" : "h-11 w-11"} shrink-0 ${
+          rounded ? "rounded-xl" : ""
+        }`}
         src={websiteLogo}
         alt=""
       />
@@ -243,14 +252,16 @@ const Brand = ({ compact = false }: NavbarProps) => {
           {t("title")}
         </div>
         {compact && (
-          <div className="truncate text-xs text-stone-500">Mario Vieilledent</div>
+          <div className="truncate text-xs text-stone-500">
+            Mario Vieilledent
+          </div>
         )}
       </div>
     </NavLink>
   );
 };
 
-const Navbar = ({ compact = false }: NavbarProps) => {
+const Navbar = ({ compact = false, mapOverlay = false }: NavbarProps) => {
   const { t } = useTranslation();
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
 
@@ -281,6 +292,61 @@ const Navbar = ({ compact = false }: NavbarProps) => {
           <GitHubLink />
         </div>
       </nav>
+    );
+  }
+
+  if (mapOverlay) {
+    return (
+      <header className="pointer-events-none absolute inset-x-0 top-0 z-[70] p-4">
+        <nav
+          aria-label="Main navigation"
+          className="relative mx-auto flex max-w-[90rem] items-start justify-between gap-4"
+        >
+          <div className="pointer-events-auto flex h-14 items-center rounded-2xl border border-white/70 bg-white/85 p-2 shadow-lg backdrop-blur-xl">
+            <Brand rounded />
+          </div>
+
+          <div className="pointer-events-auto hidden h-14 items-center gap-1 rounded-2xl border border-white/70 bg-white/85 p-1.5 shadow-lg backdrop-blur-xl xl:flex">
+            <MainNavLinks />
+            <MoreMenu />
+          </div>
+
+          <div className="pointer-events-auto flex h-14 items-center gap-1.5 rounded-2xl border border-white/70 bg-white/85 p-1.5 shadow-lg backdrop-blur-xl">
+            <div className="hidden sm:block">
+              <LanguageSelection className="w-64" />
+            </div>
+            <GitHubLink />
+            <button
+              type="button"
+              className="flex h-10 w-10 items-center justify-center rounded-xl border border-stone-200 bg-white text-stone-600 transition-colors hover:border-stone-300 hover:bg-stone-100 hover:text-stone-950 xl:hidden"
+              onClick={() => setMobileMenuOpen((open) => !open)}
+              aria-expanded={mobileMenuOpen}
+              aria-controls="map-navigation-menu"
+              aria-label={mobileMenuOpen ? "Close navigation" : t("menu")}
+            >
+              {mobileMenuOpen ? (
+                <LuX size="21" aria-hidden="true" />
+              ) : (
+                <LuMenu size="21" aria-hidden="true" />
+              )}
+            </button>
+          </div>
+
+          {mobileMenuOpen && (
+            <div
+              id="map-navigation-menu"
+              className="pointer-events-auto absolute end-0 top-[4.5rem] w-[min(36rem,calc(100vw-2rem))] animate-[float-in_150ms_ease-out] rounded-3xl border border-white/70 bg-white/90 p-3 shadow-xl backdrop-blur-xl xl:hidden"
+            >
+              <div className="grid gap-1 sm:grid-cols-2">
+                <MainNavLinks onNavigate={() => setMobileMenuOpen(false)} />
+              </div>
+              <div className="mt-1">
+                <MoreMenu inline onNavigate={() => setMobileMenuOpen(false)} />
+              </div>
+            </div>
+          )}
+        </nav>
+      </header>
     );
   }
 

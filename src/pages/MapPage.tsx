@@ -7,10 +7,10 @@ const MapPage = () => {
   const isMobile = useIsMobile();
 
   return (
-    <div className="flex h-dvh flex-col overflow-hidden">
-      {!isMobile && <Navbar />}
-      <main className="relative min-h-0 flex-1 overflow-hidden">
+    <div className="h-dvh overflow-hidden">
+      <main className="relative h-full overflow-hidden">
         <MapLayer />
+        {!isMobile && <Navbar mapOverlay />}
         {isMobile && <Menu />}
       </main>
     </div>
