@@ -1,1 +1,0 @@
-import{c as e,u as t}from"./index-D8c3OX5l.js";var n=t(),r=({children:t})=>{let r=e();return(0,n.jsx)(`div`,{className:r?`flex flex-col`:`flex flex-col max-w-6xl mx-auto gap-8 px-8`,children:t})};export{r as t};
