@@ -1,0 +1,3906 @@
+{
+  "arabic": [
+    {
+      "letters": [
+        "ا",
+        "ل",
+        "م",
+        "ن"
+      ],
+      "words": [
+        {
+          "script": "من",
+          "latin": "mn",
+          "translation": "from"
+        },
+        {
+          "script": "أن",
+          "latin": "an",
+          "translation": "that"
+        },
+        {
+          "script": "لا",
+          "latin": "la",
+          "translation": "no / not"
+        },
+        {
+          "script": "ما",
+          "latin": "ma",
+          "translation": "what / not"
+        },
+        {
+          "script": "لم",
+          "latin": "lm",
+          "translation": "did not"
+        },
+        {
+          "script": "إن",
+          "latin": "in",
+          "translation": "if / indeed"
+        },
+        {
+          "script": "لن",
+          "latin": "ln",
+          "translation": "will not"
+        },
+        {
+          "script": "أم",
+          "latin": "am",
+          "translation": "mother / or"
+        },
+        {
+          "script": "آل",
+          "latin": "aal",
+          "translation": "family"
+        },
+        {
+          "script": "آن",
+          "latin": "aan",
+          "translation": "time / moment"
+        },
+        {
+          "script": "إلا",
+          "latin": "ila",
+          "translation": "except"
+        },
+        {
+          "script": "مما",
+          "latin": "mma",
+          "translation": "from what"
+        },
+        {
+          "script": "أما",
+          "latin": "ama",
+          "translation": "as for"
+        },
+        {
+          "script": "لأن",
+          "latin": "lan",
+          "translation": "because"
+        },
+        {
+          "script": "لما",
+          "latin": "lma",
+          "translation": "when / not yet"
+        },
+        {
+          "script": "لنا",
+          "latin": "lna",
+          "translation": "for us"
+        },
+        {
+          "script": "أنا",
+          "latin": "ana",
+          "translation": "I"
+        },
+        {
+          "script": "ألا",
+          "latin": "ala",
+          "translation": "will you not? / indeed"
+        },
+        {
+          "script": "لمن",
+          "latin": "lmn",
+          "translation": "for whom"
+        },
+        {
+          "script": "أمن",
+          "latin": "amn",
+          "translation": "safety"
+        },
+        {
+          "script": "ممن",
+          "latin": "mmn",
+          "translation": "from whom"
+        },
+        {
+          "script": "منا",
+          "latin": "mna",
+          "translation": "from us"
+        },
+        {
+          "script": "أمل",
+          "latin": "aml",
+          "translation": "hope"
+        },
+        {
+          "script": "إما",
+          "latin": "ima",
+          "translation": "either"
+        },
+        {
+          "script": "مال",
+          "latin": "mal",
+          "translation": "money"
+        },
+        {
+          "script": "ألم",
+          "latin": "alm",
+          "translation": "pain / did not?"
+        },
+        {
+          "script": "آمن",
+          "latin": "aamn",
+          "translation": "believed / safe"
+        },
+        {
+          "script": "أمم",
+          "latin": "amm",
+          "translation": "nations"
+        },
+        {
+          "script": "نال",
+          "latin": "nal",
+          "translation": "obtained"
+        },
+        {
+          "script": "الآن",
+          "latin": "alaan",
+          "translation": "now"
+        },
+        {
+          "script": "أمام",
+          "latin": "amam",
+          "translation": "in front of"
+        },
+        {
+          "script": "أننا",
+          "latin": "anna",
+          "translation": "that we"
+        },
+        {
+          "script": "إنما",
+          "latin": "inma",
+          "translation": "only"
+        },
+        {
+          "script": "الأم",
+          "latin": "alam",
+          "translation": "the mother"
+        },
+        {
+          "script": "إننا",
+          "latin": "inna",
+          "translation": "indeed we"
+        },
+        {
+          "script": "نأمل",
+          "latin": "naml",
+          "translation": "we hope"
+        },
+        {
+          "script": "أمان",
+          "latin": "aman",
+          "translation": "safety / peace"
+        },
+        {
+          "script": "آلام",
+          "latin": "aalam",
+          "translation": "pains"
+        },
+        {
+          "script": "آمال",
+          "latin": "aamal",
+          "translation": "hopes"
+        },
+        {
+          "script": "ملال",
+          "latin": "mlal",
+          "translation": "boredom"
+        },
+        {
+          "script": "الأمن",
+          "latin": "alamn",
+          "translation": "security"
+        },
+        {
+          "script": "المال",
+          "latin": "almal",
+          "translation": "the money"
+        },
+        {
+          "script": "الأمم",
+          "latin": "alamm",
+          "translation": "the nations"
+        },
+        {
+          "script": "الأمل",
+          "latin": "alaml",
+          "translation": "the hope"
+        },
+        {
+          "script": "النمل",
+          "latin": "alnml",
+          "translation": "ants"
+        },
+        {
+          "script": "الألم",
+          "latin": "alalm",
+          "translation": "the pain"
+        },
+        {
+          "script": "الإمام",
+          "latin": "alimam",
+          "translation": "the imam / leader"
+        },
+        {
+          "script": "الأمان",
+          "latin": "alaman",
+          "translation": "safety"
+        },
+        {
+          "script": "المنام",
+          "latin": "almnam",
+          "translation": "sleep / dream"
+        },
+        {
+          "script": "أمامنا",
+          "latin": "amamna",
+          "translation": "in front of us"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "ب",
+        "ت",
+        "ي",
+        "و"
+      ],
+      "words": [
+        {
+          "script": "أو",
+          "latin": "aw",
+          "translation": "or"
+        },
+        {
+          "script": "أي",
+          "latin": "ay",
+          "translation": "which / any"
+        },
+        {
+          "script": "بل",
+          "latin": "bl",
+          "translation": "rather"
+        },
+        {
+          "script": "بن",
+          "latin": "bn",
+          "translation": "son of"
+        },
+        {
+          "script": "بي",
+          "latin": "by",
+          "translation": "with me"
+        },
+        {
+          "script": "تم",
+          "latin": "tm",
+          "translation": "was completed"
+        },
+        {
+          "script": "لو",
+          "latin": "lw",
+          "translation": "if"
+        },
+        {
+          "script": "لي",
+          "latin": "ly",
+          "translation": "for me"
+        },
+        {
+          "script": "يا",
+          "latin": "ya",
+          "translation": "hey / O"
+        },
+        {
+          "script": "أبو",
+          "latin": "abw",
+          "translation": "father of"
+        },
+        {
+          "script": "أبي",
+          "latin": "aby",
+          "translation": "my father"
+        },
+        {
+          "script": "أنت",
+          "latin": "ant",
+          "translation": "you"
+        },
+        {
+          "script": "أول",
+          "latin": "awl",
+          "translation": "first"
+        },
+        {
+          "script": "إلي",
+          "latin": "ily",
+          "translation": "to me"
+        },
+        {
+          "script": "ابن",
+          "latin": "abn",
+          "translation": "son"
+        },
+        {
+          "script": "بأن",
+          "latin": "ban",
+          "translation": "that"
+        },
+        {
+          "script": "باب",
+          "latin": "bab",
+          "translation": "door"
+        },
+        {
+          "script": "بما",
+          "latin": "bma",
+          "translation": "with what / since"
+        },
+        {
+          "script": "بنا",
+          "latin": "bna",
+          "translation": "with us"
+        },
+        {
+          "script": "بنت",
+          "latin": "bnt",
+          "translation": "daughter / girl"
+        },
+        {
+          "script": "بني",
+          "latin": "bny",
+          "translation": "brown / sons of"
+        },
+        {
+          "script": "بيت",
+          "latin": "byt",
+          "translation": "house"
+        },
+        {
+          "script": "بين",
+          "latin": "byn",
+          "translation": "between"
+        },
+        {
+          "script": "توت",
+          "latin": "twt",
+          "translation": "mulberries"
+        },
+        {
+          "script": "تين",
+          "latin": "tyn",
+          "translation": "figs"
+        },
+        {
+          "script": "لبن",
+          "latin": "lbn",
+          "translation": "milk"
+        },
+        {
+          "script": "لون",
+          "latin": "lwn",
+          "translation": "color"
+        },
+        {
+          "script": "موت",
+          "latin": "mwt",
+          "translation": "death"
+        },
+        {
+          "script": "نوم",
+          "latin": "nwm",
+          "translation": "sleep"
+        },
+        {
+          "script": "وأن",
+          "latin": "wan",
+          "translation": "and that"
+        },
+        {
+          "script": "وإن",
+          "latin": "win",
+          "translation": "and if"
+        },
+        {
+          "script": "ولا",
+          "latin": "wla",
+          "translation": "and not / nor"
+        },
+        {
+          "script": "ولم",
+          "latin": "wlm",
+          "translation": "and did not"
+        },
+        {
+          "script": "وما",
+          "latin": "wma",
+          "translation": "and what / and not"
+        },
+        {
+          "script": "ومن",
+          "latin": "wmn",
+          "translation": "and from / and who"
+        },
+        {
+          "script": "يتم",
+          "latin": "ytm",
+          "translation": "is completed"
+        },
+        {
+          "script": "يوم",
+          "latin": "ywm",
+          "translation": "day"
+        },
+        {
+          "script": "أيام",
+          "latin": "ayam",
+          "translation": "days"
+        },
+        {
+          "script": "التي",
+          "latin": "alty",
+          "translation": "which (feminine)"
+        },
+        {
+          "script": "بنات",
+          "latin": "bnat",
+          "translation": "daughters / girls"
+        },
+        {
+          "script": "بيان",
+          "latin": "byan",
+          "translation": "statement"
+        },
+        {
+          "script": "وبين",
+          "latin": "wbyn",
+          "translation": "and between"
+        },
+        {
+          "script": "الأول",
+          "latin": "alawl",
+          "translation": "the first"
+        },
+        {
+          "script": "البيت",
+          "latin": "albyt",
+          "translation": "the house"
+        },
+        {
+          "script": "النبي",
+          "latin": "alnby",
+          "translation": "the prophet"
+        },
+        {
+          "script": "اليوم",
+          "latin": "alywm",
+          "translation": "today"
+        },
+        {
+          "script": "بينما",
+          "latin": "bynma",
+          "translation": "while"
+        },
+        {
+          "script": "مليون",
+          "latin": "mlywn",
+          "translation": "million"
+        },
+        {
+          "script": "والتي",
+          "latin": "walty",
+          "translation": "and which (feminine)"
+        },
+        {
+          "script": "النواب",
+          "latin": "alnwab",
+          "translation": "representatives"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "د",
+        "ذ",
+        "ر",
+        "ز"
+      ],
+      "words": [
+        {
+          "script": "إذ",
+          "latin": "idh",
+          "translation": "when / since"
+        },
+        {
+          "script": "رد",
+          "latin": "rd",
+          "translation": "replied / returned"
+        },
+        {
+          "script": "أمر",
+          "latin": "amr",
+          "translation": "matter / command"
+        },
+        {
+          "script": "إذا",
+          "latin": "idha",
+          "translation": "if / when"
+        },
+        {
+          "script": "دار",
+          "latin": "dar",
+          "translation": "house / turned"
+        },
+        {
+          "script": "دور",
+          "latin": "dwr",
+          "translation": "role / turn"
+        },
+        {
+          "script": "دول",
+          "latin": "dwl",
+          "translation": "countries"
+        },
+        {
+          "script": "دون",
+          "latin": "dwn",
+          "translation": "without / below"
+        },
+        {
+          "script": "ذات",
+          "latin": "dhat",
+          "translation": "self / same"
+        },
+        {
+          "script": "زاد",
+          "latin": "zad",
+          "translation": "increased"
+        },
+        {
+          "script": "زار",
+          "latin": "zar",
+          "translation": "visited"
+        },
+        {
+          "script": "زبد",
+          "latin": "zbd",
+          "translation": "foam / butter"
+        },
+        {
+          "script": "زيت",
+          "latin": "zyt",
+          "translation": "oil"
+        },
+        {
+          "script": "لذا",
+          "latin": "ldha",
+          "translation": "therefore"
+        },
+        {
+          "script": "منذ",
+          "latin": "mndh",
+          "translation": "since"
+        },
+        {
+          "script": "موز",
+          "latin": "mwz",
+          "translation": "bananas"
+        },
+        {
+          "script": "الذي",
+          "latin": "aldhy",
+          "translation": "who / which"
+        },
+        {
+          "script": "بدأت",
+          "latin": "bdat",
+          "translation": "started"
+        },
+        {
+          "script": "بدون",
+          "latin": "bdwn",
+          "translation": "without"
+        },
+        {
+          "script": "دليل",
+          "latin": "dlyl",
+          "translation": "guide / evidence"
+        },
+        {
+          "script": "زميل",
+          "latin": "zmyl",
+          "translation": "colleague"
+        },
+        {
+          "script": "زوال",
+          "latin": "zwal",
+          "translation": "disappearance"
+        },
+        {
+          "script": "مدير",
+          "latin": "mdyr",
+          "translation": "manager"
+        },
+        {
+          "script": "نادي",
+          "latin": "nady",
+          "translation": "club"
+        },
+        {
+          "script": "وزير",
+          "latin": "wzyr",
+          "translation": "minister"
+        },
+        {
+          "script": "يريد",
+          "latin": "yryd",
+          "translation": "wants"
+        },
+        {
+          "script": "يزيد",
+          "latin": "yzyd",
+          "translation": "increases"
+        },
+        {
+          "script": "ينزل",
+          "latin": "ynzl",
+          "translation": "goes down"
+        },
+        {
+          "script": "الأمر",
+          "latin": "alamr",
+          "translation": "the matter / order"
+        },
+        {
+          "script": "البلد",
+          "latin": "albld",
+          "translation": "the country"
+        },
+        {
+          "script": "الدور",
+          "latin": "aldwr",
+          "translation": "the role / turn"
+        },
+        {
+          "script": "الدول",
+          "latin": "aldwl",
+          "translation": "the countries"
+        },
+        {
+          "script": "الدين",
+          "latin": "aldyn",
+          "translation": "religion"
+        },
+        {
+          "script": "الذين",
+          "latin": "aldhyn",
+          "translation": "who (plural)"
+        },
+        {
+          "script": "الزمن",
+          "latin": "alzmn",
+          "translation": "time"
+        },
+        {
+          "script": "الزيت",
+          "latin": "alzyt",
+          "translation": "the oil"
+        },
+        {
+          "script": "النار",
+          "latin": "alnar",
+          "translation": "fire"
+        },
+        {
+          "script": "الوزن",
+          "latin": "alwzn",
+          "translation": "weight"
+        },
+        {
+          "script": "دولار",
+          "latin": "dwlar",
+          "translation": "dollar"
+        },
+        {
+          "script": "دينار",
+          "latin": "dynar",
+          "translation": "dinar"
+        },
+        {
+          "script": "لدينا",
+          "latin": "ldyna",
+          "translation": "we have / with us"
+        },
+        {
+          "script": "مليار",
+          "latin": "mlyar",
+          "translation": "billion"
+        },
+        {
+          "script": "والذي",
+          "latin": "waldhy",
+          "translation": "and who / which"
+        },
+        {
+          "script": "البلاد",
+          "latin": "alblad",
+          "translation": "countries / lands"
+        },
+        {
+          "script": "الدوري",
+          "latin": "aldwry",
+          "translation": "regular / periodic"
+        },
+        {
+          "script": "المزيد",
+          "latin": "almzyd",
+          "translation": "more"
+        },
+        {
+          "script": "المنزل",
+          "latin": "almnzl",
+          "translation": "the home"
+        },
+        {
+          "script": "المواد",
+          "latin": "almwad",
+          "translation": "materials"
+        },
+        {
+          "script": "الوزير",
+          "latin": "alwzyr",
+          "translation": "the minister"
+        },
+        {
+          "script": "الإنترنت",
+          "latin": "alintrnt",
+          "translation": "the internet"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "س",
+        "ش",
+        "ه",
+        "ك"
+      ],
+      "words": [
+        {
+          "script": "به",
+          "latin": "bh",
+          "translation": "with him / by it"
+        },
+        {
+          "script": "كل",
+          "latin": "kl",
+          "translation": "each / all"
+        },
+        {
+          "script": "لك",
+          "latin": "lk",
+          "translation": "for you / yours"
+        },
+        {
+          "script": "له",
+          "latin": "lh",
+          "translation": "for him / his"
+        },
+        {
+          "script": "هل",
+          "latin": "hl",
+          "translation": "(question word)"
+        },
+        {
+          "script": "هو",
+          "latin": "hw",
+          "translation": "he"
+        },
+        {
+          "script": "هي",
+          "latin": "hy",
+          "translation": "she"
+        },
+        {
+          "script": "أنه",
+          "latin": "anh",
+          "translation": "that he"
+        },
+        {
+          "script": "إنه",
+          "latin": "inh",
+          "translation": "indeed he / it"
+        },
+        {
+          "script": "بها",
+          "latin": "bha",
+          "translation": "with her / with it"
+        },
+        {
+          "script": "تلك",
+          "latin": "tlk",
+          "translation": "that (feminine)"
+        },
+        {
+          "script": "ذلك",
+          "latin": "dhlk",
+          "translation": "that"
+        },
+        {
+          "script": "شهر",
+          "latin": "shhr",
+          "translation": "month"
+        },
+        {
+          "script": "كان",
+          "latin": "kan",
+          "translation": "he was"
+        },
+        {
+          "script": "كتب",
+          "latin": "ktb",
+          "translation": "books / wrote"
+        },
+        {
+          "script": "كما",
+          "latin": "kma",
+          "translation": "as / just as"
+        },
+        {
+          "script": "كنت",
+          "latin": "knt",
+          "translation": "I was / you were"
+        },
+        {
+          "script": "لكن",
+          "latin": "lkn",
+          "translation": "but"
+        },
+        {
+          "script": "لها",
+          "latin": "lha",
+          "translation": "for her / hers"
+        },
+        {
+          "script": "لهم",
+          "latin": "lhm",
+          "translation": "for them / theirs"
+        },
+        {
+          "script": "ليس",
+          "latin": "lys",
+          "translation": "is not"
+        },
+        {
+          "script": "منه",
+          "latin": "mnh",
+          "translation": "from him / it"
+        },
+        {
+          "script": "هذا",
+          "latin": "hdha",
+          "translation": "this"
+        },
+        {
+          "script": "هذه",
+          "latin": "hdhh",
+          "translation": "this (feminine)"
+        },
+        {
+          "script": "هنا",
+          "latin": "hna",
+          "translation": "here"
+        },
+        {
+          "script": "وهو",
+          "latin": "whw",
+          "translation": "and he"
+        },
+        {
+          "script": "وهي",
+          "latin": "why",
+          "translation": "and she"
+        },
+        {
+          "script": "الله",
+          "latin": "allh",
+          "translation": "God"
+        },
+        {
+          "script": "بسبب",
+          "latin": "bsbb",
+          "translation": "because of"
+        },
+        {
+          "script": "بشكل",
+          "latin": "bshkl",
+          "translation": "in a way"
+        },
+        {
+          "script": "تكون",
+          "latin": "tkwn",
+          "translation": "is / becomes"
+        },
+        {
+          "script": "كانت",
+          "latin": "kant",
+          "translation": "she was"
+        },
+        {
+          "script": "مركز",
+          "latin": "mrkz",
+          "translation": "center"
+        },
+        {
+          "script": "منها",
+          "latin": "mnha",
+          "translation": "from her / it"
+        },
+        {
+          "script": "هناك",
+          "latin": "hnak",
+          "translation": "there"
+        },
+        {
+          "script": "وذلك",
+          "latin": "wdhlk",
+          "translation": "and that"
+        },
+        {
+          "script": "وسلم",
+          "latin": "wslm",
+          "translation": "and greeted"
+        },
+        {
+          "script": "وكان",
+          "latin": "wkan",
+          "translation": "and he was"
+        },
+        {
+          "script": "ولكن",
+          "latin": "wlkn",
+          "translation": "but / however"
+        },
+        {
+          "script": "وهذا",
+          "latin": "whdha",
+          "translation": "and this"
+        },
+        {
+          "script": "يكون",
+          "latin": "ykwn",
+          "translation": "is / becomes"
+        },
+        {
+          "script": "يمكن",
+          "latin": "ymkn",
+          "translation": "can / is possible"
+        },
+        {
+          "script": "الناس",
+          "latin": "alnas",
+          "translation": "people"
+        },
+        {
+          "script": "شركات",
+          "latin": "shrkat",
+          "translation": "companies"
+        },
+        {
+          "script": "مشاكل",
+          "latin": "mshakl",
+          "translation": "problems"
+        },
+        {
+          "script": "السلام",
+          "latin": "alslam",
+          "translation": "peace"
+        },
+        {
+          "script": "الشباب",
+          "latin": "alshbab",
+          "translation": "young people"
+        },
+        {
+          "script": "الكريم",
+          "latin": "alkrym",
+          "translation": "generous / noble"
+        },
+        {
+          "script": "المياه",
+          "latin": "almyah",
+          "translation": "water"
+        },
+        {
+          "script": "الدكتور",
+          "latin": "aldktwr",
+          "translation": "the doctor"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "ج",
+        "ح",
+        "خ",
+        "ع"
+      ],
+      "words": [
+        {
+          "script": "عن",
+          "latin": "aan",
+          "translation": "about / from"
+        },
+        {
+          "script": "مع",
+          "latin": "maa",
+          "translation": "with"
+        },
+        {
+          "script": "آخر",
+          "latin": "aakhr",
+          "translation": "another / last"
+        },
+        {
+          "script": "أحد",
+          "latin": "ahhd",
+          "translation": "someone / one"
+        },
+        {
+          "script": "بعد",
+          "latin": "baad",
+          "translation": "after"
+        },
+        {
+          "script": "تحت",
+          "latin": "thht",
+          "translation": "under"
+        },
+        {
+          "script": "جدا",
+          "latin": "jda",
+          "translation": "very"
+        },
+        {
+          "script": "حلم",
+          "latin": "hhlm",
+          "translation": "dream"
+        },
+        {
+          "script": "حول",
+          "latin": "hhwl",
+          "translation": "around / about"
+        },
+        {
+          "script": "خال",
+          "latin": "khal",
+          "translation": "maternal uncle"
+        },
+        {
+          "script": "خبر",
+          "latin": "khbr",
+          "translation": "news"
+        },
+        {
+          "script": "خبز",
+          "latin": "khbz",
+          "translation": "bread"
+        },
+        {
+          "script": "عام",
+          "latin": "aaam",
+          "translation": "year / general"
+        },
+        {
+          "script": "عبد",
+          "latin": "aabd",
+          "translation": "servant"
+        },
+        {
+          "script": "عبر",
+          "latin": "aabr",
+          "translation": "across / through"
+        },
+        {
+          "script": "عدد",
+          "latin": "aadd",
+          "translation": "number"
+        },
+        {
+          "script": "عدم",
+          "latin": "aadm",
+          "translation": "absence / lack"
+        },
+        {
+          "script": "عمل",
+          "latin": "aaml",
+          "translation": "work"
+        },
+        {
+          "script": "عند",
+          "latin": "aand",
+          "translation": "at / with"
+        },
+        {
+          "script": "عنه",
+          "latin": "aanh",
+          "translation": "about him / it"
+        },
+        {
+          "script": "نحو",
+          "latin": "nhhw",
+          "translation": "toward / about"
+        },
+        {
+          "script": "يجب",
+          "latin": "yjb",
+          "translation": "must"
+        },
+        {
+          "script": "جديد",
+          "latin": "jdyd",
+          "translation": "new"
+        },
+        {
+          "script": "جميع",
+          "latin": "jmyaa",
+          "translation": "all"
+        },
+        {
+          "script": "خلال",
+          "latin": "khlal",
+          "translation": "during"
+        },
+        {
+          "script": "داخل",
+          "latin": "dakhl",
+          "translation": "inside"
+        },
+        {
+          "script": "عالم",
+          "latin": "aaalm",
+          "translation": "world"
+        },
+        {
+          "script": "عليه",
+          "latin": "aalyh",
+          "translation": "on him / it"
+        },
+        {
+          "script": "مجلس",
+          "latin": "mjls",
+          "translation": "council / meeting"
+        },
+        {
+          "script": "واحد",
+          "latin": "wahhd",
+          "translation": "one"
+        },
+        {
+          "script": "أخبار",
+          "latin": "akhbar",
+          "translation": "news"
+        },
+        {
+          "script": "ألعاب",
+          "latin": "alaaab",
+          "translation": "games"
+        },
+        {
+          "script": "الشعر",
+          "latin": "alshaar",
+          "translation": "hair / poetry"
+        },
+        {
+          "script": "الشيخ",
+          "latin": "alshykh",
+          "translation": "elder / sheikh"
+        },
+        {
+          "script": "العام",
+          "latin": "alaaam",
+          "translation": "the year"
+        },
+        {
+          "script": "العمل",
+          "latin": "alaaml",
+          "translation": "the work"
+        },
+        {
+          "script": "العين",
+          "latin": "alaayn",
+          "translation": "the eye"
+        },
+        {
+          "script": "برامج",
+          "latin": "bramj",
+          "translation": "programs"
+        },
+        {
+          "script": "عليها",
+          "latin": "aalyha",
+          "translation": "on her / it"
+        },
+        {
+          "script": "عندما",
+          "latin": "aandma",
+          "translation": "when"
+        },
+        {
+          "script": "مجاني",
+          "latin": "mjany",
+          "translation": "free of charge"
+        },
+        {
+          "script": "الجديد",
+          "latin": "aljdyd",
+          "translation": "the new one"
+        },
+        {
+          "script": "العالم",
+          "latin": "alaaalm",
+          "translation": "the world"
+        },
+        {
+          "script": "العيون",
+          "latin": "alaaywn",
+          "translation": "eyes"
+        },
+        {
+          "script": "المجلس",
+          "latin": "almjls",
+          "translation": "the council"
+        },
+        {
+          "script": "برنامج",
+          "latin": "brnamj",
+          "translation": "program"
+        },
+        {
+          "script": "للعيون",
+          "latin": "llaaywn",
+          "translation": "for the eyes"
+        },
+        {
+          "script": "الاتحاد",
+          "latin": "alathhad",
+          "translation": "union"
+        },
+        {
+          "script": "البرامج",
+          "latin": "albramj",
+          "translation": "the programs"
+        },
+        {
+          "script": "التعليم",
+          "latin": "altaalym",
+          "translation": "education"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "ف",
+        "ق",
+        "ص",
+        "ض"
+      ],
+      "words": [
+        {
+          "script": "ضد",
+          "latin": "ddd",
+          "translation": "against"
+        },
+        {
+          "script": "فم",
+          "latin": "fm",
+          "translation": "mouth"
+        },
+        {
+          "script": "في",
+          "latin": "fy",
+          "translation": "in"
+        },
+        {
+          "script": "قد",
+          "latin": "qd",
+          "translation": "may / already"
+        },
+        {
+          "script": "بعض",
+          "latin": "baadd",
+          "translation": "some"
+        },
+        {
+          "script": "خاص",
+          "latin": "khass",
+          "translation": "private / special"
+        },
+        {
+          "script": "رقم",
+          "latin": "rqm",
+          "translation": "number"
+        },
+        {
+          "script": "سوق",
+          "latin": "swq",
+          "translation": "market"
+        },
+        {
+          "script": "صوت",
+          "latin": "sswt",
+          "translation": "sound / voice"
+        },
+        {
+          "script": "صور",
+          "latin": "sswr",
+          "translation": "pictures"
+        },
+        {
+          "script": "ضعف",
+          "latin": "ddaaf",
+          "translation": "weakness"
+        },
+        {
+          "script": "ضمن",
+          "latin": "ddmn",
+          "translation": "within"
+        },
+        {
+          "script": "عرض",
+          "latin": "aardd",
+          "translation": "display / presentation"
+        },
+        {
+          "script": "فإن",
+          "latin": "fin",
+          "translation": "so if / for indeed"
+        },
+        {
+          "script": "فقد",
+          "latin": "fqd",
+          "translation": "loss / lost"
+        },
+        {
+          "script": "فيه",
+          "latin": "fyh",
+          "translation": "in it / him"
+        },
+        {
+          "script": "قال",
+          "latin": "qal",
+          "translation": "he said"
+        },
+        {
+          "script": "قبل",
+          "latin": "qbl",
+          "translation": "before"
+        },
+        {
+          "script": "قسم",
+          "latin": "qsm",
+          "translation": "section / department"
+        },
+        {
+          "script": "قلم",
+          "latin": "qlm",
+          "translation": "pen"
+        },
+        {
+          "script": "لقد",
+          "latin": "lqd",
+          "translation": "indeed / already"
+        },
+        {
+          "script": "نصف",
+          "latin": "nssf",
+          "translation": "half"
+        },
+        {
+          "script": "نقل",
+          "latin": "nql",
+          "translation": "transport / transfer"
+        },
+        {
+          "script": "وفي",
+          "latin": "wfy",
+          "translation": "and in"
+        },
+        {
+          "script": "وقت",
+          "latin": "wqt",
+          "translation": "time"
+        },
+        {
+          "script": "وقد",
+          "latin": "wqd",
+          "translation": "and may / already"
+        },
+        {
+          "script": "أفضل",
+          "latin": "afddl",
+          "translation": "better / best"
+        },
+        {
+          "script": "أيضا",
+          "latin": "aydda",
+          "translation": "also"
+        },
+        {
+          "script": "اتصل",
+          "latin": "atssl",
+          "translation": "contacted / connected"
+        },
+        {
+          "script": "تقوم",
+          "latin": "tqwm",
+          "translation": "performs / gets up"
+        },
+        {
+          "script": "فيما",
+          "latin": "fyma",
+          "translation": "while / in what"
+        },
+        {
+          "script": "فيها",
+          "latin": "fyha",
+          "translation": "in her / it"
+        },
+        {
+          "script": "موقع",
+          "latin": "mwqaa",
+          "translation": "location / site"
+        },
+        {
+          "script": "نفسه",
+          "latin": "nfsh",
+          "translation": "himself / itself"
+        },
+        {
+          "script": "وقال",
+          "latin": "wqal",
+          "translation": "and he said"
+        },
+        {
+          "script": "الخاص",
+          "latin": "alkhass",
+          "translation": "the private one"
+        },
+        {
+          "script": "الصور",
+          "latin": "alsswr",
+          "translation": "the pictures"
+        },
+        {
+          "script": "القسم",
+          "latin": "alqsm",
+          "translation": "the section"
+        },
+        {
+          "script": "القمر",
+          "latin": "alqmr",
+          "translation": "the moon"
+        },
+        {
+          "script": "الوقت",
+          "latin": "alwqt",
+          "translation": "the time"
+        },
+        {
+          "script": "تصحيح",
+          "latin": "tsshhyhh",
+          "translation": "correction"
+        },
+        {
+          "script": "قانون",
+          "latin": "qanwn",
+          "translation": "law"
+        },
+        {
+          "script": "ملفات",
+          "latin": "mlfat",
+          "translation": "files"
+        },
+        {
+          "script": "مواقع",
+          "latin": "mwaqaa",
+          "translation": "sites / locations"
+        },
+        {
+          "script": "الأبيض",
+          "latin": "alabydd",
+          "translation": "white"
+        },
+        {
+          "script": "الحصول",
+          "latin": "alhhsswl",
+          "translation": "obtaining"
+        },
+        {
+          "script": "الماضي",
+          "latin": "almaddy",
+          "translation": "the past"
+        },
+        {
+          "script": "الموقع",
+          "latin": "almwqaa",
+          "translation": "the site"
+        },
+        {
+          "script": "الموضوع",
+          "latin": "almwddwaa",
+          "translation": "the subject"
+        },
+        {
+          "script": "المواضيع",
+          "latin": "almwaddyaa",
+          "translation": "the topics"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "ث",
+        "ط",
+        "ظ",
+        "غ"
+      ],
+      "words": [
+        {
+          "script": "ثم",
+          "latin": "thm",
+          "translation": "then"
+        },
+        {
+          "script": "حظ",
+          "latin": "hhzz",
+          "translation": "luck"
+        },
+        {
+          "script": "ظل",
+          "latin": "zzl",
+          "translation": "shade / remained"
+        },
+        {
+          "script": "ثمن",
+          "latin": "thmn",
+          "translation": "price"
+        },
+        {
+          "script": "حدث",
+          "latin": "hhdth",
+          "translation": "happened / event"
+        },
+        {
+          "script": "حيث",
+          "latin": "hhyth",
+          "translation": "where"
+        },
+        {
+          "script": "رغم",
+          "latin": "rghm",
+          "translation": "despite"
+        },
+        {
+          "script": "طلب",
+          "latin": "ttlb",
+          "translation": "request / asked"
+        },
+        {
+          "script": "غير",
+          "latin": "ghyr",
+          "translation": "other / different"
+        },
+        {
+          "script": "فقط",
+          "latin": "fqtt",
+          "translation": "only"
+        },
+        {
+          "script": "مثل",
+          "latin": "mthl",
+          "translation": "like / example"
+        },
+        {
+          "script": "مطر",
+          "latin": "mttr",
+          "translation": "rain"
+        },
+        {
+          "script": "وسط",
+          "latin": "wstt",
+          "translation": "middle / center"
+        },
+        {
+          "script": "أكثر",
+          "latin": "akthr",
+          "translation": "more / most"
+        },
+        {
+          "script": "الطب",
+          "latin": "alttb",
+          "translation": "medicine"
+        },
+        {
+          "script": "تمثل",
+          "latin": "tmthl",
+          "translation": "represents / resembles"
+        },
+        {
+          "script": "ثلاث",
+          "latin": "thlath",
+          "translation": "three"
+        },
+        {
+          "script": "صغير",
+          "latin": "ssghyr",
+          "translation": "small"
+        },
+        {
+          "script": "طالب",
+          "latin": "ttalb",
+          "translation": "student"
+        },
+        {
+          "script": "طريق",
+          "latin": "ttryq",
+          "translation": "road / way"
+        },
+        {
+          "script": "ظلام",
+          "latin": "zzlam",
+          "translation": "darkness"
+        },
+        {
+          "script": "غريب",
+          "latin": "ghryb",
+          "translation": "strange / foreign"
+        },
+        {
+          "script": "قطاع",
+          "latin": "qttaaa",
+          "translation": "sector"
+        },
+        {
+          "script": "مطار",
+          "latin": "mttar",
+          "translation": "airport"
+        },
+        {
+          "script": "نظام",
+          "latin": "nzzam",
+          "translation": "system"
+        },
+        {
+          "script": "البحث",
+          "latin": "albhhth",
+          "translation": "research / search"
+        },
+        {
+          "script": "الثلج",
+          "latin": "althlj",
+          "translation": "snow"
+        },
+        {
+          "script": "الطفل",
+          "latin": "alttfl",
+          "translation": "the child"
+        },
+        {
+          "script": "النظر",
+          "latin": "alnzzr",
+          "translation": "view / consideration"
+        },
+        {
+          "script": "الوطن",
+          "latin": "alwttn",
+          "translation": "homeland"
+        },
+        {
+          "script": "تطبيق",
+          "latin": "tttbyq",
+          "translation": "application / app"
+        },
+        {
+          "script": "تطوير",
+          "latin": "tttwyr",
+          "translation": "development"
+        },
+        {
+          "script": "تنظيف",
+          "latin": "tnzzyf",
+          "translation": "cleaning"
+        },
+        {
+          "script": "تنظيم",
+          "latin": "tnzzym",
+          "translation": "organization"
+        },
+        {
+          "script": "ثانوي",
+          "latin": "thanwy",
+          "translation": "secondary"
+        },
+        {
+          "script": "طلبات",
+          "latin": "ttlbat",
+          "translation": "requests"
+        },
+        {
+          "script": "كثيرا",
+          "latin": "kthyra",
+          "translation": "a lot"
+        },
+        {
+          "script": "متوسط",
+          "latin": "mtwstt",
+          "translation": "average / medium"
+        },
+        {
+          "script": "مناطق",
+          "latin": "mnattq",
+          "translation": "regions"
+        },
+        {
+          "script": "الثالث",
+          "latin": "althalth",
+          "translation": "the third"
+        },
+        {
+          "script": "الثاني",
+          "latin": "althany",
+          "translation": "the second"
+        },
+        {
+          "script": "الحديث",
+          "latin": "alhhdyth",
+          "translation": "modern / conversation"
+        },
+        {
+          "script": "الطريق",
+          "latin": "alttryq",
+          "translation": "the road"
+        },
+        {
+          "script": "الطلاب",
+          "latin": "alttlab",
+          "translation": "students"
+        },
+        {
+          "script": "الكثير",
+          "latin": "alkthyr",
+          "translation": "a lot / many"
+        },
+        {
+          "script": "النظام",
+          "latin": "alnzzam",
+          "translation": "the system"
+        },
+        {
+          "script": "وغيرها",
+          "latin": "wghyrha",
+          "translation": "and others"
+        },
+        {
+          "script": "الأطفال",
+          "latin": "alattfal",
+          "translation": "children"
+        },
+        {
+          "script": "الاثنين",
+          "latin": "alathnyn",
+          "translation": "Monday / the two"
+        },
+        {
+          "script": "المناطق",
+          "latin": "almnattq",
+          "translation": "the regions"
+        }
+      ]
+    }
+  ],
+  "persian": [
+    {
+      "letters": [
+        "ا",
+        "ر",
+        "ی",
+        "د"
+      ],
+      "words": [
+        {
+          "script": "آی",
+          "latin": "aay",
+          "translation": "ouch!"
+        },
+        {
+          "script": "ای",
+          "latin": "ay",
+          "translation": "O / that is"
+        },
+        {
+          "script": "در",
+          "latin": "dr",
+          "translation": "in / at"
+        },
+        {
+          "script": "دی",
+          "latin": "dy",
+          "translation": "yesterday"
+        },
+        {
+          "script": "را",
+          "latin": "ra",
+          "translation": "(object marker)"
+        },
+        {
+          "script": "رد",
+          "latin": "rd",
+          "translation": "rejection / rejected"
+        },
+        {
+          "script": "یا",
+          "latin": "ya",
+          "translation": "or"
+        },
+        {
+          "script": "آرد",
+          "latin": "aard",
+          "translation": "flour"
+        },
+        {
+          "script": "آری",
+          "latin": "aary",
+          "translation": "yes"
+        },
+        {
+          "script": "آیا",
+          "latin": "aaya",
+          "translation": "(question word)"
+        },
+        {
+          "script": "آید",
+          "latin": "aayd",
+          "translation": "comes"
+        },
+        {
+          "script": "ادا",
+          "latin": "ada",
+          "translation": "gesture / performance"
+        },
+        {
+          "script": "داد",
+          "latin": "dad",
+          "translation": "gave / justice"
+        },
+        {
+          "script": "دار",
+          "latin": "dar",
+          "translation": "tree / holder"
+        },
+        {
+          "script": "درد",
+          "latin": "drd",
+          "translation": "pain"
+        },
+        {
+          "script": "دری",
+          "latin": "dry",
+          "translation": "Dari (Persian variety)"
+        },
+        {
+          "script": "دید",
+          "latin": "dyd",
+          "translation": "saw / view"
+        },
+        {
+          "script": "دیر",
+          "latin": "dyr",
+          "translation": "late"
+        },
+        {
+          "script": "رای",
+          "latin": "ray",
+          "translation": "vote / opinion"
+        },
+        {
+          "script": "یاد",
+          "latin": "yad",
+          "translation": "memory"
+        },
+        {
+          "script": "یار",
+          "latin": "yar",
+          "translation": "friend / companion"
+        },
+        {
+          "script": "ادای",
+          "latin": "aday",
+          "translation": "performance of"
+        },
+        {
+          "script": "دادی",
+          "latin": "dady",
+          "translation": "you gave"
+        },
+        {
+          "script": "دارا",
+          "latin": "dara",
+          "translation": "possessing"
+        },
+        {
+          "script": "دارد",
+          "latin": "dard",
+          "translation": "he / she has"
+        },
+        {
+          "script": "داری",
+          "latin": "dary",
+          "translation": "you have"
+        },
+        {
+          "script": "دایر",
+          "latin": "dayr",
+          "translation": "open / operating"
+        },
+        {
+          "script": "دایی",
+          "latin": "dayy",
+          "translation": "maternal uncle"
+        },
+        {
+          "script": "دریا",
+          "latin": "drya",
+          "translation": "sea"
+        },
+        {
+          "script": "دیار",
+          "latin": "dyar",
+          "translation": "land / homeland"
+        },
+        {
+          "script": "دیدی",
+          "latin": "dydy",
+          "translation": "you saw"
+        },
+        {
+          "script": "دیری",
+          "latin": "dyry",
+          "translation": "a long time"
+        },
+        {
+          "script": "یادی",
+          "latin": "yady",
+          "translation": "a remembrance"
+        },
+        {
+          "script": "یاری",
+          "latin": "yary",
+          "translation": "help / aid"
+        },
+        {
+          "script": "اداری",
+          "latin": "adary",
+          "translation": "administrative"
+        },
+        {
+          "script": "ادرار",
+          "latin": "adrar",
+          "translation": "urine"
+        },
+        {
+          "script": "ارادی",
+          "latin": "arady",
+          "translation": "voluntary"
+        },
+        {
+          "script": "ایراد",
+          "latin": "ayrad",
+          "translation": "objection / problem"
+        },
+        {
+          "script": "دارای",
+          "latin": "daray",
+          "translation": "having / possessing"
+        },
+        {
+          "script": "دارید",
+          "latin": "daryd",
+          "translation": "you (plural) have"
+        },
+        {
+          "script": "درآید",
+          "latin": "draayd",
+          "translation": "comes out / becomes"
+        },
+        {
+          "script": "دریای",
+          "latin": "dryay",
+          "translation": "of the sea"
+        },
+        {
+          "script": "دیدار",
+          "latin": "dydar",
+          "translation": "meeting / visit"
+        },
+        {
+          "script": "دیدید",
+          "latin": "dydyd",
+          "translation": "you (plural) saw"
+        },
+        {
+          "script": "رادار",
+          "latin": "radar",
+          "translation": "radar"
+        },
+        {
+          "script": "ادراری",
+          "latin": "adrary",
+          "translation": "urinary"
+        },
+        {
+          "script": "دارایی",
+          "latin": "darayy",
+          "translation": "assets / property"
+        },
+        {
+          "script": "دریایی",
+          "latin": "dryayy",
+          "translation": "marine"
+        },
+        {
+          "script": "دیداری",
+          "latin": "dydary",
+          "translation": "visual / meeting"
+        },
+        {
+          "script": "دریادار",
+          "latin": "dryadar",
+          "translation": "admiral"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "ب",
+        "پ",
+        "ت",
+        "ن"
+      ],
+      "words": [
+        {
+          "script": "آب",
+          "latin": "aab",
+          "translation": "water"
+        },
+        {
+          "script": "آن",
+          "latin": "aan",
+          "translation": "that"
+        },
+        {
+          "script": "با",
+          "latin": "ba",
+          "translation": "with"
+        },
+        {
+          "script": "بر",
+          "latin": "br",
+          "translation": "on / over"
+        },
+        {
+          "script": "بن",
+          "latin": "bn",
+          "translation": "base / root"
+        },
+        {
+          "script": "تا",
+          "latin": "ta",
+          "translation": "until"
+        },
+        {
+          "script": "تب",
+          "latin": "tb",
+          "translation": "fever"
+        },
+        {
+          "script": "تر",
+          "latin": "tr",
+          "translation": "wet"
+        },
+        {
+          "script": "تن",
+          "latin": "tn",
+          "translation": "body"
+        },
+        {
+          "script": "پا",
+          "latin": "pa",
+          "translation": "foot / leg"
+        },
+        {
+          "script": "پر",
+          "latin": "pr",
+          "translation": "full / feather"
+        },
+        {
+          "script": "پی",
+          "latin": "py",
+          "translation": "after / tendon"
+        },
+        {
+          "script": "آبی",
+          "latin": "aaby",
+          "translation": "blue"
+        },
+        {
+          "script": "اند",
+          "latin": "and",
+          "translation": "are"
+        },
+        {
+          "script": "این",
+          "latin": "ayn",
+          "translation": "this"
+        },
+        {
+          "script": "باب",
+          "latin": "bab",
+          "translation": "chapter / subject"
+        },
+        {
+          "script": "باد",
+          "latin": "bad",
+          "translation": "wind"
+        },
+        {
+          "script": "بار",
+          "latin": "bar",
+          "translation": "time / load"
+        },
+        {
+          "script": "بدن",
+          "latin": "bdn",
+          "translation": "body"
+        },
+        {
+          "script": "برد",
+          "latin": "brd",
+          "translation": "won / took"
+        },
+        {
+          "script": "بنا",
+          "latin": "bna",
+          "translation": "building / basis"
+        },
+        {
+          "script": "بین",
+          "latin": "byn",
+          "translation": "between / see"
+        },
+        {
+          "script": "تیر",
+          "latin": "tyr",
+          "translation": "arrow"
+        },
+        {
+          "script": "دین",
+          "latin": "dyn",
+          "translation": "religion"
+        },
+        {
+          "script": "نان",
+          "latin": "nan",
+          "translation": "bread"
+        },
+        {
+          "script": "پای",
+          "latin": "pay",
+          "translation": "foot / of the foot"
+        },
+        {
+          "script": "پدر",
+          "latin": "pdr",
+          "translation": "father"
+        },
+        {
+          "script": "پیر",
+          "latin": "pyr",
+          "translation": "old"
+        },
+        {
+          "script": "آباد",
+          "latin": "aabad",
+          "translation": "settled / flourishing"
+        },
+        {
+          "script": "آنان",
+          "latin": "aanan",
+          "translation": "they"
+        },
+        {
+          "script": "ادبی",
+          "latin": "adby",
+          "translation": "literary"
+        },
+        {
+          "script": "باید",
+          "latin": "bayd",
+          "translation": "must"
+        },
+        {
+          "script": "بدین",
+          "latin": "bdyn",
+          "translation": "in this way"
+        },
+        {
+          "script": "برای",
+          "latin": "bray",
+          "translation": "for"
+        },
+        {
+          "script": "بندر",
+          "latin": "bndr",
+          "translation": "port"
+        },
+        {
+          "script": "بندی",
+          "latin": "bndy",
+          "translation": "prisoner / binding"
+        },
+        {
+          "script": "بیان",
+          "latin": "byan",
+          "translation": "statement / expression"
+        },
+        {
+          "script": "دادن",
+          "latin": "dadn",
+          "translation": "to give"
+        },
+        {
+          "script": "دنیا",
+          "latin": "dnya",
+          "translation": "world"
+        },
+        {
+          "script": "پیدا",
+          "latin": "pyda",
+          "translation": "found / visible"
+        },
+        {
+          "script": "ابتدا",
+          "latin": "abtda",
+          "translation": "beginning"
+        },
+        {
+          "script": "برابر",
+          "latin": "brabr",
+          "translation": "equal / opposite"
+        },
+        {
+          "script": "برادر",
+          "latin": "bradr",
+          "translation": "brother"
+        },
+        {
+          "script": "ترتیب",
+          "latin": "trtyb",
+          "translation": "order / arrangement"
+        },
+        {
+          "script": "دادند",
+          "latin": "dadnd",
+          "translation": "they gave"
+        },
+        {
+          "script": "دارند",
+          "latin": "darnd",
+          "translation": "they have"
+        },
+        {
+          "script": "ندارد",
+          "latin": "ndard",
+          "translation": "he / she does not have"
+        },
+        {
+          "script": "پایان",
+          "latin": "payan",
+          "translation": "end"
+        },
+        {
+          "script": "پایین",
+          "latin": "payyn",
+          "translation": "low / down"
+        },
+        {
+          "script": "بنابراین",
+          "latin": "bnabrayn",
+          "translation": "therefore"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "م",
+        "و",
+        "ه",
+        "ل"
+      ],
+      "words": [
+        {
+          "script": "او",
+          "latin": "av",
+          "translation": "he / she"
+        },
+        {
+          "script": "به",
+          "latin": "bh",
+          "translation": "to / for"
+        },
+        {
+          "script": "دو",
+          "latin": "dv",
+          "translation": "two"
+        },
+        {
+          "script": "من",
+          "latin": "mn",
+          "translation": "I / me"
+        },
+        {
+          "script": "مو",
+          "latin": "mv",
+          "translation": "hair"
+        },
+        {
+          "script": "می",
+          "latin": "my",
+          "translation": "wine"
+        },
+        {
+          "script": "نه",
+          "latin": "nh",
+          "translation": "no / not"
+        },
+        {
+          "script": "هر",
+          "latin": "hr",
+          "translation": "each / every"
+        },
+        {
+          "script": "هم",
+          "latin": "hm",
+          "translation": "also / too"
+        },
+        {
+          "script": "وی",
+          "latin": "vy",
+          "translation": "he / she"
+        },
+        {
+          "script": "آمد",
+          "latin": "aamd",
+          "translation": "came"
+        },
+        {
+          "script": "اما",
+          "latin": "ama",
+          "translation": "but"
+        },
+        {
+          "script": "اهل",
+          "latin": "ahl",
+          "translation": "from / people of"
+        },
+        {
+          "script": "اول",
+          "latin": "avl",
+          "translation": "first"
+        },
+        {
+          "script": "بود",
+          "latin": "bvd",
+          "translation": "was"
+        },
+        {
+          "script": "تیم",
+          "latin": "tym",
+          "translation": "team"
+        },
+        {
+          "script": "دوم",
+          "latin": "dvm",
+          "translation": "second"
+        },
+        {
+          "script": "راه",
+          "latin": "rah",
+          "translation": "road / way"
+        },
+        {
+          "script": "روی",
+          "latin": "rvy",
+          "translation": "on / face"
+        },
+        {
+          "script": "ماه",
+          "latin": "mah",
+          "translation": "moon / month"
+        },
+        {
+          "script": "متر",
+          "latin": "mtr",
+          "translation": "meter"
+        },
+        {
+          "script": "ملی",
+          "latin": "mly",
+          "translation": "national"
+        },
+        {
+          "script": "مهم",
+          "latin": "mhm",
+          "translation": "important"
+        },
+        {
+          "script": "نام",
+          "latin": "nam",
+          "translation": "name"
+        },
+        {
+          "script": "همه",
+          "latin": "hmh",
+          "translation": "all / everyone"
+        },
+        {
+          "script": "هوا",
+          "latin": "hva",
+          "translation": "air / weather"
+        },
+        {
+          "script": "ولی",
+          "latin": "vly",
+          "translation": "but"
+        },
+        {
+          "script": "آنها",
+          "latin": "aanha",
+          "translation": "they"
+        },
+        {
+          "script": "بوده",
+          "latin": "bvdh",
+          "translation": "has been"
+        },
+        {
+          "script": "تمام",
+          "latin": "tmam",
+          "translation": "all / complete"
+        },
+        {
+          "script": "تنها",
+          "latin": "tnha",
+          "translation": "alone / only"
+        },
+        {
+          "script": "داده",
+          "latin": "dadh",
+          "translation": "given / data"
+        },
+        {
+          "script": "دوره",
+          "latin": "dvrh",
+          "translation": "period / course"
+        },
+        {
+          "script": "دولت",
+          "latin": "dvlt",
+          "translation": "government"
+        },
+        {
+          "script": "مردم",
+          "latin": "mrdm",
+          "translation": "people"
+        },
+        {
+          "script": "مورد",
+          "latin": "mvrd",
+          "translation": "case / instance"
+        },
+        {
+          "script": "میان",
+          "latin": "myan",
+          "translation": "between / among"
+        },
+        {
+          "script": "نامه",
+          "latin": "namh",
+          "translation": "letter"
+        },
+        {
+          "script": "نمود",
+          "latin": "nmvd",
+          "translation": "showed / appeared"
+        },
+        {
+          "script": "همان",
+          "latin": "hman",
+          "translation": "that same"
+        },
+        {
+          "script": "همین",
+          "latin": "hmyn",
+          "translation": "this very / exactly this"
+        },
+        {
+          "script": "اولین",
+          "latin": "avlyn",
+          "translation": "first"
+        },
+        {
+          "script": "بودند",
+          "latin": "bvdnd",
+          "translation": "they were"
+        },
+        {
+          "script": "بیرون",
+          "latin": "byrvn",
+          "translation": "outside"
+        },
+        {
+          "script": "دوران",
+          "latin": "dvran",
+          "translation": "era / period"
+        },
+        {
+          "script": "مانند",
+          "latin": "mannd",
+          "translation": "like / resembling"
+        },
+        {
+          "script": "همراه",
+          "latin": "hmrah",
+          "translation": "companion / together with"
+        },
+        {
+          "script": "پیوند",
+          "latin": "pyvnd",
+          "translation": "bond / connection"
+        },
+        {
+          "script": "برنامه",
+          "latin": "brnamh",
+          "translation": "program / plan"
+        },
+        {
+          "script": "بهترین",
+          "latin": "bhtryn",
+          "translation": "best"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "س",
+        "ش",
+        "ک",
+        "گ"
+      ],
+      "words": [
+        {
+          "script": "سر",
+          "latin": "sr",
+          "translation": "head"
+        },
+        {
+          "script": "سه",
+          "latin": "sh",
+          "translation": "three"
+        },
+        {
+          "script": "سگ",
+          "latin": "sg",
+          "translation": "dog"
+        },
+        {
+          "script": "شب",
+          "latin": "shb",
+          "translation": "night"
+        },
+        {
+          "script": "شد",
+          "latin": "shd",
+          "translation": "became"
+        },
+        {
+          "script": "پس",
+          "latin": "ps",
+          "translation": "then / after"
+        },
+        {
+          "script": "که",
+          "latin": "kh",
+          "translation": "that / who"
+        },
+        {
+          "script": "گل",
+          "latin": "gl",
+          "translation": "flower"
+        },
+        {
+          "script": "یک",
+          "latin": "yk",
+          "translation": "one"
+        },
+        {
+          "script": "است",
+          "latin": "ast",
+          "translation": "is"
+        },
+        {
+          "script": "اگر",
+          "latin": "agr",
+          "translation": "if"
+        },
+        {
+          "script": "دست",
+          "latin": "dst",
+          "translation": "hand"
+        },
+        {
+          "script": "سال",
+          "latin": "sal",
+          "translation": "year"
+        },
+        {
+          "script": "سیب",
+          "latin": "syb",
+          "translation": "apple"
+        },
+        {
+          "script": "شدن",
+          "latin": "shdn",
+          "translation": "to become"
+        },
+        {
+          "script": "شده",
+          "latin": "shdh",
+          "translation": "has become"
+        },
+        {
+          "script": "شهر",
+          "latin": "shhr",
+          "translation": "city"
+        },
+        {
+          "script": "شود",
+          "latin": "shvd",
+          "translation": "becomes / may become"
+        },
+        {
+          "script": "شکر",
+          "latin": "shkr",
+          "translation": "sugar / thanks"
+        },
+        {
+          "script": "شکل",
+          "latin": "shkl",
+          "translation": "shape / form"
+        },
+        {
+          "script": "شیر",
+          "latin": "shyr",
+          "translation": "milk / lion"
+        },
+        {
+          "script": "مرگ",
+          "latin": "mrg",
+          "translation": "death"
+        },
+        {
+          "script": "پیش",
+          "latin": "pysh",
+          "translation": "before / in front"
+        },
+        {
+          "script": "کار",
+          "latin": "kar",
+          "translation": "work"
+        },
+        {
+          "script": "کرد",
+          "latin": "krd",
+          "translation": "did"
+        },
+        {
+          "script": "کند",
+          "latin": "knd",
+          "translation": "does / makes"
+        },
+        {
+          "script": "یکی",
+          "latin": "yky",
+          "translation": "one / someone"
+        },
+        {
+          "script": "اساس",
+          "latin": "asas",
+          "translation": "basis / foundation"
+        },
+        {
+          "script": "باشد",
+          "latin": "bashd",
+          "translation": "is / may be"
+        },
+        {
+          "script": "داشت",
+          "latin": "dasht",
+          "translation": "had"
+        },
+        {
+          "script": "دیگر",
+          "latin": "dygr",
+          "translation": "other / another"
+        },
+        {
+          "script": "رسمی",
+          "latin": "rsmy",
+          "translation": "official / formal"
+        },
+        {
+          "script": "شامل",
+          "latin": "shaml",
+          "translation": "including"
+        },
+        {
+          "script": "شرکت",
+          "latin": "shrkt",
+          "translation": "company / participation"
+        },
+        {
+          "script": "شمال",
+          "latin": "shmal",
+          "translation": "north"
+        },
+        {
+          "script": "نشان",
+          "latin": "nshan",
+          "translation": "sign / mark"
+        },
+        {
+          "script": "کتاب",
+          "latin": "ktab",
+          "translation": "book"
+        },
+        {
+          "script": "کردن",
+          "latin": "krdn",
+          "translation": "to do"
+        },
+        {
+          "script": "کرده",
+          "latin": "krdh",
+          "translation": "done"
+        },
+        {
+          "script": "کشور",
+          "latin": "kshvr",
+          "translation": "country"
+        },
+        {
+          "script": "گربه",
+          "latin": "grbh",
+          "translation": "cat"
+        },
+        {
+          "script": "گروه",
+          "latin": "grvh",
+          "translation": "group"
+        },
+        {
+          "script": "بسیار",
+          "latin": "bsyar",
+          "translation": "very / many"
+        },
+        {
+          "script": "بیشتر",
+          "latin": "byshtr",
+          "translation": "more"
+        },
+        {
+          "script": "تشکیل",
+          "latin": "tshkyl",
+          "translation": "formation"
+        },
+        {
+          "script": "داشته",
+          "latin": "dashth",
+          "translation": "had / having"
+        },
+        {
+          "script": "هستند",
+          "latin": "hstnd",
+          "translation": "they are"
+        },
+        {
+          "script": "کردند",
+          "latin": "krdnd",
+          "translation": "they did"
+        },
+        {
+          "script": "بسیاری",
+          "latin": "bsyary",
+          "translation": "many"
+        },
+        {
+          "script": "شهرهای",
+          "latin": "shhrhay",
+          "translation": "cities"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "ج",
+        "چ",
+        "ح",
+        "خ"
+      ],
+      "words": [
+        {
+          "script": "چه",
+          "latin": "chh",
+          "translation": "what"
+        },
+        {
+          "script": "بخش",
+          "latin": "bkhsh",
+          "translation": "part / section"
+        },
+        {
+          "script": "بچه",
+          "latin": "bchh",
+          "translation": "child"
+        },
+        {
+          "script": "تحت",
+          "latin": "thht",
+          "translation": "under"
+        },
+        {
+          "script": "جان",
+          "latin": "jan",
+          "translation": "life / soul"
+        },
+        {
+          "script": "جای",
+          "latin": "jay",
+          "translation": "place"
+        },
+        {
+          "script": "جنگ",
+          "latin": "jng",
+          "translation": "war"
+        },
+        {
+          "script": "جهت",
+          "latin": "jht",
+          "translation": "direction / reason"
+        },
+        {
+          "script": "حال",
+          "latin": "hhal",
+          "translation": "state / now"
+        },
+        {
+          "script": "خرس",
+          "latin": "khrs",
+          "translation": "bear"
+        },
+        {
+          "script": "خوب",
+          "latin": "khvb",
+          "translation": "good"
+        },
+        {
+          "script": "خود",
+          "latin": "khvd",
+          "translation": "self"
+        },
+        {
+          "script": "محل",
+          "latin": "mhhl",
+          "translation": "place / location"
+        },
+        {
+          "script": "هیچ",
+          "latin": "hych",
+          "translation": "none / nothing"
+        },
+        {
+          "script": "چاپ",
+          "latin": "chap",
+          "translation": "printing"
+        },
+        {
+          "script": "چای",
+          "latin": "chay",
+          "translation": "tea"
+        },
+        {
+          "script": "چشم",
+          "latin": "chshm",
+          "translation": "eye"
+        },
+        {
+          "script": "چند",
+          "latin": "chnd",
+          "translation": "several / how many"
+        },
+        {
+          "script": "چون",
+          "latin": "chvn",
+          "translation": "because / like"
+        },
+        {
+          "script": "آنجا",
+          "latin": "aanja",
+          "translation": "there"
+        },
+        {
+          "script": "برخی",
+          "latin": "brkhy",
+          "translation": "some"
+        },
+        {
+          "script": "توجه",
+          "latin": "tvjh",
+          "translation": "attention"
+        },
+        {
+          "script": "جدید",
+          "latin": "jdyd",
+          "translation": "new"
+        },
+        {
+          "script": "جمله",
+          "latin": "jmlh",
+          "translation": "sentence"
+        },
+        {
+          "script": "جنوب",
+          "latin": "jnvb",
+          "translation": "south"
+        },
+        {
+          "script": "جهان",
+          "latin": "jhan",
+          "translation": "world"
+        },
+        {
+          "script": "حدود",
+          "latin": "hhdvd",
+          "translation": "about / limits"
+        },
+        {
+          "script": "خانه",
+          "latin": "khanh",
+          "translation": "house"
+        },
+        {
+          "script": "درجه",
+          "latin": "drjh",
+          "translation": "degree / level"
+        },
+        {
+          "script": "ساخت",
+          "latin": "sakht",
+          "translation": "made / built"
+        },
+        {
+          "script": "مجلس",
+          "latin": "mjls",
+          "translation": "assembly / parliament"
+        },
+        {
+          "script": "محبت",
+          "latin": "mhhbt",
+          "translation": "love / affection"
+        },
+        {
+          "script": "مسجد",
+          "latin": "msjd",
+          "translation": "mosque"
+        },
+        {
+          "script": "وجود",
+          "latin": "vjvd",
+          "translation": "existence"
+        },
+        {
+          "script": "چنین",
+          "latin": "chnyn",
+          "translation": "such / like this"
+        },
+        {
+          "script": "چهار",
+          "latin": "chhar",
+          "translation": "four"
+        },
+        {
+          "script": "کوچک",
+          "latin": "kvchk",
+          "translation": "small"
+        },
+        {
+          "script": "انجام",
+          "latin": "anjam",
+          "translation": "completion / result"
+        },
+        {
+          "script": "ایجاد",
+          "latin": "ayjad",
+          "translation": "creation"
+        },
+        {
+          "script": "تاریخ",
+          "latin": "tarykh",
+          "translation": "history / date"
+        },
+        {
+          "script": "ترجمه",
+          "latin": "trjmh",
+          "translation": "translation"
+        },
+        {
+          "script": "جنوبی",
+          "latin": "jnvby",
+          "translation": "southern"
+        },
+        {
+          "script": "جهانی",
+          "latin": "jhany",
+          "translation": "global"
+        },
+        {
+          "script": "خواهد",
+          "latin": "khvahd",
+          "translation": "will / wants"
+        },
+        {
+          "script": "ساخته",
+          "latin": "sakhth",
+          "translation": "made / built"
+        },
+        {
+          "script": "انتخاب",
+          "latin": "antkhab",
+          "translation": "choice / election"
+        },
+        {
+          "script": "تاریخی",
+          "latin": "tarykhy",
+          "translation": "historical"
+        },
+        {
+          "script": "خانوار",
+          "latin": "khanvar",
+          "translation": "household"
+        },
+        {
+          "script": "نخستین",
+          "latin": "nkhstyn",
+          "translation": "first / earliest"
+        },
+        {
+          "script": "همچنین",
+          "latin": "hmchnyn",
+          "translation": "also"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "ز",
+        "ژ",
+        "ذ",
+        "ض"
+      ],
+      "words": [
+        {
+          "script": "از",
+          "latin": "az",
+          "translation": "from"
+        },
+        {
+          "script": "زن",
+          "latin": "zn",
+          "translation": "woman"
+        },
+        {
+          "script": "ضد",
+          "latin": "ddd",
+          "translation": "against / opposite"
+        },
+        {
+          "script": "باز",
+          "latin": "baz",
+          "translation": "open / again"
+        },
+        {
+          "script": "حزب",
+          "latin": "hhzb",
+          "translation": "party"
+        },
+        {
+          "script": "ذرت",
+          "latin": "dhrt",
+          "translation": "corn"
+        },
+        {
+          "script": "ذهن",
+          "latin": "dhhn",
+          "translation": "mind"
+        },
+        {
+          "script": "ذکر",
+          "latin": "dhkr",
+          "translation": "mention / remembrance"
+        },
+        {
+          "script": "روز",
+          "latin": "rvz",
+          "translation": "day"
+        },
+        {
+          "script": "زیر",
+          "latin": "zyr",
+          "translation": "under"
+        },
+        {
+          "script": "سوز",
+          "latin": "svz",
+          "translation": "burning / yearning"
+        },
+        {
+          "script": "ضرر",
+          "latin": "ddrr",
+          "translation": "harm / loss"
+        },
+        {
+          "script": "لذت",
+          "latin": "ldht",
+          "translation": "pleasure"
+        },
+        {
+          "script": "مژه",
+          "latin": "mzhh",
+          "translation": "eyelash"
+        },
+        {
+          "script": "نیز",
+          "latin": "nyz",
+          "translation": "also"
+        },
+        {
+          "script": "آزاد",
+          "latin": "aazad",
+          "translation": "free"
+        },
+        {
+          "script": "بازی",
+          "latin": "bazy",
+          "translation": "game / playing"
+        },
+        {
+          "script": "بزرگ",
+          "latin": "bzrg",
+          "translation": "big"
+        },
+        {
+          "script": "حاضر",
+          "latin": "hhaddr",
+          "translation": "present / ready"
+        },
+        {
+          "script": "حضور",
+          "latin": "hhddvr",
+          "translation": "presence"
+        },
+        {
+          "script": "زاده",
+          "latin": "zadh",
+          "translation": "born / offspring"
+        },
+        {
+          "script": "زبان",
+          "latin": "zban",
+          "translation": "language / tongue"
+        },
+        {
+          "script": "زمان",
+          "latin": "zman",
+          "translation": "time"
+        },
+        {
+          "script": "زمین",
+          "latin": "zmyn",
+          "translation": "land / earth"
+        },
+        {
+          "script": "زنان",
+          "latin": "znan",
+          "translation": "women"
+        },
+        {
+          "script": "ضربه",
+          "latin": "ddrbh",
+          "translation": "blow / hit"
+        },
+        {
+          "script": "مرکز",
+          "latin": "mrkz",
+          "translation": "center"
+        },
+        {
+          "script": "نژاد",
+          "latin": "nzhad",
+          "translation": "lineage / race"
+        },
+        {
+          "script": "هزار",
+          "latin": "hzar",
+          "translation": "thousand"
+        },
+        {
+          "script": "واژه",
+          "latin": "vazhh",
+          "translation": "word"
+        },
+        {
+          "script": "ویژه",
+          "latin": "vyzhh",
+          "translation": "special"
+        },
+        {
+          "script": "آموزش",
+          "latin": "aamvzsh",
+          "translation": "education"
+        },
+        {
+          "script": "انرژی",
+          "latin": "anrzhy",
+          "translation": "energy"
+        },
+        {
+          "script": "توضیح",
+          "latin": "tvddyhh",
+          "translation": "explanation"
+        },
+        {
+          "script": "جایزه",
+          "latin": "jayzh",
+          "translation": "prize / award"
+        },
+        {
+          "script": "جزیره",
+          "latin": "jzyrh",
+          "translation": "island"
+        },
+        {
+          "script": "ذخیره",
+          "latin": "dhkhyrh",
+          "translation": "reserve / storage"
+        },
+        {
+          "script": "زمانی",
+          "latin": "zmany",
+          "translation": "at one time / temporal"
+        },
+        {
+          "script": "زمینه",
+          "latin": "zmynh",
+          "translation": "background / field"
+        },
+        {
+          "script": "زندگی",
+          "latin": "zndgy",
+          "translation": "life"
+        },
+        {
+          "script": "زیادی",
+          "latin": "zyady",
+          "translation": "too much / many"
+        },
+        {
+          "script": "مرکزی",
+          "latin": "mrkzy",
+          "translation": "central"
+        },
+        {
+          "script": "نزدیک",
+          "latin": "nzdyk",
+          "translation": "near / close"
+        },
+        {
+          "script": "وزارت",
+          "latin": "vzart",
+          "translation": "ministry"
+        },
+        {
+          "script": "پزشکی",
+          "latin": "pzshky",
+          "translation": "medicine"
+        },
+        {
+          "script": "پژوهش",
+          "latin": "pzhvhsh",
+          "translation": "research"
+        },
+        {
+          "script": "گذشته",
+          "latin": "gdhshth",
+          "translation": "past"
+        },
+        {
+          "script": "بازدید",
+          "latin": "bazdyd",
+          "translation": "visit / inspection"
+        },
+        {
+          "script": "سازمان",
+          "latin": "sazman",
+          "translation": "organization"
+        },
+        {
+          "script": "روزنامه",
+          "latin": "rvznamh",
+          "translation": "newspaper"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "ف",
+        "ق",
+        "ع",
+        "غ"
+      ],
+      "words": [
+        {
+          "script": "غم",
+          "latin": "ghm",
+          "translation": "sorrow"
+        },
+        {
+          "script": "باغ",
+          "latin": "bagh",
+          "translation": "garden"
+        },
+        {
+          "script": "بعد",
+          "latin": "baad",
+          "translation": "after / then"
+        },
+        {
+          "script": "علم",
+          "latin": "aalm",
+          "translation": "knowledge / science"
+        },
+        {
+          "script": "غذا",
+          "latin": "ghdha",
+          "translation": "food"
+        },
+        {
+          "script": "غرب",
+          "latin": "ghrb",
+          "translation": "west"
+        },
+        {
+          "script": "غیر",
+          "latin": "ghyr",
+          "translation": "other / except"
+        },
+        {
+          "script": "فیل",
+          "latin": "fyl",
+          "translation": "elephant"
+        },
+        {
+          "script": "قبل",
+          "latin": "qbl",
+          "translation": "before"
+        },
+        {
+          "script": "قدر",
+          "latin": "qdr",
+          "translation": "amount / value"
+        },
+        {
+          "script": "قرن",
+          "latin": "qrn",
+          "translation": "century"
+        },
+        {
+          "script": "قلم",
+          "latin": "qlm",
+          "translation": "pen"
+        },
+        {
+          "script": "نفر",
+          "latin": "nfr",
+          "translation": "person (counting)"
+        },
+        {
+          "script": "نقش",
+          "latin": "nqsh",
+          "translation": "role / design"
+        },
+        {
+          "script": "نوع",
+          "latin": "nvaa",
+          "translation": "type / kind"
+        },
+        {
+          "script": "آغاز",
+          "latin": "aaghaz",
+          "translation": "beginning"
+        },
+        {
+          "script": "جعبه",
+          "latin": "jaabh",
+          "translation": "box"
+        },
+        {
+          "script": "شرقی",
+          "latin": "shrqy",
+          "translation": "eastern"
+        },
+        {
+          "script": "علمی",
+          "latin": "aalmy",
+          "translation": "scientific"
+        },
+        {
+          "script": "غربی",
+          "latin": "ghrby",
+          "translation": "western"
+        },
+        {
+          "script": "فیلم",
+          "latin": "fylm",
+          "translation": "movie"
+        },
+        {
+          "script": "قابل",
+          "latin": "qabl",
+          "translation": "able / suitable"
+        },
+        {
+          "script": "قرار",
+          "latin": "qrar",
+          "translation": "agreement / appointment"
+        },
+        {
+          "script": "قلعه",
+          "latin": "qlaah",
+          "translation": "castle"
+        },
+        {
+          "script": "منبع",
+          "latin": "mnbaa",
+          "translation": "source"
+        },
+        {
+          "script": "واقع",
+          "latin": "vaqaa",
+          "translation": "real / actual"
+        },
+        {
+          "script": "گرفت",
+          "latin": "grft",
+          "translation": "took"
+        },
+        {
+          "script": "گفته",
+          "latin": "gfth",
+          "translation": "said"
+        },
+        {
+          "script": "یافت",
+          "latin": "yaft",
+          "translation": "found"
+        },
+        {
+          "script": "یعنی",
+          "latin": "yaany",
+          "translation": "meaning / that is"
+        },
+        {
+          "script": "اعلام",
+          "latin": "aaalam",
+          "translation": "announcement"
+        },
+        {
+          "script": "افراد",
+          "latin": "afrad",
+          "translation": "people / individuals"
+        },
+        {
+          "script": "تعداد",
+          "latin": "taadad",
+          "translation": "number / quantity"
+        },
+        {
+          "script": "تغییر",
+          "latin": "tghyyr",
+          "translation": "change"
+        },
+        {
+          "script": "جمعیت",
+          "latin": "jmaayt",
+          "translation": "population"
+        },
+        {
+          "script": "عمومی",
+          "latin": "aamvmy",
+          "translation": "public / general"
+        },
+        {
+          "script": "عنوان",
+          "latin": "aanvan",
+          "translation": "title / as"
+        },
+        {
+          "script": "فارسی",
+          "latin": "farsy",
+          "translation": "Persian"
+        },
+        {
+          "script": "فرهنگ",
+          "latin": "frhng",
+          "translation": "culture"
+        },
+        {
+          "script": "فهرست",
+          "latin": "fhrst",
+          "translation": "list"
+        },
+        {
+          "script": "قانون",
+          "latin": "qanvn",
+          "translation": "law"
+        },
+        {
+          "script": "مختلف",
+          "latin": "mkhtlf",
+          "translation": "different"
+        },
+        {
+          "script": "معروف",
+          "latin": "maarvf",
+          "translation": "famous"
+        },
+        {
+          "script": "منابع",
+          "latin": "mnabaa",
+          "translation": "sources"
+        },
+        {
+          "script": "گرفته",
+          "latin": "grfth",
+          "translation": "taken"
+        },
+        {
+          "script": "فرهنگی",
+          "latin": "frhngy",
+          "translation": "cultural"
+        },
+        {
+          "script": "فعالیت",
+          "latin": "faaalyt",
+          "translation": "activity"
+        },
+        {
+          "script": "مجموعه",
+          "latin": "mjmvaah",
+          "translation": "collection"
+        },
+        {
+          "script": "موسیقی",
+          "latin": "mvsyqy",
+          "translation": "music"
+        },
+        {
+          "script": "استفاده",
+          "latin": "astfadh",
+          "translation": "use"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "ث",
+        "ص",
+        "ط",
+        "ظ"
+      ],
+      "words": [
+        {
+          "script": "خط",
+          "latin": "khtt",
+          "translation": "line"
+        },
+        {
+          "script": "طی",
+          "latin": "tty",
+          "translation": "during"
+        },
+        {
+          "script": "اثر",
+          "latin": "athr",
+          "translation": "effect / trace"
+        },
+        {
+          "script": "اصل",
+          "latin": "assl",
+          "translation": "original / principle"
+        },
+        {
+          "script": "بحث",
+          "latin": "bhhth",
+          "translation": "discussion"
+        },
+        {
+          "script": "ثبت",
+          "latin": "thbt",
+          "translation": "registration"
+        },
+        {
+          "script": "خاص",
+          "latin": "khass",
+          "translation": "special / private"
+        },
+        {
+          "script": "سطح",
+          "latin": "stthh",
+          "translation": "level / surface"
+        },
+        {
+          "script": "صبح",
+          "latin": "ssbhh",
+          "translation": "morning"
+        },
+        {
+          "script": "طبق",
+          "latin": "ttbq",
+          "translation": "according to"
+        },
+        {
+          "script": "طرح",
+          "latin": "ttrhh",
+          "translation": "plan / design"
+        },
+        {
+          "script": "طرف",
+          "latin": "ttrf",
+          "translation": "side / person"
+        },
+        {
+          "script": "طور",
+          "latin": "ttvr",
+          "translation": "way / manner"
+        },
+        {
+          "script": "طول",
+          "latin": "ttvl",
+          "translation": "length"
+        },
+        {
+          "script": "ظرف",
+          "latin": "zzrf",
+          "translation": "dish / container"
+        },
+        {
+          "script": "فصل",
+          "latin": "fssl",
+          "translation": "season / chapter"
+        },
+        {
+          "script": "فقط",
+          "latin": "fqtt",
+          "translation": "only"
+        },
+        {
+          "script": "مثل",
+          "latin": "mthl",
+          "translation": "like / example"
+        },
+        {
+          "script": "نظر",
+          "latin": "nzzr",
+          "translation": "opinion / view"
+        },
+        {
+          "script": "آثار",
+          "latin": "aathar",
+          "translation": "works / effects"
+        },
+        {
+          "script": "اصلی",
+          "latin": "assly",
+          "translation": "main / original"
+        },
+        {
+          "script": "باعث",
+          "latin": "baaath",
+          "translation": "cause"
+        },
+        {
+          "script": "توسط",
+          "latin": "tvstt",
+          "translation": "by / through"
+        },
+        {
+          "script": "ثابت",
+          "latin": "thabt",
+          "translation": "fixed / constant"
+        },
+        {
+          "script": "خاطر",
+          "latin": "khattr",
+          "translation": "sake / mind"
+        },
+        {
+          "script": "درصد",
+          "latin": "drssd",
+          "translation": "percent"
+        },
+        {
+          "script": "شخصی",
+          "latin": "shkhssy",
+          "translation": "personal"
+        },
+        {
+          "script": "صفحه",
+          "latin": "ssfhhh",
+          "translation": "page"
+        },
+        {
+          "script": "صورت",
+          "latin": "ssvrt",
+          "translation": "face / form"
+        },
+        {
+          "script": "طریق",
+          "latin": "ttryq",
+          "translation": "way / method"
+        },
+        {
+          "script": "ظاهر",
+          "latin": "zzahr",
+          "translation": "appearance / outward"
+        },
+        {
+          "script": "لحظه",
+          "latin": "lhhzzh",
+          "translation": "moment"
+        },
+        {
+          "script": "مثال",
+          "latin": "mthal",
+          "translation": "example"
+        },
+        {
+          "script": "محیط",
+          "latin": "mhhytt",
+          "translation": "environment"
+        },
+        {
+          "script": "مشخص",
+          "latin": "mshkhss",
+          "translation": "clear / specified"
+        },
+        {
+          "script": "مصرف",
+          "latin": "mssrf",
+          "translation": "consumption / use"
+        },
+        {
+          "script": "نظام",
+          "latin": "nzzam",
+          "translation": "system"
+        },
+        {
+          "script": "نقطه",
+          "latin": "nqtth",
+          "translation": "point / dot"
+        },
+        {
+          "script": "اطراف",
+          "latin": "attraf",
+          "translation": "around / surroundings"
+        },
+        {
+          "script": "تصویر",
+          "latin": "tssvyr",
+          "translation": "image / picture"
+        },
+        {
+          "script": "طبیعی",
+          "latin": "ttbyaay",
+          "translation": "natural"
+        },
+        {
+          "script": "فاصله",
+          "latin": "fasslh",
+          "translation": "distance"
+        },
+        {
+          "script": "مربوط",
+          "latin": "mrbvtt",
+          "translation": "related / relevant"
+        },
+        {
+          "script": "مناطق",
+          "latin": "mnattq",
+          "translation": "regions"
+        },
+        {
+          "script": "منطقه",
+          "latin": "mnttqh",
+          "translation": "region / area"
+        },
+        {
+          "script": "منظور",
+          "latin": "mnzzvr",
+          "translation": "meaning / intention"
+        },
+        {
+          "script": "نظریه",
+          "latin": "nzzryh",
+          "translation": "theory"
+        },
+        {
+          "script": "ارتباط",
+          "latin": "artbatt",
+          "translation": "connection / relationship"
+        },
+        {
+          "script": "اقتصاد",
+          "latin": "aqtssad",
+          "translation": "economy"
+        },
+        {
+          "script": "اطلاعات",
+          "latin": "attlaaaat",
+          "translation": "information"
+        }
+      ]
+    }
+  ]
+}

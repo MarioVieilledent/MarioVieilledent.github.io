@@ -7,6 +7,7 @@ import {
   LuInfo,
   LuLanguages,
   LuLibraryBig,
+  LuLayers3,
   LuSparkles,
   LuVolume2,
   LuX,
@@ -18,8 +19,9 @@ import {
   type LetterExample,
   type ScriptLanguage,
 } from "../arabicAlphabetData";
+import { lessonsByLanguage, latinLetterByLanguage, type ReadingLesson } from "../alphabetLessons";
 
-type View = "library" | "quiz";
+type View = "library" | "reading" | "quiz";
 
 type QuizQuestion = {
   letter: AlphabetLetter;
@@ -243,6 +245,7 @@ const LetterDialog = ({
               <LuVolume2 aria-hidden="true" /> Pronunciation
             </div>
             <p className="text-lg leading-8 text-stone-700">{letter.sound}</p>
+            {letter.letter === "ا" && <p className="mt-3 text-sm leading-6 text-stone-600">Alef also appears as {language === "arabic" ? "أ, إ, and آ" : "آ"}. These are alef spellings used in the reading lessons.</p>}
           </section>
 
           <section>
@@ -290,6 +293,33 @@ const LetterDialog = ({
   );
 };
 
+const LetterCard = ({
+  letter,
+  index,
+  language,
+  onSelect,
+}: {
+  letter: AlphabetLetter;
+  index: number;
+  language: ScriptLanguage;
+  onSelect: (letter: AlphabetLetter) => void;
+}) => (
+  <button
+    type="button"
+    onClick={() => onSelect(letter)}
+    className="group relative min-h-48 overflow-hidden rounded-[1.4rem] border border-emerald-100 bg-white p-5 text-left shadow-[0_8px_30px_rgba(6,78,59,0.05)] transition duration-200 hover:-translate-y-1 hover:border-emerald-300 hover:shadow-[0_16px_35px_rgba(6,78,59,0.12)] focus-visible:outline-3 focus-visible:outline-offset-2 focus-visible:outline-emerald-600"
+  >
+    <span className="absolute right-4 top-3 text-xs font-bold tabular-nums text-stone-300">{String(index + 1).padStart(2, "0")}</span>
+    <span lang={languageDetails[language].code} dir="rtl" className="block text-center text-7xl font-semibold leading-none text-emerald-950 transition-transform duration-200 group-hover:scale-105">{letter.letter}</span>
+    <span className="mt-5 block text-base font-bold text-stone-900">{letter.name}</span>
+    <span className="mt-1 flex items-center justify-between text-xs text-stone-500">
+      <span>{letter.transliteration}</span>
+      <span className="flex items-center gap-1 font-bold text-emerald-700">Explore <LuArrowRight size="14" aria-hidden="true" /></span>
+    </span>
+    <span className="absolute inset-x-5 bottom-0 h-1 origin-left scale-x-0 rounded-t-full bg-amber-400 transition-transform group-hover:scale-x-100" />
+  </button>
+);
+
 const LetterLibrary = ({
   alphabet,
   language,
@@ -310,25 +340,139 @@ const LetterLibrary = ({
 
     <div className="grid grid-cols-2 gap-3 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-7">
       {alphabet.map((letter, index) => (
-        <button
-          type="button"
-          key={letter.letter}
-          onClick={() => onSelect(letter)}
-          className="group relative min-h-48 overflow-hidden rounded-[1.4rem] border border-emerald-100 bg-white p-5 text-left shadow-[0_8px_30px_rgba(6,78,59,0.05)] transition duration-200 hover:-translate-y-1 hover:border-emerald-300 hover:shadow-[0_16px_35px_rgba(6,78,59,0.12)] focus-visible:outline-3 focus-visible:outline-offset-2 focus-visible:outline-emerald-600"
-        >
-          <span className="absolute right-4 top-3 text-xs font-bold tabular-nums text-stone-300">{String(index + 1).padStart(2, "0")}</span>
-          <span lang={languageDetails[language].code} dir="rtl" className="block text-center text-7xl font-semibold leading-none text-emerald-950 transition-transform duration-200 group-hover:scale-105">{letter.letter}</span>
-          <span className="mt-5 block text-base font-bold text-stone-900">{letter.name}</span>
-          <span className="mt-1 flex items-center justify-between text-xs text-stone-500">
-            <span>{letter.transliteration}</span>
-            <span className="flex items-center gap-1 font-bold text-emerald-700">Explore <LuArrowRight size="14" aria-hidden="true" /></span>
-          </span>
-          <span className="absolute inset-x-5 bottom-0 h-1 origin-left scale-x-0 rounded-t-full bg-amber-400 transition-transform group-hover:scale-x-100" />
-        </button>
+        <LetterCard key={letter.letter} letter={letter} index={index} language={language} onSelect={onSelect} />
       ))}
     </div>
   </section>
 );
+
+const ReadingLessons = ({
+  language,
+  alphabet,
+  lessons,
+  lessonIndex,
+  onLessonChange,
+  answers,
+  onAnswerChange,
+  onSelectLetter,
+}: {
+  language: ScriptLanguage;
+  alphabet: AlphabetLetter[];
+  lessons: ReadingLesson[];
+  lessonIndex: number;
+  onLessonChange: (index: number) => void;
+  answers: Record<string, string>;
+  onAnswerChange: (word: string, value: string) => void;
+  onSelectLetter: (letter: AlphabetLetter) => void;
+}) => {
+  const lesson = lessons[lessonIndex];
+  const knownLetters = lessons.slice(0, lessonIndex + 1).flatMap((item) => item.letters);
+  const newLetters = lesson.letters.map((symbol) => alphabet.find((item) => item.letter === symbol)).filter((item): item is AlphabetLetter => Boolean(item));
+  const correctCount = lesson.words.filter((word) => answers[word.script] === word.latin).length;
+
+  return (
+    <section aria-labelledby="reading-heading">
+      <div className="mb-6 flex flex-col justify-between gap-3 sm:flex-row sm:items-end">
+        <div>
+          <p className="mb-1 text-sm font-bold uppercase tracking-[0.18em] text-emerald-700">Learn little by little</p>
+          <h2 id="reading-heading" className="text-3xl font-bold tracking-tight text-stone-900">Read with the letters you know</h2>
+        </div>
+        <p className="max-w-lg text-sm leading-6 text-stone-500">Each lesson adds a few letters. Every word below uses only letters introduced so far and includes one of this lesson’s new letters. Its English meaning stays visible as you type.</p>
+      </div>
+
+      <div className="-mx-5 mb-8 overflow-x-auto px-5 pb-2 sm:mx-0 sm:px-0" aria-label="Reading lessons">
+        <div className="flex w-max gap-2">
+          {lessons.map((item, index) => {
+            const active = index === lessonIndex;
+            const completed = item.words.filter((word) => answers[word.script] === word.latin).length;
+            return (
+              <button
+                type="button"
+                key={index}
+                onClick={() => onLessonChange(index)}
+                aria-current={active ? "step" : undefined}
+                className={`min-w-36 rounded-2xl border px-4 py-3 text-left transition ${active ? "border-emerald-700 bg-emerald-800 text-white shadow-md" : "border-emerald-100 bg-white text-stone-700 hover:border-emerald-300"}`}
+              >
+                <span className="block text-xs font-bold uppercase tracking-[0.12em]">Lesson {index + 1}</span>
+                <span lang={languageDetails[language].code} dir="rtl" className="mt-1 block text-2xl font-semibold">{item.letters.join(" ")}</span>
+                <span className={`mt-1 block text-xs ${active ? "text-emerald-100" : "text-stone-500"}`}>{completed}/50 read</span>
+              </button>
+            );
+          })}
+        </div>
+      </div>
+
+      <div className="mb-9 rounded-[1.8rem] border border-emerald-100 bg-emerald-50/60 p-5 sm:p-7">
+        <div className="mb-5 flex flex-col justify-between gap-2 sm:flex-row sm:items-end">
+          <div>
+            <p className="text-xs font-bold uppercase tracking-[0.15em] text-emerald-700">Lesson {lessonIndex + 1} · {knownLetters.length} letters available</p>
+            <h3 className="mt-1 text-2xl font-bold text-stone-900">New letters</h3>
+          </div>
+          <p className="text-sm font-bold text-emerald-800">{correctCount}/50 words read</p>
+        </div>
+        <div className="grid grid-cols-2 gap-3 sm:grid-cols-4">
+          {newLetters.map((letter, index) => (
+            <LetterCard key={letter.letter} letter={letter} index={index} language={language} onSelect={onSelectLetter} />
+          ))}
+        </div>
+        <div className="mt-5 rounded-2xl border border-emerald-100 bg-white p-4 text-sm leading-6 text-stone-600">
+          <strong className="text-stone-800">Latin spelling key:</strong> {knownLetters.map((letter) => `${letter} = ${latinLetterByLanguage[language][letter]}`).join(" · ")}
+          <span className="block pt-2">Alef can also appear as {language === "arabic" ? "أ = a · إ = i · آ = aa" : "آ = aa"}.</span>
+          <span className="block pt-2">Type the written letters in Latin order. Short vowels are omitted in this spelling exercise.</span>
+        </div>
+      </div>
+
+      <div className="space-y-8">
+        {Array.from({ length: 5 }, (_, section) => {
+          const words = lesson.words.slice(section * 10, section * 10 + 10);
+          const sectionCorrect = words.filter((word) => answers[word.script] === word.latin).length;
+          return (
+            <section key={section} aria-labelledby={`reading-section-${section}`}>
+              <div className="mb-3 flex items-end justify-between gap-3">
+                <div>
+                  <p className="text-xs font-bold uppercase tracking-[0.15em] text-emerald-700">Set {section + 1} of 5</p>
+                  <h3 id={`reading-section-${section}`} className="text-xl font-bold text-stone-900">Words {section * 10 + 1}–{section * 10 + 10}</h3>
+                </div>
+                <span className="text-sm font-semibold text-emerald-800">{sectionCorrect}/10</span>
+              </div>
+              <div className="grid gap-3 sm:grid-cols-2 lg:grid-cols-5">
+                {words.map((word, wordIndex) => {
+                  const answer = answers[word.script] ?? "";
+                  const correct = answer === word.latin;
+                  return (
+                    <div key={word.script} className={`rounded-2xl border p-4 shadow-sm transition ${correct ? "border-emerald-400 bg-emerald-50" : "border-stone-200 bg-white"}`}>
+                      <div className="mb-3 flex items-center justify-between gap-2">
+                        <span className="text-xs font-bold tabular-nums text-stone-400">{String(section * 10 + wordIndex + 1).padStart(2, "0")}</span>
+                        {correct && <LuCheck className="text-emerald-700" aria-label="Correct" />}
+                      </div>
+                      <div lang={languageDetails[language].code} dir="rtl" className="font-arabic min-h-14 text-center text-4xl font-semibold text-emerald-950">{word.script}</div>
+                      <p className="mt-2 min-h-10 text-center text-xs leading-5 text-stone-600" aria-label="English translation">{word.translation}</p>
+                      <input
+                        type="text"
+                        value={answer}
+                        onChange={(event) => onAnswerChange(word.script, event.target.value)}
+                        disabled={correct}
+                        aria-label={`Latin spelling for word ${section * 10 + wordIndex + 1}`}
+                        autoCapitalize="none"
+                        autoComplete="off"
+                        spellCheck={false}
+                        dir="ltr"
+                        className={`mt-3 w-full rounded-xl border px-3 py-2 text-sm outline-none transition focus:border-emerald-500 focus:ring-2 focus:ring-emerald-100 ${correct ? "border-emerald-400 bg-emerald-100 font-bold text-emerald-900" : "border-stone-200 bg-stone-50 text-stone-900"}`}
+                      />
+                    </div>
+                  );
+                })}
+              </div>
+            </section>
+          );
+        })}
+      </div>
+      <p className="mt-9 text-xs leading-5 text-stone-500">
+        Word selection was guided by the <a className="underline hover:text-emerald-800" href="https://github.com/CAMeL-Lab/Camel_Arabic_Frequency_Lists">CAMeL-Lab MSA frequency lists</a> (<a className="underline hover:text-emerald-800" href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>; <a className="underline hover:text-emerald-800" href="https://aclanthology.org/2021.wanlp-1.10/">CAMeLBERT paper</a>) and the <a className="underline hover:text-emerald-800" href="https://github.com/behnam/persian-words-frequency">Persian Words Frequency Database</a> (<a className="underline hover:text-emerald-800" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>). Meanings were checked against the <a className="underline hover:text-emerald-800" href="https://kaikki.org/dictionary/Arabic/index.html">Arabic</a> and <a className="underline hover:text-emerald-800" href="https://kaikki.org/dictionary/Persian/index.html">Persian</a> Wiktionary extracts. The adapted lesson lists follow the same respective licenses.
+      </p>
+    </section>
+  );
+};
 
 const Quiz = ({
   alphabet,
@@ -450,13 +594,55 @@ const Quiz = ({
   );
 };
 
+type ReadingProgress = {
+  lessonIndexByLanguage: Record<ScriptLanguage, number>;
+  answers: Record<ScriptLanguage, Record<string, string>>;
+};
+
+const emptyReadingProgress = (): ReadingProgress => ({
+  lessonIndexByLanguage: { arabic: 0, persian: 0 },
+  answers: { arabic: {}, persian: {} },
+});
+
+const loadReadingProgress = (): ReadingProgress => {
+  if (typeof window === "undefined") return emptyReadingProgress();
+  try {
+    const saved = window.localStorage.getItem("arabic-script-reading-progress-v1");
+    if (!saved) return emptyReadingProgress();
+    const progress = JSON.parse(saved) as Partial<ReadingProgress>;
+    return {
+      lessonIndexByLanguage: {
+        arabic: Math.min(Math.max(progress.lessonIndexByLanguage?.arabic ?? 0, 0), lessonsByLanguage.arabic.length - 1),
+        persian: Math.min(Math.max(progress.lessonIndexByLanguage?.persian ?? 0, 0), lessonsByLanguage.persian.length - 1),
+      },
+      answers: {
+        arabic: progress.answers?.arabic ?? {},
+        persian: progress.answers?.persian ?? {},
+      },
+    };
+  } catch {
+    return emptyReadingProgress();
+  }
+};
+
 export default function ArabicAlphabet() {
   const [language, setLanguage] = useState<ScriptLanguage>("arabic");
   const [view, setView] = useState<View>("library");
+  const [readingProgress, setReadingProgress] = useState<ReadingProgress>(loadReadingProgress);
+  const lessonIndexByLanguage = readingProgress.lessonIndexByLanguage;
+  const readingAnswers = readingProgress.answers;
   const [selectedLetter, setSelectedLetter] = useState<AlphabetLetter | null>(null);
   const [voices, setVoices] = useState<SpeechSynthesisVoice[]>([]);
   const alphabet = alphabetByLanguage[language];
   const [question, setQuestion] = useState(() => makeQuestion(alphabetByLanguage.arabic));
+
+  useEffect(() => {
+    try {
+      window.localStorage.setItem("arabic-script-reading-progress-v1", JSON.stringify(readingProgress));
+    } catch {
+      // Reading practice still works when browser storage is unavailable.
+    }
+  }, [readingProgress]);
 
   useEffect(() => {
     if (!("speechSynthesis" in window)) return;
@@ -492,7 +678,7 @@ export default function ArabicAlphabet() {
                 <LuSparkles className="text-amber-300" aria-hidden="true" /> Script garden
               </div>
               <h1 className="text-4xl font-bold tracking-tight sm:text-6xl">Learn the <span className="text-amber-300">Arabic script</span></h1>
-              <p className="mt-5 max-w-2xl text-base leading-8 text-emerald-100 sm:text-lg">Discover every letter, understand how its shape flows through a word, and train your eye with quick recognition practice.</p>
+              <p className="mt-5 max-w-2xl text-base leading-8 text-emerald-100 sm:text-lg">Discover every letter, learn to read words a few letters at a time, and train your eye with quick recognition practice.</p>
             </div>
             <div className="grid w-fit grid-cols-2 overflow-hidden rounded-[1.7rem] border border-white/15 bg-white/10 backdrop-blur-sm">
               <div className="px-6 py-4 text-center"><div className="text-3xl font-bold text-amber-300">{alphabet.length}</div><div className="text-xs text-emerald-100">Letters</div></div>
@@ -508,6 +694,9 @@ export default function ArabicAlphabet() {
               <button type="button" onClick={() => setView("library")} className={`flex flex-1 items-center justify-center gap-2 rounded-xl px-5 py-2.5 text-sm font-bold transition sm:flex-none ${view === "library" ? "bg-white text-emerald-900 shadow-sm" : "text-stone-500 hover:text-stone-800"}`}>
                 <LuLibraryBig aria-hidden="true" /> Letter library
               </button>
+              <button type="button" onClick={() => setView("reading")} className={`flex flex-1 items-center justify-center gap-2 rounded-xl px-5 py-2.5 text-sm font-bold transition sm:flex-none ${view === "reading" ? "bg-white text-emerald-900 shadow-sm" : "text-stone-500 hover:text-stone-800"}`}>
+                <LuLayers3 aria-hidden="true" /> Reading lessons
+              </button>
               <button type="button" onClick={() => setView("quiz")} className={`flex flex-1 items-center justify-center gap-2 rounded-xl px-5 py-2.5 text-sm font-bold transition sm:flex-none ${view === "quiz" ? "bg-white text-emerald-900 shadow-sm" : "text-stone-500 hover:text-stone-800"}`}>
                 <LuCircleHelp aria-hidden="true" /> Recognition quiz
               </button>
@@ -520,6 +709,17 @@ export default function ArabicAlphabet() {
 
           {view === "library" ? (
             <LetterLibrary alphabet={alphabet} language={language} onSelect={setSelectedLetter} />
+          ) : view === "reading" ? (
+            <ReadingLessons
+              language={language}
+              alphabet={alphabet}
+              lessons={lessonsByLanguage[language]}
+              lessonIndex={lessonIndexByLanguage[language]}
+              onLessonChange={(index) => setReadingProgress((previous) => ({ ...previous, lessonIndexByLanguage: { ...previous.lessonIndexByLanguage, [language]: index } }))}
+              answers={readingAnswers[language]}
+              onAnswerChange={(word, value) => setReadingProgress((previous) => ({ ...previous, answers: { ...previous.answers, [language]: { ...previous.answers[language], [word]: value } } }))}
+              onSelectLetter={setSelectedLetter}
+            />
           ) : (
             <Quiz key={language} alphabet={alphabet} language={language} question={question} onNext={() => setQuestion(makeQuestion(alphabet))} />
           )}
