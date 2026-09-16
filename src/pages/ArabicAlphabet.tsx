@@ -224,7 +224,7 @@ const LetterDialog = ({
           <Pattern />
           <div className="relative flex items-start justify-between gap-6">
             <div className="flex items-center gap-5">
-              <div lang={languageDetails[language].code} dir="rtl" className="flex h-24 w-24 shrink-0 items-center justify-center rounded-[1.7rem] border border-white/20 bg-white/10 text-7xl font-semibold shadow-inner">
+              <div lang={languageDetails[language].code} dir="rtl" className="flex h-24 w-24 shrink-0 items-center justify-center rounded-[1.7rem] border border-white/20 bg-white/10 text-7xl font-semibold leading-none shadow-inner">
                 {letter.letter}
               </div>
               <div>
