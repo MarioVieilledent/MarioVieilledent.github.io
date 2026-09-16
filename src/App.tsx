@@ -11,6 +11,7 @@ const Countries = lazy(() => import("./pages/Countries"));
 const LearnNorwegian = lazy(() => import("./pages/LearnNorwegian"));
 const TurkishFlashcards = lazy(() => import("./pages/TurkishFlashcards"));
 const ArabicAlphabet = lazy(() => import("./pages/ArabicAlphabet"));
+const Devanagari = lazy(() => import("./pages/Devanagari"));
 const RunningPace = lazy(() => import("./pages/RunningPace"));
 
 const App = () => {
@@ -28,6 +29,7 @@ const App = () => {
             element={<TurkishFlashcards />}
           ></Route>
           <Route path="arabic-alphabet" element={<ArabicAlphabet />} />
+          <Route path="learn-devanagari" element={<Devanagari />} />
           <Route path="pace-converter" element={<RunningPace />} />
           <Route path="*" element={<NotFound />} />
         </Routes>

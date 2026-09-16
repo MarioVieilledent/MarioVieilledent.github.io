@@ -1,0 +1,36 @@
+.script-course .script-letter-card {
+  position: relative; min-height: 12rem; overflow: hidden; border: 1px solid var(--script-pale);
+  border-radius: 1.4rem; background: white; padding: 1.25rem; text-align: left;
+  box-shadow: 0 8px 30px var(--script-shadow); transition: transform 200ms, border-color 200ms, box-shadow 200ms;
+}
+.script-course .script-letter-card:hover { transform: translateY(-0.25rem); border-color: var(--script-mid); box-shadow: 0 16px 35px var(--script-shadow); }
+.script-course .script-letter-card:focus-visible { outline: 3px solid var(--script-primary); outline-offset: 2px; }
+.script-course .script-audio-button { display: flex; width: 2.25rem; height: 2.25rem; flex-shrink: 0; align-items: center; justify-content: center; border: 1px solid var(--script-pale); border-radius: 9999px; background: white; color: var(--script-primary); transition: background 150ms, border-color 150ms; }
+.script-course .script-audio-button:hover:not(:disabled) { border-color: var(--script-mid); background: var(--script-tint); }
+.script-course .script-audio-button:disabled { cursor: not-allowed; border-color: #e7e5e4; color: #d6d3d1; }
+.script-course .script-section-label { margin-bottom: 0.75rem; display: flex; align-items: center; gap: 0.5rem; color: var(--script-primary); font-size: 0.875rem; font-weight: 700; letter-spacing: 0.15em; text-transform: uppercase; }
+.script-course .script-form-card { border: 1px solid var(--script-pale); border-radius: 1rem; background: white; padding: 1rem; text-align: center; box-shadow: 0 1px 2px rgb(0 0 0 / 0.05); }
+.script-course .script-example-label { border-radius: 9999px; background: var(--script-tint); padding: 0.25rem 0.625rem; color: var(--script-primary); font-size: 0.75rem; font-weight: 700; }
+.script-course .script-kicker { margin-bottom: 0.25rem; color: var(--script-primary); font-size: 0.75rem; font-weight: 700; letter-spacing: 0.15em; text-transform: uppercase; }
+.script-course .script-lesson-tab { min-width: 9rem; border: 1px solid var(--script-pale); border-radius: 1rem; background: white; padding: 0.75rem 1rem; text-align: left; color: #44403c; transition: border-color 150ms, background 150ms; }
+.script-course .script-lesson-tab:hover { border-color: var(--script-mid); }
+.script-course .script-lesson-tab-active { border-color: var(--script-primary); background: var(--script-primary); color: white; box-shadow: 0 4px 8px var(--script-shadow); }
+.script-course .script-new-letters-panel { margin-bottom: 2.25rem; border: 1px solid var(--script-pale); border-radius: 1.8rem; background: var(--script-tint); padding: 1.25rem; }
+.script-course .script-word-card { border: 1px solid #e7e5e4; border-radius: 1rem; background: white; padding: 1rem; box-shadow: 0 1px 2px rgb(0 0 0 / 0.05); transition: border-color 150ms, background 150ms; }
+.script-course .script-word-card-correct { border-color: var(--script-mid); background: var(--script-tint); }
+.script-course .script-reading-input { margin-top: 0.75rem; width: 100%; border: 1px solid #e7e5e4; border-radius: 0.75rem; background: #fafaf9; padding: 0.5rem 0.75rem; color: #1c1917; font-size: 0.875rem; outline: none; transition: border-color 150ms, box-shadow 150ms; }
+.script-course .script-reading-input:focus { border-color: var(--script-primary); box-shadow: 0 0 0 2px var(--script-pale); }
+.script-course .script-reading-input:disabled { border-color: var(--script-mid); background: var(--script-pale); color: var(--script-deep); font-weight: 700; }
+.script-course .script-quiz-choice { position: relative; display: flex; height: 6rem; align-items: center; justify-content: center; border: 2px solid #e7e5e4; border-radius: 1rem; background: white; color: #1c1917; font-size: 3rem; font-weight: 600; transition: transform 150ms, border-color 150ms, background 150ms; }
+.script-course .script-quiz-choice:hover:not(:disabled) { transform: translateY(-0.125rem); border-color: var(--script-mid); background: var(--script-tint); }
+.script-course .script-quiz-choice-right { border-color: var(--script-primary); background: var(--script-tint); color: var(--script-deep); }
+.script-course .script-quiz-choice-wrong { border-color: #f87171; background: #fef2f2; color: #991b1b; }
+.script-course .script-quiz-choice-muted { border-color: #e7e5e4; background: #fafaf9; color: #a8a29e; }
+.script-course .script-primary-button { display: flex; flex-shrink: 0; align-items: center; justify-content: center; gap: 0.5rem; border-radius: 9999px; background: var(--script-primary); padding: 0.625rem 1.25rem; color: white; font-size: 0.875rem; font-weight: 700; }
+.script-course .script-primary-button:hover { background: var(--script-deep); }
+.script-course .script-aside-card { border: 1px solid var(--script-pale); border-radius: 1rem; background: white; padding: 1.25rem; }
+.script-course .script-score { color: var(--script-deep); font-size: 1.5rem; font-weight: 700; }
+.script-course .script-view-button { display: flex; flex: 1 1 0%; align-items: center; justify-content: center; gap: 0.5rem; border-radius: 0.75rem; padding: 0.625rem 1.25rem; color: #78716c; font-size: 0.875rem; font-weight: 700; white-space: nowrap; transition: color 150ms, background 150ms, box-shadow 150ms; }
+.script-course .script-view-button:hover { color: #292524; }
+.script-course .script-view-button-active { background: white; color: var(--script-deep); box-shadow: 0 1px 3px rgb(0 0 0 / 0.1); }
+@media (min-width: 640px) { .script-course .script-new-letters-panel { padding: 1.75rem; } }

@@ -58,6 +58,12 @@ const moreNavItems: NavItem[] = [
     to: "/arabic-alphabet",
   },
   {
+    icon: <LuLanguages aria-hidden="true" />,
+    label: "more",
+    englishLabel: "Hindi Devanagari",
+    to: "/learn-devanagari",
+  },
+  {
     icon: <LuSchool aria-hidden="true" />,
     label: "learnNorwegian",
     to: "/learnNorwegian",
