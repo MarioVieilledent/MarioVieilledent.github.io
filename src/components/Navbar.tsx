@@ -70,6 +70,12 @@ const moreNavItems: NavItem[] = [
     to: "/learn-georgian-script",
   },
   {
+    icon: <LuLanguages aria-hidden="true" />,
+    label: "more",
+    englishLabel: "Armenian script",
+    to: "/learn-armenian-script",
+  },
+  {
     icon: <LuSchool aria-hidden="true" />,
     label: "learnNorwegian",
     to: "/learnNorwegian",

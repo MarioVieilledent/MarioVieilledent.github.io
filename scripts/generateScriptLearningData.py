@@ -126,13 +126,13 @@ LANGUAGE_DETAILS = {
             ("ջ", "je", "j", "Like j in jam."), ("ռ", "ra", "rr", "A strongly rolled r."),
             ("ս", "se", "s", "Like s in sun."), ("վ", "vev", "v", "Like v in voice."),
             ("տ", "tyun", "t", "An unaspirated t."), ("ր", "re", "r", "A light tapped r."),
-            ("ց", "tso", "ts'", "An aspirated ts."), ("ւ", "vyun", "w", "Classical wyun; retained in the ու digraph."),
+            ("ց", "tso", "ts'", "An aspirated ts."), ("ու", "u", "u", "The close oo sound, written as a two-character letter."),
             ("փ", "pyur", "p'", "An aspirated p."), ("ք", "ke", "k'", "An aspirated k."),
             ("օ", "o", "ō", "A long o sound."), ("ֆ", "fe", "f", "Like f in fish."),
             ("և", "yev", "ev / yev", "The ligature for ev, or yev initially."),
         ],
         "uppercase": dict(zip("աբգդեզէըթժիլխծկհձղճմյնշոչպջռսվտրցւփքօֆև", "ԱԲԳԴԵԶԷԸԹԺԻԼԽԾԿՀՁՂՃՄՅՆՇՈՉՊՋՌՍՎՏՐՑՒՓՔՕՖԵՎ")),
-        "variants": {"եւ": "և"}, "ignore": {"՛", "՜", "՞", "՚", "՟"}, "compounds": ["և", "եւ"],
+        "variants": {"եւ": "և"}, "ignore": {"՛", "՜", "՞", "՚", "՟"}, "compounds": ["ու", "և", "եւ"],
     },
     "hebrew": {
         "kaikki": "Hebrew",
@@ -360,7 +360,7 @@ def make_forms(language: str, letter: str, details: dict) -> list[dict[str, str]
     if language == "georgian":
         return [{"label": "Mkhedruli", "glyph": letter}, {"label": "Mtavruli", "glyph": details["mtavruli"][letter]}]
     if language == "armenian":
-        return [{"label": "Lowercase", "glyph": letter}, {"label": "Uppercase", "glyph": details["uppercase"][letter]}]
+        return [{"label": "Lowercase", "glyph": letter}, {"label": "Uppercase", "glyph": "ՈՒ" if letter == "ու" else details["uppercase"][letter]}]
     forms = [{"label": "Regular", "glyph": letter}]
     if letter in details["finals"]:
         forms.append({"label": "Final", "glyph": details["finals"][letter]})

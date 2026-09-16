@@ -1,6 +1,7 @@
 import { describe, expect, it } from "vitest";
 import hindi from "./data/hindiScriptData.json";
 import georgian from "./data/georgianScriptData.json";
+import armenian from "./data/armenianScriptData.json";
 import type { ScriptCourseData } from "./scriptLearningTypes";
 
 type CourseRules = {
@@ -25,6 +26,12 @@ const courses: Record<string, CourseRules> = {
     variants: {},
     ignored: new Set(),
     compounds: [],
+  },
+  armenian: {
+    data: armenian,
+    variants: { "եւ": "և" },
+    ignored: new Set(["՛", "՜", "՞", "՚", "՟"]),
+    compounds: ["ու", "և", "եւ"],
   },
 };
 
