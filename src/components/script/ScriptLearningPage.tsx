@@ -293,4 +293,3 @@ export default function ScriptLearningPage({ data, config }: { data: ScriptCours
     </div>
   );
 }
-

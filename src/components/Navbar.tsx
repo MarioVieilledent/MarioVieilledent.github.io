@@ -76,6 +76,12 @@ const moreNavItems: NavItem[] = [
     to: "/learn-armenian-script",
   },
   {
+    icon: <LuLanguages aria-hidden="true" />,
+    label: "more",
+    englishLabel: "Hebrew script",
+    to: "/learn-hebrew-script",
+  },
+  {
     icon: <LuSchool aria-hidden="true" />,
     label: "learnNorwegian",
     to: "/learnNorwegian",

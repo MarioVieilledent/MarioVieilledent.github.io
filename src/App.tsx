@@ -14,6 +14,7 @@ const ArabicAlphabet = lazy(() => import("./pages/ArabicAlphabet"));
 const Devanagari = lazy(() => import("./pages/Devanagari"));
 const GeorgianAlphabet = lazy(() => import("./pages/GeorgianAlphabet"));
 const ArmenianAlphabet = lazy(() => import("./pages/ArmenianAlphabet"));
+const HebrewAlphabet = lazy(() => import("./pages/HebrewAlphabet"));
 const RunningPace = lazy(() => import("./pages/RunningPace"));
 
 const App = () => {
@@ -34,6 +35,7 @@ const App = () => {
           <Route path="learn-devanagari" element={<Devanagari />} />
           <Route path="learn-georgian-script" element={<GeorgianAlphabet />} />
           <Route path="learn-armenian-script" element={<ArmenianAlphabet />} />
+          <Route path="learn-hebrew-script" element={<HebrewAlphabet />} />
           <Route path="pace-converter" element={<RunningPace />} />
           <Route path="*" element={<NotFound />} />
         </Routes>

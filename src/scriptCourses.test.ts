@@ -2,6 +2,7 @@ import { describe, expect, it } from "vitest";
 import hindi from "./data/hindiScriptData.json";
 import georgian from "./data/georgianScriptData.json";
 import armenian from "./data/armenianScriptData.json";
+import hebrew from "./data/hebrewScriptData.json";
 import type { ScriptCourseData } from "./scriptLearningTypes";
 
 type CourseRules = {
@@ -32,6 +33,12 @@ const courses: Record<string, CourseRules> = {
     variants: { "եւ": "և" },
     ignored: new Set(["՛", "՜", "՞", "՚", "՟"]),
     compounds: ["ու", "և", "եւ"],
+  },
+  hebrew: {
+    data: hebrew,
+    variants: { "ך": "כ", "ם": "מ", "ן": "נ", "ף": "פ", "ץ": "צ" },
+    ignored: new Set("ְֱֲֳִֵֶַָׇֹֺֻּֽֿׁׂׅׄ"),
+    compounds: [],
   },
 };
 

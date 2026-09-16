@@ -273,6 +273,9 @@ def load_ranked_words(language: str, args, dictionary: dict[str, dict[str, str]]
         tokens = tokenize(word, details)
         if tokens is None or len(tokens) > 18 or len(set(tokens)) > 12:
             continue
+        if language == "hebrew" and len(tokens) == 1:
+            # Bare Hebrew letters function as prefixes, not standalone words.
+            continue
         rank = ranks.get(word, 100000 + len(tokens) * 100 + len(candidates) % 100)
         candidates.append({**entry, "tokens": tokens, "rank": rank})
     return sorted(candidates, key=lambda item: (item["rank"], len(item["tokens"]), item["script"]))
