@@ -36,6 +36,15 @@ type NavItem = {
   to: string;
 };
 
+const ScriptFlag = ({ countryCode }: { countryCode: string }) => (
+  <img
+    className="h-4 w-6 shrink-0 rounded-[2px] border border-stone-200 object-cover shadow-sm"
+    src={`/flags/${countryCode}.svg`}
+    alt=""
+    aria-hidden="true"
+  />
+);
+
 const primaryNavItems: NavItem[] = [
   { icon: <LuMap aria-hidden="true" />, label: "map", to: "/" },
   {
@@ -50,37 +59,40 @@ const primaryNavItems: NavItem[] = [
   },
 ];
 
-const moreNavItems: NavItem[] = [
+const scriptNavItems: NavItem[] = [
   {
-    icon: <LuLanguages aria-hidden="true" />,
+    icon: <ScriptFlag countryCode="sa" />,
     label: "more",
     englishLabel: "Arabic & Persian alphabet",
     to: "/arabic-alphabet",
   },
   {
-    icon: <LuLanguages aria-hidden="true" />,
+    icon: <ScriptFlag countryCode="in" />,
     label: "more",
     englishLabel: "Hindi Devanagari",
     to: "/learn-devanagari",
   },
   {
-    icon: <LuLanguages aria-hidden="true" />,
+    icon: <ScriptFlag countryCode="ge" />,
     label: "more",
     englishLabel: "Georgian script",
     to: "/learn-georgian-script",
   },
   {
-    icon: <LuLanguages aria-hidden="true" />,
+    icon: <ScriptFlag countryCode="am" />,
     label: "more",
     englishLabel: "Armenian script",
     to: "/learn-armenian-script",
   },
   {
-    icon: <LuLanguages aria-hidden="true" />,
+    icon: <ScriptFlag countryCode="il" />,
     label: "more",
     englishLabel: "Hebrew script",
     to: "/learn-hebrew-script",
   },
+];
+
+const moreNavItems: NavItem[] = [
   {
     icon: <LuSchool aria-hidden="true" />,
     label: "learnNorwegian",
@@ -157,19 +169,32 @@ const ManifestoLink = ({ onNavigate }: { onNavigate?: () => void }) => (
   </a>
 );
 
-const MoreMenu = ({
-  inline = false,
-  onNavigate,
-}: {
+type DropdownMenuProps = {
   inline?: boolean;
   onNavigate?: () => void;
+};
+
+const DropdownMenu = ({
+  items,
+  label,
+  icon,
+  includeManifesto = false,
+  align = "end",
+  inline = false,
+  onNavigate,
+}: DropdownMenuProps & {
+  items: NavItem[];
+  label: TermKeys;
+  icon: ReactNode;
+  includeManifesto?: boolean;
+  align?: "start" | "end";
 }) => {
   const { t } = useTranslation();
   const { pathname } = useLocation();
   const [open, setOpen] = useState(false);
   const containerRef = useRef<HTMLDivElement>(null);
   const menuId = useId();
-  const isActive = moreNavItems.some((item) => pathname.startsWith(item.to));
+  const isActive = items.some((item) => pathname.startsWith(item.to));
 
   useEffect(() => {
     if (!open) return;
@@ -205,8 +230,8 @@ const MoreMenu = ({
         aria-haspopup="menu"
       >
         <span className="flex items-center gap-2">
-          <LuEllipsis className="text-lg" aria-hidden="true" />
-          {t("more")}
+          {icon}
+          {t(label)}
         </span>
         <LuChevronDown
           size="15"
@@ -222,10 +247,10 @@ const MoreMenu = ({
           className={
             inline
               ? "ms-4 mt-1 flex flex-col gap-1 border-s border-stone-200 ps-2"
-              : "absolute end-0 z-50 mt-2 flex w-72 origin-top-right animate-[float-in_150ms_ease-out] flex-col gap-1 rounded-2xl border border-stone-200 bg-white p-2 shadow-xl rtl:origin-top-left"
+              : `absolute ${align === "start" ? "start-0 origin-top-left rtl:origin-top-right" : "end-0 origin-top-right rtl:origin-top-left"} z-50 mt-2 flex w-72 animate-[float-in_150ms_ease-out] flex-col gap-1 rounded-2xl border border-stone-200 bg-white p-2 shadow-xl`
           }
         >
-          {moreNavItems.map((item) => (
+          {items.map((item) => (
             <InternalNavLink
               key={item.to}
               item={item}
@@ -233,12 +258,32 @@ const MoreMenu = ({
               role="menuitem"
             />
           ))}
-          <ManifestoLink onNavigate={closeMenu} />
+          {includeManifesto && <ManifestoLink onNavigate={closeMenu} />}
         </div>
       )}
     </div>
   );
 };
+
+const ScriptsMenu = (props: DropdownMenuProps) => (
+  <DropdownMenu
+    {...props}
+    items={scriptNavItems}
+    label="worldScripts"
+    icon={<LuLanguages className="text-lg" aria-hidden="true" />}
+    align="start"
+  />
+);
+
+const MoreMenu = (props: DropdownMenuProps) => (
+  <DropdownMenu
+    {...props}
+    items={moreNavItems}
+    label="more"
+    icon={<LuEllipsis className="text-lg" aria-hidden="true" />}
+    includeManifesto
+  />
+);
 
 const GitHubLink = () => (
   <a
@@ -307,6 +352,7 @@ const Navbar = ({ compact = false, mapOverlay = false }: NavbarProps) => {
         <div className="h-px bg-stone-200" />
         <div className="flex max-h-[min(55dvh,28rem)] flex-col gap-1 overflow-y-auto">
           <MainNavLinks />
+          <ScriptsMenu inline />
           <MoreMenu inline />
         </div>
         <div className="flex items-center gap-2 border-t border-stone-200 pt-3">
@@ -332,6 +378,7 @@ const Navbar = ({ compact = false, mapOverlay = false }: NavbarProps) => {
 
           <div className="pointer-events-auto hidden h-14 items-center gap-1 rounded-2xl border border-white/70 bg-white/85 p-1.5 shadow-lg backdrop-blur-xl xl:flex">
             <MainNavLinks />
+            <ScriptsMenu />
             <MoreMenu />
           </div>
 
@@ -365,6 +412,9 @@ const Navbar = ({ compact = false, mapOverlay = false }: NavbarProps) => {
                 <MainNavLinks onNavigate={() => setMobileMenuOpen(false)} />
               </div>
               <div className="mt-1">
+                <ScriptsMenu inline onNavigate={() => setMobileMenuOpen(false)} />
+              </div>
+              <div className="mt-1">
                 <MoreMenu inline onNavigate={() => setMobileMenuOpen(false)} />
               </div>
             </div>
@@ -385,6 +435,7 @@ const Navbar = ({ compact = false, mapOverlay = false }: NavbarProps) => {
 
           <div className="hidden items-center gap-1 xl:flex">
             <MainNavLinks />
+            <ScriptsMenu />
             <MoreMenu />
           </div>
 
@@ -417,6 +468,9 @@ const Navbar = ({ compact = false, mapOverlay = false }: NavbarProps) => {
           >
             <div className="grid gap-1 sm:grid-cols-2 lg:grid-cols-3">
               <MainNavLinks onNavigate={() => setMobileMenuOpen(false)} />
+            </div>
+            <div className="mt-1">
+              <ScriptsMenu inline onNavigate={() => setMobileMenuOpen(false)} />
             </div>
             <div className="mt-1">
               <MoreMenu inline onNavigate={() => setMobileMenuOpen(false)} />
