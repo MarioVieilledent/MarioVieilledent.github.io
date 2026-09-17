@@ -77,9 +77,7 @@ const OpenLayerMap = forwardRef<
   );
 
   useEffect(() => {
-    view.current.on("change:rotation", (event) =>
-      setRotation(event.target.values_.rotation),
-    );
+    view.current.on("change:rotation", () => setRotation(view.current.getRotation()));
   }, [setRotation]);
 
   useEffect(() => {
