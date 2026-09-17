@@ -87,9 +87,10 @@ const OpenLayerMap = forwardRef<
       const baseMapURL: string =
         sources.find((source) => source.name === layers[0])?.url ?? "";
 
-      const overlaysURLs: string[] = sources
-        .filter((source) => layers.includes(source.name))
-        .map((source) => source.url);
+      const overlaysURLs: string[] = layers
+        .slice(1)
+        .map((layerName) => sources.find((source) => source.name === layerName)?.url)
+        .filter((url): url is string => url !== undefined);
 
       const tileLayers = [baseMapURL, ...overlaysURLs].map(
         (url, index) =>
