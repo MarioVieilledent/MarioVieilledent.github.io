@@ -4,6 +4,7 @@ import { wordsNorwegian } from "../wordsNorwegian";
 import { useTranslation } from "../utils/TranslationContext";
 import Navbar from "../components/Navbar";
 import { useIsMobile } from "../utils/isMobileHook";
+import { isNorwegianQuizAnswerCorrect } from "../utils/norwegianAnswers";
 
 type Stats = {
   success: number;
@@ -60,8 +61,7 @@ const LearnNorwegian = () => {
         ? question.word.norwegian.toLowerCase()
         : question.word.english.toLowerCase();
 
-    const isCorrect =
-      answer.length > 1 && correct.includes(answer.trim().toLowerCase());
+    const isCorrect = isNorwegianQuizAnswerCorrect(answer, correct);
 
     setFeedback(
       isCorrect
