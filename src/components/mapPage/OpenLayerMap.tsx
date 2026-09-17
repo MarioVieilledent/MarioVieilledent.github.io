@@ -77,7 +77,12 @@ const OpenLayerMap = forwardRef<
   );
 
   useEffect(() => {
-    view.current.on("change:rotation", () => setRotation(view.current.getRotation()));
+    const handleRotationChange = () => setRotation(view.current.getRotation());
+    view.current.on("change:rotation", handleRotationChange);
+
+    return () => {
+      view.current.un("change:rotation", handleRotationChange);
+    };
   }, [setRotation]);
 
   useEffect(() => {
@@ -170,6 +175,16 @@ const OpenLayerMap = forwardRef<
       }
     }
   }, [layers, points]);
+
+  useEffect(
+    () => () => {
+      map.current?.setTarget(undefined);
+      map.current?.dispose();
+      map.current = null;
+      marker.current = null;
+    },
+    [],
+  );
 
   useEffect(() => {
     marker.current?.setPosition(
