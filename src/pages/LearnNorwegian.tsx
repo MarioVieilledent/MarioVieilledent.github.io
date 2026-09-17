@@ -154,6 +154,7 @@ const LearnNorwegian = () => {
                   {feedback}
                 </p>
                 <button
+                  type="button"
                   onClick={pickRandomQuestion}
                   className="mt-4 bg-gray-200 hover:bg-gray-300 text-gray-800 py-2 px-4 rounded-lg transition-colors"
                 >
