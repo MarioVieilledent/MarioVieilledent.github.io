@@ -107,7 +107,9 @@ const Recipes = () => {
       )}
       <div
         className={`fixed top-0 start-0 z-50 flex h-full w-4/5 max-w-xs flex-col gap-8 bg-white p-6 shadow-2xl transition-transform duration-200 ${
-          phoneDrawer ? "translate-x-0" : "-translate-x-full rtl:translate-x-full"
+          phoneDrawer
+            ? "translate-x-0"
+            : "-translate-x-full rtl:translate-x-full"
         }`}
       >
         <div className="flex items-center justify-between">
@@ -185,7 +187,9 @@ const Recipes = () => {
                     onClick={() => navigate(`${RECIPES_PATH}`)}
                   >
                     <div className="text-lg font-semibold text-stone-900">
-                      {category ? tabNavDisplay(category) : tabNavDisplay("home")}
+                      {category
+                        ? tabNavDisplay(category)
+                        : tabNavDisplay("home")}
                     </div>
                   </div>
                 </div>
@@ -233,7 +237,6 @@ const Recipes = () => {
                       </button>
                     )}
                   </div>
-
                 </div>
               </div>
 
@@ -293,12 +296,12 @@ const Recipes = () => {
                 path={"/feasts/:feast"}
                 element={
                   feasts.find((feast) =>
-                    location.pathname.includes(feast.id)
+                    location.pathname.includes(feast.id),
                   ) ? (
                     <FeastDisplay
                       feast={
                         feasts.find((feast) =>
-                          location.pathname.includes(feast.id)
+                          location.pathname.includes(feast.id),
                         ) as Feast
                       }
                     />
@@ -317,7 +320,7 @@ const Recipes = () => {
                     <div className={isMobile ? `${CARD_GRID} px-4` : CARD_GRID}>
                       {recipes
                         .filter((recipe) =>
-                          location.pathname.includes(recipe.category)
+                          location.pathname.includes(recipe.category),
                         )
                         .map((recipe, index) => (
                           <RecipeCard key={index} recipe={recipe} />
@@ -330,12 +333,12 @@ const Recipes = () => {
                 path={":category/:recipe"}
                 element={
                   recipes.find((recipe) =>
-                    location.pathname.includes(recipe.id)
+                    location.pathname.includes(recipe.id),
                   ) ? (
                     <RecipeDisplay
                       recipe={
                         recipes.find((recipe) =>
-                          location.pathname.includes(recipe.id)
+                          location.pathname.includes(recipe.id),
                         ) as Recipe
                       }
                     />
