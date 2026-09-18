@@ -1,5 +1,7 @@
 import { Layer, Map, Marker, Source, type MapRef } from "@vis.gl/react-maplibre";
 import { forwardRef, useImperativeHandle, useMemo, useRef } from "react";
+import { setWorkerUrl } from "maplibre-gl";
+import mapLibreWorkerUrl from "maplibre-gl/dist/maplibre-gl-worker.mjs?worker&url";
 import "maplibre-gl/dist/maplibre-gl.css";
 import { sources } from "../../utils/sources";
 import type { Source as MapSource } from "../../types/types";
@@ -11,6 +13,11 @@ import { POINT_LABEL_MIN_ZOOM } from "../../utils/constants";
 const FLY_DURATION = 500;
 const POINT_SOURCE_ID = "map-points";
 const CLUSTER_MAX_ZOOM = 13;
+
+// MapLibre resolves its worker relative to its own module URL by default. Vite
+// bundles that module under a hashed filename without automatically emitting
+// the sibling worker, leaving GeoJSON sources permanently stuck loading.
+setWorkerUrl(mapLibreWorkerUrl);
 
 interface MapLibreProps {
   layers: string[];
