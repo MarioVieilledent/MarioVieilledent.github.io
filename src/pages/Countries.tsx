@@ -75,28 +75,43 @@ const Countries = () => {
   const [shapeData, setShapeData] = useState<ShapeData | null>(null);
   const [activeTab, setActiveTab] = useState<TabId>("flags");
   const [query, setQuery] = useState("");
-  const [error, setError] = useState("");
+  const [countryError, setCountryError] = useState("");
+  const [shapeError, setShapeError] = useState("");
+  const needsShapes = activeTab === "outlines" || activeTab === "outline-quiz";
 
   useEffect(() => {
-    Promise.all([
-      fetch("/countries.json").then((response) => {
+    fetch("/countries.json")
+      .then((response) => {
         if (!response.ok) throw new Error("Could not load country data.");
         return response.json();
-      }),
-      fetch("/country-shapes.json").then((response) => {
+      })
+      .then((countryData: unknown) => {
+        setCountries(z.array(countryType).parse(countryData));
+      })
+      .catch((fetchError: unknown) => {
+        console.error("Error loading countries:", fetchError);
+        setCountryError("The country data could not be loaded. Please try again.");
+      });
+  }, []);
+
+  useEffect(() => {
+    if (!needsShapes || shapeData || shapeError) return;
+
+    fetch("/country-shapes.json")
+      .then((response) => {
         if (!response.ok) throw new Error("Could not load country outlines.");
         return response.json();
-      }),
-    ])
-      .then(([countryData, outlineData]: [unknown, ShapeData]) => {
-        setCountries(z.array(countryType).parse(countryData));
+      })
+      .then((outlineData: ShapeData) => {
         setShapeData(outlineData);
       })
       .catch((fetchError: unknown) => {
-        console.error("Error loading country explorer:", fetchError);
-        setError("The country data could not be loaded. Please try again.");
+        console.error("Error loading country outlines:", fetchError);
+        setShapeError("The country outlines could not be loaded. Please try again.");
       });
-  }, []);
+  }, [needsShapes, shapeData, shapeError]);
+
+  const error = countryError || (needsShapes ? shapeError : "");
 
   const sovereignCountries = useMemo(
     () => countries.filter(isQuizCountry),
@@ -172,13 +187,13 @@ const Countries = () => {
               </div>
             )}
 
-            {!error && (!shapeData || countries.length === 0) && (
+            {!error && (countries.length === 0 || (needsShapes && !shapeData)) && (
               <div className="py-24 text-center text-stone-500">
                 Loading countries…
               </div>
             )}
 
-            {!error && shapeData && countries.length > 0 && (
+            {!error && countries.length > 0 && (!needsShapes || shapeData) && (
               <>
                 {isGallery && (
                   <>
@@ -236,7 +251,7 @@ const Countries = () => {
                               className="flex min-w-0 flex-col rounded-2xl border border-stone-200 bg-white p-4 shadow-sm transition-all duration-200 hover:-translate-y-0.5 hover:shadow-lg"
                             >
                               <CountryShape
-                                path={shapeData.shapes[country.threeLetterCode]}
+                                path={shapeData?.shapes[country.threeLetterCode] ?? ""}
                                 label={`Outline of ${country.name}`}
                                 className="h-28 w-full text-emerald-800"
                               />
@@ -252,7 +267,7 @@ const Countries = () => {
                       </div>
                     )}
 
-                    {activeTab === "outlines" && (
+                    {activeTab === "outlines" && shapeData && (
                       <p className="mt-8 text-center text-xs text-stone-500">
                         Boundary data:{" "}
                         <a
@@ -274,7 +289,7 @@ const Countries = () => {
                     key={quizMode}
                     mode={quizMode}
                     countries={sovereignCountries}
-                    shapes={shapeData.shapes}
+                    shapes={shapeData?.shapes ?? {}}
                   />
                 )}
               </>
