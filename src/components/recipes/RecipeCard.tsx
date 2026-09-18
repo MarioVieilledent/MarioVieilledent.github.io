@@ -7,6 +7,7 @@ import { RECIPES_PATH } from "../../utils/routes";
 import type { Recipe, RecipeDetails } from "../../utils/validator";
 import type { Dispatch, SetStateAction } from "react";
 import BulletList from "./BulletList";
+import { CARD_IMAGE_SIZES, foodImageProps } from "../../utils/foodImages";
 
 interface RecipeCardProps {
   recipe: Recipe;
@@ -42,14 +43,19 @@ const RecipeCard = ({ recipe, setSearch }: RecipeCardProps) => {
     >
       {recipe.pictures.length > 0 ? (
         <img
-          src={`/food/${recipe.pictures[0]}`}
+          {...foodImageProps(recipe.pictures[0])}
           alt={details.name}
+          sizes={CARD_IMAGE_SIZES}
+          loading="lazy"
+          decoding="async"
           className="aspect-[4/3] w-full object-cover"
         />
       ) : (
         <img
           src="/noPicturePlaceholder.png"
           alt="No picture placeholder"
+          loading="lazy"
+          decoding="async"
           className="aspect-[4/3] w-full object-contain bg-stone-50 p-8"
         />
       )}

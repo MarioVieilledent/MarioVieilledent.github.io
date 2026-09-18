@@ -8,6 +8,7 @@ import { categories, categoryEmoji } from "../../utils/recipeCategories";
 import type { Feast, Recipe } from "../../utils/validator";
 import RecipeCard from "./RecipeCard";
 import TranslationCoverageTable from "./TranslationCoverageTable";
+import { CARD_IMAGE_SIZES, foodImageProps } from "../../utils/foodImages";
 
 interface RecipesHomeProps {
   feasts: Feast[];
@@ -78,14 +79,19 @@ const RecipesHome = ({ feasts, recipes }: RecipesHomeProps) => {
               >
                 {picture ? (
                   <img
-                    src={`/food/${picture}`}
+                    {...foodImageProps(picture)}
                     alt={t(category as TermKeys)}
+                    sizes={CARD_IMAGE_SIZES}
+                    loading="lazy"
+                    decoding="async"
                     className="absolute inset-0 h-full w-full object-cover transition-transform duration-200 group-hover:scale-105"
                   />
                 ) : (
                   <img
                     src="/noPicturePlaceholder.png"
                     alt="No picture placeholder"
+                    loading="lazy"
+                    decoding="async"
                     className="absolute inset-0 h-full w-full bg-stone-50 object-contain p-8"
                   />
                 )}

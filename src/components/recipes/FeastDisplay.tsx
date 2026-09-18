@@ -11,6 +11,7 @@ import Ranking from "./Ranking";
 import BulletList from "./BulletList";
 import NavigateTo from "../NavigateTo";
 import LanguageOptionButton from "../LanguageOptionButton";
+import { CARD_IMAGE_SIZES, foodImageProps, HERO_IMAGE_SIZES } from "../../utils/foodImages";
 
 const FeastDisplay = ({ feast }: { feast: Feast }) => {
   const { language, setLanguage, t } = useTranslation();
@@ -31,8 +32,11 @@ const FeastDisplay = ({ feast }: { feast: Feast }) => {
     <div className="flex flex-col gap-8">
       {heroPicture ? (
         <img
-          src={`/food/${heroPicture}`}
+          {...foodImageProps(heroPicture)}
           alt={details.name}
+          sizes={HERO_IMAGE_SIZES}
+          fetchPriority="high"
+          decoding="async"
           className={`w-full object-cover ${
             isMobile ? "aspect-[4/3]" : "aspect-[21/9] rounded-3xl"
           }`}
@@ -41,6 +45,7 @@ const FeastDisplay = ({ feast }: { feast: Feast }) => {
         <img
           src="/noPicturePlaceholder.png"
           alt="No picture placeholder"
+          decoding="async"
           className="mx-auto w-32"
         />
       )}
@@ -140,8 +145,11 @@ const FeastDisplay = ({ feast }: { feast: Feast }) => {
               {galleryPictures.map((picture, index) => (
                 <img
                   key={index}
-                  src={`/food/${picture}`}
+                  {...foodImageProps(picture)}
                   alt={`${details.name} ${index + 2}`}
+                  sizes={CARD_IMAGE_SIZES}
+                  loading="lazy"
+                  decoding="async"
                   className="aspect-square w-full rounded-xl object-cover"
                 />
               ))}

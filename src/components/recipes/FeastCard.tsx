@@ -9,6 +9,7 @@ import type { Feast, FeastDetails } from "../../utils/validator";
 import type { Dispatch, SetStateAction } from "react";
 import Ranking from "./Ranking";
 import BulletList from "./BulletList";
+import { CARD_IMAGE_SIZES, foodImageProps } from "../../utils/foodImages";
 
 interface FeastCardProps {
   feast: Feast;
@@ -37,14 +38,19 @@ const FeastCard = ({ feast, setSearch }: FeastCardProps) => {
     >
       {feast.pictures.length > 0 ? (
         <img
-          src={`/food/${feast.pictures[0]}`}
+          {...foodImageProps(feast.pictures[0])}
           alt={details.name}
+          sizes={CARD_IMAGE_SIZES}
+          loading="lazy"
+          decoding="async"
           className="aspect-[4/3] w-full object-cover"
         />
       ) : (
         <img
           src="/noPicturePlaceholder.png"
           alt="No picture placeholder"
+          loading="lazy"
+          decoding="async"
           className="aspect-[4/3] w-full object-contain bg-stone-50 p-8"
         />
       )}
@@ -55,6 +61,8 @@ const FeastCard = ({ feast, setSearch }: FeastCardProps) => {
               className="h-6 w-6 shrink-0 rounded-full border border-stone-200 object-cover"
               src={`/flags/${feast.countryCode}.svg`}
               alt="Feast flag icon"
+              loading="lazy"
+              decoding="async"
             />
             <div
               className="truncate text-lg font-semibold text-stone-900"
