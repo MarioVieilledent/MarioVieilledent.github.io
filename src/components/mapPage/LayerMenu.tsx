@@ -333,7 +333,7 @@ const LayerMenu = ({
                         lang="en"
                         dir="ltr"
                       >
-                        {source.name} ({source.points.length})
+                        {source.name} ({source.count})
                       </span>
                     </button>
                   );

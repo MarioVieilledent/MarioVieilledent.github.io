@@ -27,7 +27,7 @@ import SearchButton from "./SearchButton";
 import GlobeSwitch from "./GlobeSwitch";
 import LocateButton from "./LocateButton";
 import type { MapPoint } from "../../types/types";
-import { pointSources } from "../../utils/pointSources";
+import { loadPointSource, pointSources } from "../../utils/pointSources";
 
 // The MapLibre 3D globe pulls in the ~1MB maplibre-gl chunk. It's opt-in
 // (behind GlobeSwitch), so loading it eagerly would tax every visit just to
@@ -170,6 +170,9 @@ const getInitialZoom = (): number => {
 const MapLayer = () => {
   const [layers, setLayers] = useState<string[]>(getInitialLayers);
   const [pointLayers, setPointLayers] = useState<string[]>([]);
+  const [loadedPointsBySource, setLoadedPointsBySource] = useState<
+    Record<string, MapPoint[]>
+  >({});
   const [rotation, setRotation] = useState(0);
   const [globeView, setGlobeView] = useState<boolean>(getInitialGlobeView);
   // Owned here (not inside either renderer) so it survives the 2D/3D toggle:
@@ -181,18 +184,46 @@ const MapLayer = () => {
     lon: number;
     lat: number;
   } | null>(null);
+
+  useEffect(() => {
+    const sourcesToLoad = pointSources.filter(
+      (source) =>
+        pointLayers.includes(source.name) &&
+        loadedPointsBySource[source.name] === undefined,
+    );
+    if (sourcesToLoad.length === 0) return;
+
+    let cancelled = false;
+    const loadSelectedSources = async () => {
+      const loaded = await Promise.all(
+        sourcesToLoad.map(async (source) => ({
+          source,
+          points: await loadPointSource(source),
+        })),
+      );
+      if (cancelled) return;
+
+      setLoadedPointsBySource((previous) => {
+        const next = { ...previous };
+        loaded.forEach(({ source, points }) => {
+          next[source.name] = points;
+        });
+        return next;
+      });
+    };
+
+    loadSelectedSources().catch((error: unknown) => {
+      console.error("Could not load map points:", error);
+    });
+
+    return () => {
+      cancelled = true;
+    };
+  }, [loadedPointsBySource, pointLayers]);
+
   const points = useMemo<MapPoint[]>(
-    () =>
-      pointSources
-        .filter((source) => pointLayers.includes(source.name))
-        .flatMap((source) =>
-          source.points.map((point) => ({
-            ...point,
-            color: source.color,
-            source: source.name,
-          })),
-        ),
-    [pointLayers],
+    () => pointLayers.flatMap((name) => loadedPointsBySource[name] ?? []),
+    [loadedPointsBySource, pointLayers],
   );
 
   const triggers = useRef<{
