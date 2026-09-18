@@ -1,15 +1,5 @@
-import {
-  Layer,
-  Map,
-  Marker,
-  Source,
-  type MapRef,
-} from "@vis.gl/react-maplibre";
-import {
-  forwardRef,
-  useImperativeHandle,
-  useRef,
-} from "react";
+import { Layer, Map, Marker, Source, type MapRef } from "@vis.gl/react-maplibre";
+import { forwardRef, useImperativeHandle, useMemo, useRef } from "react";
 import "maplibre-gl/dist/maplibre-gl.css";
 import { sources } from "../../utils/sources";
 import type { Source as MapSource } from "../../types/types";
@@ -19,6 +9,8 @@ import { useIsMobile } from "../../utils/isMobileHook";
 import { POINT_LABEL_MIN_ZOOM } from "../../utils/constants";
 
 const FLY_DURATION = 500;
+const POINT_SOURCE_ID = "map-points";
+const CLUSTER_MAX_ZOOM = 13;
 
 interface MapLibreProps {
   layers: string[];
@@ -64,6 +56,24 @@ const MapLibre = forwardRef<
   const mapRef = useRef<MapRef>(null);
   const isMobile = useIsMobile();
 
+  const pointGeoJson = useMemo(
+    () => ({
+      type: "FeatureCollection" as const,
+      features: points.map((point) => ({
+        type: "Feature" as const,
+        id: `${point.source}-${point.id}`,
+        geometry: {
+          type: "Point" as const,
+          coordinates: [point.lon, point.lat],
+        },
+        properties: {
+          name: point.name,
+          color: point.color,
+        },
+      })),
+    }),
+    [points],
+  );
   useImperativeHandle(ref, () => ({
     triggerReset() {
       mapRef.current?.resetNorthPitch({ duration: FLY_DURATION });
@@ -125,26 +135,73 @@ const MapLibre = forwardRef<
           />
         </Source>
       ))}
-      {points.map((point) => (
-        <Marker
-          key={`${point.source}-${point.id}`}
-          longitude={point.lon}
-          latitude={point.lat}
-          anchor="center"
-        >
-          <div
-            className="relative h-3 w-3 rounded-full border-2 border-white shadow"
-            style={{ backgroundColor: point.color }}
-            title={point.name}
-          >
-            {zoom >= POINT_LABEL_MIN_ZOOM && (
-              <span className="pointer-events-none absolute bottom-4 left-1/2 w-max max-w-48 -translate-x-1/2 rounded bg-white/90 px-1.5 py-0.5 text-center text-[11px] font-semibold leading-tight text-stone-900 shadow">
-                {point.name}
-              </span>
-            )}
-          </div>
-        </Marker>
-      ))}
+      <Source
+        id={POINT_SOURCE_ID}
+        type="geojson"
+        data={pointGeoJson}
+        cluster
+        clusterMaxZoom={CLUSTER_MAX_ZOOM}
+        clusterRadius={50}
+      >
+        <Layer
+          id="point-clusters"
+          type="circle"
+          filter={["has", "point_count"]}
+          paint={{
+            "circle-color": "#f59e0b",
+            "circle-radius": [
+              "step",
+              ["get", "point_count"],
+              14,
+              100,
+              18,
+              1000,
+              24,
+            ],
+            "circle-stroke-color": "#ffffff",
+            "circle-stroke-width": 2,
+          }}
+        />
+        <Layer
+          id="point-cluster-counts"
+          type="symbol"
+          filter={["has", "point_count"]}
+          layout={{
+            "text-field": ["get", "point_count_abbreviated"],
+            "text-size": 11,
+          }}
+          paint={{ "text-color": "#1c1917" }}
+        />
+        <Layer
+          id="individual-points"
+          type="circle"
+          filter={["!", ["has", "point_count"]]}
+          paint={{
+            "circle-color": ["get", "color"],
+            "circle-radius": 6,
+            "circle-stroke-color": "#ffffff",
+            "circle-stroke-width": 2,
+          }}
+        />
+        <Layer
+          id="point-labels"
+          type="symbol"
+          minzoom={POINT_LABEL_MIN_ZOOM}
+          filter={["!", ["has", "point_count"]]}
+          layout={{
+            "text-field": ["get", "name"],
+            "text-size": 11,
+            "text-offset": [0, -1.3],
+            "text-anchor": "bottom",
+            "text-allow-overlap": false,
+          }}
+          paint={{
+            "text-color": "#1c1917",
+            "text-halo-color": "rgba(255,255,255,0.95)",
+            "text-halo-width": 2,
+          }}
+        />
+      </Source>
       {userLocation && (
         <Marker longitude={userLocation.lon} latitude={userLocation.lat}>
           <UserLocationDot />
