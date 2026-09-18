@@ -1,11 +1,11 @@
 import { lazy, Suspense } from "react";
 import { Routes, Route, HashRouter, Navigate } from "react-router";
-import MapPage from "./pages/MapPage";
 import NotFound from "./pages/NotFound";
 
-// MapPage is the landing route almost every visit hits, so it stays eagerly
-// bundled. Everything else is opt-in navigation, so it's worth the extra
-// network round trip to keep it out of the initial payload.
+// Keep every feature page out of the shared application shell. This is
+// especially important for MapPage: its rendering libraries and optional
+// point datasets should not be downloaded by direct visitors to other routes.
+const MapPage = lazy(() => import("./pages/MapPage"));
 const Recipes = lazy(() => import("./pages/Recipes"));
 const Countries = lazy(() => import("./pages/Countries"));
 const LearnNorwegian = lazy(() => import("./pages/LearnNorwegian"));
