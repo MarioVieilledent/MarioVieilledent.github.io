@@ -1,0 +1,1 @@
+import{v as e}from"./index-BZBPe-_x.js";import{t}from"./isMobileHook-DinK-hKX.js";var n=e(),r=({children:e})=>{let r=t();return(0,n.jsx)(`div`,{className:r?`flex flex-col`:`flex flex-col max-w-6xl mx-auto gap-8 px-8`,children:e})};export{r as t};
