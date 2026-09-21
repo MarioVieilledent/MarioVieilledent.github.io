@@ -3,8 +3,10 @@ const RESPONSIVE_WIDTHS = [640, 1280] as const;
 const imageStem = (filename: string): string =>
   filename.replace(/\.[^/.]+$/, "");
 
+export const foodImageUrl = (filename: string): string => `/food/${filename}`;
+
 export const foodImageProps = (filename: string) => ({
-  src: `/food/${filename}`,
+  src: foodImageUrl(filename),
   srcSet: RESPONSIVE_WIDTHS.map(
     (width) => `/food/responsive/${imageStem(filename)}-${width}.webp ${width}w`,
   ).join(", "),

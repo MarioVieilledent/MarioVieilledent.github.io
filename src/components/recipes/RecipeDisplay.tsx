@@ -10,6 +10,7 @@ import LanguageOptionButton from "../LanguageOptionButton";
 import BulletList from "./BulletList";
 import NavigateTo from "../NavigateTo";
 import { CARD_IMAGE_SIZES, foodImageProps, HERO_IMAGE_SIZES } from "../../utils/foodImages";
+import FoodImageLink from "./FoodImageLink";
 
 const RecipeDisplay = ({ recipe }: { recipe: Recipe }) => {
   const { language, setLanguage, t } = useTranslation();
@@ -43,16 +44,18 @@ const RecipeDisplay = ({ recipe }: { recipe: Recipe }) => {
   return (
     <div className="flex flex-col gap-8">
       {heroPicture ? (
-        <img
-          {...foodImageProps(heroPicture)}
-          alt={details.name}
-          sizes={HERO_IMAGE_SIZES}
-          fetchPriority="high"
-          decoding="async"
-          className={`w-full object-cover ${
-            isMobile ? "aspect-[4/3]" : "aspect-[21/9] rounded-3xl"
-          }`}
-        />
+        <FoodImageLink filename={heroPicture} label={details.name}>
+          <img
+            {...foodImageProps(heroPicture)}
+            alt={details.name}
+            sizes={HERO_IMAGE_SIZES}
+            fetchPriority="high"
+            decoding="async"
+            className={`w-full object-cover ${
+              isMobile ? "aspect-[4/3]" : "aspect-[21/9] rounded-3xl"
+            }`}
+          />
+        </FoodImageLink>
       ) : (
         <img
           src="/noPicturePlaceholder.png"
@@ -128,17 +131,27 @@ const RecipeDisplay = ({ recipe }: { recipe: Recipe }) => {
               {t("pictures")}
             </h2>
             <div className="grid grid-cols-2 gap-3 md:grid-cols-3">
-              {galleryPictures.map((picture, index) => (
-                <img
-                  key={index}
-                  {...foodImageProps(picture)}
-                  alt={`${details.name} ${index + 2}`}
-                  sizes={CARD_IMAGE_SIZES}
-                  loading="lazy"
-                  decoding="async"
-                  className="aspect-square w-full rounded-xl object-cover"
-                />
-              ))}
+              {galleryPictures.map((picture, index) => {
+                const label = `${details.name} ${index + 2}`;
+
+                return (
+                  <FoodImageLink
+                    key={index}
+                    filename={picture}
+                    label={label}
+                    className="rounded-xl"
+                  >
+                    <img
+                      {...foodImageProps(picture)}
+                      alt={label}
+                      sizes={CARD_IMAGE_SIZES}
+                      loading="lazy"
+                      decoding="async"
+                      className="aspect-square w-full rounded-xl object-cover"
+                    />
+                  </FoodImageLink>
+                );
+              })}
             </div>
           </section>
         )}
