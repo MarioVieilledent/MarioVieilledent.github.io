@@ -7,6 +7,7 @@ export type LanguagesAvailable =
   | "el" // Greek
   | "en" // English
   | "es" // Spanish
+  | "fa" // Persian
   | "fr" // French
   | "hi" // Hindi
   | "it" // Italian
@@ -16,6 +17,7 @@ export type LanguagesAvailable =
   | "pt" // Portuguese
   | "ru" // Russian
   | "sl" // Slovenian
+  | "tl" // Tagalog
   | "tr" // Turkish
   | "zh"; // Chinese
 
@@ -74,6 +76,11 @@ export const languages: {
     name: "Español",
   },
   {
+    code: "fa",
+    countryCode: "ir",
+    name: "فارسی",
+  },
+  {
     code: "fr",
     countryCode: "fr",
     name: "Français",
@@ -119,6 +126,11 @@ export const languages: {
     name: "Slovenščina",
   },
   {
+    code: "tl",
+    countryCode: "ph",
+    name: "Tagalog",
+  },
+  {
     code: "tr",
     countryCode: "tr",
     name: "Türk",
@@ -137,4 +149,4 @@ export const isLanguageAvailable = (
 
 export const getLanguageDirection = (
   language: LanguagesAvailable,
-): "ltr" | "rtl" => (language === "ar" ? "rtl" : "ltr");
+): "ltr" | "rtl" => (language === "ar" || language === "fa" ? "rtl" : "ltr");

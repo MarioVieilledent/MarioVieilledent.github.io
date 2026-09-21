@@ -8,10 +8,11 @@
     "dev": "vite",
     "build": "tsc -b && vite build",
     "generate:country-shapes": "node scripts/generateCountryShapes.mjs",
+    "generate:food-images": "node scripts/generateResponsiveFoodImages.mjs",
     "lint": "eslint .",
     "preview": "vite preview",
     "test": "vitest run",
-    "precommit": "npm run lint && npm run test && npm run build",
+    "precommit": "npm run generate:food-images && npm run lint && npm run test && npm run build",
     "publish": "gh-pages -d dist"
   },
   "dependencies": {
@@ -36,6 +37,7 @@
     "eslint": "^10.0.2",
     "eslint-plugin-react-refresh": "^0.5.2",
     "gh-pages": "^6.3.0",
+    "sharp": "^0.35.4",
     "typescript": "^5.9.3",
     "typescript-eslint": "^8.56.1",
     "vite": "^8.2.1"

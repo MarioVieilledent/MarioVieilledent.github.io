@@ -7,7 +7,9 @@ body,
 }
 
 html:lang(ar) body,
-[lang="ar"] {
+html:lang(fa) body,
+[lang="ar"],
+[lang="fa"] {
   font-family: "Noto Sans Arabic", "Noto Sans", sans-serif;
 }
 
@@ -52,6 +54,7 @@ html:lang(he) body,
 }
 
 .script-label:lang(ar),
+.script-label:lang(fa),
 .script-label:lang(hi),
 .script-label:lang(ja),
 .script-label:lang(zh),

@@ -441,6 +441,38 @@
         "When 2/3 cooked, transfer spaghetti to the hot pan, adding small ladles of pasta water as needed to both finish cooking and make the pasta creamier thanks to the starch. Stir regularly."
       ]
     },
+    "fa": {
+      "name": "آلیو اِ اولیو",
+      "notes": "یک روش ساده ایتالیایی برای تهیه اسپاگتی خوش‌طعم‌تر و خامه‌ای‌تر. این روش برای دوستداران اسپاگتی، به‌ویژه کسانی که سیر دوست دارند، یک ارتقای واقعی است. همچنین می‌توانید همین روش را با آب گوشت یا ماهی باقی‌مانده در تابه داغ به کار ببرید.",
+      "ingredients": [
+        "اسپاگتی",
+        "روغن زیتون",
+        "۴ حبه سیر",
+        "نمک، فلفل و فلفل چیلی به مقدار دلخواه"
+      ],
+      "instructions": [
+        "اسپاگتی را در آب جوش نمک‌دار حدود دو سوم زمان معمول بپزید.",
+        "هم‌زمان، روغن زیتون را با ۳ تا ۵ حبه سیر کامل (پوست‌کنده یا درشت خردشده) روی حرارت متوسط رو به زیاد گرم کنید؛ سیر باید جلزولز کند.",
+        "ادویه‌ها، مانند فلفل سیاه و پرک فلفل چیلی، را به مقدار دلخواه اضافه کنید.",
+        "وقتی اسپاگتی دو سوم پخت، آن را به تابه داغ منتقل کنید و در صورت نیاز کم‌کم از آب پاستا بیفزایید تا هم پخت کامل شود و هم نشاسته، پاستا را خامه‌ای‌تر کند. مرتب هم بزنید."
+      ]
+    },
+    "tl": {
+      "name": "Aglio e olio",
+      "notes": "Isang payak na pamamaraang Italyano para sa mas malasa at mas creamy na spaghetti. Malaking upgrade ito para sa mga mahilig sa spaghetti, lalo na sa mga mahilig sa bawang. Maaari mo ring iangkop ang paraang ito gamit ang katas ng karne o isda na naiwan sa mainit na kawali.",
+      "ingredients": [
+        "Spaghetti",
+        "Langis ng oliba",
+        "4 na butil ng bawang",
+        "Asin, paminta, at sili ayon sa panlasa"
+      ],
+      "instructions": [
+        "Lutuin ang spaghetti sa kumukulong tubig na may asin nang humigit-kumulang dalawang-katlo ng karaniwang oras ng pagluluto.",
+        "Samantala, painitin ang langis ng oliba sa katamtaman hanggang malakas na apoy kasama ang 3–5 buong butil ng bawang (binalatan o hiniwa nang malalaki); dapat sumisirit ang bawang.",
+        "Magdagdag ng mga pampalasa ayon sa panlasa — paminta, chili flakes, at iba pa.",
+        "Kapag dalawang-katlo na ang luto, ilipat ang spaghetti sa mainit na kawali. Magdagdag ng kaunting sandok ng tubig ng pasta kung kinakailangan upang matapos ang pagluluto at maging mas creamy ang pasta dahil sa starch. Haluin nang regular."
+      ]
+    },
     "fr": {
       "name": "Aglio e olio",
       "notes": "Technique Italienne du pauvre pour des spaghetti plus savoureux et crémeux. C'est un réel plus pour des spaghetti, et pour les amateurs d'ail. Possibilité de décliner la technique avec les sucs de viande/poisson dans la poele chaude.",
@@ -746,11 +778,7 @@
     "ar": {
       "name": "معكرونة طازجة منزلية بآلة يدوية",
       "notes": "هذه المعكرونة سريعة وممتعة التحضير، كما أنها مغذية بفضل البيض. تتطلب تقنية العجن وفرد العجين بعض التدريب. احسب 100 غرام من الدقيق وبيضة واحدة لكل شخص.",
-      "ingredients": [
-        "200 غرام دقيق",
-        "بيضتان",
-        "رشة ملح"
-      ],
+      "ingredients": ["200 غرام دقيق", "بيضتان", "رشة ملح"],
       "instructions": [
         "شكّل العجين واعجنه لمدة عشر دقائق تقريبًا من دون طيه على نفسه.",
         "قسّم العجين إلى 4 أجزاء، ومرّر كل جزء عدة مرات عبر أوسع إعداد في الآلة، مع طيه على نفسه في كل مرة.",
@@ -772,11 +800,7 @@
     "hi": {
       "name": "हाथ से चलने वाली मशीन से बना ताज़ा घरेलू पास्ता",
       "notes": "यह पास्ता जल्दी और मज़े से बनता है तथा अंडों के कारण पौष्टिक होता है। आटा गूँधने और बेलने की तकनीक के लिए थोड़ा अभ्यास चाहिए। प्रति व्यक्ति 100 ग्राम मैदा और 1 अंडा रखें।",
-      "ingredients": [
-        "200 ग्राम मैदा",
-        "2 अंडे",
-        "एक चुटकी नमक"
-      ],
+      "ingredients": ["200 ग्राम मैदा", "2 अंडे", "एक चुटकी नमक"],
       "instructions": [
         "आटा तैयार करें और उसे अपने ऊपर मोड़े बिना लगभग दस मिनट तक गूँधें।",
         "आटे को 4 भागों में बाँटें और हर भाग को मशीन की सबसे मोटी सेटिंग से कई बार निकालें; हर बार उसे अपने ऊपर मोड़ें।",
@@ -787,11 +811,7 @@
     "pt": {
       "name": "Massa fresca caseira com máquina manual",
       "notes": "Rápida e divertida de preparar, esta massa é muito nutritiva graças aos ovos. A técnica de amassar e estender a massa requer alguma prática. Conte com 100 g de farinha e 1 ovo por pessoa.",
-      "ingredients": [
-        "200 g de farinha",
-        "2 ovos",
-        "Uma pitada de sal"
-      ],
+      "ingredients": ["200 g de farinha", "2 ovos", "Uma pitada de sal"],
       "instructions": [
         "Forme a massa e amasse-a durante cerca de dez minutos sem a dobrar sobre si própria.",
         "Divida a massa em 4 porções e passe cada uma várias vezes pela abertura mais larga da máquina, dobrando-a sobre si própria de cada vez.",
@@ -802,11 +822,7 @@
     "ru": {
       "name": "Домашняя свежая паста на ручной машинке",
       "notes": "Эту пасту готовить быстро и весело, а благодаря яйцам она очень питательна. Чтобы научиться замешивать и раскатывать тесто, потребуется немного практики. Рассчитывайте по 100 г муки и 1 яйцу на человека.",
-      "ingredients": [
-        "200 г муки",
-        "2 яйца",
-        "Щепотка соли"
-      ],
+      "ingredients": ["200 г муки", "2 яйца", "Щепотка соли"],
       "instructions": [
         "Сформируйте тесто и месите его около десяти минут, не складывая пополам.",
         "Разделите тесто на 4 части и несколько раз пропустите каждую через самый широкий зазор машинки, каждый раз складывая её пополам.",
@@ -817,11 +833,7 @@
     "ka": {
       "name": "ხელნაკეთი ახალი პასტა მექანიკური აპარატით",
       "notes": "ეს პასტა სწრაფად და სახალისოდ მზადდება, კვერცხის წყალობით კი ძალიან ნოყიერია. ცომის მოზელასა და გაბრტყელებას ცოტა ვარჯიში სჭირდება. თითო ადამიანზე გაითვალისწინეთ 100 გ ფქვილი და 1 კვერცხი.",
-      "ingredients": [
-        "200 გ ფქვილი",
-        "2 კვერცხი",
-        "მწიკვი მარილი"
-      ],
+      "ingredients": ["200 გ ფქვილი", "2 კვერცხი", "მწიკვი მარილი"],
       "instructions": [
         "ცომი შეკარით და დაახლოებით ათი წუთის განმავლობაში ზილეთ ისე, რომ თავის თავზე არ გადაკეცოთ.",
         "ცომი 4 ნაწილად გაყავით და თითოეული რამდენჯერმე გაატარეთ აპარატის ყველაზე სქელ რეჟიმში, ყოველ ჯერზე თავის თავზე გადაკეცეთ.",
@@ -926,6 +938,48 @@
         "Divide the dough into three parts without pressing, to keep the air inside.",
         "Shape three baguettes by stretching each part with your hands in one motion.",
         "Bake for 25 minutes at 250 °C with static heat."
+      ]
+    },
+    "fa": {
+      "name": "باگت",
+      "notes": "فوق‌العاده ساده، واقعاً کم‌هزینه و از نظر زمان کار بسیار سریع است. خمیر به حدود ده ساعت استراحت نیاز دارد؛ پس بهتر است آن را روز قبل آماده کنید تا صبح از نان تازه و خوش‌مزه لذت ببرید. چهار ماده اولیه نماد چهار عنصرند: آرد برای خاک، آب، مخمر برای هوا و نمک برای آتش. دستور اصلی با روش قاشق چوبی: https://www.youtube.com/watch?v=Z-husjZkxHw",
+      "ingredients": [
+        "۶۰۰ گرم آرد (۲۰۰ گرم برای هر باگت)",
+        "۴۸۰ میلی‌لیتر آب (۸۰٪ وزن آرد)",
+        "۲ گرم مخمر خشک",
+        "۲ قاشق چای‌خوری نمک"
+      ],
+      "instructions": [
+        "همه مواد را در یک کاسه بزرگ بریزید.",
+        "حدود ۱ دقیقه با دسته یک قاشق چوبی بزرگ مخلوط کنید تا خمیر به شکل گلوله درآید.",
+        "نکته: خمیر چسبیده به قاشق را با لبه یک قاشق کوچک جدا کنید (ویدئو را ببینید).",
+        "روی ظرف را بپوشانید و ۸ تا ۱۲ ساعت در دمای اتاق استراحت دهید.",
+        "روی یک ورق کاغذ روغنی در سینی، مقدار زیادی آرد بپاشید. چون خمیر بسیار مرطوب و چسبناک است، برای نچسبیدن به آرد فراوان نیاز دارد.",
+        "روی خمیر آرد بپاشید و آن را با احتیاط روی کاغذ روغنی منتقل کنید (کاردک خمیر بسیار مناسب است).",
+        "خمیر را بدون فشار دادن به سه قسمت تقسیم کنید تا هوای داخل آن حفظ شود.",
+        "هر قسمت را با دست و در یک حرکت بکشید و سه باگت شکل دهید.",
+        "با حرارت ثابت، ۲۵ دقیقه در دمای ۲۵۰ درجه سانتی‌گراد بپزید."
+      ]
+    },
+    "tl": {
+      "name": "Baguette",
+      "notes": "Napakasimple, talagang matipid, at napakaikli ng aktuwal na oras ng paggawa. Kailangang ipahinga ang dough nang humigit-kumulang sampung oras, kaya pinakamainam na ihanda ito kinagabihan upang makakain ng sariwa at masarap na tinapay sa umaga. Kumakatawan ang apat na sangkap sa apat na elemento: harina para sa lupa, tubig, lebadura para sa hangin, at asin para sa apoy. Orihinal na recipe gamit ang pamamaraang kahoy na kutsara: https://www.youtube.com/watch?v=Z-husjZkxHw",
+      "ingredients": [
+        "600 g harina (200 g bawat baguette)",
+        "480 ml tubig (80% ng bigat ng harina)",
+        "2 g tuyong lebadura",
+        "2 kutsaritang asin"
+      ],
+      "instructions": [
+        "Ilagay ang lahat ng sangkap sa isang malaking mangkok.",
+        "Haluin nang humigit-kumulang 1 minuto gamit ang hawakan ng malaking kahoy na kutsara hanggang maging isang bola ang dough.",
+        "Tip: kaskasin ang dough na dumikit sa kutsara gamit ang gilid ng maliit na kutsara (tingnan ang video).",
+        "Takpan at hayaang magpahinga nang 8–12 oras sa temperatura ng kuwarto.",
+        "Budburan nang maraming harina ang baking paper na nakapatong sa tray. Dahil maraming tubig at malagkit ang dough, kailangan nito ng maraming harina upang hindi dumikit.",
+        "Budburan ng harina ang dough at maingat itong ilipat sa baking paper (napakahusay gamitin ang pastry scraper).",
+        "Hatiin ang dough sa tatlong bahagi nang hindi pinipisil upang manatili ang hangin sa loob.",
+        "Hugisan ang tatlong baguette sa pamamagitan ng pag-unat sa bawat bahagi gamit ang mga kamay sa isang galaw.",
+        "I-bake nang 25 minuto sa 250 °C gamit ang static heat."
       ]
     },
     "fr": {
@@ -1294,6 +1348,106 @@
             "Melt 30g butter in a pan over low heat.",
             "Add 3 minced garlic cloves and salt, let infuse for 2–3 minutes over very low heat without burning.",
             "Brush the bread and sprinkle chopped coriander or parsley."
+          ]
+        }
+      ]
+    },
+    "fa": {
+      "name": "نان تخت شرقی «لواش»",
+      "notes": "نان تخت ترکی/ارمنی شبیه نان هندی که در تابه پخته می‌شود. دستور از Hungry Man Kitchen در یوتیوب.",
+      "ingredients": [
+        "۳۰۰ گرم آرد",
+        "۲۰۰ میلی‌لیتر آب ولرم",
+        "مخمر خشک متناسب با زمان استراحت (۱ ساعت: ۱۰ گرم، ۱۰ ساعت: ۲ گرم)",
+        "۲ قاشق غذاخوری روغن زیتون (اختیاری؛ بافت نرم‌تری می‌دهد)",
+        "۱ قاشق غذاخوری شکر",
+        "۱ قاشق چای‌خوری نمک"
+      ],
+      "instructions": [
+        {
+          "part": "آماده‌سازی خمیر — روش آسان با استراحت طولانی",
+          "instructions": [
+            "مواد خشک را در یک کاسه مخلوط کنید، آب و روغن را بیفزایید و ۲ تا ۳ دقیقه با پشت قاشق چوبی محکم هم بزنید.",
+            "دست‌کم ۳ تا ۴ ساعت با ۵ گرم مخمر، یا ۸ تا ۱۰ ساعت با ۲ گرم مخمر استراحت دهید."
+          ]
+        },
+        {
+          "part": "آماده‌سازی خمیر — روش دشوارتر اما سریع‌تر",
+          "instructions": [
+            "آب ولرم، شکر و مخمر را در یک کاسه مخلوط کنید.",
+            "حدود ۵ تا ۱۰ دقیقه صبر کنید تا کف کند و مخمر فعال شود.",
+            "آرد و نمک را در یک کاسه بزرگ بریزید.",
+            "مخلوط مخمر و در صورت استفاده روغن زیتون را اضافه کنید.",
+            "مخلوط کنید و سپس ۸ تا ۱۰ دقیقه ورز دهید تا صاف و کشسان شود.",
+            "روی کاسه را بپوشانید و خمیر را حدود ۱ ساعت، تا زمانی که حجمش دو برابر شود، استراحت دهید."
+          ]
+        },
+        {
+          "part": "شکل دادن",
+          "instructions": [
+            "روی خمیر و سطح کار آرد بپاشید، خمیر را پهن و به ۸ تا ۱۰ گلوله هم‌اندازه تقسیم کنید.",
+            "یک تابه ضخیم یا چدنی را روی حرارت متوسط رو به زیاد گرم کنید.",
+            "هر گلوله خمیر را با دست یا با کمک نیروی جاذبه پهن کنید.",
+            "هر نان را از هر طرف ۱ تا ۲ دقیقه بپزید تا پف کند و لکه‌های طلایی روی آن پدیدار شود.",
+            "مهم: پس از پخت روی نان‌ها را بپوشانید تا خشک نشوند."
+          ]
+        },
+        {
+          "part": "کره سیردار اختیاری",
+          "instructions": [
+            "۳۰ گرم کره را در تابه‌ای روی حرارت کم آب کنید.",
+            "۳ حبه سیر ریزشده و نمک را اضافه کنید و ۲ تا ۳ دقیقه روی حرارت بسیار کم، بدون سوختن، عطر آن را در کره آزاد کنید.",
+            "کره را روی نان بمالید و گشنیز یا جعفری خردشده بپاشید."
+          ]
+        }
+      ]
+    },
+    "tl": {
+      "name": "Silangang Flatbread na “Lavash”",
+      "notes": "Turkish/Armenian na flatbread na niluluto sa kawali at kahawig ng Indian naan. Recipe mula sa Hungry Man Kitchen (YouTube).",
+      "ingredients": [
+        "300 g harina",
+        "200 ml maligamgam na tubig",
+        "Tuyong lebadura, depende sa oras ng pagpapahinga (1 oras → 10 g, 10 oras → 2 g)",
+        "2 kutsarang langis ng oliba (opsyonal, nagbibigay ng mas malambot na texture)",
+        "1 kutsarang asukal",
+        "1 kutsaritang asin"
+      ],
+      "instructions": [
+        {
+          "part": "Paghahanda ng dough — madaling paraan na may mahabang pagpapahinga",
+          "instructions": [
+            "Paghaluin ang mga tuyong sangkap sa isang mangkok, idagdag ang tubig at langis, at haluing mabuti nang 2–3 minuto gamit ang likod ng kahoy na kutsara.",
+            "Hayaang magpahinga nang hindi bababa sa 3–4 na oras (5 g lebadura), o 8–10 oras (2 g lebadura)."
+          ]
+        },
+        {
+          "part": "Paghahanda ng dough — mas mahirap ngunit mas mabilis na paraan",
+          "instructions": [
+            "Sa isang mangkok, paghaluin ang maligamgam na tubig, asukal, at lebadura.",
+            "Hayaang magpahinga nang humigit-kumulang 5–10 minuto hanggang bumula (pag-activate ng lebadura).",
+            "Ilagay ang harina at asin sa isang malaking mangkok.",
+            "Ibuhos ang mixture ng lebadura (at langis ng oliba kung gagamit).",
+            "Paghaluin, pagkatapos ay masahin nang 8–10 minuto hanggang maging makinis at nababanat.",
+            "Takpan ang mangkok at hayaang umalsa ang dough nang humigit-kumulang 1 oras (hanggang dumoble ang laki)."
+          ]
+        },
+        {
+          "part": "Paghuhugis",
+          "instructions": [
+            "Budburan ng harina ang dough at work surface, patagin, at hatiin sa 8–10 magkakapantay na bola.",
+            "Painitin ang makapal o cast-iron na kawali sa katamtaman hanggang malakas na apoy.",
+            "Patagin ang bawat bola ng dough gamit ang kamay o sa pag-unat sa tulong ng gravity.",
+            "Lutuin ang bawat flatbread nang 1–2 minuto sa bawat panig hanggang umalsa at magkaroon ng mga ginintuang batik.",
+            "Mahalaga: takpan ang tinapay pagkatapos lutuin upang hindi matuyo."
+          ]
+        },
+        {
+          "part": "Opsyonal na garlic butter",
+          "instructions": [
+            "Tunawin ang 30 g mantikilya sa kawali sa mahinang apoy.",
+            "Idagdag ang 3 hiniwang butil ng bawang at asin. Hayaang lumasa nang 2–3 minuto sa napakahinang apoy nang hindi nasusunog.",
+            "Ipahid sa tinapay at budburan ng hiniwang coriander o parsley."
           ]
         }
       ]
@@ -2276,6 +2430,98 @@
         }
       ]
     },
+    "fa": {
+      "name": "پیتزا مارگاریتا",
+      "notes": "خمیر پیتزا: همان روش خمیر نان، اما با ۶۵ تا ۷۵ میلی‌لیتر آب به ازای هر ۱۰۰ گرم آرد.",
+      "ingredients": [
+        {
+          "part": "خمیر (برای ۱ پیتزا)",
+          "ingredients": [
+            "۲۰۰ تا ۲۵۰ گرم آرد",
+            "آب شیر برابر با ۶۵٪ وزن آرد",
+            "کمی مخمر بیشتر از مقدار لازم برای باگت",
+            "نصف قاشق چای‌خوری نمک"
+          ]
+        },
+        {
+          "part": "مواد روی پیتزا",
+          "ingredients": [
+            "سس گوجه‌فرنگی",
+            "۱ گلوله پنیر موزارلا",
+            "ریحان تازه",
+            "روغن زیتون",
+            "نمک، فلفل و سبزی‌های معطر"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "part": "خمیر",
+          "instructions": [
+            "با قاشق چوبی مخلوط کنید.",
+            "دست‌کم ۵ ساعت استراحت دهید."
+          ]
+        },
+        {
+          "part": "پخت",
+          "instructions": [
+            "فر را تا بیشترین دما گرم کنید (۲۵۰ درجه سانتی‌گراد یا بیشتر؛ در حالت ایده‌آل ۴۵۰ درجه).",
+            "خمیر را با دست روی سینی آردپاشی‌شده پهن کنید.",
+            "به مقدار دلخواه سس گوجه‌فرنگی اضافه کنید.",
+            "نمک، فلفل، ادویه پیتزا یا سبزی‌های پرووانسی و برگ‌های ریحان تازه بیفزایید.",
+            "یک گلوله موزارلا را روی پیتزا پخش کنید (اگر بیشترین دمای فر ۲۵۰ درجه است، آب آن را نگیرید). بهتر است تکه‌ها درشت باشند تا آهسته آب شوند و قهوه‌ای نشوند.",
+            "کمی روغن زیتون روی آن بریزید.",
+            "حدود ۱۰ دقیقه، ترجیحاً در طبقه پایین فر و در صورت امکان با حالت فن‌دار، بپزید."
+          ]
+        }
+      ]
+    },
+    "tl": {
+      "name": "Pizza Margherita",
+      "notes": "Dough ng pizza: kaparehong paraan ng dough ng tinapay, ngunit gumamit ng 65–75 ml na tubig sa bawat 100 g ng harina.",
+      "ingredients": [
+        {
+          "part": "Dough (para sa 1 pizza)",
+          "ingredients": [
+            "200–250 g harina",
+            "Tubig mula sa gripo na katumbas ng 65% ng bigat ng harina",
+            "Kaunting mas maraming lebadura kaysa para sa baguette",
+            "Kalahating kutsaritang asin"
+          ]
+        },
+        {
+          "part": "Mga topping ng pizza",
+          "ingredients": [
+            "Tomato sauce",
+            "1 bola ng mozzarella",
+            "Sariwang basil",
+            "Langis ng oliba",
+            "Asin, paminta, at mga herb"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "part": "Dough",
+          "instructions": [
+            "Haluin gamit ang kahoy na kutsara.",
+            "Hayaang magpahinga nang hindi bababa sa 5 oras."
+          ]
+        },
+        {
+          "part": "Pagbe-bake",
+          "instructions": [
+            "Painitin muna ang oven sa pinakamataas na temperatura (250 °C o mas mataas, pinakamainam ang 450 °C).",
+            "Iunat ang dough gamit ang kamay sa baking tray na binudburan ng harina.",
+            "Magdagdag ng tomato sauce — dami ayon sa panlasa.",
+            "Timplahan ng asin, paminta, pizza o Provençal herbs, at sariwang dahon ng basil.",
+            "Ikalat ang isang bola ng mozzarella (huwag patuluin kung hanggang 250 °C lamang ang oven), mas mainam sa malalaking piraso upang mabagal itong matunaw nang hindi nangingitim.",
+            "Patakan ng langis ng oliba.",
+            "I-bake nang humigit-kumulang 10 minuto, mas mainam sa ibabang rack at gamit ang convection kung maaari."
+          ]
+        }
+      ]
+    },
     "fr": {
       "name": "Pizza Margherita",
       "notes": "Pâte à pizza : même procédé que la pâte à pain mais avec 65 à 75 mL d'eau pour 100 de farine.",
@@ -2846,10 +3092,7 @@
       "instructions": [
         {
           "part": "ცომი",
-          "instructions": [
-            "ხის კოვზით აურიეთ.",
-            "მინიმუმ 5 საათით დაასვენეთ."
-          ]
+          "instructions": ["ხის კოვზით აურიეთ.", "მინიმუმ 5 საათით დაასვენეთ."]
         },
         {
           "part": "ცხობა",
@@ -3532,9 +3775,7 @@
         },
         {
           "part": "البطاطس المقلية",
-          "ingredients": [
-            "300 إلى 400 غرام من البطاطس المقلية المجمدة"
-          ]
+          "ingredients": ["300 إلى 400 غرام من البطاطس المقلية المجمدة"]
         },
         {
           "part": "البيتزا",
@@ -3599,9 +3840,7 @@
         },
         {
           "part": "Pommes",
-          "ingredients": [
-            "300 g bis 400 g tiefgekühlte Pommes frites"
-          ]
+          "ingredients": ["300 g bis 400 g tiefgekühlte Pommes frites"]
         },
         {
           "part": "Pizza",
@@ -3666,9 +3905,7 @@
         },
         {
           "part": "फ्राइज़",
-          "ingredients": [
-            "300 से 400 ग्राम जमे हुए फ्रेंच फ्राइज़"
-          ]
+          "ingredients": ["300 से 400 ग्राम जमे हुए फ्रेंच फ्राइज़"]
         },
         {
           "part": "पिज़्ज़ा",
@@ -3733,9 +3970,7 @@
         },
         {
           "part": "Batatas fritas",
-          "ingredients": [
-            "300 a 400 g de batatas fritas congeladas"
-          ]
+          "ingredients": ["300 a 400 g de batatas fritas congeladas"]
         },
         {
           "part": "Pizza",
@@ -3800,9 +4035,7 @@
         },
         {
           "part": "Картофель фри",
-          "ingredients": [
-            "300–400 г замороженного картофеля фри"
-          ]
+          "ingredients": ["300–400 г замороженного картофеля фри"]
         },
         {
           "part": "Пицца",
@@ -3867,9 +4100,7 @@
         },
         {
           "part": "კარტოფილი ფრი",
-          "ingredients": [
-            "300–400 გ გაყინული კარტოფილი ფრი"
-          ]
+          "ingredients": ["300–400 გ გაყინული კარტოფილი ფრი"]
         },
         {
           "part": "პიცა",
@@ -3941,6 +4172,44 @@
         "Add the rest of the milk and finish mixing in a few seconds.",
         "Let rest for at least 2 hours.",
         "Cooking: use a non-stick pan over high or even maximum heat; pour a ladle of batter, tilt and shake the pan to spread it evenly."
+      ]
+    },
+    "fa": {
+      "name": "کرپ",
+      "notes": "مایه‌ای صاف و بدون گلوله، بدون نیاز به مخلوط‌کن و با دستوری سریع. نکته: مقدار مواد جامد و مایع را برابر نگه دارید: https://www.youtube.com/watch?v=p-XOehv3j20",
+      "ingredients": [
+        "۲۵۰ گرم آرد",
+        "۵۰۰ میلی‌لیتر شیر",
+        "۳ عدد تخم‌مرغ",
+        "۳۰ گرم کره یا ۳۰ میلی‌لیتر روغن خنثی",
+        "شکر برای رنگ گرفتن (اختیاری)",
+        "یک پنس نمک"
+      ],
+      "instructions": [
+        "همه مواد را در یک کاسه بریزید، اما در ابتدا فقط یک سوم شیر را اضافه کنید.",
+        "محکم هم بزنید؛ پس از ۳۰ ثانیه مایه‌ای غلیظ و بدون گلوله خواهید داشت.",
+        "بقیه شیر را اضافه کنید و در چند ثانیه مخلوط کردن را به پایان برسانید.",
+        "دست‌کم ۲ ساعت استراحت دهید.",
+        "پخت: از تابه نچسب روی حرارت زیاد یا حتی بیشترین حرارت استفاده کنید؛ یک ملاقه از مایه را بریزید و تابه را کج داده و تکان دهید تا مایه یکنواخت پخش شود."
+      ]
+    },
+    "tl": {
+      "name": "Crêpes",
+      "notes": "Makinis na batter na walang buo-buo, hindi kailangan ng blender, at mabilis na recipe. Tip: panatilihing magkapantay ang dami ng solid at liquid base: https://www.youtube.com/watch?v=p-XOehv3j20",
+      "ingredients": [
+        "250 g harina",
+        "500 ml gatas",
+        "3 itlog",
+        "30 g mantikilya / 30 ml neutral na langis",
+        "Asukal para magkulay (opsyonal)",
+        "Isang kurot na asin"
+      ],
+      "instructions": [
+        "Ilagay ang lahat ng sangkap sa isang mangkok, ngunit 1/3 lamang ng gatas ang idagdag muna.",
+        "Batihing mabuti — sa loob ng 30 segundo ay magkakaroon ka ng malapot at walang buo-buong batter.",
+        "Idagdag ang natitirang gatas at tapusin ang paghahalo sa loob ng ilang segundo.",
+        "Hayaang magpahinga nang hindi bababa sa 2 oras.",
+        "Pagluluto: gumamit ng non-stick na kawali sa malakas o pinakamalakas na apoy; magbuhos ng isang sandok ng batter, ikiling at alugin ang kawali upang pantay itong kumalat."
       ]
     },
     "fr": {
@@ -4232,7 +4501,7 @@
   {
     "category": "dips",
     "id": "hummus",
-    "pictures": ["hummus_1.jpg", "hummus_2.jpg"],
+    "pictures": ["hummus_3.jpg", "hummus_1.jpg", "hummus_2.jpg"],
     "en": {
       "name": "Hummus",
       "notes": "I've tested a lot of recipes and techniques. One day, at a small falafel restaurant run by a well-known Jordanian in Düsseldorf, I tasted the best hummus of my life. Shocked, I started talking to the chef and nearly fell off my chair when I discovered that he uses neither garlic, nor cumin, nor olive oil in his hummus. The secret is to cook your own dried chickpeas and make your own tahini. Other inspirations here: https://www.youtube.com/watch?v=NbXC0B83S7k",
@@ -4249,6 +4518,42 @@
         "Blend everything together, adding ice-cold water until you reach the desired texture",
         "Let rest in the fridge for a few minutes; it's even better the next day",
         "Serve with a drizzle of olive oil and spices on top (pepper, cumin, paprika, sumac)"
+      ]
+    },
+    "fa": {
+      "name": "حمص",
+      "notes": "دستورها و روش‌های زیادی را امتحان کرده‌ام. یک روز در رستوران کوچک فلافلی متعلق به یک اردنی شناخته‌شده در دوسلدورف، بهترین حمص عمرم را چشیدم. شگفت‌زده با آشپز صحبت کردم و وقتی فهمیدم او در حمص خود نه از سیر، نه زیره و نه روغن زیتون استفاده می‌کند، نزدیک بود از صندلی بیفتم. راز کار این است که نخود خشک را خودتان بپزید و ارده را نیز خودتان درست کنید. الهام‌های دیگر: https://www.youtube.com/watch?v=NbXC0B83S7k",
+      "ingredients": [
+        "۵۰۰ گرم نخود پخته و آبکش‌شده",
+        "۱۰۰ گرم ارده",
+        "آب ۱ عدد لیموترش (۶۰ میلی‌لیتر)",
+        "آب بسیار سرد",
+        "نمک"
+      ],
+      "instructions": [
+        "پوست نخودها را جدا کنید تا بافتی نرم‌تر به دست آید.",
+        "ارده را با آب‌لیمو و نمک مخلوط کنید.",
+        "همه مواد را میکس کنید و کم‌کم آب بسیار سرد بیفزایید تا به بافت دلخواه برسید.",
+        "چند دقیقه در یخچال استراحت دهید؛ روز بعد حتی خوش‌مزه‌تر است.",
+        "با کمی روغن زیتون و ادویه روی آن (فلفل، زیره، پاپریکا و سماق) سرو کنید."
+      ]
+    },
+    "tl": {
+      "name": "Hummus",
+      "notes": "Marami na akong sinubukang recipe at pamamaraan. Isang araw, sa isang maliit na falafel restaurant ng isang kilalang Jordanian sa Düsseldorf, natikman ko ang pinakamasarap na hummus sa buhay ko. Sa sobrang gulat, kinausap ko ang chef at muntik akong mahulog sa upuan nang malaman kong hindi siya gumagamit ng bawang, cumin, o langis ng oliba sa kaniyang hummus. Ang sikreto ay ang sariling pagluluto ng tuyong chickpeas at paggawa ng sariling tahini. Iba pang inspirasyon dito: https://www.youtube.com/watch?v=NbXC0B83S7k",
+      "ingredients": [
+        "500 g niluto at sinalang chickpeas",
+        "100 g tahini",
+        "Katas ng 1 lemon (60 ml)",
+        "Napakalamig na tubig",
+        "Asin"
+      ],
+      "instructions": [
+        "Alisin ang balat ng chickpeas (para sa mas makinis na texture).",
+        "Paghaluin ang tahini, katas ng lemon, at asin.",
+        "I-blend ang lahat habang nagdaragdag ng napakalamig na tubig hanggang makuha ang gustong texture.",
+        "Hayaang magpahinga sa refrigerator nang ilang minuto; mas masarap pa ito kinabukasan.",
+        "Ihain na may kaunting langis ng oliba at mga pampalasa sa ibabaw (paminta, cumin, paprika, at sumac)."
       ]
     },
     "fr": {
@@ -4543,6 +4848,44 @@
         "Place the egg yolk, mustard, vinegar, salt, and pepper in a bowl.",
         "Slowly whisk in 150 ml of oil while mixing constantly.",
         "Add the warm garlic-infused oil, finish emulsifying the mayo, and it's ready."
+      ]
+    },
+    "fa": {
+      "name": "مایونز سیردار",
+      "notes": "از مایونز کلاسیک و حتی آیولی بهتر است؛ مایونز سیردار اوج لذت طعم است. یک زرده تخم‌مرغ در یک نوبت مقدار زیادی مایونز می‌دهد و می‌توان آن را ۲ روز در یخچال نگه داشت. دستور مایونز کلاسیک از Etchebest: https://www.youtube.com/watch?v=DKXoha0_Mbk",
+      "ingredients": [
+        "۱ زرده تخم‌مرغ تازه",
+        "۱ قاشق چای‌خوری خردل دیژون",
+        "۱ قاشق چای‌خوری سرکه سفید (یا آب‌لیمو)",
+        "نمک",
+        "فلفل (اختیاری)",
+        "۲۰۰ میلی‌لیتر روغن خنثی",
+        "۶ حبه سیر، ریز خردشده"
+      ],
+      "instructions": [
+        "در تابه‌ای کوچک روی حرارت کم، سیر خردشده را حدود ۳ دقیقه در ۵۰ میلی‌لیتر روغن تفت دهید، بدون آنکه قهوه‌ای شود؛ هدف گرفتن تلخی و حفظ عطر سیر است.",
+        "زرده تخم‌مرغ، خردل، سرکه، نمک و فلفل را در یک کاسه بریزید.",
+        "۱۵۰ میلی‌لیتر روغن را آهسته و در حالی که پیوسته هم می‌زنید، اضافه کنید.",
+        "روغن گرم سیردار را اضافه کنید، امولسیون مایونز را کامل کنید و آماده است."
+      ]
+    },
+    "tl": {
+      "name": "Mayonnaise na may Bawang",
+      "notes": "Mas masarap kaysa sa klasikong mayonnaise at mas masarap kaysa sa aioli — ang garlic mayo ay parang orgasm sa panlasa. Maraming mayonnaise ang magagawa nang minsanan mula sa isang pula ng itlog; tatagal ito nang 2 araw sa refrigerator. Klasikong recipe ng mayonnaise ni Etchebest: https://www.youtube.com/watch?v=DKXoha0_Mbk",
+      "ingredients": [
+        "1 sariwang pula ng itlog",
+        "1 kutsaritang Dijon mustard",
+        "1 kutsaritang puting suka (o katas ng lemon)",
+        "Asin",
+        "Paminta (opsyonal)",
+        "200 ml neutral na langis",
+        "6 na butil ng bawang, pinong hiniwa"
+      ],
+      "instructions": [
+        "Sa maliit na kawali sa mahinang apoy, igisa ang hiniwang bawang sa 50 ml na langis nang humigit-kumulang 3 minuto nang hindi ito pinangingitim (layunin: alisin ang pait habang pinananatili ang bango).",
+        "Ilagay sa isang mangkok ang pula ng itlog, mustard, suka, asin, at paminta.",
+        "Dahan-dahang ibati ang 150 ml na langis habang patuloy na hinahalo.",
+        "Idagdag ang maligamgam na langis na may lasa ng bawang, tapusin ang pag-emulsify ng mayo, at handa na ito."
       ]
     },
     "fr": {
