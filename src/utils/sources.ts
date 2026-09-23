@@ -133,6 +133,12 @@ export const sources: Source[] = [
     unsupportedIn3D: true,
   },
   {
+    name: "Taste Atlas",
+    url: "https://cdn.tasteatlas.com/api/basemap/light_blue/{z}/{x}/{y}.png",
+    type: "custom",
+    description: "Light overlay with clear borders",
+  },
+  {
     name: "FlightConnections",
     url: "https://cdn.flightconnections.com/maptiles/en/{z}/{x}/{y}.png",
     type: "custom",
@@ -194,6 +200,12 @@ export const sources: Source[] = [
     url: "https://{a-c}.tile.thunderforest.com/transport-dark/{z}/{x}/{y}.png",
     type: "transport",
     description: "",
+  },
+  {
+    name: "OSM France",
+    url: "https://c.tile.openstreetmap.fr/osmfr/{z}/{x}/{y}.png",
+    type: "general",
+    description: "OSM with name in French",
   },
   {
     name: "OSM Humanitarian (HOT)",
