@@ -8,6 +8,7 @@ const config: ScriptCourseConfig = {
   readingNote: "Type the simple Latin transcription shown in the key. Long vowels are written twice, such as aa and uu.",
   quizTip: "Follow each loop and tail carefully; vowel signs may appear before, after, above, or below a consonant.",
   footerNote: "Tamil is a left-to-right abugida. Its consonant–vowel combinations are built systematically from the core signs shown here.", motif: "kolam",
+  compactGlyphs: true,
   theme: { dark: "#701a1a", deep: "#991b1b", primary: "#b91c1c", mid: "#f59e0b", pale: "#fde68a", tint: "#fffbeb", accent: "#fbbf24", accentSoft: "#fef3c7", paper: "#fffdf5" },
   highlightForms: { "ஆ":["ா"], "இ":["ி"], "ஈ":["ீ"], "உ":["ு"], "ஊ":["ூ"], "எ":["ெ"], "ஏ":["ே"], "ஐ":["ை"], "ஒ":["ொ"], "ஓ":["ோ"], "ஔ":["ௌ"] },
   sources: <>Letter order and terminology follow the <a className="underline hover:text-[var(--script-primary)]" href="https://www.unicode.org/versions/Unicode17.0.0/core-spec/chapter-12/">Unicode South Asian scripts specification</a>; examples use common contemporary Tamil vocabulary.</>,

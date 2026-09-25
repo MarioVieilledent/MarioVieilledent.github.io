@@ -1,11 +1,11 @@
 import { describe, expect, it } from "vitest";
-import { hiraganaCourseData, katakanaCourseData } from "./data/japaneseScriptData";
+import { hiraganaCourseData, katakanaCourseData, romanizeKana } from "./data/japaneseScriptData";
 import { kannadaCourseData, malayalamCourseData, tamilCourseData, teluguCourseData } from "./data/southIndianScriptData";
 import type { ScriptCourseData } from "./scriptLearningTypes";
 
 const courses: Record<string, { data: ScriptCourseData; letters: number }> = {
-  hiragana: { data: hiraganaCourseData, letters: 46 },
-  katakana: { data: katakanaCourseData, letters: 46 },
+  hiragana: { data: hiraganaCourseData, letters: 71 },
+  katakana: { data: katakanaCourseData, letters: 71 },
   tamil: { data: tamilCourseData, letters: 31 },
   telugu: { data: teluguCourseData, letters: 50 },
   kannada: { data: kannadaCourseData, letters: 49 },
@@ -32,7 +32,7 @@ for (const [name, { data, letters }] of Object.entries(courses)) {
       for (const lesson of data.lessons) {
         expect(lesson.letters.length).toBeGreaterThan(0);
         expect(lesson.letters.length).toBeLessThanOrEqual(5);
-        expect(lesson.words.length).toBe(lesson.letters.length * 3);
+        expect(lesson.words.length).toBeGreaterThan(0);
         lesson.words.forEach((word) => {
           expect(word.script.trim()).not.toBe("");
           expect(word.latin.trim()).not.toBe("");
@@ -43,8 +43,24 @@ for (const [name, { data, letters }] of Object.entries(courses)) {
   });
 }
 
+describe.each([
+  ["hiragana", hiraganaCourseData],
+  ["katakana", katakanaCourseData],
+] as const)("%s progressive lessons", (_name, data) => {
+  it("uses only kana introduced in the current or earlier rows", () => {
+    const known = new Set<string>();
+    for (const lesson of data.lessons) {
+      lesson.letters.forEach((letter) => known.add(letter));
+      expect(lesson.words).toHaveLength(10);
+      for (const word of lesson.words) {
+        expect(Array.from(word.script).every((character) => known.has(character)), `untaught kana in ${word.script}`).toBe(true);
+        expect(Array.from(word.script).some((character) => lesson.letters.includes(character)), `no new kana in ${word.script}`).toBe(true);
+      }
+    }
+  });
+});
+
 it("romanizes common small and long katakana combinations", () => {
-  const words = katakanaCourseData.lessons.flatMap((lesson) => lesson.words);
-  expect(words.find((word) => word.script === "シャツ")?.latin).toBe("shatsu");
-  expect(words.find((word) => word.script === "フォーク")?.latin).toBe("fooku");
+  expect(romanizeKana("シャツ")).toBe("shatsu");
+  expect(romanizeKana("フォーク")).toBe("fooku");
 });

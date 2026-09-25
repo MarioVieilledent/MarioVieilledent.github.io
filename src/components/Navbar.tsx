@@ -61,18 +61,6 @@ const primaryNavItems: NavItem[] = [
 
 const scriptNavItems: NavItem[] = [
   {
-    icon: <ScriptFlag countryCode="sa" />,
-    label: "more",
-    englishLabel: "Arabic & Persian alphabet",
-    to: "/arabic-alphabet",
-  },
-  {
-    icon: <ScriptFlag countryCode="in" />,
-    label: "more",
-    englishLabel: "Hindi Devanagari",
-    to: "/learn-devanagari",
-  },
-  {
     icon: <ScriptFlag countryCode="jp" />,
     label: "more",
     englishLabel: "Japanese Hiragana",
@@ -83,6 +71,36 @@ const scriptNavItems: NavItem[] = [
     label: "more",
     englishLabel: "Japanese Katakana",
     to: "/learn-katakana",
+  },
+  {
+    icon: <ScriptFlag countryCode="ge" />,
+    label: "more",
+    englishLabel: "Georgian script",
+    to: "/learn-georgian-script",
+  },
+  {
+    icon: <ScriptFlag countryCode="am" />,
+    label: "more",
+    englishLabel: "Armenian script",
+    to: "/learn-armenian-script",
+  },
+  {
+    icon: <ScriptFlag countryCode="sa" />,
+    label: "more",
+    englishLabel: "Arabic & Persian alphabet",
+    to: "/arabic-alphabet",
+  },
+  {
+    icon: <ScriptFlag countryCode="il" />,
+    label: "more",
+    englishLabel: "Hebrew script",
+    to: "/learn-hebrew-script",
+  },
+  {
+    icon: <ScriptFlag countryCode="in" />,
+    label: "more",
+    englishLabel: "Hindi Devanagari",
+    to: "/learn-devanagari",
   },
   {
     icon: <ScriptFlag countryCode="in" />,
@@ -107,24 +125,6 @@ const scriptNavItems: NavItem[] = [
     label: "more",
     englishLabel: "Malayalam script",
     to: "/learn-malayalam-script",
-  },
-  {
-    icon: <ScriptFlag countryCode="ge" />,
-    label: "more",
-    englishLabel: "Georgian script",
-    to: "/learn-georgian-script",
-  },
-  {
-    icon: <ScriptFlag countryCode="am" />,
-    label: "more",
-    englishLabel: "Armenian script",
-    to: "/learn-armenian-script",
-  },
-  {
-    icon: <ScriptFlag countryCode="il" />,
-    label: "more",
-    englishLabel: "Hebrew script",
-    to: "/learn-hebrew-script",
   },
 ];
 
@@ -448,7 +448,10 @@ const Navbar = ({ compact = false, mapOverlay = false }: NavbarProps) => {
                 <MainNavLinks onNavigate={() => setMobileMenuOpen(false)} />
               </div>
               <div className="mt-1">
-                <ScriptsMenu inline onNavigate={() => setMobileMenuOpen(false)} />
+                <ScriptsMenu
+                  inline
+                  onNavigate={() => setMobileMenuOpen(false)}
+                />
               </div>
               <div className="mt-1">
                 <MoreMenu inline onNavigate={() => setMobileMenuOpen(false)} />

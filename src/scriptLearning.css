@@ -3,6 +3,11 @@
   border-radius: 1.4rem; background: white; padding: 1.25rem; text-align: left;
   box-shadow: 0 8px 30px var(--script-shadow); transition: transform 200ms, border-color 200ms, box-shadow 200ms;
 }
+.script-course .script-letter-card-compact { width: 100%; min-height: 8.5rem; padding: 0.75rem 0.5rem; }
+.script-course .script-letter-card-compact > span:first-child { right: 0.5rem; top: 0.4rem; font-size: 0.625rem; }
+.script-course .script-letter-card-compact .script-explore-label { display: none; }
+.script-course .script-letter-card-compact > span:nth-child(3) { margin-top: 1rem; }
+.script-course .script-quiz-choice-transliteration { font-size: 1.5rem; line-height: 2rem; }
 .script-course .script-letter-card:hover { transform: translateY(-0.25rem); border-color: var(--script-mid); box-shadow: 0 16px 35px var(--script-shadow); }
 .script-course .script-letter-card:focus-visible { outline: 3px solid var(--script-primary); outline-offset: 2px; }
 .script-course .script-audio-button { display: flex; width: 2.25rem; height: 2.25rem; flex-shrink: 0; align-items: center; justify-content: center; border: 1px solid var(--script-pale); border-radius: 9999px; background: white; color: var(--script-primary); transition: background 150ms, border-color 150ms; }

@@ -8,6 +8,7 @@ const config: ScriptCourseConfig = {
   readingNote: "Type the simple Latin transcription in the key. Doubled vowels and consonants represent length and gemination.",
   quizTip: "Many letters share a circular skeleton; compare their opening, inner loop, and final stroke before choosing.",
   footerNote: "Malayalam is a left-to-right abugida. Modern print also uses special chillu forms for several vowel-less consonants.", motif: "kolam",
+  compactGlyphs: true,
   theme: { dark: "#064e3b", deep: "#065f46", primary: "#047857", mid: "#34d399", pale: "#a7f3d0", tint: "#ecfdf5", accent: "#f59e0b", accentSoft: "#fef3c7", paper: "#fbfef9" },
   highlightForms: { "ആ":["ാ"], "ഇ":["ി"], "ഈ":["ീ"], "ഉ":["ു"], "ഊ":["ൂ"], "ഋ":["ൃ"], "എ":["െ"], "ഏ":["േ"], "ഐ":["ൈ"], "ഒ":["ൊ"], "ഓ":["ോ"], "ഔ":["ൗ"], "അം":["ം"], "അഃ":["ഃ"] },
   sources: <>Letter order and terminology follow the <a className="underline hover:text-[var(--script-primary)]" href="https://www.unicode.org/versions/Unicode17.0.0/core-spec/chapter-12/">Unicode South Asian scripts specification</a>; examples use common Malayalam vocabulary.</>,

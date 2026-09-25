@@ -63,6 +63,8 @@ export type ScriptCourseConfig = {
   footerNote: string;
   motif: "rangoli" | "vine" | "eternity" | "magen-david" | "seigaiha" | "asanoha" | "kolam";
   unitLabel?: string;
+  libraryLayout?: "cards" | "gojuon";
+  compactGlyphs?: boolean;
   theme: Theme;
   highlightForms?: Record<string, string[]>;
   sources: ReactNode;
@@ -82,7 +84,11 @@ const shuffle = <T,>(items: T[]) => {
 const makeQuestion = (alphabet: ScriptLetter[]): QuizQuestion => {
   const letter = alphabet[Math.floor(Math.random() * alphabet.length)];
   const example = letter.examples[Math.floor(Math.random() * letter.examples.length)];
-  const distractors = shuffle(alphabet.filter((item) => item.letter !== letter.letter)).slice(0, 3);
+  const distractors = shuffle(
+    alphabet
+      .filter((item) => item.letter !== letter.letter && item.transliteration !== letter.transliteration)
+      .filter((item, index, items) => items.findIndex((candidate) => candidate.transliteration === item.transliteration) === index),
+  ).slice(0, 3);
   return { letter, example, choices: shuffle([letter, ...distractors]) };
 };
 
@@ -185,12 +191,12 @@ const AudioButton = ({ text, voice, config }: { text: string; voice?: SpeechSynt
   );
 };
 
-const LetterCard = ({ letter, index, config, onSelect }: { letter: ScriptLetter; index: number; config: ScriptCourseConfig; onSelect: (letter: ScriptLetter) => void }) => (
-  <button type="button" onClick={() => onSelect(letter)} className="script-letter-card">
+const LetterCard = ({ letter, index, config, onSelect, compact = false }: { letter: ScriptLetter; index: number; config: ScriptCourseConfig; onSelect: (letter: ScriptLetter) => void; compact?: boolean }) => (
+  <button type="button" onClick={() => onSelect(letter)} className={`script-letter-card ${compact ? "script-letter-card-compact" : ""}`}>
     <span className="absolute right-4 top-3 text-xs font-bold tabular-nums text-stone-300">{String(index + 1).padStart(2, "0")}</span>
-    <span lang={config.languageCode} dir={config.direction} className="block text-center text-7xl font-semibold leading-none text-[var(--script-deep)] transition-transform duration-200 group-hover:scale-105">{letter.letter}</span>
+    <span lang={config.languageCode} dir={config.direction} className={`block text-center font-semibold leading-none text-[var(--script-deep)] transition-transform duration-200 group-hover:scale-105 ${compact ? "text-5xl" : config.compactGlyphs ? "text-6xl" : "text-7xl"}`}>{letter.letter}</span>
     <span className="mt-5 block text-base font-bold text-stone-900 capitalize">{letter.name}</span>
-    <span className="mt-1 flex items-center justify-between gap-2 text-xs text-stone-500"><span>{letter.transliteration}</span><span className="flex items-center gap-1 font-bold text-[var(--script-primary)]">Explore <LuArrowRight size="14" aria-hidden="true" /></span></span>
+    <span className="mt-1 flex items-center justify-between gap-2 text-xs text-stone-500"><span>{letter.transliteration}</span><span className="script-explore-label flex items-center gap-1 font-bold text-[var(--script-primary)]">Explore <LuArrowRight size="14" aria-hidden="true" /></span></span>
     <span className="absolute inset-x-5 bottom-0 h-1 origin-left scale-x-0 rounded-t-full bg-[var(--script-accent)] transition-transform group-hover:scale-x-100" />
   </button>
 );
@@ -210,7 +216,7 @@ const LetterDialog = ({ letter, voice, config, onClose }: { letter: ScriptLetter
           <CulturalPattern motif={config.motif} />
           <div className="relative flex items-start justify-between gap-5">
             <div className="flex items-center gap-5">
-              <div lang={config.languageCode} dir={config.direction} className="flex h-24 w-24 shrink-0 items-center justify-center rounded-[1.7rem] border border-white/20 bg-white/10 text-7xl font-semibold leading-none shadow-inner">{letter.letter}</div>
+              <div lang={config.languageCode} dir={config.direction} className={`flex h-24 w-24 shrink-0 items-center justify-center rounded-[1.7rem] border border-white/20 bg-white/10 font-semibold leading-none shadow-inner ${config.compactGlyphs ? "text-6xl" : "text-7xl"}`}>{letter.letter}</div>
               <div><p className="mb-1 text-xs font-bold uppercase tracking-[0.2em] text-white/65">Letter guide</p><h2 id="script-letter-dialog-title" className="text-3xl font-bold capitalize sm:text-4xl">{letter.name}</h2><p className="mt-1 text-white/75">Transliteration: <span className="font-bold text-white">{letter.transliteration}</span></p></div>
             </div>
             <button type="button" onClick={onClose} aria-label="Close letter guide" className="relative flex h-10 w-10 shrink-0 items-center justify-center rounded-full bg-white/10 transition hover:bg-white/20"><LuX size="22" aria-hidden="true" /></button>
@@ -220,7 +226,7 @@ const LetterDialog = ({ letter, voice, config, onClose }: { letter: ScriptLetter
           <section><div className="script-section-label"><LuVolume2 aria-hidden="true" /> Pronunciation</div><p className="text-lg leading-8 text-stone-700">{letter.sound}</p></section>
           <section>
             <div className="script-section-label"><LuSparkles aria-hidden="true" /> Written forms</div>
-            <div className={`grid gap-3 ${letter.forms.length === 1 ? "grid-cols-1 max-w-xs" : "grid-cols-2"}`}>{letter.forms.map((form) => <div key={form.label} className="script-form-card"><div lang={config.languageCode} dir={config.direction} className="text-5xl font-semibold text-[var(--script-deep)]">{form.glyph}</div><div className="mt-2 text-xs font-bold text-stone-500">{form.label}</div></div>)}</div>
+            <div className={`grid gap-3 ${letter.forms.length === 1 ? "grid-cols-1 max-w-xs" : "grid-cols-2"}`}>{letter.forms.map((form) => <div key={form.label} className="script-form-card"><div lang={config.languageCode} dir={config.direction} className={`${config.compactGlyphs ? "text-4xl" : "text-5xl"} font-semibold text-[var(--script-deep)]`}>{form.glyph}</div><div className="mt-2 text-xs font-bold text-stone-500">{form.label}</div></div>)}</div>
             <div className="mt-3 flex gap-2 rounded-xl bg-[var(--script-accent-soft)] px-4 py-3 text-sm leading-6 text-stone-700"><LuInfo className="mt-1 shrink-0 text-[var(--script-primary)]" aria-hidden="true" />{config.formNote}</div>
           </section>
           <section>
@@ -233,10 +239,41 @@ const LetterDialog = ({ letter, voice, config, onClose }: { letter: ScriptLetter
   );
 };
 
+const gojuonRows: Array<Array<number | null>> = [
+  [0, 1, 2, 3, 4], [5, 6, 7, 8, 9], [10, 11, 12, 13, 14], [15, 16, 17, 18, 19],
+  [20, 21, 22, 23, 24], [25, 26, 27, 28, 29], [30, 31, 32, 33, 34],
+  [35, null, 36, null, 37], [38, 39, 40, 41, 42], [43, null, null, null, 44],
+  [45, null, null, null, null],
+];
+
+const voicedKanaRows = [
+  [46, 47, 48, 49, 50], [51, 52, 53, 54, 55], [56, 57, 58, 59, 60],
+  [61, 62, 63, 64, 65], [66, 67, 68, 69, 70],
+];
+
 const LetterLibrary = ({ data, config, onSelect }: { data: ScriptCourseData; config: ScriptCourseConfig; onSelect: (letter: ScriptLetter) => void }) => (
   <section aria-labelledby="script-letter-library-heading">
     <div className="mb-6 flex flex-col justify-between gap-3 sm:flex-row sm:items-end"><div><p className="script-kicker">The complete set</p><h2 id="script-letter-library-heading" className="text-3xl font-bold tracking-tight text-stone-900">{config.language} {config.unitLabel ?? "letters"}</h2></div><p className="max-w-lg text-sm leading-6 text-stone-500">{config.libraryDescription}</p></div>
-    <div className="grid grid-cols-2 gap-3 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-7">{data.alphabet.map((letter, index) => <LetterCard key={letter.letter} letter={letter} index={index} config={config} onSelect={onSelect} />)}</div>
+    {config.libraryLayout === "gojuon" ? (
+      <div className="mx-auto max-w-4xl" role="table" aria-label={`${config.titleAccent} gojūon order`}>
+        <div className="mb-2 grid grid-cols-5 gap-2 sm:gap-3" role="row">
+          {["a", "i", "u", "e", "o"].map((vowel) => <div key={vowel} role="columnheader" className="text-center text-xs font-bold uppercase tracking-[0.15em] text-[var(--script-primary)]">{vowel}</div>)}
+        </div>
+        <div className="space-y-2 sm:space-y-3">
+          {gojuonRows.map((row, rowIndex) => <div key={rowIndex} className="grid grid-cols-5 gap-2 sm:gap-3" role="row">{row.map((letterIndex, columnIndex) => <div key={columnIndex} role="cell">{letterIndex === null ? <div aria-hidden="true" /> : <LetterCard letter={data.alphabet[letterIndex]} index={letterIndex} config={config} onSelect={onSelect} compact />}</div>)}</div>)}
+        </div>
+        <div className="mb-4 mt-12 border-t border-[var(--script-pale)] pt-8">
+          <p className="script-kicker">Voiced kana</p>
+          <h3 className="text-2xl font-bold text-stone-900">Dakuten &amp; handakuten</h3>
+        </div>
+        <div className="mb-2 grid grid-cols-5 gap-2 sm:gap-3" role="row">
+          {["a", "i", "u", "e", "o"].map((vowel) => <div key={vowel} role="columnheader" className="text-center text-xs font-bold uppercase tracking-[0.15em] text-[var(--script-primary)]">{vowel}</div>)}
+        </div>
+        <div className="space-y-2 sm:space-y-3">
+          {voicedKanaRows.map((row, rowIndex) => <div key={rowIndex} className="grid grid-cols-5 gap-2 sm:gap-3" role="row">{row.map((letterIndex) => <div key={letterIndex} role="cell"><LetterCard letter={data.alphabet[letterIndex]} index={letterIndex} config={config} onSelect={onSelect} compact /></div>)}</div>)}
+        </div>
+      </div>
+    ) : <div className="grid grid-cols-2 gap-3 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-7">{data.alphabet.map((letter, index) => <LetterCard key={letter.letter} letter={letter} index={index} config={config} onSelect={onSelect} />)}</div>}
   </section>
 );
 
@@ -271,10 +308,10 @@ const Quiz = ({ data, config, question, onNext }: { data: ScriptCourseData; conf
   const answerIsCorrect = answer === question.letter.letter;
   return (
     <section aria-labelledby="script-quiz-heading" className="mx-auto max-w-4xl">
-      <div className="mb-6 text-center"><p className="script-kicker">Recognition practice</p><h2 id="script-quiz-heading" className="text-3xl font-bold tracking-tight text-stone-900">Which letter is highlighted?</h2><p className="mx-auto mt-2 max-w-xl text-sm leading-6 text-stone-500">Look at the colored letter in a common word, then choose its standalone form.</p></div>
+      <div className="mb-6 text-center"><p className="script-kicker">Recognition practice</p><h2 id="script-quiz-heading" className="text-3xl font-bold tracking-tight text-stone-900">How is the highlighted character transcribed?</h2><p className="mx-auto mt-2 max-w-xl text-sm leading-6 text-stone-500">Look at the colored character in a common word, then choose its Latin transcription.</p></div>
       <div className="grid gap-5 md:grid-cols-[1fr_15rem]">
         <div className="overflow-hidden rounded-[2rem] border border-[var(--script-pale)] bg-white shadow-[0_18px_55px_var(--script-shadow)]"><div className="relative flex min-h-64 items-center justify-center overflow-hidden bg-[var(--script-deep)] p-8 text-white"><CulturalPattern motif={config.motif} /><CulturalMark motif={config.motif} className="absolute -left-12 -top-12 h-44 w-44 text-white opacity-15" /><div className="relative text-center"><div className="text-7xl font-semibold sm:text-8xl"><HighlightedWord word={question.example.script} letter={question.letter.letter} config={config} /></div><p className="mt-5 text-sm text-white/75">{question.example.translation}</p></div></div>
-          <div className="p-5 sm:p-7"><div className="grid grid-cols-4 gap-3">{question.choices.map((choice) => { const chosen = answer === choice.letter; const right = choice.letter === question.letter.letter; return <button type="button" key={choice.letter} onClick={() => choose(choice)} disabled={Boolean(answer)} aria-label={choice.name} className={`script-quiz-choice ${answer ? right ? "script-quiz-choice-right" : chosen ? "script-quiz-choice-wrong" : "script-quiz-choice-muted" : ""}`} lang={config.languageCode}>{choice.letter}{answer && right && <LuCheck className="absolute right-2 top-2" size="17" aria-hidden="true" />}{answer && chosen && !right && <LuX className="absolute right-2 top-2" size="17" aria-hidden="true" />}</button>; })}</div>{answer && <div className={`mt-5 flex flex-col justify-between gap-4 rounded-2xl p-4 sm:flex-row sm:items-center ${answerIsCorrect ? "bg-[var(--script-tint)]" : "bg-amber-50"}`} aria-live="polite"><div><p className="font-bold text-stone-900">{answerIsCorrect ? "Beautiful — that’s right!" : `That is ${question.letter.name}.`}</p><p className="mt-1 text-sm text-stone-600">The highlighted letter is <span lang={config.languageCode} className="font-bold">{question.letter.letter}</span> · {question.letter.transliteration}</p></div><button type="button" onClick={next} className="script-primary-button">Next word <LuArrowRight aria-hidden="true" /></button></div>}</div>
+          <div className="p-5 sm:p-7"><div className="grid grid-cols-4 gap-3">{question.choices.map((choice) => { const chosen = answer === choice.letter; const right = choice.letter === question.letter.letter; return <button type="button" key={choice.letter} onClick={() => choose(choice)} disabled={Boolean(answer)} aria-label={choice.transliteration} className={`script-quiz-choice script-quiz-choice-transliteration ${answer ? right ? "script-quiz-choice-right" : chosen ? "script-quiz-choice-wrong" : "script-quiz-choice-muted" : ""}`} lang="en" dir="ltr">{choice.transliteration}{answer && right && <LuCheck className="absolute right-2 top-2" size="17" aria-hidden="true" />}{answer && chosen && !right && <LuX className="absolute right-2 top-2" size="17" aria-hidden="true" />}</button>; })}</div>{answer && <div className={`mt-5 flex flex-col justify-between gap-4 rounded-2xl p-4 sm:flex-row sm:items-center ${answerIsCorrect ? "bg-[var(--script-tint)]" : "bg-amber-50"}`} aria-live="polite"><div><p className="font-bold text-stone-900">{answerIsCorrect ? "Beautiful — that’s right!" : `That is ${question.letter.name}.`}</p><p className="mt-1 text-sm text-stone-600">The highlighted letter is <span lang={config.languageCode} className="font-bold">{question.letter.letter}</span> · {question.letter.transliteration}</p></div><button type="button" onClick={next} className="script-primary-button">Next word <LuArrowRight aria-hidden="true" /></button></div>}</div>
         </div>
         <aside className="space-y-3"><div className="script-aside-card"><p className="text-xs font-bold uppercase tracking-[0.15em] text-stone-400">Your session</p><div className="mt-4 grid grid-cols-3 gap-2 md:grid-cols-1"><div><div className="script-score">{correct}/{attempts}</div><div className="text-xs text-stone-500">Correct</div></div><div><div className="script-score">{attempts ? Math.round((correct / attempts) * 100) : 0}%</div><div className="text-xs text-stone-500">Accuracy</div></div><div><div className="text-2xl font-bold text-[var(--script-accent)]">{streak}</div><div className="text-xs text-stone-500">Streak</div></div></div></div><div className="rounded-2xl bg-[var(--script-accent-soft)] p-5 text-sm leading-6 text-stone-700"><LuLightbulb className="mb-2 text-[var(--script-primary)]" /><strong>Look closely.</strong> {config.quizTip}</div><div className="script-aside-card text-sm text-stone-500">Practising all <strong className="text-stone-800">{data.alphabet.length}</strong> {config.language} {config.unitLabel ?? "letters"}.</div></aside>
       </div>
