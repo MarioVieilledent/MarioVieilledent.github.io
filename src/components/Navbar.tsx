@@ -73,6 +73,42 @@ const scriptNavItems: NavItem[] = [
     to: "/learn-devanagari",
   },
   {
+    icon: <ScriptFlag countryCode="jp" />,
+    label: "more",
+    englishLabel: "Japanese Hiragana",
+    to: "/learn-hiragana",
+  },
+  {
+    icon: <ScriptFlag countryCode="jp" />,
+    label: "more",
+    englishLabel: "Japanese Katakana",
+    to: "/learn-katakana",
+  },
+  {
+    icon: <ScriptFlag countryCode="in" />,
+    label: "more",
+    englishLabel: "Tamil script",
+    to: "/learn-tamil-script",
+  },
+  {
+    icon: <ScriptFlag countryCode="in" />,
+    label: "more",
+    englishLabel: "Telugu script",
+    to: "/learn-telugu-script",
+  },
+  {
+    icon: <ScriptFlag countryCode="in" />,
+    label: "more",
+    englishLabel: "Kannada script",
+    to: "/learn-kannada-script",
+  },
+  {
+    icon: <ScriptFlag countryCode="in" />,
+    label: "more",
+    englishLabel: "Malayalam script",
+    to: "/learn-malayalam-script",
+  },
+  {
     icon: <ScriptFlag countryCode="ge" />,
     label: "more",
     englishLabel: "Georgian script",

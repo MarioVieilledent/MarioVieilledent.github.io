@@ -12,6 +12,12 @@ const LearnNorwegian = lazy(() => import("./pages/LearnNorwegian"));
 const TurkishFlashcards = lazy(() => import("./pages/TurkishFlashcards"));
 const ArabicAlphabet = lazy(() => import("./pages/ArabicAlphabet"));
 const Devanagari = lazy(() => import("./pages/Devanagari"));
+const Hiragana = lazy(() => import("./pages/Hiragana"));
+const Katakana = lazy(() => import("./pages/Katakana"));
+const Tamil = lazy(() => import("./pages/Tamil"));
+const Telugu = lazy(() => import("./pages/Telugu"));
+const Kannada = lazy(() => import("./pages/Kannada"));
+const Malayalam = lazy(() => import("./pages/Malayalam"));
 const GeorgianAlphabet = lazy(() => import("./pages/GeorgianAlphabet"));
 const ArmenianAlphabet = lazy(() => import("./pages/ArmenianAlphabet"));
 const HebrewAlphabet = lazy(() => import("./pages/HebrewAlphabet"));
@@ -33,6 +39,12 @@ const App = () => {
           ></Route>
           <Route path="arabic-alphabet" element={<ArabicAlphabet />} />
           <Route path="learn-devanagari" element={<Devanagari />} />
+          <Route path="learn-hiragana" element={<Hiragana />} />
+          <Route path="learn-katakana" element={<Katakana />} />
+          <Route path="learn-tamil-script" element={<Tamil />} />
+          <Route path="learn-telugu-script" element={<Telugu />} />
+          <Route path="learn-kannada-script" element={<Kannada />} />
+          <Route path="learn-malayalam-script" element={<Malayalam />} />
           <Route path="learn-georgian-script" element={<GeorgianAlphabet />} />
           <Route path="learn-armenian-script" element={<ArmenianAlphabet />} />
           <Route path="learn-hebrew-script" element={<HebrewAlphabet />} />

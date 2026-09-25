@@ -1,4 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Noto+Sans+Arabic:wght@100..900&family=Noto+Sans+Armenian:wght@100..900&family=Noto+Sans+Devanagari:wght@100..900&family=Noto+Sans+Georgian:wght@100..900&family=Noto+Sans+Hebrew:wght@100..900&family=Noto+Sans+JP:wght@100..900&family=Noto+Sans+SC:wght@100..900&family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+Kannada:wght@100..900&family=Noto+Sans+Malayalam:wght@100..900&family=Noto+Sans+Tamil:wght@100..900&family=Noto+Sans+Telugu:wght@100..900&display=swap");
 @import "tailwindcss";
 
 body,
@@ -16,6 +17,26 @@ html:lang(fa) body,
 html:lang(hi) body,
 [lang="hi"] {
   font-family: "Noto Sans Devanagari", "Noto Sans", sans-serif;
+}
+
+html:lang(ta) body,
+[lang="ta"] {
+  font-family: "Noto Sans Tamil", "Noto Sans", sans-serif;
+}
+
+html:lang(te) body,
+[lang="te"] {
+  font-family: "Noto Sans Telugu", "Noto Sans", sans-serif;
+}
+
+html:lang(kn) body,
+[lang="kn"] {
+  font-family: "Noto Sans Kannada", "Noto Sans", sans-serif;
+}
+
+html:lang(ml) body,
+[lang="ml"] {
+  font-family: "Noto Sans Malayalam", "Noto Sans", sans-serif;
 }
 
 html:lang(ja) body,

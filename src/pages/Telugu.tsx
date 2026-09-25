@@ -1,0 +1,15 @@
+import ScriptLearningPage, { type ScriptCourseConfig } from "../components/script/ScriptLearningPage";
+import { teluguCourseData } from "../data/southIndianScriptData";
+const config: ScriptCourseConfig = {
+  id: "telugu-script", language: "Telugu", nativeName: "తెలుగు · తెలుగు లిపి", languageCode: "te", direction: "ltr", title: "Learn the", titleAccent: "Telugu script", eyebrow: "Akshara path · అక్షర యాత్ర",
+  description: "Meet Telugu’s flowing, circular characters, learn how vowels attach to consonants, and read useful words through focused practice.",
+  libraryDescription: "The library covers independent vowels and the traditional consonant set. Open a card for forms, sound guidance, and three Telugu examples.",
+  formNote: "A consonant normally carries an inherent a. Dependent vowel signs change it, while the virama ్ suppresses it.",
+  readingNote: "Type the simple Latin transcription from the key; doubled vowels represent long sounds.",
+  quizTip: "Compare the placement of loops and the small marks attached to the rounded main body of each character.",
+  footerNote: "Telugu is a left-to-right abugida whose rounded shapes developed in a manuscript tradition shared historically with Kannada.", motif: "kolam",
+  theme: { dark: "#312e81", deep: "#3730a3", primary: "#4f46e5", mid: "#818cf8", pale: "#c7d2fe", tint: "#eef2ff", accent: "#f59e0b", accentSoft: "#fef3c7", paper: "#fafaff" },
+  highlightForms: { "ఆ":["ా"], "ఇ":["ి"], "ఈ":["ీ"], "ఉ":["ు"], "ఊ":["ూ"], "ఋ":["ృ"], "ౠ":["ౄ"], "ఎ":["ె"], "ఏ":["ే"], "ఐ":["ై"], "ఒ":["ొ"], "ఓ":["ో"], "ఔ":["ౌ"] },
+  sources: <>Letter order and terminology follow the <a className="underline hover:text-[var(--script-primary)]" href="https://www.unicode.org/versions/Unicode17.0.0/core-spec/chapter-12/">Unicode South Asian scripts specification</a>; examples use common Telugu vocabulary.</>,
+};
+export default function Telugu() { return <ScriptLearningPage data={teluguCourseData} config={config} />; }
