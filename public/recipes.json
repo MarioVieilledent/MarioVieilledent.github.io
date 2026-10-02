@@ -5409,5 +5409,515 @@
         "Stek i ovnen i 30 minutter ved 170°C."
       ]
     }
+  },
+  {
+    "category": "starters",
+    "id": "sumacOnions",
+    "pictures": ["sumak_onions_1.jpg"],
+    "ar": {
+      "name": "بصل بالسماق",
+      "notes": "بسيط ومتعدد الاستخدامات. السماق نوع من التوابل الشرق أوسطية يضفي نكهة حامضة، ويساعد، مع الملح، على تليين البصل حتى يمكن تناوله نيئًا.",
+      "ingredients": ["بصل أحمر", "سماق"],
+      "instructions": [
+        "قطّع البصل إلى شرائح رفيعة",
+        "اخلط السماق مع رشة من الملح",
+        "اتركه لعدة دقائق"
+      ]
+    },
+    "de": {
+      "name": "Zwiebeln mit Sumach",
+      "notes": "Einfach und vielseitig. Sumach ist ein Gewürz aus dem Nahen Osten, das nicht nur eine säuerliche Note verleiht, sondern zusammen mit Salz auch die Zwiebeln so weich macht, dass man sie roh essen kann.",
+      "ingredients": ["Rote Zwiebeln", "Sumach"],
+      "instructions": [
+        "Die Zwiebeln in feine Ringe schneiden",
+        "Sumach und eine Prise Salz untermischen",
+        "Einige Minuten ziehen lassen"
+      ]
+    },
+    "el": {
+      "name": "Κρεμμύδια με σουμάκ",
+      "notes": "Απλό και ευέλικτο. Το σουμάκ είναι ένα μπαχαρικό της Μέσης Ανατολής που, πέρα από την όξινη γεύση που προσδίδει, βοηθά μαζί με το αλάτι να μαλακώσουν τα κρεμμύδια, ώστε να μπορούν να καταναλωθούν ωμά.",
+      "ingredients": ["Κόκκινα κρεμμύδια", "Σουμάκ"],
+      "instructions": [
+        "Κόψτε τα κρεμμύδια σε λεπτές ροδέλες",
+        "Ανακατέψτε με το σουμάκ και μια πρέζα αλάτι",
+        "Αφήστε τα για λίγα λεπτά"
+      ]
+    },
+    "en": {
+      "name": "Sumac Onions",
+      "notes": "Simple and versatile. Sumac is a Middle Eastern spice that adds a tangy flavour and, together with salt, softens the onions so they can be eaten raw.",
+      "ingredients": ["Red onions", "Sumac"],
+      "instructions": [
+        "Slice the onions into thin rings",
+        "Mix with the sumac and a pinch of salt",
+        "Leave to rest for a few minutes"
+      ]
+    },
+    "es": {
+      "name": "Cebollas con zumaque",
+      "notes": "Simple y versátil. El zumaque es una especia de Oriente Medio que, además de aportar un sabor ácido, ayuda junto con la sal a ablandar las cebollas para poder comerlas crudas.",
+      "ingredients": ["Cebollas rojas", "Zumaque"],
+      "instructions": [
+        "Cortar las cebollas en rodajas finas",
+        "Mezclarlas con el zumaque y una pizca de sal",
+        "Dejar reposar unos minutos"
+      ]
+    },
+    "fa": {
+      "name": "پیاز با سماق",
+      "notes": "ساده و همه‌کاره. سماق ادویه‌ای خاورمیانه‌ای است که علاوه بر طعم ترشی که می‌دهد، همراه با نمک به نرم شدن پیاز کمک می‌کند تا بتوان آن را خام خورد.",
+      "ingredients": ["پیاز قرمز", "سماق"],
+      "instructions": [
+        "پیاز را به حلقه‌های نازک برش بزنید",
+        "آن را با سماق و کمی نمک مخلوط کنید",
+        "چند دقیقه استراحت دهید"
+      ]
+    },
+    "fr": {
+      "name": "Oignons au sumac",
+      "notes": "Simple et polyvalent. Le sumac est une épice du Moyen-Orient qui, en plus de donner un goût acidulé, permet, avec le sel, de cuire les oignons afin de pouvoir les manger crus.",
+      "ingredients": ["Oignons rouges", "Sumac"],
+      "instructions": [
+        "Émincer les oignons en fines rondelles",
+        "Y mélanger le sumac et une pincée de sel",
+        "Laisser reposer quelques minutes"
+      ]
+    },
+    "hi": {
+      "name": "सुमाक वाले प्याज़",
+      "notes": "सरल और बहुउपयोगी। सुमाक मध्य-पूर्व का एक मसाला है जो खट्टा स्वाद देने के साथ-साथ नमक के साथ मिलकर प्याज़ को नरम करता है, ताकि उन्हें कच्चा खाया जा सके।",
+      "ingredients": ["लाल प्याज़", "सुमाक"],
+      "instructions": [
+        "प्याज़ को पतले छल्लों में काटें",
+        "सुमाक और एक चुटकी नमक मिलाएँ",
+        "कुछ मिनट के लिए छोड़ दें"
+      ]
+    },
+    "it": {
+      "name": "Cipolle al sommacco",
+      "notes": "Semplice e versatile. Il sommacco è una spezia mediorientale che, oltre a conferire un gusto acidulo, aiuta, insieme al sale, ad ammorbidire le cipolle affinché possano essere mangiate crude.",
+      "ingredients": ["Cipolle rosse", "Sommacco"],
+      "instructions": [
+        "Affettare le cipolle a rondelle sottili",
+        "Mescolare con il sommacco e un pizzico di sale",
+        "Lasciare riposare per qualche minuto"
+      ]
+    },
+    "ja": {
+      "name": "スマックオニオン",
+      "notes": "シンプルで用途の広い一品です。スマックは中東のスパイスで、酸味を加えるだけでなく、塩と合わせることでタマネギをやわらかくし、生のまま食べやすくします。",
+      "ingredients": ["赤タマネギ", "スマック"],
+      "instructions": [
+        "タマネギを薄い輪切りにする",
+        "スマックとひとつまみの塩を混ぜる",
+        "数分置く"
+      ]
+    },
+    "ka": {
+      "name": "ხახვი სუმაკით",
+      "notes": "მარტივი და მრავალმხრივი. სუმაკი ახლო აღმოსავლური სანელებელია, რომელიც მჟავე გემოს მატებს და მარილთან ერთად ხახვის დარბილებას უწყობს ხელს, რათა ის უმადაც მიირთვათ.",
+      "ingredients": ["წითელი ხახვი", "სუმაკი"],
+      "instructions": [
+        "ხახვი თხელ რგოლებად დაჭერით",
+        "აურიეთ სუმაკი და მწიკვი მარილი",
+        "რამდენიმე წუთით გააჩერეთ"
+      ]
+    },
+    "nb": {
+      "name": "Løk med sumak",
+      "notes": "Enkel og allsidig. Sumak er et krydder fra Midtøsten som, i tillegg til å gi en syrlig smak, sammen med salt bidrar til å mykne løken slik at den kan spises rå.",
+      "ingredients": ["Rødløk", "Sumak"],
+      "instructions": [
+        "Skjær løken i tynne ringer",
+        "Bland inn sumak og en klype salt",
+        "La hvile i noen minutter"
+      ]
+    },
+    "pt": {
+      "name": "Cebolas com sumagre",
+      "notes": "Simples e versátil. O sumagre é uma especiaria do Médio Oriente que, além de conferir um sabor ácido, ajuda, juntamente com o sal, a amaciar as cebolas para que possam ser comidas cruas.",
+      "ingredients": ["Cebolas roxas", "Sumagre"],
+      "instructions": [
+        "Cortar as cebolas em rodelas finas",
+        "Misturar com o sumagre e uma pitada de sal",
+        "Deixar repousar alguns minutos"
+      ]
+    },
+    "ru": {
+      "name": "Лук с сумахом",
+      "notes": "Просто и универсально. Сумах — это ближневосточная пряность, которая не только придаёт кисловатый вкус, но и вместе с солью смягчает лук, чтобы его можно было есть сырым.",
+      "ingredients": ["Красный лук", "Сумах"],
+      "instructions": [
+        "Нарезать лук тонкими кольцами",
+        "Смешать с сумахом и щепоткой соли",
+        "Оставить на несколько минут"
+      ]
+    },
+    "sl": {
+      "name": "Čebula s sumakom",
+      "notes": "Preprosto in vsestransko. Sumak je bližnjevzhodna začimba, ki poleg kislega okusa skupaj s soljo pomaga zmehčati čebulo, da jo lahko jemo surovo.",
+      "ingredients": ["Rdeča čebula", "Sumak"],
+      "instructions": [
+        "Čebulo narežite na tanke kolobarje",
+        "Zmešajte s sumakom in ščepcem soli",
+        "Pustite stati nekaj minut"
+      ]
+    },
+    "tl": {
+      "name": "Sibuyas na may sumac",
+      "notes": "Simple at maraming gamit. Ang sumac ay isang pampalasa mula sa Gitnang Silangan na nagbibigay ng maasim na lasa at, kasama ng asin, tumutulong lumambot ang sibuyas upang makain ito nang hilaw.",
+      "ingredients": ["Pulang sibuyas", "Sumac"],
+      "instructions": [
+        "Hiwain nang maninipis ang sibuyas",
+        "Haluin ang sumac at isang kurot ng asin",
+        "Pahingahin nang ilang minuto"
+      ]
+    },
+    "tr": {
+      "name": "Sumaklı soğan",
+      "notes": "Basit ve çok yönlü. Sumak, ekşi bir tat vermesinin yanı sıra tuzla birlikte soğanı yumuşatarak çiğ yenmesini sağlayan bir Orta Doğu baharatıdır.",
+      "ingredients": ["Kırmızı soğan", "Sumak"],
+      "instructions": [
+        "Soğanları ince halkalar halinde doğrayın",
+        "Sumak ve bir tutam tuzla karıştırın",
+        "Birkaç dakika bekletin"
+      ]
+    },
+    "zh": {
+      "name": "盐肤木拌洋葱",
+      "notes": "简单又百搭。盐肤木是一种中东香料，除了带来酸味之外，还能与盐一起软化洋葱，使其可以生吃。",
+      "ingredients": ["红洋葱", "盐肤木粉"],
+      "instructions": ["将洋葱切成细圈", "拌入盐肤木粉和一小撮盐", "静置几分钟"]
+    }
+  },
+  {
+    "category": "starters",
+    "id": "gavurdagiSalat",
+    "pictures": ["gavurdagi_salat_1.jpg", "gavurdagi_salat_2.jpg"],
+    "fr": {
+      "name": "Gavurdağı Salatası",
+      "notes": "Salade riche en saveurs et équilibrée. Vidéo orinigale de Refika : https://www.youtube.com/watch?v=AunTNHtSKmw",
+      "ingredients": [
+        "3 grosses tomates",
+        "1 oignon sec",
+        "1 botte de persil",
+        "1 c. à café de cumin",
+        "1 c. à café de poivre noir",
+        "1 c. à café de piment en flocons",
+        "4 brins de menthe fraîche",
+        "3 gousses d'ail",
+        "2 c. à soupe de mélasse de grenade",
+        "2 c. à soupe d'huile d'olive extra vierge",
+        "0.5 citron",
+        "1 ou 2 poignées de noix concassées",
+        "1/3 noix de muscade râpée"
+      ],
+      "instructions": [
+        "Couper les tomates en dés et émincer les oignons.",
+        "Ajouter cumin, poivre, piment et ail écrasé.",
+        "Ajouter mélasse de grenade, huile d'olive, jus de citron et muscade. Mélanger.",
+        "Hacher le persil et la menthe, puis les incorporer.",
+        "Ajouter les noix concassées.",
+        "Laisser reposer 10 minutes avant de servir."
+      ]
+    },
+    "en": {
+      "name": "Gavurdağı Salatası",
+      "notes": "A flavorful and balanced salad. Original video by Refika: https://www.youtube.com/watch?v=AunTNHtSKmw",
+      "ingredients": [
+        "3 large tomatoes",
+        "1 yellow onion",
+        "1 bunch of parsley",
+        "1 tsp cumin",
+        "1 tsp black pepper",
+        "1 tsp red pepper flakes",
+        "4 sprigs of fresh mint",
+        "3 garlic cloves",
+        "2 tbsp pomegranate molasses",
+        "2 tbsp extra virgin olive oil",
+        "0.5 lemon",
+        "1 or 2 handfuls of crushed walnuts",
+        "1/3 grated nutmeg"
+      ],
+      "instructions": [
+        "Dice the tomatoes and finely slice the onions.",
+        "Add cumin, black pepper, red pepper flakes, and crushed garlic.",
+        "Add pomegranate molasses, olive oil, lemon juice, and nutmeg. Mix.",
+        "Finely chop the parsley and mint, then add them.",
+        "Add the crushed walnuts.",
+        "Let rest for 10 minutes before serving."
+      ]
+    },
+    "it": {
+      "name": "Gavurdağı Salatası",
+      "notes": "Insalata ricca di sapore ed equilibrata. Video originale di Refika: https://www.youtube.com/watch?v=AunTNHtSKmw",
+      "ingredients": [
+        "3 pomodori grandi",
+        "1 cipolla",
+        "1 mazzetto di prezzemolo",
+        "1 cucchiaino di cumino",
+        "1 cucchiaino di pepe nero",
+        "1 cucchiaino di peperoncino in fiocchi",
+        "4 rametti di menta fresca",
+        "3 spicchi d'aglio",
+        "2 cucchiai di melassa di melograno",
+        "2 cucchiai di olio extravergine di oliva",
+        "0.5 limone",
+        "1 o 2 manciate di noci tritate",
+        "1/3 di noce moscata grattugiata"
+      ],
+      "instructions": [
+        "Tagliare i pomodori a cubetti e affettare finemente la cipolla.",
+        "Aggiungere cumino, pepe nero, peperoncino e aglio schiacciato.",
+        "Aggiungere melassa di melograno, olio d'oliva, succo di limone e noce moscata. Mescolare.",
+        "Tritare finemente il prezzemolo e la menta, quindi aggiungerli.",
+        "Aggiungere le noci tritate.",
+        "Lasciare riposare per 10 minuti prima di servire."
+      ]
+    },
+    "es": {
+      "name": "Gavurdağı Salatası",
+      "notes": "Ensalada sabrosa y equilibrada. Vídeo original de Refika: https://www.youtube.com/watch?v=AunTNHtSKmw",
+      "ingredients": [
+        "3 tomates grandes",
+        "1 cebolla",
+        "1 manojo de perejil",
+        "1 cucharadita de comino",
+        "1 cucharadita de pimienta negra",
+        "1 cucharadita de chile en hojuelas",
+        "4 ramitas de menta fresca",
+        "3 dientes de ajo",
+        "2 cucharadas de melaza de granada",
+        "2 cucharadas de aceite de oliva virgen extra",
+        "0.5 limón",
+        "1 o 2 puñados de nueces picadas",
+        "1/3 de nuez moscada rallada"
+      ],
+      "instructions": [
+        "Cortar los tomates en cubos y picar finamente la cebolla.",
+        "Añadir el comino, la pimienta negra, el chile y el ajo machacado.",
+        "Añadir la melaza de granada, el aceite de oliva, el zumo de limón y la nuez moscada. Mezclar.",
+        "Picar finamente el perejil y la menta e incorporarlos.",
+        "Añadir las nueces picadas.",
+        "Dejar reposar 10 minutos antes de servir."
+      ]
+    },
+    "de": {
+      "name": "Gavurdağı Salatası",
+      "notes": "Aromatischer und ausgewogener Salat. Originalvideo von Refika: https://www.youtube.com/watch?v=AunTNHtSKmw",
+      "ingredients": [
+        "3 große Tomaten",
+        "1 Zwiebel",
+        "1 Bund Petersilie",
+        "1 TL Kreuzkümmel",
+        "1 TL schwarzer Pfeffer",
+        "1 TL Chiliflocken",
+        "4 Zweige frische Minze",
+        "3 Knoblauchzehen",
+        "2 EL Granatapfelmelasse",
+        "2 EL natives Olivenöl extra",
+        "0.5 Zitrone",
+        "1 oder 2 Handvoll gehackte Walnüsse",
+        "1/3 geriebene Muskatnuss"
+      ],
+      "instructions": [
+        "Die Tomaten würfeln und die Zwiebel fein schneiden.",
+        "Kreuzkümmel, schwarzen Pfeffer, Chiliflocken und zerdrückten Knoblauch hinzufügen.",
+        "Granatapfelmelasse, Olivenöl, Zitronensaft und Muskatnuss hinzufügen. Vermischen.",
+        "Petersilie und Minze fein hacken und unterheben.",
+        "Die gehackten Walnüsse hinzufügen.",
+        "Vor dem Servieren 10 Minuten ziehen lassen."
+      ]
+    },
+    "ja": {
+      "name": "ガヴルダーウ・サラタス",
+      "notes": "風味豊かでバランスのよいサラダ。Refikaによるオリジナル動画：https://www.youtube.com/watch?v=AunTNHtSKmw",
+      "ingredients": [
+        "大きめのトマト 3個",
+        "玉ねぎ 1個",
+        "パセリ 1束",
+        "クミン 小さじ1",
+        "黒こしょう 小さじ1",
+        "粗びき唐辛子 小さじ1",
+        "生のミント 4枝",
+        "にんにく 3片",
+        "ざくろモラセス 大さじ2",
+        "エクストラバージンオリーブオイル 大さじ2",
+        "レモン 0.5個",
+        "粗く刻んだくるみ ひとつかみ〜2つかみ",
+        "すりおろしたナツメグ 1/3個分"
+      ],
+      "instructions": [
+        "トマトを角切りにし、玉ねぎを薄切りにする。",
+        "クミン、黒こしょう、唐辛子、つぶしたにんにくを加える。",
+        "ざくろモラセス、オリーブオイル、レモン汁、ナツメグを加えて混ぜる。",
+        "パセリとミントを細かく刻んで加える。",
+        "刻んだくるみを加える。",
+        "食べる前に10分ほど置く。"
+      ]
+    },
+    "zh": {
+      "name": "Gavurdağı 沙拉",
+      "notes": "风味丰富且均衡的沙拉。Refika 原版视频：https://www.youtube.com/watch?v=AunTNHtSKmw",
+      "ingredients": [
+        "大番茄 3个",
+        "洋葱 1个",
+        "欧芹 1把",
+        "孜然 1茶匙",
+        "黑胡椒 1茶匙",
+        "辣椒碎 1茶匙",
+        "新鲜薄荷 4枝",
+        "大蒜 3瓣",
+        "石榴糖蜜 2汤匙",
+        "特级初榨橄榄油 2汤匙",
+        "柠檬 0.5个",
+        "切碎的核桃 1或2把",
+        "磨碎的肉豆蔻 1/3个"
+      ],
+      "instructions": [
+        "将番茄切丁，洋葱切细丝。",
+        "加入孜然、黑胡椒、辣椒碎和压碎的大蒜。",
+        "加入石榴糖蜜、橄榄油、柠檬汁和肉豆蔻，拌匀。",
+        "将欧芹和薄荷切碎后拌入。",
+        "加入切碎的核桃。",
+        "食用前静置10分钟。"
+      ]
+    },
+    "tr": {
+      "name": "Gavurdağı Salatası",
+      "notes": "Lezzetli ve dengeli bir salata. Refika'nın orijinal videosu: https://www.youtube.com/watch?v=AunTNHtSKmw",
+      "ingredients": [
+        "3 büyük domates",
+        "1 kuru soğan",
+        "1 demet maydanoz",
+        "1 çay kaşığı kimyon",
+        "1 çay kaşığı karabiber",
+        "1 çay kaşığı pul biber",
+        "4 dal taze nane",
+        "3 diş sarımsak",
+        "2 yemek kaşığı nar ekşisi",
+        "2 yemek kaşığı sızma zeytinyağı",
+        "0.5 limon",
+        "1 veya 2 avuç dövülmüş ceviz",
+        "1/3 rendelenmiş muskat"
+      ],
+      "instructions": [
+        "Domatesleri küp küp doğrayın ve soğanları ince ince dilimleyin.",
+        "Kimyon, karabiber, pul biber ve ezilmiş sarımsağı ekleyin.",
+        "Nar ekşisi, zeytinyağı, limon suyu ve muskatı ekleyip karıştırın.",
+        "Maydanoz ve naneyi ince ince kıyıp ekleyin.",
+        "Dövülmüş cevizleri ekleyin.",
+        "Servis etmeden önce 10 dakika dinlendirin."
+      ]
+    },
+    "ar": {
+      "name": "سلطة غوفر داغي",
+      "notes": "سلطة غنية بالنكهات ومتوازنة. الفيديو الأصلي لريفكا: https://www.youtube.com/watch?v=AunTNHtSKmw",
+      "ingredients": [
+        "3 حبات طماطم كبيرة",
+        "1 بصلة",
+        "1 حزمة بقدونس",
+        "1 ملعقة صغيرة كمون",
+        "1 ملعقة صغيرة فلفل أسود",
+        "1 ملعقة صغيرة رقائق فلفل حار",
+        "4 أغصان نعناع طازج",
+        "3 فصوص ثوم",
+        "2 ملعقة كبيرة دبس الرمان",
+        "2 ملعقة كبيرة زيت زيتون بكر ممتاز",
+        "0.5 ليمونة",
+        "قبضة أو قبضتان من الجوز المجروش",
+        "1/3 جوزة الطيب المبشورة"
+      ],
+      "instructions": [
+        "قطّع الطماطم إلى مكعبات وقطّع البصل شرائح رفيعة.",
+        "أضف الكمون والفلفل الأسود ورقائق الفلفل الحار والثوم المهروس.",
+        "أضف دبس الرمان وزيت الزيتون وعصير الليمون وجوزة الطيب. اخلط.",
+        "افرُم البقدونس والنعناع ناعماً ثم أضفهما.",
+        "أضف الجوز المجروش.",
+        "اترك السلطة ترتاح 10 دقائق قبل التقديم."
+      ]
+    },
+    "fa": {
+      "name": "سالاد گاوورداگی",
+      "notes": "سالادی خوش‌طعم و متعادل. ویدیوی اصلی از رفیکا: https://www.youtube.com/watch?v=AunTNHtSKmw",
+      "ingredients": [
+        "۳ گوجه‌فرنگی بزرگ",
+        "۱ عدد پیاز",
+        "۱ دسته جعفری",
+        "۱ قاشق چای‌خوری زیره",
+        "۱ قاشق چای‌خوری فلفل سیاه",
+        "۱ قاشق چای‌خوری پرک فلفل قرمز",
+        "۴ شاخه نعناع تازه",
+        "۳ حبه سیر",
+        "۲ قاشق غذاخوری شیره انار",
+        "۲ قاشق غذاخوری روغن زیتون فرابکر",
+        "۰.۵ عدد لیمو",
+        "۱ یا ۲ مشت گردوی خردشده",
+        "۱/۳ عدد جوز هندی رنده‌شده"
+      ],
+      "instructions": [
+        "گوجه‌فرنگی‌ها را نگینی و پیاز را نازک خرد کنید.",
+        "زیره، فلفل سیاه، پرک فلفل و سیر له‌شده را اضافه کنید.",
+        "شیره انار، روغن زیتون، آب‌لیمو و جوز هندی را اضافه و مخلوط کنید.",
+        "جعفری و نعناع را ریز خرد کرده و اضافه کنید.",
+        "گردوی خردشده را اضافه کنید.",
+        "پیش از سرو، ۱۰ دقیقه استراحت دهید."
+      ]
+    },
+    "nb": {
+      "name": "Gavurdağı Salatası",
+      "notes": "En smakfull og balansert salat. Originalvideo av Refika: https://www.youtube.com/watch?v=AunTNHtSKmw",
+      "ingredients": [
+        "3 store tomater",
+        "1 gul løk",
+        "1 bunt persille",
+        "1 ts spisskummen",
+        "1 ts svart pepper",
+        "1 ts chiliflak",
+        "4 stilker frisk mynte",
+        "3 hvitløksfedd",
+        "2 ss granateplesirup",
+        "2 ss extra virgin olivenolje",
+        "0.5 sitron",
+        "1 eller 2 håndfuller hakkede valnøtter",
+        "1/3 revet muskatnøtt"
+      ],
+      "instructions": [
+        "Skjær tomatene i terninger og løken i tynne skiver.",
+        "Tilsett spisskummen, svart pepper, chiliflak og knust hvitløk.",
+        "Tilsett granateplesirup, olivenolje, sitronsaft og muskatnøtt. Bland.",
+        "Finhakk persille og mynte og bland det inn.",
+        "Tilsett de hakkede valnøttene.",
+        "La salaten hvile i 10 minutter før servering."
+      ]
+    },
+    "hi": {
+      "name": "गवुरदाग़ी सलाता",
+      "notes": "स्वादिष्ट और संतुलित सलाद। रेफिका का मूल वीडियो: https://www.youtube.com/watch?v=AunTNHtSKmw",
+      "ingredients": [
+        "3 बड़े टमाटर",
+        "1 प्याज़",
+        "1 गुच्छा पार्सले",
+        "1 छोटा चम्मच जीरा",
+        "1 छोटा चम्मच काली मिर्च",
+        "1 छोटा चम्मच चिली फ्लेक्स",
+        "ताज़े पुदीने की 4 टहनियाँ",
+        "3 लहसुन की कलियाँ",
+        "2 बड़े चम्मच अनार का शीरा",
+        "2 बड़े चम्मच एक्स्ट्रा वर्जिन जैतून का तेल",
+        "0.5 नींबू",
+        "1 या 2 मुट्ठी कुटे हुए अखरोट",
+        "1/3 कद्दूकस किया हुआ जायफल"
+      ],
+      "instructions": [
+        "टमाटरों को छोटे टुकड़ों में काटें और प्याज़ को पतला काटें।",
+        "जीरा, काली मिर्च, चिली फ्लेक्स और कुटा हुआ लहसुन डालें।",
+        "अनार का शीरा, जैतून का तेल, नींबू का रस और जायफल डालकर मिलाएँ।",
+        "पार्सले और पुदीने को बारीक काटकर मिलाएँ।",
+        "कुटे हुए अखरोट डालें।",
+        "परोसने से पहले 10 मिनट के लिए रख दें।"
+      ]
+    }
   }
 ]

@@ -15,8 +15,6 @@ interface RecipesHomeProps {
   recipes: Recipe[];
 }
 
-const recipeWithCheese = 1; // La pizza margheritta :c
-
 // Picks a representative picture for a category tile, rotating daily like
 // the random recipe below, so the tiles aren't frozen on the same image.
 const pictureForCategory = (
@@ -53,7 +51,13 @@ const RecipesHome = ({ feasts, recipes }: RecipesHomeProps) => {
       : undefined;
 
   return (
-    <div className={isMobile ? "flex flex-col gap-10 px-4 pb-8" : "flex flex-col gap-10 pb-8"}>
+    <div
+      className={
+        isMobile
+          ? "flex flex-col gap-10 px-4 pb-8"
+          : "flex flex-col gap-10 pb-8"
+      }
+    >
       <div className="rounded-3xl border border-amber-100 bg-amber-50/60 p-6 md:p-8">
         <div className="flex flex-col gap-2 text-stone-700">
           <p>{t("recipesPageDescription1")}</p>
@@ -122,14 +126,6 @@ const RecipesHome = ({ feasts, recipes }: RecipesHomeProps) => {
               </span>
               <span className="text-sm text-stone-500">
                 {t("recipesNumber")}
-              </span>
-            </div>
-            <div className="flex flex-col gap-1 rounded-2xl border border-stone-200 bg-white p-4">
-              <span className="text-3xl font-bold text-amber-600">
-                {recipeWithCheese}
-              </span>
-              <span className="text-sm text-stone-500">
-                {t("recipesWithCheese")}
               </span>
             </div>
           </div>
