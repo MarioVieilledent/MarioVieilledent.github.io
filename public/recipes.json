@@ -919,6 +919,12 @@
     "category": "breads",
     "id": "baguette",
     "pictures": ["baguettes.jpg"],
+    "hu": {
+      "name": "Baguette",
+      "notes": "Hihetetlenül egyszerű, igazán gazdaságos, és a tényleges munkaidő is nagyon rövid. A tésztának körülbelül tíz óra pihenésre van szüksége, ezért érdemes előző nap elkészíteni, hogy reggel friss, finom kenyeret ehessünk. A négy hozzávaló a négy elemet jelképezi: a liszt a földet, a víz a vizet, az élesztő a levegőt, a só pedig a tüzet. Az eredeti recept a fakanalas módszerrel: https://www.youtube.com/watch?v=Z-husjZkxHw",
+      "ingredients": ["600 g liszt (200 g bagettenként)", "480 ml víz (a liszt tömegének 80%-a)", "2 g szárított élesztő", "2 tk só"],
+      "instructions": ["Tegye az összes hozzávalót egy nagy tálba.", "Körülbelül 1 percig keverje egy nagy fakanál nyelével, amíg a tészta gombóccá összeáll.", "Tipp: egy kiskanál szélével kaparja le a kanálra tapadt tésztát (lásd a videót).", "Fedje le, és hagyja 8–12 órát pihenni szobahőmérsékleten.", "Egy tepsire helyezett sütőpapírt bőségesen lisztezzen meg. A nagyon hidratált, ragacsos tésztának sok lisztre van szüksége, hogy ne tapadjon le.", "Lisztezze meg a tésztát, és óvatosan helyezze át a sütőpapírra (egy tésztakaparó nagyon jól használható ehhez).", "Nyomkodás nélkül ossza a tésztát három részre, hogy a levegő benne maradjon.", "Egyetlen mozdulattal, kézzel nyújtva formázzon három bagettet.", "Süsse 25 percig 250 °C-on, alsó-felső sütéssel."]
+    },
     "en": {
       "name": "Baguette",
       "notes": "Incredibly simple, truly economical, and very quick in working time. The dough needs about ten hours of resting, so ideally prepare it the day before to enjoy fresh, delicious bread in the morning. The four ingredients represent the four elements: flour for earth, water, yeast for air, and salt for fire. Original recipe using the wooden spoon technique: https://www.youtube.com/watch?v=Z-husjZkxHw",
@@ -2384,6 +2390,12 @@
     "category": "mainCourses",
     "id": "margheritaPizza",
     "pictures": ["pizza_margherita.jpg"],
+    "hu": {
+      "name": "Margherita pizza",
+      "notes": "Pizzatészta: ugyanaz az eljárás, mint a kenyértésztánál, de 100 g liszthez 65–75 ml vizet használjon.",
+      "ingredients": [{"part": "Tészta (1 pizzához)", "ingredients": ["200–250 g liszt", "A liszt tömegének 65%-a csapvízben", "Kicsit több élesztő, mint a baguette-hez", "Fél teáskanál só"]}, {"part": "Feltét", "ingredients": ["Paradicsomszósz", "1 golyó mozzarella", "Friss bazsalikom", "Olívaolaj", "Só, bors, fűszernövények"]}],
+      "instructions": [{"part": "Tészta", "instructions": ["Fakanállal keverje össze.", "Hagyja legalább 5 órát pihenni."]}, {"part": "Sütés", "instructions": ["Melegítse elő a sütőt a legmagasabb hőmérsékletre (250 °C vagy több, ideális esetben 450 °C).", "Lisztezett sütőlapon kézzel nyújtsa ki a tésztát.", "Adjon hozzá paradicsomszószt ízlés szerint.", "Ízesítse sóval, borssal, pizzafűszerrel vagy provence-i fűszerekkel, valamint friss bazsalikomlevelekkel.", "Osszon el rajta egy golyó mozzarellát (ha a sütő csak 250 °C-ig melegszik, ne csöpögtesse le), lehetőleg nagyobb darabokban, hogy lassan olvadjon meg, de ne piruljon meg.", "Locsolja meg olívaolajjal.", "Süsse körülbelül 10 percig, lehetőleg az alsó rácson, légkeveréssel, ha lehetséges."]}]
+    },
     "en": {
       "name": "Margherita Pizza",
       "notes": "Pizza dough: same method as bread dough, but with 65-75 mL of water per 100 g of flour.",
@@ -3113,6 +3125,12 @@
     "category": "mainCourses",
     "id": "pizzaConLePatatineFritte",
     "pictures": ["Pizza_con_le_patatine_fritte.jpg"],
+    "hu": {
+      "name": "Pizza sült krumplival",
+      "notes": "Margherita pizza sült krumplival – nem a legszebb és nem a legínyencebb, de kétségtelenül az egyik legjobb komfortétel!",
+      "ingredients": [{"part": "Tészta (1 pizzához)", "ingredients": ["200 g liszt", "150 ml víz", "3 g szárított élesztő", "1/2 tk só"]}, {"part": "Sült krumpli", "ingredients": ["300–400 g fagyasztott hasábburgonya"]}, {"part": "Pizza", "ingredients": ["Paradicsomszósz", "1 golyó mozzarella", "Friss bazsalikom", "Olívaolaj", "Só, bors, fűszernövények"]}],
+      "instructions": [{"part": "Tészta", "instructions": ["Keverjen össze mindent egy fakanállal.", "Hagyja legalább 3 órát pihenni; egy éjszakán át még jobb."]}, {"part": "Sült krumpli", "instructions": ["Süsse a hasábburgonyát a sütőben a csomagoláson jelzett idő 2/3-áig, 250 °C-on, alsó-felső sütéssel.", "Mielőtt barnulni kezdene, vegye ki, és várja meg, amíg a sütő eléri a legmagasabb hőmérsékletet, mielőtt folytatná a pizza sütését."]}, {"part": "Pizza", "instructions": ["Melegítse elő a sütőt a legmagasabb hőmérsékletre, 250 °C-ra vagy magasabbra, ideális esetben 450 °C-ra.", "Lisztezett sütőlapon kézzel nyújtsa és húzza ki a tésztát.", "Adjon hozzá paradicsomszószt ízlés szerint.", "Ízesítse sóval, borssal, pizzafűszerrel vagy provence-i fűszerekkel, valamint friss bazsalikomlevelekkel.", "Adja hozzá a mozzarellát (ha a sütő csak 250 °C-ig melegszik, ne csöpögtesse le), elég nagy darabokban, hogy lassan olvadjon meg, és ne piruljon meg túlságosan.", "Locsolja meg olívaolajjal.", "Süsse 7–9 percig, lehetőleg a sütő aljában, légkeveréssel."]}, {"part": "Befejező sütés", "instructions": ["Tegye a hasábburgonyát a pizzára.", "Adjon még egy kevés sót és egy újabb kevés olívaolajat a sült krumplira.", "Süsse további 2–3 percig, hogy teljesen elkészüljön."]}]
+    },
     "en": {
       "name": "Pizza with french fries",
       "notes": "Margherita pizza with fries — not the prettiest, one of the least gourmet, but definitely one of the best comfort foods!",
@@ -4155,6 +4173,12 @@
     "category": "desserts",
     "id": "crepes",
     "pictures": ["crepes_nutella.jpg"],
+    "hu": {
+      "name": "Palacsinta",
+      "notes": "Sima, csomómentes palacsintatészta turmixgép nélkül, gyors recept. Tipp: a szilárd és folyékony alapanyagok mennyisége legyen egyenlő: https://www.youtube.com/watch?v=p-XOehv3j20",
+      "ingredients": ["250 g liszt", "500 ml tej", "3 tojás", "30 g vaj / 30 ml semleges ízű olaj", "Cukor a színezéshez (opcionális)", "Egy csipet só"],
+      "instructions": ["Tegye az összes hozzávalót egy tálba, de először csak a tej egyharmadát adja hozzá.", "Erőteljesen keverje habverővel – 30 másodperc alatt sűrű, csomómentes tésztát kap.", "Adja hozzá a maradék tejet, és néhány másodperc alatt fejezze be a keverést.", "Hagyja legalább 2 órát pihenni.", "Sütés: tapadásmentes serpenyőt használjon erős, akár maximális hőfokon; merjen bele egy merőkanál tésztát, majd döntse és rázza a serpenyőt, hogy egyenletesen elterüljön."]
+    },
     "en": {
       "name": "Crêpes",
       "notes": "Smooth batter without lumps, no blender needed, quick recipe. Tip: balance solid and liquid bases in equal quantities: https://www.youtube.com/watch?v=p-XOehv3j20",
@@ -4502,6 +4526,12 @@
     "category": "dips",
     "id": "hummus",
     "pictures": ["hummus_3.jpg", "hummus_1.jpg", "hummus_2.jpg"],
+    "hu": {
+      "name": "Humusz",
+      "notes": "Sok receptet és technikát kipróbáltam. Egy nap egy ismert jordániai által vezetett kis düsseldorfi falafelétteremben életem legjobb humuszát kóstoltam. Megdöbbenve beszélgetni kezdtem a séffel, és majdnem leestem a székről, amikor kiderült, hogy sem fokhagymát, sem római köményt, sem olívaolajat nem használ a humuszához. A titok az, hogy a száraz csicseriborsót magunk főzzük meg, és a tahinit is magunk készítjük. További inspiráció: https://www.youtube.com/watch?v=NbXC0B83S7k",
+      "ingredients": ["500 g főtt, lecsöpögtetett csicseriborsó", "100 g tahini", "1 citrom leve (60 ml)", "Jéghideg víz", "Só"],
+      "instructions": ["Távolítsa el a csicseriborsó héját (a simább állagért).", "Keverje össze a tahinit a citromlével és a sóval.", "Turmixolja össze, és fokozatosan adjon hozzá jéghideg vizet, amíg el nem éri a kívánt állagot.", "Pihentesse néhány percig a hűtőben; másnap még finomabb.", "Tálalja kevés olívaolajjal és fűszerekkel a tetején (bors, római kömény, paprika, szumák)."]
+    },
     "en": {
       "name": "Hummus",
       "notes": "I've tested a lot of recipes and techniques. One day, at a small falafel restaurant run by a well-known Jordanian in Düsseldorf, I tasted the best hummus of my life. Shocked, I started talking to the chef and nearly fell off my chair when I discovered that he uses neither garlic, nor cumin, nor olive oil in his hummus. The secret is to cook your own dried chickpeas and make your own tahini. Other inspirations here: https://www.youtube.com/watch?v=NbXC0B83S7k",

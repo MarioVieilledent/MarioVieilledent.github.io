@@ -18,6 +18,7 @@ export const translations = {
     pt: "Rato Viajante",
     ru: "Путешествующая крыса",
     ka: "მოგზაური ვირთხა",
+    hu: "Utazó patkány",
   },
   websiteDescription: {
     en: "Mario Vieilledent - My personal website: open source maps, dev, recipes and learning Norwegian",
@@ -38,6 +39,7 @@ export const translations = {
     pt: "Mario Vieilledent - O meu site pessoal: mapas de código aberto, desenvolvimento, receitas e aprendizagem de norueguês",
     ru: "Mario Vieilledent — Мой личный сайт: карты с открытым исходным кодом, разработка, рецепты и изучение норвежского языка",
     ka: "Mario Vieilledent — ჩემი პირადი ვებსაიტი: ღია კოდის რუკები, პროგრამირება, რეცეპტები და ნორვეგიულის სწავლა",
+    hu: "Mario Vieilledent – Személyes weboldalam: nyílt forráskódú térképek, fejlesztés, receptek és norvégtanulás",
   },
   language: {
     en: "Language",
@@ -58,6 +60,7 @@ export const translations = {
     pt: "Idioma",
     ru: "Язык",
     ka: "ენა",
+    hu: "Nyelv",
   },
   map: {
     en: "Map",
@@ -78,6 +81,7 @@ export const translations = {
     pt: "Mapa",
     ru: "Карта",
     ka: "რუკა",
+    hu: "Térkép",
   },
   dragAndDropFilesHere: {
     en: "Drag and drop files here",
@@ -98,6 +102,7 @@ export const translations = {
     pt: "Arraste e largue os ficheiros aqui",
     ru: "Перетащите файлы сюда",
     ka: "გადმოათრიეთ და ჩააგდეთ ფაილები აქ",
+    hu: "Húzza ide a fájlokat",
   },
   baseMap: {
     en: "Base map",
@@ -118,6 +123,7 @@ export const translations = {
     pt: "Mapa base",
     ru: "Базовая карта",
     ka: "საბაზისო რუკა",
+    hu: "Alaptérkép",
   },
   layers: {
     en: "Layers",
@@ -138,6 +144,7 @@ export const translations = {
     pt: "Camadas",
     ru: "Слои",
     ka: "ფენები",
+    hu: "Rétegek",
   },
   points: {
     en: "Points",
@@ -158,6 +165,7 @@ export const translations = {
     pt: "Pontos",
     ru: "Точки",
     ka: "წერტილები",
+    hu: "Pontok",
   },
   shops: {
     en: "Shops",
@@ -178,6 +186,7 @@ export const translations = {
     pt: "Lojas",
     ru: "Магазины",
     ka: "მაღაზიები",
+    hu: "Üzletek",
   },
   services: {
     en: "Services",
@@ -198,6 +207,7 @@ export const translations = {
     pt: "Serviços",
     ru: "Услуги",
     ka: "სერვისები",
+    hu: "Szolgáltatások",
   },
   outdoorSites: {
     en: "Outdoor",
@@ -218,6 +228,7 @@ export const translations = {
     pt: "Ao ar livre",
     ru: "На природе",
     ka: "ღია ცის ქვეშ",
+    hu: "Szabadtér",
   },
   sportSites: {
     en: "Sports sites",
@@ -238,6 +249,7 @@ export const translations = {
     pt: "Instalações desportivas",
     ru: "Спортивные объекты",
     ka: "სპორტული ობიექტები",
+    hu: "Sportlétesítmények",
   },
   clearLayers: {
     en: "Clear layers",
@@ -258,6 +270,7 @@ export const translations = {
     pt: "Limpar camadas",
     ru: "Очистить слои",
     ka: "ფენების გასუფთავება",
+    hu: "Rétegek törlése",
   },
   notAvailableIn3D: {
     en: "Not available in 3D view",
@@ -278,6 +291,7 @@ export const translations = {
     pt: "Não disponível na vista 3D",
     ru: "Недоступно в режиме 3D",
     ka: "მიუწვდომელია 3D ხედში",
+    hu: "3D nézetben nem érhető el",
   },
   general: {
     en: "General",
@@ -298,6 +312,7 @@ export const translations = {
     pt: "Geral",
     ru: "Общая",
     ka: "ზოგადი",
+    hu: "Általános",
   },
   topographic: {
     en: "Topographic",
@@ -318,6 +333,7 @@ export const translations = {
     pt: "Topográfico",
     ru: "Топографическая",
     ka: "ტოპოგრაფიული",
+    hu: "Domborzati",
   },
   imagery: {
     en: "Satellite imagery",
@@ -338,6 +354,7 @@ export const translations = {
     pt: "Imagens de satélite",
     ru: "Спутниковые снимки",
     ka: "სატელიტური გამოსახულება",
+    hu: "Műholdfelvételek",
   },
   hybrid: {
     en: "Hybrid",
@@ -358,6 +375,7 @@ export const translations = {
     pt: "Híbrido",
     ru: "Гибрид",
     ka: "ჰიბრიდული",
+    hu: "Hibrid",
   },
   transport: {
     en: "Transport",
@@ -378,6 +396,7 @@ export const translations = {
     pt: "Transportes",
     ru: "Транспорт",
     ka: "ტრანსპორტი",
+    hu: "Közlekedés",
   },
   other: {
     en: "Other",
@@ -398,6 +417,7 @@ export const translations = {
     pt: "Outro",
     ru: "Другое",
     ka: "სხვა",
+    hu: "Egyéb",
   },
   "2dMercator": {
     en: "2D Mercator",
@@ -418,6 +438,7 @@ export const translations = {
     pt: "Mercator 2D",
     ru: "Меркатор 2D",
     ka: "2D მერკატორი",
+    hu: "2D Mercator",
   },
   "3dGlobe": {
     en: "3D Globe",
@@ -438,6 +459,7 @@ export const translations = {
     pt: "Globo 3D",
     ru: "3D-глобус",
     ka: "3D გლობუსი",
+    hu: "3D földgömb",
   },
   sport: {
     en: "Sport",
@@ -458,6 +480,7 @@ export const translations = {
     pt: "Desporto",
     ru: "Спорт",
     ka: "სპორტი",
+    hu: "Sport",
   },
   train: {
     en: "Train",
@@ -478,6 +501,7 @@ export const translations = {
     pt: "Comboio",
     ru: "Поезд",
     ka: "მატარებელი",
+    hu: "Vonat",
   },
   loading: {
     en: "Loading",
@@ -498,6 +522,7 @@ export const translations = {
     pt: "A carregar",
     ru: "Загрузка",
     ka: "იტვირთება",
+    hu: "Betöltés",
   },
   translateThisWord: {
     en: "Translate this word",
@@ -518,6 +543,7 @@ export const translations = {
     pt: "Traduza esta palavra",
     ru: "Переведите это слово",
     ka: "თარგმნეთ ეს სიტყვა",
+    hu: "Fordítsa le ezt a szót",
   },
   english: {
     en: "English",
@@ -538,6 +564,7 @@ export const translations = {
     pt: "Inglês",
     ru: "Английский",
     ka: "ინგლისური",
+    hu: "Angol",
   },
   norwegian: {
     en: "Norwegian",
@@ -558,6 +585,7 @@ export const translations = {
     pt: "Norueguês",
     ru: "Норвежский",
     ka: "ნორვეგიული",
+    hu: "Norvég",
   },
   learnNorwegian: {
     en: "Learn Norwegian",
@@ -578,6 +606,7 @@ export const translations = {
     pt: "Aprender norueguês",
     ru: "Учить норвежский",
     ka: "ისწავლეთ ნორვეგიული",
+    hu: "Norvég tanulás",
   },
   turkishFlashcards: {
     en: "Turkish Flashcards",
@@ -598,6 +627,7 @@ export const translations = {
     pt: "Cartões de estudo de turco",
     ru: "Карточки для изучения турецкого",
     ka: "თურქული ენის ბარათები",
+    hu: "Török szókártyák",
   },
   typeYourTranslation: {
     en: "Type your translation",
@@ -618,6 +648,7 @@ export const translations = {
     pt: "Escreva a sua tradução",
     ru: "Введите свой перевод",
     ka: "შეიყვანეთ თქვენი თარგმანი",
+    hu: "Írja be a fordítást",
   },
   next: {
     en: "Next",
@@ -638,6 +669,7 @@ export const translations = {
     pt: "Seguinte",
     ru: "Далее",
     ka: "შემდეგი",
+    hu: "Következő",
   },
   submit: {
     en: "Submit",
@@ -658,6 +690,7 @@ export const translations = {
     pt: "Enviar",
     ru: "Отправить",
     ka: "გაგზავნა",
+    hu: "Beküldés",
   },
   iDontKnow: {
     en: "I don't know",
@@ -678,6 +711,7 @@ export const translations = {
     pt: "Não sei",
     ru: "Я не знаю",
     ka: "არ ვიცი",
+    hu: "Nem tudom",
   },
   home: {
     en: "Home",
@@ -698,6 +732,7 @@ export const translations = {
     pt: "Início",
     ru: "Главная",
     ka: "მთავარი",
+    hu: "Kezdőlap",
   },
   back: {
     en: "Back",
@@ -718,6 +753,7 @@ export const translations = {
     pt: "Voltar",
     ru: "Назад",
     ka: "უკან",
+    hu: "Vissza",
   },
   pageNotFound: {
     en: "404 - Wrong address :D Nothing here ",
@@ -738,6 +774,7 @@ export const translations = {
     pt: "404 - Endereço errado :D Não há nada aqui",
     ru: "404 — Неверный адрес :D Здесь ничего нет",
     ka: "404 — არასწორი მისამართი :D აქ არაფერია",
+    hu: "404 – Hibás cím :D Itt nincs semmi",
   },
   words: {
     en: "words",
@@ -758,6 +795,7 @@ export const translations = {
     pt: "palavras",
     ru: "слова",
     ka: "სიტყვა",
+    hu: "szavak",
   },
   success: {
     en: "correct",
@@ -778,6 +816,7 @@ export const translations = {
     pt: "correto",
     ru: "правильно",
     ka: "სწორია",
+    hu: "helyes",
   },
   failure: {
     en: "wrong",
@@ -798,6 +837,7 @@ export const translations = {
     pt: "errado",
     ru: "неправильно",
     ka: "არასწორია",
+    hu: "hibás",
   },
   statistics: {
     en: "Statistics",
@@ -818,6 +858,7 @@ export const translations = {
     pt: "Estatísticas",
     ru: "Статистика",
     ka: "სტატისტიკა",
+    hu: "Statisztikák",
   },
   listOfWords: {
     en: "List of words",
@@ -838,6 +879,7 @@ export const translations = {
     pt: "Lista de palavras",
     ru: "Список слов",
     ka: "სიტყვების სია",
+    hu: "Szólista",
   },
   searchHere: {
     en: "Search a word (en, no)",
@@ -858,6 +900,7 @@ export const translations = {
     pt: "Pesquisar uma palavra (inglês, norueguês)",
     ru: "Найти слово (англ., норв.)",
     ka: "მოძებნეთ სიტყვა (ინგლ., ნორვ.)",
+    hu: "Szó keresése (en, no)",
   },
   note: {
     en: "Note",
@@ -878,6 +921,7 @@ export const translations = {
     pt: "Nota",
     ru: "Примечание",
     ka: "შენიშვნა",
+    hu: "Megjegyzés",
   },
   recipes: {
     en: "Recipes",
@@ -898,6 +942,7 @@ export const translations = {
     pt: "Receitas",
     ru: "Рецепты",
     ka: "რეცეპტები",
+    hu: "Receptek",
   },
   feasts: {
     en: "Feasts",
@@ -918,6 +963,7 @@ export const translations = {
     pt: "Banquetes",
     ru: "Пиры",
     ka: "ნადიმები",
+    hu: "Lakoma",
   },
   starters: {
     en: "Starters",
@@ -938,6 +984,7 @@ export const translations = {
     pt: "Entradas",
     ru: "Закуски",
     ka: "აპეტაიზერები",
+    hu: "Előételek",
   },
   mainCourses: {
     en: "Main Courses",
@@ -958,6 +1005,7 @@ export const translations = {
     pt: "Pratos principais",
     ru: "Основные блюда",
     ka: "მთავარი კერძები",
+    hu: "Főételek",
   },
   desserts: {
     en: "Desserts",
@@ -978,6 +1026,7 @@ export const translations = {
     pt: "Sobremesas",
     ru: "Десерты",
     ka: "დესერტები",
+    hu: "Desszertek",
   },
   breads: {
     en: "Breads",
@@ -998,6 +1047,7 @@ export const translations = {
     pt: "Pães",
     ru: "Хлеб",
     ka: "პური",
+    hu: "Kenyerek",
   },
   dips: {
     en: "Dips",
@@ -1018,6 +1068,7 @@ export const translations = {
     pt: "Molhos",
     ru: "Соусы",
     ka: "სოუსები",
+    hu: "Mártogatósok",
   },
   recipesPageDescription1: {
     en: "This page brings together my recipes and the shared meals that I call feasts.",
@@ -1038,6 +1089,7 @@ export const translations = {
     pt: "Esta página reúne as minhas receitas e as refeições partilhadas a que chamo banquetes.",
     ru: "На этой странице собраны мои рецепты и совместные трапезы, которые я называю пирами.",
     ka: "ეს გვერდი აერთიანებს ჩემს რეცეპტებსა და საერთო სადილებს, რომლებსაც ნადიმებს ვუწოდებ.",
+    hu: "Ezen az oldalon találhatók a receptjeim és az általam lakomának nevezett közös étkezések.",
   },
   recipesPageDescription2: {
     en: "I love garlic, but I hate cheese.",
@@ -1058,6 +1110,7 @@ export const translations = {
     pt: "Adoro alho, mas detesto queijo.",
     ru: "Я обожаю чеснок, но ненавижу сыр.",
     ka: "ძალიან მიყვარს ნიორი, მაგრამ ყველი მძულს.",
+    hu: "Szeretem a fokhagymát, de utálom a sajtot.",
   },
   recipesPageDescription3: {
     en: "A great lover of Turkish cuisine 🇹🇷, I consider it to be among the top 5 greatest cuisines in the world.",
@@ -1078,6 +1131,7 @@ export const translations = {
     pt: "Grande apreciador da cozinha turca 🇹🇷, considero-a uma das cinco melhores cozinhas do mundo.",
     ru: "Я большой поклонник турецкой кухни 🇹🇷 и считаю её одной из пяти лучших кухонь мира.",
     ka: "თურქული სამზარეულოს 🇹🇷 დიდი მოყვარული ვარ და მას მსოფლიოს ხუთ საუკეთესო სამზარეულოს შორის ვთვლი.",
+    hu: "A török konyha 🇹🇷 nagy kedvelőjeként a világ öt legjobb konyhája közé sorolom.",
   },
   ingredients: {
     en: "Ingredients",
@@ -1098,6 +1152,7 @@ export const translations = {
     pt: "Ingredientes",
     ru: "Ингредиенты",
     ka: "ინგრედიენტები",
+    hu: "Hozzávalók",
   },
   instructions: {
     en: "Instructions",
@@ -1118,6 +1173,7 @@ export const translations = {
     pt: "Instruções",
     ru: "Инструкции",
     ka: "ინსტრუქციები",
+    hu: "Elkészítés",
   },
   notes: {
     en: "Notes",
@@ -1138,6 +1194,7 @@ export const translations = {
     pt: "Notas",
     ru: "Примечания",
     ka: "შენიშვნები",
+    hu: "Megjegyzések",
   },
   idea: {
     en: "Idea",
@@ -1158,6 +1215,7 @@ export const translations = {
     pt: "Ideia",
     ru: "Идея",
     ka: "იდეა",
+    hu: "Ötlet",
   },
   menu: {
     en: "Menu",
@@ -1178,6 +1236,7 @@ export const translations = {
     pt: "Menu",
     ru: "Меню",
     ka: "მენიუ",
+    hu: "Menü",
   },
   pictures: {
     en: "Pictures",
@@ -1198,6 +1257,7 @@ export const translations = {
     pt: "Fotografias",
     ru: "Фотографии",
     ka: "ფოტოები",
+    hu: "Képek",
   },
   countries: {
     en: "Countries",
@@ -1218,6 +1278,7 @@ export const translations = {
     pt: "Países",
     ru: "Страны",
     ka: "ქვეყნები",
+    hu: "Országok",
   },
   more: {
     en: "More",
@@ -1238,6 +1299,7 @@ export const translations = {
     pt: "Mais",
     ru: "Ещё",
     ka: "მეტი",
+    hu: "Több",
   },
   worldScripts: {
     en: "World scripts",
@@ -1258,6 +1320,7 @@ export const translations = {
     pt: "Sistemas de escrita",
     ru: "Письменности мира",
     ka: "მსოფლიოს დამწერლობები",
+    hu: "Írásrendszerek a világban",
   },
   browseCategories: {
     en: "Browse",
@@ -1278,6 +1341,7 @@ export const translations = {
     pt: "Explorar",
     ru: "Обзор",
     ka: "დათვალიერება",
+    hu: "Böngészés",
   },
   randomRecipe: {
     en: "Random recipe",
@@ -1298,6 +1362,7 @@ export const translations = {
     pt: "Receita aleatória",
     ru: "Случайный рецепт",
     ka: "შემთხვევითი რეცეპტი",
+    hu: "Véletlen recept",
   },
   recipesNumber: {
     en: "Number of recipes",
@@ -1318,6 +1383,7 @@ export const translations = {
     pt: "Número de receitas",
     ru: "Количество рецептов",
     ka: "რეცეპტების რაოდენობა",
+    hu: "Receptek száma",
   },
   search: {
     en: "Search",
@@ -1338,6 +1404,7 @@ export const translations = {
     pt: "Pesquisar",
     ru: "Поиск",
     ka: "ძიება",
+    hu: "Keresés",
   },
   clearFilters: {
     en: "Clear filters",
@@ -1358,6 +1425,7 @@ export const translations = {
     pt: "Limpar filtros",
     ru: "Сбросить фильтры",
     ka: "ფილტრების გასუფთავება",
+    hu: "Szűrők törlése",
   },
   restultsFound: {
     en: "results found",
@@ -1378,6 +1446,7 @@ export const translations = {
     pt: "resultados encontrados",
     ru: "результатов найдено",
     ka: "შედეგია ნაპოვნი",
+    hu: "találat",
   },
   allFeastsJSON: {
     en: "All feasts (JSON)",
@@ -1398,6 +1467,7 @@ export const translations = {
     pt: "Todos os banquetes (JSON)",
     ru: "Все пиры (JSON)",
     ka: "ყველა ნადიმი (JSON)",
+    hu: "Összes lakoma (JSON)",
   },
   allRecipesJSON: {
     en: "All recipes (JSON)",
@@ -1418,6 +1488,7 @@ export const translations = {
     pt: "Todas as receitas (JSON)",
     ru: "Все рецепты (JSON)",
     ka: "ყველა რეცეპტი (JSON)",
+    hu: "Összes recept (JSON)",
   },
   export: {
     en: "Export",
@@ -1438,6 +1509,7 @@ export const translations = {
     pt: "Exportar",
     ru: "Экспорт",
     ka: "ექსპორტი",
+    hu: "Exportálás",
   },
   picturesOfMyDishes: {
     en: "Pictures of my dishes",
@@ -1458,6 +1530,7 @@ export const translations = {
     pt: "Fotografias dos meus pratos",
     ru: "Фотографии моих блюд",
     ka: "ჩემი კერძების ფოტოები",
+    hu: "Az ételeim képei",
   },
   recipeAvailableLanguages: {
     en: "This recipe is also available in the following languages:",
@@ -1478,6 +1551,7 @@ export const translations = {
     pt: "Esta receita também está disponível nos seguintes idiomas:",
     ru: "Этот рецепт также доступен на следующих языках:",
     ka: "ეს რეცეპტი ასევე ხელმისაწვდომია შემდეგ ენებზე:",
+    hu: "Ez a recept a következő nyelveken is elérhető:",
   },
   translationCoverage: {
     en: "Translation coverage",
@@ -1498,6 +1572,7 @@ export const translations = {
     pt: "Cobertura das traduções",
     ru: "Охват переводами",
     ka: "თარგმანის დაფარვა",
+    hu: "Fordítási lefedettség",
   },
   translationCoverageDescription: {
     en: "Select a cell to open that item in the corresponding language.",
@@ -1518,6 +1593,7 @@ export const translations = {
     pt: "Selecione uma célula para abrir esse elemento no idioma correspondente.",
     ru: "Выберите ячейку, чтобы открыть этот элемент на соответствующем языке.",
     ka: "აირჩიეთ უჯრა, რომ ეს ელემენტი შესაბამის ენაზე გახსნათ.",
+    hu: "Válasszon ki egy cellát az elem megfelelő nyelven való megnyitásához.",
   },
   feastOrRecipe: {
     en: "Feast or recipe",
@@ -1538,6 +1614,7 @@ export const translations = {
     pt: "Banquete ou receita",
     ru: "Пир или рецепт",
     ka: "ნადიმი ან რეცეპტი",
+    hu: "Lakoma vagy recept",
   },
   noRanking: {
     en: "No ranking",
@@ -1558,5 +1635,6 @@ export const translations = {
     pt: "Sem classificação",
     ru: "Без оценки",
     ka: "შეფასების გარეშე",
+    hu: "Nincs rangsorolás",
   },
 };

@@ -10,6 +10,7 @@ export type LanguagesAvailable =
   | "fa" // Persian
   | "fr" // French
   | "hi" // Hindi
+  | "hu" // Hungarian
   | "it" // Italian
   | "ja" // Japanese
   | "ka" // Georgian
@@ -89,6 +90,11 @@ export const languages: {
     code: "hi",
     countryCode: "in",
     name: "हिन्दी",
+  },
+  {
+    code: "hu",
+    countryCode: "hu",
+    name: "Magyar",
   },
   {
     code: "it",
