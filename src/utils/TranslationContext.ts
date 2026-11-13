@@ -7,7 +7,9 @@ export type LanguagesAvailable =
   | "el" // Greek
   | "en" // English
   | "es" // Spanish
+  | "et" // Estonian
   | "fa" // Persian
+  | "fi" // Finnish
   | "fr" // French
   | "hi" // Hindi
   | "hu" // Hungarian
@@ -77,9 +79,19 @@ export const languages: {
     name: "Español",
   },
   {
+    code: "et",
+    countryCode: "ee",
+    name: "Eesti",
+  },
+  {
     code: "fa",
     countryCode: "ir",
     name: "فارسی",
+  },
+  {
+    code: "fi",
+    countryCode: "fi",
+    name: "Suomi",
   },
   {
     code: "fr",

@@ -425,6 +425,38 @@
     "category": "mainCourses",
     "id": "aglioEOlio",
     "pictures": ["spaghetti_risottatura.jpg"],
+    "fi": {
+      "name": "Aglio e olio",
+      "notes": "Vaatimaton italialainen tekniikka maukkaampaan ja kermaisempaan spagettiin. Todellinen parannus spagetin ystäville, etenkin niille, jotka pitävät valkosipulista. Menetelmää voi soveltaa myös kuumalle pannulle jääneillä lihan tai kalan paistoliemillä.",
+      "ingredients": [
+        "Spagettia",
+        "Oliiviöljyä",
+        "4 valkosipulinkynttä",
+        "Suolaa, pippuria, chiliä maun mukaan"
+      ],
+      "instructions": [
+        "Keitä spagettia suolatussa kiehuvassa vedessä noin kaksi kolmasosaa tavallisesta keittoajasta.",
+        "Kuumenna sillä välin oliiviöljyä keskikorkealla lämmöllä 3–5 kokonaisen valkosipulinkynnen kanssa (kuorittuina tai karkeasti hienonnettuina); valkosipulin pitää sihistä.",
+        "Lisää mausteita maun mukaan – pippuria, chilihiutaleita jne.",
+        "Kun spagetti on 2/3 kypsää, siirrä se kuumalle pannulle ja lisää tarpeen mukaan pieniä kauhallisia keitinvettä, jotta pasta kypsyy loppuun ja muuttuu tärkkelyksen ansiosta kermaisemmaksi. Sekoita säännöllisesti."
+      ]
+    },
+    "et": {
+      "name": "Aglio e olio",
+      "notes": "Lihtne Itaalia tehnika maitsvama ja kreemisema spageti jaoks. Tõeline edasiminek spagetisõpradele, eriti neile, kes armastavad küüslauku. Meetodit saab kohandada ka kuumale pannile jäänud liha- või kalamahladega.",
+      "ingredients": [
+        "Spagetid",
+        "Oliiviõli",
+        "4 küüslauguküünt",
+        "Sool, pipar, tšilli maitse järgi"
+      ],
+      "instructions": [
+        "Keeda spagette soolaga maitsestatud keevas vees umbes kaks kolmandikku tavalisest keetmisajast.",
+        "Samal ajal kuumuta oliiviõli keskmiselt kõrgel kuumusel koos 3–5 terve küüslauguküünega (kooritud või jämedalt hakitud); küüslauk peaks särisema.",
+        "Lisa maitse järgi vürtse – pipart, tšillihelbeid jne.",
+        "Kui spagetid on 2/3 ulatuses keedetud, tõsta need kuumale pannile, lisades vajadusel väikeste kulpide kaupa pastavett, et pasta lõpuni küpseks ja muutuks tärklise tõttu kreemisemaks. Sega regulaarselt."
+      ]
+    },
     "en": {
       "name": "Aglio e olio",
       "notes": "A humble Italian technique for tastier and creamier spaghetti. It's a real upgrade for spaghetti lovers, especially those who enjoy garlic. You can also adapt the method using meat or fish juices left in a hot pan.",
@@ -919,6 +951,48 @@
     "category": "breads",
     "id": "baguette",
     "pictures": ["baguettes.jpg"],
+    "fi": {
+      "name": "Patonki",
+      "notes": "Uskomattoman yksinkertainen, todella edullinen ja työaika on hyvin lyhyt. Taikinan pitää levätä noin kymmenen tuntia, joten se kannattaa valmistaa edellisenä päivänä, jotta aamulla saa nauttia tuoreesta, herkullisesta leivästä. Neljä ainesosaa edustavat neljää elementtiä: jauhot maata, vesi vettä, hiiva ilmaa ja suola tulta. Alkuperäinen resepti puulusikkatekniikalla: https://www.youtube.com/watch?v=Z-husjZkxHw",
+      "ingredients": [
+        "600 g vehnäjauhoja (200 g patonkia kohden)",
+        "480 ml vettä (80 % jauhojen painosta)",
+        "2 g kuivahiivaa",
+        "2 tl suolaa"
+      ],
+      "instructions": [
+        "Laita kaikki ainekset isoon kulhoon.",
+        "Sekoita noin minuutin ajan ison puulusikan varrella, kunnes taikina muodostaa pallon.",
+        "Vinkki: kaavi lusikkaan tarttunut taikina irti pienen lusikan reunalla (katso video).",
+        "Peitä ja anna levätä 8–12 tuntia huoneenlämmössä.",
+        "Jauhota pellille asetettu leivinpaperi runsaasti. Taikina on hyvin vetistä ja tahmeaa, joten se tarvitsee paljon jauhoja, ettei se tartu.",
+        "Jauhota taikina ja siirrä se varovasti leivinpaperille (taikinakaavin toimii hyvin).",
+        "Jaa taikina kolmeen osaan painamatta, jotta ilma säilyy sisällä.",
+        "Muotoile kolme patonkia venyttämällä kutakin osaa käsin yhdellä liikkeellä.",
+        "Paista 25 minuuttia 250 °C:ssa ylä- ja alalämmöllä."
+      ]
+    },
+    "et": {
+      "name": "Prantsuse sai",
+      "notes": "Uskumatult lihtne, tõeliselt odav ja väga lühikese tööajaga. Tainas vajab umbes kümme tundi kerkimist, seega on kõige parem see eelmisel päeval valmis teha, et hommikul värsket ja maitsvat leiba nautida. Neli koostisosa esindavad nelja elementi: jahu maad, vesi vett, pärm õhku ja sool tuld. Originaalretsept puulusika tehnikaga: https://www.youtube.com/watch?v=Z-husjZkxHw",
+      "ingredients": [
+        "600 g nisujahu (200 g ühe saia kohta)",
+        "480 ml vett (80% jahu kaalust)",
+        "2 g kuivpärmi",
+        "2 tl soola"
+      ],
+      "instructions": [
+        "Pane kõik koostisosad suurde kaussi.",
+        "Sega umbes 1 minut suure puulusika varrega, kuni tainas moodustab palli.",
+        "Nõuanne: kaabi lusikale kleepunud tainas väikese lusika servaga maha (vaata videot).",
+        "Kata ja lase toatemperatuuril 8–12 tundi seista.",
+        "Jahuta ahjuplaadile asetatud küpsetuspaber ohtralt. Tainas on väga vesine ja kleepuv, seega vajab see kleepumise vältimiseks palju jahu.",
+        "Jahuta tainas ja tõsta see ettevaatlikult küpsetuspaberile (taignakaabits sobib suurepäraselt).",
+        "Jaga tainas vajutamata kolmeks osaks, et õhk jääks sisse.",
+        "Vormi kolm saia, venitades iga osa kätega ühe liigutusega.",
+        "Küpseta 25 minutit 250 °C juures ülal-all kuumusega."
+      ]
+    },
     "hu": {
       "name": "Baguette",
       "notes": "Hihetetlenül egyszerű, igazán gazdaságos, és a tényleges munkaidő is nagyon rövid. A tésztának körülbelül tíz óra pihenésre van szüksége, ezért érdemes előző nap elkészíteni, hogy reggel friss, finom kenyeret ehessünk. A négy hozzávaló a négy elemet jelképezi: a liszt a földet, a víz a vizet, az élesztő a levegőt, a só pedig a tüzet. Az eredeti recept a fakanalas módszerrel: https://www.youtube.com/watch?v=Z-husjZkxHw",
@@ -1308,6 +1382,106 @@
     "category": "breads",
     "id": "lavashBread",
     "pictures": ["lavash_bread_1.jpg"],
+    "fi": {
+      "name": "Itämainen rieska \"Lavash\"",
+      "notes": "Pannulla paistettava turkkilainen/armenialainen rieska, joka muistuttaa intialaista naania. Resepti Hungry Man Kitchenistä (YouTube).",
+      "ingredients": [
+        "300 g vehnäjauhoja",
+        "200 ml lämmintä vettä",
+        "Kuivahiivaa lepoajan mukaan (1 h => 10 g, 10 h => 2 g)",
+        "2 rkl oliiviöljyä (valinnainen, tekee rakenteesta pehmeämmän)",
+        "1 rkl sokeria",
+        "1 tl suolaa"
+      ],
+      "instructions": [
+        {
+          "part": "Taikinan valmistus – helppo tapa pitkällä lepoajalla",
+          "instructions": [
+            "Sekoita kuivat ainekset kulhossa, lisää vesi ja öljy ja sekoita voimakkaasti 2–3 minuuttia puulusikan varrella.",
+            "Anna levätä vähintään 3–4 tuntia (5 g hiivaa) tai 8–10 tuntia (2 g hiivaa)."
+          ]
+        },
+        {
+          "part": "Taikinan valmistus – vaativampi mutta nopeampi tapa",
+          "instructions": [
+            "Sekoita kulhossa lämmin vesi, sokeri ja hiiva.",
+            "Anna seistä noin 5–10 minuuttia, kunnes seos vaahtoaa (hiivan aktivointi).",
+            "Laita jauhot ja suola isoon kulhoon.",
+            "Kaada joukkoon hiivaseos (ja oliiviöljy, jos käytät).",
+            "Sekoita ja vaivaa 8–10 minuuttia, kunnes taikina on sileää ja kimmoisaa.",
+            "Peitä kulho ja anna taikinan kohota noin tunnin ajan (kunnes se on kaksinkertaistunut)."
+          ]
+        },
+        {
+          "part": "Muotoilu",
+          "instructions": [
+            "Jauhota taikina ja työtaso, litistä taikina ja jaa se 8–10 yhtä suureen palloon.",
+            "Kuumenna paksupohjainen tai valurautainen pannu (keskikorkea lämpö).",
+            "Litistä jokainen taikinapallo käsin tai venyttämällä painovoiman avulla.",
+            "Paista jokaista leipää 1–2 minuuttia kummaltakin puolelta, kunnes se kohoaa ja pintaan tulee kullanruskeita läikkiä.",
+            "Tärkeää: peitä leivät paistamisen jälkeen, jotta ne eivät kuivu."
+          ]
+        },
+        {
+          "part": "Valinnainen valkosipulivoi",
+          "instructions": [
+            "Sulata 30 g voita pannulla miedolla lämmöllä.",
+            "Lisää 3 hienonnettua valkosipulinkynttä ja suolaa ja anna hautua 2–3 minuuttia hyvin miedolla lämmöllä polttamatta.",
+            "Sivele leivät ja ripottele päälle hienonnettua korianteria tai persiljaa."
+          ]
+        }
+      ]
+    },
+    "et": {
+      "name": "Idamaine lameleib \"Lavash\"",
+      "notes": "Pannil küpsetatud Türgi/Armeenia lameleib, sarnane India naaniga. Retsept kanalilt Hungry Man Kitchen (YouTube).",
+      "ingredients": [
+        "300 g nisujahu",
+        "200 ml sooja vett",
+        "Kuivpärmi vastavalt kerkimisajale (1 h => 10 g, 10 h => 2 g)",
+        "2 sl oliiviõli (valikuline, annab pehmema tekstuuri)",
+        "1 sl suhkrut",
+        "1 tl soola"
+      ],
+      "instructions": [
+        {
+          "part": "Taina valmistamine – lihtne meetod pika kerkimisajaga",
+          "instructions": [
+            "Sega kuivained kausis, lisa vesi ja õli ning sega 2–3 minutit jõuliselt puulusika varrega.",
+            "Lase seista vähemalt 3–4 tundi (5 g pärmi) või 8–10 tundi (2 g pärmi)."
+          ]
+        },
+        {
+          "part": "Taina valmistamine – keerulisem, kuid kiirem meetod",
+          "instructions": [
+            "Sega kausis soe vesi suhkru ja pärmiga.",
+            "Lase umbes 5–10 minutit seista, kuni segu vahutab (pärmi aktiveerimine).",
+            "Pane jahu ja sool suurde kaussi.",
+            "Vala juurde pärmisegu (ja soovi korral oliiviõli).",
+            "Sega ja sõtku 8–10 minutit, kuni tainas on sile ja elastne.",
+            "Kata kauss ja lase taignal umbes 1 tund kerkida (kuni see on kahekordistunud)."
+          ]
+        },
+        {
+          "part": "Vormimine",
+          "instructions": [
+            "Jahuta tainas ja tööpind, lapika tainas ning jaga see 8–10 võrdseks palliks.",
+            "Kuumuta paksu põhjaga või malmpann (keskmiselt kõrge kuumus).",
+            "Lapika iga taignapall käega või venitades raskusjõu abil.",
+            "Küpseta iga leiba 1–2 minutit mõlemalt poolt, kuni see paisub ja tekivad kuldsed laigud.",
+            "Tähtis: kata leivad pärast küpsetamist, et need ära ei kuivaks."
+          ]
+        },
+        {
+          "part": "Valikuline küüslauguvõi",
+          "instructions": [
+            "Sulata pannil madalal kuumusel 30 g võid.",
+            "Lisa 3 hakitud küüslauguküünt ja soola ning lase 2–3 minutit väga madalal kuumusel tõmmata, ilma et see kõrbeks.",
+            "Pintselda leivad üle ja puista peale hakitud koriandrit või peterselli."
+          ]
+        }
+      ]
+    },
     "en": {
       "name": "Oriental Flatbread \"Lavash\"",
       "notes": "Turkish/Armenian flatbread cooked in a pan, similar to Indian naan. Recipe from Hungry Man Kitchen (YouTube).",
@@ -2390,6 +2564,98 @@
     "category": "mainCourses",
     "id": "margheritaPizza",
     "pictures": ["pizza_margherita.jpg"],
+    "fi": {
+      "name": "Pizza Margherita",
+      "notes": "Pizzataikina: sama menetelmä kuin leipätaikinassa, mutta 65–75 ml vettä 100 g:aa jauhoja kohden.",
+      "ingredients": [
+        {
+          "part": "Taikina (1 pizzaan)",
+          "ingredients": [
+            "200–250 g vehnäjauhoja",
+            "Vesijohtovettä 65 % jauhojen painosta",
+            "Hieman enemmän hiivaa kuin patonkiin",
+            "Puoli teelusikallista suolaa"
+          ]
+        },
+        {
+          "part": "Täytteet",
+          "ingredients": [
+            "Tomaattikastiketta",
+            "1 mozzarellapallo",
+            "Tuoretta basilikaa",
+            "Oliiviöljyä",
+            "Suolaa, pippuria, yrttejä"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "part": "Taikina",
+          "instructions": [
+            "Sekoita puulusikalla.",
+            "Anna levätä vähintään 5 tuntia."
+          ]
+        },
+        {
+          "part": "Paistaminen",
+          "instructions": [
+            "Esilämmitä uuni maksimilämpötilaan (250 °C tai enemmän, mieluiten 450 °C).",
+            "Venytä taikina käsin jauhotetulle uunipellille.",
+            "Lisää tomaattikastiketta – määrä maun mukaan.",
+            "Mausta suolalla, pippurilla, pizza- tai provencelaisilla yrteillä ja tuoreilla basilikanlehdillä.",
+            "Levitä päälle yksi mozzarellapallo (valuttamatta, jos uunisi lämpenee korkeintaan 250 °C:een), mieluiten isoina paloina, jotta se sulaa hitaasti ruskistumatta.",
+            "Pirskottele päälle oliiviöljyä.",
+            "Paista noin 10 minuuttia, mieluiten alatasolla ja kiertoilmalla, jos mahdollista."
+          ]
+        }
+      ]
+    },
+    "et": {
+      "name": "Pitsa Margherita",
+      "notes": "Pitsatainas: sama meetod nagu leivataina puhul, kuid 65–75 ml vett 100 g jahu kohta.",
+      "ingredients": [
+        {
+          "part": "Tainas (1 pitsa jaoks)",
+          "ingredients": [
+            "200–250 g nisujahu",
+            "Kraanivett 65% jahu kaalust",
+            "Natuke rohkem pärmi kui prantsuse saia jaoks",
+            "Pool teelusikatäit soola"
+          ]
+        },
+        {
+          "part": "Pitsa kate",
+          "ingredients": [
+            "Tomatikaste",
+            "1 mozzarellapall",
+            "Värske basiilik",
+            "Oliiviõli",
+            "Sool, pipar, ürdid"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "part": "Tainas",
+          "instructions": [
+            "Sega puulusikaga.",
+            "Lase seista vähemalt 5 tundi."
+          ]
+        },
+        {
+          "part": "Küpsetamine",
+          "instructions": [
+            "Kuumuta ahi maksimaalse temperatuurini (250 °C või rohkem, ideaalis 450 °C).",
+            "Venita tainas kätega jahusele ahjuplaadile.",
+            "Lisa tomatikastet – kogus maitse järgi.",
+            "Maitsesta soola, pipra, pitsa- või Provence'i ürtide ja värskete basiilikulehtedega.",
+            "Jaota peale üks mozzarellapall (nõrutamata, kui ahi kuumeneb kuni 250 °C), soovitatavalt suurte tükkidena, et see sulaks aeglaselt ilma pruunistumata.",
+            "Nirista peale oliiviõli.",
+            "Küpseta umbes 10 minutit, eelistatavalt alumisel restil ja võimalusel pöördõhuga."
+          ]
+        }
+      ]
+    },
     "hu": {
       "name": "Margherita pizza",
       "notes": "Pizzatészta: ugyanaz az eljárás, mint a kenyértésztánál, de 100 g liszthez 65–75 ml vizet használjon.",
@@ -3125,6 +3391,140 @@
     "category": "mainCourses",
     "id": "pizzaConLePatatineFritte",
     "pictures": ["Pizza_con_le_patatine_fritte.jpg"],
+    "fi": {
+      "name": "Ranskanperunapizza",
+      "notes": "Margherita-pizza ranskanperunoilla – ei kaunein eikä gourmet-tasoa, mutta ehdottomasti yksi parhaista lohturuoista!",
+      "ingredients": [
+        {
+          "part": "Taikina (1 pizzaan)",
+          "ingredients": [
+            "200 g vehnäjauhoja",
+            "150 ml vettä",
+            "3 g kuivahiivaa",
+            "1/2 tl suolaa"
+          ]
+        },
+        {
+          "part": "Ranskanperunat",
+          "ingredients": [
+            "300–400 g pakasteranskanperunoita"
+          ]
+        },
+        {
+          "part": "Pizza",
+          "ingredients": [
+            "Tomaattikastiketta",
+            "1 mozzarellapallo",
+            "Tuoretta basilikaa",
+            "Oliiviöljyä",
+            "Suolaa, pippuria, yrttejä"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "part": "Taikina",
+          "instructions": [
+            "Sekoita kaikki puulusikalla",
+            "Anna levätä vähintään 3 tuntia, yön yli vielä parempi"
+          ]
+        },
+        {
+          "part": "Ranskanperunat",
+          "instructions": [
+            "Paista ranskanperunoita uunissa 2/3 ohjeajasta 250 °C:ssa ylä- ja alalämmöllä",
+            "Ennen kuin ne alkavat ruskistua, ota ne pois ja odota, että uuni saavuttaa maksimilämpötilan, ennen kuin jatkat pizzan paistamista"
+          ]
+        },
+        {
+          "part": "Pizza",
+          "instructions": [
+            "Esilämmitä uuni maksimiin, 250 °C tai enemmän, mieluiten 450 °C",
+            "Levitä ja venytä taikina käsin jauhotetulle uunipellille",
+            "Lisää tomaattikastiketta, määrä maun mukaan",
+            "Mausta suolalla, pippurilla, pizza- tai provencelaisilla yrteillä ja tuoreilla basilikanlehdillä",
+            "Lisää mozzarella (valuttamatta, jos uunisi lämpenee korkeintaan 250 °C:een) melko isoina paloina, jotta se sulaa hitaasti ruskistumatta liikaa",
+            "Pirskottele päälle oliiviöljyä",
+            "Paista 7–9 minuuttia, mieluiten uunin alaosassa kiertoilmalla"
+          ]
+        },
+        {
+          "part": "Viimeistely",
+          "instructions": [
+            "Asettele ranskanperunat pizzan päälle",
+            "Lisää ranskanperunoiden päälle hieman suolaa ja vielä tilkka oliiviöljyä",
+            "Paista vielä 2–3 minuuttia valmiiksi"
+          ]
+        }
+      ]
+    },
+    "et": {
+      "name": "Friikartulitega pitsa",
+      "notes": "Margherita pitsa friikartulitega – mitte kõige ilusam ega gurmeelikum, aga kindlasti üks parimaid lohutustoite!",
+      "ingredients": [
+        {
+          "part": "Tainas (1 pitsa jaoks)",
+          "ingredients": [
+            "200 g nisujahu",
+            "150 ml vett",
+            "3 g kuivpärmi",
+            "1/2 tl soola"
+          ]
+        },
+        {
+          "part": "Friikartulid",
+          "ingredients": [
+            "300–400 g külmutatud friikartuleid"
+          ]
+        },
+        {
+          "part": "Pitsa",
+          "ingredients": [
+            "Tomatikaste",
+            "1 mozzarellapall",
+            "Värske basiilik",
+            "Oliiviõli",
+            "Sool, pipar, ürdid"
+          ]
+        }
+      ],
+      "instructions": [
+        {
+          "part": "Tainas",
+          "instructions": [
+            "Sega kõik puulusikaga",
+            "Lase seista vähemalt 3 tundi, üleöö on veelgi parem"
+          ]
+        },
+        {
+          "part": "Friikartulid",
+          "instructions": [
+            "Küpseta friikartuleid ahjus 2/3 pakendil märgitud ajast 250 °C juures ülal-all kuumusega",
+            "Enne kui need pruunistuma hakkavad, võta need välja ja oota, kuni ahi jõuab maksimaalse temperatuurini, enne kui pitsa küpsetamisega jätkad"
+          ]
+        },
+        {
+          "part": "Pitsa",
+          "instructions": [
+            "Kuumuta ahi maksimumini, 250 °C või rohkem, ideaalis 450 °C",
+            "Laota ja venita tainas kätega jahusele ahjuplaadile",
+            "Lisa tomatikastet, kogus maitse järgi",
+            "Maitsesta soola, pipra, pitsa- või Provence'i ürtide ja värskete basiilikulehtedega",
+            "Lisa mozzarella (nõrutamata, kui ahi kuumeneb kuni 250 °C) üsna suurte tükkidena, et see sulaks aeglaselt ilma liigselt pruunistumata",
+            "Nirista peale oliiviõli",
+            "Küpseta 7–9 minutit, eelistatavalt ahju alumises osas pöördõhuga"
+          ]
+        },
+        {
+          "part": "Lõppküpsetus",
+          "instructions": [
+            "Aseta friikartulid pitsale",
+            "Lisa friikartulitele veidi soola ja veel natuke oliiviõli",
+            "Küpseta veel 2–3 minutit, et küpsetamine lõpetada"
+          ]
+        }
+      ]
+    },
     "hu": {
       "name": "Pizza sült krumplival",
       "notes": "Margherita pizza sült krumplival – nem a legszebb és nem a legínyencebb, de kétségtelenül az egyik legjobb komfortétel!",
@@ -4526,6 +4926,42 @@
     "category": "dips",
     "id": "hummus",
     "pictures": ["hummus_3.jpg", "hummus_1.jpg", "hummus_2.jpg"],
+    "fi": {
+      "name": "Hummus",
+      "notes": "Olen kokeillut monia reseptejä ja tekniikoita. Eräänä päivänä pienessä falafel-ravintolassa Düsseldorfissa, jota pitää tunnettu jordanialainen, maistoin elämäni parhaan hummuksen. Hämmästyneenä aloin jutella kokin kanssa ja melkein putosin tuolilta, kun kuulin, ettei hän käytä hummuksessaan valkosipulia, juustokuminaa eikä oliiviöljyä. Salaisuus on keittää kuivatut kikherneet itse ja tehdä tahini itse. Muita inspiraatioita: https://www.youtube.com/watch?v=NbXC0B83S7k",
+      "ingredients": [
+        "500 g keitettyjä ja valutettuja kikherneitä",
+        "100 g tahinia",
+        "1 sitruunan mehu (60 ml)",
+        "Jääkylmää vettä",
+        "Suolaa"
+      ],
+      "instructions": [
+        "Poista kikherneiden kuoret (sileämmän koostumuksen saamiseksi)",
+        "Sekoita tahini sitruunamehun ja suolan kanssa",
+        "Soseuta kaikki yhdessä ja lisää jääkylmää vettä, kunnes koostumus on halutunlainen",
+        "Anna levätä jääkaapissa muutama minuutti; seuraavana päivänä se on vielä parempaa",
+        "Tarjoile oliiviöljyn ja mausteiden kera (pippuri, juustokumina, paprika, sumakki)"
+      ]
+    },
+    "et": {
+      "name": "Hummus",
+      "notes": "Olen proovinud palju retsepte ja tehnikaid. Ühel päeval maitsesin Düsseldorfis väikeses falafelirestoranis, mida peab tuntud jordaanlane, oma elu parimat hummust. Šokeeritult hakkasin kokaga rääkima ja kukkusin peaaegu toolilt, kui sain teada, et ta ei kasuta oma hummuses ei küüslauku, köömneid ega oliiviõli. Saladus on keeta kuivatatud kikerherned ise ja teha tahini ise. Muud inspiratsioonid: https://www.youtube.com/watch?v=NbXC0B83S7k",
+      "ingredients": [
+        "500 g keedetud ja nõrutatud kikerherneid",
+        "100 g tahinit",
+        "1 sidruni mahl (60 ml)",
+        "Jääkülma vett",
+        "Soola"
+      ],
+      "instructions": [
+        "Eemalda kikerhernestelt koored (siledama tekstuuri jaoks)",
+        "Sega tahini sidrunimahla ja soolaga",
+        "Püreesta kõik koos, lisades jääkülma vett, kuni saavutad soovitud tekstuuri",
+        "Lase paar minutit külmkapis seista; järgmisel päeval on see veelgi parem",
+        "Serveeri oliiviõli ja vürtsidega (pipar, köömned, paprika, sumahh)"
+      ]
+    },
     "hu": {
       "name": "Humusz",
       "notes": "Sok receptet és technikát kipróbáltam. Egy nap egy ismert jordániai által vezetett kis düsseldorfi falafelétteremben életem legjobb humuszát kóstoltam. Megdöbbenve beszélgetni kezdtem a séffel, és majdnem leestem a székről, amikor kiderült, hogy sem fokhagymát, sem római köményt, sem olívaolajat nem használ a humuszához. A titok az, hogy a száraz csicseriborsót magunk főzzük meg, és a tahinit is magunk készítjük. További inspiráció: https://www.youtube.com/watch?v=NbXC0B83S7k",
@@ -4861,6 +5297,44 @@
     "category": "dips",
     "id": "garlicMayonnaise",
     "pictures": ["garlic_mayonnaise.jpg"],
+    "fi": {
+      "name": "Valkosipulimajoneesi",
+      "notes": "Parempaa kuin tavallinen majoneesi ja parempaa kuin aioli – valkosipulimajoneesi on makuorgasmi. Yhdestä keltuaisesta tulee kerralla iso määrä majoneesia; se säilyy jääkaapissa 2 päivää. Etchebestin klassinen majoneesiresepti: https://www.youtube.com/watch?v=DKXoha0_Mbk",
+      "ingredients": [
+        "1 tuore kananmunan keltuainen",
+        "1 tl Dijon-sinappia",
+        "1 tl väkiviinaetikkaa (tai sitruunamehua)",
+        "Suolaa",
+        "Pippuria (valinnainen)",
+        "200 ml mautonta öljyä",
+        "6 valkosipulinkynttä hienoksi hienonnettuna"
+      ],
+      "instructions": [
+        "Kuullota hienonnettua valkosipulia pienessä kattilassa 50 ml:ssa öljyä miedolla lämmöllä noin 3 minuuttia ruskistamatta (tarkoitus: poistaa kitkeryys säilyttäen aromi).",
+        "Laita keltuainen, sinappi, etikka, suola ja pippuri kulhoon.",
+        "Vatkaa joukkoon hitaasti 150 ml öljyä koko ajan sekoittaen.",
+        "Lisää lämmin valkosipuliöljy, viimeistele emulsio, ja majoneesi on valmis."
+      ]
+    },
+    "et": {
+      "name": "Küüslaugumajonees",
+      "notes": "Parem kui klassikaline majonees ja parem kui aioli – küüslaugumajonees on maitseorgasm. Ühest munakollasest saab korraga suure koguse majoneesi; külmkapis säilib see 2 päeva. Etchebesti klassikaline majoneesiretsept: https://www.youtube.com/watch?v=DKXoha0_Mbk",
+      "ingredients": [
+        "1 värske munakollane",
+        "1 tl Dijoni sinepit",
+        "1 tl valget äädikat (või sidrunimahla)",
+        "Soola",
+        "Pipart (valikuline)",
+        "200 ml neutraalset õli",
+        "6 küüslauguküünt, peeneks hakitud"
+      ],
+      "instructions": [
+        "Hauta hakitud küüslauku väikeses potis 50 ml õlis madalal kuumusel umbes 3 minutit, laskmata sel pruunistuda (eesmärk: eemaldada mõrkjus, säilitades aroomi).",
+        "Pane munakollane, sinep, äädikas, sool ja pipar kaussi.",
+        "Klopi aeglaselt juurde 150 ml õli, segades pidevalt.",
+        "Lisa soe küüslauguõli, vii emulsioon lõpuni ja majonees on valmis."
+      ]
+    },
     "en": {
       "name": "Garlic Mayonnaise",
       "notes": "Better than classic mayonnaise and better than aioli — garlic mayo is a taste orgasm. One egg yolk makes a large amount of mayo at once; it keeps for 2 days in the fridge. Classic mayonnaise recipe by Etchebest: https://www.youtube.com/watch?v=DKXoha0_Mbk",
